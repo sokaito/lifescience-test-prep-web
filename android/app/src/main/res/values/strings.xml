@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">LifeSci Prep</string>
+    <string name="title_activity_main">LifeSci Prep</string>
+    <string name="package_name">com.lifesciprep.app</string>
+    <string name="custom_url_scheme">com.lifesciprep.app</string>
+    <string name="server_client_id">1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com</string>
+</resources>

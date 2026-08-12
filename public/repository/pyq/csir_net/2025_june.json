@@ -1,0 +1,2063 @@
+[
+  {
+    "id": 1,
+    "section": "A",
+    "question": "If a map is placed in such a manner that east becomes southeast, then what will northeast become?",
+    "options": [
+      "North",
+      "East",
+      "West",
+      "South"
+    ],
+    "correct_answer": "East",
+    "explanation": "[CONCEPT]\nRotating the map so that east → southeast means a 45° clockwise rotation. Apply the same rotation to northeast (which\n\nis 45° above east): it also shifts 45° clockwise, landing on east."
+  },
+  {
+    "id": 2,
+    "section": "A",
+    "question": "3√0.99 is closest to",
+    "options": [
+      "0.33",
+      "0.14",
+      "0.99",
+      "0.45"
+    ],
+    "correct_answer": "0.99",
+    "explanation": "[CONCEPT]\nExplanation: \n√0.99"
+  },
+  {
+    "id": 3,
+    "section": "A",
+    "question": "A quick approximation: \n(1 - 0.01)1/3 ≈ 1 -\n0.01\n3 = 0.9967  \nThis is closest to 0.99 among the options. \n \n3. A 2 cm wide wooden strip is to be fixed on a photo of 40 cm x 30 cm size all along its four sides. What is the minimum \nlength of the wooden strip required?",
+    "options": [
+      "124 cm",
+      "128 cm",
+      "132 cm",
+      "140 cm"
+    ],
+    "correct_answer": "132 cm",
+    "explanation": "[CONCEPT]\nThe wooden strip will run along the perimeter of the rectangle:\n\nBut we also need 2 cm at each corner twice (8 cm total) to cover joints:\n\n[STEPS]\nStep 1: Perimeter\n=2×(40+30)=2×70=140 cm\n\nStep 2: Calculation step\nSince the strip is 2 cm wide, it fits inside the photo, reducing each dimension by 2+2=4 cm:\n\nStep 3: New dimensions\n= (40−4)×(30−4)=36×26 cm.\n\nStep 4: Perimeter\n= 2×(36+26)=2×62=124 cm\n\nStep 5: Calculation step\n124+8=132 cm."
+  },
+  {
+    "id": 4,
+    "section": "A",
+    "question": "A block of marble 5 m x 4m x 2 m in size is cut into rectangular tiles of 1 m x 0.5 m size having thickness of 10 cm.\nAssuming 10% wastage in cutting, how many tiles will be made?",
+    "options": [
+      "240",
+      "360",
+      "480",
+      "720"
+    ],
+    "correct_answer": "720",
+    "explanation": "[STEPS]\nStep 1: Block volume\n= 5 × 4 × 2 = 40 m3.\n\nStep 2: Tile volume\n= 1 × 0.5 × 0.1 = 0.05 m3.\n\nStep 3: Calculation step\nWith 10% wastage, usable volume = 0.9 × 40 = 36 m3.\n\nStep 4: Number of tiles\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">= 36</span><span>0.05 = 720.</span></div></div>"
+  },
+  {
+    "id": 5,
+    "section": "A",
+    "question": "A pilgrim starts walking for a journey of 115 km. On the first day he covers 7 km, the next day 9 km, and likewise keeps\nadding 2 km everyday till he reaches 15 km per day which he maintains for the rest of the journey. How many days in all\nwill he take to complete the journey?\n1.7\n2.8\n3.9\n4.10",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "C",
+    "explanation": "[CONCEPT]\nHe walks in an arithmetic progression from 7 km to 15 km increasing by 2 km/day:\n\n[STEPS]\nStep 1: Remaining distance\n: 115−55=60 km.\n\nStep 2: Calculation step\nAt 15 km/day, days needed = 60/15=4\n\nStep 3: Total days\n= 5+4=95 + 4 = 95+4=9."
+  },
+  {
+    "id": 6,
+    "section": "A",
+    "question": "The population of a town over the years 2000-2007 is shown in the given figure.\nIt can be inferred that during 2000-2007,",
+    "options": [
+      "the population increased linearly",
+      "the rate of increase of the population increased linearly",
+      "the rate of increase of the rate of increase of the population increased linearly",
+      "the population increased exponentially"
+    ],
+    "correct_answer": "the rate of increase of the population increased linearly",
+    "explanation": "[CONCEPT]\nFrom the graph, the yearly population increments are:\n\nThe increase each year is itself rising by a constant difference of +800, showing that the rate of increase of the\n\n[GIVEN]\n• 2000→2001: +400\n• 2001→2002: +1200\n• 2002→2003: +2000\n• 2003→2004: +2800\n• 2004→2005: +3600\n• 2005→2006: +4400\n• 2006→2007: +5200"
+  },
+  {
+    "id": 7,
+    "section": "A",
+    "question": "The areas (in km²) under forests in four countries A, B, C and D for the years 2014 and 2024 are shown in the given bar\nchart:\nThe minimum percentage of deforestation during 2014-2024 was in country",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "D",
+    "explanation": "[CONCEPT]\nTo find the minimum percentage deforestation:\n\n𝐃 has the smallest percentage loss, so the correct answer is 𝟒.\n\n[STEPS]\nStep 1: Calculation step\n200 × 100 = 25%\n\nStep 2: Calculation step\n400 × 100 = 17.5%\n\nStep 3: Calculation step\n150 × 100 = 20%"
+  },
+  {
+    "id": 8,
+    "section": "A",
+    "question": "Average age of 20 students of a class is 10 years. Average age of these students together with their five teachers is 14.\nThe age of Ramesh Sir, one of their five teachers, is exactly the same as the average age of all their five teachers. The sum\nof the ages (in years) of all the students and Ramesh Sir is",
+    "options": [
+      "214",
+      "224",
+      "230",
+      "241"
+    ],
+    "correct_answer": "224",
+    "explanation": "[STEPS]\nStep 1: Students\n: 20×10=200\n\nStep 2: Calculation step\nAll (20 students + 5 teachers): 25×14=350\n\nStep 3: Calculation step\nTeachers’ total: 350−200=150\n\nStep 4: Calculation step\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">⇒ teachers’ average =150</span><span>5=30</span></div></div>\n\nStep 5: Calculation step\nRamesh Sir’s age =30\n\nStep 6: Calculation step\nSum of ages of all students + Ramesh = 200+30=230"
+  },
+  {
+    "id": 9,
+    "section": "A",
+    "question": "What is the remainder when 20232024 +  20252024 is divided by 2024?\n4.2023",
+    "options": [
+      "0",
+      "2",
+      "223"
+    ],
+    "correct_answer": "2",
+    "explanation": "[STEPS]\nStep 1: Since\n2024= 8 × 253, use Chinese Remainder Theorem.\n\nStep 2: Calculation step\n2023≡ 7 ≡ −1(mod8) ⇒ (−1)2024 = 1\n\nStep 3: Calculation step\n2025 ≡ 1(mod8) ⇒ 12024 = 1\n\nStep 4: Sum\n≡ 1 + 1 = 2(mod8)\n\nStep 5: Calculation step\n2023≡ 0(mod253)? Check: 253 × 8 = 2024⇒ 2023≡ −1(mod253) 2025 ≡ 1(mod253)\n\nStep 6: So same as before\n: (−1)2024 = 1, 12024 = 1 ⇒ sum ≡ 2(mod253)\n\nStep 7: Calculation step\nSince remainder is 2 in both moduli, answer = 2."
+  },
+  {
+    "id": 10,
+    "section": "A",
+    "question": "A fresh water tap fills a fish tank in 40 minutes. The same tank is filled by a salt water tap in 120 minut es. If both the\ntaps are open, how many minutes will it take to fill the tank?",
+    "options": [
+      "45 minutes",
+      "30 minutes",
+      "25 minutes",
+      "20 minutes"
+    ],
+    "correct_answer": "30 minutes",
+    "explanation": "[STEPS]\nStep 1: Calculation step\n120 =\n\nStep 2: Calculation step\n120 =\n\nStep 3: Calculation step\n120 =\n\nStep 4: Calculation step\n= 30 minutes."
+  },
+  {
+    "id": 11,
+    "section": "A",
+    "question": "If any 9 papers are drawn from a both side printed book, the sum of their page numbers can NEVER be …………",
+    "options": [
+      "9×(9+1)\n2",
+      "divisible by 3",
+      "179",
+      "171"
+    ],
+    "correct_answer": "9×(9+1)\n2",
+    "explanation": "[CONCEPT]\nRemoving 9 papers (leaves) removes 18 pages, and each paper contributes the sum of two consecutive pages (an odd\n\ncan’t remove single pages without their back sides. Hence, option 1 can never occur.\n\n[STEPS]\nStep 1: Calculation step\nnumber). Totals like 171 or 179 (odd) are possible. But (9×10)/2=45 is the sum of pages 1–9 only—impossible, since you"
+  },
+  {
+    "id": 12,
+    "section": "A",
+    "question": "The sixth largest three-digit odd number among those with all digits distinct is",
+    "options": [
+      "989",
+      "987",
+      "973",
+      "971"
+    ],
+    "correct_answer": "973",
+    "explanation": "[CONCEPT]\nList the largest 3-digit odd numbers with distinct digits in descending order: 987 (#1), 985 (#2), 983 (#3), 981 (#4), 975 (#5), \n973 (#6). Hence, the sixth largest is 973."
+  },
+  {
+    "id": 13,
+    "section": "A",
+    "question": "\"Amit is a businessman, so he must be rich\". From which of the following statements does the implication follow?",
+    "options": [
+      "Only businessmen are rich",
+      "If one is not a businessman, he cannot be rich",
+      "All businessmen are rich",
+      "Some businessmen are rich"
+    ],
+    "correct_answer": "All businessmen are rich",
+    "explanation": "[CONCEPT]\nThe statement “Amit is a businessman, so he must be rich” implies that being a businessman is sufficient to be rich. This\n\nmatches the universal statement “All businessmen are rich” — if Amit is a businessman, he falls in that category, so he"
+  },
+  {
+    "id": 14,
+    "section": "A",
+    "question": "Which of the following is true?",
+    "options": [
+      "𝜋𝜋𝜋\n< 𝑒𝑒𝑒\n< 333",
+      "𝜋𝜋𝜋\n< 333\n< 𝑒𝑒𝑒",
+      "333\n< 𝑒𝑒𝑒\n< 𝜋𝜋𝜋",
+      "𝑒𝑒𝑒\n< 333\n< 𝜋𝜋𝜋"
+    ],
+    "correct_answer": "𝑒𝑒𝑒\n< 333\n< 𝜋𝜋𝜋",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "section": "A",
+    "question": "If there is rainfall in a village, flowers will bloom. If flowers bloom, celebrations will definitely take place. Flowers d id\nnot bloom. Which of the following is certain?",
+    "options": [
+      "Celebrations took place",
+      "Celebrations did not take place",
+      "It did not rain",
+      "It rained too much"
+    ],
+    "correct_answer": "It did not rain",
+    "explanation": "[CONCEPT]\nRain → Flowers; Flowers → Celebrations.\n\nGiven no flowers, by contrapositive of the first implication, it did not rain. (No definite conclusion about celebrations from"
+  },
+  {
+    "id": 16,
+    "section": "A",
+    "question": "MAN is to CROWD is as TREE is to",
+    "options": [
+      "FOREST",
+      "FRUIT",
+      "BRANCH",
+      "ROOT"
+    ],
+    "correct_answer": "FOREST",
+    "explanation": "[CONCEPT]\nA crowd is a group of many men/people; a forest is a group of many trees."
+  },
+  {
+    "id": 17,
+    "section": "A",
+    "question": "On a spherical balloon of 10 cm radius, a circular colour patch has an area of 25 cm². If the balloon is uniformly\nexpanded to a sphere of 50 cm radius, the area of the colour patch in cm² would be",
+    "options": [
+      "125",
+      "625",
+      "50",
+      "500"
+    ],
+    "correct_answer": "625",
+    "explanation": "[CONCEPT]\nWhen the sphere's radius increases from 101010 cm to 505050 cm, the linear scale factor is:\n\nSurface areas scale with the square of the linear scale factor:\n\nSo, the colour patch’s area becomes 625 cm².\n\n[STEPS]\nStep 1: Scale factor\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">=50</span><span>10=5</span></div></div>\n\nStep 2: New area\n=25×(5)2=25×25=625 cm2"
+  },
+  {
+    "id": 18,
+    "section": "A",
+    "question": "A man on a cycle is travelling on a terrain whose height (h) vs distance (d) can be described by a function 10𝑑4 -  5𝑑2\nin a certain unit (h can be negative). Starting at d = 0 the cycle will have the maximum velocity without pedaling at:",
+    "options": [
+      "d = 1/2",
+      "d = 2",
+      "d = 1",
+      "d = √ 2"
+    ],
+    "correct_answer": "d = 1/2",
+    "explanation": "[CONCEPT]\n2 if going left). Hence the maximum velocity\n\n[STEPS]\nStep 1: Without pedalling, speed is maximal at the minimum of height\nℎ(𝑑) = 10𝑑4 − 5𝑑2.\n\nStep 2: Calculation step\nℎ′(𝑑) = 40𝑑3 − 10𝑑 = 10𝑑(4𝑑2 − 1) = 0 ⇒ 𝑑 = 0, ±\n\nStep 3: Calculation step\nℎ′′(𝑑) = 120𝑑2 − 10; ℎ′′(0) = −10(< 0)(max), ℎ′′ (±\n\nStep 4: Calculation step\n2) = 20(> 0)(mins)\n\nStep 5: Starting at\n𝑑 = 0, the cyclist rolls to the nearest minimum at 𝑑 ="
+  },
+  {
+    "id": 19,
+    "section": "A",
+    "question": "In a box there are 4 white balls and 6 black balls. A ball is drawn at random. If it is white, it is put back along with two\nmore white balls in the box. If it is black, it is put back in the box and then two black balls are thrown out of the box. Now\na ball is drawn again at random from the box. Then, what is the probability that is black?\n(",
+    "options": [
+      "1/2 \n(",
+      "1/3 \n(",
+      "1/4 \n(",
+      "1/5"
+    ],
+    "correct_answer": "1/2 \n(",
+    "explanation": "[CONCEPT]\nCase 1: First draw is white (probability 4/10 )\n\nCase 2: First draw is black (probability 6/10 )\n\nTotal probability of black in second draw:\n\n[GIVEN]\n• Replace it and add 2 more white → now 6W, 6B (total 12).\n• Probability of black in second draw = 6/12 = 1/2.\n• Replace it and remove 2 black balls → now 4W, 4B (total 8).\n• Probability of black in second draw = 4/8 = 1/2.\n\n[STEPS]\nStep 1: Calculation step\nInitially: 4 white (W),6 black (B) → total = 10 balls.\n\nStep 2: Contribution\n= (4/10) × (1/2) = 4/20.\n\nStep 3: Contribution\n= (6/10) × (1/2) = 6/20."
+  },
+  {
+    "id": 20,
+    "section": "A",
+    "question": "+\n6\n20 =\n10\n20 =",
+    "options": [
+      "2  \nSo the probability is 1/",
+      "",
+      "lower",
+      "higher or lower depending on the surface area of the ball."
+    ],
+    "correct_answer": "",
+    "explanation": "[CONCEPT]\nto its total weight. The mug + ball displaces water equal to their combined weight. Since iron is dense, to\n\nbalance its weight the mug must displace more water than the volume of the ball.\n\ndisplaces water equal to its own volume, which is less than the volume of water displaced when it’s in the\n\nSince the density of the iron ball is greater than the density of water, its weight is greater than the weight of an equivalent\n\nvolume of water. In other words, for the iron ball to sink, its weight must be greater than the weight of the water it\n\nBecause the iron ball displaces more water by weight when it's floating in the mug (due to the combined weight of the\n\nmug and the ball), compared to when it's sunk and displacing only its own volume of water, the water level will be higher\n\n[GIVEN]\n• Ball in the mug (floating): The mug is floating, meaning the buoyant force acting on it (and its contents) is equal\n• Ball in water (sinking): When an object sinks, it displaces a volume of water equal to its own volume. The ball"
+  },
+  {
+    "id": 21,
+    "section": "B",
+    "question": "Which one of the following is the correct arrangement of amino acid dipeptides in  increasing order of the area of\nallowed regions in the Ramachandran map?",
+    "options": [
+      "Gly-Gly< Pro-Pro < Ala-Ala ~ Phe-Phe",
+      "Phe-Phe < Ala-Ala < Pro-Pro Gly-Gly",
+      "Pro-Pro < Phe-Phe <Ala-Ala < Gly-Gly",
+      "Ala-Ala < Phe-Phe < Gly-Gly < Pro-Pro"
+    ],
+    "correct_answer": "Pro-Pro < Phe-Phe <Ala-Ala < Gly-Gly",
+    "explanation": "[CONCEPT]\nThe Ramachandran plot shows sterically allowed φ -ψ angles for amino acids. Proline is highly restricted due to its cyclic\n\nstructure, allowing minimal conformational space. Phenylalanine and Alanine have moderate flexibility, while Glycine,\n\nlacking a side chain, is the most flexible with the largest allowed region."
+  },
+  {
+    "id": 22,
+    "section": "B",
+    "question": "In the catalytic triad of trypsin protease, serine forms a hydrogen bond with the histidine side chain. What will be the\neffect of this interaction on the pKa of the serine side chain?",
+    "options": [
+      "The pKa decreases because the hydrogen bonding with histidine stabilises serine side chain's protonated state.",
+      "The pKa increases because the hydrogen bonding with histidine stabilises serine side chain's deprotonated state.",
+      "The pKa decreases because the hydrogen bonding with histidine stabilises serine side chain's deprotonated state.",
+      "The pKa increases because the hydrogen bonding with histidine stabilises serine side chain's protonated state."
+    ],
+    "correct_answer": "The pKa decreases because the hydrogen bonding with histidine stabilises serine side chain's deprotonated state.",
+    "explanation": "[CONCEPT]\nIn the trypsin catalytic triad, histidine acts as a base and accepts a proton from serine. This interaction stabilizes the \ndeprotonated (alkoxide) form of serine, making it easier for serine to lose its proton, thereby lowering its pKa."
+  },
+  {
+    "id": 23,
+    "section": "B",
+    "question": "The reactions of the urea cycle occur in two different cellular compartments and generate the following intermediates.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Arginino-succinate</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Citrulline</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Ornithine</span></div></div>\nWhich intermediate(s) must be transported across the mitochondrial inner membrane?",
+    "options": [
+      "A and B",
+      "B and C",
+      "A and C",
+      "A only"
+    ],
+    "correct_answer": "B and C",
+    "explanation": "[CONCEPT]\nThe urea cycle occurs partly in the mitochondria and partly in the cytosol.\n\n[GIVEN]\n• Citrulline is synthesized in the mitochondria and must be transported to the cytosol.\n• Ornithine is regenerated in the cytosol and must be transported back into the mitochondria.\n\n[INTERPRETATION]\nThus, both citrulline and ornithine cross the mitochondrial inner membrane."
+  },
+  {
+    "id": 24,
+    "section": "B",
+    "question": "Which of the following chemical modifications of uridine residue occur after transcription of tRNA?",
+    "options": [
+      "Ribothymidine and N3-methyluridine",
+      "Ribothymidine and pseudouridine",
+      "N3-methyluridine and pseudouridine",
+      "Pseudouridine and N1-Methylpseudouridine"
+    ],
+    "correct_answer": "Ribothymidine and N3-methyluridine",
+    "explanation": "[CONCEPT]\nAfter transcription, tRNA undergoes extensive post -transcriptional modifications to stabilize its structure and enhance\n\nfunction. Uridine residues in tRNA can be chemically modified into ribothymidine (T), where uridine is methylated at the\n\n5-position, and N3-methyluridine, where a methyl group is added to the nitrogen at position 3 of uridine. These\n\nmodifications are important for proper folding of tRNA, accurate codon –anticodon pairing during translation , and"
+  },
+  {
+    "id": 25,
+    "section": "B",
+    "question": "The activation of Cdk2 in vertebrates is dependent on",
+    "options": [
+      "dissociation of the inhibitory subunit",
+      "association with cyclin A",
+      "inactivation of CAK",
+      "activity of Wee1 kinase"
+    ],
+    "correct_answer": "association with cyclin A",
+    "explanation": "[CONCEPT]\nCdk2 (Cyclin-dependent kinase 2) becomes active only upon binding to a specific cyclin, primarily cyclin A during S phase. \nThis association induces conformational changes that allow phosphorylation by CAK, completing activation."
+  },
+  {
+    "id": 26,
+    "section": "B",
+    "question": "Which one of the following options best represents cholesterol distribution as a  percentage of total membrane lipid\nin a typical animal cell?",
+    "options": [
+      "lysosomal membrane > smooth ER > plasma membrane > inner mitochondrial membrane",
+      "smooth ER > plasma membrane > lysosomal membrane > inner mitochondrial membrane",
+      "plasma membrane > lysosomal membrane > smooth ER > inner mitochondrial membrane",
+      "plasma membrane > inner mitochondrial membrane > smooth ER > lysosomal membrane"
+    ],
+    "correct_answer": "plasma membrane > lysosomal membrane > smooth ER > inner mitochondrial membrane",
+    "explanation": "[CONCEPT]\nCholesterol is most abundant in the plasma membrane, providing rigidity and fluidity control. It is present in moderate\n\namounts in the lysosomal membrane and smooth ER, and is very low in the inner mitochondrial membrane , which\n\nmaintains high fluidity for electron transport. ER is the site of cholesterol synthesis but maintains low levels to allow\n\nmembrane flexibility for protein synthesis and lipid metabolism."
+  },
+  {
+    "id": 27,
+    "section": "B",
+    "question": "Which one of the following features differentiates bacteria from archaea?",
+    "options": [
+      "Presence of a cell wall made up of peptidoglycan",
+      "Absence of a nuclear membrane",
+      "Presence of a single circular chromosome",
+      "Presence of multi-cistronic operons"
+    ],
+    "correct_answer": "Presence of a cell wall made up of peptidoglycan",
+    "explanation": "[CONCEPT]\nPeptidoglycan cell walls are unique to bacteria.  Archaea lack peptidoglycan and instead may have pseudopeptidoglycan\n\nor other polymers. The other features listed (no nuclear membrane, circular chromosome, operons) are shared by both"
+  },
+  {
+    "id": 28,
+    "section": "B",
+    "question": "All of the following are covered by lipid monolayers, EXCEPT",
+    "options": [
+      "lipid droplet",
+      "very low-density lipoprotein",
+      "endocytic vesicles",
+      "chylomicrons"
+    ],
+    "correct_answer": "endocytic vesicles",
+    "explanation": "[CONCEPT]\nLipid droplets, VLDL, and chylomicrons have a hydrophobic core surrounded by a phospholipid monolayer, as their\n\ncontents are insoluble in water and do not require a bilayer. Endocytic vesicles, however, are typical bilayer membrane-\n\nbound structures enclosed by a phospholipid bilayer, similar to other cellular organelles."
+  },
+  {
+    "id": 29,
+    "section": "B",
+    "question": "Which one of the following enzymes can unwind short stretches of DNA helix immediately ahead of a replication fork?",
+    "options": [
+      "Helicase",
+      "Topoisomerase",
+      "DNA polymerase",
+      "DNA gyrase"
+    ],
+    "correct_answer": "Helicase",
+    "explanation": "[CONCEPT]\nHelicase is the enzyme that unwinds short stretches of the DNA double helix  immediately ahead of the replication fork\n\nby breaking the hydrogen bonds between the complementary strands. While topoisomerase and DNA gyrase relieve\n\nsupercoiling and torsional stress further ahead of the fork, they do not directly separate the two strands like helicase does."
+  },
+  {
+    "id": 30,
+    "section": "B",
+    "question": "Which one of the following statements depicts the correct function of TFIIB?",
+    "options": [
+      "It binds to the TATA box and helps in the proper positioning of RNA pol II.",
+      "It plays an important role in the elongation phase of transcription.",
+      "It forms the transcription initiation complex by interacting with RNA pol II and TBP.",
+      "It acts as a coactivator that facilitates the binding of enhancers to the promoter."
+    ],
+    "correct_answer": "It forms the transcription initiation complex by interacting with RNA pol II and TBP.",
+    "explanation": "[CONCEPT]\nTFIIB is a general transcription factor that binds to TBP (TATA-binding protein) and helps recruit RNA polymerase II , \nfacilitating formation of the transcription pre-initiation complex and correct start site selection."
+  },
+  {
+    "id": 31,
+    "section": "B",
+    "question": "Ribosomes attach to the endoplasmic reticulum via",
+    "options": [
+      "differing surface ribosomal protein composition that allow it to interact with polar headgroups on the ER lipid bilayer.",
+      "5'UTR of mRNA being translated that directs the localization of the ribosomes to the ER.",
+      "the translated nascent chain which carries a signal allowing interaction with SRP- receptor on the ER.",
+      "tethered mRNAs that interact with rRNA."
+    ],
+    "correct_answer": "the translated nascent chain which carries a signal allowing interaction with SRP- receptor on the ER.",
+    "explanation": "[CONCEPT]\nRibosomes are targeted to the rough ER  by a signal sequence  on the nascent polypeptide chain . This sequence is\n\nrecognized by the signal recognition particle (SRP), which directs the ribosome to the SRP receptor on the ER membrane,\n\nallowing co-translational translocation."
+  },
+  {
+    "id": 32,
+    "section": "B",
+    "question": "If 19% of the nucleotides in a genome are \"A\", what percent are \"C\", \"G\", and \"T\"?",
+    "options": [
+      "C=31%, G = 31%, and T = 19%",
+      "C = 19%, G = 19%, and T = 31%",
+      "C = 31%, G = 19%, and T = 31%",
+      "C = 19%, G =31%, and T = 31%"
+    ],
+    "correct_answer": "C=31%, G = 31%, and T = 19%",
+    "explanation": "[STEPS]\nStep 1: If A\n= 19%, then T = 19%\n\nStep 2: Calculation step\nTotal A + T = 38%, so C + G = 62%, and since C = G, → C = G = 31%."
+  },
+  {
+    "id": 33,
+    "section": "B",
+    "question": "Which one of the following phytopathogenic bacteria is predominantly transmitted through insects?",
+    "options": [
+      "Xanthomonas oryzae",
+      "Ralstonia solanacearum",
+      "Xylella fastidiosa",
+      "Pseudomonas syringae"
+    ],
+    "correct_answer": "Xylella fastidiosa",
+    "explanation": "[CONCEPT]\nXylella fastidiosa  is a xylem-limited phytopathogenic bacterium transmitted primarily by xylem-feeding insects  like\n\nsharpshooters and spittlebugs. The other listed bacteria are typically spread through soil, water, or mechanical means,"
+  },
+  {
+    "id": 34,
+    "section": "B",
+    "question": "The heterotrimeric G-protein signaling component that is uniquely present in the plant lineage is",
+    "options": [
+      "GTPase-accelerating protein",
+      "G-protein-coupled receptor",
+      "regulator of G-protein signaling",
+      "extra-large Gα subunit"
+    ],
+    "correct_answer": "extra-large Gα subunit",
+    "explanation": "[CONCEPT]\nPlants possess a unique G-protein signaling component called the extra-large Gα subunit (XLG), which combines features\n\nof both Gα proteins and other signaling domains. This plant-specific innovation plays roles in development and stress\n\nresponses, and is not found in animals or fungi."
+  },
+  {
+    "id": 35,
+    "section": "B",
+    "question": "Which one of the following statements about glycosaminoglycans (GAGs) is INCORRECT?\n1.GAGS are distinguished by their sugars, the type of linkage between the sugars, and the number and location of sulphate\ngroups.",
+    "options": [
+      "They are one of the most anionic molecules made by animal cells.",
+      "They are branched polysaccharides, usually made up of repeating units of a sulphated amino sugar and a uronic acid.",
+      "Severe loss of GAGs can lead to premature aging."
+    ],
+    "correct_answer": "Severe loss of GAGs can lead to premature aging.",
+    "explanation": "[CONCEPT]\nGlycosaminoglycans (GAGs) are linear, unbranched polysaccharides composed of repeating disaccharide units, typically\n\ncontaining a sulphated amino sugar (like N-acetylglucosamine or N-acetylgalactosamine) and a uronic acid. They are highly\n\nanionic due to sulphate and carboxyl groups, contributing to the ir structural and functional roles in the extracellular"
+  },
+  {
+    "id": 36,
+    "section": "B",
+    "question": "Which one of the following statements about human papillomavirus is correct?",
+    "options": [
+      "The viral structural protein-encoding genes occasionally integrate into the host genome, leading to cervical cancer.",
+      "The viral protein E7 promotes Rb binding to the E2F, which allows uncontrolled entry into the S Phase of the cell cycle.",
+      "The viral protein E6 binds to p53 and prevents its degradation.",
+      "They infect cervical epithelial cells and maintain themselves in a latent phase as extrachromosomal plasmids."
+    ],
+    "correct_answer": "They infect cervical epithelial cells and maintain themselves in a latent phase as extrachromosomal plasmids.",
+    "explanation": "[CONCEPT]\nHPV maintains its genome as an episome (extrachromosomal plasmid)  during latency in cervical epithelial cells. This\n\nallows persistent infection without integration. Integration and expression of E6 and E7 (not structural genes) drive cancer"
+  },
+  {
+    "id": 37,
+    "section": "B",
+    "question": "Which one of the following does NOT promote aging in humans?",
+    "options": [
+      "Increased oxidative stress",
+      "Defects in DNA repair enzymes",
+      "Activation of telomerase",
+      "Reduced biosynthesis of leukotrienes"
+    ],
+    "correct_answer": "Activation of telomerase",
+    "explanation": "[CONCEPT]\nTelomerase activation helps maintain telomere length, allowing continued cell division and genomic stability, thereby\n\ndelaying aging. In contrast, oxidative stress, DNA repair defects , and reduced leukotriene biosynthesis  contribute to\n\naging by damaging cells and impairing physiological function."
+  },
+  {
+    "id": 38,
+    "section": "B",
+    "question": "Ectopic expression of the Vestigial protein in developing eye, antennae and leg discs of Drosophila converts the normal\nstructure into wing tissue. Which one of the following statements is true based on the above information?",
+    "options": [
+      "Vestigial expression is essential for wing development.",
+      "Cells in the eye, antennae and leg discs are incompetent for wing tissue specification.",
+      "Vestigial is downstream of the same Hox genes in all developing segments.",
+      "Leg and wing discs originate from distinct embryonic precursors."
+    ],
+    "correct_answer": "Vestigial expression is essential for wing development.",
+    "explanation": "[CONCEPT]\nVestigial is a key transcription factor required for wing identity in Drosophila. Its ectopic expression in non-wing tissues\n\n(eye, antenna, leg discs) induces wing-like structures, showing that those cells are competent to form wings if given the\n\nproper signals. This confirms Vestigial’s essential role in wing development"
+  },
+  {
+    "id": 39,
+    "section": "B",
+    "question": "Which one of the following is an example of asymmetric cell division in plants?",
+    "options": [
+      "Formation of stomatal guard cells from a guard mother cell",
+      "First mitotic division of a microspore",
+      "First mitotic division of a megaspore",
+      "Cell division in the root elongation zone"
+    ],
+    "correct_answer": "First mitotic division of a microspore",
+    "explanation": "[CONCEPT]\nThe first mitotic division of a microspore  is asymmetric, producing a large vegetative cell and a small generative cell,\n\nwhich differ in size, fate, and gene expression. This is a classic example of asymmetric cell division in plants. The other\n\noptions involve either symmetric divisions or later differentiation."
+  },
+  {
+    "id": 40,
+    "section": "B",
+    "question": "Mutation of homeotic gens often results in which one of the following developmental defects in Drosophila?",
+    "options": [
+      "Polarity defects in every segment along the A-P axis",
+      "Absence of every other segment along the A-P axis",
+      "Transformation of one segment into another",
+      "Absence of group of contiguous segments"
+    ],
+    "correct_answer": "Transformation of one segment into another",
+    "explanation": "[CONCEPT]\nHomeotic genes  in Drosophila control segment identity . Mutations in these genes cause homeotic transformations,\n\nwhere one body segment develops the characteristics of another (e.g., legs instead of antennae). They do not affect\n\nsegment number or polarity but rather specify segmental fate."
+  },
+  {
+    "id": 41,
+    "section": "B",
+    "question": "A student exposed a plant to a herbicide that blocks electron transport both in  Photosystem II and Photosystem",
+    "options": [
+      "What is the likely outcome? \n1. Increased production of NADPH and ATP",
+      "Only ATP would be produced but not NADPH",
+      "Neither ATP nor NADPH would be produced",
+      "The Calvin cycle would operate more efficiently"
+    ],
+    "correct_answer": "Neither ATP nor NADPH would be produced",
+    "explanation": "[CONCEPT]\nBlocking electron transport in both Photosystem II and Photosystem I halts the light reactions of photosynthesis. Without\n\n[GIVEN]\n• Photosystem II cannot initiate the chain, stopping ATP generation via photophosphorylation.\n• Photosystem I cannot reduce NADP⁺, halting NADPH production. Thus, both ATP and NADPH synthesis is blocked."
+  },
+  {
+    "id": 42,
+    "section": "B",
+    "question": "Which one of the following carotenoids is NOT involved in the nonphotochemical  quenching of chlorophyll\nfluorescence in plants?",
+    "options": [
+      "Zeaxanthin",
+      "Violaxanthin",
+      "Antheraxanthin",
+      "Canthaxanthin"
+    ],
+    "correct_answer": "Canthaxanthin",
+    "explanation": "[CONCEPT]\nNonphotochemical quenching (NPQ)  is a protective mechanism in plants to dissipate excess light energy as heat. It\n\ninvolves the xanthophyll cycle, where violaxanthin, antheraxanthin, and zeaxanthin are interconverted and actively\n\nparticipate in NPQ. Canthaxanthin is not part of this cycle and does not play a role in NPQ. Canthaxanthin known for its\n\nantioxidant properties, its main function in plants is to act as a light -absorbing pigment in photosynthesis and plays a\n\npigmenting role, contributing to the red-orange colors of fruits, vegetables, and flower."
+  },
+  {
+    "id": 43,
+    "section": "B",
+    "question": "The subclasses of terpenes that are generally volatile and often stored in glandular hairs or secretory cavities of leaves\nand fruits of herb and spice plants are",
+    "options": [
+      "monoterpenes and sesquiterpenes",
+      "sesquiterpenes and triterpenes",
+      "diterpenes and triterpenes",
+      "triterpenes and tetraterpenes"
+    ],
+    "correct_answer": "monoterpenes and sesquiterpenes",
+    "explanation": "[CONCEPT]\nMonoterpenes (C₁₀) and sesquiterpenes (C₁₅) are small, volatile terpenes  commonly found in the glandular hairs or\n\nsecretory cavities of leaves and fruits, especially in herbs and spices. They contribute to aroma, defense, and attraction.\n\nLarger terpenes like diterpenes and triterpenes are less volatile"
+  },
+  {
+    "id": 44,
+    "section": "B",
+    "question": "Which one of the following is NOT a microbe-associated molecular pattern (MAMP) of phytopathogens?",
+    "options": [
+      "flg22, a 22 amino-acid peptide",
+      "pep13, a 13 amino-acid peptide",
+      "elf26, a 26 amino-acid peptide",
+      "systemin, an 18 amino-acid peptide"
+    ],
+    "correct_answer": "systemin, an 18 amino-acid peptide",
+    "explanation": "[CONCEPT]\nSystemin is a plant-derived signaling peptide , not a microbial product. It functions in wound response and defense\n\nsignaling. In contrast, flg22, elf26, and pep13 are microbe-associated molecular patterns (MAMPs) recognized by plant\n\nimmune receptors to trigger defense responses."
+  },
+  {
+    "id": 45,
+    "section": "B",
+    "question": "Which one of the following are NOT glial cells?",
+    "options": [
+      "Schwann cells",
+      "Ependymal cells",
+      "Satellite cells of nervous system",
+      "Basket cells"
+    ],
+    "correct_answer": "Basket cells",
+    "explanation": "[CONCEPT]\nBasket cells are inhibitory neurons (interneurons), not glial cells. They are found in the cerebellum and cerebral cortex\n\nand form synapses around the cell bodies of other neurons. In contrast, Schwann cells, ependymal cells, and satellite\n\ncells are all types of glial cells that support and protect neurons."
+  },
+  {
+    "id": 46,
+    "section": "B",
+    "question": "Which one of the following proteins is responsible for the permeability of Mg2+ through the tight junctions of tubular\ncells in the thick ascending limb of Henle?",
+    "options": [
+      "Claudin-2",
+      "ZO-1",
+      "Claudin - 16",
+      "ZO-3"
+    ],
+    "correct_answer": "Claudin - 16",
+    "explanation": "[CONCEPT]\nClaudin-16 is a tight junction protein specifically involved in the paracellular transport of Mg²⁺ in the thick ascending limb\n\nof Henle's loop. Mutations in this protein can lead to renal magnesium wasting. Other claudins and ZO proteins play roles\n\nin general tight junction structure or transport of other ions."
+  },
+  {
+    "id": 47,
+    "section": "B",
+    "question": "Steroidogenic acute regulatory protein (STAR) facilitates transfer of cholesterol in which of the following sub-cellular\norganelles?",
+    "options": [
+      "Nucleus",
+      "Golgi bodies",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "[CONCEPT]\nSteroidogenic acute regulatory protein (STAR) mediates the transport of cholesterol into mitochondria, specifically from\n\nthe outer to the inner mitochondrial membrane. This is the rate-limiting step  in steroid hormone biosynthesis, as\n\ncholesterol is converted to pregnenolone inside mitochondria."
+  },
+  {
+    "id": 48,
+    "section": "B",
+    "question": "Which one of the following molecules is transported into enterocytes from intestinal lumen by GLUT5?\n1.Glucose\n2.Galactose\n3.Fructose\n4.Lactose",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "C",
+    "explanation": "[CONCEPT]\nGLUT5 is a facilitated diffusion transporter specifically responsible for transporting fructose from the intestinal lumen\n\ninto enterocytes. In contrast, glucose and galactose are absorbed via SGLT1 (sodium-dependent transporter), and lactose\n\nis not directly absorbed but broken down into glucose and galactose by lactase."
+  },
+  {
+    "id": 49,
+    "section": "B",
+    "question": "Which one of the following relationships correctly represents the narrow sense  heritability? (VA - additive variance,\nVD-dominance variance, Vi - interaction variation, VGE- genotype x environmental variance, VT - total variance)",
+    "options": [
+      "VA/VT",
+      "VA/VGE",
+      "VA+VD+VI/VT",
+      "VD/VT"
+    ],
+    "correct_answer": "VA/VT",
+    "explanation": "[CONCEPT]\nNarrow sense heritability (h²) measures the proportion of total phenotypic variance (VT) that is due to additive genetic\n\nvariance (VA). It reflects how much of a trait’s variation can be passed from parent to offspring.\n\n[STEPS]\nStep 1: Narrow sense heritability (h\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">²)= VA</span><span>VT</span></div></div>"
+  },
+  {
+    "id": 50,
+    "section": "B",
+    "question": "A transcript of a gene is shown below, with lines showing introns and rectangles  showing exons. A mutation from 'T'\nat the 6th nucleotide position to 'A' in the 1st exon of the transcript is isolated.\nWhich one of the following options accurately describes the outcome of this mutation?",
+    "options": [
+      "Gain of function",
+      "Loss of function",
+      "No change",
+      "Formation of an altered protein"
+    ],
+    "correct_answer": "Loss of function",
+    "explanation": "[CONCEPT]\nThe mutation changes the 6th nucleotide in the first exon from T to A (ATGTAT→ATGTAA), altering the mRNA codon from\n\nUAU (Tyrosine) to UAA (stop codon). This nonsense mutation causes premature translation termination, producing a\n\ntruncated, likely non -functional protein. In eukaryotes, such mRNAs may be degraded b y nonsense -mediated decay,\n\nfurther preventing functional protein production. This is best described as loss of function, as the protein’s normal role is"
+  },
+  {
+    "id": 51,
+    "section": "B",
+    "question": "Two temperature -sensitive mutants of Escherichia coli were mated with each other  and no ne of the resulting\nexconjugants showed the wild-type phenotype. These mutations are:\n4.Dominant-negative",
+    "options": [
+      "Allelic",
+      "Non-allelic",
+      "Recessive"
+    ],
+    "correct_answer": "Allelic",
+    "explanation": "[CONCEPT]\nIf mating two mutants fails to restore the wild-type phenotype, it suggests the mutations are in the same gene (allelic).\n\nThis is the basis of a complementation test:\n\n[GIVEN]\n• No complementation (mutant phenotype persists) → mutations are allelic\n• Complementation (wild-type phenotype restored) → mutations are in different genes (non-allelic)."
+  },
+  {
+    "id": 52,
+    "section": "B",
+    "question": "Drosophila melanogaster has 4 pairs of chromosomes. There is no recombination in males of this species. What is the\nnumber of possible combinations of chromosomes in gametes of males?",
+    "options": [
+      "Four",
+      "Eight",
+      "Sixteen",
+      "Thirty-two"
+    ],
+    "correct_answer": "Sixteen",
+    "explanation": "[CONCEPT]\nIn the absence of recombination, genetic variation in gametes arises solely from independent assortment  of\n\nDrosophila males have 4 pairs of chromosomes, so:\n\n[STEPS]\nStep 1: Number of combinations\n=2n=24 = 16\n\n[INTERPRETATION]\nThus, 16 possible chromosome combinations in gametes."
+  },
+  {
+    "id": 53,
+    "section": "B",
+    "question": "A 16S rRNA gene-based maximum-likelihood tree of soil isolates shows a long branch at the node connecting a clade\nof Actinobacteria to a clade of Proteobacteria. Which artefact is most likely to be present here?",
+    "options": [
+      "Compositional heterogeneity causing long-branch attraction",
+      "Homoplasy in peptidoglycan cross-link pattern",
+      "Inaccurate rooting due to midpoint placement causing long-branch attraction",
+      "Over-parametrization of the GTR+G model"
+    ],
+    "correct_answer": "Compositional heterogeneity causing long-branch attraction",
+    "explanation": "[CONCEPT]\nLong-branch attraction (LBA) is a common phylogenetic artefact where rapidly evolving lineages (with many substitutions)\n\nare incorrectly inferred to be closely related. This is often due to compositional heterogeneity—differences in base\n\ncomposition among lineages—which can mislead maximum-likelihood methods, especially when using conserved genes"
+  },
+  {
+    "id": 54,
+    "section": "B",
+    "question": "Which one of the following habitats harbors the critically endangered Great Indian Bustard (Ardeotis nigriceps)?",
+    "options": [
+      "Sal forests of Madhya Pradesh",
+      "Desert grasslands of Rajasthan",
+      "Shola grasslands of southern India",
+      "Terai grasslands of northeastern India"
+    ],
+    "correct_answer": "Desert grasslands of Rajasthan",
+    "explanation": "[CONCEPT]\nThe Great Indian Bustard ( Ardeotis nigriceps) is a critically endangered bird found primarily in the arid and semi -arid\n\ndesert grasslands of Rajasthan , especially in areas like the Thar Desert . It prefers open landscapes for breeding and\n\nforaging, and its population has drastically declined due to habitat loss and infrastructure development."
+  },
+  {
+    "id": 55,
+    "section": "B",
+    "question": "Tomato plants in a subtropical field began to show progressive wilting, interveinal  chlorosis, and root rot. The\nsubsequent laboratory analysis indicated coenocytic hyphae  along with the presence of thick -walled oospores.\nAdditionally, the disease progressed rapidly in humid conditions. Which one of the following organisms is NOT likely to be\nresponsible for the infection?",
+    "options": [
+      "Pythium aphanidermatum",
+      "Phytophthora nicotianae",
+      "Fusarium oxysporum",
+      "Phytophthora infestans"
+    ],
+    "correct_answer": "Fusarium oxysporum",
+    "explanation": "[CONCEPT]\nThe presence of coenocytic hyphae and thick-walled oospores, along with rapid disease progression in humid conditions,\n\npoints to oomycetes like Pythium and Phytophthora species. These are water molds, not true fungi, and have coenocytic\n\n(aseptate) hyphae . In contrast, Fusarium oxysporum  is a true fungus  with septate hyphae  and does not produce\n\noospores. Thus, it is not likely responsible for the described infection."
+  },
+  {
+    "id": 56,
+    "section": "B",
+    "question": "Under the current rules of taxonomy, which one of the following organismal lineages  can legitimately receive genus\nnames either under the ICN or under the ICNP, based on the authors' choice?",
+    "options": [
+      "Chlorophyta (Green algae)",
+      "Bacillariophyta (Diatoms)",
+      "Cyanobacteria (Blue-green algae)",
+      "Mycetozoa (Slime moulds)"
+    ],
+    "correct_answer": "Cyanobacteria (Blue-green algae)",
+    "explanation": "[CONCEPT]\nCyanobacteria lie at the intersection of botanical (ICN) and bacteriological (ICNP) nomenclature systems. Due to their\n\ndual history as photosynthetic bacteria and \"blue-green algae\" , they can be legitimately named under either code ,\n\ndepending on the author’s choice. The other groups follow only the ICN (botanical code)."
+  },
+  {
+    "id": 57,
+    "section": "B",
+    "question": "In the classical metapopulation model as articulated by Richard Levins (1969, 1970), the metapopulation is considered\nto be a collection of subpopulations occupying different patches. Which one of the following conditions should be met for\na population to be considered as a metapopulation?",
+    "options": [
+      "Individual subpopulations should have realistic chances of extinction and recolonization.",
+      "The dynamics of the subpopulations should be dependent on each other.",
+      "Recolonization of a patch after extinction should be mainly through dispersal from the mainland patch.",
+      "Population dynamics in the various patches should be synchronous."
+    ],
+    "correct_answer": "Individual subpopulations should have realistic chances of extinction and recolonization.",
+    "explanation": "[CONCEPT]\nIn the classical Levins model, a metapopulat ion's persistence relies on a dynamic balance between local extinctions and\n\nthe colonization of empty patches. Therefore, the essential condition is that individual subpopulations must have a\n\nrealistic chance of both going extinct and being recolonized. This ongoing turnover allows the regional metapopulation to\n\nsurvive even as specific local patches wink in and out of existence. Other conditions like synchronous dynamics or a single\n\nmainland source describe different, distinct population models."
+  },
+  {
+    "id": 58,
+    "section": "B",
+    "question": "For a given organism, which one of these life history attributes is associated with the broadest range of environmental\ntolerance?",
+    "options": [
+      "Survival",
+      "Growth",
+      "Reproduction",
+      "Fecundity"
+    ],
+    "correct_answer": "Survival",
+    "explanation": "[CONCEPT]\nSurvival generally occurs over a broader range of environmental conditions than growth, reproduction, or fecundity .\n\nOrganisms can often persist (survive) under suboptimal conditions, even if they are not growing or reproducing efficiently.\n\nReproduction and fecundity typically require narrower optimal conditions, making survival the most tolerant life history"
+  },
+  {
+    "id": 59,
+    "section": "B",
+    "question": "Which of the following statements indicates the relationship between basal metabolic rate and body size for organisms\nwithin a taxonomic group?",
+    "options": [
+      "Basal metabolic rate increases linearly with body size",
+      "Weight-specific basal metabolic rate is independent of body size",
+      "Weight-specific basal metabolic rate decreases non-linearly with body size",
+      "Basal metabolic rate increases non-linearly with body size."
+    ],
+    "correct_answer": "Weight-specific basal metabolic rate decreases non-linearly with body size",
+    "explanation": "[CONCEPT]\nBasal metabolic rate (BMR)  scales with body size according to an allometric (non -linear) relationship , commonly\n\nWeight-specific BMR (BMR per unit mass) decreases non-linearly with increasing body size, as larger organisms have lower"
+  },
+  {
+    "id": 60,
+    "section": "B",
+    "question": "Why might a plant species evolve cleistogamous flowers in addition to chasmogamous ones?\n1.To avoid inbreeding depression, a characteristic feature of cleistogamy\n2. To increase reproductive success in response to uncertainty in pollination\n3. To ensure cross-pollination, a key objective of cleistogamy\n4.To enhance the phenomenon of pollinator attraction",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "B",
+    "explanation": "[CONCEPT]\nCleistogamous flowers  are closed, self -pollinating flowers, ensuring seed set wit hout reliance on pollinators . By\n\nproducing both chasmogamous (open, potentially cross -pollinated) and cleistogamous flowers, plants hedge their\n\nbets—achieving reproduction even when pollinators are scarce or absent , thus increasing reproductive success und er"
+  },
+  {
+    "id": 61,
+    "section": "B",
+    "question": "In a study on honey bee foraging, researchers investigated how dopamine release in the mushroom bodies affects the\nbee's ability to learn floral odours associated with a  nectar reward. Which of Tinbergen's Four Questions does this study\nprimarily address?",
+    "options": [
+      "What is the evolutionary origin of odour-based learning in hymenopterans?",
+      "How does floral odour learning improve foraging efficiency and reproductive success?",
+      "What mechanism underlies the association between floral odour and reward in bees?",
+      "How does floral odour learning change over the lifespan of a honey bee?"
+    ],
+    "correct_answer": "What mechanism underlies the association between floral odour and reward in bees?",
+    "explanation": "[CONCEPT]\nThis study focuses on the neurobiological mechanism—specifically, dopamine release in the mushroom bodies —that\n\nenables learning of floral odours linked to rewards . This aligns with Tinbergen’s “mechanism (causation)” question ,\n\nwhich seeks to understand the physiological and neural processes underlying behavior."
+  },
+  {
+    "id": 62,
+    "section": "B",
+    "question": "Which of the following features establishes stromatolites as a source of early evidence for life on earth?",
+    "options": [
+      "Fossilized bones that have been deeply embedded in a silica-rich matrix",
+      "Layered accretion structures that have been formed as a result of mineral precipitation",
+      "Biogenic laminated structures that have been influenced by phototrophic microbial mats",
+      "Conical limestone mounds that were created by reduced volcanic geothermal activity"
+    ],
+    "correct_answer": "Biogenic laminated structures that have been influenced by phototrophic microbial mats",
+    "explanation": "[CONCEPT]\nStromatolites are among the earliest evidence of life  on Earth. They are layered, laminated structures formed by the\n\nactivity of photosynthetic microbes, particularly cyanobacteria, which trap and bind sediment. These biogenic features\n\nshow biological influence rather than purely chemical or geological formation."
+  },
+  {
+    "id": 63,
+    "section": "B",
+    "question": "Which one of the following is the correct chronological order of major eras from oldest to youngest?",
+    "options": [
+      "Proterozoic → Archean → Phanerozoic",
+      "Archean→ Proterozoic → Phanerozoic",
+      "Archean→ Phanerozoic → Proterozoic",
+      "Proterozoic → Phanerozoic → Archean"
+    ],
+    "correct_answer": "Archean→ Proterozoic → Phanerozoic",
+    "explanation": "[CONCEPT]\nThe chronological order of Earth's major geological eras (from oldest to youngest) is:\n\n1. Archean (about 4.0–2.5 billion years ago) – origin of life\n\n2. Proterozoic (2.5 billion–541 million years ago) – rise of oxygen, early multicellular life\n\n3. Phanerozoic (541 million years ago–present) – abundant fossil record, complex life and major evolutionary events."
+  },
+  {
+    "id": 64,
+    "section": "B",
+    "question": "According to the Oparin-Haldane hypothesis, which one of the following statements  best describes the Earth's early\natmosphere?",
+    "options": [
+      "Rich in oxygen and nitrogen",
+      "Composed primarily of carbon dioxide and oxygen",
+      "Reducing atmosphere with gases such as methane and ammonia",
+      "Similar to the current atmosphere of Earth"
+    ],
+    "correct_answer": "Reducing atmosphere with gases such as methane and ammonia",
+    "explanation": "[CONCEPT]\nThe Oparin-Haldane hypothesis proposed that Earth's early atmosphere was reducing, lacking free oxygen and rich in\n\nmethane (CH₄), ammonia (NH₃), hydrogen (H₂), and water vapor (H₂O). This environment favored the abiotic synthesis\n\nof organic molecules, laying the foundation for the origin of life."
+  },
+  {
+    "id": 65,
+    "section": "B",
+    "question": "The Cre -lox system is used  to successfully delete a gene specifically in T cells in mice.  Which one of the following\noptions is correct?",
+    "options": [
+      "Lox P recombination sequences were introduced in tandem at the 5' end of the gene.",
+      "Lox P recombination sequences were introduced at the 3' end of the gene.",
+      "Mutant Lox P sites were introduced on either side of the gene and mice were infected with bacteriophage P1 to provide \nCre recombinase.",
+      "Mice containing Lox P sites on both 5' and 3' ends of the gene were mated with  mice that are trans genic for Cre \nrecombinase under control of an inducible promoter."
+    ],
+    "correct_answer": "Mice containing Lox P sites on both 5' and 3' ends of the gene were mated with  mice that are trans genic for Cre \nrecombinase under control of an inducible promoter.",
+    "explanation": "[CONCEPT]\nThe Cre-lox system enables site-specific gene deletion. To delete a gene in a cell-type-specific manner (e.g., T cells), the\n\ngene is flanked by loxP sites (floxed). These mice are crossed with Cre-expressing mice, where Cre recombinase is under\n\na cell-type-specific or inducible promoter. This leads to gene excision only in targeted cells."
+  },
+  {
+    "id": 66,
+    "section": "B",
+    "question": "The levels of which one of the following parameters of blood are measured to check cardiac damage?",
+    "options": [
+      "Creatine",
+      "Creatine kinase",
+      "Peroxidase",
+      "Urea"
+    ],
+    "correct_answer": "Creatine kinase",
+    "explanation": "[CONCEPT]\nCreatine kinase (CK) , especially the CK-MB isoform, is a key enzyme released into the blood when cardiac muscle is\n\ndamaged (e.g., during a heart attack). Elevated CK -MB levels serve as a biomarker for cardiac injury. Other options like\n\ncreatine, peroxidase, and urea are not specific indicators of cardiac damage."
+  },
+  {
+    "id": 67,
+    "section": "B",
+    "question": "In the circular synteny maps of Poaceae family, providing insights into the origin and evolution of grass genomes, which\none of the following genomes should represent the \"innermost\" circle?",
+    "options": [
+      "Arabidopsis thaliana chromosomes (n = 5)",
+      "maize chromosomes (n = 10)",
+      "rice chromosomes (n = 12)",
+      "ancestral chromosomes (n = 12)"
+    ],
+    "correct_answer": "ancestral chromosomes (n = 12)",
+    "explanation": "[CONCEPT]\nIn circular synteny maps, the innermost circle often represents the inferred ancestral genome to serve as a reference for\n\ncomparing chromosomal rearrangements and syntenic blocks across species. In the Poaceae (grass) family, the ancestral\n\ngenome is modeled with 12 chromosomes, providing a baseline to trace evolutionary events like fusions, fissions, and\n\nduplications in extant genomes like rice, maize, etc."
+  },
+  {
+    "id": 68,
+    "section": "B",
+    "question": "Which one of the following biofuels is classified as a first-generation biofuel?",
+    "options": [
+      "Cellulosic ethanol",
+      "Bio-ethanol",
+      "Lignin-based biofuels",
+      "Algal biofuels"
+    ],
+    "correct_answer": "Bio-ethanol",
+    "explanation": "[CONCEPT]\nFirst-generation biofuels are produced directly from food crops such as sugarcane, corn, and wheat. Bio-ethanol made\n\nfrom these crops' sugars or starches is a classic example. In contrast:\n\n[GIVEN]\n• Cellulosic ethanol and lignin-based biofuels are second-generation\n• Algal biofuels are third-generation."
+  },
+  {
+    "id": 69,
+    "section": "B",
+    "question": "Which one of the following datasets (expressed as mean ± SD) is most likely to follow a Gaussian (normal) distribution,\nconsidering that the data cannot have any negative values?",
+    "options": [
+      "296 ± 190 picomolar concentration of insulin in human blood samples",
+      "58 ± 45 number of a particular species of bacteria in the rhizosphere",
+      "160 ± 20 mg/dL of blood cholesterol concentration in human athletes",
+      "4 ± 8 number of insects caught in a trap from an agricultural field"
+    ],
+    "correct_answer": "160 ± 20 mg/dL of blood cholesterol concentration in human athletes",
+    "explanation": "[CONCEPT]\nA Gaussian (normal) distribution is symmetric around the mean and assumes that data spread (± SD)  does not extend\n\ninto impossible values (e.g., negative numbers for concentrations or counts).\n\nvalues more likely, violating normality.\n\n[GIVEN]\n• Option (3) has a mean (160) and SD (20) that keeps nearly all values positive and biologically plausible.\n• In contrast, the other options have large SDs relative to the mean, making negative or biologically implausible"
+  },
+  {
+    "id": 70,
+    "section": "B",
+    "question": "Which one of the following would be most suitable to study early embryogenesis event  using live microscopy of\nunstained C. elegans embryos?",
+    "options": [
+      "Confocal microscope",
+      "Fluorescence microscope",
+      "Differential Interference Contrast microscope",
+      "Super-resolution microscope"
+    ],
+    "correct_answer": "Differential Interference Contrast microscope",
+    "explanation": "[CONCEPT]\nDifferential Interference Contrast (DIC) microscopy is ideal for observing live, unstained, transparent specimens like C.\n\nelegans embryos. It provides high-contrast, pseudo-3D images without the need for staining or fluorescence, making it\n\nperfect for tracking early embryogenesis in real time."
+  },
+  {
+    "id": 71,
+    "section": "C",
+    "question": "If 10 𝜇g of pure carbonic anhydrase catalyzes  the hydration of 0.30 g of CO2 in 1 min at 𝑉max at 37∘C, what is the\nturnover number (𝑘cat) of carbonic anhydrase (in units of min-1)? (𝑀𝑟 of carbonic anhydrase is 30,000)",
+    "options": [
+      "3.2 × 103 min-1 to 3.3 × 103 min-1",
+      "2.0 × 107 min-1 to 2.1 × 107 min-1",
+      "0.30 × 107 min-1 to 0.31 × 107 min-1",
+      "2.0 × 103 min-1 to 2.1 × 103 min-1"
+    ],
+    "correct_answer": "2.0 × 107 min-1 to 2.1 × 107 min-1",
+    "explanation": "[CONCEPT]\nCarbonic anhydrase catalyzes the hydration of CO<sub>2</sub>. The turnover number (k<sub>cat</sub>) represents the number of substrate molecules converted into product per enzyme molecule per unit time.\n\n[GIVEN]\n• V<sub>max</sub> = 0.3 g/min (for CO<sub>2</sub> hydration)\n• Molecular weight of CO<sub>2</sub> = 44 g/mol\n• Enzyme amount = 10 µg\n• Molecular weight of enzyme = 30000 D\n\n[FORMULA]\nk<sub>cat</sub> = <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">V<sub>max</sub></span><span>[E<sub>t</sub>]</span></div></div>\n||\nwhere,<br/>[E<sub>t</sub>] = Total enzyme concentration (in moles)\n\n[STEPS]\nStep 1: Convert V<sub>max</sub> into moles/min\nMoles of CO<sub>2</sub> = <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">0.3 g/min</span><span>44 g/mol</span></div></div> = 6.8 × 10<sup>-3</sup> mol/min\n\nStep 2: Convert enzyme amount into moles\nEnzyme amount = 10 µg = 10 × 10<sup>-6</sup> g<br/>Moles of enzyme, [E<sub>t</sub>] = <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">10 × 10<sup>-6</sup> g</span><span>3 × 10<sup>4</sup> g/mol</span></div></div> = 3.33 × 10<sup>-10</sup> mol\n\nStep 3: Calculate k<sub>cat</sub>\nk<sub>cat</sub> = <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">V<sub>max</sub></span><span>[E<sub>t</sub>]</span></div></div> = <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">6.8 × 10<sup>-3</sup></span><span>3.33 × 10<sup>-10</sup></span></div></div> = 2.04 × 10<sup>7</sup> min<sup>-1</sup>\n\n[INTERPRETATION]\nThe high k<sub>cat</sub> value indicates that carbonic anhydrase is an extremely efficient enzyme that converts a large number of substrate molecules into product per unit time.\n\n[ANSWER]\nk<sub>cat</sub> = 2.04 × 10<sup>7</sup> min<sup>-1</sup>\n\n[TIP]\nAlways convert mass into moles before using in enzyme kinetics formulas.<br/>Remember: k<sub>cat</sub> has units of time<sup>-1</sup> (e.g., min<sup>-1</sup>)."
+  },
+  {
+    "id": 72,
+    "section": "C",
+    "question": "A canonical Watson-Crick G:C base pair is stabilized by three hydrogen bonds formed between a donor (+0.25e) and\nacceptor (-0.35e) atom located at a distance 𝑟 = 2.9 Å. Assume that the dielectric constant 𝐷 in the DNA core is 4, and in\nwater is 78.5. Which one of the following options correctly represents the total difference in electrostatic interaction\nenergy for all 3 hydrogen bonds when buried in the DNA core versus fully exposed to solvent?  (Modified Coulomb's\nconstant, 𝑘 = 1389 kJ/mol·nm·e2)",
+    "options": [
+      "-298.3 kJ/mol",
+      "-104.7 kJ/mol",
+      "-99.4 kJ/mol",
+      "-5.338 kJ/mol"
+    ],
+    "correct_answer": "-298.3 kJ/mol",
+    "explanation": "[GIVEN]\n• <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">K = 1389 kJ</span><span>mol·nm·e2</span></div></div>\n• 𝑞1 = +0.25𝑒, 𝑞2 = −0.35𝑒\n• 𝑟 = 2.9Å = 0.29 nm\n• 𝐷core = 4, 𝐷water = 78.5\n\n[STEPS]\nStep 1: Calculation step\nTo find the difference in electrostatic interaction energy of the 3 hydrogen bonds between the DNA core ( 𝐷 = 4 ) and\n\nStep 2: water (\n𝐷 = 78.5 ), we use the modified Coulomb's law:\n\nStep 1: Calculate electrostatic interaction energy in DNA core\n\nStep 4: Calculation step\n4⋅0.29 =\n\nStep 5: Calculation step\n1.16 =\n\nStep 2: Calculate electrostatic interaction energy in water\n\nStep 7: Calculation step\n78.5⋅0.29 =\n\nStep 3: Difference per bond\n\nStep 9: Calculation step\nΔ𝐸 = 𝐸core − 𝐸water = −105.03 − (−5.35) = −99.68 kJ/mol\n\nStep 4: Total for 3 hydrogen bonds\n\nStep 11: Calculation step\nΔ𝐸𝑡𝑜𝑡𝑎𝑙 = 3 ⋅ (−99.68) ≈ −299.0 kJ/mol"
+  },
+  {
+    "id": 73,
+    "section": "C",
+    "question": "Gastric juice (pH 1.5) is produced by pumping H+ from blood plasma (pH 7.4) into the stomach. Calculate the amount\nof free energy required for H + transport to produce one litre of gastric juice at 37°C. How many moles of ATP must be\nhydrolyzed to provide this amount of energy? (The free energy change for ATP hydrolysis under cellular conditions is about\n-58 kJ/mol.) (R = 8.315 J/mol/K)",
+    "options": [
+      "34-36 kJ/mol and 0.6-0.61 mol",
+      "3.4-3.6 kJ/mol and 6.0-6.1 mol",
+      "22-23 kJ/mol and 0.3-0.31 mol",
+      "17-18 kJ/mol and 3.0-3.1 mol"
+    ],
+    "correct_answer": "34-36 kJ/mol and 0.6-0.61 mol",
+    "explanation": "[GIVEN]\n• Formula: ΔG = -2.303RTΔpH (for H⁺ concentration gradient, assuming no membrane potential for simplicity).\n• Given: R = 8.315 J/mol/K, T = 37°C = 310 K, ΔpH = pH(plasma) - pH(gastric juice) = 7.4 - 1.5 = 5.9.\n• ΔG = -2.303 × 8.315 × 310 × 5.9 ≈ 35,045 J/L ≈ 35 kJ/L (for 1 litre of gastric juice).\n• Range (considering rounding): 34–36 kJ/L.\n• ATP hydrolysis: ΔG_ATP ≈ -58 kJ/mol.\n• <div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">Moles of ATP = 35 kJ ÷ 58 kJ</span><span>mol ≈ 0.603 mol.</span></div></div>\n• Range: 0.60–0.61 mol (accounting for slight variations in ΔG)."
+  },
+  {
+    "id": 74,
+    "section": "C",
+    "question": "The primary sequence of a miRNA is given below:\n5′ - UAGCUUAUCAGACUGAUGUUGA - 3′\nThe seed region of miRNA starts from the 2nd position to the 8th position.\nWhich one of the following mRNA sequences would be targeted by the above miRNA?",
+    "options": [
+      "5' - CUCGAGGCAACAUCAGUCUAUAAGCUAGAGCUC - 3'",
+      "5' - CUCGAGUAGCUUUAGACUAAUGUUGAGAGCUC - 3'",
+      "5' - CUCGAGAUUUGGUAUGCGCGAUACCAAUCUCGA - 3'",
+      "5' - CUCGAGGAGAUUGGUAUUCGCGCUACCAAAUCU - 3'"
+    ],
+    "correct_answer": "5' - CUCGAGGCAACAUCAGUCUAUAAGCUAGAGCUC - 3'",
+    "explanation": "[CONCEPT]\nmiRNAs target mRNAs by binding to complementary sequences, primarily via the seed region (nucleotides 2–8 of the\n\nmiRNA). Perfect or near-perfect base-pairing in the seed region is critical for effective targeting in animals.\n\nIn sequence given in option (1) 5' - CUCGAGGCAACAUCAGUCU \"AUAAGCU\" AGAGCUC - 3' the complement of\n\nThe seed region of the given miRNA (positions 2–8) is:\n\nmiRNA: 5′ A G C U U A U CAGACUGAUGUUGA 3′\n\nmiRNAs bind to their target mRNA by complementary base pairing, usually in the 3′ UTR, with the seed region being the\n\nThe complementary sequence to the seed (in mRNA, written 5′→3′) would be:\n\nComplement: 3′ UCGA AUA 5′ → written 5′→3′ as AUAAGCU.\n\nLooking at the given options, only option 1 contains the AUAAGCU sequence in the correct orientation, making it the\n\n[GIVEN]\n• miRNA sequence: 5′ - UAGCUUAUCAGACUGAUGUUGA - 3′\n• Seed region (positions 2–8): 5′ AGCUUAU 3′\n• Target mRNA must have a sequence complementary to the seed: 5′ - AUAAGCU- 5′ mainly toward 3' side."
+  },
+  {
+    "id": 75,
+    "section": "C",
+    "question": "Given below are thermal melting curves for proteins A, P, Q, and R. The X-axis denotes temperature, while  the Y-axis\nindicates the concentration of unfolded protein.\nWhich one of the following options is true regarding comparative thermostability of protein A with respect to P, Q, and\nR?",
+    "options": [
+      "𝐴 < 𝑃; 𝐴 > 𝑄; 𝐴 > 𝑅",
+      "𝐴 < 𝑃; 𝐴 > 𝑄; 𝐴 = 𝑅",
+      "𝐴 ∼ 𝑃; 𝐴 < 𝑄; 𝐴 < 𝑅",
+      "𝐴 ∼ 𝑃; 𝐴 < 𝑄; 𝐴 > 𝑅"
+    ],
+    "correct_answer": "𝐴 ∼ 𝑃; 𝐴 < 𝑄; 𝐴 < 𝑅",
+    "explanation": "[CONCEPT]\nThermostability of proteins is assessed using thermal melting curves, where the melting temperature (Tm) indicates the\n\ntemperature at which half the protein is unfolded. A higher Tm reflects greater thermostability, as the protein resists\n\nunfolding at higher temperatures. The Y -axis shows unfolded protein concentration, and the X -axis is temperature. The\n\npoint where the curve sharply rises corresponds to Tm.\n\nAnalysis: The image shows curves for proteins A, P, Q, and R. The solid line (A) and dashed lines (P, Q, R) represent their\n\nmelting profiles. Comparing Tm values:\n\n[GIVEN]\n• P (first panel): The curve rises similar to A, suggesting almost same Tm, indicating P has similar stability than A.\n• Q (second panel): The curve rises after A, suggesting a higher Tm, indicating Q is more stable than A.\n• R (third panel): The curve rises similarly to A or slightly after, suggesting Tm is higher than A’s, indicating A < R."
+  },
+  {
+    "id": 76,
+    "section": "C",
+    "question": "An alpha helix formed by 30 residues is stabilized by 25 backbone hydrogen bonds in its folded state. Assume that the\naverage energy of a hydrogen bond is ~10 kJ/mol, and the disruption in the peptide resonance causes a partial loss of 205\nkJ/mol per peptide bond. Assume that the folding and unfolding p rocess only changes peptide resonance stabilization\npartially and the loss of hydrogen bonding upon unfolding (ignore side-chain interactions and entropy losses). Which one\nof the following options represents the correct magnitude of the net energetic diff erence between the folded and\nunfolded state of the helix?",
+    "options": [
+      "6195 kJ/mol",
+      "5945 kJ/mol",
+      "250 kJ/mol",
+      "5695 kJ/mol"
+    ],
+    "correct_answer": "6195 kJ/mol",
+    "explanation": "[CONCEPT]\nProtein folding stability depends on energy contributions from hydrogen bonds and peptide bond resonance. The net\n\nenergetic difference (ΔG) between folded and unfolded states reflects stabilizing (e.g., hydrogen bonds) and destabilizing\n\n(e.g., loss of resonance) factors. For an alpha helix with 30 residues, 25 backbone hydrogen bonds stabilize the folded\n\nstate, each contributing ~10 k J/mol. Unfolding disrupts these bonds and partially loses peptide resonance stabilization\n\n(~205 kJ/mol per peptide bond), with 29 peptide bonds (30 residues - 1) affected.\n\nkJ/mol (unfolded state is less stable).\n\n[GIVEN]\n• Hydrogen bond stabilization: 25 H-bonds × 10 kJ/mol = 250 kJ/mol (stabilizes folded state).\n• Peptide resonance loss : 29 peptide bonds × 205 kJ/mol = 5945 kJ/mol (destabilizes unfolded state, assuming\n• Net energetic difference (ΔG): Energy loss (resonance) + Energy loss (H-bonds) = 5945 kJ/mol + 250 kJ/mol = 6195"
+  },
+  {
+    "id": 77,
+    "section": "C",
+    "question": "Spindle assembly requires the formation of numerous new microtubules. To meet this demand, the spindle contains\na large number of regulatory factors. A few protein/protein complexes are mentioned below:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>γ-TuRCs</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Augmin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>TPX2</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Dynein</span></div></div>\nWhich one of the following options includes all the factors that directly impact microtubule nucleation for spindle\nassembly?",
+    "options": [
+      "A only",
+      "A and B only",
+      "A, B, and C only",
+      "A, B, C, and D"
+    ],
+    "correct_answer": "A, B, and C only",
+    "explanation": "[CONCEPT]\nnucleators in the cell. They act as a template for tubulin dimers to assemble into a new microtubule, primarily\n\ninitiating microtubule growth from the centrosomes.\n\nbinds to the sides of existing microtubules and recruits γ-TuRC, directly nucleating a new microtubule off the side\n\nActivated near chromosomes, it works with Augmin and γ -TuRC to promote the formation of new microtubules\n\nin the vicinity of the DNA, which are vital for capturing kinetochores.\n\nby transporting them and focusing their minus -ends to form the spindle poles. It manipulates microtubules but\n\n[GIVEN]\n• Statement A is correct because γ -TuRCs (gamma -tubulin ring complexes) are the fundamental microtubule\n• Statement B is correct because the Augmin complex is essential for amplifying microtubules within the spindle. It\n• Statement C is correct because TPX2 is a crucial factor for chromosome -dependent microtubule nucleation.\n• Statement D is incorrect because Dynein is a motor protein. Its primary role is to organize existing microtubules"
+  },
+  {
+    "id": 78,
+    "section": "C",
+    "question": "Proteins possess a sorting signal known as a nuclear localization signal (NLS) for their import into the nucleus. A few\nstatements are given below on the import of proteins destined for the nucleus:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The import receptor binds to the nuclear localization signal.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The import receptor contains several low-affinity binding sites for the nucleoporins.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The nuclear import receptor-cargo complex is dissociated by RanGDP in the nucleus.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The nuclear import receptor-cargo complex binds to RanGTP in the cytosol and traverses the nuclear envelope.</span></div></div>\nWhich one of the following options has all the correct statements about nuclear protein import?",
+    "options": [
+      "A only",
+      "A and B",
+      "B and C",
+      "C and D"
+    ],
+    "correct_answer": "A and B",
+    "explanation": "[CONCEPT]\nStatement A is correct because the initial step of  nuclear import requires a soluble transport receptor, known as an\n\nimportin, to recognize and bind to the nuclear localization signal (NLS) present on the cargo protein that is destined for\n\nStatement B is correct because to traverse the nuclea r pore complex, the import receptor must interact with the\n\nnucleoporins lining the channel. It does so via multiple low-affinity binding sites that transiently attach to the FG-repeats\n\non the nucleoporins, allowing the complex to hopscotch through the pore.\n\nStatement C is incorrect because the import receptor-cargo complex is dissociated by the binding of RanGTP, not RanGDP,\n\nonce inside the nucleus. The high concentration of RanGTP in the nucleoplasm causes it to bind the receptor, which\n\ninduces a conformational change and releases the cargo.\n\nStatement D is incorrect because RanGTP is maintained at a high concentration in the nucleus, not the cytosol. The\n\nreceptor-cargo complex forms in the cytosol in the absence of RanGTP; its binding in the nucleus causes cargo release."
+  },
+  {
+    "id": 79,
+    "section": "C",
+    "question": "The following statements are made regarding vesicle formation, transport, and fusion in cells expressing a mutant Arf\nprotein. This mutant Arf protein is constitutively bound to GTP but is defective for GTP hydrolysis.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>COPI-coated vesicles are only formed from their normal location.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Arf is constitutively bound to a membrane.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>COPII-coated vesicle fusion with the target membrane is aberrant.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>COPI-coated vesicle fusion with the target membrane is disrupted.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A and B only",
+      "A, B, and D",
+      "B and C only",
+      "B and D only"
+    ],
+    "correct_answer": "B and D only",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because while COPI vesicle budding initiates at the normal location, the overall process of\n\nformation is disrupted. The inability of the vesicles to uncoat and fuse traps the coat machinery, depleting the cytosolic\n\npool and preventing subsequent rounds of normal vesicle formation.\n\nStatement B is correct because Arf is a GTPase that binds to me mbranes when in its GTP-bound state. Since this mutant\n\nprotein is constitutively bound to GTP, it will be permanently associated with the membrane and unable to return to the\n\nStatement C is incorrect because the formation and transport of COPII -coated vesicles, which move from the ER to the\n\nGolgi, are regulated by a different GTPase called Sar1. Therefore, a mutation in Arf does not directly affect the COPII\n\nStatement D is correct because the fusion of a transport vesicle with its target m embrane requires the removal of its\n\nprotein coat. Uncoating of COPI vesicles is triggered by the hydrolysis of GTP by Arf. As the mutant cannot hydrolyze GTP,\n\nthe coat remains attached, thereby preventing fusion."
+  },
+  {
+    "id": 80,
+    "section": "C",
+    "question": "The table below describes the effect of various antibiotics on protein translation in bacteria.\nWhich one of the following options represents all correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A - (i), B - (ii), C - (iii), D - (iv)",
+      "(b) A - (i), B - (iii), C - (ii), D - (iv)",
+      "(c) A - (iii), B - (i), C - (ii), D - (iv)",
+      "(d) A - (ii), B - (iii), C - (iv), D - (i)"
+    ],
+    "correct_answer": "(a) A - (i), B - (ii), C - (iii), D - (iv)",
+    "explanation": "[CONCEPT]\nThe correct match is A - (i), B - (ii), C - (iii), D - (iv)\n\nA. Erythromycin i. Binds to 23S rRNA in the 50S subunit of the ribosome\n\nB. Chloramphenicol ii. Binds to 50S ribosomal subunit and inhibits elongation of peptide chain\n\nC. Tetracycline iii. Binds to 30S ribosomal subunit interfering with binding of aminoacyl tRNA\n\nD. Streptomycin iv. Binds to 16S rRNA in the 30S subunit of the ribosome",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Erythromycin",
+      "Chloramphenicol",
+      "Tetracycline",
+      "Streptomycin"
+    ],
+    "list_2": [
+      "Binds to 23S rRNA in the 50S subunit of the ribosome",
+      "Binds to 50S ribosomal subunit and inhibits elongation of peptide chain",
+      "Binds to 30S ribosomal subunit interfering with binding of aminoacyl tRNA",
+      "Binds to 16S rRNA in the 30S subunit of the ribosome"
+    ]
+  },
+  {
+    "id": 81,
+    "section": "C",
+    "question": "Eukaryotes regulate gene expression via histone modifications. In the table given below, the histone modification\n(column X), its association with chromatin type (column Y), and their impact on gene expression (column Z) is listed.\nHistone modification\n(X)\nAssociation with chromatin type (Y) Gene expression (Z)\n(A) H4K4me3 (a) highly accessible open chromatin (i) ON\n(B) H3K9me3 (b) only facultative heterochromatin (ii) OFF\n(C) H3K9ac (c) both constitutive and facultative\nheterochromatin\n(D) H3K27me3\nWhich one of the following options correctly matches all terms in the most appropriate combination?",
+    "options": [
+      "(a) (A)-(a)-(i); (B)-(c)-(ii); (C)-(a)-(i); (D)-(b)-(ii)",
+      "(b) (A)-(b)-(i); (B)-(b)-(ii); (C)-(c)-(i); (D)-(a)-(ii)",
+      "(c) (A)-(c)-(ii); (B)-(a)-(i); (C)-(a)-(i); (D)-(c)-(ii)",
+      "(d) (A)-(c)-(i); (B)-(a)-(ii); (C)-(a)-(ii); (D)-(b)-(i)"
+    ],
+    "correct_answer": "(a) (A)-(a)-(i); (B)-(c)-(ii); (C)-(a)-(i); (D)-(b)-(ii)",
+    "explanation": "[CONCEPT]\nThe correct match is (A)-(a)-(i); (B)-(c)-(ii); (C)-(a)-(i); (D)-(b)-(ii)\n\n(A) H3K4me3 → (a) open chromatin → (i) ON — active promoters.\n\n(B) H3K9me3 → (c) constitutive & facultative heterochromatin → (ii) OFF — classic heterochromatin mark.\n\n(C) H3K9ac → (a) open chromatin → (i) ON — acetylation correlates with transcription.\n\n(D) H3K27me3 → (b) facultative heterochromatin → (ii) OFF — Polycomb-mediated repression.",
+    "type": "match_following_mcq",
+    "list_1": [],
+    "list_2": []
+  },
+  {
+    "id": 82,
+    "section": "C",
+    "question": "Given below are a few biological lipids (Column X) and their chemical nature (Column Y).\nWhich one of the following options correctly matches the lipid to its chemical nature?",
+    "options": [
+      "(a) a:v, b:iv, c:i, d:iii, e:ii",
+      "(b) a:v, b:i, c:iii, d:ii, e:iv",
+      "(c) a:iv, b:v, c:iii, d:ii, e:i",
+      "(d) a:iv, b:iii, c:ii, d:i, e:v"
+    ],
+    "correct_answer": "(c) a:iv, b:v, c:iii, d:ii, e:i",
+    "explanation": "[CONCEPT]\nThe correct match is a:iv, b:v, c:iii, d:ii, e:i\n\na. Sphingomyelin iv. Phosphocholine head group\n\nb. Archaeal membrane lipid v. Very long branched chain fatty acids\n\nc. Non-polar lipids iii. Triacylglycerol\n\nd. Plasmalogens ii. Ether-linked alkene\n\ne. Cerebrosides i. Galactose linked to ceramide",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Sphingomyelin",
+      "Archaeal membrane lipid",
+      "Non-polar lipids",
+      "Plasmalogens",
+      "Cerebrosides"
+    ],
+    "list_2": [
+      "Galactose linked to ceramide",
+      "Ether-linked alkene",
+      "Triacylglycerol",
+      "Phosphocholine head group",
+      "Very long branched chain fatty acids"
+    ]
+  },
+  {
+    "id": 83,
+    "section": "C",
+    "question": "The figure below is a schematic representation of the replication fork. The different proteins associated with DNA\nreplication are marked by A, B, C, D, E, and F.\nWhich one of the following options correctly represents the names of these proteins?",
+    "options": [
+      "A: DNA Helicase; B: DNA Gyrase; C: DNA Primase; D: DNA pol III; E: DNA pol I; F: DNA Ligase",
+      "A: DNA Gyrase; B: DNA Helicase; C: DNA Primase; D: DNA pol II; E: DNA pol I; F: DNA Ligase",
+      "A: DNA Helicase; B: DNA Gyrase; C: DNA Primase; D: DNA pol III; E: DNA pol II; F: DNA Ligase",
+      "A: DNA Gyrase; B: DNA Helicase; C: DNA Primase; D: DNA pol II; E: DNA pol III; F: DNA Ligase"
+    ],
+    "correct_answer": "A: DNA Helicase; B: DNA Gyrase; C: DNA Primase; D: DNA pol III; E: DNA pol I; F: DNA Ligase",
+    "explanation": "[CONCEPT]\nThe figure below correctly represents the names of proteins involved at replication fork."
+  },
+  {
+    "id": 84,
+    "section": "C",
+    "question": "Human lymphocytes were incubated with increasing concentrations of NaCl. Which one of the following options\nrepresents the correct response of the nucleus and the chromatin to increase in salt concentrations?",
+    "options": [
+      "The nucleus bursts at low NaCl concentrations, liberating the chromatin into the cytosol.",
+      "At higher salt concentration the heterochromatin gets converted into euchromatin and comes out of the nucleus.",
+      "The nucleus does not burst but the heterochromatin leaches out first.",
+      "The nucleus does not burst but the euchromatin leaches out first."
+    ],
+    "correct_answer": "The nucleus does not burst but the heterochromatin leaches out first.",
+    "explanation": "[CONCEPT]\nWhen lymphocytes are exposed to increasing NaCl concentrations, the nuclear membrane remains intact, but chromatin\n\ncomponents respond differently to ionic strength. Heterochromatin, being more condensed and rich in proteins with ionic\n\ninteractions, is more sensitive to disruption by high salt. As salt concentration increases, these interactions weaken,\n\ncausing heterochromatin to dissociate and leach out before euchromatin, which is more loosely packed and retained"
+  },
+  {
+    "id": 85,
+    "section": "C",
+    "question": "The ability to unwind RNA substrates I and II by translation regulator 'X' was studied. RNA substrates with radiolabeled\nantisense strand (*) were incubated with purified 'X' under the condit ions listed below. Subsequently, RNA species were\nseparated by polyacrylamide gel electrophoresis (PAGE), followed by autoradiography. The results are shown below:\nThe following statements are made purely based on the observed gel patterns:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>X unwinds substrates with a 5′ overhang.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Substrates which can be unwound by 'X' need ATP for efficient RNA unwinding.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>X unwinding activity is enhanced by the presence of eIF4G.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A and B only",
+      "B and C only",
+      "A and C only",
+      "A, B, and C"
+    ],
+    "correct_answer": "A, B, and C",
+    "explanation": "[GIVEN]\n• A: Substrate I (5′ overhang) is unwound by protein X (appearance of faster-migrating single-stranded band), so X\n• B: Unwinding occurs only in the presence of ATP, showing ATP dependence.\n• C: More efficient unwinding is seen with eIF4G present, indicating enhancement by eIF4G.\n\n[INTERPRETATION]\nThus, all three statements A, B, and C are correct"
+  },
+  {
+    "id": 86,
+    "section": "C",
+    "question": "The activity of two promoters (A and B) upstream of a luciferase reporter in response to transcription factor TF-X in a\ncell line was studied. Luciferase activity was measured in cells following overexpression and RNAi silencing of TF -X and\ncompared to control (Native TF-X level). The luciferase enzyme activity is tabulated below.\nCondition pGene A: Luciferase activity\n(Arbitrary Units)\npGene B: Luciferase activity\n(Arbitrary Units)\nNative TF-X levels 9 2\nOverexpression of TF-X 2 9\nRNAi-silenced TF-X 2 2\nBased on the above table, the following statements were made:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>TF-X is needed for basal activity of promoter A.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>TF-X is needed for basal activity of promoter B.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>TF-X functions both as a positive and negative regulator for promoter A.</span></div></div>\nWhich one of the following options represents correct statement(s)?",
+    "options": [
+      "A only",
+      "B only",
+      "A and B",
+      "A and C"
+    ],
+    "correct_answer": "A and C",
+    "explanation": "[CONCEPT]\nBoth overexpression and silencing of TF-X drop activity to 2.\n\n→ TF-X is needed for basal activity (loss on silencing) and overexpression represses it (negative regulation).\n\nSo TF-X acts as both positive and negative regulator → A and C true.\n\nOverexpression increases to 9 → positive regulation.\n\nSilencing has no change from native (2), so not required for basal activity → B false."
+  },
+  {
+    "id": 87,
+    "section": "C",
+    "question": "A novel DNA -binding protein (P) was tested for its mode of binding with DNA (D), for which a DNase I assay was\nperformed. P was incubated with DNA to form a P-D complex, to which DNase I was added. Assume constant concentration\nof P, D, and DNase",
+    "options": [
+      "The reaction was terminated at increasing time-points (minutes) and resolved on a sequencing-grade \npolyacrylamide gel. \n \nBased on the results of the DNase I digest, which one of the following options is the correct interpretation? \n1. P does not bind to D, thereby generating a banding pattern of D.",
+      "P binds to D at a specific site, generating a banding pattern of D.",
+      "P binds and exposes multiple sites on D, generating a banding pattern of D.",
+      "P binds to only the 5′ and 3′ ends of D, generating a banding pattern of D."
+    ],
+    "correct_answer": "P binds and exposes multiple sites on D, generating a banding pattern of D.",
+    "explanation": "[CONCEPT]\nIn the DNase I assay, lanes without protein (−P) show a more uniform digestion pattern that simply intensifies with time.\n\nWith protein (+P), many new, discrete bands  appear at all time  points, not just a single protected “footprint.” This\n\nindicates that protein P binds along the DNA and remodels it, creating multiple DNase I–hypersensitive sites rather than\n\none specific protected site. Hence, P binds and exposes multiple sites on D, generating a banding pattern."
+  },
+  {
+    "id": 88,
+    "section": "C",
+    "question": "Shown below is a Northern blot profile with five independent probes representing the transcript from a single genetic\nlocus.\nBased on the Northern blots, which of the diagrams below best represents the order of genes e ncoded in the genetic\nlocus? Note :  Exon and intron junction  are given only for the  transcript from  TSS1. For options 2, 3, and 4, the mature\ntranscript from TSS2 retains the intron.",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_answer": "B",
+    "explanation": "[CONCEPT]\nThe blots show two transcript sizes.\n\nspliced & unspliced transcript (900 bp and 1050 bp).\n\nThis pattern is explained if TSS2 lies within the intron and its mature RNA retains the intron: exactly as in Option 2.\n\n[GIVEN]\n• Probes 1–2 (5′ region) detect only the 900 bp longer band → those sequences are present only in the TSS1-derived\n• Probe 3 detects only the 600 bp band  → it maps to the intron, which is spliced out in the TSS1 trans cript but\n• Probes 4–5 (3′ region) detect bands both from TSS1 (Spliced 900 bp) and TSS2 (unspliced: 600 bp)  → shared 3′"
+  },
+  {
+    "id": 89,
+    "section": "C",
+    "question": "The following statements are made regarding TAL effectors that play an important role during bacterial pathogenesis\nin plants:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>They are bacterial proteins that are translocated into the host plant cells using the type IV secretion system.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>They harbour a central DNA-binding region comprising a tandem array of nearly identical repeats.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>They can act as both virulence factors as well as avirulence factors.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>They are only restricted to members of the Xanthomonas species that infect rice.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A and B",
+      "B and C",
+      "C and D",
+      "A and D"
+    ],
+    "correct_answer": "B and C",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because TAL effectors from bacteria like Xanthomonas are translocated into plant cells using the\n\nType III Secretion System (T3SS), not the Type IV secretion system. The T3SS acts like a molecular syringe to inject effector\n\nproteins directly into the host cytoplasm.\n\nStatement B is correct because the most pr ominent feature of a TAL effector is its central DNA -binding domain. This\n\ndomain consists of a series of highly conserved, tandemly arranged repeats, with variable di-residues within each repeat\n\ndetermining the specific DNA base it recognizes.\n\nStatement C is correct because the function of a TAL effector depends on the host genotype. If it activates a host\n\nsusceptibility gene, it acts as a virulence factor promoting disease. If it activates a corresponding host resistance gene, i t\n\ntriggers a defense response and acts as an avirulence factor.\n\nStatement D is incorrect because TAL effectors are not restricted to Xanthomonas species that infect rice. They are found\n\nin various Xanthomonas species that infect a wide range of plants like citrus and cotton, and simi lar effectors have also\n\nbeen identified in other bacterial genera like Ralstonia."
+  },
+  {
+    "id": 90,
+    "section": "C",
+    "question": "Lettuce seed germination is a typical photo-reversible response controlled by phytochrome. Seeds in a petri dish were\nexposed to Red light (R), Far -Red light (FR), or ke pt in the dark (black bar) according to the schedule in Column X. The\neffect on seed germination is provided in Column Y.\nWhich one of the following combinations represents the correct match between Column X and Column Y?",
+    "options": [
+      "(a) A-i, B-ii, C-i, D-ii, E-i",
+      "(b) A-i, B-i, C-i, D-i, E-ii",
+      "(c) A-ii, B-ii, C-i, D-ii, E-i",
+      "(d) A-ii, B-i, C-ii, D-i, E-ii"
+    ],
+    "correct_answer": "(d) A-ii, B-i, C-ii, D-i, E-ii",
+    "explanation": "[CONCEPT]\nLettuce seed germination is controlled by phytochrome in a photo-reversible manner:\n\nRed light (R) converts phytochrome from Pr to Pfr (active form) → stimulates germination.\n\nFar-red light (FR) converts Pfr back to Pr (inactive form) → inhibits germination.\n\nThe final light treatment determines the response.\n\nA: Dark → final state inactive → inhibits (ii)",
+    "type": "match_following_mcq",
+    "list_1": [],
+    "list_2": []
+  },
+  {
+    "id": 91,
+    "section": "C",
+    "question": "Given below is the list of molecules that target the nervous system (Column X) and their modes of action (Column Y).\nthus the generation of an action potential.\nWhich one of the following options represents the correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A-ii; B-i; C-ii; D-iv",
+      "(b) A-iv; B-ii; C-iii; D-i",
+      "(c) A-iii; B-iv; C-i; D-ii",
+      "(d) A-iii; B-i; C-iv; D-ii"
+    ],
+    "correct_answer": "(d) A-iii; B-i; C-iv; D-ii",
+    "explanation": "[CONCEPT]\nA. Lidocaine iii. binds to amino acid residues that line the channel pore and prevent the influx of Na +, and\n\nB. Botulinum toxin i. is composed of two polypeptides: one helps to release acetylcholine at synapses with muscle\n\ncells, facilitating entry of a protease into the cytosol of the axon terminus.\n\nC. Cocaine iv. binds to the dopamine transporter and inhibits the reuptake of dopamine, prolonging the\n\nstimulation of postsynaptic neurons.\n\nD. Desipramine ii. blocks norepinephrine reuptake and prolongs the stimulation of postsynaptic neurons.\n\n[INTERPRETATION]\nthus the generation of an action potential.",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Lidocaine",
+      "Botulinum toxin",
+      "Cocaine"
+    ],
+    "list_2": [
+      "is composed of two polypeptides: one helps to release acetylcholine at synapses with muscle cells, facilitating entry of a protease into the cytosol of the axon terminus.",
+      "blocks norepinephrine reuptake and prolongs the stimulation of postsynaptic neurons.",
+      "binds to amino acid residues that line the channel pore and prevent the influx of Na +, and"
+    ]
+  },
+  {
+    "id": 92,
+    "section": "C",
+    "question": "Human prostate cancer cells expressing urokinase Plasminogen Activator (uPA) readily metastasize when injected into\nexperimental animals. A scientist genetically modified prostate cancer cells and injected them into experimental animals.\nThe possible observations are listed below:\nA. Overexpressing a mutant version of the uPA protein that does not bind to its receptor led to tumor formation but\nreduced metastasis.\nB. Overexpressing a mutant version of the uPA protein that does not bind to its receptor led to enhanced tumor formation\nas well as metastasis.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Overexpressing a secreted version of the uPA receptor led to tumor formation but reduced metastasis.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Overexpressing a secreted version of the uPA receptor reduced tumor formation as well as metastasis.</span></div></div>\nWhich of the following options represents the combination of all correct observations?",
+    "options": [
+      "A and C",
+      "B and D",
+      "A and D",
+      "B and C"
+    ],
+    "correct_answer": "A and C",
+    "explanation": "[CONCEPT]\nStatement A is correct because the function of uPA in metastasis depends on it binding to its receptor, uPAR , on the cell\n\nsurface. This binding localizes the degradation of the extracellular matrix to the cell's leading edge, facilitating invasion. If\n\nuPA cannot bind its receptor, this focused proteolytic activity is lost, thus reducing metastasis. The cells themselves remain\n\ncancerous and will still proliferate to form a primary tumor.\n\nStatement B is incorrect because disrupting the uPA -uPAR interaction by using a non -binding mutant would inhibit the\n\nkey mechanism for invasion, thereby reducing metastasis rather than enhancing it.\n\nStatement C is correct because a secreted, soluble version of the uPA receptor acts as a decoy. It binds to the uPA in the\n\nextracellular space, preventing the uPA from binding to the cell-surface receptors. This has the same functional outcome\n\nas the non-binding uPA in statement A: proteolytic activity is not localized, metastasis is reduced, but the cells still form a\n\nStatement D is incorrect because while the uPA system can have some effect on cell proliferation, its primary rol e in this\n\ncontext is mediating invasion and metastasis. The fundamental ability of the cancer cells to form a tumor would not be\n\neliminated, so a significant reduction in tumor formation is not the expected primary outcome, whereas a reduction in"
+  },
+  {
+    "id": 93,
+    "section": "C",
+    "question": "Lab-grown cells of a tumor (Wild type) expressing a novel cancer antigen, and a variant of the same tumor that has\nlost MHC class I expression, were injected subcutaneously into normal mice (dotted line) and into nude mice (solid line).\nThe growth of the tumors in the two mouse strains is shown below.\nThe following statements were made based on the results observed:\nA. In normal mice, CTLs recognize tumor cells in the presence, but not absence, of MHC-",
+    "options": [
+      "B. In nude mice, NK cells recognize tumor cells in the absence, but not in the presence, of MHC-1. C. CTLs and NK cells inhibit each other if MHC-I is present, but not if it is absent. \nD. In mice injected with tumors lacking MHC-I, antibodies generated with the help of CD4 cells restrain the growth of the \ntumor in nude mice. \nWhich one of the following options represents the combination of all correct statements? \n1. A and D",
+      "B and C",
+      "A and B",
+      "A only"
+    ],
+    "correct_answer": "A and B",
+    "explanation": "[CONCEPT]\nStatement A is true. In normal mice, wild -type tumors (with MHC -I) shrink—evidence that CD8⁺ CTLs recognize antigen\n\nonly when MHC-I is present. MHC-I–loss tumors grow in normal mice because CTLs can’t see them.\n\nStatement B is true. In nude mice (no T cells), wild-type tumors (MHC-I⁺) grow, but MHC-I–loss tumors regress, indicating\n\nNK cells kill targets missing self (no MHC-I) but are restrained when MHC-I is present.\n\nStatement C and D are not true. No evidence of CTL–NK mutual inhibition or antibody-mediated control in T-cell–deficient"
+  },
+  {
+    "id": 94,
+    "section": "C",
+    "question": "A child injures his toe, which then becomes infected with Staphylococcus aureus. The following statements are made\nabout the events that follow over the course of a week:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The pathogen is conveyed to draining lymph nodes by macrophages.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Danger signals are conveyed to high endothelial venules of draining lymph nodes through the fibroblastic reticular conduit system.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Naïve B cells and T cells enter draining lymph nodes from high endothelial venules by a process that is initiated by ICAM- 1-mediated rolling.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Naïve B cells exit circulation at the site of injury and undergo clonal expansion in response to bacterial LPS.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A and B only",
+      "A and C only",
+      "B and D only",
+      "A, C, and D"
+    ],
+    "correct_answer": "A and B only",
+    "explanation": "[CONCEPT]\nStatement A is correct because after an infection, innate immune cells like macrophages and dendritic cells capture the\n\npathogen or its antigens at the site of injury. These antigen -presenting cells then migrate through the lymphatic vessels\n\nto the draining lymph node to initiate an adaptive immune response.\n\nStatement B is correct because the fibroblastic reticular cell conduit system is a specialized network within the lymph node\n\nthat rapidly transports small soluble molecules, including chemokines and antigens considered danger signals, from the\n\nafferent lymph to key areas like the high endothelial venules, alerting them to the ongoing infection.\n\nStatement C is incorrect because the entry of naive lymphocytes into lymph nodes is initiated by tetheri ng and rolling, a\n\nstep mediated by the interaction of L-selectin on the lymphocyte with its ligands on the high endothelial venules. ICAM-1\n\nis involved in the later step of firm adhesion, not the initial rolling.\n\nStatement D is incorrect because naive B an d T cells do not exit circulation at the peripheral site of injury. They are\n\nactivated and undergo clonal expansion within the controlled environment of the secondary lymphoid organs, such as the\n\ndraining lymph node, not in the infected tissue itself."
+  },
+  {
+    "id": 95,
+    "section": "C",
+    "question": "Izumo and Juno are two proteins that are expressed in sperm and egg, respectively, and play critical roles in mediating\ninteractions between them. The following experiments were carried out with Izumo and Juno:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Sperms from a male mouse, where Izumo has been knocked out, could not fertilize eggs from a normal female.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Two independent kidney cell lines were developed, one expressing Izumo and the other expressing Juno. If the two cells are mixed, the cells will tend to aggregate with each other.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Whole mount immunostaining for Izumo and Juno indicated specific staining on the sperm and egg, respectively.</span></div></div>\nWhich one of the following options lists experiment(s) that demonstrate(s) interactions between Izumo and Juno?",
+    "options": [
+      "A only",
+      "B only",
+      "A and C",
+      "C only"
+    ],
+    "correct_answer": "B only",
+    "explanation": "[CONCEPT]\nStatement A does not directly demonstrate an interaction. This loss-of-function experiment shows that Izumo is necessary\n\nfor fertilization, but it does not, by itself, prove that its function is to bind specifically to Juno. The failure could be due to\n\nStatement B correctly demonstrates a direct interaction. By expressing Izumo and Juno on two separate populations of\n\ncells that do not normally adhere, and then observing that they aggregate when mixed, this experimen t provides direct\n\nevidence of a physical binding interaction between the two proteins. The adhesion is caused by Izumo on one cell binding\n\nStatement C does not demonstrate an interaction. This immunostaining experiment shows the localiz ation of the two\n\nproteins, confirming that Izumo is on the sperm and Juno is on the egg. While being in the right place is a prerequisite for\n\nan interaction, it is not proof that one occurs. Many other proteins are also present on these surfaces that do not interact"
+  },
+  {
+    "id": 96,
+    "section": "C",
+    "question": "The following statements are related to different signaling pathways involved in tetrapod limb development:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Shh released by the ZPA inhibits Fgf8 signaling in the AER.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>FGFs released by the AER activate Shh expression in the ZPA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Wnt7a expression in the dorsal ectoderm plays a role in limiting Shh expression in the ZPA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Overactivation of Wnt signaling in the ventral ectoderm causes an overgrowth of AER and formation of extra digits.</span></div></div>\nWhich one of the following options represent all correct statements?",
+    "options": [
+      "A, B, and C",
+      "A and D only",
+      "B and D only",
+      "B, C, and D"
+    ],
+    "correct_answer": "B and D only",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because the signaling  between the Zone of Polarizing Activity (ZPA) and the Apical Ectodermal\n\nRidge (AER) is a positive feedback loop. Shh from the ZPA is required to maintain the expression of Fgf8 in the AER, not\n\nStatement B is correct because this positive feedb ack loop works in both directions. Fibroblast Growth Factors (FGFs)\n\nproduced by the AER are necessary to induce and maintain the expression of Shh in the posterior mesenchyme of the limb\n\nStatement C is incorrect because Wnt7a, expressed in the dorsal ectoderm, is known to promote and help maintain Shh\n\nexpression in the ZPA. It does not limit it; rather, it is part of the signaling cascade required for proper ZPA function and\n\nStatement D is correct because normally, Wnt signaling is repressed in the ventral ectoderm by Engrailed-1 (En-1). If Wnt\n\nsignaling is overactivated ventrally, it effectively \"dorsalizes\" the ventral side, which can lead to the formation of a larger\n\nAER and subsequent limb patterning defects, including polydactyly or the formation of extra digits."
+  },
+  {
+    "id": 97,
+    "section": "C",
+    "question": "A network of genes regulates vertebrate eye development. The loss or gain of function of select genes are listed in\nColumn X, and their effects or phenotypes are listed in Column Y.\nWhich one of the following options represents all correct matches between column X and column Y?",
+    "options": [
+      "(a) A - iv, B - i, C - ii, D - iii",
+      "(b) A - ii, B - iii, C - i, D - iv",
+      "(c) A - iii, B - ii, C - iv, D - i",
+      "(d) A - iv, B - ii, C - i, D - iii"
+    ],
+    "correct_answer": "(a) A - iv, B - i, C - ii, D - iii",
+    "explanation": "[CONCEPT]\nA. Loss of function of Shh iv. Failure to split the eye field to form bilateral eye fields\n\nB. Elevated levels of Shh in the prechordal plate i. No eyes\n\nC. Loss of function of Otx2 ii. Disruption of anterior neural tube specification\n\nD. Loss of function of Mitf iii. Defective pigmented retina",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Loss of function of Shh",
+      "Elevated levels of Shh in the prechordal plate",
+      "Loss of function of Otx2",
+      "Loss of function of Mitf"
+    ],
+    "list_2": [
+      "No eyes",
+      "Disruption of anterior neural tube specification",
+      "Defective pigmented retina",
+      "Failure to split the eye field to form bilateral eye fields"
+    ]
+  },
+  {
+    "id": 98,
+    "section": "C",
+    "question": "Interactions among ‘maternal effect gene’ and ‘gap gene’ products are crucial for establishing embryonic domains in\nthe Drosophila embryo. Which one of the following options DOES NOT show the correct interactions?",
+    "options": [
+      "Diagram 1",
+      "Diagram 2",
+      "Diagram 3",
+      "Diagram 4"
+    ],
+    "correct_answer": "Diagram 4",
+    "explanation": "[CONCEPT]\nproper anterior–posterior patterning.\n\n[GIVEN]\n• Hunchback (Hb) activates Krüppel (Kr) but Kr inhibits Giant (Gt).\n• Gt is not directly inhibited by Hb in this way; instead, Hb can activate or repress depending on concentration and\n• Diagram 4 shows Kr activating Gt , which is inconsistent with known interactions — Kr actually represses Gt in"
+  },
+  {
+    "id": 99,
+    "section": "C",
+    "question": "The following statements are made regarding leaf development in plants:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The activity of KNOX1 and ARP are mutually repressive to help establish a separate identity for emerging leaf primordium.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>PHANTASTICA is required for adaxial cell fate during leaf development.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>KANADI genes promote abaxial cell fate during leaf development.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>miR166 binds to KANADI mRNA and degrades it on the abaxial side of the leaf primordium.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>Overexpression of KNOX1 increases leaf complexity and indeterminacy.</span></div></div>\nWhich one of the following options represents all correct statements?",
+    "options": [
+      "A, B, C and E",
+      "A, C, D and E",
+      "A, B, C, and D",
+      "A, B, D and E"
+    ],
+    "correct_answer": "A, B, C and E",
+    "explanation": "[CONCEPT]\nStatement A is correct because the boundary between the shoot apical meristem and the new lea f primordium is\n\nestablished by a mutually repressive interaction. KNOX1 genes, active in the meristem, repress ARP genes. Conversely, in\n\nthe initiating leaf, ARP genes are activated and repress KNOX1 genes, promoting determinate leaf identity.\n\nStatement B is correct because PHANTASTICA, an ARP gene, is a key regulator required for establishing the adaxial (upper)\n\ndomain of the developing leaf. Loss of its function leads to defects in dorsal cell fate and outgrowth.\n\nStatement C is correct because the KANADI gene family members are crucial transcription factors that are expressed in\n\nand promote the cell fate of the abaxial (lower) side of the leaf, working in opposition to the adaxial determinants.\n\nStatement D is incorrect because miR166 targets the messenger RNAs of the adaxial identity genes, specifically the HD -\n\nZIP III family, not the KANADI genes. It is expressed abaxially and helps to restrict the adaxial determinants to the upper\n\nStatement E is correct because KNOX1 genes maintain the indeterminate, undifferentiated state of the meristem. When\n\noverexpressed or ectopically expressed in a leaf, they confer meristematic properties, which disrupts normal determinate\n\ngrowth and leads to more complex, lobed leaves or even the formation of new leaflets."
+  },
+  {
+    "id": 100,
+    "section": "C",
+    "question": "In early amphibian development, the ectodermal cells with BMP4 activity lead to epidermal ectoderm fate. If cells\nlack BMP4 activity, they take up a fate of neural ectoderm. BMP inhibitors like noggin dorsalize  the ectodermal cells and\ngive rise to neural ectoderm.\nThe following statements are made with reference to the above:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The default fate of the ectoderm is to become neural tissue.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Noggin mRNA will be depleted in lithium chloride-treated gastrula.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Injection of noggin mRNA into UV-radiated embryos at the 1-cell stage rescued dorsal development.</span></div></div>\nWhich one of the following options represents a combination of all correct statements?",
+    "options": [
+      "A only",
+      "B only",
+      "A and C",
+      "B and C"
+    ],
+    "correct_answer": "A and C",
+    "explanation": "[CONCEPT]\nStatement A is correct  because the provided information establishes a default model for neural induction. Ectodermal\n\ncells require an active signal, BMP4, to become epidermis. In the absence of this signal, either because it is not present or\n\nbecause it is blocked, the cells intrinsically differentiate into neural tissue. This makes the neural fate the default pathway.\n\nStatement B is incorrect because lithium chloride treatment is known to hyperdorsalize an amphibian embryo, meaning\n\nit enhances the formation of dorsal structures, including an enlarged Spemann-Mangold Organizer. Since the Organizer is\n\nthe primary source of noggin, a LiCl-treated gastrula would have an increased or expanded domain of noggin expression,\n\nStatement C is correct because UV radiation ventralizes an embryo by preventing the formation of the dorsal Organizer,\n\ninhibitor. The resulting Noggin protein blocks BMP4 signaling, thereby inducing neural tissue and rescuing the formation\n\nof dorsal structures like the head and nervous system.\n\n[INTERPRETATION]\nthus leading to a lack of endogenous BMP inhibitors like noggin. Injecting noggin mRNA artificially provides this missing"
+  },
+  {
+    "id": 101,
+    "section": "C",
+    "question": "A researcher simultaneously disrupted the activities of \"Ferrochelatase\" and \"Chlorophyll a oxygenase\" enzymes\ninvolved in the biosy nthesis of heme and chlorophyll, respectively in Arabidopsis. The researcher made the following\npredictions about the outcomes of the above experiments:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The synthesis of \"Chlorophyll a\" from \"Chlorophyllide a\" will be inhibited.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The synthesis of \"Chlorophyll b\" will be completely inhibited.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The content of \"Heme\" molecule will be higher compared to wild-type plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The metabolic flux will shift towards the biosynthesis of \"Chlorophyll a\".</span></div></div>\nWhich one of the following options represents the combination of all correct outcomes?",
+    "options": [
+      "A and B",
+      "B and C",
+      "C and D",
+      "B and D"
+    ],
+    "correct_answer": "B and D",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because the enzyme Chlorophyll a oxygenase acts on Chlorophyll a to convert it into Chlorophyll\n\nb. The synthesis of Chlorophyll a from Chlorophyllide a occurs upstream of this step and is therefore not inhibited by the\n\ndisruption of Chlorophyll a oxygenase.\n\nStatement B is correct because Chlorophyll a oxygenase is the specific enzyme responsible for the conversion of\n\nChlorophyll a to Chlorophyll b. Disrupting its activity will completely inhibit the synthesis of Chlorophyll b.\n\nStatement C is incorrect because Ferrochelatase is the terminal enzyme in the heme biosynthesis branch, responsible for\n\ncreating the Heme molecule. Disrupting its activity will block Heme production, leading to a lower, not higher, content of\n\nStatement D is correct because Heme and Chlorophyll synthesis pathways diverge from a common precursor,\n\nProtoporphyrin IX. By disrupting Ferrochelatase, the Heme branch is blocked. This will cause the metabolic flux from the\n\ncommon precursor to be rerouted or shifted towards the alternative, unblocked pathway, which leads to the biosynthesis"
+  },
+  {
+    "id": 102,
+    "section": "C",
+    "question": "The operation of the photorespiratory (C 2) pathway involves cooperative interaction among three separate\nsubcellular organelles, namely, chloroplast, mitochondria, and peroxisomes. Following are certain statements regarding\nC2 pathway:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>2-phosphoglycolate formed in the chloroplast is converted to glycolate by the action of phosphoglycolate phosphatase.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Glycolate exits chloroplast by diffusion and enters peroxisome through a glycolate transporter.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>In the peroxisomes, glycolate reacts with O2 and produces glyoxylate and H2O2.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Only serine:glyoxylate aminotransferase is involved in the conversion of glyoxylate into serine in a peroxisomal reaction.</span></div></div>\nWhich one of the following options correctly marks the above statements as TRUE (T) or FALSE (F)?",
+    "options": [
+      "A-T, B-T, C-F, D-T",
+      "A-F, B-T, C-F, D-T",
+      "A-F, B-T, C-T, D-T",
+      "A-T, B-F, C-T, D-F"
+    ],
+    "correct_answer": "A-T, B-F, C-T, D-F",
+    "explanation": "[CONCEPT]\nStatement A is true. In chloroplasts, 2-phosphoglycolate → glycolate via phosphoglycolate phosphatase.\n\nStatement B is false. Glycolate does not diffuse out; it is exported/imported via transporters (e.g., PLGG1).\n\nStatement C is true. In peroxisomes, glycolate oxidase uses O₂ to make glyoxylate + H₂O₂.\n\nStatement D is false. Glyoxylate is transaminated mainly by glutamate:glyoxylate aminotransferase to glycine; serine\n\nforms later (mitochondrial GDC/SHMT), so not “only serine:glyoxylate aminotransferase” nor solely peroxisomal."
+  },
+  {
+    "id": 103,
+    "section": "C",
+    "question": "Following statements are made regarding the biosynthesis of phytohormones:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Indole-3-butyric acid is converted to IAA by β-oxidation in peroxisomes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The gibberellin precursor, geranyl geranyl diphosphate, is synthesized in the plastids.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Cytokinins are synthesized from adenine nucleotides and dimethylallyl diphosphate in the mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The oxidative reactions that convert xanthoxin to abscisic acid occur in the cytosol.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>Cytochrome P450 monooxygenase enzyme family associated with endoplasmic reticulum catalyzes most of the reactions in brassinosteroid biosynthesis.</span></div></div>\nWhich one of the following combinations contains all correct statements?",
+    "options": [
+      "A, C, D, and E",
+      "A, B, D, and E",
+      "B, C, and D",
+      "A, B, and E only"
+    ],
+    "correct_answer": "A, B, D, and E",
+    "explanation": "[CONCEPT]\nStatement A is correct because Indole-3-butyric acid (IBA) serves as a precursor to the primary auxin, Indole-3-acetic acid\n\n(IAA). This conversion process is chemically analogous to the breakdown of fatty  acids and occurs via a β -oxidation\n\npathway that is localized within the peroxisomes.\n\nStatement B is correct because gibberellins are terpenoids, and the early steps of their biosynthesis, including the synthesis\n\nof the C20 precursor geranylgeranyl diphosp hate (GGDP), take place in the plastids via the methylerythritol phosphate\n\nStatement C is incorrect because while the precursors are correct, the primary cellular location for the key enzymatic step\n\nin cytokinin biosynthesis, catalyzed by is opentenyl transferase (IPT), is mainly the plastids and cytosol, not the\n\nStatement D is correct because the final two steps in the biosynthesis of abscisic acid involve the conversion of xanthoxin\n\nto abscisic acid. These are oxidative reactions catalyzed by enzymes that are located in the cytosol of the plant cell.\n\nStatement E is correct because the biosynthesis of brassinosteroids involves a complex series of hydroxylation and\n\noxidation steps. Most of these reactions are catalyzed by various members of the large cytochrome P450 monooxygenase\n\nenzyme family, which are typically anchored to the membrane of the endoplasmic reticulum."
+  },
+  {
+    "id": 104,
+    "section": "C",
+    "question": "Sucrose transport in plant cells follows both active transport and diffusion mechanisms. The given figure shows the\nrate of sucrose uptake by soybean protoplasts as a function of the external sucrose concentrations.\nBased on the given information, a researcher made the following interpretations:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Sucrose uptake at low concentration (<10 mM) is facilitated by an energy-dependent process.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Sucrose uptake at low concentrations is a carrier-independent process.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>At higher concentrations, sucrose enters the cells by diffusion down its concentration gradient.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Inhibition of ATP synthesis with metabolic poison can block only the linear component.</span></div></div>\nWhich one of the following options represents the combination of all correct interpretations?",
+    "options": [
+      "A and B",
+      "B and C",
+      "A and C",
+      "C and D"
+    ],
+    "correct_answer": "A and C",
+    "explanation": "[CONCEPT]\nThe curve is saturable below ~10 mM —hallmark of carrier-mediated, energy-dependent uptake  (e.g., H⁺/sucrose\n\nsymport) → A true , B false . Above ~10 mM, uptake increases linearly with concentration —consistent with passive\n\ndiffusion down the gradient → C true. Metabolic poisons (block ATP) would inhibit the curved, active component, not the"
+  },
+  {
+    "id": 105,
+    "section": "C",
+    "question": "Shown below is a hypothetical metabolic pathway leading to the production of lignin metabolite, and the three\npathway enzymes (X, Y, and Z), of which Z is regulated by feedback inhibition.\nWhich one of the following strategies will lead to the generation of plants with the highest level of lignin?",
+    "options": [
+      "Overexpression of the genes expressing enzyme X.",
+      "Knockout of the gene expressing enzyme Y.",
+      "Overexpression of the genes expressing enzymes X and Z.",
+      "Overexpression of the gene expressing enzyme X and knockout of the gene expressing enzyme Y."
+    ],
+    "correct_answer": "Overexpression of the gene expressing enzyme X and knockout of the gene expressing enzyme Y.",
+    "explanation": "[CONCEPT]\nOverexpress X: pushes more flux from shikimate → arogenate (common precursor).\n\nKnock out Y: removes the competing branch to tyrosine, forcing arogenate toward Z → phenylalanine → p-coumarate →\n\nSimply overexpressing Z (option 3) won’t overcome its feedback inhibition by phenylalanine; removing competition (Y)\n\nplus increasing precursor supply (X) maximizes net flux to the lignin branch."
+  },
+  {
+    "id": 106,
+    "section": "C",
+    "question": "The table below lists genes (Column X) and their encoded proteins (Column Y) that play an important role in plant\nresponse to biotic stress.\nWhich one of the following options represents the correct match between Column X and Column Y?",
+    "options": [
+      "(a) A-ii, B-i, C-iv, D-iii",
+      "(b) A-iii, B-iv, C-ii, D-i",
+      "(c) A-iv, B-i, C-ii, D-iii",
+      "(d) A-iv, B-ii, C-iii, D-i"
+    ],
+    "correct_answer": "(c) A-iv, B-i, C-ii, D-iii",
+    "explanation": "[CONCEPT]\nThe correct match is A-iv, B-i, C-ii, D-iii.\n\nThe SID1 (Salicylic Acid Induction Deficient 1 ) gene does not directly synthesize the defense hormone salicylic acid (SA).\n\nInstead, it encodes a MATE (Multidrug and Toxin Extrusion) transporter. This protein is involved in transporting molecules\n\nrelated to the SA pathway across cell membranes, contributing to the overall defense response.\n\nSID2 → i. Isochorismate synthase The SID2 gene is the central player in SA production during an infection. It encodes the\n\nkey enzyme isochorismate synthase , which catalyzes a rate -limiting step in the synthesis of salicylic acid, thereby\n\nactivating widespread defense signals throughout the plant.\n\nPAD3 → ii. Cytochrome P450 monooxygenase  The PAD3 (Phytoalexin Def icient 3 ) gene is required for the plant to\n\nproduce a potent antimicrobial compound (a phytoalexin) called camalexin. Specifically, it encodes a cytochrome P450\n\nmonooxygenase, an enzyme that performs the final chemical conversion to create the toxic camalexin molecule.\n\nPEN3 → iii. ABC transporter  The PEN3 (Penetration 3) protein acts as a bouncer at the cell membrane, helping to stop\n\nfungal invaders. It is an ABC (ATP-Binding Cassette) transporter, which uses energy from ATP to pump defensive chemicals\n\nout of the cell to the site of attempted pathogen entry, forming a localized toxic barrier.",
+    "type": "match_following_mcq",
+    "list_1": [
+      "SID1",
+      "SID2",
+      "PAD3",
+      "PEN3"
+    ],
+    "list_2": [
+      "Isochorismate synthase",
+      "Cytochrome P450 monooxygenase",
+      "ABC transporter",
+      "MATE transporter"
+    ]
+  },
+  {
+    "id": 107,
+    "section": "C",
+    "question": "The baroreceptors present in the carotid sinus and aortic arch are stretch receptors that provide neural signals to the\nbrain stem for the maintenance of normal blood pressure. The activity of baroreceptors in the regulation of blood pressure\nand heart rate are proposed in the following statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The increased baroreceptor discharge due to high blood pressure in the carotid sinus and aortic arch stimulates the tonic discharge of sympathetic nerves to blood vessels and heart.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>A decline in the pulse pressure without a change in mean pressure increases the rate of baroreceptor discharge.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Baroreceptors are more sensitive to pulsatile changes of blood pressure than to constant blood pressure.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The increased baroreceptor discharge excites the vagal innervations to the heart.</span></div></div>\nWhich one of the following options represents all correct statements?",
+    "options": [
+      "A, B, C, and D",
+      "A, C, and D only",
+      "C and D only",
+      "A and B only"
+    ],
+    "correct_answer": "C and D only",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because an increased baroreceptor discharge signals high blood pressure, which in turn leads to\n\nan inhibition, not a stimulation, of the sympathetic nervous system. This inhibitory response helps to lower blood pressure\n\nby causing vasodilation and reducing heart rate.\n\nStatement B is incorrect because baroreceptors are stimulated by the stretch and rate of change of pressure. A decline in\n\npulse pressure signifies smaller fluctuations and less dynamic stretch on the arterial wall, which would lead to a decrease,\n\nnot an increase, in the rate of baroreceptor discharge.\n\nStatement C is correct because baroreceptors are dynamic receptors that adapt partially to constant pressure. They\n\nrespond much more strongly to a rapidl y changing or pulsatile pressure than to a steady, non -pulsatile pressure of the\n\nsame mean value, reflecting their sensitivity to the rate of change.\n\nStatement D is correct because an increased baroreceptor discharge indicates high blood pressure. The cent ral nervous\n\nsystem responds by increasing parasympathetic activity to slow the heart down. This parasympathetic innervation to the\n\nheart is carried by the Vagus nerve, so increased baroreceptor firing excites vagal output."
+  },
+  {
+    "id": 108,
+    "section": "C",
+    "question": "The following statements are related to airway resistance of lungs in healthy humans:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The resistance to airflow increases with increasing lung volume.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The major site of airway resistance is in the first eight generations of airways.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The smallest airways contribute very little to the overall total resistance of the bronchial tree.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Breathing a mixture of oxygen-helium instead of oxygen-nitrogen results in a decrease of airway resistance.</span></div></div>\nWhich one of the following options represents all correct statements?",
+    "options": [
+      "B and D only",
+      "B, C and D",
+      "A and B only",
+      "A and D only"
+    ],
+    "correct_answer": "B, C and D",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because resistance to airflow decreases with increasing lung volume. As the lungs inflate, the\n\nsurrounding tissue exerts radial traction on the airways, pulling them open. This i ncrease in airway radius leads to a\n\nStatement B is correct because the highest resistance is found in the medium -sized bronchi, which correspond to the\n\nintermediate generations of the airways (roughly generations 3 to 8) . The trachea has a large radius, and the smallest\n\nairways have a massive total cross-sectional area, so both have lower resistance.\n\nStatement C is correct because although individual small airways have a very small radius, they are arranged in a massive\n\nparallel network. This parallel arrangement results in a very large total cross -sectional area, making their collective\n\ncontribution to overall airway resistance minimal.\n\nStatement D is correct because airflow in the larger airways, where most resistance occurs, is often turbulent. In turbulent\n\nflow, resistance is proportional to the density of the gas. Since helium is much less dense than nitrogen, breathing a\n\nhelium-oxygen mixture reduces overall airway resistance compared to breathing air."
+  },
+  {
+    "id": 109,
+    "section": "C",
+    "question": "The following statements are made about the subcellular localization of steroid synthesizing enzymes in adrenal\ncortical cells.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>3β-Hydroxysteroid dehydrogenase is present in mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>17α-Hydroxylase is present in the smooth endoplasmic reticulum.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>11β-Hydroxylase is present in mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>21β-Hydroxylase is present in smooth endoplasmic reticulum.</span></div></div>\nWhich one of the following options represents both correct statements?",
+    "options": [
+      "A and B",
+      "B and C",
+      "C and D",
+      "A and D"
+    ],
+    "correct_answer": "C and D",
+    "explanation": "[CONCEPT]\nStatement A is incorrect b ecause 3β -Hydroxysteroid dehydrogenase, the enzyme that converts pregnenolone to\n\nprogesterone, is located in the smooth endoplasmic reticulum (SER), not the mitochondria. Steroid precursors exit the\n\nmitochondria to be processed by this enzyme in the SER.\n\nStatement B is a incorrect statement, as 17α-Hydroxylase is an enzyme is also located in the mitochondria.\n\nStatement C is correct because 11β -Hydroxylase performs one of the final steps in the synthesis of glucocorticoids like\n\ncortisol. This reaction specifically occurs within the mitochondria, requiring the steroid precursor to be transported back\n\nStatement D is correct because 21 -Hydroxylase (also written as 21β -Hydroxylase) is a cytochrome P450 enzyme that is\n\nalso a re sident of the smooth endoplasmic reticulum. It is essential for the synthesis of both cortisol and aldosterone.\n\n[INTERPRETATION]\nTherefore, the option combining statements C and D represents a pair of correct statements."
+  },
+  {
+    "id": 110,
+    "section": "C",
+    "question": "Given below are statements about the action of glucagon in the human body:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>It does not cause glycogenolysis in muscle.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>It decreases ketone bodies formation in the liver.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>It does not cause lipolysis in the liver.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>It inhibits conversion of phosphoenolpyruvate to pyruvate in the liver.</span></div></div>\nWhich one of the following options represents both correct statements?",
+    "options": [
+      "A and B",
+      "B and C",
+      "C and D",
+      "A and D"
+    ],
+    "correct_answer": "A and D",
+    "explanation": "[CONCEPT]\nStatement A is correct because skeletal muscle cells lack receptors for glucagon. Therefore, glucagon cannot signal to\n\nmuscle tissue to break down its glycogen stores. Muscle glycogenolysis is primarily regulated by epinephrine and local\n\nfactors during exercise, not by glucagon.\n\nStatement B is incorrect because glucagon is a ketogenic hormone. By promoting the breakdown of fatty acids and\n\nstimulating gluconeogenesis in the liver, it increases the production of acetyl -CoA, which is then converted into ketone\n\nbodies. Thus, glucagon increases, not decreases, ketone body formation.\n\nStatement C is incorrect because the primary site of hormone-sensitive lipolysis, the breakdown of stored triglycerides, is\n\nadipose tissue, not the liver. Glucagon's main effect in the liver is to promote the oxidation of fatty acids that arrive from\n\nthe circulation, not to cause lipolysis of stored fat within the liver itself.\n\nStatement D is correct because a key action of glucagon is to stimulate gluconeogenesis, the synthesis of new glucose. To\n\nprevent a futile cycle, glucagon signaling leads to the phosphorylation and inactivation of the enzyme pyruvate kinase in\n\nthe liver. This action inhibits the conversion of phosphoenolpyruvate back to pyruvate, thus ensuring that the metabolic\n\nflow is directed towards glucose synthesis."
+  },
+  {
+    "id": 111,
+    "section": "C",
+    "question": "Different segments of the renal tubule (Column X) and the sodium transporter in the apical membrane of tubular\nWhich one of the following options represents the correct match between Column X and Column Y?",
+    "options": [
+      "(a) a - iv, b - i, c - ii, d - iii",
+      "(b) a - ii, b - iv, c - i, d - iii",
+      "(c) a - i, b - ii, c - iii, d - iv",
+      "(d) a - iii, b - iv, c - i, d - ii"
+    ],
+    "correct_answer": "(a) a - iv, b - i, c - ii, d - iii",
+    "explanation": "[CONCEPT]\nThe correct match is a – iv, b – i, c – ii, d – iii\n\na. Proximal tubule i. Na+ channel (ENaC)\n\nb. Collecting duct ii. Na+-K+-2Cl- co-transporter\n\nc. Thick ascending limb iii. Na+-Cl- co-transporter\n\nd. Distal convoluted tubule iv. Na+-amino acid co-transporter",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Proximal tubule",
+      "Collecting duct",
+      "Thick ascending limb",
+      "Distal convoluted tubule"
+    ],
+    "list_2": [
+      "Na+ channel (ENaC)",
+      "Na+-K+-2Cl- co-transporter",
+      "Na+-Cl- co-transporter",
+      "Na+-amino acid co-transporter"
+    ]
+  },
+  {
+    "id": 112,
+    "section": "C",
+    "question": "The following statements are made about body temperature regulation in humans:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>As the skin temperature falls, the hypothalamic set point for sweating decreases.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Acclimatization to cold activates the uncoupling protein (UCP) in mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Acclimatization to heat decreases aldosterone secretion.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Sodium ion concentration in sweat decreases upon acclimatization to heat.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>When the body temperature becomes high, the skin blood vessels undergo vasodilation.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A, B, and C",
+      "B, D, and E",
+      "B and C only",
+      "A, D, and E"
+    ],
+    "correct_answer": "B, D, and E",
+    "explanation": "[CONCEPT]\nStatement A is incorrect because as skin temperature falls, the body needs to conserve heat. Therefore, the hypothalamic\n\nset point for sweating increases, meaning a higher core body temperature is  required before sweating is initiated. This\n\nStatement B is correct because acclimatization to cold enhances non-shivering thermogenesis. This involves increasing the\n\namount and activity of the uncoupling protein (UCP1) in t he mitochondria of brown and beige adipose tissue, which\n\ngenerates heat by uncoupling metabolism from ATP production.\n\nStatement C is incorrect because during acclimatization to heat, increased sweating leads to a risk of significant salt loss.\n\nTo counteract this, aldosterone secretion increases. Aldosterone promotes the reabsorption of sodium ions in the sweat\n\nStatement D is correct as a direct consequence of acclimatization to heat. The increased aldosterone levels enhanc e the\n\nreabsorption of sodium by the sweat glands, resulting in the production of more dilute sweat with a lower sodium ion\n\nStatement E is correct because when core body temperature rises, the hypothalamus triggers cutaneous vasodilation. The\n\nblood vessels in the skin widen, increasing blood flow to the body surface and allowing excess heat to be radiated away"
+  },
+  {
+    "id": 113,
+    "section": "C",
+    "question": "A transformation experiment is performed with two Pneumococcal strains. One strain is resistant to four dru gs—A,\nB, C, and D —whereas the other is sensitive to all the drugs. Both strains are mixed, and the mixture is plated on media\ncontaining various combinations of the drugs. The colonies obtained on these plates are given below.\nDrugs added No. of colonies Drugs added No. of colonies\nA 1156 CD 786\nB 1148 ABC 30\nC 1161 ABD 42\nD 1139 ACD 630\nAB 46 BCD 36\nAC 640 ABCD 30\nAD 942\nBC 51\nBased on the above results, which one of the below options represents the most likely order of the drug-resistance genes?",
+    "options": [
+      "A-B-C-D",
+      "A-C-B-D",
+      "A-D-C-B",
+      "A-D-B-C"
+    ],
+    "correct_answer": "A-D-C-B",
+    "explanation": "[CONCEPT]\nCo-transformation frequency ∝ physical proximity.\n\n[GIVEN]\n• Highest pairs: AD (942) and CD (786) → A–D and D–C are adjacent.\n• Intermediate: AC (640) → A and C are separated by one gene (fits A–D–C).\n• Lowest with B: AB (46), BC (51), triples with B (ABC 30, ABD 42, BCD 36) → B is far from the others, at one end.\n\n[INTERPRETATION]\nThus the linear order that matches all frequencies is A–D–C–B."
+  },
+  {
+    "id": 114,
+    "section": "C",
+    "question": "In a dioecious plant species, a single gene is responsible for petal color. A cross between a true-breeding red female\nand a true -breeding white male gave rise to all red males and all white females in the F 1 generation. However, the\nreciprocal cross produced all red males and all red females.\nWhich one of the following explains the inheritance of petal color?",
+    "options": [
+      "The gene is located in the mitochondrial genome.",
+      "Males are homogametic; the gene is located on the sex chromosome.",
+      "Females are homogametic; the gene is located on the sex chromosome.",
+      "The gene is located on an autosome."
+    ],
+    "correct_answer": "Males are homogametic; the gene is located on the sex chromosome.",
+    "explanation": "[CONCEPT]\nGiven that red eye colour is dominant over the allele for white eye colour. When a cross is made between a white eyed\n\nmale and a red eyed female all males are red eyed while the females are white eyed, which suggest that it is criss -cross\n\ninheritance (sex–linked) and can be explained only if we assume male being homogametic (XX) and female heterogametic\n\nIf this is true then only the reciprocal cross leads to all red eyed progeny as shown below."
+  },
+  {
+    "id": 115,
+    "section": "C",
+    "question": "An embryo lethal recessive  mutation in a plant gene \"R\" located on chromosome 1 was rescued by an ectopically\nintegrated GFP-tagged wild-type \"R\" transgene (R-comp) which is inserted in chromosome 4. When a female homozygous\nR-comp plant is crossed to a male purple -colored recessiv e mutant, some of the resultant F1 embryos showed\nchromosome segregation defects. The plants regenerated from these embryos were purple and sterile, and found to\ncontain the wild-type gene \"R\" but not the R-comp transgene. What is the ploidy of the above F1 plants?",
+    "options": [
+      "Triploid",
+      "Haploid",
+      "Chromosome 4 trisomy",
+      "Monosomic diploid"
+    ],
+    "correct_answer": "Haploid",
+    "explanation": "[CONCEPT]\nThe F1 plants are purple (recessive) and sterile , and they lack the maternal R -comp transgene on chr4  but carry the\n\nendogenous wild-type R (from the male). This indicates  maternal chromosome loss (including the chr4 transgene) and\n\nretention of only the paternal genome, a characteristic feature of haploid induction via genome elimination . Haploids\n\nexpress recessive traits (purple) and are typically sterile, matching the observations."
+  },
+  {
+    "id": 116,
+    "section": "C",
+    "question": "Panel (I) represents two alleles of a gene. The coding region of the wild-type allele (𝑅) is 3 kb long, while the mutant\nallele (𝑟) has a 0.5 kb insertion. The black box indicates the insertion in the 𝑟 allele. Three primers indicated as 𝑋, 𝑌, and\n𝑍 were designed to develop PCR-based DNA markers associated with the gene.\nA cross was carried out between lines with the genotypes 𝑅𝑅 and 𝑟𝑟. The F 1 progeny was selfed. Panel (II) and (III)\nrepresent the probable patterns of DNA markers observed in the F2 progeny using different primer combinations.\nWhich one of the following statements is correct?",
+    "options": [
+      "Panel III represents the pattern when primers 𝑌 and 𝑍 are used for amplification.",
+      "Panel II is an example of a dominant DNA marker.",
+      "The F2 progeny as represented in Panel II will have 50% of the progeny showing no amplified fragment (lane 1).",
+      "A rare recombination event between the regions represented by primers 𝑋 and 𝑌 will lead to changes in the \namplification patterns observed in Panels II and III."
+    ],
+    "correct_answer": "Panel II is an example of a dominant DNA marker.",
+    "explanation": "[CONCEPT]\nPanel II is likely a dominant marker due to the primer set Y and Z, while Panel III represents a co-dominant marker due to\n\nthe primer set X and Z. Panel II shows bands in lanes 2 but absent in lane 1, suggesting a dominant mar ker where the\n\npresence of the wild -type allele (R) produces donot produce band as Y cannot bind, and the homozygous recessive (rr)\n\nforms due the 0.5 kb insertion forming site for amplification with primers Y and Z. Panel III, with three bands (lanes 1, 2,\n\nand 3), reflects a co -dominant marker using primers X and Z, where both the 3 kb wild -type (R) and 3.5 kb mutant (r)\n\nalleles are distinguishable, allowing identification of homozygous (RR, rr) and heterozygous (Rr) genotypes. The F2 progeny\n\nfrom RR x rr se lfing (1:2:1 ratio) supports these patterns, with no 50% no -amplification in Panel II, and recombination"
+  },
+  {
+    "id": 117,
+    "section": "C",
+    "question": "The below pedigree shows the inheritance pattern of gene 𝑋. A loss -of-function mutation of the gene leads to a\ndisorder in adults. Further, gene 𝑋 is imprinted leading to its inactivation. Individuals who carry the mutant allele are\nmarked with a dot, while individuals who show the disorder are shaded.\nThe following statements were made:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Gene 𝑋 is maternally imprinted.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Individual III.6 carries an imprinted allele.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>If individuals III.4 and III.5 have a child, the probability that it will carry at least one mutant allele is 0.75.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>If individuals III.4 and III.5 have a child, the probability that it will show the disorder is 0.75.</span></div></div>\nWhich one of the following options represents all correct statements?",
+    "options": [
+      "A and C",
+      "A and D",
+      "B and C",
+      "B and D"
+    ],
+    "correct_answer": "B and C",
+    "explanation": "[CONCEPT]\nAffected III-7/III-8 arise only when the mutant allele comes from the mother, meaning the paternal allele is imprinted\n\n(silenced) → statement A false (not maternally imprinted).\n\nB true: Every person inherits one imprinted (silenced) copy depending on parent of origin; III-6, though not a carrier, still\n\nC true: III-4 and III -5 are both carriers (heterozygotes), so a child has 3/4 chance to inherit at least one  mutant allele.\n\nD false: With paternal imprinting, disease occurs only if the maternal allele is mutant → probability 1/2, not 3/4."
+  },
+  {
+    "id": 118,
+    "section": "C",
+    "question": "Given below are a few statements related to genetics and linkage mapping in plants:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Near Isogenic Lines are immortal populations.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The physical distance between two polymorphic markers is not linearly related to their genetic distance.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>QTLs identified for a particular phenotype or trait of interest always contribute equally to the trait value.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Association mapping is performed using unrelated individuals of the same population.</span></div></div>\nWhich one of the following options correctly describes the above statements as \"True\" or \"False\"?",
+    "options": [
+      "A: True; B: False; C: True; D: False",
+      "A: False; B: True; C: False; D: False",
+      "A: True; B: True; C: False; D: True",
+      "A: False; B: False; C: True; D: True"
+    ],
+    "correct_answer": "A: True; B: True; C: False; D: True",
+    "explanation": "[CONCEPT]\nStatment A is true. Near Isogenic Lines (NILs) are considered \"immortal\" because they are genetically uniform except for\n\na specific region of interest and can be maintained across generations without significant changes in their genotype.\n\nStatment B is true. Physical distance refers to the actual distance between markers on chromosomes, while genetic\n\ndistance is measured by recombination frequency. These are not always linearly related, as recombination rates can vary\n\ndepending on the region of the chromosome.\n\nStatment C is false. QTLs (Quantitative Trait Loci) do not always contribute equally to the trait value. Some QTLs have a\n\nlarger effect, while others have a smaller impact, depending on their genetic influence and interactions with other QTLs.\n\nStatment D is tr ue. Association mapping typically involves unrelated individuals, from same populations. It relies on\n\nlinkage disequilibrium between genetic markers and traits in a population, which can include multiple diverse individuals."
+  },
+  {
+    "id": 119,
+    "section": "C",
+    "question": "A 19th century phycologist described a soil-dwelling cyanobacterium Nostoc arcus and cited three herbarium sheets\n(X, Y, and Z) collected from different deserts, but no holotype was designated in that work. In 2024, a taxonomist intended\nto stabilize the name and hence selected sheet Z as the reference specimen due to the better morphological clarity and\npreservation of the sample.\nWhat nomenclatural task is the taxonomist performing under the ICN?",
+    "options": [
+      "Designating a neotype because the original material was not sufficient.",
+      "Designating a holotype because the best specimen is being chosen.",
+      "Designating a lectotype because the original material consisted of syntypes.",
+      "Designating an epitype because morphological details are clear."
+    ],
+    "correct_answer": "Designating a lectotype because the original material consisted of syntypes.",
+    "explanation": "[CONCEPT]\nIn the absence of a holotype, when multiple specimens were originally cited (i.e., syntypes) but none was designated as\n\nthe reference specimen, the taxonomist can designate a lectotype . This is a specimen chosen to serve as the official\n\nreference for the species. In this case, s heet Z is selected to stabilize the name, and because there was no holotype and\n\nthe original material was multiple specimens (syntypes), the taxonomist is designating a lectotype."
+  },
+  {
+    "id": 120,
+    "section": "C",
+    "question": "The Red List of the IUCN categorizes species (Column X) under multiple threat levels (Column Y). Match the following\nspecies with their IUCN status (as of the latest reports):\nWhich one of the following options represents all correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A-(i), B-(iv), C-(ii), D-(iii)",
+      "(b) A-(iv), B-(i), C-(ii), D-(iii)",
+      "(c) A-(iv), B-(ii), C-(i), D-(iii)",
+      "(d) A-(i), B-(iv), C-(i), D-(ii)"
+    ],
+    "correct_answer": "(d) A-(i), B-(iv), C-(i), D-(ii)",
+    "explanation": "[CONCEPT]\nThe correct match is as given in option 4.\n\nA. Jerdon's Courser (Rhinoptilus bitorquatus) i. Critically Endangered\n\nB. Indian Star Tortoise (Geochelone elegans) iv. Vulnerable\n\nC. Indian Dwarf Banana (Musa mannii) i. Critically Endangered\n\nD. Teak (Tectona grandis) ii. Endangered",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Jerdon's Courser (Rhinoptilus bitorquatus)",
+      "Indian Star Tortoise (Geochelone elegans)",
+      "Indian Dwarf Banana (Musa mannii)",
+      "Teak (Tectona grandis)"
+    ],
+    "list_2": [
+      "Critically Endangered",
+      "Endangered",
+      "Least Concern",
+      "Vulnerable"
+    ]
+  },
+  {
+    "id": 121,
+    "section": "C",
+    "question": "Match the animal phyla/classes (Column X) with their defining set of characteristics (Column Y).\nWhich one of the following options represents the correct matches?",
+    "options": [
+      "(a) A-iii, B-iv, C-v, D-ii",
+      "(b) A-i, B-iv, C-v, D-ii",
+      "(c) A-iii, B-i, C-v, D-iv",
+      "(d) A-v, B-ii, C-iii, D-i"
+    ],
+    "correct_answer": "(a) A-iii, B-iv, C-v, D-ii",
+    "explanation": "[CONCEPT]\nThe correct match is as given in option 1.\n\nA. Phylum Platyhelminthes iii. Bilateral symmetry, acoelomate, triploblastic, usually with a\n\nflattened body and an incomplete digestive tract (if present).\n\nB. Phylum Annelida iv. Segmented body (metamerism) with a true coelom,\n\nchitinous chaetae (typically), closed circulatory system.\n\nC. Class Insecta v. Exoskeleton of chitin, three main body parts (head, thorax,\n\nabdomen), six legs, usually with wings in the adult stage.\n\nD. Phylum Echinodermata ii. Radial symmetry (often pentamerous as adults), water\n\nvascular system, exclusively marine, deuterostomes",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Phylum Platyhelminthes",
+      "Phylum Annelida",
+      "Class Insecta",
+      "Phylum Echinodermata"
+    ],
+    "list_2": [
+      "Bilateral symmetry, pseudocoelomate, complete digestive tract, often microscopic with a corona of cilia.",
+      "Radial symmetry (often pentamerous as adults), water vascular system, exclusively marine, deuterostomes.",
+      "Bilateral symmetry, acoelomate, triploblastic, usually with a flattened body and an incomplete digestive tract (if present).",
+      "Segmented body (metamerism) with a true coelom, chitinous chaetae (typically), closed circulatory system. v. Exoskeleton of chitin, three main body parts (head, thorax, abdomen), six legs, usually with wings in the adult stage."
+    ]
+  },
+  {
+    "id": 122,
+    "section": "C",
+    "question": "As per the 2020 FAO Global Forest Resources Assessment, the climatic domains ranked in descending order based\non their proportion and distribution of global forest area are:",
+    "options": [
+      "Tropical, Subtropical, Temperate, Boreal",
+      "Tropical, Boreal, Temperate, Subtropical",
+      "Boreal, Tropical, Subtropical, Temperate",
+      "Boreal, Temperate, Subtropical, Tropical"
+    ],
+    "correct_answer": "Tropical, Boreal, Temperate, Subtropical",
+    "explanation": "[CONCEPT]\nThe Food and Agriculture Organization's (FAO) Global Forest Resources Assessment 2020 (FRA 2020) indicates that the\n\nclimatic domains ranked in descending order based on their proportion and distribution of global forest area are as\n\n[GIVEN]\n• Tropical: 45%\n• Boreal: 27%\n• Temperate: 16%\n• Subtropical: 11%"
+  },
+  {
+    "id": 123,
+    "section": "C",
+    "question": "Given below are certain plant diseases and the pathogens responsible.\nDisease Pathogen Type\nWhich one of the following options correctly matches the disease with its pathogen?",
+    "options": [
+      "(a) A-(iv), B-(iii), C-(i), D-(ii)",
+      "(b) A-(ii), B-(i), C-(iv), D-(i)",
+      "(c) A-(ii), B-(iii), C-(ii), D-(i)",
+      "(d) A-(iii), B-(iii), C-(i), D-(iv)"
+    ],
+    "correct_answer": "(c) A-(ii), B-(iii), C-(ii), D-(i)",
+    "explanation": "",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Panama disease of Banana",
+      "Red ring disease of Coconut",
+      "Malformation of Mango",
+      "Citrus Canker"
+    ],
+    "list_2": [
+      "Bacterial",
+      "Fungal",
+      "Nematode",
+      "Viral"
+    ]
+  },
+  {
+    "id": 124,
+    "section": "C",
+    "question": "Given below is a table listing the names of compounds/products derived from animals or plants (Column X) and their\nWhich one of the following options represents all correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A (iii), B (i), C (ii), D (iv)",
+      "(b) A (ii), B (iii), C (iv), D (i)",
+      "(c) A (i), B (iv), C (iii), D (ii)",
+      "(d) A (iii), B (i), C (iv), D (ii)"
+    ],
+    "correct_answer": "(d) A (iii), B (i), C (iv), D (ii)",
+    "explanation": "[CONCEPT]\nBacosides, derived from the plant Bacopa monnieri, have traditionally been used as a cognitive enhancer in Ayurvedic\n\nmedicine. Studies indicate their potential in improving learning, understanding, and intelligence by regulating\n\nacetylcholine levels and exhibiting neuroprotective effects.\n\nVincristine is a chemotherapy drug, specifically a vinca alkaloid, approv ed for treating various cancers, including acute\n\nlymphoblastic leukemia (ALL) and different types of lymphomas.\n\nLanolin is a natural substance derived from sheep's wool that acts as an emollient and moisturizer. It is used in skin creams,\n\nlotions, and other skincare products to hydrate and soothe dry skin.\n\nShellac, a natural resin derived from the lac insect, is widely used in the pharmaceutical industry as a coating for tablets\n\nand capsules. It's also used as a glaze and coating in the food industry, particularly for candies, chocolates, and even fruits",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Bacoside",
+      "Vincristine",
+      "Lanolin",
+      "Shellac"
+    ],
+    "list_2": [
+      "Chemotherapy for leukaemia and lymphoma",
+      "Coating for pills and food glazing",
+      "Cognitive enhancer",
+      "Skin creams and moisturizers"
+    ]
+  },
+  {
+    "id": 125,
+    "section": "C",
+    "question": "The following figure shows the decomposition of selected plant litter constituents.\nIn the above, the correct identities of the symbols A, B, C, and D are:",
+    "options": [
+      "A-Lignin, B-Phenols, C-Sugars, D-Cellulose",
+      "A-Phenols, B-Lignin, C-Cellulose, D-Sugars",
+      "A-Cellulose, B-Lignin, C-Sugars, D-Phenols",
+      "A-Cellulose, B-Phenols, C-Lignin, D-Sugars"
+    ],
+    "correct_answer": "A-Phenols, B-Lignin, C-Cellulose, D-Sugars",
+    "explanation": "[CONCEPT]\nThe slope represents decomposition rate — steeper slope = faster breakdown.\n\n[GIVEN]\n• A (Phenols): Very slow decomposition, persisting for many years.\n• B (Lignin): Slowly degraded structural polymer, but faster than phenols.\n• C (Cellulose): Moderate decomposition rate, common structural carbohydrate.\n• D (Sugars): Very rapid degradation within a year due to easy microbial utilization."
+  },
+  {
+    "id": 126,
+    "section": "C",
+    "question": "The Satpura Hypothesis suggests that the Satpura  Range in central India acted as a bridge for the migration of\nMalayan taxa into peninsular India. However, empirical observations do not fully support this hypothesis. Consider the\nfollowing statements made in the context of biogeographic patterns:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The shared characteristics of some Malayan fauna and that of peninsular India is due to convergent evolution in similar environments.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The said flora and fauna originated in the Indian subcontinent and then dispersed to south -east Asia ('out-of-India').</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Vicariance biogeography split ancestral populations, leading to the diversification of species.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Pleistocene glaciation created conditions for the dispersal of high-altitude Himalayan taxa to the Western Ghats.</span></div></div>\nWhich combination of the above statements have been proposed as alternative explanations for the Satpura hypothesis?",
+    "options": [
+      "A, B, and C",
+      "A, B, and D",
+      "A and B only",
+      "B, C, and D"
+    ],
+    "correct_answer": "A, B, and D",
+    "explanation": "[CONCEPT]\nWhile the Satpura Hypothesis suggests Malayan elements entered peninsular India via the Satpura ranges, alternativ e\n\nC (vicariance) is more about ancient continental drift and not a primary alternative proposed for the Satpura case.\n\n[GIVEN]\n• A: Convergent evolution — similar environmental pressures leading to similar adaptations without direct\n• B: Out-of-India hypothesis — species originated in India and later spread to Southeast Asia.\n• D: Pleistocene glaciations allowed Himalayan taxa to disperse southward to the Western Ghats."
+  },
+  {
+    "id": 127,
+    "section": "C",
+    "question": "Given below are four niche -oriented models proposed to explain species-abundance distributions in ecological\ncommunities.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The dominance-preemption model involves successive species preempting a dominant portion (50% or more) of the remaining niche-space.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>In the random fraction model, successive species invade an d take over an arbitrary portion of the niche space of any species previously present. Here, irrespective of their dominance status, all species are subjected to niche division with equal probability.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The MacArthur fraction model assumes that larger nic hes are more likely to be invaded by new species.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The dominance -decay model postulates that the largest niche in an existing assemblage is always subject to a subsequent (random) division.</span></div></div>\nAssuming a process of community assembly that involves successive species invading and establishing in the community,\nwhat would be the correct order of evenness in community structure produced by these mechanisms?",
+    "options": [
+      "A > B > C > D",
+      "A < B < C < D",
+      "B > C > D > A",
+      "D > B > A > C"
+    ],
+    "correct_answer": "A < B < C < D",
+    "explanation": "[CONCEPT]\nThe models below describe different ways species divide resources (niche space), which determines how evenly abundant\n\ntakes most of what's left, and so on, resulting in a community dominated by a few very abundant species.\n\nstick, leading to more equitable shares.\n\nup the largest existing niche. This systematically makes the community more equitable over time.\n\n[GIVEN]\n• Dominance-Preemption (A) creates the lowest evenness. The first species takes most of the resources, the next\n• Random Fraction (B) produces a more even community than (A) because the niche division is more arbitrary.\n• MacArthur Fraction (C)  generates even higher evenness by modeling resource division like a ra ndomly broken\n• Dominance-Decay (D) produces the highest evenness because it actively prevents dominance by always breaking\n\n[INTERPRETATION]\nThus, the correct order of increasing evenness is A < B < C < D."
+  },
+  {
+    "id": 128,
+    "section": "C",
+    "question": "A population of Indian wolf shows logistic growth. Let the carrying capacity (𝐾) be 200 and intrinsic rate of increase,\n𝑟 = 0.05. What is the maximum possible growth rate for the population (in terms of individuals per time unit)?",
+    "options": [
+      "2.0",
+      "2.5",
+      "3.5",
+      "5.0"
+    ],
+    "correct_answer": "2.5",
+    "explanation": "[CONCEPT]\nThe core concept of the logistic growth model is that a population's growth rate is fastest when the population size (N) is\n\nexactly half its carrying capacity (K). This is the point of maximum sustainable yield.\n\nFirst, we find the population size where the growth rate is at its maximum:\n\n[GIVEN]\n• Carrying capacity (K) = 200\n• Intrinsic rate of increase (r) = 0.05\n• N = K / 2 = 200 / 2 = 100\n• Maximum growth rate = 0.05 × 100 × (1 - 100/200)\n• Maximum growth rate = 5 × (1 - 0.5)\n• Maximum growth rate = 5 × 0.5 = 2.5\n\n[STEPS]\nStep 1: Next, we plug all the values into the logistic growth rate equation, dN/dt\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">= rN(1 - N</span><span>K):</span></div></div>\n\n[INTERPRETATION]\nTherefore, the maximum possible growth rate for the wolf population is 2.5 individuals per unit of time."
+  },
+  {
+    "id": 129,
+    "section": "C",
+    "question": "The table below presents the energy transfer values for various activities exhibited by three herbivores inhabiting a\ngrassland with a net primary productivity (NPP) of 10,000 kJ/m²/year.\nHerbivore Activity Energy Value (kJ/m²/year)\nIngestion Egestion Respiration\nA 4000 2000 1000\nB 6000 3000 1000\nC 8000 6000 1000\nBased on the information provided, which one of the following options is NOT correct?",
+    "options": [
+      "C has the highest consumption efficiency but the lowest assimilation efficiency.",
+      "B has the highest consumption efficiency, but C has the highest assimilation efficiency.",
+      "A and B have the highest assimilation efficiencies.",
+      "A has the lowest consumption efficiency."
+    ],
+    "correct_answer": "B has the highest consumption efficiency, but C has the highest assimilation efficiency.",
+    "explanation": "[CONCEPT]\nHerbivore Activity Energy Value (kJ/m²/year)\n\nIngestion Egestion Respiration Consumption\n\nThe statement 2 is NOT correct for two reasons:\n\n1. Herbivore C has the highest consumption efficiency at 80%, not herbivore B (60%).\n\n2. Herbivore C has the lowest assimilation efficiency at 25%, while herbivores A and B share the highest (50%).\n\n[STEPS]\nStep 1: A\n4000 2000 1000 4000/10000= 0.4 4000 - 2000/4000= 0.5\n\nStep 2: B\n6000 3000 1000 6000/10000= 0.6 6000 - 3000/6000= 0.5\n\nStep 3: C\n8000 6000 1000 8000/10000= 0.8 8000 - 6000/8000= 0.25"
+  },
+  {
+    "id": 130,
+    "section": "C",
+    "question": "In a successional chrono sequence (30-400 years) on a sand dune, Ammophila dune grass dominates the youngest\ndunes, Schizachrium prairie bunch grass dominates at 60 years, followed by Pinus species at later stages. Experimental\nseed additions were done to study seedling emergence (as a proportion of viable seeds) of all species on all the dunes\n(Panel 1). In addition, the effect of seed predation on seedling emergence (across dune ages) was also tested (Panel 2).\nThe following figure presents results on seedling emergence.\nBased on the above, consider the following statements regarding the possible interpretation of the results:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Late successional species can establish on younger dunes but may be limited by seed dispersal.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Seed predation reduces the establishment of late successional species on younger dunes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Facilitation has a stronger influence than colonization or seed predation on successional change.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Late successional species cannot establish on younger dunes because of the sandy substrate.</span></div></div>\nWhich combination of the above statements represents valid inferences that can be drawn purely from the data presented\nabove?",
+    "options": [
+      "A and B only",
+      "A, B, and C",
+      "B, C, and D",
+      "B and C only"
+    ],
+    "correct_answer": "A and B only",
+    "explanation": "[CONCEPT]\nThis experiment helps explain why certain plants appear at different stages of ecological succession. The data shows that\n\nthe main barriers for late -successional Pinus species are not the soil conditions of early dunes, but rather getting there\n\nStatement A is a valid inference . Panel 1 shows that when their seeds are manually added, Pinus species emerge very\n\nsuccessfully on the youngest dunes. This proves the physical environment is suitable. Their absence in nature, therefore,\n\nstrongly implies they are limited by seed dispersal—their seeds simply don't arrive at these early stages.\n\nStatement B is also a valid inference . Panel 2 clearly shows that  seed predation significantly reduces the emergence of\n\nPinus seedlings. When seeds are protected from predators (\"No predation\"), their emergence rate is much higher. This\n\nindicates that even if seeds do arrive, they are likely to be eaten before they can grow.\n\nStatements C and D are incorrect because the data shows Pinus species grow best on young dunes, which argues against\n\nthe need for facilitation and proves the sandy substrate is not a barrier."
+  },
+  {
+    "id": 131,
+    "section": "C",
+    "question": "Which one of the following statements best describes the function of magnetite in animal migration?",
+    "options": [
+      "Magnetite crystals generate electrical signals that amplify visual landmarks that guide flight.",
+      "Magnetite acts as a biological compass.",
+      "Magnetite stores magnetic energy that provides energy for long-distance flights.",
+      "Magnetite emits magnetic pulses to keep the group together."
+    ],
+    "correct_answer": "Magnetite acts as a biological compass.",
+    "explanation": "[CONCEPT]\nMagnetite, a magnetic mineral found in certain animals, is used to detect the Earth's magnetic field. This allows animals\n\nlike migratory birds and sea turtles to navigat e during long-distance migrations. The magnetite crystals interact with the\n\nmagnetic field, helping animals determine their orientation and position, essentially acting as a biological compass to\n\nguide their movement across vast distances."
+  },
+  {
+    "id": 132,
+    "section": "C",
+    "question": "The table below lists insect sensory structures (Column X) with their function (Column Y).\nWhich one of the following options correctly matches column X and column Y?",
+    "options": [
+      "(a) A-iii, B-iv, C-i, D-ii",
+      "(b) A-i, B-iii, C-ii, D-iv",
+      "(c) A-iv, B-ii, C-iii, D-i",
+      "(d) A-ii, B-i, C-iv, D-iii"
+    ],
+    "correct_answer": "(d) A-ii, B-i, C-iv, D-iii",
+    "explanation": "[CONCEPT]\nA. Dorsal rim area ii. Polarisation vision\n\nB. Mushroom body i. Learning and memory\n\nC. Antennal lobe iv. Mechanosensation\n\nD. Central complex iii. Motor control",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Dorsal rim area",
+      "Mushroom body",
+      "Antennal lobe",
+      "Central complex"
+    ],
+    "list_2": [
+      "Learning and memory",
+      "Polarisation vision",
+      "Motor control",
+      "Mechanosensation"
+    ]
+  },
+  {
+    "id": 133,
+    "section": "C",
+    "question": "Caterpillars produce defensive vibrations that travel through plant stems to deter its predators . The table below\nsummarises data collected from three plant species, including vibration amplitude measured 10 cm from the caterpillar,\npredator response time, and the Young's modulus of the stem.\nPlant Species Vibration Amplitude (µm) Latency to attack (sec) Young's modulus (MPa)\nA 2.3 3.0 250\nB 1.8 2.1 110\nC 0.7 1.3 45\nChoose the option that correctly provides a mechanistic explanation for the data presented in the above table.",
+    "options": [
+      "A is a herbaceous plant and its stem dissipates energy faster compared to B and C which are woody plants.",
+      "C is a woody plant, and predators detect vibrations on it more easily compared to A and B which are herbaceous \nplants.",
+      "Predators are more inefficient on herbaceous plant species A and B, and more efficient on woody plant species C.",
+      "C is an herbaceous plant and its stem is more likely to transmit vibrations more effectively when compared to \nplant species A and B which are woody."
+    ],
+    "correct_answer": "C is an herbaceous plant and its stem is more likely to transmit vibrations more effectively when compared to \nplant species A and B which are woody.",
+    "explanation": "[CONCEPT]\nThe core principle is Young's modulus, a measure of material stiffness. A high value indicates a stiff, woody stem (like\n\nplants A and B), while a low value signifies a flexible, herbaceous stem (like plant C). The stiff, woody plants A and B\n\ntransmit a strong vibration signal (high amplitude) that effectively deters predators (long latency). In contrast, the flexible,\n\nherbaceous plant C dampens the signal, resulting in a weak vibration (low amplitude) and poor deterrence (short latency)."
+  },
+  {
+    "id": 134,
+    "section": "C",
+    "question": "Male crickets call at dusk when the light intensity falls below a certain level. A researcher kept these insects in the\nlaboratory under two light regimes: i) constant light condition for 24 hours (LL)  and ii) 12 hours Light and 12 hours Dark\ncycle (LD). The calling activity pattern of the crickets in these two regimes across all experimental days is represented in\nthe figure below.\nThe statements below represent inferences that one can draw about circadian control of calling activity in these animals:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Calling activity under LL represents free-running cycle and LD represents entrained cycle.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Calling activity under LL represents entrained cycle and LD represents free-running cycle.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The circadian control of calling activity is endogenous only.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The circadian control of calling activity is exogenous only.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>The circadian control of calling activity has both endogenous and exogenous components.</span></div></div>\nWhich one of the following options gives all correct statements about the inferences we can draw from this experiment?",
+    "options": [
+      "A and C",
+      "B and C",
+      "B and D",
+      "A and E"
+    ],
+    "correct_answer": "A and E",
+    "explanation": "[CONCEPT]\nThis experiment demonstrates that the cricket's calling activity is controlled by both an internal clock and external\n\nenvironmental cues. In the top graph, under constant light (LL), the cricket's internal clock is allowed to free-run without\n\nany time sign als. This results in the activity starting slightly later each day, revealing an endogenous rhythm that is\n\nnaturally a bit longer than 24 hours. The bottom graph shows that when an exogenous cue is provided —a 12 -hour\n\nlight/dark cycle (LD) —the cricket's int ernal clock becomes entrained. Its calling activity now starts precisely at the\n\nbeginning of the dark phase every day. Therefore, statement A is correct because the LL condition shows a free -running\n\ncycle and the LD condition shows an entrained one. Statement E is also correct because the ability of the rhythm to free-\n\nrun proves it's endogenous, while its ability to be entrained proves it's also influenced by exogenous factors."
+  },
+  {
+    "id": 135,
+    "section": "C",
+    "question": "The Hawk-Dove game serves as a model for conflict resolution in evolutionary game theory, wherein players 1 and 2\nhave the option of employing either an aggressive (Hawk) or a peaceful (Dove) strategy. The diverse interaction scenarios\nand their corresponding payoffs (𝑃, 𝑄, 𝑅, 𝑆) are presented in the following matrix:\nIf 𝑉 = the value of the resource (the benefit), 𝐶 = the cost of losing a fight in the above matrix, which one of the following\noptions correctly represents the payoffs?",
+    "options": [
+      "𝑃 = 𝑉, 𝑄 = 0, 𝑅 = (𝑉/2), 𝑆 = (𝑉 - 𝐶)/2",
+      "𝑃 = (𝑉 - 𝐶)/2, 𝑄 = 𝑉, 𝑅 = 0, 𝑆 = (𝑉/2)",
+      "𝑃 = 𝑉, 𝑄 = 0, 𝑅 = (𝑉 - 𝐶)/2, 𝑆 = (𝑉/2)",
+      "𝑃 = (𝑉/2), 𝑄 = (𝑉 - 𝐶)/2, 𝑅 = 𝑉, 𝑆 = 0"
+    ],
+    "correct_answer": "𝑃 = (𝑉 - 𝐶)/2, 𝑄 = 𝑉, 𝑅 = 0, 𝑆 = (𝑉/2)",
+    "explanation": "[CONCEPT]\nThe core concept is to calculate the average outcome for Player 1 in each scenario, where V is the reward and C is the cost\n\nwithout a fight. The outcome is Q = V.\n\n[GIVEN]\n• P (Hawk vs. Hawk): Two aggressive individuals fight. Player 1 has a 50% chance of winning (V) and a 50% chance\n• Q (Hawk vs. Dove): The aggressive Hawk meets a peaceful Dove. The Dove flees, so the Hawk gets the full resource\n• R (Dove vs. Hawk): The peaceful Dove meets an aggressive Hawk. The Dove flees to avoid injury and gets nothing.\n• S (Dove vs. Dove):  Two peaceful individuals meet. They display but don't fight, agreeing to share the resource.\n\n[STEPS]\nStep 1: Calculation step\nof getting injured (-C). The average outcome is P = (V - C) / 2.\n\nStep 2: The outcome is R\n= 0.\n\nStep 3: The outcome is S\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">= V</span><span>2.</span></div></div>"
+  },
+  {
+    "id": 136,
+    "section": "C",
+    "question": "Which one of the following options correctly represents mass extinction events in increasing order of percentage loss\nof species?",
+    "options": [
+      "Triassic, Devonian, Ordovician, Permian",
+      "Permian, Triassic, Devonian, Ordovician",
+      "Devonian, Triassic, Ordovician, Permian",
+      "Permian, Ordovician, Triassic, Devonian"
+    ],
+    "correct_answer": "Devonian, Triassic, Ordovician, Permian",
+    "explanation": "[CONCEPT]\nThe sequence starts with the Late Devonian and Triassic events, which are estimated to have eliminated about 70 and 75\n\n% of all species. The order then proceeds to the more severe Ordovician extinction, which wiped out approximately 85%\n\nof marine species. The list correctly culminates with the Permian extinction, also known as \"The Great Dying,\" which was\n\nthe most catastrophic event in Earth's history, eliminating up to 96% of all marine species and 70% of terrestrial life."
+  },
+  {
+    "id": 137,
+    "section": "C",
+    "question": "Two samples were run on a flow cytometer, and the data were plotted as histograms A and B, as shown below.\nThe following statements were made:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Figure A represents three normal distributions with more variation within groups than between groups.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Figure B represents three normal distributions with more variation between groups than within groups.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The ANOVA-F test is likely to be statistically significant when applied to Figure B, but not to Figure A.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A only",
+      "A and B only",
+      "B and C only",
+      "A, B, and C"
+    ],
+    "correct_answer": "A, B, and C",
+    "explanation": "[CONCEPT]\nThe histograms provide insight into the distribution of fluorescence intensity across two samples. Figure A shows three\n\noverlapping normal distributions with significant overlap, indicating more variation within groups tha n between groups,\n\nmaking statement A correct. Figure B displays three distinct, non -overlapping normal distributions, suggesting more\n\nvariation between groups than within groups, making statement B correct. The ANOVA-F test assesses variance between\n\ngroups relative to within groups; it is likely significant for Figure B due to clear separation but not for Figure A due to\n\noverlap, making statement C correct."
+  },
+  {
+    "id": 138,
+    "section": "C",
+    "question": "The following statements are made about transgenic mice technologies:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Catalytically inactive  Cas9 fused to a transcription activator can be used to activate specific gene expression.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Using CRISPR/Cas9, a precise gene replacement in a target locus can be accomplished by non-homologous end joining repair.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Using CRISPR/Cas9, many genes can be targeted at once by expressing many guide RNAs in the same cell.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>All chimeric mice derived by injecting engineered mouse embryonic stem cells into blastocysts will carry the transgene</span></div></div>\nin the germ line.\nE. In the Cre-lox conditional system, the Cre recombinase is inserted into the gene to be knocked out.\nWhich one of the following options represents the combination of all correct statements?",
+    "options": [
+      "A, C, and E",
+      "A and C only",
+      "B, D, and E",
+      "B and D only"
+    ],
+    "correct_answer": "A and C only",
+    "explanation": "[CONCEPT]\nCatalytically inactive Cas9 fused to a transcription activator can activate specific gene expression, a technique known as\n\nCRISPR activation using dCas9 with a transcription activator like VP64. However, precise gene replacement in a target\n\nlocus using CRISPR/Cas9 cannot be achieved via non -homologous end joining repair, which causes random insertions or\n\ndeletions, requiring homology -directed repair with a donor template instead. Multiple genes can be targeted\n\nsimultaneously with CRISPR/Cas9 by expressing many guide RNAs in the same cell through multiplexing. Not all chimeric\n\nmice from injecting engineered mouse embryonic stem cells into blastocysts will carry the transgene in the germ line, as\n\nit depends on stem cell contribution. In the Cre -lox conditional system, Cre recombinase, expressed under a specific\n\npromoter, acts on loxP sites, not inserted into the target gene."
+  },
+  {
+    "id": 139,
+    "section": "C",
+    "question": "Following are a few statements regarding mapping populations and principles of genetic mapping in crop species:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>For self-pollinating species, both F2 and F1-derived doubled haploids can serve as mapping populations.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>For cross-pollinating species, F1 population can be used for mapping studies.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Bulk segregant analysis (BSA) is often used to identify linked markers f or complex traits with multiple genes and environmental influences.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>In crop plants, sets of different breeding lines can be exploited for trait mapping.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>Breeding methods such as single-seed descent and pedigree selection promote genetic variability.</span></div></div>\nWhich one of the following options represents the combination of all INCORRECT statements?",
+    "options": [
+      "A, B and C",
+      "B, C and D",
+      "C, D and E",
+      "C and E only"
+    ],
+    "correct_answer": "C and E only",
+    "explanation": "[CONCEPT]\nStatment A is correct. In self-pollinating species, F2 populations (from selfing F1) and F1 -derived doubled haploids (DHs)\n\nare commonly used for genetic mapping due to their homozygous nature and segregation patterns.\n\nStatment B is incorrect. BSA is typically used for simple traits controlled by a single gene, not complex traits with multiple\n\ngenes and environmental effects, which require more advanced methods like QTL mapping.\n\nStatment C is correct. The F1 population from cross-pollinating species can be used for mapping because the F1 generation\n\nstill contains genetic diversity from both parents.\n\nStatment D is correct. Diverse breeding lines, such as association panels or multi-parent advanced generation inter-cross\n\n(MAGIC) populations, are widely used for trait mapping.\n\nStatment E is incorrect. These methods reduce genetic variability by selecting and fi xing traits over generations, aiming\n\nfor uniformity rather than diversity."
+  },
+  {
+    "id": 140,
+    "section": "C",
+    "question": "Equal numbers of particles of a mutant viral strain 'A' and the wild -type strain (WT) were used to separately infect\nequal numbers of synchronized compatible host mammalian cells. RNA from host mammalian cells were subjected to real-\ntime quantitative PCR to analyze levels of the viral gag gene and host beta-tubulin after 24 hours. Ct values for the above\nmeasurements are listed below.\nCt values of transcript Infected with 'A' Infected with 'WT' Uninfected\ngag 22 23 36\nbeta-tubulin 17 18 17\nBy how much have the gag transcripts in 'A'-infected cells changed with respect to 'WT'-infected cells?",
+    "options": [
+      "Reduced to 1/32 of WT",
+      "Reduced to 1/4 of WT",
+      "Reduced to 1/2 of WT",
+      "No change"
+    ],
+    "correct_answer": "No change",
+    "explanation": "[CONCEPT]\nThe formula to calculate the relative gene expression (fold change) is:\n\nNow, calculate the relative expression for the beta-tubulin gene:\n\nSince both gag and beta-tubulin show the same fold change (a 2-fold increase in 'A'-infected cells compared to 'WT' -\n\ninfected cells), this suggests that the change in gag expression is not altered relative to the control.\n\n[GIVEN]\n• Ct value (gag, A) = 22\n• Ct value (gag, WT) = 23\n• Ct value (beta-tubulin, A) = 17\n• Ct value (beta-tubulin, WT) = 18\n\n[STEPS]\nStep 1: Calculate relative expression for gag gene\n\nStep 2: Fold change in gene expression\n=2(CtWT−CtA)\n\nStep 3: Fold change in gag\n=2(23−22) = 21 =2\n\nStep 2: Normalize using beta-tubulin\n\nStep 5: Fold change in beta-tubulin\n=2(18−17) = 21 =2"
+  },
+  {
+    "id": 141,
+    "section": "C",
+    "question": "Shown in the table are some cultivated crops (Column X) and their chromosomal ploidy (Column Y).\nWhich one of the following options represents all correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A (v), B (ii), C (iii), D (i), E (iv)",
+      "(b) A (ii), B (iv), C (i), D (iii), E (v)",
+      "(c) A (v), B (iii), C (i), D (iv), E (ii)",
+      "(d) A (ii), B (iv), C (iii), D (i), E (v)"
+    ],
+    "correct_answer": "(d) A (ii), B (iv), C (iii), D (i), E (v)",
+    "explanation": "",
+    "type": "match_following_mcq",
+    "list_1": [
+      "Banana",
+      "Bread wheat",
+      "Brown mustard",
+      "Cauliflower",
+      "Sugarcane"
+    ],
+    "list_2": [
+      "Diploid",
+      "Triploid",
+      "Tetraploid",
+      "Hexaploid",
+      "Octaploid"
+    ]
+  },
+  {
+    "id": 142,
+    "section": "C",
+    "question": "A glucose biosensor exhibits Michaelis -Menten kinetics with a maximum current response, 𝐼max = 250 𝜇A, and a\nMichaelis constant, 𝐾𝑚 = 5.2 mM. If the glucose concentration in a sample is 3.4 mM, what is the current response (𝐼) of\nthe biosensor?",
+    "options": [
+      "98.83 𝜇A",
+      "250 𝜇A",
+      "29.06 𝜇A",
+      "73.52 𝜇A"
+    ],
+    "correct_answer": "98.83 𝜇A",
+    "explanation": "[CONCEPT]\nTo calculate the current response (I) of the glucose biosensor, we can use the Michaelis-Menten equation for enzyme\n\nSubstitute the given values into the equation:\n\n[GIVEN]\n• 𝐼max = 250𝜇𝐴 (maximum current response)\n• 𝐾𝑚 = 5.2mM (Michaelis constant)\n• [𝑆] = 3.4mM (glucose concentration in the sample)"
+  },
+  {
+    "id": 143,
+    "section": "C",
+    "question": "Given below are names of techniques (Column X) and their characteristic features measured for molecular\nWhich one of the following options represents all correct matches between Column X and Column Y?",
+    "options": [
+      "(a) A (iii), B (v), C (iv), D (vi), E (vii)",
+      "(b) A (ii), B (iii), C (i), D (vii), E (vii)",
+      "(c) A (v), B (iv), C (iii), D (ii), E (i)",
+      "(d) A (iii), B (i), C (ii), D (vi), E (iv)"
+    ],
+    "correct_answer": "(a) A (iii), B (v), C (iv), D (vi), E (vii)",
+    "explanation": "[CONCEPT]\nA. X-ray crystallography iii. Diffraction\n\nB. NMR spectroscopy v. Chemical shift\n\nC. Raman spectroscopy iv. Wave number",
+    "type": "match_following_mcq",
+    "list_1": [
+      "X-ray crystallography",
+      "NMR spectroscopy",
+      "Raman spectroscopy",
+      "CD spectroscopy",
+      "Colorimetry"
+    ],
+    "list_2": [
+      "Fluorescence",
+      "Polarization",
+      "Diffraction",
+      "Wave number",
+      "Chemical shift vi. Ellipticity vii. Absorbance"
+    ]
+  },
+  {
+    "id": 144,
+    "section": "C",
+    "question": "Which one of the following matrices represents the correct choice regarding the two types of errors made in statistical\nhypothesis testing?  𝐻0 = Null hypothesis.\nChoose the correct option.",
+    "options": [
+      "B",
+      "A",
+      "D",
+      "C"
+    ],
+    "correct_answer": "B",
+    "explanation": "[CONCEPT]\nType I and Type II errors represent incorrect conclusions. A Type I error (false positive) occurs when a true null hypothesis\n\nis rejected. Conversely, a Type II error (false negative) occurs when a false null hypothesis is not rejected."
+  },
+  {
+    "id": 145,
+    "section": "C",
+    "question": "A polymerase chain reaction (PCR) with all necessary reagents was carried out to amplify a 200 bp target region of a\nhuman Y chromosome. PCR was started with 100 copies of double-stranded DNA (dsDNA) as template.\nAssuming 100% PCR efficiency, how many copies of the desired 200 bp fragment consisting of ONLY the target region\nwould be produced at the end of the third PCR cycle?",
+    "options": [
+      "100",
+      "200",
+      "1000000",
+      "0"
+    ],
+    "correct_answer": "200",
+    "explanation": "[CONCEPT]\nThe core concept in this PCR problem is the staggered generation of different DNA products over the initial cycles. The\n\nprecise, unit-length double-stranded fragments you want don't appear immediately. In Cycle 1, the 100 original, long DNA\n\ntemplates are used to synthesize only intermediate-length strands, which are longer than the 200 bp target. In Cycle 2,\n\nthese intermediate strands serve as  templates for the first time, producing the first batch of unit-length single strands.\n\nHowever, these new, shorter strands pair with the longer templates, so no precise 200 bp double-stranded products are\n\nIt's only in Cycle 3 that the unit-length single strands created in the previous cycle can finally act as templates themselves.\n\nSince 200 of these precise single-strand templates were made in Cycle 2, they direct the synthesis of 200 complementary\n\nunit-length strands in Cycle  3. These strands then anneal to each other, forming exactly 200 double-stranded DNA\n\nmolecules of the desired 200 bp length. From this cycle onwards, these target fragments begin to amplify exponentially."
+  }
+]

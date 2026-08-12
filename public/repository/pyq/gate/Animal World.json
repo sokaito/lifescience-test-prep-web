@@ -1,0 +1,357 @@
+[
+    {
+        "id": 1,
+        "question": "A dioecious, triploblastic, pseudocoelomate, bilaterally symmetrical animal with unsegmented body possessing mouth and anus and showing some degree of cephalization at the anterior end belongs to the phylum",
+        "options": [
+            "Annelida",
+            "Nematode",
+            "Platyhelminthes",
+            "Mollusca"
+        ],
+        "correct_answer": "Nematode",
+        "explanation": "[CONCEPT]\nNematodes (roundworms) are pseudocoelomate, triploblastic, bilaterally symmetrical, unsegmented animals with complete digestive tract (mouth and anus) and cephalization."
+    },
+    {
+        "id": 2,
+        "question": "The kingdom Protista contains",
+        "options": [
+            "prokaryotic unicellular autotrophic organisms",
+            "eukaryotic unicellular photosynthesis organisms",
+            "prokaryotic multicellular heterotrophic organisms",
+            "eukaryotic multicellular heterotrophic organisms"
+        ],
+        "correct_answer": "eukaryotic unicellular photosynthesis organisms",
+        "explanation": "[CONCEPT]\nKingdom Protista includes eukaryotic unicellular organisms, many of which are photosynthetic (e.g., algae, protozoa)."
+    },
+    {
+        "id": 3,
+        "question": "The nematodes are",
+        "options": [
+            "acoelomate organism",
+            "pseudocoelomate organism",
+            "coelomate organism",
+            "hemocoelomate organism"
+        ],
+        "correct_answer": "pseudocoelomate organism",
+        "explanation": "[CONCEPT]\nNematodes possess a pseudocoelom (body cavity not completely lined by mesoderm)."
+    },
+    {
+        "id": 4,
+        "question": "The RNA molecule often used to determine evolutionary relatedness is",
+        "options": [
+            "messenger RNA",
+            "transfer RNA",
+            "ribosomal RNA",
+            "Sn RNA"
+        ],
+        "correct_answer": "ribosomal RNA",
+        "explanation": "[CONCEPT]\n16S/18S rRNA is highly conserved and widely used in molecular phylogeny to determine evolutionary relationships."
+    },
+    {
+        "id": 5,
+        "question": "(A) To which class and order the following animals belong: (i) mouse (ii) whale (iii) platypus (B) Why is the basal metabolic rate higher in rodents compared to elephants?",
+        "options": [],
+        "correct_answer": "*",
+        "explanation": "[CONCEPT]\n(A) Mouse and whale belong to Class Mammalia; mouse to Order Rodentia, whale to Order Cetacea; platypus to Class Mammalia, Order Monotremata. (B) Smaller animals have higher surface-area-to-volume ratio, leading to greater heat loss and thus higher basal metabolic rate per unit mass."
+    },
+    {
+        "id": 6,
+        "question": "Among the following phyla, one evolutionarily closest to the phylum chordate is",
+        "options": [
+            "Annelida",
+            "Arthropoda",
+            "Echinodermata",
+            "Oncychophora"
+        ],
+        "correct_answer": "Echinodermata",
+        "explanation": "[CONCEPT]\nEchinoderms and chordates are both deuterostomes and share closest evolutionary relationship among the given options."
+    },
+    {
+        "id": 7,
+        "question": "The orders Anura, Urodela and Apoda belong to the class",
+        "options": [
+            "Amphibia",
+            "Reptilia",
+            "Mammalia",
+            "Pisces"
+        ],
+        "correct_answer": "Amphibia",
+        "explanation": "[CONCEPT]\nAnura (frogs/toads), Urodela (salamanders), and Apoda (caecilians) are the three living orders of Class Amphibia."
+    },
+    {
+        "id": 8,
+        "question": "Animals are classified into hierarchical groups. In which of the following, would you find the largest number of species?",
+        "options": [
+            "Genus",
+            "Order",
+            "Class",
+            "Family"
+        ],
+        "correct_answer": "Class",
+        "explanation": "[CONCEPT]\nHigher taxonomic ranks contain more species. Class is higher than Order, Family, and Genus, so it contains the largest number of species."
+    },
+    {
+        "id": 9,
+        "question": "Two species are considered phylogenetically closer because",
+        "options": [
+            "there was very little difference between a protein they made",
+            "the base sequence in the messenger RNA they synthesized in a given time were similar",
+            "they made the same carbohydrate",
+            "the base sequence of their ribosomal RNA were very similar"
+        ],
+        "correct_answer": "the base sequence of their ribosomal RNA were very similar",
+        "explanation": "[CONCEPT]\nrRNA sequences are highly conserved and widely used as molecular clocks for phylogenetic analysis."
+    },
+    {
+        "id": 10,
+        "question": "Which one of the following would you qualify as a holometabolous insect?",
+        "options": [
+            "Cockroach",
+            "Grasshopper",
+            "Mosquito",
+            "Human body louse"
+        ],
+        "correct_answer": "Mosquito",
+        "explanation": "[CONCEPT]\nHolometabolous insects undergo complete metamorphosis (egg → larva → pupa → adult). Mosquito is holometabolous; cockroach, grasshopper, and body louse are hemimetabolous."
+    },
+    {
+        "id": 11,
+        "question": "Animals belonging to the Phylum chordate are unambiguously classified based on only one of the four sets of characteristics described below. Which one?",
+        "options": [
+            "Notochord, Central nervous system, circulatory system and segmented muscle",
+            "Notochord, dorsal hollow nerve cord, pharyngeal slits and post anal tail",
+            "Notochord, dorsal hollow nerve chord, gills and segmented muscles",
+            "Notochord, peripheral nervous system, pharyngeal slits and segmented muscles"
+        ],
+        "correct_answer": "Notochord, dorsal hollow nerve cord, pharyngeal slits and post anal tail",
+        "explanation": "[CONCEPT]\nThe four defining characteristics of Phylum Chordata are notochord, dorsal hollow nerve cord, pharyngeal slits, and post-anal tail (at some stage of life)."
+    },
+    {
+        "id": 12,
+        "question": "Which one of the following statements is true?",
+        "options": [
+            "All vertebrates contain amnion",
+            "All chordates are vertebrates",
+            "All tunicates are chordates",
+            "Cephalochordates are characterized by the presence of a well-defined skull"
+        ],
+        "correct_answer": "All tunicates are chordates",
+        "explanation": "[CONCEPT]\nTunicates (urochordates) are invertebrate chordates. Not all chordates are vertebrates; amnion is present only in amniotes; cephalochordates lack a skull."
+    },
+    {
+        "id": 13,
+        "question": "The body plan common to both annelids and insects is __________",
+        "options": [
+            "acoelomate",
+            "pseudocoel",
+            "coelom",
+            "homocoel"
+        ],
+        "correct_answer": "coelom",
+        "explanation": "[CONCEPT]\nBoth Annelida and Arthropoda (insects) are true coelomates (schizocoelomates)."
+    },
+    {
+        "id": 14,
+        "question": "Hydrostatic skeleton is one of the characteristics of __________",
+        "options": [
+            "onychophorans",
+            "jelly fish",
+            "nematodes",
+            "sponges"
+        ],
+        "correct_answer": "jelly fish",
+        "explanation": "[CONCEPT]\nCnidarians (jellyfish) use a hydrostatic skeleton based on the fluid-filled gastrovascular cavity."
+    },
+    {
+        "id": 15,
+        "question": "Rearrange the following taxonomic terms in the correct hierarchical order. Order – Family – Phylum – Class",
+        "options": [
+            "Family – Phylum – Class – Order",
+            "Phylum – Order – Class – Family",
+            "Class – Phylum – Family – Order",
+            "Phylum – Class – Order – Family"
+        ],
+        "correct_answer": "Phylum – Class – Order – Family",
+        "explanation": "[CONCEPT]\nStandard taxonomic hierarchy (descending): Phylum → Class → Order → Family → Genus → Species."
+    },
+    {
+        "id": 16,
+        "question": "Pseudocoelomate body cavity is found in __________",
+        "options": [
+            "Caenorhabditis elegans",
+            "Octopus vulgaris",
+            "Fasciola hepatica",
+            "Lumbricus terrestris"
+        ],
+        "correct_answer": "Caenorhabditis elegans",
+        "explanation": "[CONCEPT]\nC. elegans is a nematode and therefore a pseudocoelomate. Octopus (mollusc) and earthworm (annelid) are coelomates; Fasciola (flatworm) is acoelomate."
+    },
+    {
+        "id": 17,
+        "question": "Which of the following statements is true for the systematic of the animal kingdom?",
+        "options": [
+            "Systematics employs a hierarchical system of classification",
+            "Systematics can also be based on cladistics analysis",
+            "Systematics can infer phylogeny from molecular data",
+            "All the above"
+        ],
+        "correct_answer": "All the above",
+        "explanation": "[CONCEPT]\nModern systematics uses hierarchical classification, cladistics, and molecular data for phylogenetic inference."
+    },
+    {
+        "id": 18,
+        "question": "Most modern taxonomists group living organisms into how many kingdoms?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct_answer": "5",
+        "explanation": "[CONCEPT]\nThe five-kingdom system (Monera, Protista, Fungi, Plantae, Animalia) proposed by Whittaker is widely accepted by modern taxonomists."
+    },
+    {
+        "id": 19,
+        "question": "Acoelomates are characterized by",
+        "options": [
+            "the absence of cavity surrounding the internal organs",
+            "the presence of huge body cavity, as in case of terrestrial animals",
+            "the presence of air sacs, as in case of birds",
+            "the absence of brain in a group of extinct species"
+        ],
+        "correct_answer": "the absence of cavity surrounding the internal organs",
+        "explanation": "[CONCEPT]\nAcoelomates (e.g., Platyhelminthes) lack a body cavity between the digestive tract and outer body wall."
+    },
+    {
+        "id": 20,
+        "question": "Identify the phylum that is characterized by the animals that have segmented appendages",
+        "options": [
+            "Cnidaria",
+            "Porifera",
+            "Arthropoda",
+            "Mollusca"
+        ],
+        "correct_answer": "Arthropoda",
+        "explanation": "[CONCEPT]\nArthropods are characterized by jointed (segmented) appendages and segmented bodies."
+    },
+    {
+        "id": 21,
+        "question": "Which one of the following is an example of eumetazoans?",
+        "options": [
+            "Dictyostelium",
+            "Hydra",
+            "Sponges",
+            "Volvox"
+        ],
+        "correct_answer": "Hydra",
+        "explanation": "[CONCEPT]\nEumetazoans are animals with true tissues. Hydra (Cnidaria) has true tissues; sponges are parazoans; Dictyostelium and Volvox are not animals."
+    },
+    {
+        "id": 22,
+        "question": "Which one of the following is characteristic of deuterostomes?",
+        "options": [
+            "Radially symmetric body",
+            "Bilaterally symmetric body",
+            "Presence of well-defined digestive system",
+            "Formation of anus from blastopore"
+        ],
+        "correct_answer": "Formation of anus from blastopore",
+        "explanation": "[CONCEPT]\nIn deuterostomes, the blastopore becomes the anus and the mouth forms secondarily."
+    },
+    {
+        "id": 23,
+        "question": "Lamprey, a jawless fish, belongs to which one of the following ‘Classes’?",
+        "options": [
+            "Myxini",
+            "Cephalaspilomorphi",
+            "Conodonta",
+            "Anaspida"
+        ],
+        "correct_answer": "Cephalaspilomorphi",
+        "explanation": "[CONCEPT]\nLampreys belong to Class Cephalaspidomorphi (or Petromyzontida); hagfish belong to Myxini."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following most accurately states the goal of systematics?",
+        "options": [
+            "Classification scheme should reflect phylogenetic relationship",
+            "All animals should be classified based on the relatedness at the early embryonic stage",
+            "All animals should be grouped based on DNA sequence data",
+            "Classification of animals should be based on morphological characters"
+        ],
+        "correct_answer": "Classification scheme should reflect phylogenetic relationship",
+        "explanation": "[CONCEPT]\nThe primary goal of modern systematics is to construct classifications that reflect evolutionary (phylogenetic) relationships."
+    },
+    {
+        "id": 25,
+        "question": "Match the species names with class names. Species Name Class Name P. Calotes versicolor 1. Insecta Q. Periplaneta americana 2. Reptilia R. Glyphidrilus birmancus 3. Actinopterygii S. Clarias batracus 4. Clitellata",
+        "options": [
+            "P–2; Q–1, R–4; S–3",
+            "P–1; Q–2; R–3; S–4",
+            "P–2; Q–1; R–3; S–4",
+            "P–3; Q–1; R–2; S-4"
+        ],
+        "correct_answer": "P–2; Q–1, R–4; S–3",
+        "explanation": "[CONCEPT]\nCalotes (garden lizard) – Reptilia; Periplaneta (cockroach) – Insecta; Glyphidrilus (earthworm) – Clitellata; Clarias (catfish) – Actinopterygii."
+    },
+    {
+        "id": 26,
+        "question": "Acorn worms (Saccoglassus sp.) belong to which one of the following phyla?",
+        "options": [
+            "Platythelminthes",
+            "Aschelminthes",
+            "Hemichordata (Chordata)",
+            "Annelida"
+        ],
+        "correct_answer": "Hemichordata (Chordata)",
+        "explanation": "[CONCEPT]\nAcorn worms (Saccoglossus) belong to Phylum Hemichordata."
+    },
+    {
+        "id": 28,
+        "question": "Animals belonging to phylum Echinodermata are closer to chordates than other invertebrate phyla. Which one of the following reasons can account for this relatedness?",
+        "options": [
+            "Highly evolved nervous system",
+            "Radially symmetric body plan",
+            "Deuterostomic development",
+            "Well-developed muscles"
+        ],
+        "correct_answer": "Deuterostomic development",
+        "explanation": "[CONCEPT]\nBoth Echinodermata and Chordata are deuterostomes (anus develops from blastopore)."
+    },
+    {
+        "id": 29,
+        "question": "The phylum that is characterized by the animals having a “water vascular system” is",
+        "options": [
+            "Cnidaria",
+            "Annelida",
+            "Mollusca",
+            "Echinodermata"
+        ],
+        "correct_answer": "Echinodermata",
+        "explanation": "[CONCEPT]\nWater vascular system (ambulacral system) is a unique characteristic of Phylum Echinodermata."
+    },
+    {
+        "id": 30,
+        "question": "Which one of the following phyla have choanocytes?",
+        "options": [
+            "Ctenophora",
+            "Nematoda",
+            "Cnidaria",
+            "Porifera"
+        ],
+        "correct_answer": "Porifera",
+        "explanation": "[CONCEPT]\nChoanocytes (collar cells) are characteristic of Phylum Porifera (sponges)."
+    },
+    {
+        "id": 31,
+        "question": "Tarantulas and mosquitoes both belong to the phylum Arthropoda. Which one of the following represents the correct number of legs in them respectively?",
+        "options": [
+            "6 and 6",
+            "6 and 8",
+            "8 and 8",
+            "8 and 6"
+        ],
+        "correct_answer": "8 and 6",
+        "explanation": "[CONCEPT]\nTarantulas are arachnids (8 legs); mosquitoes are insects (6 legs)."
+    }
+]

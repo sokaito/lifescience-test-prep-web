@@ -1,0 +1,29 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // User collection rules helper
+    function isAdmin() {
+      return request.auth != null && 
+        exists(/databases/$(database)/documents/users/$(request.auth.token.email)) &&
+        get(/databases/$(database)/documents/users/$(request.auth.token.email)).data.role == 'admin';
+    }
+
+    // Rules for reportedQuestions collection
+    match /reportedQuestions/{reportId} {
+      allow create: if true; // Allow anyone to submit a report (including guest users)
+      allow read, update, delete: if isAdmin();
+    }
+
+    // Rules for questions collection (to allow incrementing reportCount)
+    match /questions/{questionId} {
+      allow read: if true;
+      allow create, update: if request.auth != null; // Users can increment reportCount
+      allow delete: if isAdmin();
+    }
+
+    // Default rules for other collections
+    match /{document=**} {
+      allow read, write: if request.auth != null;
+    }
+  }
+}

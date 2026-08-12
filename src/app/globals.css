@@ -1,0 +1,214 @@
+@import "tailwindcss";
+
+:root {
+  --bg-main: #f8fafc;
+  --bg-card: #ffffff;
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --border-color: #e2e8f0;
+  --accent-color: #14b8a6;
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(0, 0, 0, 0.05);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+  --float-btn-bg: rgba(255, 255, 255, 0.9);
+  --float-btn-border: #cbd5e1;
+  --float-btn-text: #0f172a;
+  --float-btn-glow: none;
+}
+
+.dark {
+  --bg-main: #020617;
+  --bg-card: #1e293b;
+  --text-primary: #f8fafc;
+  --text-secondary: #94a3b8;
+  --border-color: #334155;
+  --accent-color: #14b8a6;
+  --glass-bg: rgba(2, 6, 23, 0.7);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+  --float-btn-bg: rgba(30, 41, 59, 0.9);
+  --float-btn-border: #475569;
+  --float-btn-text: #f8fafc;
+  --float-btn-glow: 0 0 10px rgba(56, 189, 248, 0.4);
+}
+
+@theme {
+  --color-bg-main: var(--bg-main);
+  --color-bg-card: var(--bg-card);
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-border-subtle: var(--border-color);
+  --color-accent-main: var(--accent-color);
+  --color-glass-bg: var(--glass-bg);
+  --color-glass-border: var(--glass-border);
+  --color-float-btn-bg: var(--float-btn-bg);
+  --color-float-btn-border: var(--float-btn-border);
+  --color-float-btn-text: var(--float-btn-text);
+}
+
+* {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease, box-shadow 0.3s ease;
+}
+
+@layer utilities {
+  @keyframes fade-in-up {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slide-in-right {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+
+  .animate-fade-in-up {
+    animation: fade-in-up 0.5s ease-out forwards;
+  }
+
+  .animate-slide-in-right {
+    animation: slide-in-right 0.3s ease-out forwards;
+  }
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+@keyframes dropDown {
+  0% {
+    transform: translateY(-100%);
+    opacity: 0;
+  }
+  60% {
+    transform: translateY(10px);
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes textWave {
+  0%, 100% { transform: scale(1) translateX(0); }
+  50% { transform: scale(1.02) translateX(2px); }
+}
+
+@keyframes glowPulse {
+  0%, 100% { filter: drop-shadow(0 0 2px rgba(56, 189, 248, 0.3)); }
+  50% { filter: drop-shadow(0 0 10px rgba(56, 189, 248, 0.6)) drop-shadow(0 0 15px rgba(168, 85, 247, 0.4)); }
+}
+
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+.animate-advanced-text {
+  background: linear-gradient(
+    90deg, 
+    #38bdf8 0%, 
+    #22d3ee 20%, 
+    #818cf8 40%, 
+    #c084fc 60%, 
+    #22d3ee 80%, 
+    #38bdf8 100%
+  );
+  background-size: 200% auto;
+  color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  animation: 
+    shimmer 4s linear infinite,
+    textWave 3s ease-in-out infinite,
+    glowPulse 3s ease-in-out infinite,
+    gradientShift 10s ease infinite;
+  display: inline-block;
+}
+
+.glass {
+  background: var(--glass);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid var(--border);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.05);
+}
+
+.dark .glass {
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.4);
+}
+
+.hide-scrollbar::-webkit-scrollbar { display: none; }
+.hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* ─── Global Input Visibility Fix ──────────────────────────────────────────
+   Ensure input text is ALWAYS visible in both light and dark modes.
+   This is a safety net on top of any component-level Tailwind classes.
+────────────────────────────────────────────────────────────────────────── */
+input,
+textarea,
+select {
+  color: #0f172a;
+  background-color: #f8fafc;
+  caret-color: #0f172a;
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #94a3b8;
+  opacity: 1;
+}
+
+/* Dark mode overrides */
+.dark input,
+.dark textarea,
+.dark select {
+  color: #f8fafc;
+  background-color: #1e293b;
+  caret-color: #f8fafc;
+  border-color: #334155;
+}
+
+.dark input::placeholder,
+.dark textarea::placeholder {
+  color: #64748b;
+  opacity: 1;
+}
+
+/* Focus ring enhancement */
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.15);
+  border-color: #14b8a6;
+}
+
+.dark input:focus,
+.dark textarea:focus,
+.dark select:focus {
+  box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.2);
+  border-color: #14b8a6;
+}

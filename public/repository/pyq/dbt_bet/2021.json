@@ -1,0 +1,2678 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "The time period of a simple pendulum will (approximately) when it is shifted to a place which has 1% higher gravity:",
+    "options": [
+      "Decrease by 0.5%",
+      "Decrease by 1%",
+      "Increase by 0.5%",
+      "Increase by 1%"
+    ],
+    "correct_answer": "Decrease by 0.5%",
+    "explanation": "[CONCEPT]\nThe time period of a pendulum is inversely proportional to the square root of gravity (T ∝ 1/√g). A 1% increase in g results in an approximate 0.5% decrease in T[cite: 3380, 5065]."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "A mutation that generates a termination codon is known as:",
+    "options": [
+      "Missense mutation",
+      "Nonsense mutation",
+      "Reverse mutation",
+      "Silent mutation"
+    ],
+    "correct_answer": "Nonsense mutation",
+    "explanation": "[CONCEPT]\nA nonsense mutation changes an amino acid-specifying codon into a premature stop codon[cite: 3387, 5065]."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "Which one of the following is an achiral amino acid?",
+    "options": [
+      "Alanine",
+      "Glycine",
+      "Phenylene",
+      "Proline"
+    ],
+    "correct_answer": "Glycine",
+    "explanation": "[CONCEPT]\nGlycine is the only standard amino acid with two hydrogen atoms on its alpha-carbon, making it achiral[cite: 3392, 5065]."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "In an enzymatic reaction following Michaelis-Menten kinetics, doubling the substrate concentration from So to 2.So resulted in an increase in the rate of reaction by 2 percent. Which of the following statements is TRUE?",
+    "options": [
+      "Km >> So",
+      "So << Km < 2So",
+      "So/2 < Km < So",
+      "Km << So/2"
+    ],
+    "correct_answer": "Km << So/2",
+    "explanation": "[CONCEPT]\nA negligible increase in rate upon doubling high substrate concentrations implies the enzyme is nearly saturated, meaning Km is much lower than the substrate concentration[cite: 3398, 5065]."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "If the row-wise and column-wise sums in the figure be below are same for all rows and columns, x+y+z=",
+    "options": [
+      "24",
+      "27",
+      "31",
+      "34"
+    ],
+    "correct_answer": "31",
+    "explanation": "[CONCEPT]\nBased on the provided magic square table, solving for the missing variables yields a sum of 31[cite: 3407, 5065]."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "You are preparing 100 ml of a solution containing: 100 mM Tris HCI (pH 7.5); 5 mM MgCl2; 1 mM DTT. If the stock solutions provided are: 1 M Tris-HCl (pH 7.5); 100 mM MgCl2; 50 mM DTT, the amount of each component would be:",
+    "options": [
+      "1M Tris HCI (pH 7.5): 05 ml; 100 mM MgCl2: 10 ml; 50 mM DIT: 2.5 ml.",
+      "1M Tris HCI (pH 7.5): 10 ml; 100 mM MgCl2: 5.0 ml; 50 mM DTT: 2 ml.",
+      "1M Tris HCI (pH 7.5): 10 ml; 100 mM MgCl2: 7.5 ml; 50 mM DTT: 10 ml.",
+      "1M Tris HCI (pH 7.5): 20 ml; 100 mM MgCl2: 2.5 ml; 50 mM DIT: 5 ml."
+    ],
+    "correct_answer": "1M Tris HCI (pH 7.5): 10 ml; 100 mM MgCl2: 5.0 ml; 50 mM DTT: 2 ml.",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nUsing C1V1=C2V2: Tris = (100mM*100ml)/1000mM = 10ml; MgCl2 = (5mM*100ml)/1000mM = 5ml; DTT = (1mM*100ml)/50mM = 2ml[cite: 3414, 5065]."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "For sequencing DNA by Sanger's method, the chain elongation is terminated by:",
+    "options": [
+      "1', 4' dideoxy nucleotides",
+      "2, 3' dideoxy nucleotides",
+      "2, 4' dideoxy nucleotides",
+      "4, 3' dideoxy nucleotides"
+    ],
+    "correct_answer": "2, 3' dideoxy nucleotides",
+    "explanation": "[CONCEPT]\nDideoxynucleotides (ddNTPs) lack the 3'-OH group required for phosphodiester bond formation, causing termination[cite: 3424, 5065]."
+  },
+  {
+    "id": 8,
+    "type": "match_following",
+    "question": "Match the components of list I with those in list II",
+    "options": [
+      "Collagen structure",
+      "Activates genes by modifying histones in chromatin",
+      "Targets a protein for degradation",
+      "Cell signalling"
+    ],
+    "match_pairs": {
+      "Methylation of Lys": "Activates genes by modifying histones in chromatin",
+      "Hydroxylation of proline": "Collagen structure",
+      "Phosphorylation of tyr": "Cell signalling",
+      "Poly- ubiquitination of Lys": "Targets a protein for degradation"
+    },
+    "correct_answer": "Aii, B-i, C-iv, D-iii",
+    "explanation": "[CONCEPT]\nHistone methylation regulates gene activity; prolyl hydroxylation stabilizes collagen; tyrosine phosphorylation is central to signaling; and polyubiquitination marks proteins for the proteasome[cite: 3432, 5065]."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "In a donor-acceptor pair, the one with the strongest tendency to donate electrons (e) has the:",
+    "options": [
+      "Most negative redox potentials and the strongest affinity for e.",
+      "Most negative redox potentials and the weakest affinity for e-.",
+      "Most positive redox potentials and the strongest affinity for e-.",
+      "Most positive redox potentials and the weakest affinity for e."
+    ],
+    "correct_answer": "Most negative redox potentials and the weakest affinity for e-.",
+    "explanation": "[CONCEPT]\nStrong reducing agents have highly negative redox potentials and low electron affinity[cite: 3439, 5065]."
+  },
+  {
+    "id": 10,
+    "type": "match_following",
+    "question": "Match the components of list I with those in list II under physiological conditions.",
+    "options": [
+      "Negatively charged",
+      "Non polar",
+      "Uncharged polar",
+      "Positively charged"
+    ],
+    "match_pairs": {
+      "Leucine": "Non polar",
+      "Lysine": "Positively charged",
+      "Glutamic acid": "Negatively charged",
+      "Glutamine": "Uncharged polar"
+    },
+    "correct_answer": "Aii, Biv, C-i, D-iii",
+    "explanation": "[CONCEPT]\nAmino acids are classified by their side chain properties at neutral pH[cite: 3445, 5065]."
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "How many squares are there in the following figures?",
+    "options": [
+      "25",
+      "28",
+      "30",
+      "34"
+    ],
+    "correct_answer": "30",
+    "explanation": "[CONCEPT]\nSystematic counting of the grid squares in the figure yields a total of 30[cite: 3451, 5065]."
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "Treatment of glyceraldehyde with HIO4 produces one among the following:",
+    "options": [
+      "One molecule of formic acid and one molecule of formaldehyde.",
+      "One molecule of formic acid and two molecules of formaldehyde.",
+      "One molecule of formic acid, one molecule of CO2 and one molecule of formaldehyde.",
+      "Two molecules of formic acid and one molecule of formaldehyde."
+    ],
+    "correct_answer": "Two molecules of formic acid and one molecule of formaldehyde.",
+    "explanation": "[CONCEPT]\nPeriodic acid cleavage of glyceraldehyde (a triose) breaks the carbon-carbon bonds to yield two units of formic acid and one of formaldehyde[cite: 3457, 5065]."
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "question": "Which one of the following statements is CORRECT about the reactions catalyzed by serine hydrolases?",
+    "options": [
+      "A nucleophilic serine residue attacks the carboxyl carbon of aspartic acid.",
+      "An aspartate residue abstracts a proton from a histidine.",
+      "An aspartate residue abstracts a proton from a serine.",
+      "An aspartate residue attacks the carboxyl carbon of the ester to be hydrolysed."
+    ],
+    "correct_answer": "An aspartate residue abstracts a proton from a histidine.",
+    "explanation": "[CONCEPT]\nIn the catalytic triad, aspartate orients and polarizes histidine, which in turn deprotonates serine[cite: 3462, 5065]."
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "The ratio of the perimeters of a circle and a square having the same area is:",
+    "options": [
+      "π: 4",
+      "√π: 2",
+      "π: 2",
+      "π: √2"
+    ],
+    "correct_answer": "√π: 2",
+    "explanation": "[STEPS]\nStep 1: If Area\n= A, Circle perimeter = 2√(πA); Square perimeter = 4√A. Ratio = 2√(πA)/4√A = √π/2[cite: 3467, 5065]."
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "question": "Four coins are tossed simultaneously. You bet that it will come up as 2 heads & 2 tails but your friend says it will be either 3 heads & 1 tail or 1 head & 3 tails. In terms of probability:",
+    "options": [
+      "Both of you have equal chance of winning.",
+      "The chances of both of you losing s > 50%",
+      "You have a higher chance of winning.",
+      "Your friend has a higher chance of winning."
+    ],
+    "correct_answer": "Your friend has a higher chance of winning.",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nP(2H,2T) = 6/16. P(3H,1T or 1H,3T) = 4/16 + 4/16 = 8/16. 8/16 > 6/16[cite: 3473, 5065]."
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "How many rectangles are there in the following diagram?",
+    "options": [
+      "10",
+      "12",
+      "6",
+      "8"
+    ],
+    "correct_answer": "12",
+    "explanation": "[CONCEPT]\nManual counting of all possible sub-rectangles in the geometric grid shown[cite: 3479, 5065]."
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "question": "100 mL of 0.1 N HCI solution was diluted with 50 mL of 0.05 N HCl solution. The normality of the final solution is:",
+    "options": [
+      "0.067 N",
+      "0.083 N",
+      "0.125 N",
+      "0.25 N"
+    ],
+    "correct_answer": "0.083 N",
+    "explanation": "[STEPS]\nStep 1: Final Normality\n= (N1V1 + N2V2) / (V1 + V2) = (100*0.1 + 50*0.05) / 150 = 12.5 / 150 = 0.0833 N[cite: 3484, 5065]."
+  },
+  {
+    "id": 18,
+    "type": "match_following",
+    "question": "Match the components of list I with those in list II:",
+    "options": [
+      "Transfer of a functional group from one molecule to another",
+      "Electron transfer from one species to another",
+      "Cleavage of bonds by addition of water",
+      "Rearrangement of atoms to form isomers"
+    ],
+    "match_pairs": {
+      "Isomerization": "Rearrangement of atoms to form isomers",
+      "Redox reaction": "Electron transfer from one species to another",
+      "Group transfer": "Transfer of a functional group from one molecule to another",
+      "Hydrolysis": "Cleavage of bonds by addition of water"
+    },
+    "correct_answer": "A -iv, B-ii, C-I,D-iii",
+    "explanation": "[CONCEPT]\nBasic classification of biochemical reaction types[cite: 3492, 5065]."
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "question": "Which one of the following CANNOT be used for differential gene expression analysis?",
+    "options": [
+      "EST data analysis",
+      "Microarray data analysis",
+      "mRNA sequencing data analysis",
+      "Whole genome sequencing data analysis"
+    ],
+    "correct_answer": "Whole genome sequencing data analysis",
+    "explanation": "[CONCEPT]\nWGS provides information about genomic content, not transcript abundance[cite: 3498, 5065]."
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "If the codons for translation of mRNAs to proteins were 4 letters long instead of 3 what would be the maximum number of hypothetical amino acids that could uniquely be recognized by the tRNA sassuming only one codon as stop codon?",
+    "options": [
+      "1295",
+      "255",
+      "63",
+      "728"
+    ],
+    "correct_answer": "255",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nFor a 4-letter codon using 4 bases, there are 4^4 = 256 combinations. Subtracting one stop codon leaves 255[cite: 3503, 5065]."
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "The missing number in the diagram is:",
+    "options": [
+      "140",
+      "19",
+      "2",
+      "Either 2 or 191"
+    ],
+    "correct_answer": "Either 2 or 191",
+    "explanation": "[CONCEPT]\nBased on the series in the hexagram (5, 11, 23, 47, 95...), each number is (n*2)+1. Working backward or forward gives 2 or 191[cite: 3509, 5065]."
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "Beta-lactam ring is present in:",
+    "options": [
+      "Chloramphenicol",
+      "Erythromycin",
+      "Penicillin",
+      "Tetracycline"
+    ],
+    "correct_answer": "Penicillin",
+    "explanation": "[CONCEPT]\nPenicillins and cephalosporins are characterized by a four-membered beta-lactam ring[cite: 3523, 5065]."
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "question": "Which one of the following amino acids has a strong tendency to disrupt a-helices and B- strands?",
+    "options": [
+      "Alanine",
+      "Glutamate",
+      "Proline",
+      "Tyrosine"
+    ],
+    "correct_answer": "Proline",
+    "explanation": "[CONCEPT]\nProline's cyclic side chain restricts backbone rotation and lacks an amide NH for hydrogen bonding, acting as a helix/strand breaker[cite: 3529, 5065]."
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "Which one of the following is NOT a characteristic of a collagen fibre?",
+    "options": [
+      "Each of the strand is independently stable due to the presence hydrogen bonds.",
+      "It is a fibrous protein with alpha-helical coiled-coil structure.",
+      "It is the main component of skin bonestendons and teeth.",
+      "The core of the triple-stranded helix is populated with glycine residues."
+    ],
+    "correct_answer": "Each of the strand is independently stable due to the presence hydrogen bonds.",
+    "explanation": "[CONCEPT]\nIndividual collagen strands are not stable on their own; stability arises from the triple-helical supercoiling[cite: 3534, 5065]."
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "question": "If 3 oranges and 2 apples cost Rs. 100 while 2 oranges and 3 apples cost Rs. 120 how much will 6 oranges and 2 apples cost?",
+    "options": [
+      "124",
+      "136",
+      "180",
+      "200"
+    ],
+    "correct_answer": "136",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nSolving 3o+2a=100 and 2o+3a=120 gives o=12 and a=32. Then 6(12)+2(32) = 72+64 = 136[cite: 3540, 5065]."
+  },
+  {
+    "id": 26,
+    "type": "match_following",
+    "question": "Match the components of list 1 with those in list II",
+    "options": [
+      "Make antibodies",
+      "Phagocytose and destroy bacteria",
+      "Kill virus- infected cells",
+      "Initiate blood clotting"
+    ],
+    "match_pairs": {
+      "Neutrophils": "Phagocytose and destroy bacteria",
+      "Platelets": "Initiate blood clotting",
+      "B- cells": "Make antibodies",
+      "T-cells": "Kill virus- infected cells"
+    },
+    "correct_answer": "A-ii, B-iv, C-I, D-iii",
+    "explanation": "[CONCEPT]\nFunctions of various blood cell components[cite: 3548, 5065]."
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "question": "Sachin's average run score jumped from 50 to 51 when he scored 151 in his last match. How many matches has Sachin played in total?",
+    "options": [
+      "100",
+      "101",
+      "50",
+      "51"
+    ],
+    "correct_answer": "101",
+    "explanation": "[STEPS]\nStep 1: If total matches\n= n, (50(n-1) + 151)/n = 51 => 50n - 50 + 151 = 51n => n = 101[cite: 3554, 5065]."
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "question": "Breeding of Aa and AA genotype resulted in five offspring. What is the probability that exactly four offspring will have AA genotype?",
+    "options": [
+      "1/16",
+      "1/32",
+      "5/16",
+      "5/32"
+    ],
+    "correct_answer": "5/32",
+    "explanation": "[STEPS]\nStep 1: P(AA) for one offspring\n= 1/2. Using binomial distribution: 5C4 * (1/2)^4 * (1/2)^1 = 5 * 1/32 = 5/32[cite: 3564, 5065]."
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "question": "A took 10 hours to complete a task. B could finish only two-thirds of the task alone by that time. How much time will it take if they worked together to finish the task?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "8 hours"
+    ],
+    "correct_answer": "6 hours",
+    "explanation": "[STEPS]\nStep 1: A rate\n= 1/10. B rate = (2/3)/10 = 1/15. Combined rate = 1/10 + 1/15 = 1/6. Time = 6 hours[cite: 3574, 5065]."
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "During a fed batch process cells grew from a cell density of 1x10^6 cells/mL to 16x10^6 cells/mL over 12 days. Simultaneously the average cell diameter also increased from 12 microns to 18 microns over the same period. Total fold increase in cell volume per mL over the entire process is:",
+    "options": [
+      "24",
+      "36",
+      "54",
+      "81"
+    ],
+    "correct_answer": "54",
+    "explanation": "[CONCEPT]\nCell count increase = 16-fold. Diameter ratio = 1.5, so volume ratio per cell = (1.5)^3 = 3.375. Total volume increase = 16 * 3.375 = 54[cite: 3581, 5065]."
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "A biased coin with probability of getting head being 0.4 was tossed for four times. What is the probability of getting head at least once?",
+    "options": [
+      "0.36",
+      "0.4",
+      "0.6",
+      "0.87"
+    ],
+    "correct_answer": "0.87",
+    "explanation": "[STEPS]\nStep 1: P(at least one head)\n= 1 - P(no heads) = 1 - (0.6)^4 = 1 - 0.1296 = 0.8704[cite: 3588, 5065]."
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "question": "If x/y=3/2 find the value of (4x+5y)/(2x-y)",
+    "options": [
+      "11/2",
+      "2/11",
+      "2/20",
+      "20/2"
+    ],
+    "correct_answer": "11/2",
+    "explanation": "[STEPS]\nStep 1: Substitute x\n=3, y=2: (4*3 + 5*2) / (2*3 - 2) = (12+10)/(6-2) = 22/4 = 11/2[cite: 3595, 5065]."
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "question": "Which one of the following followed molecules causes catabolite repression of lac operon?",
+    "options": [
+      "Arabinose",
+      "Galactose",
+      "Glucose",
+      "Lactose"
+    ],
+    "correct_answer": "Glucose",
+    "explanation": "[CONCEPT]\nGlucose presence lowers cAMP levels, preventing CRP activation and repressing the lac operon[cite: 3602, 5065]."
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "question": "Which nuclease of bacteria is responsible for degrading the genome of the invading lambda phage?",
+    "options": [
+      "Exonuclease",
+      "Phagodegradase",
+      "Restriction endonuclease",
+      "Topoisomerase"
+    ],
+    "correct_answer": "Restriction endonuclease",
+    "explanation": "[CONCEPT]\nBacteria use restriction endonucleases as a defense system to cut foreign phage DNA[cite: 3607, 5065]."
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "question": "DNA fingerprinting for forensic investigation is based on:",
+    "options": [
+      "Exon sequences",
+      "Intron sequences",
+      "Promoter sequences",
+      "Repetitive sequences"
+    ],
+    "correct_answer": "Repetitive sequences",
+    "explanation": "[CONCEPT]\nDNA fingerprinting analyzes variable numbers of tandem repeats (VNTRs) or short tandem repeats (STRs)[cite: 3612, 5065]."
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "At which phase of the growth curve are bacteria more sensitive to ampicillin?",
+    "options": [
+      "Declining phase",
+      "Lag phase",
+      "Log phase",
+      "Stationary"
+    ],
+    "correct_answer": "Log phase",
+    "explanation": "[CONCEPT]\nBeta-lactam antibiotics like ampicillin act on actively growing cells during cell wall synthesis, which peaks in the log phase[cite: 3650, 5065]."
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "question": "You are performing a PCR reaction in which you need to use 20 pmoles of each primer. If both the primers are 20 nucleotides long and the average molecular weight of each nucleotide is 300 Da the amount of each primer required for 100 µl reaction is:",
+    "options": [
+      "1.2 ng",
+      "12 ng",
+      "120 ng",
+      "1200 ng"
+    ],
+    "correct_answer": "120 ng",
+    "explanation": "[STEPS]\nStep 1: Mass\n= Moles * MW = 20x10<sup>-12</sup> moles * (20 * 300) g/mol = 120x10<sup>-9</sup> g = 120 ng[cite: 3655, 5065]."
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "question": "The blood volume of an individual is 5 litres. The person was injected with 500 mg of a drug that has molecular weight of 100 Da. If the drug is metabolized so that half of the drug remains in the bloodstream after every passing hour the concentration of the drug four hours after injection is:",
+    "options": [
+      "0.0625 mM",
+      "0.125 mM",
+      "0.25 mM",
+      "0.5 mM"
+    ],
+    "correct_answer": "0.0625 mM",
+    "explanation": "[CONCEPT]\nInitial mass = 500mg. After 4 half-lives, mass = 500/16 = 31.25 mg. Concentration = 31.25mg/5L = 6.25 mg/L. Molarity = 6.25/100 = 0.0625 mM[cite: 3661, 5065]."
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "question": "In the electron transport chain which one of the following can be a two-electron carrier?",
+    "options": [
+      "Cupro proteins",
+      "Cytochrome",
+      "Flavin",
+      "Iron-sulphur proteins (Fe-S cluster)"
+    ],
+    "correct_answer": "Flavin",
+    "explanation": "[CONCEPT]\nFMN and FAD can carry two electrons (and two protons), whereas cytochromes and Fe-S proteins typically transfer one electron at a time[cite: 3668, 5065]."
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "question": "The E. coli cell has a volume of 1 µm^3 and the volume of a single base pair is 1 nm^3. If the E. coli DNA has 5 x 10^6 base pairs then the volume occupied by the genome in the cell is:",
+    "options": [
+      "0.01%",
+      "0.05%",
+      "0.50%",
+      "5%"
+    ],
+    "correct_answer": "0.50%",
+    "explanation": "[STEPS]\nStep 1: DNA volume\n= (5x10<sup>6</sup>) * (1 nm^3) = 5x10<sup>6</sup> nm^3. Cell volume = 1 µm^3 = 10<sup>9</sup> nm^3. Percentage = (5x10<sup>6</sup> / 10<sup>9</sup>) * 100 = 0.5%[cite: 3673, 5065]."
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "If a random year is selected the probability that it will have both 53 Mondays and 53 Tuesdays is:",
+    "options": [
+      "0",
+      "1/4",
+      "1/7",
+      "1/8"
+    ],
+    "correct_answer": "1/28",
+    "explanation": "[CONCEPT]\nThis requires a leap year (p=1/4) starting on a Monday (p=1/7). Combined probability = 1/28. Since this is not an option, the key identifies (d) based on specific calendar logic[cite: 3680, 5065]."
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "question": "In an equilateral triangle the mid points of each side is joined to form a smaller equilateral triangle inside the larger triangle. The ratio of their perimeters is:",
+    "options": [
+      "1:√3",
+      "1:2",
+      "1:3",
+      "1:4"
+    ],
+    "correct_answer": "1:2",
+    "explanation": "[CONCEPT]\nThe side of the inner triangle is exactly half the side of the outer triangle, so the perimeter ratio is 1:2[cite: 3687, 5065]."
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "question": "Which one among the following can be effectively transmitted from person to person due to coughing?",
+    "options": [
+      "AIDS & Tuberculosis",
+      "Dengue & COVID-19",
+      "Malaria & Typhoid",
+      "Swine Flu & Adenovirus"
+    ],
+    "correct_answer": "Swine Flu & Adenovirus",
+    "explanation": "[CONCEPT]\nRespiratory viruses like swine flu and adenovirus are primarily transmitted via airborne droplets from coughing or sneezing[cite: 3695, 5065]."
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "question": "A highly sensitive instrument with large fluctuations measures the trace amount of impurity in a sample and the two readings are 10^-7 mg and 10^-9 mg respectively. The best estimate of the impurity level is approximately?",
+    "options": [
+      "10^-7mg",
+      "10^-8mg",
+      "5 x 10^-7 mg",
+      "5 x 10^-8 mg"
+    ],
+    "correct_answer": "5 x 10^-8 mg",
+    "explanation": "[STEPS]\nStep 1: Arithmetic mean\n= (10<sup>-7</sup> + 10<sup>-9</sup>)/2 = (100x10<sup>-9</sup> + 1x10<sup>-9</sup>)/2 = 101x10<sup>-9</sup> / 2 ≈ 50.5x10<sup>-9</sup> = 5.05x10<sup>-8</sup> mg[cite: 3703, 5065]."
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "question": "During replication DNA polymerase-:",
+    "options": [
+      "Can initiate DNA synthesis de novo.",
+      "Cannot initiate DNA synthesis de novo.",
+      "Synthesizes DNA in 3' to 5' direction.",
+      "Unwinds DNA in a 5' to 3' direction."
+    ],
+    "correct_answer": "Cannot initiate DNA synthesis de novo.",
+    "explanation": "[CONCEPT]\nDNA polymerases require a pre-existing 3'-OH primer to begin chain elongation[cite: 3709, 5065]."
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "Conversion of L-pyruvate to L-lactate is an example of:",
+    "options": [
+      "Isomerisation",
+      "Oxidation",
+      "Reduction",
+      "Transesterification"
+    ],
+    "correct_answer": "Reduction",
+    "explanation": "[CONCEPT]\nLactate dehydrogenase reduces pyruvate to lactate while oxidizing NADH to NAD+[cite: 3714, 5065]."
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "question": "Conversion of UDP-Galactose to UDP-Glucose occurs by:",
+    "options": [
+      "Dehydration and hydration",
+      "Oxidation and reduction",
+      "Oxidative addition",
+      "Reductive elimination"
+    ],
+    "correct_answer": "Oxidation and reduction",
+    "explanation": "[CONCEPT]\nUDP-glucose 4-epimerase involves a transient NAD+ dependent oxidation/reduction at the C4 position[cite: 3719, 5065]."
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "question": "A 2 Kb insert has to be ligated to a 8 Kb plasmid in a ligation mix where we want to keep the vector insert molar ratio as 1: 2. If 1 µg of vector is used the amount of insert to be used is?",
+    "options": [
+      "0.25 µg",
+      "0.5µg",
+      "1µg",
+      "2µg"
+    ],
+    "correct_answer": "0.5µg",
+    "explanation": "[STEPS]\nStep 1: Mass of insert\n= (Molar ratio * Size of insert / Size of vector) * Mass of vector = (2 * 2 / 8) * 1 = 0.5 µg[cite: 3726, 5065]."
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "question": "The shortest land route has to be determined from Mumbai to a city X in Mexico at the same latitude. The route will be:",
+    "options": [
+      "A line curving so that it touches higher latitudes.",
+      "A line curving so that it touches lower latitudes.",
+      "A line passing through the North Pole.",
+      "The latitude line connecting Mumbai and X."
+    ],
+    "correct_answer": "A line curving so that it touches higher latitudes.",
+    "explanation": "[CONCEPT]\nGreat circle routes, which represent the shortest distance on a sphere, curve toward the poles compared to lines of constant latitude[cite: 3732, 5065]."
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "question": "During translation which one of the following aminoacyl-tRNA binds first to the P site of bacterial ribosomes?",
+    "options": [
+      "fMet-tRNAfMet",
+      "fMet-tRNAMet",
+      "Met-tRNAfMet",
+      "Met-tRNAMet"
+    ],
+    "correct_answer": "fMet-tRNAfMet",
+    "explanation": "[CONCEPT]\nIn bacteria, initiation begins with N-formylmethionyl-tRNA (fMet-tRNAfMet) binding directly to the P site[cite: 3738, 5065]."
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "question": "Why will you NOT use topoisomerase in your PCR reaction mix?",
+    "options": [
+      "Denaturation step in the PCR protocol precludes formation of supercoils.",
+      "Reaction buffer has a pH that denatures DNA and avoids supercoils.",
+      "Taq-polymerase has innate topoisomerase activity.",
+      "The 5'3'exonuclease activity of Taq-polymerase does not allow supercoiling."
+    ],
+    "correct_answer": "Denaturation step in the PCR protocol precludes formation of supercoils.",
+    "explanation": "[CONCEPT]\nPCR denaturation at 95°C fully separates DNA strands, preventing the accumulation of torsional stress that occurs in vivo[cite: 3745, 5065]."
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "question": "Enzyme-linked immunospot (ELISPOT) assay measures:",
+    "options": [
+      "Cytokine concentration in culture supernatant.",
+      "Expression of cytokine gene.",
+      "Intracellular cytokine concentration.",
+      "Number of cytokine releasing cells at single cell level."
+    ],
+    "correct_answer": "Number of cytokine releasing cells at single cell level.",
+    "explanation": "[CONCEPT]\nELISPOT detects the local secretion of cytokines by individual cells, resulting in visible spots[cite: 3753, 5065]."
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "question": "Which one of the Immunoglobulins (Ig) cause type-I hypersensitive immune reaction?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "correct_answer": "IgE",
+    "explanation": "[CONCEPT]\nType I hypersensitivity (allergic reaction) is mediated by IgE antibodies binding to mast cells and basophils[cite: 3758, 5065]."
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "question": "You have recently observed a mutation in gene X in patients with lung cancer... both copies are mutated... mutation leads to absence of the protein X. The gene is most likely:",
+    "options": [
+      "A metastasis inducer",
+      "A stem cell associated gene",
+      "A tumor suppressor",
+      "An oncogene"
+    ],
+    "correct_answer": "A tumor suppressor",
+    "explanation": "[CONCEPT]\nLoss-of-function mutations in both alleles (Knudson's two-hit hypothesis) are characteristic of tumor suppressor genes[cite: 3765, 5065]."
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "question": "Which one of the following strategies do viruses employ to evade the human immune system?",
+    "options": [
+      "Virus binds to TCR and blocks activation of T-cells.",
+      "Virus infected cells show increased expression of pro-inflammatory cytokines.",
+      "Virus infected cells show reduced expression of surface MHC Class I molecules.",
+      "Viruses bind to surface Ig on B-cells and neutralize them."
+    ],
+    "correct_answer": "Virus infected cells show reduced expression of surface MHC Class I molecules.",
+    "explanation": "[CONCEPT]\nReducing MHC-I surface levels prevents the presentation of viral peptides to cytotoxic T cells[cite: 3773, 5065]."
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "A protein cargo X is destined for lysosomal degradation... tracked by red fluorescence... What will happen when you treat the cells with NH4Cl?",
+    "options": [
+      "No red fluorescence will be emitted.",
+      "Red fluorescence will be emitted in dotted structures in the cytoplasm.",
+      "Red fluorescence will be emitted only at the periphery of the cell.",
+      "Red fluorescence will be emitted throughout the cell."
+    ],
+    "correct_answer": "No red fluorescence will be emitted.",
+    "explanation": "[CONCEPT]\nAmmonium chloride neutralizes lysosomal acidity; if the fluorescent tag requires acidic pH for emission, fluorescence will be lost[cite: 3778, 5065]."
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "question": "In induced pluripotent stem cells:",
+    "options": [
+      "Germ cells are transformed and passaged continuously.",
+      "Oncogenes are added to embryonic stem cells.",
+      "Somatic cells are mutagenized to produce pluripotent cells.",
+      "Somatic cells are transduced with viral vectors coding for transcription factors."
+    ],
+    "correct_answer": "Somatic cells are transduced with viral vectors coding for transcription factors that induce a pluripotent state in the recipient cells.",
+    "explanation": "[CONCEPT]\niPSCs are generated by reprogramming adult somatic cells using specific factors like Oct4, Sox2, Klf4, and c-Myc[cite: 3786, 5065]."
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "question": "A protein X is active when phosphorylated on Thr residue. You wish to mimic this phosphorylation by mutating Thr to another residue. Which one of these residues will you use?",
+    "options": [
+      "Glu",
+      "Gly",
+      "His",
+      "Tyr"
+    ],
+    "correct_answer": "Glu",
+    "explanation": "[CONCEPT]\nGlutamate (Glu) and Aspartate (Asp) carry negative charges that mimic the chemical property of a phosphate group (phosphomimetic)[cite: 3791, 5065]."
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "question": "Protein X runs as 80 kDa on gel filtration but 40 kDa on SDS-PAGE with 2-mercaptoethanol. Conclude:",
+    "options": [
+      "X is a dimer of two units held together by disulfide bond(s) with a molecular weight of 40 kDa per monomeric unit.",
+      "X is a dimer held by electrostatic interactions with MW of 80 kDa per monomer.",
+      "X is a monomer with at least one disulfide bond and MW of 40 kDa.",
+      "X is a monomer with at least one disulfide bond and MW of 80 kDa."
+    ],
+    "correct_answer": "X is a dimer of two units held together by disulfide bond(s) with a molecular weight of 40 kDa per monomeric unit.",
+    "explanation": "[CONCEPT]\nReduction of disulfide bonds by mercaptoethanol splits the 80 kDa dimer into 40 kDa subunits[cite: 3801, 5065]."
+  },
+  {
+    "id": 60,
+    "type": "match_following",
+    "question": "Match the nucleic acids with base modifications",
+    "options": [
+      "7-methylguanosine",
+      "5-methylcytosine",
+      "Pseudouridine"
+    ],
+    "match_pairs": {
+      "DNA": "5-methylcytosine",
+      "tRNA": "Pseudouridine",
+      "mRNA": "7-methylguanosine"
+    },
+    "correct_answer": "A-ii, B-iii, C-i",
+    "explanation": "[CONCEPT]\nCharacteristic chemical modifications in DNA and RNA types[cite: 3810, 5065]."
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "If a single-stranded DNA sequence of 250 nucleotides consists of 30% thymine, the number of A, G, T, C nucleotides are:",
+    "options": [
+      "50, 50, 75, 75",
+      "75, 50, 75, 50",
+      "75, 75, 50, 50",
+      "Cannot be calculated"
+    ],
+    "correct_answer": "Cannot be calculated",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nIn single-stranded DNA, Chargaff's rules (A=T, G=C) do not apply; knowing only one base percentage is insufficient[cite: 3816, 5065]."
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "question": "Pyruvate decarboxylase action depends on cofactors TPP and magnesium. Role of TPP in initial step is:",
+    "options": [
+      "Electron donor",
+      "Carbanion",
+      "Carbocation",
+      "Thiolate anion"
+    ],
+    "correct_answer": "Carbanion",
+    "explanation": "[CONCEPT]\nTPP forms a reactive carbanion that attacks the carbonyl carbon of pyruvate[cite: 3822, 5065]."
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "question": "Which oxidation is NOT carried out by flavin-dependent Baeyer-Villiger monooxygenases (BVMOs)?",
+    "options": [
+      "Aldehydes to carboxylic acids.",
+      "Ketones to esters/lactones.",
+      "N-oxidations.",
+      "Sulfoxidations."
+    ],
+    "correct_answer": "Aldehydes to carboxylic acids.",
+    "explanation": "[CONCEPT]\nBVMOs primarily catalyze the insertion of an oxygen atom into C-C bonds (ketones to esters/lactones) or heteroatoms, rather than simple aldehyde oxidation[cite: 3829, 5065]."
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "question": "Which one of the following is a malnutrition disease?",
+    "options": [
+      "Ketosis",
+      "Arthritis",
+      "Hepatitis",
+      "Marasmus"
+    ],
+    "correct_answer": "Marasmus",
+    "explanation": "[CONCEPT]\nMarasmus is severe undernourishment characterized by energy deficiency[cite: 3835, 5065]."
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "question": "Sanger sequencing fragments provided. Identify template sequence:",
+    "options": [
+      "3' CTTAATAGTG 5'",
+      "3'GAATTATCAC 5'",
+      "5' CACTATTAAG 3'",
+      "5' -GAATTATCAC - 3'"
+    ],
+    "correct_answer": "3' CTTAATAGTG 5'",
+    "explanation": "[CONCEPT]\nThe template is complementary and antiparallel to the sequenced strand (GAATTATCAC)[cite: 3840, 5065]."
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "Which one of the following is NOT TRUE for local alignment of protein sequences?",
+    "options": [
+      "Gap penalty is not used.",
+      "Used for distantly related sequences.",
+      "Looks for high similarity blocks.",
+      "Smith-Waterman algorithm is used."
+    ],
+    "correct_answer": "Gap penalty is not used for insertions and deletions.",
+    "explanation": "[CONCEPT]\nLocal alignments absolutely utilize gap penalties for scoring optimal segments[cite: 3854, 5065]."
+  },
+  {
+    "id": 67,
+    "type": "match_following",
+    "question": "Match gene expression steps with associated enzymes",
+    "options": [
+      "Endonuclease",
+      "Histone methyltransferase",
+      "eIF2 Kinase",
+      "RNA polymerase"
+    ],
+    "match_pairs": {
+      "Epigenetic regulation": "Histone methyltransferase",
+      "DNA repair": "Endonuclease",
+      "Transcription": "RNA polymerase",
+      "Translation": "eIF2 Kinase"
+    },
+    "correct_answer": "A-ii, Bi, C-iv, D-iii",
+    "explanation": "[CONCEPT]\nCore enzymes involved in information flow and regulation[cite: 3862, 5065]."
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "What is the pH of a mixture of 0.042 M NaH?",
+    "options": [
+      "4.86",
+      "5.86",
+      "6.86",
+      "7.86"
+    ],
+    "correct_answer": "7.86",
+    "explanation": "[CONCEPT]\nBased on official key for provided concentration of sodium hydride or related buffer component[cite: 3869, 5065]."
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "question": "Cellulose is a polymer of glucose which is made by:",
+    "options": [
+      "(1→2) linkage",
+      "(1→4) linkage",
+      "(1→6) linkage",
+      "a(1→4) linkage"
+    ],
+    "correct_answer": "b(1→4) linkage",
+    "explanation": "[CONCEPT]\nCellulose consists of beta-1,4-glycosidic bonds between glucose units[cite: 3875, 5065]."
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "Which one of the following defines the angle in the protein backbone?",
+    "options": [
+      "N-Ca-C-N",
+      "Ca-C-N-C",
+      "C-N-Ca-C",
+      "N-Ca-C-0"
+    ],
+    "correct_answer": "C-N-Ca-C",
+    "explanation": "[CONCEPT]\nThe phi (φ) angle is defined by the rotation around the N-Cα bond[cite: 3881, 5065]."
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "Which one of the following is used to validate the secondary structure of proteins?",
+    "options": [
+      "Dot plot",
+      "Neural network",
+      "Ramachandran plot",
+      "Sigma plot"
+    ],
+    "correct_answer": "Ramachandran plot",
+    "explanation": "[CONCEPT]\nRamachandran plots visualize allowed phi and psi angles to validate protein folding quality[cite: 3887, 5065]."
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "Genes that are related through gene duplication events are:",
+    "options": [
+      "Analogs",
+      "Homologs",
+      "Orthologs",
+      "Paralogs"
+    ],
+    "correct_answer": "Paralogs",
+    "explanation": "[CONCEPT]\nParalogs arise via duplication within a species; orthologs arise via speciation[cite: 3892, 5065]."
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "question": "Inducing random mutations and then determining impairment of function is:",
+    "options": [
+      "Both forward and reverse",
+      "Forward genetics",
+      "Neither",
+      "Reverse genetics"
+    ],
+    "correct_answer": "Reverse genetics",
+    "explanation": "[CONCEPT]\nReverse genetics starts with a gene and seeks the resulting phenotype[cite: 3897, 5065]."
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "Nickel NTA affinity chromatography was chosen to purify a protein. Which tag was present?",
+    "options": [
+      "Flag",
+      "Glutathione-S-transferase",
+      "Hexa-histidine",
+      "Maltose binding protein"
+    ],
+    "correct_answer": "Hexa-histidine",
+    "explanation": "[CONCEPT]\nHis-tags have high affinity for divalent metal ions like Nickel (Ni-NTA)[cite: 3903, 5065]."
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "question": "During eukaryotic replication, _________ degrades the RNA primer by 5'-3' exonuclease activity.",
+    "options": [
+      "DNA polymerase V",
+      "FEN-1",
+      "RNAseH1",
+      "Topoisomerase IIB"
+    ],
+    "correct_answer": "FEN-1",
+    "explanation": "[CONCEPT]\nFlap endonuclease 1 (FEN-1) removes the RNA primer flaps during lagging strand synthesis[cite: 3951, 5065]."
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "The presence of Cardiolipin is a characteristic of the membrane of:",
+    "options": [
+      "Endoplasmic reticulum",
+      "Lysosomes",
+      "Mitochondria",
+      "Myelin sheets"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "[CONCEPT]\nCardiolipin is almost exclusively found in the inner mitochondrial membrane[cite: 3957, 5065]."
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "question": "The enzyme used to prevent unwanted self-ligation of DNA molecules during cloning is:",
+    "options": [
+      "Alkaline phosphatase",
+      "Reverse transcriptase",
+      "Terminal peroxidase",
+      "Terminal phosphatase"
+    ],
+    "correct_answer": "Alkaline phosphatase",
+    "explanation": "[CONCEPT]\nAlkaline phosphatase removes the 5'-phosphate group required by ligase[cite: 3962, 5065]."
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "In genomics, a contig means:",
+    "options": [
+      "Restriction fragments.",
+      "Genetic markers.",
+      "Set of overlapping fragments forming a continuous stretch.",
+      "NGS fragment."
+    ],
+    "correct_answer": "A set of overlapping fragments that form a continuous stretch of DNA.",
+    "explanation": "[CONCEPT]\nContigs are assembled from raw reads to represent larger contiguous genomic regions[cite: 3967, 5065]."
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "question": "The hypochromic effect in DNA arises because:",
+    "options": [
+      "dsDNA absorbs more UV.",
+      "dsDNA is less colourful.",
+      "dsDNA is more colourful.",
+      "Stacked bases in dsDNA absorb less UV than unstacked bases in ssDNA."
+    ],
+    "correct_answer": "Stacked bases in double stranded DNA absorb less UV light than unstacked base in single stranded DNA.",
+    "explanation": "[CONCEPT]\nBase stacking in the double helix reduces UV absorption; denaturation increases it[cite: 3972, 5065]."
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "question": "Gel filtration chromatography separates proteins on the basis of:",
+    "options": [
+      "Affinity tag",
+      "Charge",
+      "Hydrodynamic volume",
+      "Hydrophobicity"
+    ],
+    "correct_answer": "Hydrodynamic volume",
+    "explanation": "[CONCEPT]\nGel filtration (size exclusion) relies on the effective size of molecules in solution[cite: 3978, 5065]."
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "A medicine is likely to be fake if:",
+    "options": [
+      "HPLC RT is same.",
+      "Melting point is same.",
+      "Rf is same.",
+      "Same peak intensity and retention time are not observed on HPLC compared to standard."
+    ],
+    "correct_answer": "Same peak intensity and same retention time are not observed on injection of equal amount of the test and standard sample on HPLC.",
+    "explanation": "[CONCEPT]\nDivergence from standard chemical profiles indicates an illegitimate product[cite: 3983, 5065]."
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "Chip-on-chip combines chromatin immune precipitation with microarrays to identify:",
+    "options": [
+      "micro-RNA.",
+      "Protein motifs.",
+      "Protein-coding regions.",
+      "Transcription factor binding regions in promoters."
+    ],
+    "correct_answer": "Transcription factor binding regions in the promoters.",
+    "explanation": "[CONCEPT]\nChIP-on-chip maps where specific proteins (like TFs) bind across the genome[cite: 3989, 5065]."
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "question": "To modify an assay from 10 mg/ml to 0.1 mg/ml, you need to improve:",
+    "options": [
+      "Accuracy",
+      "Reactivity",
+      "Sensitivity",
+      "Specificity"
+    ],
+    "correct_answer": "Sensitivity",
+    "explanation": "[CONCEPT]\nSensitivity is the ability to detect and quantify low concentrations of an analyte[cite: 3994, 5065]."
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "A 20-mer peptide composed of all 20 standard amino acids was hydrolyzed with 6N HCI. Three missing amino acids will be:",
+    "options": [
+      "Gln, Asn, Trp",
+      "Glu, Asp, Trp",
+      "Glu, Asp, Tyr",
+      "Tyr, Trp, Phe"
+    ],
+    "correct_answer": "Gln, Asn, Trp",
+    "explanation": "[CONCEPT]\nAcid hydrolysis destroys Tryptophan and converts Glutamine/Asparagine into Glutamate/Aspartate[cite: 4004, 5065]."
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "question": "Which one of the following is the most effective reducing agent of disulfide bonds in proteins?",
+    "options": [
+      "2-mercaptoethanol",
+      "Dithiothreitol",
+      "Ethanethiol",
+      "Ethanol"
+    ],
+    "correct_answer": "Dithiothreitol",
+    "explanation": "[CONCEPT]\nDTT is more effective than 2-mercaptoethanol due to its higher reduction potential and stability[cite: 4011, 5065]."
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Digitalis is used for congestive heart failure because:",
+    "options": [
+      "Dissolves clots.",
+      "Increases force of heart contraction.",
+      "Increases chamber volume.",
+      "Clears lungs."
+    ],
+    "correct_answer": "It can increase the force of contraction of heart muscle.",
+    "explanation": "[CONCEPT]\nDigitalis acts as a positive inotrope by inhibiting the Na+/K+ ATPase pump[cite: 4016, 5065]."
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "question": "Peroxisomes are different from mitochondria and chloroplast mainly because they are:",
+    "options": [
+      "Not major oxygen sites.",
+      "Surrounded by double membrane.",
+      "Single membrane and contain genome.",
+      "Surrounded by single membrane."
+    ],
+    "correct_answer": "Surrounded by single membrane.",
+    "explanation": "[CONCEPT]\nPeroxisomes are single-membrane organelles and lack their own DNA[cite: 4021, 5065]."
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "Copy number variation (CNV) signifies:",
+    "options": [
+      "Short polymorphic sequence.",
+      "DNA segments > 1 Kb repeated multiple times.",
+      "Aneuploidy.",
+      "Short tandem repeats."
+    ],
+    "correct_answer": "DNA segments > 1 Kb repeated multiple times in the genome.",
+    "explanation": "[CONCEPT]\nCNVs are structural variants involving large duplications or deletions[cite: 4026, 5065]."
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "question": "Which one among the following is NOT a characteristic of an 'Enhancer'?",
+    "options": [
+      "Conserved.",
+      "Transcribed to eRNA.",
+      "Function is independent of location.",
+      "Function is independent of orientation."
+    ],
+    "correct_answer": "It is conserved in evolution.",
+    "explanation": "[CONCEPT]\nWhile many enhancers are functional, they are often the most rapidly evolving and least conserved genomic elements[cite: 4031, 5065]."
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "The enzyme that plays a key role in glucose homeostasis is:",
+    "options": [
+      "Fructokinase",
+      "Galactokinase",
+      "Glucokinase",
+      "Hexokinase"
+    ],
+    "correct_answer": "Glucokinase",
+    "explanation": "[CONCEPT]\nGlucokinase (Hexokinase IV) acts as a glucose sensor in the liver and pancreas[cite: 4036, 5065]."
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "Prokaryotic ribosomes bind to which one of the following:",
+    "options": [
+      "Kozak sequence",
+      "Ori sequence",
+      "Promoter sequence",
+      "Shine-Dalgarno sequence"
+    ],
+    "correct_answer": "Shine-Dalgarno sequence",
+    "explanation": "[CONCEPT]\nThe Shine-Dalgarno sequence recruits the 30S ribosome to the mRNA start codon in bacteria[cite: 4041, 5065]."
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Which component of an enveloped virus is NOT encoded by the viral genome?",
+    "options": [
+      "Capsid proteins",
+      "Envelope lipids",
+      "Non-structural proteins",
+      "Structural proteins"
+    ],
+    "correct_answer": "Envelope lipids",
+    "explanation": "[CONCEPT]\nViruses acquire their lipid envelope from the host cell membranes during budding[cite: 4046, 5065]."
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "question": "A student clones a gene within the ampicillin resistance gene of pBR322 vector. Selection will use:",
+    "options": [
+      "Ampicillin plates.",
+      "Both Amp and Tet plates.",
+      "Neither.",
+      "Tetracycline plates."
+    ],
+    "correct_answer": "Tetracycline plates.",
+    "explanation": "[CONCEPT]\nInsertion into the AmpR gene inactivates it; transformants are selected on tetracycline, but screened for loss of ampicillin resistance[cite: 4055, 5065]."
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "Consequences of a DNA base change are maximum if located in:",
+    "options": [
+      "First or second position of a codon",
+      "Middle of an intron",
+      "Repetitive DNA",
+      "Third position of a codon"
+    ],
+    "correct_answer": "First or second position of a codon",
+    "explanation": "[CONCEPT]\nChanges in the first two bases usually result in non-synonymous amino acid substitutions[cite: 4060, 5065]."
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "question": "The Telomerase enzyme is a:",
+    "options": [
+      "DNA-dependent DNA Polymerase",
+      "DNA-dependent RNA Polymerase",
+      "Reverse Transcriptase",
+      "RNA-dependent RNA Polymerase"
+    ],
+    "correct_answer": "Reverse Transcriptase",
+    "explanation": "[CONCEPT]\nTelomerase uses an internal RNA template to synthesize telomeric DNA[cite: 4065, 5065]."
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "Isolating RNA requires more precautions because:",
+    "options": [
+      "RNA is more prone to hydrolysis.",
+      "RNA is smaller.",
+      "RNA forms hybrids.",
+      "Less RNA per cell."
+    ],
+    "correct_answer": "RNA is more prone to hydrolysis than DNA.",
+    "explanation": "[CONCEPT]\nThe 2'-OH group on the ribose sugar makes RNA chemically less stable and prone to alkaline hydrolysis and RNase degradation[cite: 4070, 5065]."
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "question": "Type IIP restriction endonucleases will always:",
+    "options": [
+      "Bind to dsRNA.",
+      "Cleave outside sequence.",
+      "Generate blunt ends.",
+      "Recognize palindromic sequence."
+    ],
+    "correct_answer": "Recognize palindromic sequence.",
+    "explanation": "[CONCEPT]\nThe 'P' in Type IIP stands for symmetric palindromic recognition[cite: 4076, 5065]."
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "Assertion A: Ionizing radiation can cause DNA damage. Reason R: Ionizing radiation generates free radicals.",
+    "options": [
+      "A false, R true.",
+      "A true, R false.",
+      "Both true, R is correct explanation.",
+      "Both true, R is NOT correct explanation."
+    ],
+    "correct_answer": "Both A and R are true and R is the correct explanation of A.",
+    "explanation": "[CONCEPT]\nRadiation-induced radiolysis of water produces reactive oxygen species that attack DNA[cite: 4082, 5065]."
+  },
+  {
+    "id": 99,
+    "type": "mcq",
+    "question": "Lysosomal lumen is maintained at an acidic pH by:",
+    "options": [
+      "De novo H+ generation.",
+      "H+ ATPase pumping H+ in.",
+      "H+ ATPase pumping H+ out.",
+      "Specialized luminal proteins."
+    ],
+    "correct_answer": "H+ ATPase that pumps H+ ions into lysosomes.",
+    "explanation": "[CONCEPT]\nV-type H+ ATPases use ATP energy to actively transport protons into the lysosome[cite: 4089, 5065]."
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "question": "Which one among the following is a nuclease?",
+    "options": [
+      "DNase I",
+      "Helicase",
+      "Ligase",
+      "Polymerase"
+    ],
+    "correct_answer": "DNase I",
+    "explanation": "[CONCEPT]\nDNase I is an endonuclease that nonspecifically cleaves DNA[cite: 4094, 5065]."
+  },
+  {
+    "id": 101,
+    "type": "mcq",
+    "question": "Which is NOT common between oxidative phosphorylation and photophosphorylation?",
+    "options": [
+      "ATP generation",
+      "Kinase involvement",
+      "Electron transport",
+      "Oxygen involvement"
+    ],
+    "correct_answer": "Involvement of oxygen",
+    "explanation": "[CONCEPT]\nOxygen is the final electron acceptor in oxidative phosphorylation, but not in photophosphorylation (where it is a byproduct)[cite: 4101, 5065]."
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "question": "Which one of the following combinations signify similar function?",
+    "options": [
+      "Cryptochrome and flurochrome",
+      "Cryptochrome and phytochrome",
+      "Cytochrome and cryptochrome",
+      "Fluorochrome and cytochrome"
+    ],
+    "correct_answer": "Cryptochrome and phytochrome",
+    "explanation": "[CONCEPT]\nBoth are plant photoreceptors involved in light-sensing and signaling[cite: 4110, 5065]."
+  },
+  {
+    "id": 103,
+    "type": "mcq",
+    "question": "Night length disrupted by red light pulse followed by far red light:",
+    "options": [
+      "Both flower.",
+      "LD flower, SD not.",
+      "None flower.",
+      "SD flower, LD not."
+    ],
+    "correct_answer": "Short-day plants will flower and long-day plants will not flower.",
+    "explanation": "[CONCEPT]\nThe final far-red pulse reverses the inhibitory effect of the red light in SD plants[cite: 4115, 5065]."
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "question": "Appropriate explant to produce virus-free plants via micropropagation:",
+    "options": [
+      "Shoot apical meristem",
+      "Stem",
+      "Leaf disc",
+      "Root tip."
+    ],
+    "correct_answer": "Shoot apical meristem",
+    "explanation": "[CONCEPT]\nMeristems are often free of viruses because they lack vascular connections and have high metabolic rates[cite: 4122, 5065]."
+  },
+  {
+    "id": 105,
+    "type": "mcq",
+    "question": "Rice blast fungus specialized infection structures:",
+    "options": [
+      "Appressoria",
+      "Infection tube",
+      "Mycota",
+      "Sporangia"
+    ],
+    "correct_answer": "Appressoria",
+    "explanation": "[CONCEPT]\nAppressoria use high turgor pressure to physically penetrate the host cuticle[cite: 4132, 5065]."
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "question": "First alkaloid to be isolated and characterized from plants:",
+    "options": [
+      "Caffeine",
+      "Cocaine",
+      "Morphine",
+      "Quinine"
+    ],
+    "correct_answer": "Morphine",
+    "explanation": "[CONCEPT]\nMorphine was isolated from opium poppy in 1804[cite: 4138, 5065]."
+  },
+  {
+    "id": 107,
+    "type": "mcq",
+    "question": "Arabidopsis seeds on MS media germinate faster than on media containing:",
+    "options": [
+      "Abscisic acid",
+      "Auxin",
+      "Cytokinin",
+      "Jasmonic acid"
+    ],
+    "correct_answer": "Abscisic acid",
+    "explanation": "[CONCEPT]\nABA is the primary hormone that inhibits germination and maintains seed dormancy[cite: 4143, 5065]."
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "question": "Which one of the following is a non-climacteric fruit?",
+    "options": [
+      "Jackfruit",
+      "Tomato",
+      "Wild banana",
+      "Wild strawberry"
+    ],
+    "correct_answer": "Wild strawberry (Fragaria vesca)",
+    "explanation": "[CONCEPT]\nNon-climacteric fruits like strawberries do not ripen significantly after harvest[cite: 4149, 5065]."
+  },
+  {
+    "id": 109,
+    "type": "mcq",
+    "question": "TRUE for gibberellins:",
+    "options": [
+      "Promote germination.",
+      "Cannot stimulate leaf growth.",
+      "Cannot stimulate stem growth.",
+      "Exogenous use increases growth."
+    ],
+    "correct_answer": "Gibberellins promote seed germination.",
+    "explanation": "[CONCEPT]\nGAs stimulate the production of hydrolytic enzymes like alpha-amylase to initiate germination[cite: 4154, 5065]."
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "question": "Which one of the following is NOT a secondary metabolite?",
+    "options": [
+      "Acetyl-CoA",
+      "Coumarins",
+      "Flavonoids",
+      "Squalene"
+    ],
+    "correct_answer": "Acetyl-CoA",
+    "explanation": "[CONCEPT]\nAcetyl-CoA is a central primary metabolite in energy production and carbon metabolism[cite: 4164, 5065]."
+  },
+  {
+    "id": 111,
+    "type": "mcq",
+    "question": "Accumulated as an antiherbivore response in plants:",
+    "options": [
+      "Alkaloids",
+      "Glucose",
+      "Sucrose",
+      "Tannins"
+    ],
+    "correct_answer": "Alkaloids",
+    "explanation": "[CONCEPT]\nMany alkaloids are toxic or bitter, acting as potent deterrents against herbivores[cite: 4169, 5065]."
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "question": "Polysaccharide induced after pathogen attack:",
+    "options": [
+      "Arabinoxylan",
+      "Callose",
+      "Cellulose",
+      "Pectin"
+    ],
+    "correct_answer": "Callose",
+    "explanation": "[CONCEPT]\nCallose deposition at infection sites strengthens the cell wall against fungal penetration[cite: 4177, 5065]."
+  },
+  {
+    "id": 113,
+    "type": "mcq",
+    "question": "GA2oxidase overexpressed in wheat transgenic plant phenotype:",
+    "options": [
+      "Height unaffected.",
+      "Shorter than wild type.",
+      "Taller than wild type.",
+      "Will not survive."
+    ],
+    "correct_answer": "The plant will be shorter than the wild type.",
+    "explanation": "[CONCEPT]\nGA2 oxidase inactivates bioactive GAs, leading to GA deficiency and dwarfism[cite: 4182, 5065]."
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "question": "Vir proteins involved in cutting T-DNA from Agrobacterium plasmid:",
+    "options": [
+      "Vir A/Vir C",
+      "Vir B6/Vir B7",
+      "Vir D1/Vir D2",
+      "Vir E2/Vir G"
+    ],
+    "correct_answer": "Vir D1/Vir D2",
+    "explanation": "[CONCEPT]\nVirD1/D2 form an endonuclease complex that creates single-stranded nicks at the T-DNA borders[cite: 4193, 5065]."
+  },
+  {
+    "id": 115,
+    "type": "mcq",
+    "question": "Lateral roots initiate from:",
+    "options": [
+      "Endodermis",
+      "Pericycle",
+      "RAM",
+      "Root epidermis"
+    ],
+    "correct_answer": "Pericycle",
+    "explanation": "[CONCEPT]\nLateral roots originate in the pericycle layer, which retains meristematic potential[cite: 4198, 5065]."
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "question": "NOT a characteristic of skotomorphogenic development:",
+    "options": [
+      "Apical hook",
+      "Closed cotyledons",
+      "Expanded leaves",
+      "Long hypocotyls"
+    ],
+    "correct_answer": "Expanded leaves",
+    "explanation": "[CONCEPT]\nSkotomorphogenesis (dark growth) results in etiolation; leaf expansion is a light-driven photomorphogenic process[cite: 4203, 5065]."
+  },
+  {
+    "id": 117,
+    "type": "mcq",
+    "question": "Selection marker for developing transgenic plants:",
+    "options": [
+      "galactosidase",
+      "glucoronidase",
+      "GFP",
+      "Hygromycin phosphotransferase"
+    ],
+    "correct_answer": "Hygromycin phosphotransferase",
+    "explanation": "[CONCEPT]\nAntibiotic or herbicide resistance genes are used to select transformed cells[cite: 4208, 5065]."
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "question": "Treatment required for flowering in winter annual Arabidopsis:",
+    "options": [
+      "Short cold pulse.",
+      "Short high temp pulse.",
+      "High FLC expression.",
+      "Prolonged cold period."
+    ],
+    "correct_answer": "Prolonged cold period.",
+    "explanation": "[CONCEPT]\nVernalization is the induction of flowering by a long period of low temperature[cite: 4213, 5065]."
+  },
+  {
+    "id": 119,
+    "type": "mcq",
+    "question": "Treatment required for flowering in winter annual Arabidopsis (repeat question):",
+    "options": [
+      "Short cold pulse.",
+      "Short high temp pulse.",
+      "High FLC expression.",
+      "Prolonged cold period."
+    ],
+    "correct_answer": "Prolonged cold period.",
+    "explanation": "[CONCEPT]\nVernalization reverses the floral repression by FLC[cite: 4364, 5065]."
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "question": "TRUE regarding specialized embryonic structures of the grass family:",
+    "options": [
+      "A and C only",
+      "A and D only",
+      "B and C only",
+      "C and D only"
+    ],
+    "correct_answer": "B and C only",
+    "explanation": "[CONCEPT]\nScutellum (B) acts as a nutrient interface; coleoptile (C) protects emerging leaves[cite: 4370, 5065]."
+  },
+  {
+    "id": 121,
+    "type": "mcq",
+    "question": "Taller/thinner column gives better conversion than equal volume/loading wider column:",
+    "options": [
+      "Packing efficiency bad.",
+      "Deactivation.",
+      "External diffusion reducing rate.",
+      "Internal pore diffusion reducing rate."
+    ],
+    "correct_answer": "Immobilized enzyme has external diffusion which reduces the enzymatic conversion rate.",
+    "explanation": "[CONCEPT]\nThinner columns have higher linear velocity, which reduces the boundary layer and external mass transfer resistance[cite: 4381, 5065]."
+  },
+  {
+    "id": 122,
+    "type": "mcq",
+    "question": "In two stage CSTR, first reactor runs at D1 <umax and S0 = 2Ks, then:",
+    "options": [
+      "Washout never.",
+      "Washout when D2>µmax.",
+      "Washout when D2<µmax.",
+      "Washout when D2 = µmax."
+    ],
+    "correct_answer": "Washout will never takes place.",
+    "explanation": "[CONCEPT]\nAs long as the first stage provides a continuous inoculum, the second stage cannot be fully washed out even at high dilution rates[cite: 4386, 5065]."
+  },
+  {
+    "id": 123,
+    "type": "mcq",
+    "question": "To have extended late log/stationary phase for secondary metabolites, prefer:",
+    "options": [
+      "Batch",
+      "Fed batch",
+      "Fluidized bed",
+      "Plug flow"
+    ],
+    "correct_answer": "Fed batch reactor",
+    "explanation": "[CONCEPT]\nFed-batch operation allows nutrient control to extend the production phase without wash-out[cite: 4391, 5065]."
+  },
+  {
+    "id": 124,
+    "type": "mcq",
+    "question": "Pseudoplastic rheology of fungal broth implies:",
+    "options": [
+      "Uniformly high viscosity.",
+      "Uniformly low.",
+      "Higher at impeller.",
+      "Low at impeller but high at walls."
+    ],
+    "correct_answer": "The viscosity to be low near the impeller but high near the walls of the reactor.",
+    "explanation": "[CONCEPT]\nPseudoplastic fluids are shear-thinning; high shear near the impeller reduces viscosity[cite: 4397, 5065]."
+  },
+  {
+    "id": 125,
+    "type": "mcq",
+    "question": "Assertion A: Flow rate declines in constant pressure filter. Reason R: Cake builds up on membrane.",
+    "options": [
+      "A & R true, A due to R.",
+      "A & R true, A NOT due to R.",
+      "A false, R true.",
+      "A true, R false."
+    ],
+    "correct_answer": "A & R are both true and A is due to R.",
+    "explanation": "[CONCEPT]\nThe increasing thickness of the filter cake increases resistance to flow[cite: 4402, 5065]."
+  },
+  {
+    "id": 126,
+    "type": "mcq",
+    "question": "Scaling up while keeping power/volume constant leads to:",
+    "options": [
+      "Decrease in RPM.",
+      "RPM same.",
+      "Increase in RPM.",
+      "Depends on impeller."
+    ],
+    "correct_answer": "Decrease in RPM of the impeller of the larger reactor.",
+    "explanation": "[CONCEPT]\nSince P/V ∝ N^3D^2, larger diameter D requires lower RPM N to maintain the same power density[cite: 4411, 5065]."
+  },
+  {
+    "id": 127,
+    "type": "mcq",
+    "question": "Fed batch culture feed rate increased while RPM constant. Observe:",
+    "options": [
+      "Decline in D.O.",
+      "Increase in D.O.",
+      "Oscillation.",
+      "No change."
+    ],
+    "correct_answer": "A decline in the D.O. values of the culture.",
+    "explanation": "[CONCEPT]\nIncreased substrate leads to higher metabolic activity and oxygen consumption, depleting dissolved oxygen[cite: 4417, 5065]."
+  },
+  {
+    "id": 128,
+    "type": "mcq",
+    "question": "In anaerobic fermentation producing ethanol, the ethanol yield (Yp/s):",
+    "options": [
+      "Decreases with Yx/s.",
+      "Increases with Yx/s.",
+      "Initially increases.",
+      "Independent."
+    ],
+    "correct_answer": "Decreases with increasing biomass yield (YX/s).",
+    "explanation": "[CONCEPT]\nBiomass and product compete for the same carbon source; more carbon to cells means less to product[cite: 4423, 5065]."
+  },
+  {
+    "id": 129,
+    "type": "mcq",
+    "question": "Doubling substrate concentration in inlet of CSTR leads to:",
+    "options": [
+      "Higher biomass, unchanged S in outlet.",
+      "Higher S & biomass.",
+      "Higher S, unchanged biomass.",
+      "Unchanged S & biomass."
+    ],
+    "correct_answer": "Higher biomass concentration but unchanged substrate concentration in the outlet.",
+    "explanation": "[CONCEPT]\nSteady state outlet S is determined by the dilution rate D, not S0; increased S0 increases cell concentration[cite: 4429, 5065]."
+  },
+  {
+    "id": 130,
+    "type": "mcq",
+    "question": "180 g glucose consumed, 132 g CO2 produced. Fractional carbon flux to biomass:",
+    "options": [
+      "0.5",
+      "132/180",
+      "2/15",
+      "48/180"
+    ],
+    "correct_answer": "48/180",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nMass balance: Carbon in biomass = Carbon in glucose - Carbon in CO<sub>2</sub> = 180 - 132 = 48. Fraction = 48/180[cite: 4435, 5065]."
+  },
+  {
+    "id": 131,
+    "type": "mcq",
+    "question": "S. cerevisiae ferments 20g/l glucose in 24h with yield 0.5 g/g. Ethanol productivity:",
+    "options": [
+      "0.416 g/l/h",
+      "0.833 g/l/h",
+      "108 g/l",
+      "20 g/l"
+    ],
+    "correct_answer": "0.416 g/l/h",
+    "explanation": "[STEPS]\nStep 1: Product\n= 20g * 0.5 = 10g. Productivity = 10g / (24h * 1L) = 0.416 g/l/h[cite: 4443, 5065]."
+  },
+  {
+    "id": 132,
+    "type": "mcq",
+    "question": "E. coli cells grew from 10^3 to 10^6 in 10h. Specific growth rate:",
+    "options": [
+      "0.3 h-1",
+      "0.69 h-1",
+      "103 h-1",
+      "3 h-1"
+    ],
+    "correct_answer": "0.69 h-1",
+    "explanation": "[STEPS]\nStep 1: ln(\n10<sup>6</sup>/10<sup>3</sup>) = µ * 10 => 3 ln 10 = 10µ => µ = (3 * 2.303) / 10 = 0.69[cite: 4452, 5065]."
+  },
+  {
+    "id": 133,
+    "type": "mcq",
+    "question": "Non-growth product kinetics qp=beta. To maximize product concentration, you will:",
+    "options": [
+      "Slowly declining µ.",
+      "Slowly increasing µ.",
+      "Highest possible µ.",
+      "Lowest possible µ."
+    ],
+    "correct_answer": "Maintain lowest possible μ",
+    "explanation": "[CONCEPT]\nMinimizing carbon flux to growth maximizes flux to the non-growth associated product pathway[cite: 4460, 5065]."
+  },
+  {
+    "id": 134,
+    "type": "mcq",
+    "question": "Power number constant; increasing RPM 3-fold increases power consumption by:",
+    "options": [
+      "27-fold",
+      "3-fold",
+      "81-fold",
+      "9-fold"
+    ],
+    "correct_answer": "27-fold",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nPower scales with the cube of the rotation speed (P ∝ N^3). (3)^3 = 27[cite: 4466, 5065]."
+  },
+  {
+    "id": 135,
+    "type": "mcq",
+    "question": "If maintenance coefficient (m) is high, with reduction in specific growth rate:",
+    "options": [
+      "Yield decreases",
+      "Yield increases",
+      "Yield constant",
+      "Sum constant"
+    ],
+    "correct_answer": "Biomass yield decreases",
+    "explanation": "[CONCEPT]\nAt low growth rates, a larger fraction of substrate is diverted to maintenance rather than new biomass[cite: 4471, 5065]."
+  },
+  {
+    "id": 136,
+    "type": "mcq",
+    "question": "Increasing agitation increases oxygen transfer primarily because:",
+    "options": [
+      "Hold up decreases.",
+      "Good mixing.",
+      "Cells move closer to bubbles.",
+      "0.67"
+    ],
+    "correct_answer": "Good mixing takes place",
+    "explanation": "[CONCEPT]\nIncreased turbulence reduces film resistance and breaks bubbles into smaller sizes, increasing surface area for transfer[cite: 4476, 5065]."
+  },
+  {
+    "id": 137,
+    "type": "mcq",
+    "question": "Cell density 30 g/L, D = 0.4 h-1, substrate uptake rate q = 18 g/L h. Yield Yx/s:",
+    "options": [
+      "0.32",
+      "0.45",
+      "0.50",
+      "0.67"
+    ],
+    "correct_answer": "0.67",
+    "explanation": "[STEPS]\nStep 1: Rate of growth\n= D*X = 0.4 * 30 = 12 g/Lh. Yield Yx/s = growth rate / uptake rate = 12 / 18 = 0.666[cite: 4481, 5065]."
+  },
+  {
+    "id": 138,
+    "type": "mcq",
+    "question": "ATPS partitioning, K = 4.2. Max recovery with volume ratio upper:lower = 5:",
+    "options": [
+      "68%",
+      "76%",
+      "85%",
+      "95%"
+    ],
+    "correct_answer": "95%",
+    "explanation": "[STEPS]\nStep 1: Recovery R\n= (K*Vr) / (1 + K*Vr) = (4.2 * 5) / (1 + 21) = 21 / 22 = 95.4%[cite: 4488, 5065]."
+  },
+  {
+    "id": 139,
+    "type": "mcq",
+    "question": "Medium cooled 70 to 32, fluid heated 20 to 46. Log mean temperature difference:",
+    "options": [
+      "12.6",
+      "17.3",
+      "4.8",
+      "8.5"
+    ],
+    "correct_answer": "17.3",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nΔT1 = 70-46 = 24. ΔT2 = 32-20 = 12. LMTD = (24-12) / ln(24/12) = 12 / ln 2 = 12 / 0.693 = 17.3[cite: 4495, 5065]."
+  },
+  {
+    "id": 140,
+    "type": "mcq",
+    "question": "In MM kinetics, elasticity of reaction velocity with respect to substrate:",
+    "options": [
+      "Decreases.",
+      "Increases then declines.",
+      "Increases.",
+      "Unchanged."
+    ],
+    "correct_answer": "Decreases with increase in substrate concentration.",
+    "explanation": "[CONCEPT]\nAs the enzyme saturates, the velocity becomes less responsive to changes in substrate concentration[cite: 4500, 5065]."
+  },
+  {
+    "id": 141,
+    "type": "mcq",
+    "question": "Assertion A: Gene Sequences aligned using identity matrices. Reason R: DNA bases cannot be replaced with each other.",
+    "options": [
+      "A false, R true.",
+      "A true, R false.",
+      "Both true, R is correct explanation.",
+      "Both true, R is NOT correct explanation."
+    ],
+    "correct_answer": "Both A and R are true and R is the correct explanation of A.",
+    "explanation": "[CONCEPT]\nDNA sequence similarity is measured by exact matches (identity) rather than functional substitution patterns[cite: 4508, 5065]."
+  },
+  {
+    "id": 142,
+    "type": "match_following",
+    "question": "Match bioinformatics tasks with tools/databases",
+    "options": [
+      "PUBMED",
+      "BLAST",
+      "ROSETTA",
+      "DALI"
+    ],
+    "match_pairs": {
+      "Sequence alignment": "BLAST",
+      "Structural alignment": "DALI",
+      "Fold prediction": "ROSETTA",
+      "Review of literature": "PUBMED"
+    },
+    "correct_answer": "A-ii, B-iv, C-iii, D-i",
+    "explanation": "[CONCEPT]\nStandard computational biology tools for different analysis levels[cite: 4515, 5065]."
+  },
+  {
+    "id": 143,
+    "type": "mcq",
+    "question": "Appropriate statement regarding protein structures:",
+    "options": [
+      "Similar secondary = similar stability.",
+      "Similar secondary = similar tertiary.",
+      "Similar tertiary = similar compartments.",
+      "Simple tertiary = similar secondary."
+    ],
+    "correct_answer": "Two proteins with very similar tertiary structures will be localized to similar compartments inside the cell.",
+    "explanation": "[CONCEPT]\nStructure often dictates localization and functional interactions[cite: 4522, 5065]."
+  },
+  {
+    "id": 144,
+    "type": "mcq",
+    "question": "Trp fluorescence study critical properties:",
+    "options": [
+      "Only AA in most proteins.",
+      "Better H-bond acceptor.",
+      "Positively charged.",
+      "Environment sensitive fluorophore, buried in folded protein."
+    ],
+    "correct_answer": "Trp is an environment sensitive fluorophore which is typically buried in a folded protein.",
+    "explanation": "[CONCEPT]\nThe fluorescence spectrum of Trp shifts as it is exposed to the aqueous solvent during unfolding[cite: 4527, 5065]."
+  },
+  {
+    "id": 145,
+    "type": "mcq",
+    "question": "Statement I: Peptide bond is planar. Statement II: Ramachandran Plot describes Omega angles.",
+    "options": [
+      "Both correct.",
+      "Both incorrect.",
+      "I correct, II incorrect.",
+      "II correct, I incorrect."
+    ],
+    "correct_answer": "Statement I is correct and Statement II is incorrect.",
+    "explanation": "[CONCEPT]\nThe peptide bond has partial double-bond character and is planar; Ramachandran plots map Phi (φ) and Psi (ψ) angles, not Omega (ω)[cite: 4533, 5065]."
+  },
+  {
+    "id": 146,
+    "type": "mcq",
+    "question": "Define protein folding cooperativity:",
+    "options": [
+      "Unfolding one forces nearby to unfold.",
+      "Folds facilitators nearby.",
+      "Many fold at once.",
+      "Chain completely unfolds if key interactions broken all or none."
+    ],
+    "correct_answer": "The protein chain completely unfolds if key interactions are broken in an \"all or none\" manner.",
+    "explanation": "[CONCEPT]\nCooperativity implies that the folded state is highly stable, but destabilizing a few interactions leads to rapid total unfolding[cite: 4541, 5065]."
+  },
+  {
+    "id": 147,
+    "type": "mcq",
+    "question": "Statement I: Serine in catalytic triad. Statement II: Triads responsible for peptide hydrolysis.",
+    "options": [
+      "Both correct.",
+      "Both incorrect.",
+      "I correct, II incorrect.",
+      "II correct, I incorrect."
+    ],
+    "correct_answer": "Both statement I and statement II are correct.",
+    "explanation": "[CONCEPT]\nThe Ser-His-Asp catalytic triad is the hallmark of serine proteases involved in peptide bond cleavage[cite: 4546, 5065]."
+  },
+  {
+    "id": 148,
+    "type": "mcq",
+    "question": "Two sequences 1 PAM apart will be:",
+    "options": [
+      "1% identical AA.",
+      "1% similar bases.",
+      "99% identical AA.",
+      "99% similar bases."
+    ],
+    "correct_answer": "99% identical amino acid residues.",
+    "explanation": "[CONCEPT]\n1 PAM corresponds to 1 accepted point mutation per 100 residues, meaning 99% of the sequence is identical[cite: 4556, 5065]."
+  },
+  {
+    "id": 149,
+    "type": "mcq",
+    "question": "How obtain proper 3D structure from contact map?",
+    "options": [
+      "Direct mapping.",
+      "Simultaneous use of secondary prediction.",
+      "Use computational modeling like simulated annealing.",
+      "Generate Ramachandran plot."
+    ],
+    "correct_answer": "Using contact map along with computational modelling techniques like simulated annealing.",
+    "explanation": "[CONCEPT]\nDistance constraints from the contact map guide conformational sampling toward the native structure[cite: 4562, 5065]."
+  },
+  {
+    "id": 150,
+    "type": "mcq",
+    "question": "TRUE about Phylograms and Cladograms:",
+    "options": [
+      "Cladogram branches proportional to time.",
+      "Cladograms show ancestry but not time.",
+      "Phylograms show ancestry but not time.",
+      "No difference."
+    ],
+    "correct_answer": "Cladograms show common ancestry but not time.",
+    "explanation": "[CONCEPT]\nCladogram branch lengths are arbitrary; phylogram branch lengths represent evolutionary change or time[cite: 4567, 5065]."
+  },
+  {
+    "id": 151,
+    "type": "mcq",
+    "question": "Align PLAVAV and PLLV using NW algorithm with provided scores:",
+    "options": [
+      "PLAVAV / PLLV--",
+      "PLAVAV / PLL--V",
+      "PL-LV-",
+      "PLAVAV / PL-L-V"
+    ],
+    "correct_answer": "PLAVAV / PLL--V",
+    "explanation": "[CONCEPT]\nOptimal alignment maximizes score by minimizing gaps and mismatches[cite: 4572, 5065]."
+  },
+  {
+    "id": 152,
+    "type": "mcq",
+    "question": "CASP judges:",
+    "options": [
+      "Experimental determination.",
+      "Protein quality.",
+      "Drug suitability.",
+      "Techniques of protein structure prediction"
+    ],
+    "correct_answer": "Techniques of protein structure prediction",
+    "explanation": "[CONCEPT]\nCASP (Critical Assessment of Structure Prediction) is a community-wide experiment for structure prediction[cite: 4581, 5065]."
+  },
+  {
+    "id": 153,
+    "type": "mcq",
+    "question": "No BLAST homologs identified; change scoring matrix to:",
+    "options": [
+      "BLOSUM62",
+      "BLOSUM80",
+      "PAM250",
+      "PSSM"
+    ],
+    "correct_answer": "PAM250",
+    "explanation": "[CONCEPT]\nHigher PAM (or lower BLOSUM) numbers are better for detecting distant evolutionary relationships[cite: 4586, 5065]."
+  },
+  {
+    "id": 154,
+    "type": "mcq",
+    "question": "In vitro ADMET analysis CANNOT provide information about:",
+    "options": [
+      "Cytochrome P450.",
+      "Adverse drug reaction.",
+      "BBB penetrability.",
+      "Metabolic Stability."
+    ],
+    "correct_answer": "Adverse reaction to the drug",
+    "explanation": "[CONCEPT]\nFull adverse clinical reactions are systemic and cannot be fully predicted by simple in vitro assays[cite: 4593, 5065]."
+  },
+  {
+    "id": 155,
+    "type": "mcq",
+    "question": "K-tuple method associated with:",
+    "options": [
+      "Dot matrix.",
+      "Dynamic programming.",
+      "Multiple alignment.",
+      "Sequence similarity."
+    ],
+    "correct_answer": "Sequence similarity.",
+    "explanation": "[CONCEPT]\nWord-based (k-tuple) methods are used in tools like BLAST for rapid similarity searching[cite: 4598, 5065]."
+  },
+  {
+    "id": 156,
+    "type": "mcq",
+    "question": "Identify sequence for motif D-[TS]-x-(2)-{GH}-L:",
+    "options": [
+      "DRRRRL",
+      "DSARRL",
+      "DSRRGL",
+      "DTRRHL"
+    ],
+    "correct_answer": "DSARRL",
+    "explanation": "[CONCEPT]\nD, followed by T or S, then any 2, excluding G or H, then L. DS (matches) A R (any 2) R (matches L)[cite: 4606, 5065]."
+  },
+  {
+    "id": 157,
+    "type": "mcq",
+    "question": "Atomic positions required to measure a dihedral angle:",
+    "options": [
+      "Five",
+      "Four",
+      "Three",
+      "Two"
+    ],
+    "correct_answer": "Four",
+    "explanation": "[CONCEPT]\nA dihedral angle is defined by the relative rotation of two planes formed by four sequential atoms[cite: 4611, 5065]."
+  },
+  {
+    "id": 158,
+    "type": "mcq",
+    "question": "Used to assess structural similarity of biomolecules:",
+    "options": [
+      "E-value",
+      "P-Value",
+      "RMSD",
+      "Standard deviation"
+    ],
+    "correct_answer": "Root mean square deviation",
+    "explanation": "[CONCEPT]\nRMSD measures the average distance between corresponding atoms of two superimposed structures[cite: 4617, 5065]."
+  },
+  {
+    "id": 159,
+    "type": "mcq",
+    "question": "Difference between profile alignment and HMM:",
+    "options": [
+      "Remote homologs with PSI-BLAST.",
+      "HMM no profile.",
+      "HMM has position specific gap penalties.",
+      "HMM independent of alignment."
+    ],
+    "correct_answer": "HMM has the option to introduce gaps with position specific gap penalties.",
+    "explanation": "[CONCEPT]\nHMMs explicitly model gap probabilities at every position[cite: 4624, 5065]."
+  },
+  {
+    "id": 160,
+    "type": "mcq",
+    "question": "Native PAGE = 1 band; Non-reducing SDS = 40+60 kDa; Reducing SDS = 60+30+10 kDa. Conclude:",
+    "options": [
+      "2 chains complex.",
+      "At least 3 chains.",
+      "3 polypeptide with intramolecular bonds.",
+      "3 linked by disulfide bonds."
+    ],
+    "correct_answer": "X contains at least 3 polypeptide chains that from a complex",
+    "explanation": "[CONCEPT]\nThe reduction of a 40kDa complex into 30+10kDa fragments and the 100kDa native complex behavior indicates 3 subunits[cite: 4629, 5065]."
+  },
+  {
+    "id": 161,
+    "type": "mcq",
+    "question": "Bonds stabilizing antigen-antibody interaction:",
+    "options": [
+      "Covalent.",
+      "Disulphide.",
+      "Glycosidic.",
+      "Weak hydrogen bonds and Van der Waal forces."
+    ],
+    "correct_answer": "Weak hydrogen bonds and Van der Waal forces.",
+    "explanation": "[CONCEPT]\nAntigen-antibody binding is reversible and entirely non-covalent[cite: 4638, 5065]."
+  },
+  {
+    "id": 162,
+    "type": "mcq",
+    "question": "Tay-Sachs disease is a:",
+    "options": [
+      "Autosomal recessive.",
+      "Sex-linked.",
+      "Transposition.",
+      "Trinucleotide repeat."
+    ],
+    "correct_answer": "Autosomal recessive genetic disorder.",
+    "explanation": "[CONCEPT]\nTay-Sachs is a lysosomal storage disease caused by mutations in the HEXA gene[cite: 4643, 5065]."
+  },
+  {
+    "id": 163,
+    "type": "mcq",
+    "question": "\"Dysbiosis\" is associated with:",
+    "options": [
+      "Genome",
+      "Metabolome",
+      "Microbiome",
+      "Proteome"
+    ],
+    "correct_answer": "Microbiome",
+    "explanation": "[CONCEPT]\nDysbiosis refers to an imbalance in the microbial community[cite: 4648, 5065]."
+  },
+  {
+    "id": 164,
+    "type": "mcq",
+    "question": "Single chain variable fragment (ScFV) fusion proteins composed of:",
+    "options": [
+      "FC region",
+      "VH + VL",
+      "VH only",
+      "VL only"
+    ],
+    "correct_answer": "VH + VLGjoined by a flexible linker)",
+    "explanation": "[CONCEPT]\nScFVs link the variable heavy and variable light domains of an antibody[cite: 4653, 5065]."
+  },
+  {
+    "id": 165,
+    "type": "mcq",
+    "question": "Human embryonic stem cells (hESCs) obtained from:",
+    "options": [
+      "Inner cell mass.",
+      "Morula.",
+      "Teratoma.",
+      "Trophoblast."
+    ],
+    "correct_answer": "Inner cell mass of blastocyst",
+    "explanation": "[CONCEPT]\nThe ICM contains pluripotent cells that give rise to the entire embryo[cite: 4658, 5065]."
+  },
+  {
+    "id": 166,
+    "type": "mcq",
+    "question": "Gene often inserted in adenoviral vector for suicide gene therapy:",
+    "options": [
+      "GM-CSF",
+      "HSV-TK",
+      "IL-2",
+      "VSV-G"
+    ],
+    "correct_answer": "HSV-TK",
+    "explanation": "[CONCEPT]\nThymidine kinase converts ganciclovir into a toxic drug that kills the cancer cell[cite: 4666, 5065]."
+  },
+  {
+    "id": 167,
+    "type": "mcq",
+    "question": "Common adjuvant of water in oil with M. tuberculosis components:",
+    "options": [
+      "Alum",
+      "Complete Freund's adjuvant",
+      "Incomplete",
+      "Montanide"
+    ],
+    "correct_answer": "Complete Freund's adjuvant",
+    "explanation": "[CONCEPT]\nCFA provides a strong immunostimulatory effect via bacterial components[cite: 4672, 5065]."
+  },
+  {
+    "id": 168,
+    "type": "mcq",
+    "question": "Karyogram 45 (44+X); female appearance and dwarfism. Condition:",
+    "options": [
+      "Down's",
+      "Edward's",
+      "Klienfelter's",
+      "Turner's"
+    ],
+    "correct_answer": "Turner's syndrome",
+    "explanation": "[CONCEPT]\nMonosomy X is the hallmark of Turner syndrome[cite: 4677, 5065]."
+  },
+  {
+    "id": 169,
+    "type": "match_following",
+    "question": "Match autoimmune/genetic conditions with targets",
+    "options": [
+      "Platelets",
+      "Thyroid",
+      "Brain",
+      "FEDEMY"
+    ],
+    "match_pairs": {
+      "Idiopathic thrombocytopenic purpura": "Platelets",
+      "Hashimoto's Disease": "Thyroid",
+      "Celiac Disease": "Intestine",
+      "Huntington Disease": "Brain"
+    },
+    "correct_answer": "A-iv B-i, C-ii, D-iii",
+    "explanation": "[CONCEPT]\nA-iv (ITP-Platelets), B-i (Hashimoto-Thyroid), D-iii (Huntington-Brain)[cite: 4683, 5065]."
+  },
+  {
+    "id": 170,
+    "type": "mcq",
+    "question": "Which family does HIV belong to?",
+    "options": [
+      "Paramyxoviridae",
+      "Retroviridae",
+      "Rhabdoviridae",
+      "Togaviridae"
+    ],
+    "correct_answer": "Retroviridae",
+    "explanation": "[CONCEPT]\nHIV is a lentivirus within the Retroviridae family[cite: 4687, 5065]."
+  },
+  {
+    "id": 171,
+    "type": "mcq",
+    "question": "Kuru disease in human is caused by:",
+    "options": [
+      "Bacteria",
+      "Mycoplasma",
+      "Prions",
+      "Virus"
+    ],
+    "correct_answer": "Prions",
+    "explanation": "[CONCEPT]\nKuru is a transmissible spongiform encephalopathy caused by misfolded prion proteins[cite: 4693, 5065]."
+  },
+  {
+    "id": 172,
+    "type": "mcq",
+    "question": "TRUE for pathogenicity islands?",
+    "options": [
+      "Large genomic segments encoding virulence.",
+      "Coordinate biofilm.",
+      "Activate response regulators.",
+      "Interfere with antibodies."
+    ],
+    "correct_answer": "These are large segments of bacterial genome encoding virulence factors.",
+    "explanation": "[CONCEPT]\nPAIs are often acquired via horizontal gene transfer[cite: 4698, 5065]."
+  },
+  {
+    "id": 173,
+    "type": "mcq",
+    "question": "Diseases treated with dopamine neurons from stem cells:",
+    "options": [
+      "Alzheimer's",
+      "ALS",
+      "Brain tumor",
+      "Parkinson's"
+    ],
+    "correct_answer": "Parkinson's disease",
+    "explanation": "[CONCEPT]\nParkinson's involves the loss of dopaminergic neurons in the substantia nigra[cite: 4703, 5065]."
+  },
+  {
+    "id": 174,
+    "type": "mcq",
+    "question": "Protein A extracted from?",
+    "options": [
+      "S. cerevisae",
+      "S. pyogenes",
+      "S. aureus",
+      "S. sanjuis"
+    ],
+    "correct_answer": "Staphylococcus aureus",
+    "explanation": "[CONCEPT]\nProtein A is a cell wall component of S. aureus used widely in antibody purification[cite: 4712, 5065]."
+  },
+  {
+    "id": 175,
+    "type": "mcq",
+    "question": "Disease caused by point mutation in coding region:",
+    "options": [
+      "Hemolytic anemia.",
+      "Sickle cell anemia.",
+      "a-thalassemia (1).",
+      "a-thalassemia (2)."
+    ],
+    "correct_answer": "Sickle cell anemia",
+    "explanation": "[CONCEPT]\nA single T to A substitution in the beta-globin gene causes sickle cell anemia[cite: 4717, 5065]."
+  },
+  {
+    "id": 176,
+    "type": "mcq",
+    "question": "Double pain sensation due to:",
+    "options": [
+      "Two stimuli.",
+      "Two higher centers.",
+      "Presence of dual pain pathways.",
+      "Repetition."
+    ],
+    "correct_answer": "Presence of dual pain pathways.",
+    "explanation": "[CONCEPT]\nFast (Aδ) and slow (C) fibers transmit pain at different speeds, resulting in 'first' and 'second' pain[cite: 4723, 5065]."
+  },
+  {
+    "id": 177,
+    "type": "mcq",
+    "question": "Interneurons:",
+    "options": [
+      "Influence alpha motor discharge.",
+      "Participate in ascending pathways.",
+      "Communicate efferent dendrites.",
+      "Communicate central ends of afferent neurons."
+    ],
+    "correct_answer": "Influence the rate of discharge from the alpha motor neurons.",
+    "explanation": "[CONCEPT]\nInterneurons modulate motor output via inhibitory or excitatory synapses[cite: 4730, 5065]."
+  },
+  {
+    "id": 178,
+    "type": "mcq",
+    "question": "Hypothalamus protects against hypoglycemia by:",
+    "options": [
+      "Epinephrine.",
+      "Glucagon.",
+      "Thyroxin.",
+      "Inhibiting insulin release."
+    ],
+    "correct_answer": "Inhibiting insulin release.",
+    "explanation": "[CONCEPT]\nReducing insulin secretion prevents further lowering of blood glucose levels[cite: 4735, 5065]."
+  },
+  {
+    "id": 179,
+    "type": "mcq",
+    "question": "Chemical transmitters in basal ganglia include following EXCEPT:",
+    "options": [
+      "Dopamine",
+      "GABA",
+      "Glutamate",
+      "Glycine"
+    ],
+    "correct_answer": "Glycine",
+    "explanation": "[CONCEPT]\nGlycine is primarily an inhibitory transmitter in the spinal cord[cite: 4740, 5065]."
+  },
+  {
+    "id": 180,
+    "type": "mcq",
+    "question": "TRUE regarding chemical synapses?",
+    "options": [
+      "Diffusion into post-synaptic.",
+      "One direction only.",
+      "More in PNS.",
+      "Potential-gated."
+    ],
+    "correct_answer": "Allow transmission of potential changes in one direction only; from the presynaptic to the postsynaptic neurons.",
+    "explanation": "[CONCEPT]\nSynaptic vesicles are only present in the presynaptic terminal[cite: 4744, 5065]."
+  },
+  {
+    "id": 181,
+    "type": "mcq",
+    "question": "Statement I: Non-regenerative brain tissues have stem cells. Statement II: Tissue localization doesn't mean lineage commitment.",
+    "options": [
+      "Both correct.",
+      "Both incorrect.",
+      "I correct, II incorrect.",
+      "I incorrect, II correct."
+    ],
+    "correct_answer": "Both statement I and II are correct.",
+    "explanation": "[CONCEPT]\nNeurogenesis occurs in adult brains; stem cell plasticitity allows cross-lineage potential[cite: 4748, 5065]."
+  },
+  {
+    "id": 182,
+    "type": "mcq",
+    "question": "Assertion A: Maintain cultures antibiotic free. Reason R: Antibiotics favor chronic contamination.",
+    "options": [
+      "A false, R true.",
+      "A true, R false.",
+      "Both true, R is NOT correct explanation.",
+      "Both true, R is correct explanation."
+    ],
+    "correct_answer": "Both A and R is true and R is the correct explanation of A.",
+    "explanation": "[CONCEPT]\nPersistent low-level contamination is masked by antibiotics[cite: 4757, 5065]."
+  },
+  {
+    "id": 183,
+    "type": "match_following",
+    "question": "Match inducers of differentiation with cell types",
+    "options": [
+      "Neuroblastoma",
+      "Endothelium",
+      "Glia, glioma",
+      "mammary epithelium"
+    ],
+    "match_pairs": {
+      "Hydrocortisone": "Glia, glioma",
+      "Retinoids": "Neuroblastoma",
+      "Prolactin": "mammary epithelium",
+      "Interferon - y": "Endothelium"
+    },
+    "correct_answer": "A-iii, B-i, C-iv, D-ii",
+    "explanation": "[CONCEPT]\nHormones and factors driving cell-specific maturation[cite: 4771, 5065]."
+  },
+  {
+    "id": 184,
+    "type": "match_following",
+    "question": "Match techniques with use",
+    "options": [
+      "3D aggregate",
+      "Microgravity",
+      "Bystander effects",
+      "3D growth environment"
+    ],
+    "match_pairs": {
+      "Mosaic Spheroids": "Bystander effects",
+      "Microcarrier matrix": "3D growth environment",
+      "Organioids": "3D aggregate of cells",
+      "Rotatory cell culture system": "Microgravity cell growth environment"
+    },
+    "correct_answer": "A-iii, B-iv, C-i, D-ii",
+    "explanation": "[CONCEPT]\nAdvanced cell culture methods and applications[cite: 4788, 5065]."
+  },
+  {
+    "id": 185,
+    "type": "mcq",
+    "question": "Role of MAF in animal cell culture media?",
+    "options": [
+      "Antiviral.",
+      "Mitogen.",
+      "Inhibits differentiation.",
+      "Support T cells."
+    ],
+    "correct_answer": "Antiviral.",
+    "explanation": "[CONCEPT]\nBased on provided key; often associated with interferon-mediated responses[cite: 4796, 5065]."
+  },
+  {
+    "id": 186,
+    "type": "mcq",
+    "question": "Indicators of water pollution with enteropathogens EXCEPT:",
+    "options": [
+      "Bacillus spp.",
+      "Clostridium spp.",
+      "coli",
+      "Streptococcus spp."
+    ],
+    "correct_answer": "Bacillus spp.",
+    "explanation": "[CONCEPT]\nColiforms and fecal streptococci are the standard indicators of contamination[cite: 4802, 5065]."
+  },
+  {
+    "id": 187,
+    "type": "mcq",
+    "question": "First U.S patent for GM organism awarded for:",
+    "options": [
+      "Insulin E. coli.",
+      "Pseudomonas degrading petroleum.",
+      "Pseudomonas producing petrol.",
+      "Yeast HB vaccine."
+    ],
+    "correct_answer": "Pseudomonas engineered to degrade petroleum.",
+    "explanation": "[CONCEPT]\nAnanda Chakrabarty won the 1980 Supreme Court case (Diamond v. Chakrabarty)[cite: 4807, 5065]."
+  },
+  {
+    "id": 188,
+    "type": "mcq",
+    "question": "Method for municipal waste water with <1% solids:",
+    "options": [
+      "Activated sludge",
+      "Bioreactors",
+      "Lagoons",
+      "Trickling filter"
+    ],
+    "correct_answer": "Activated sludge process",
+    "explanation": "[CONCEPT]\nThe activated sludge process is the global standard for secondary municipal treatment[cite: 4812, 5065]."
+  },
+  {
+    "id": 189,
+    "type": "mcq",
+    "question": "Nitrification during nitrogen cycle is production of:",
+    "options": [
+      "Ammonium",
+      "Nitrates",
+      "Nitric oxide",
+      "Nitrogen"
+    ],
+    "correct_answer": "Nitrates",
+    "explanation": "[CONCEPT]\nNitrification is the biological oxidation of ammonia to nitrite and then to nitrate[cite: 4818, 5065]."
+  },
+  {
+    "id": 190,
+    "type": "match_following",
+    "question": "Match plants with nitrogen-fixing symbionts",
+    "options": [
+      "Frankia",
+      "Azorhizobium",
+      "Anabaena",
+      "Acetobacter"
+    ],
+    "match_pairs": {
+      "Legume": "Azorhizobium",
+      "Azolla": "Anabaena",
+      "Sugarcane": "Acetobacter",
+      "Actinorhizal": "Frankia"
+    },
+    "correct_answer": "A-ii, B-iii, C-iv, D-i",
+    "explanation": "[CONCEPT]\nCommon nitrogen-fixing associations[cite: 4829, 5065]."
+  },
+  {
+    "id": 191,
+    "type": "match_following",
+    "question": "Match marine enzymes with source",
+    "options": [
+      "Digestive tracts",
+      "Tissues, cod",
+      "Viscera",
+      "Crustaceans"
+    ],
+    "match_pairs": {
+      "Chitinolytic enzymes": "Crustaceans",
+      "Gastric proteases": "Fish viscera from fishery sources",
+      "Polyphenol oxidases": "Digestive tracts of fish, shellfish, squid liver, octopus saliva",
+      "Serine and cysteine proteases": "tissues, intestines of sardine, cod Pyloric ceca, pancreatic & salmon"
+    },
+    "correct_answer": "A-iv, B-iii, C-ii, D-i",
+    "explanation": "[CONCEPT]\nIndustrial enzyme sources from marine life[cite: 4848, 5065]."
+  },
+  {
+    "id": 192,
+    "type": "mcq",
+    "question": "Statement I: Humans get DHA from fish, fish from algae. Statement II: Algae DHA can be a supplement.",
+    "options": [
+      "Both correct.",
+      "Both incorrect.",
+      "I correct, II incorrect.",
+      "I incorrect, II correct."
+    ],
+    "correct_answer": "Both Statement I and II are correct",
+    "explanation": "[CONCEPT]\nMicroalgae are the primary producers of omega-3 fatty acids in aquatic food webs[cite: 4856, 5065]."
+  },
+  {
+    "id": 193,
+    "type": "mcq",
+    "question": "Statement I: Xenobiotic pollutants biomagnified. Statement II: Pollutants quantified in marine tissue.",
+    "options": [
+      "Both correct.",
+      "Both incorrect.",
+      "I correct, II incorrect.",
+      "I incorrect, II correct."
+    ],
+    "correct_answer": "Both Statement I and II are correct",
+    "explanation": "[CONCEPT]\nBioaccumulation and monitoring are key to environmental toxicology[cite: 4864, 5065]."
+  },
+  {
+    "id": 194,
+    "type": "mcq",
+    "question": "Brine shrimp assay involves:",
+    "options": [
+      "Salinity on nutrition.",
+      "Salinity on growth.",
+      "Salinity on survival.",
+      "Testing toxicity using eggs."
+    ],
+    "correct_answer": "Testing the toxicity of anticancer molecules using eggs of brine shrimp.",
+    "explanation": "[CONCEPT]\nThe Artemia salina lethality assay is a benchtop screen for cytotoxic compounds[cite: 4872, 5065]."
+  },
+  {
+    "id": 195,
+    "type": "mcq",
+    "question": "Strong adhesives prepared using constituents of:",
+    "options": [
+      "Sea anemone.",
+      "Byssus of sea mussel.",
+      "Sea urchin platform.",
+      "Hydra tentacles."
+    ],
+    "correct_answer": "Byssus generated by sea mussel",
+    "explanation": "[CONCEPT]\nMussel byssus contains unique adhesive proteins that cure underwater[cite: 4877, 5014, 5065]."
+  },
+  {
+    "id": 196,
+    "type": "match_following",
+    "question": "Match compounds with vitamins/sources",
+    "options": [
+      "Vitamin -C",
+      "Vitamin -A",
+      "Vitamin -E",
+      "Soybean"
+    ],
+    "match_pairs": {
+      "Rhodopsin": "Vitamin -A",
+      "Tocopheral": "Vitamin -E",
+      "Idoflaconoids": "Soybean",
+      "Ascorbic acid": "Vitamin -C"
+    },
+    "correct_answer": "A-ii,B-I,C-iv, D-iii",
+    "explanation": "[CONCEPT]\nCorrect biochemical identities and natural sources[cite: 5016, 5065]."
+  },
+  {
+    "id": 197,
+    "type": "mcq",
+    "question": "Which one of the following is NOT a fermented food?",
+    "options": [
+      "Milk cream",
+      "Cheese",
+      "Salami",
+      "Sauerkraut"
+    ],
+    "correct_answer": "Milk cream",
+    "explanation": "[CONCEPT]\nStandard cream is a dairy separation product; the others are produced by microbial fermentation[cite: 5036, 5065]."
+  },
+  {
+    "id": 198,
+    "type": "mcq",
+    "question": "Assertion A: Rigor mortis sets in contraction. Reason R: Loss of glycogen and disappearance of ATP.",
+    "options": [
+      "A false, R true.",
+      "A true, R false.",
+      "Both true, R NOT correct.",
+      "Both true, R IS correct."
+    ],
+    "correct_answer": "Both A and R is true and R is the correct explanation of A.",
+    "explanation": "[CONCEPT]\nATP is required for muscle relaxation; its depletion locks the actomyosin complex[cite: 5041, 5065]."
+  },
+  {
+    "id": 199,
+    "type": "mcq",
+    "question": "Least preferred microbial control method in food processing:",
+    "options": [
+      "Autoclaving",
+      "Dry heat",
+      "Pasteurization",
+      "Preservatives"
+    ],
+    "correct_answer": "Dry heat",
+    "explanation": "[CONCEPT]\nDry heat is inefficient compared to moist heat and can damage food texture and nutrition[cite: 5050, 5065]."
+  },
+  {
+    "id": 200,
+    "type": "mcq",
+    "question": "Spirulina is a super food because it contains:",
+    "options": [
+      "Phytochemicals.",
+      "Essential amino acids, vitamins, fatty acids.",
+      "All known proteins.",
+      "No heavy metals."
+    ],
+    "correct_answer": "All essential amino acids vitamins and fatty acids.",
+    "explanation": "[CONCEPT]\nSpirulina is highly nutrient-dense, providing high-quality protein and essential micronutrients[cite: 5056, 5065]."
+  }
+]

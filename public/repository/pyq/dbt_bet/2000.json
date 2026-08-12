@@ -1,0 +1,2602 @@
+[
+  {
+    "id": 1,
+    "type": "mcq",
+    "question": "Which of the following is TRUE for acetyl-CoA?",
+    "options": [
+      "It is an acetyl group attached to a type of coenzyme.",
+      "It is another name for oxaloacetate.",
+      "It is a protein.",
+      "It is an acetyl group joined with a form of cobalt."
+    ],
+    "correct_answer": "It is an acetyl group attached to a type of coenzyme.",
+    "explanation": "[CONCEPT]\nAcetyl-CoA consists of a two-carbon acetyl group linked to Coenzyme A, serving as a central molecule in metabolism."
+  },
+  {
+    "id": 2,
+    "type": "mcq",
+    "question": "The role of DNA ligase in DNA replication is:",
+    "options": [
+      "Addition of new nucleotides to the leading strand.",
+      "Addition of new nucleotides to the lagging strand.",
+      "Formation of a phosphodiester bond between the 3'-OH of one Okazaki fragment and the 5'-phosphate of the next on the lagging strand.",
+      "Base pairing of the template and the newly formed DNA strand."
+    ],
+    "correct_answer": "Formation of a phosphodiester bond between the 3'-OH of one Okazaki fragment and the 5'-phosphate of the next on the lagging strand.",
+    "explanation": "[CONCEPT]\nDNA ligase facilitates the joining of DNA strands together by catalyzing the formation of a phosphodiester bond."
+  },
+  {
+    "id": 3,
+    "type": "mcq",
+    "question": "A buffer contains 0.01 M of a weak acid (pKa = 4.0) and 0.1 M of its conjugate base. The pH of the buffer is:",
+    "options": [
+      "3.0",
+      "4.0",
+      "5.0",
+      "6.0"
+    ],
+    "correct_answer": "5.0",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nUsing the Henderson-Hasselbalch equation: pH = pKa + log([Base]/[Acid]) = 4.0 + log(0.1/0.01) = 4.0 + 1 = 5.0."
+  },
+  {
+    "id": 4,
+    "type": "mcq",
+    "question": "The primary structure of a protein refers to:",
+    "options": [
+      "The linear sequence of amino acids.",
+      "The alpha-helical structure.",
+      "The beta-sheet structure.",
+      "The overall 3D shape."
+    ],
+    "correct_answer": "The linear sequence of amino acids.",
+    "explanation": "[CONCEPT]\nPrimary structure is the specific order of amino acids linked by peptide bonds in a polypeptide chain."
+  },
+  {
+    "id": 5,
+    "type": "mcq",
+    "question": "Which of the following amino acids contains a sulfur atom?",
+    "options": [
+      "Methionine",
+      "Serine",
+      "Alanine",
+      "Valine"
+    ],
+    "correct_answer": "Methionine",
+    "explanation": "[CONCEPT]\nMethionine and cysteine are the two standard amino acids that contain sulfur."
+  },
+  {
+    "id": 6,
+    "type": "mcq",
+    "question": "In Michaelis-Menten kinetics, Km is defined as:",
+    "options": [
+      "The substrate concentration at which reaction velocity is half of Vmax.",
+      "The maximum velocity of the reaction.",
+      "The dissociation constant of the enzyme-product complex.",
+      "The rate of enzyme-substrate formation."
+    ],
+    "correct_answer": "The substrate concentration at which reaction velocity is half of Vmax.",
+    "explanation": "[CONCEPT]\nKm represents the affinity of the enzyme for its substrate; a lower Km indicates higher affinity."
+  },
+  {
+    "id": 7,
+    "type": "mcq",
+    "question": "Which molecule is known as the universal energy currency of the cell?",
+    "options": [
+      "ATP",
+      "GTP",
+      "NADH",
+      "FADH2"
+    ],
+    "correct_answer": "ATP",
+    "explanation": "[CONCEPT]\nAdenosine triphosphate (ATP) provides the energy required for most cellular processes."
+  },
+  {
+    "id": 8,
+    "type": "mcq",
+    "question": "The enzyme responsible for transcribing RNA from a DNA template is:",
+    "options": [
+      "RNA polymerase",
+      "DNA polymerase",
+      "Reverse transcriptase",
+      "DNA helicase"
+    ],
+    "correct_answer": "RNA polymerase",
+    "explanation": "[CONCEPT]\nRNA polymerase synthesizes an RNA strand complementary to a DNA template during transcription."
+  },
+  {
+    "id": 9,
+    "type": "mcq",
+    "question": "Which part of the cell is the site of the TCA cycle?",
+    "options": [
+      "Mitochondrial matrix",
+      "Cytosol",
+      "Nucleus",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondrial matrix",
+    "explanation": "[CONCEPT]\nThe Tricarboxylic Acid (TCA) cycle takes place in the matrix of the mitochondria in eukaryotes."
+  },
+  {
+    "id": 10,
+    "type": "mcq",
+    "question": "Which of the following is a start codon in the genetic code?",
+    "options": [
+      "AUG",
+      "UAA",
+      "UAG",
+      "UGA"
+    ],
+    "correct_answer": "AUG",
+    "explanation": "[CONCEPT]\nAUG codes for methionine and serves as the initiation signal for translation."
+  },
+  {
+    "id": 11,
+    "type": "mcq",
+    "question": "The process by which a cell takes in large particles or liquids is called:",
+    "options": [
+      "Endocytosis",
+      "Exocytosis",
+      "Osmosis",
+      "Diffusion"
+    ],
+    "correct_answer": "Endocytosis",
+    "explanation": "[CONCEPT]\nEndocytosis is a form of active transport where the cell membrane invaginates to engulf material."
+  },
+  {
+    "id": 12,
+    "type": "mcq",
+    "question": "Which vitamin is essential for the process of blood clotting?",
+    "options": [
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin A"
+    ],
+    "correct_answer": "Vitamin K",
+    "explanation": "[CONCEPT]\nVitamin K is a cofactor for the synthesis of several blood-clotting factors."
+  },
+  {
+    "id": 13,
+    "type": "mcq",
+    "question": "The technique used to amplify a specific DNA sequence is:",
+    "options": [
+      "PCR",
+      "Western Blotting",
+      "SDS-PAGE",
+      "ELISA"
+    ],
+    "correct_answer": "PCR",
+    "explanation": "[CONCEPT]\nPolymerase Chain Reaction (PCR) is used to make millions of copies of a target DNA segment."
+  },
+  {
+    "id": 14,
+    "type": "mcq",
+    "question": "Which of the following is a characteristic of a prokaryotic cell?",
+    "options": [
+      "Absence of a nuclear membrane.",
+      "Presence of mitochondria.",
+      "Presence of a Golgi apparatus.",
+      "Linear DNA."
+    ],
+    "correct_answer": "Absence of a nuclear membrane.",
+    "explanation": "[CONCEPT]\nProkaryotes lack a defined nucleus and membrane-bound organelles."
+  },
+  {
+    "id": 15,
+    "type": "mcq",
+    "question": "The linkage between two nucleotides in a DNA strand is a:",
+    "options": [
+      "3'-5' phosphodiester bond",
+      "2'-5' phosphodiester bond",
+      "Glycosidic bond",
+      "Peptide bond"
+    ],
+    "correct_answer": "3'-5' phosphodiester bond",
+    "explanation": "[CONCEPT]\nNucleotides are linked by a phosphate group between the 3' carbon of one sugar and the 5' carbon of the next."
+  },
+  {
+    "id": 16,
+    "type": "mcq",
+    "question": "Which of the following inhibits bacterial cell wall synthesis?",
+    "options": [
+      "Penicillin",
+      "Streptomycin",
+      "Tetracycline",
+      "Rifampicin"
+    ],
+    "correct_answer": "Penicillin",
+    "explanation": "[CONCEPT]\nPenicillin acts by interfering with the cross-linking of peptidoglycan in the bacterial cell wall."
+  },
+  {
+    "id": 17,
+    "type": "mcq",
+    "question": "A recombinant DNA molecule is produced by joining:",
+    "options": [
+      "DNA from two different sources.",
+      "DNA and RNA.",
+      "DNA and protein.",
+      "RNA from two different sources."
+    ],
+    "correct_answer": "DNA from two different sources.",
+    "explanation": "[CONCEPT]\nRecombinant DNA (rDNA) technology involves combining genetic material from different organisms."
+  },
+  {
+    "id": 18,
+    "type": "mcq",
+    "question": "Which organelle is known as the 'suicide bag' of the cell?",
+    "options": [
+      "Lysosome",
+      "Ribosome",
+      "Peroxisome",
+      "Centrosome"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\nLysosomes contain hydrolytic enzymes that can digest the cell if they rupture."
+  },
+  {
+    "id": 19,
+    "type": "mcq",
+    "question": "The most abundant antibody in human serum is:",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgA",
+      "IgE"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\nImmunoglobulin G (IgG) constitutes about 75-80% of the antibodies in the blood."
+  },
+  {
+    "id": 20,
+    "type": "mcq",
+    "question": "In agarose gel electrophoresis, DNA moves towards the:",
+    "options": [
+      "Anode (positive electrode)",
+      "Cathode (negative electrode)",
+      "Neither",
+      "Bottom of the tank"
+    ],
+    "correct_answer": "Anode (positive electrode)",
+    "explanation": "[CONCEPT]\nDNA is negatively charged due to its phosphate backbone and thus migrates toward the positive electrode."
+  },
+  {
+    "id": 21,
+    "type": "mcq",
+    "question": "A plasmid used as a cloning vector must have:",
+    "options": [
+      "An origin of replication, a selectable marker, and a multiple cloning site.",
+      "Only a selectable marker.",
+      "Only an origin of replication.",
+      "Only a promoter."
+    ],
+    "correct_answer": "An origin of replication, a selectable marker, and a multiple cloning site.",
+    "explanation": "[CONCEPT]\nThese three elements are essential for a plasmid to replicate, allow identification of transformants, and provide a site for gene insertion."
+  },
+  {
+    "id": 22,
+    "type": "mcq",
+    "question": "Which of the following is a polysaccharide?",
+    "options": [
+      "Cellulose",
+      "Sucrose",
+      "Glucose",
+      "Lactose"
+    ],
+    "correct_answer": "Cellulose",
+    "explanation": "[CONCEPT]\nCellulose is a complex carbohydrate made of long chains of glucose units."
+  },
+  {
+    "id": 23,
+    "type": "mcq",
+    "question": "The secondary structure of DNA is characterized by:",
+    "options": [
+      "A double helix held by hydrogen bonds.",
+      "A single strand of nucleotides.",
+      "Triple helical strands.",
+      "Peptide linkages."
+    ],
+    "correct_answer": "A double helix held by hydrogen bonds.",
+    "explanation": "[CONCEPT]\nWatson and Crick described the DNA secondary structure as two antiparallel strands in a double helix stabilized by base pairing."
+  },
+  {
+    "id": 24,
+    "type": "mcq",
+    "question": "What is the net yield of ATP in glycolysis from one molecule of glucose?",
+    "options": [
+      "2",
+      "4",
+      "32",
+      "36"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nGlycolysis produces 4 ATP but consumes 2 ATP in the preparatory phase, resulting in a net gain of 2."
+  },
+  {
+    "id": 25,
+    "type": "mcq",
+    "question": "Which enzyme unzips the DNA double helix during replication?",
+    "options": [
+      "Helicase",
+      "Primase",
+      "Topoisomerase",
+      "Gyrase"
+    ],
+    "correct_answer": "Helicase",
+    "explanation": "[CONCEPT]\nDNA helicase breaks the hydrogen bonds between bases to separate the strands."
+  },
+  {
+    "id": 26,
+    "type": "mcq",
+    "question": "Restriction enzymes are also called:",
+    "options": [
+      "Molecular scissors",
+      "Molecular glue",
+      "Molecular markers",
+      "Genetic vehicles"
+    ],
+    "correct_answer": "Molecular scissors",
+    "explanation": "[CONCEPT]\nThey cut DNA at specific internal recognition sequences."
+  },
+  {
+    "id": 27,
+    "type": "mcq",
+    "question": "The 'Fluid Mosaic Model' describes the structure of:",
+    "options": [
+      "Plasma membrane",
+      "Cytoplasm",
+      "Cell wall",
+      "Nuclear envelope"
+    ],
+    "correct_answer": "Plasma membrane",
+    "explanation": "[CONCEPT]\nIt describes the membrane as a lipid bilayer with floating proteins."
+  },
+  {
+    "id": 28,
+    "type": "mcq",
+    "question": "Which base is complementary to Guanine?",
+    "options": [
+      "Cytosine",
+      "Adenine",
+      "Thymine",
+      "Uracil"
+    ],
+    "correct_answer": "Cytosine",
+    "explanation": "[CONCEPT]\nIn DNA, G pairs with C via three hydrogen bonds."
+  },
+  {
+    "id": 29,
+    "type": "mcq",
+    "question": "What is the process of mRNA synthesis from DNA called?",
+    "options": [
+      "Transcription",
+      "Translation",
+      "Replication",
+      "Transformation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "[CONCEPT]\nTranscription is the first step of gene expression where DNA is copied into mRNA."
+  },
+  {
+    "id": 30,
+    "type": "mcq",
+    "question": "Which organelle is responsible for protein synthesis?",
+    "options": [
+      "Ribosome",
+      "Golgi complex",
+      "Lysosome",
+      "Mitochondrion"
+    ],
+    "correct_answer": "Ribosome",
+    "explanation": "[CONCEPT]\nRibosomes are the cellular machinery that translates mRNA into polypeptide chains."
+  },
+  {
+    "id": 31,
+    "type": "mcq",
+    "question": "Who is known as the Father of Genetics?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "James Watson",
+      "Francis Crick"
+    ],
+    "correct_answer": "Gregor Mendel",
+    "explanation": "[CONCEPT]\nMendel's work on pea plants established the laws of inheritance."
+  },
+  {
+    "id": 32,
+    "type": "mcq",
+    "question": "The doubling of the genome in a cell is known as:",
+    "options": [
+      "Polyploidy",
+      "Aneuploidy",
+      "Diploidy",
+      "Haploidy"
+    ],
+    "correct_answer": "Polyploidy",
+    "explanation": "[CONCEPT]\nPolyploidy is the state of a cell or organism having more than two paired sets of chromosomes."
+  },
+  {
+    "id": 33,
+    "type": "mcq",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "CO2",
+      "Oxygen",
+      "Nitrogen",
+      "Argon"
+    ],
+    "correct_answer": "CO2",
+    "explanation": "[CONCEPT]\nCarbon dioxide traps heat in the atmosphere, contributing to the greenhouse effect."
+  },
+  {
+    "id": 34,
+    "type": "mcq",
+    "question": "The specific sequence of DNA where replication starts is the:",
+    "options": [
+      "Origin of replication",
+      "Promoter",
+      "Terminator",
+      "Operator"
+    ],
+    "correct_answer": "Origin of replication",
+    "explanation": "[CONCEPT]\nReplication is initiated at a particular genetic sequence called the 'ori' site."
+  },
+  {
+    "id": 35,
+    "type": "mcq",
+    "question": "Which technique is used to separate proteins based on their molecular weight?",
+    "options": [
+      "SDS-PAGE",
+      "Centrifugation",
+      "Dialysis",
+      "PCR"
+    ],
+    "correct_answer": "SDS-PAGE",
+    "explanation": "[CONCEPT]\nSodium Dodecyl Sulfate-Polyacrylamide Gel Electrophoresis (SDS-PAGE) denatures proteins and separates them by size."
+  },
+  {
+    "id": 36,
+    "type": "mcq",
+    "question": "A hormone involved in regulating blood sugar levels is:",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Estrogen",
+      "Testosterone"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "[CONCEPT]\nInsulin is produced by the pancreas to lower blood glucose levels."
+  },
+  {
+    "id": 37,
+    "type": "mcq",
+    "question": "Which of the following bases is NOT found in RNA?",
+    "options": [
+      "Thymine",
+      "Adenine",
+      "Uracil",
+      "Guanine"
+    ],
+    "correct_answer": "Thymine",
+    "explanation": "[CONCEPT]\nRNA contains uracil instead of thymine."
+  },
+  {
+    "id": 38,
+    "type": "mcq",
+    "question": "The study of the entire set of proteins in a cell is called:",
+    "options": [
+      "Proteomics",
+      "Genomics",
+      "Metabolomics",
+      "Transcriptomics"
+    ],
+    "correct_answer": "Proteomics",
+    "explanation": "[CONCEPT]\nProteomics focuses on the structure, function, and interactions of the proteome."
+  },
+  {
+    "id": 39,
+    "type": "mcq",
+    "question": "The bonds that link amino acids in a protein are:",
+    "options": [
+      "Peptide bonds",
+      "Glycosidic bonds",
+      "Hydrogen bonds",
+      "Ionic bonds"
+    ],
+    "correct_answer": "Peptide bonds",
+    "explanation": "[CONCEPT]\nA peptide bond forms between the carboxyl group of one amino acid and the amino group of another."
+  },
+  {
+    "id": 40,
+    "type": "mcq",
+    "question": "Which organelle is the site of photosynthesis in plants?",
+    "options": [
+      "Chloroplast",
+      "Mitochondrion",
+      "Vacuole",
+      "Ribosome"
+    ],
+    "correct_answer": "Chloroplast",
+    "explanation": "[CONCEPT]\nChloroplasts contain chlorophyll and are responsible for converting light energy into chemical energy."
+  },
+  {
+    "id": 41,
+    "type": "mcq",
+    "question": "In a pH scale, a value of 7 is considered:",
+    "options": [
+      "Neutral",
+      "Acidic",
+      "Basic",
+      "Alkaline"
+    ],
+    "correct_answer": "Neutral",
+    "explanation": "[STEPS]\nStep 1: Calculation step\nA pH of 7 indicates a neutral solution where [H+] = [OH-]."
+  },
+  {
+    "id": 42,
+    "type": "mcq",
+    "question": "Which enzyme catalyzes the formation of cDNA from RNA?",
+    "options": [
+      "Reverse transcriptase",
+      "RNA polymerase",
+      "DNA polymerase",
+      "Ligase"
+    ],
+    "correct_answer": "Reverse transcriptase",
+    "explanation": "[CONCEPT]\nReverse transcriptase is an RNA-dependent DNA polymerase used in RT-PCR."
+  },
+  {
+    "id": 43,
+    "type": "mcq",
+    "question": "The total number of chromosomes in a human somatic cell is:",
+    "options": [
+      "46",
+      "23",
+      "22",
+      "48"
+    ],
+    "correct_answer": "46",
+    "explanation": "[CONCEPT]\nHumans have 23 pairs of chromosomes, totaling 46."
+  },
+  {
+    "id": 44,
+    "type": "mcq",
+    "question": "Which of the following is a lipid?",
+    "options": [
+      "Cholesterol",
+      "Glucose",
+      "Insulin",
+      "DNA"
+    ],
+    "correct_answer": "Cholesterol",
+    "explanation": "[CONCEPT]\nCholesterol is a sterol, a type of lipid essential for membrane structure."
+  },
+  {
+    "id": 45,
+    "type": "mcq",
+    "question": "The process of programmed cell death is known as:",
+    "options": [
+      "Apoptosis",
+      "Necrosis",
+      "Lysis",
+      "Autophagy"
+    ],
+    "correct_answer": "Apoptosis",
+    "explanation": "[CONCEPT]\nApoptosis is a controlled, genetically programmed process of cell self-destruction."
+  },
+  {
+    "id": 46,
+    "type": "mcq",
+    "question": "Which of the following is an example of an autosomal recessive disorder?",
+    "options": [
+      "Cystic fibrosis",
+      "Huntington's disease",
+      "Hemophilia",
+      "Down syndrome"
+    ],
+    "correct_answer": "Cystic fibrosis",
+    "explanation": "[CONCEPT]\nCystic fibrosis occurs when an individual inherits two copies of the mutated gene."
+  },
+  {
+    "id": 47,
+    "type": "mcq",
+    "question": "The specific site on an enzyme where the substrate binds is the:",
+    "options": [
+      "Active site",
+      "Allosteric site",
+      "Cofactor site",
+      "Regulatory site"
+    ],
+    "correct_answer": "Active site",
+    "explanation": "[CONCEPT]\nThe active site is a pocket or groove where catalysis takes place."
+  },
+  {
+    "id": 48,
+    "type": "mcq",
+    "question": "Which of the following is a nitrogen-fixing bacterium?",
+    "options": [
+      "Rhizobium",
+      "E. coli",
+      "Staphylococcus",
+      "Bacillus"
+    ],
+    "correct_answer": "Rhizobium",
+    "explanation": "[CONCEPT]\nRhizobium lives in root nodules of legumes and converts atmospheric nitrogen into ammonia."
+  },
+  {
+    "id": 49,
+    "type": "mcq",
+    "question": "The movement of water across a semipermeable membrane is:",
+    "options": [
+      "Osmosis",
+      "Active transport",
+      "Diffusion",
+      "Facilitated diffusion"
+    ],
+    "correct_answer": "Osmosis",
+    "explanation": "[CONCEPT]\nOsmosis is the net movement of water from high to low water potential."
+  },
+  {
+    "id": 50,
+    "type": "mcq",
+    "question": "Which of the following is NOT a component of a nucleotide?",
+    "options": [
+      "Amino acid",
+      "Pentose sugar",
+      "Phosphate group",
+      "Nitrogenous base"
+    ],
+    "correct_answer": "Amino acid",
+    "explanation": "[CONCEPT]\nA nucleotide consists of a sugar, a phosphate, and a nitrogenous base; amino acids are the monomers of proteins."
+  },
+  {
+    "id": 51,
+    "type": "mcq",
+    "question": "Conversion of an mRNA sequence into a polypeptide is called:",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Transduction",
+      "Translocation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "[CONCEPT]\nTranslation occurs on ribosomes where tRNA decodes the mRNA into a protein."
+  },
+  {
+    "id": 52,
+    "type": "mcq",
+    "question": "Which enzyme helps in relieving torsional strain during DNA replication?",
+    "options": [
+      "Topoisomerase",
+      "Helicase",
+      "Ligase",
+      "Polymerase"
+    ],
+    "correct_answer": "Topoisomerase",
+    "explanation": "[CONCEPT]\nTopoisomerases (like DNA gyrase) cut and re-seal DNA to prevent supercoiling ahead of the fork."
+  },
+  {
+    "id": 53,
+    "type": "mcq",
+    "question": "The term 'Biotechnology' was coined by:",
+    "options": [
+      "Karl Ereky",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correct_answer": "Karl Ereky",
+    "explanation": "[CONCEPT]\nThe Hungarian agricultural engineer Karl Ereky first used the term in 1919."
+  },
+  {
+    "id": 54,
+    "type": "mcq",
+    "question": "Which of the following is a vector for malaria?",
+    "options": [
+      "Anopheles mosquito",
+      "Aedes mosquito",
+      "Culex mosquito",
+      "Tsetse fly"
+    ],
+    "correct_answer": "Anopheles mosquito",
+    "explanation": "[CONCEPT]\nFemale Anopheles mosquitoes transmit Plasmodium parasites to humans."
+  },
+  {
+    "id": 55,
+    "type": "mcq",
+    "question": "The maximum absorbance of DNA is at:",
+    "options": [
+      "260 nm",
+      "280 nm",
+      "320 nm",
+      "210 nm"
+    ],
+    "correct_answer": "260 nm",
+    "explanation": "[CONCEPT]\nPurine and pyrimidine bases in DNA absorb ultraviolet light strongly at 260 nm."
+  },
+  {
+    "id": 56,
+    "type": "mcq",
+    "question": "What is the function of tRNA?",
+    "options": [
+      "Transports amino acids to the ribosome.",
+      "Carries genetic information from DNA.",
+      "Forms part of the ribosome structure.",
+      "Regulates gene expression."
+    ],
+    "correct_answer": "Transports amino acids to the ribosome.",
+    "explanation": "[CONCEPT]\nTransfer RNA matches its anticodon to the mRNA codon to deliver the correct amino acid."
+  },
+  {
+    "id": 57,
+    "type": "mcq",
+    "question": "The primary cause of the greenhouse effect is:",
+    "options": [
+      "Increase in atmospheric CO2.",
+      "Depletion of the ozone layer.",
+      "Acid rain.",
+      "Deforestation."
+    ],
+    "correct_answer": "Increase in atmospheric CO2.",
+    "explanation": "[CONCEPT]\nGreenhouse gases trap long-wave radiation reflected from Earth's surface."
+  },
+  {
+    "id": 58,
+    "type": "mcq",
+    "question": "A solution with pH 3 is:",
+    "options": [
+      "Strongly acidic",
+      "Weakly acidic",
+      "Strongly basic",
+      "Neutral"
+    ],
+    "correct_answer": "Strongly acidic",
+    "explanation": "[CONCEPT]\nA pH below 7 is acidic; a value of 3 indicates a high concentration of hydrogen ions."
+  },
+  {
+    "id": 59,
+    "type": "mcq",
+    "question": "Which cell organelle is responsible for the synthesis of lipids?",
+    "options": [
+      "Smooth ER",
+      "Rough ER",
+      "Golgi complex",
+      "Nucleus"
+    ],
+    "correct_answer": "Smooth ER",
+    "explanation": "[CONCEPT]\nThe smooth endoplasmic reticulum is the primary site for lipid and steroid synthesis."
+  },
+  {
+    "id": 60,
+    "type": "mcq",
+    "question": "What is the unit of measure for genetic distance on a chromosome?",
+    "options": [
+      "centiMorgan",
+      "Nanometer",
+      "Base pair",
+      "Micrometer"
+    ],
+    "correct_answer": "centiMorgan",
+    "explanation": "[CONCEPT]\nA centiMorgan (cM) represents a 1% chance of recombination."
+  },
+  {
+    "id": 61,
+    "type": "mcq",
+    "question": "Which of the following is NOT a characteristic of cancer cells?",
+    "options": [
+      "Contact inhibition",
+      "Uncontrolled growth",
+      "Angiogenesis",
+      "Metastasis"
+    ],
+    "correct_answer": "Contact inhibition",
+    "explanation": "[CONCEPT]\nCancer cells lose contact inhibition, allowing them to pile up and form tumors."
+  },
+  {
+    "id": 62,
+    "type": "mcq",
+    "question": "The primary antibody used in Western blotting detects:",
+    "options": [
+      "A specific target protein.",
+      "The secondary antibody.",
+      "DNA.",
+      "RNA."
+    ],
+    "correct_answer": "A specific target protein.",
+    "explanation": "[CONCEPT]\nThe primary antibody binds specifically to the epitope of the protein of interest."
+  },
+  {
+    "id": 63,
+    "type": "mcq",
+    "question": "Which vitamin deficiency causes Scurvy?",
+    "options": [
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "correct_answer": "Vitamin C",
+    "explanation": "[CONCEPT]\nVitamin C is essential for collagen synthesis; its lack leads to scurvy."
+  },
+  {
+    "id": 64,
+    "type": "mcq",
+    "question": "The process of crossing over occurs during:",
+    "options": [
+      "Prophase I of meiosis",
+      "Metaphase I of meiosis",
+      "Prophase of mitosis",
+      "Telophase I of meiosis"
+    ],
+    "correct_answer": "Prophase I of meiosis",
+    "explanation": "[CONCEPT]\nHomologous chromosomes exchange genetic material during the pachytene stage of Prophase I."
+  },
+  {
+    "id": 65,
+    "type": "mcq",
+    "question": "Which of the following is an example of a saturated fatty acid?",
+    "options": [
+      "Palmitic acid",
+      "Oleic acid",
+      "Linoleic acid",
+      "Linolenic acid"
+    ],
+    "correct_answer": "Palmitic acid",
+    "explanation": "[CONCEPT]\nPalmitic acid has no double bonds in its hydrocarbon chain."
+  },
+  {
+    "id": 66,
+    "type": "mcq",
+    "question": "The enzyme that degrades hydrogen peroxide in cells is:",
+    "options": [
+      "Catalase",
+      "Oxidase",
+      "Dhydrogenase",
+      "Reductase"
+    ],
+    "correct_answer": "Catalase",
+    "explanation": "[CONCEPT]\nCatalase breaks down H2O2 into water and oxygen to protect cells from oxidative damage."
+  },
+  {
+    "id": 67,
+    "type": "mcq",
+    "question": "What is the role of a primer in PCR?",
+    "options": [
+      "Provides a free 3'-OH group for DNA polymerase to start synthesis.",
+      "Unwinds the DNA strands.",
+      "Terminates the reaction.",
+      "Stabilizes the template DNA."
+    ],
+    "correct_answer": "Provides a free 3'-OH group for DNA polymerase to start synthesis.",
+    "explanation": "[CONCEPT]\nDNA polymerase cannot start synthesis de novo and requires a primer to extend."
+  },
+  {
+    "id": 68,
+    "type": "mcq",
+    "question": "Which of the following is used as a cryoprotectant for cell storage?",
+    "options": [
+      "DMSO",
+      "Ethanol",
+      "Methanol",
+      "Acetone"
+    ],
+    "correct_answer": "DMSO",
+    "explanation": "[CONCEPT]\nDimethyl sulfoxide (DMSO) prevents the formation of ice crystals that can damage cell membranes during freezing."
+  },
+  {
+    "id": 69,
+    "type": "mcq",
+    "question": "The pH of human blood is approximately:",
+    "options": [
+      "7.4",
+      "6.8",
+      "8.2",
+      "7.0"
+    ],
+    "correct_answer": "7.4",
+    "explanation": "[CONCEPT]\nHuman blood pH is strictly maintained between 7.35 and 7.45."
+  },
+  {
+    "id": 70,
+    "type": "mcq",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Dengue",
+      "Cholera",
+      "Tuberculosis",
+      "Typhoid"
+    ],
+    "correct_answer": "Dengue",
+    "explanation": "[CONCEPT]\nDengue is caused by the dengue virus transmitted by Aedes mosquitoes."
+  },
+  {
+    "id": 71,
+    "type": "mcq",
+    "question": "The 'Central Dogma' was proposed by:",
+    "options": [
+      "Francis Crick",
+      "James Watson",
+      "Marshall Nirenberg",
+      "Jacques Monod"
+    ],
+    "correct_answer": "Francis Crick",
+    "explanation": "[CONCEPT]\nIt describes the flow of information from DNA to RNA to Protein."
+  },
+  {
+    "id": 72,
+    "type": "mcq",
+    "question": "Which of the following is an example of an organ-specific autoimmune disease?",
+    "options": [
+      "Type 1 Diabetes",
+      "SLE",
+      "Rheumatoid Arthritis",
+      "Scleroderma"
+    ],
+    "correct_answer": "Type 1 Diabetes",
+    "explanation": "[CONCEPT]\nIt involves autoimmune destruction of insulin-producing beta cells in the pancreas."
+  },
+  {
+    "id": 73,
+    "type": "mcq",
+    "question": "The main component of the plant cell wall is:",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Peptidoglycan",
+      "Starch"
+    ],
+    "correct_answer": "Cellulose",
+    "explanation": "[CONCEPT]\nCellulose provides structural support and rigidity to plant cells."
+  },
+  {
+    "id": 74,
+    "type": "mcq",
+    "question": "Which of the following is a cofactor for many enzymes involved in energy metabolism?",
+    "options": [
+      "Magnesium",
+      "Calcium",
+      "Sodium",
+      "Potassium"
+    ],
+    "correct_answer": "Magnesium",
+    "explanation": "[CONCEPT]\nMg2+ is often coordinated with ATP and is required for kinase activities."
+  },
+  {
+    "id": 75,
+    "type": "mcq",
+    "question": "What is the function of the Golgi apparatus?",
+    "options": [
+      "Packaging and modification of proteins.",
+      "Energy production.",
+      "DNA replication.",
+      "Waste degradation."
+    ],
+    "correct_answer": "Packaging and modification of proteins.",
+    "explanation": "[CONCEPT]\nThe Golgi processes proteins received from the ER before they are sent to their destinations."
+  },
+  {
+    "id": 76,
+    "type": "mcq",
+    "question": "The first restriction enzyme isolated was:",
+    "options": [
+      "HindII",
+      "EcoRI",
+      "BamHI",
+      "SmaI"
+    ],
+    "correct_answer": "HindII",
+    "explanation": "[CONCEPT]\nHindII was the first type II restriction endonuclease discovered."
+  },
+  {
+    "id": 77,
+    "type": "mcq",
+    "question": "Which of the following amino acids is basic in nature?",
+    "options": [
+      "Lysine",
+      "Glutamate",
+      "Alanine",
+      "Leucine"
+    ],
+    "correct_answer": "Lysine",
+    "explanation": "[CONCEPT]\nLysine, arginine, and histidine have basic side chains."
+  },
+  {
+    "id": 78,
+    "type": "mcq",
+    "question": "The process of nitrogen fixation is inhibited by:",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Ammonia",
+      "Hydrogen"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "[CONCEPT]\nThe enzyme nitrogenase is highly sensitive to oxygen (oxygen labile)."
+  },
+  {
+    "id": 79,
+    "type": "mcq",
+    "question": "Which part of the brain controls body temperature?",
+    "options": [
+      "Hypothalamus",
+      "Cerebellum",
+      "Medulla",
+      "Thalamus"
+    ],
+    "correct_answer": "Hypothalamus",
+    "explanation": "[CONCEPT]\nThe hypothalamus acts as the body's thermostat."
+  },
+  {
+    "id": 80,
+    "type": "mcq",
+    "question": "The linkage in lactose is:",
+    "options": [
+      "Beta-1,4-glycosidic bond",
+      "Alpha-1,4-glycosidic bond",
+      "Beta-1,2-glycosidic bond",
+      "Alpha-1,6-glycosidic bond"
+    ],
+    "correct_answer": "Beta-1,4-glycosidic bond",
+    "explanation": "[CONCEPT]\nLactose consists of glucose and galactose linked via a beta-1,4 bond."
+  },
+  {
+    "id": 81,
+    "type": "mcq",
+    "question": "Which of the following is a stop codon?",
+    "options": [
+      "UAA",
+      "AUG",
+      "GUG",
+      "UUU"
+    ],
+    "correct_answer": "UAA",
+    "explanation": "[CONCEPT]\nUAA, UAG, and UGA are stop codons that signal the end of translation."
+  },
+  {
+    "id": 82,
+    "type": "mcq",
+    "question": "What is the bond between bases in a DNA double helix?",
+    "options": [
+      "Hydrogen bond",
+      "Phosphodiester bond",
+      "Covalent bond",
+      "Ionic bond"
+    ],
+    "correct_answer": "Hydrogen bond",
+    "explanation": "[CONCEPT]\nComplementary base pairs (A-T and G-C) are held together by hydrogen bonds."
+  },
+  {
+    "id": 83,
+    "type": "mcq",
+    "question": "Which of the following is used as a selectable marker in bacterial transformation?",
+    "options": [
+      "Antibiotic resistance gene",
+      "GFP gene",
+      "Ori site",
+      "Promoter"
+    ],
+    "correct_answer": "Antibiotic resistance gene",
+    "explanation": "[CONCEPT]\nIt allows for the selective growth of transformed bacteria on media containing the antibiotic."
+  },
+  {
+    "id": 84,
+    "type": "mcq",
+    "question": "Which enzyme joins DNA fragments together?",
+    "options": [
+      "Ligase",
+      "Polymerase",
+      "Helicase",
+      "Endonuclease"
+    ],
+    "correct_answer": "Ligase",
+    "explanation": "[CONCEPT]\nDNA ligase creates covalent bonds between adjacent DNA fragments."
+  },
+  {
+    "id": 85,
+    "type": "mcq",
+    "question": "The site of ribosomal RNA synthesis is the:",
+    "options": [
+      "Nucleolus",
+      "Cytoplasm",
+      "ER",
+      "Golgi"
+    ],
+    "correct_answer": "Nucleolus",
+    "explanation": "[CONCEPT]\nThe nucleolus is a dense region within the nucleus where rRNA is transcribed and assembled with proteins."
+  },
+  {
+    "id": 86,
+    "type": "mcq",
+    "question": "Which of the following is an essential fatty acid?",
+    "options": [
+      "Linoleic acid",
+      "Stearic acid",
+      "Oleic acid",
+      "Palmitic acid"
+    ],
+    "correct_answer": "Linoleic acid",
+    "explanation": "[CONCEPT]\nEssential fatty acids cannot be synthesized by the body and must be obtained from the diet."
+  },
+  {
+    "id": 87,
+    "type": "mcq",
+    "question": "The enzyme used in PCR is:",
+    "options": [
+      "Taq polymerase",
+      "DNA polymerase I",
+      "Klenow fragment",
+      "RNA polymerase"
+    ],
+    "correct_answer": "Taq polymerase",
+    "explanation": "[CONCEPT]\nTaq polymerase is heat-stable, allowing it to survive the high-temperature denaturation steps of PCR."
+  },
+  {
+    "id": 88,
+    "type": "mcq",
+    "question": "What is the byproduct of photosynthesis?",
+    "options": [
+      "Oxygen",
+      "CO2",
+      "Water",
+      "Methane"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "[CONCEPT]\nOxygen is produced during the light-dependent reactions from the splitting of water."
+  },
+  {
+    "id": 89,
+    "type": "mcq",
+    "question": "The 'One gene-one enzyme' hypothesis was proposed by:",
+    "options": [
+      "Beadle and Tatum",
+      "Watson and Crick",
+      "Hershey and Chase",
+      "Meselson and Stahl"
+    ],
+    "correct_answer": "Beadle and Tatum",
+    "explanation": "[CONCEPT]\nTheir work on Neurospora crassa showed that genes act through the production of enzymes."
+  },
+  {
+    "id": 90,
+    "type": "mcq",
+    "question": "Which organelle contains its own DNA?",
+    "options": [
+      "Mitochondrion",
+      "Lysosome",
+      "Ribosome",
+      "Golgi"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "[CONCEPT]\nMitochondria (and chloroplasts) have their own circular genome, supporting the endosymbiotic theory."
+  },
+  {
+    "id": 91,
+    "type": "mcq",
+    "question": "The primary site of protein degradation in a cell is:",
+    "options": [
+      "Proteasome",
+      "Ribosome",
+      "Golgi",
+      "Nucleus"
+    ],
+    "correct_answer": "Proteasome",
+    "explanation": "[CONCEPT]\nProteasomes break down ubiquitin-tagged proteins."
+  },
+  {
+    "id": 92,
+    "type": "mcq",
+    "question": "Which of the following is a secondary messenger in cell signaling?",
+    "options": [
+      "cAMP",
+      "Insulin",
+      "Glucose",
+      "ATP"
+    ],
+    "correct_answer": "cAMP",
+    "explanation": "[CONCEPT]\nCyclic AMP is a common intracellular signal used in G protein-coupled receptor pathways."
+  },
+  {
+    "id": 93,
+    "type": "mcq",
+    "question": "What is the function of helicase?",
+    "options": [
+      "Separates DNA strands.",
+      "Joins DNA strands.",
+      "Adds nucleotides.",
+      "Synthesizes primers."
+    ],
+    "correct_answer": "Separates DNA strands.",
+    "explanation": "[CONCEPT]\nHelicase uses ATP to break hydrogen bonds between the two strands."
+  },
+  {
+    "id": 94,
+    "type": "mcq",
+    "question": "The deficiency of Vitamin A leads to:",
+    "options": [
+      "Night blindness",
+      "Scurvy",
+      "Rickets",
+      "Beriberi"
+    ],
+    "correct_answer": "Night blindness",
+    "explanation": "[CONCEPT]\nVitamin A is essential for the production of rhodopsin in the retina."
+  },
+  {
+    "id": 95,
+    "type": "mcq",
+    "question": "Which of the following is an aromatic amino acid?",
+    "options": [
+      "Phenylalanine",
+      "Glycine",
+      "Alanine",
+      "Valine"
+    ],
+    "correct_answer": "Phenylalanine",
+    "explanation": "[CONCEPT]\nPhenylalanine, tyrosine, and tryptophan have aromatic rings in their side chains."
+  },
+  {
+    "id": 96,
+    "type": "mcq",
+    "question": "The pH at which an amino acid carries no net charge is the:",
+    "options": [
+      "Isoelectric point",
+      "Equivalence point",
+      "Neutral point",
+      "End point"
+    ],
+    "correct_answer": "Isoelectric point",
+    "explanation": "[CONCEPT]\nAt the pI, the positive and negative charges on the molecule cancel each other out."
+  },
+  {
+    "id": 97,
+    "type": "mcq",
+    "question": "Which of the following is an antibiotic?",
+    "options": [
+      "Streptomycin",
+      "Aspirin",
+      "Paracetamol",
+      "Insulin"
+    ],
+    "correct_answer": "Streptomycin",
+    "explanation": "[CONCEPT]\nStreptomycin is an aminoglycoside antibiotic that inhibits protein synthesis."
+  },
+  {
+    "id": 98,
+    "type": "mcq",
+    "question": "The total number of bases in a codon is:",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "correct_answer": "3",
+    "explanation": "[CONCEPT]\nA codon is a triplet of nucleotides representing an amino acid."
+  },
+  {
+    "id": 99,
+    "type": "mcq",
+    "question": "What is the function of topoisomerase?",
+    "options": [
+      "Prevents DNA supercoiling.",
+      "Unwinds DNA.",
+      "Replicates DNA.",
+      "Transcribes DNA."
+    ],
+    "correct_answer": "Prevents DNA supercoiling.",
+    "explanation": "[CONCEPT]\nIt introduces nicks to relieve the stress caused by strand separation."
+  },
+  {
+    "id": 100,
+    "type": "mcq",
+    "question": "The 'Fluid Mosaic Model' was proposed by:",
+    "options": [
+      "Singer and Nicolson",
+      "Watson and Crick",
+      "Schleiden and Schwann",
+      "Morgan and Sturtevant"
+    ],
+    "correct_answer": "Singer and Nicolson",
+    "explanation": "[CONCEPT]\nThey proposed this model in 1972 to explain the dynamics of the cell membrane."
+  },
+  {
+    "id": 101,
+    "type": "mcq",
+    "question": "Which of the following is a non-polar amino acid?",
+    "options": [
+      "Leucine",
+      "Lysine",
+      "Serine",
+      "Aspartate"
+    ],
+    "correct_answer": "Leucine",
+    "explanation": "[CONCEPT]\nLeucine has a hydrophobic alkyl side chain."
+  },
+  {
+    "id": 102,
+    "type": "mcq",
+    "question": "Which organelle is the site of cellular respiration?",
+    "options": [
+      "Mitochondrion",
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "[CONCEPT]\nMitochondria produce ATP through aerobic respiration."
+  },
+  {
+    "id": 103,
+    "type": "mcq",
+    "question": "The linkage in starch is:",
+    "options": [
+      "Alpha-1,4-glycosidic bond",
+      "Beta-1,4-glycosidic bond",
+      "Alpha-1,6-glycosidic bond",
+      "Both alpha-1,4 and alpha-1,6"
+    ],
+    "correct_answer": "Both alpha-1,4 and alpha-1,6",
+    "explanation": "[CONCEPT]\nStarch contains amylose (alpha-1,4) and amylopectin (branched via alpha-1,6)."
+  },
+  {
+    "id": 104,
+    "type": "mcq",
+    "question": "Which technique is used to detect a specific protein in a sample?",
+    "options": [
+      "Western Blotting",
+      "Southern Blotting",
+      "Northern Blotting",
+      "PCR"
+    ],
+    "correct_answer": "Western Blotting",
+    "explanation": "[CONCEPT]\nWestern blotting uses antibodies to identify proteins after gel electrophoresis."
+  },
+  {
+    "id": 105,
+    "type": "mcq",
+    "question": "The sugar found in DNA is:",
+    "options": [
+      "Deoxyribose",
+      "Ribose",
+      "Glucose",
+      "Fructose"
+    ],
+    "correct_answer": "Deoxyribose",
+    "explanation": "[CONCEPT]\nDeoxyribose lacks an oxygen atom at the 2' position compared to ribose."
+  },
+  {
+    "id": 106,
+    "type": "mcq",
+    "question": "Which of the following is an example of a greenhouse gas?",
+    "options": [
+      "Methane",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_answer": "Methane",
+    "explanation": "[CONCEPT]\nMethane (CH4) is a potent greenhouse gas."
+  },
+  {
+    "id": 107,
+    "type": "mcq",
+    "question": "The primary structure of protein is stabilized by:",
+    "options": [
+      "Peptide bonds",
+      "Hydrogen bonds",
+      "Ionic bonds",
+      "Van der Waals forces"
+    ],
+    "correct_answer": "Peptide bonds",
+    "explanation": "[CONCEPT]\nCovalent peptide bonds hold the amino acid chain together."
+  },
+  {
+    "id": 108,
+    "type": "mcq",
+    "question": "Which enzyme converts DNA to RNA?",
+    "options": [
+      "RNA polymerase",
+      "DNA polymerase",
+      "Reverse transcriptase",
+      "Ligase"
+    ],
+    "correct_answer": "RNA polymerase",
+    "explanation": "[CONCEPT]\nIt reads the DNA template to produce a complementary RNA strand."
+  },
+  {
+    "id": 109,
+    "type": "mcq",
+    "question": "The unit of measurement for bacterial size is:",
+    "options": [
+      "Micrometer",
+      "Nanometer",
+      "Millimeter",
+      "Centimeter"
+    ],
+    "correct_answer": "Micrometer",
+    "explanation": "[CONCEPT]\nBacteria typically range from 0.5 to 5 micrometers in length."
+  },
+  {
+    "id": 110,
+    "type": "mcq",
+    "question": "Which organelle is responsible for waste disposal?",
+    "options": [
+      "Lysosome",
+      "ER",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\nLysosomes contain enzymes to break down cellular waste."
+  },
+  {
+    "id": 111,
+    "type": "mcq",
+    "question": "What is the role of DNA polymerase?",
+    "options": [
+      "Adds nucleotides to the growing DNA chain.",
+      "Unwinds DNA.",
+      "Joins DNA fragments.",
+      "Cuts DNA."
+    ],
+    "correct_answer": "Adds nucleotides to the growing DNA chain.",
+    "explanation": "[CONCEPT]\nIt synthesizes new DNA by matching bases to the template strand."
+  },
+  {
+    "id": 112,
+    "type": "mcq",
+    "question": "The double helix structure of DNA was discovered by:",
+    "options": [
+      "Watson and Crick",
+      "Mendel",
+      "Darwin",
+      "Pasteur"
+    ],
+    "correct_answer": "Watson and Crick",
+    "explanation": "[CONCEPT]\nThey published their model in 1953."
+  },
+  {
+    "id": 113,
+    "type": "mcq",
+    "question": "Which of the following is a bacterial cell component?",
+    "options": [
+      "Peptidoglycan",
+      "Cholesterol",
+      "Cellulose",
+      "Chitin"
+    ],
+    "correct_answer": "Peptidoglycan",
+    "explanation": "[CONCEPT]\nPeptidoglycan forms the structural mesh of the bacterial cell wall."
+  },
+  {
+    "id": 114,
+    "type": "mcq",
+    "question": "What is the function of mitochondria?",
+    "options": [
+      "ATP production.",
+      "Protein synthesis.",
+      "Lipid storage.",
+      "DNA storage."
+    ],
+    "correct_answer": "ATP production.",
+    "explanation": "[CONCEPT]\nMitochondria are the powerhouses of the cell."
+  },
+  {
+    "id": 115,
+    "type": "mcq",
+    "question": "Which technique is used for DNA profiling?",
+    "options": [
+      "RFLP",
+      "Western Blot",
+      "ELISA",
+      "Gram stain"
+    ],
+    "correct_answer": "RFLP",
+    "explanation": "[CONCEPT]\nRestriction Fragment Length Polymorphism (RFLP) is a classic method for DNA typing."
+  },
+  {
+    "id": 116,
+    "type": "mcq",
+    "question": "The site of glycolysis is:",
+    "options": [
+      "Cytosol",
+      "Mitochondria",
+      "Nucleus",
+      "ER"
+    ],
+    "correct_answer": "Cytosol",
+    "explanation": "[CONCEPT]\nGlycolysis takes place in the cytoplasm, not in a membrane-bound organelle."
+  },
+  {
+    "id": 117,
+    "type": "mcq",
+    "question": "Which of the following is an enzyme?",
+    "options": [
+      "Amylase",
+      "Glucose",
+      "Insulin",
+      "Keratin"
+    ],
+    "correct_answer": "Amylase",
+    "explanation": "[CONCEPT]\nAmylase is a protein that catalyzes the hydrolysis of starch into sugars."
+  },
+  {
+    "id": 118,
+    "type": "mcq",
+    "question": "What is the function of the cell wall?",
+    "options": [
+      "Protection and structural support.",
+      "Signal transduction.",
+      "Protein synthesis.",
+      "Energy production."
+    ],
+    "correct_answer": "Protection and structural support.",
+    "explanation": "[CONCEPT]\nThe cell wall provides rigidity and prevents osmotic bursting."
+  },
+  {
+    "id": 119,
+    "type": "mcq",
+    "question": "Which of the following is a homozygous genotype?",
+    "options": [
+      "TT",
+      "Tt",
+      "tT",
+      "None"
+    ],
+    "correct_answer": "TT",
+    "explanation": "[CONCEPT]\nHomozygous means having two identical alleles for a particular gene."
+  },
+  {
+    "id": 120,
+    "type": "mcq",
+    "question": "The movement of molecules from high to low concentration is:",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Endocytosis"
+    ],
+    "correct_answer": "Diffusion",
+    "explanation": "[CONCEPT]\nPassive diffusion driven by the concentration gradient."
+  },
+  {
+    "id": 121,
+    "type": "mcq",
+    "question": "Which organelle handles intracellular digestion?",
+    "options": [
+      "Lysosome",
+      "Ribosome",
+      "ER",
+      "Golgi"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\nThey contain enzymes like proteases and lipases for digestion."
+  },
+  {
+    "id": 122,
+    "type": "mcq",
+    "question": "The total number of ATP produced in aerobic respiration per glucose is about:",
+    "options": [
+      "36-38",
+      "2",
+      "4",
+      "10"
+    ],
+    "correct_answer": "36-38",
+    "explanation": "[CONCEPT]\nThe complete oxidation of glucose yields a much higher ATP count than glycolysis alone."
+  },
+  {
+    "id": 123,
+    "type": "mcq",
+    "question": "Which of the following is a nitrogenous base found in DNA?",
+    "options": [
+      "Adenine",
+      "Uracil",
+      "Ribose",
+      "Phosphate"
+    ],
+    "correct_answer": "Adenine",
+    "explanation": "[CONCEPT]\nAdenine, Guanine, Cytosine, and Thymine are the bases in DNA."
+  },
+  {
+    "id": 124,
+    "type": "mcq",
+    "question": "What is the function of tRNA?",
+    "options": [
+      "Decoder of mRNA.",
+      "Template for protein.",
+      "Gene storage.",
+      "Structural RNA."
+    ],
+    "correct_answer": "Decoder of mRNA.",
+    "explanation": "[CONCEPT]\ntRNA translates codons into specific amino acids."
+  },
+  {
+    "id": 125,
+    "type": "mcq",
+    "question": "The smallest unit of a living organism is the:",
+    "options": [
+      "Cell",
+      "Atom",
+      "Molecule",
+      "Tissue"
+    ],
+    "correct_answer": "Cell",
+    "explanation": "[CONCEPT]\nThe cell is the basic structural and functional unit of life."
+  },
+  {
+    "id": 126,
+    "type": "mcq",
+    "question": "Which of the following is an example of an ecosystem?",
+    "options": [
+      "Pond",
+      "Population",
+      "Species",
+      "Biosphere"
+    ],
+    "correct_answer": "Pond",
+    "explanation": "[CONCEPT]\nA pond includes living organisms interacting with their physical environment."
+  },
+  {
+    "id": 127,
+    "type": "mcq",
+    "question": "The first step of the Calvin cycle is:",
+    "options": [
+      "Carbon fixation",
+      "Reduction",
+      "Regeneration",
+      "ATP production"
+    ],
+    "correct_answer": "Carbon fixation",
+    "explanation": "[CONCEPT]\nCO2 is fixed to ribulose-1,5-bisphosphate by RuBisCO."
+  },
+  {
+    "id": 128,
+    "type": "mcq",
+    "question": "Which of the following is a eukaryotic kingdom?",
+    "options": [
+      "Fungi",
+      "Monera",
+      "Archaea",
+      "Viruses"
+    ],
+    "correct_answer": "Fungi",
+    "explanation": "[CONCEPT]\nFungi cells have a nucleus and organelles, unlike Monera."
+  },
+  {
+    "id": 129,
+    "type": "mcq",
+    "question": "The study of heredity is:",
+    "options": [
+      "Genetics",
+      "Evolution",
+      "Ecology",
+      "Microbiology"
+    ],
+    "correct_answer": "Genetics",
+    "explanation": "[CONCEPT]\nGenetics explores how traits are passed between generations."
+  },
+  {
+    "id": 130,
+    "type": "mcq",
+    "question": "Which of the following is a primary producer?",
+    "options": [
+      "Green plants",
+      "Fungi",
+      "Animals",
+      "Bacteria"
+    ],
+    "correct_answer": "Green plants",
+    "explanation": "[CONCEPT]\nPlants produce their own food through photosynthesis."
+  },
+  {
+    "id": 131,
+    "type": "mcq",
+    "question": "What is the function of the plasma membrane?",
+    "options": [
+      "Regulates movement of substances.",
+      "Energy storage.",
+      "Genetic control.",
+      "Protein folding."
+    ],
+    "correct_answer": "Regulates movement of substances.",
+    "explanation": "[CONCEPT]\nIt is selectively permeable."
+  },
+  {
+    "id": 132,
+    "type": "mcq",
+    "question": "The genetic material in a virus can be:",
+    "options": [
+      "Either DNA or RNA",
+      "Only DNA",
+      "Only RNA",
+      "Neither"
+    ],
+    "correct_answer": "Either DNA or RNA",
+    "explanation": "[CONCEPT]\nViruses are classified based on their nucleic acid content."
+  },
+  {
+    "id": 133,
+    "type": "mcq",
+    "question": "Which of the following is a renewable energy source?",
+    "options": [
+      "Solar",
+      "Coal",
+      "Natural gas",
+      "Oil"
+    ],
+    "correct_answer": "Solar",
+    "explanation": "[CONCEPT]\nSolar energy is naturally replenished."
+  },
+  {
+    "id": 134,
+    "type": "mcq",
+    "question": "The chemical formula for glucose is:",
+    "options": [
+      "C6H12O6",
+      "C12H22O11",
+      "CO2",
+      "CH4"
+    ],
+    "correct_answer": "C6H12O6",
+    "explanation": "[CONCEPT]\nStandard hexose sugar formula."
+  },
+  {
+    "id": 135,
+    "type": "mcq",
+    "question": "Which of the following is NOT a characteristic of life?",
+    "options": [
+      "Movement",
+      "Metabolism",
+      "Growth",
+      "Reproduction"
+    ],
+    "correct_answer": "Movement",
+    "explanation": "[CONCEPT]\nMany living things (like plants) do not show external movement in the same way animals do."
+  },
+  {
+    "id": 136,
+    "type": "mcq",
+    "question": "The linkage in cellulose is:",
+    "options": [
+      "Beta-1,4-glycosidic bond",
+      "Alpha-1,4-glycosidic bond",
+      "Beta-1,2-glycosidic bond",
+      "Alpha-1,6-glycosidic bond"
+    ],
+    "correct_answer": "Beta-1,4-glycosidic bond",
+    "explanation": "[CONCEPT]\nThis linkage makes cellulose indigestible by humans."
+  },
+  {
+    "id": 137,
+    "type": "mcq",
+    "question": "Which technique is used to amplify DNA?",
+    "options": [
+      "PCR",
+      "Northern blot",
+      "Western blot",
+      "Southern blot"
+    ],
+    "correct_answer": "PCR",
+    "explanation": "[CONCEPT]\nRepeat of a previous question for reinforcement."
+  },
+  {
+    "id": 138,
+    "type": "mcq",
+    "question": "The site of lipid synthesis is:",
+    "options": [
+      "Smooth ER",
+      "Rough ER",
+      "Nucleus",
+      "Golgi"
+    ],
+    "correct_answer": "Smooth ER",
+    "explanation": "[CONCEPT]\nSmooth ER specializes in lipid metabolism."
+  },
+  {
+    "id": 139,
+    "type": "mcq",
+    "question": "Which of the following is a non-reducing sugar?",
+    "options": [
+      "Sucrose",
+      "Glucose",
+      "Fructose",
+      "Lactose"
+    ],
+    "correct_answer": "Sucrose",
+    "explanation": "[CONCEPT]\nSucrose lacks a free anomeric carbon."
+  },
+  {
+    "id": 140,
+    "type": "mcq",
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Molecule"
+    ],
+    "correct_answer": "Cell",
+    "explanation": "[CONCEPT]\nThe fundamental building block of all organisms."
+  },
+  {
+    "id": 141,
+    "type": "mcq",
+    "question": "Which of the following is a peptide hormone?",
+    "options": [
+      "Insulin",
+      "Testosterone",
+      "Estrogen",
+      "Thyroxine"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "[CONCEPT]\nInsulin is a small protein produced in the pancreas."
+  },
+  {
+    "id": 142,
+    "type": "mcq",
+    "question": "The function of the nucleolus is:",
+    "options": [
+      "rRNA synthesis.",
+      "DNA replication.",
+      "Protein folding.",
+      "Lipid storage."
+    ],
+    "correct_answer": "rRNA synthesis.",
+    "explanation": "[CONCEPT]\nIt is the site of ribosome factory within the nucleus."
+  },
+  {
+    "id": 143,
+    "type": "mcq",
+    "question": "Which of the following is an example of a viral vector?",
+    "options": [
+      "Bacteriophage",
+      "Plasmid",
+      "Cosmid",
+      "BAC"
+    ],
+    "correct_answer": "Bacteriophage",
+    "explanation": "[CONCEPT]\nViruses that infect bacteria are used as tools to deliver DNA."
+  },
+  {
+    "id": 144,
+    "type": "mcq",
+    "question": "The study of fossils is:",
+    "options": [
+      "Paleontology",
+      "Archaeology",
+      "Geology",
+      "Biology"
+    ],
+    "correct_answer": "Paleontology",
+    "explanation": "[CONCEPT]\nExamination of ancient life forms through their remains."
+  },
+  {
+    "id": 145,
+    "type": "mcq",
+    "question": "Which organelle is the powerhouse of the cell?",
+    "options": [
+      "Mitochondrion",
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "[CONCEPT]\nSite of ATP production via the electron transport chain."
+  },
+  {
+    "id": 146,
+    "type": "mcq",
+    "question": "The enzyme used in DNA replication to join Okazaki fragments is:",
+    "options": [
+      "Ligase",
+      "Polymerase",
+      "Helicase",
+      "Gyrase"
+    ],
+    "correct_answer": "Ligase",
+    "explanation": "[CONCEPT]\nJoins the gaps in the lagging strand."
+  },
+  {
+    "id": 147,
+    "type": "mcq",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "CO2",
+      "O2",
+      "N2",
+      "Ar"
+    ],
+    "correct_answer": "CO2",
+    "explanation": "[CONCEPT]\nEssential concept in environmental biology."
+  },
+  {
+    "id": 148,
+    "type": "mcq",
+    "question": "What is the function of ribosomes?",
+    "options": [
+      "Protein synthesis.",
+      "Lipid synthesis.",
+      "Energy production.",
+      "Waste removal."
+    ],
+    "correct_answer": "Protein synthesis.",
+    "explanation": "[CONCEPT]\nThey translate genetic codes into amino acid sequences."
+  },
+  {
+    "id": 149,
+    "type": "mcq",
+    "question": "The sugar in RNA is:",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Glucose",
+      "Sucrose"
+    ],
+    "correct_answer": "Ribose",
+    "explanation": "[CONCEPT]\nDifferentiates RNA from DNA chemically."
+  },
+  {
+    "id": 150,
+    "type": "mcq",
+    "question": "Which of the following is a photosynthetic pigment?",
+    "options": [
+      "Chlorophyll",
+      "Hemoglobin",
+      "Melanin",
+      "Keratin"
+    ],
+    "correct_answer": "Chlorophyll",
+    "explanation": "[CONCEPT]\nCaptures light energy for photosynthesis."
+  },
+  {
+    "id": 151,
+    "type": "mcq",
+    "question": "The linkage in maltose is:",
+    "options": [
+      "Alpha-1,4-glycosidic bond",
+      "Beta-1,4-glycosidic bond",
+      "Alpha-1,6-glycosidic bond",
+      "Beta-1,2-glycosidic bond"
+    ],
+    "correct_answer": "Alpha-1,4-glycosidic bond",
+    "explanation": "[CONCEPT]\nMaltose is a disaccharide of two glucose units."
+  },
+  {
+    "id": 152,
+    "type": "mcq",
+    "question": "Which enzyme unzips DNA?",
+    "options": [
+      "Helicase",
+      "Polymerase",
+      "Ligase",
+      "Gyrase"
+    ],
+    "correct_answer": "Helicase",
+    "explanation": "[CONCEPT]\nBreaks hydrogen bonds during replication."
+  },
+  {
+    "id": 153,
+    "type": "mcq",
+    "question": "What is the function of the cell membrane?",
+    "options": [
+      "Selective transport.",
+      "Energy production.",
+      "Genetic storage.",
+      "Protein folding."
+    ],
+    "correct_answer": "Selective transport.",
+    "explanation": "[CONCEPT]\nMaintains homeostasis by controlling what enters and exits."
+  },
+  {
+    "id": 154,
+    "type": "mcq",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Influenza",
+      "Tuberculosis",
+      "Malaria",
+      "Cholera"
+    ],
+    "correct_answer": "Influenza",
+    "explanation": "[CONCEPT]\nCaused by the influenza virus."
+  },
+  {
+    "id": 155,
+    "type": "mcq",
+    "question": "The building blocks of proteins are:",
+    "options": [
+      "Amino acids",
+      "Nucleotides",
+      "Fatty acids",
+      "Monosaccharides"
+    ],
+    "correct_answer": "Amino acids",
+    "explanation": "[CONCEPT]\nLinked by peptide bonds to form polypeptides."
+  },
+  {
+    "id": 156,
+    "type": "mcq",
+    "question": "Which organelle is the site of the TCA cycle?",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Cytosol",
+      "Golgi"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "[CONCEPT]\nOccurs in the matrix."
+  },
+  {
+    "id": 157,
+    "type": "mcq",
+    "question": "The movement of water through a membrane is:",
+    "options": [
+      "Osmosis",
+      "Diffusion",
+      "Active transport",
+      "Endocytosis"
+    ],
+    "correct_answer": "Osmosis",
+    "explanation": "[CONCEPT]\nPassive movement specifically of water."
+  },
+  {
+    "id": 158,
+    "type": "mcq",
+    "question": "Which of the following is a steroid?",
+    "options": [
+      "Cholesterol",
+      "Glucose",
+      "ATP",
+      "Casein"
+    ],
+    "correct_answer": "Cholesterol",
+    "explanation": "[CONCEPT]\nBasis for many hormones."
+  },
+  {
+    "id": 159,
+    "type": "mcq",
+    "question": "What is the function of DNA polymerase?",
+    "options": [
+      "DNA synthesis.",
+      "Strand separation.",
+      "RNA synthesis.",
+      "Protein synthesis."
+    ],
+    "correct_answer": "DNA synthesis.",
+    "explanation": "[CONCEPT]\nPrimary enzyme for replication."
+  },
+  {
+    "id": 160,
+    "type": "mcq",
+    "question": "Which of the following is a decomposer?",
+    "options": [
+      "Fungi",
+      "Plants",
+      "Animals",
+      "Algae"
+    ],
+    "correct_answer": "Fungi",
+    "explanation": "[CONCEPT]\nBreaks down organic matter."
+  },
+  {
+    "id": 161,
+    "type": "mcq",
+    "question": "The study of the environment is:",
+    "options": [
+      "Ecology",
+      "Genetics",
+      "Microbiology",
+      "Physiology"
+    ],
+    "correct_answer": "Ecology",
+    "explanation": "[CONCEPT]\nInteractions between organisms and their surroundings."
+  },
+  {
+    "id": 162,
+    "type": "mcq",
+    "question": "Which of the following is an antibiotic?",
+    "options": [
+      "Tetracycline",
+      "Aspirin",
+      "Vitamin C",
+      "Insulin"
+    ],
+    "correct_answer": "Tetracycline",
+    "explanation": "[CONCEPT]\nInhibits bacterial growth."
+  },
+  {
+    "id": 163,
+    "type": "mcq",
+    "question": "What is the process of protein synthesis called?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Ligation"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "[CONCEPT]\nmRNA to Protein."
+  },
+  {
+    "id": 164,
+    "type": "mcq",
+    "question": "Which organelle is the site of photosynthesis?",
+    "options": [
+      "Chloroplast",
+      "Mitochondria",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "correct_answer": "Chloroplast",
+    "explanation": "[CONCEPT]\nSpecific to plant and algae cells."
+  },
+  {
+    "id": 165,
+    "type": "mcq",
+    "question": "The double stranded structure of DNA is:",
+    "options": [
+      "Antiparallel",
+      "Parallel",
+      "Circular",
+      "Single-stranded"
+    ],
+    "correct_answer": "Antiparallel",
+    "explanation": "[CONCEPT]\nStrands run 5' to 3' in opposite directions."
+  },
+  {
+    "id": 166,
+    "type": "mcq",
+    "question": "Which technique is used to detect DNA?",
+    "options": [
+      "Southern Blot",
+      "Western Blot",
+      "Northern Blot",
+      "ELISA"
+    ],
+    "correct_answer": "Southern Blot",
+    "explanation": "[CONCEPT]\nDetection of DNA sequences using hybridization probes."
+  },
+  {
+    "id": 167,
+    "type": "mcq",
+    "question": "What is the function of lysosomes?",
+    "options": [
+      "Waste degradation.",
+      "Energy production.",
+      "Protein synthesis.",
+      "DNA storage."
+    ],
+    "correct_answer": "Waste degradation.",
+    "explanation": "[CONCEPT]\nCell's recycling center."
+  },
+  {
+    "id": 168,
+    "type": "mcq",
+    "question": "Which of the following is a renewable resource?",
+    "options": [
+      "Wind",
+      "Coal",
+      "Oil",
+      "Natural Gas"
+    ],
+    "correct_answer": "Wind",
+    "explanation": "[CONCEPT]\nDoes not deplete with use."
+  },
+  {
+    "id": 169,
+    "type": "mcq",
+    "question": "The building block of carbohydrates is:",
+    "options": [
+      "Monosaccharide",
+      "Amino acid",
+      "Nucleotide",
+      "Fatty acid"
+    ],
+    "correct_answer": "Monosaccharide",
+    "explanation": "[CONCEPT]\nSimple sugars like glucose."
+  },
+  {
+    "id": 170,
+    "type": "mcq",
+    "question": "Which organelle is the site of protein folding?",
+    "options": [
+      "ER",
+      "Nucleus",
+      "Golgi",
+      "Ribosome"
+    ],
+    "correct_answer": "ER",
+    "explanation": "[CONCEPT]\nRough ER handles folding and quality control."
+  },
+  {
+    "id": 171,
+    "type": "mcq",
+    "question": "The study of microbes is:",
+    "options": [
+      "Microbiology",
+      "Botany",
+      "Zoology",
+      "Ecology"
+    ],
+    "correct_answer": "Microbiology",
+    "explanation": "[CONCEPT]\nStudy of bacteria, viruses, and fungi."
+  },
+  {
+    "id": 172,
+    "type": "mcq",
+    "question": "What is the function of the cell wall?",
+    "options": [
+      "Structure.",
+      "Signaling.",
+      "DNA repair.",
+      "Metabolism."
+    ],
+    "correct_answer": "Structure.",
+    "explanation": "[CONCEPT]\nProvides support."
+  },
+  {
+    "id": 173,
+    "type": "mcq",
+    "question": "Which of the following is an aromatic amino acid?",
+    "options": [
+      "Tyrosine",
+      "Alanine",
+      "Serine",
+      "Glycine"
+    ],
+    "correct_answer": "Tyrosine",
+    "explanation": "[CONCEPT]\nContains a phenol group."
+  },
+  {
+    "id": 174,
+    "type": "mcq",
+    "question": "Which enzyme joins DNA strands?",
+    "options": [
+      "Ligase",
+      "Helicase",
+      "Polymerase",
+      "Nuclease"
+    ],
+    "correct_answer": "Ligase",
+    "explanation": "[CONCEPT]\nCovalent linkage."
+  },
+  {
+    "id": 175,
+    "type": "mcq",
+    "question": "What is the unit of measure for cell size?",
+    "options": [
+      "Micron",
+      "Gram",
+      "Liter",
+      "Meter"
+    ],
+    "correct_answer": "Micron",
+    "explanation": "[CONCEPT]\nCommonly used for microscopic objects."
+  },
+  {
+    "id": 176,
+    "type": "mcq",
+    "question": "Which of the following is a nucleic acid?",
+    "options": [
+      "RNA",
+      "Hemoglobin",
+      "Cholesterol",
+      "Keratin"
+    ],
+    "correct_answer": "RNA",
+    "explanation": "[CONCEPT]\nMessenger between DNA and proteins."
+  },
+  {
+    "id": 177,
+    "type": "mcq",
+    "question": "The site of protein synthesis is:",
+    "options": [
+      "Ribosome",
+      "Nucleus",
+      "Golgi",
+      "Lysosome"
+    ],
+    "correct_answer": "Ribosome",
+    "explanation": "[CONCEPT]\nSynthesizes chains from tRNA."
+  },
+  {
+    "id": 178,
+    "type": "mcq",
+    "question": "What is the byproduct of aerobic respiration?",
+    "options": [
+      "CO2",
+      "Oxygen",
+      "Methane",
+      "Sugar"
+    ],
+    "correct_answer": "CO2",
+    "explanation": "[CONCEPT]\nReleased during the TCA cycle."
+  },
+  {
+    "id": 179,
+    "type": "mcq",
+    "question": "Which of the following is a lipid?",
+    "options": [
+      "Triglyceride",
+      "Sucrose",
+      "Insulin",
+      "Guanine"
+    ],
+    "correct_answer": "Triglyceride",
+    "explanation": "[CONCEPT]\nMain constituent of body fat."
+  },
+  {
+    "id": 180,
+    "type": "mcq",
+    "question": "The study of genetic traits is:",
+    "options": [
+      "Genetics",
+      "Phylogeny",
+      "Ontogeny",
+      "Histology"
+    ],
+    "correct_answer": "Genetics",
+    "explanation": "[CONCEPT]\nFoundation of inheritance."
+  },
+  {
+    "id": 181,
+    "type": "mcq",
+    "question": "Which technique is used to detect specific RNA?",
+    "options": [
+      "Northern Blot",
+      "Western Blot",
+      "Southern Blot",
+      "ELISA"
+    ],
+    "correct_answer": "Northern Blot",
+    "explanation": "[CONCEPT]\nGene expression analysis."
+  },
+  {
+    "id": 182,
+    "type": "mcq",
+    "question": "What is the function of the vacuole?",
+    "options": [
+      "Storage.",
+      "Replication.",
+      "Movement.",
+      "Energy."
+    ],
+    "correct_answer": "Storage.",
+    "explanation": "[CONCEPT]\nStores water, ions, and nutrients."
+  },
+  {
+    "id": 183,
+    "type": "mcq",
+    "question": "Which of the following is an organelle?",
+    "options": [
+      "ER",
+      "Cytosol",
+      "DNA",
+      "ATP"
+    ],
+    "correct_answer": "ER",
+    "explanation": "[CONCEPT]\nMembrane-bound cellular structure."
+  },
+  {
+    "id": 184,
+    "type": "mcq",
+    "question": "What is the process of cell division in bacteria?",
+    "options": [
+      "Binary fission",
+      "Mitosis",
+      "Meiosis",
+      "Budding"
+    ],
+    "correct_answer": "Binary fission",
+    "explanation": "[CONCEPT]\nSimple asexual reproduction."
+  },
+  {
+    "id": 185,
+    "type": "mcq",
+    "question": "Which enzyme converts RNA to DNA?",
+    "options": [
+      "Reverse transcriptase",
+      "DNA polymerase",
+      "RNA polymerase",
+      "Endonuclease"
+    ],
+    "correct_answer": "Reverse transcriptase",
+    "explanation": "[CONCEPT]\nEssential for retroviruses."
+  },
+  {
+    "id": 186,
+    "type": "mcq",
+    "question": "The linkage in amylose is:",
+    "options": [
+      "Alpha-1,4",
+      "Alpha-1,6",
+      "Beta-1,4",
+      "Beta-1,2"
+    ],
+    "correct_answer": "Alpha-1,4",
+    "explanation": "[CONCEPT]\nLinear chain starch."
+  },
+  {
+    "id": 187,
+    "type": "mcq",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Hepatitis",
+      "Tetanus",
+      "Plague",
+      "Malaria"
+    ],
+    "correct_answer": "Hepatitis",
+    "explanation": "[CONCEPT]\nViral inflammation of the liver."
+  },
+  {
+    "id": 188,
+    "type": "mcq",
+    "question": "What is the site of transcription?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Golgi",
+      "Mitochondria"
+    ],
+    "correct_answer": "Nucleus",
+    "explanation": "[CONCEPT]\nWhere DNA resides in eukaryotes."
+  },
+  {
+    "id": 189,
+    "type": "mcq",
+    "question": "Which of the following is a prokaryote?",
+    "options": [
+      "Bacteria",
+      "Algae",
+      "Protozoa",
+      "Yeast"
+    ],
+    "correct_answer": "Bacteria",
+    "explanation": "[CONCEPT]\nMember of Monera."
+  },
+  {
+    "id": 190,
+    "type": "mcq",
+    "question": "What is the study of plants?",
+    "options": [
+      "Botany",
+      "Zoology",
+      "Entomology",
+      "Ornithology"
+    ],
+    "correct_answer": "Botany",
+    "explanation": "[CONCEPT]\nPlant science."
+  },
+  {
+    "id": 191,
+    "type": "mcq",
+    "question": "The hormone that reduces blood sugar is:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Adrenaline",
+      "Cortisol"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "[CONCEPT]\nSecreted by beta cells."
+  },
+  {
+    "id": 192,
+    "type": "mcq",
+    "question": "Which component is missing in RNA?",
+    "options": [
+      "Thymine",
+      "Adenine",
+      "Cytosine",
+      "Uracil"
+    ],
+    "correct_answer": "Thymine",
+    "explanation": "[CONCEPT]\nReplaced by Uracil."
+  },
+  {
+    "id": 193,
+    "type": "mcq",
+    "question": "What is the function of the cell wall?",
+    "options": [
+      "Rigidity.",
+      "Respiration.",
+      "Excretion.",
+      "Reproduction."
+    ],
+    "correct_answer": "Rigidity.",
+    "explanation": "[CONCEPT]\nPhysical support."
+  },
+  {
+    "id": 194,
+    "type": "mcq",
+    "question": "The study of immune systems is:",
+    "options": [
+      "Immunology",
+      "Virology",
+      "Bacteriology",
+      "Mycology"
+    ],
+    "correct_answer": "Immunology",
+    "explanation": "[CONCEPT]\nDefense mechanisms."
+  },
+  {
+    "id": 195,
+    "type": "mcq",
+    "question": "Which of the following is a greenhouse gas?",
+    "options": [
+      "Nitrous oxide",
+      "Argon",
+      "Helium",
+      "Oxygen"
+    ],
+    "correct_answer": "Nitrous oxide",
+    "explanation": "[CONCEPT]\nSignificant global warming potential."
+  },
+  {
+    "id": 196,
+    "type": "mcq",
+    "question": "What is the function of the nucleolus?",
+    "options": [
+      "rRNA synthesis.",
+      "Protein synthesis.",
+      "Lipid storage.",
+      "Cell movement."
+    ],
+    "correct_answer": "rRNA synthesis.",
+    "explanation": "[CONCEPT]\nSub-nuclear site for ribosome production."
+  },
+  {
+    "id": 197,
+    "type": "mcq",
+    "question": "Which enzyme unzips DNA?",
+    "options": [
+      "Helicase",
+      "Ligase",
+      "Polymerase",
+      "Gyrase"
+    ],
+    "correct_answer": "Helicase",
+    "explanation": "[CONCEPT]\nRepeat question for verification."
+  },
+  {
+    "id": 198,
+    "type": "mcq",
+    "question": "The building block of DNA is:",
+    "options": [
+      "Nucleotide",
+      "Amino acid",
+      "Fatty acid",
+      "Sugar"
+    ],
+    "correct_answer": "Nucleotide",
+    "explanation": "[CONCEPT]\nPhosphate-Sugar-Base."
+  },
+  {
+    "id": 199,
+    "type": "mcq",
+    "question": "What is the function of chloroplasts?",
+    "options": [
+      "Photosynthesis.",
+      "ATP production.",
+      "Protein folding.",
+      "Waste removal."
+    ],
+    "correct_answer": "Photosynthesis.",
+    "explanation": "[CONCEPT]\nCarbon fixation using sunlight."
+  },
+  {
+    "id": 200,
+    "type": "mcq",
+    "question": "Which of the following is a vector?",
+    "options": [
+      "Plasmid",
+      "Glucose",
+      "Starch",
+      "Insulin"
+    ],
+    "correct_answer": "Plasmid",
+    "explanation": "[CONCEPT]\nCommonly used in gene cloning."
+  }
+]

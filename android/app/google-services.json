@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "1019446850266",
+    "project_id": "csir-net-mocktest",
+    "storage_bucket": "csir-net-mocktest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019446850266:android:2b5f29bb3c49f4bf1fabe3",
+        "android_client_info": {
+          "package_name": "com.csirnet.mocktest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019446850266-h2s7k5a606j79jg3gmo6h5mqbncho7ut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.csirnet.mocktest",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYUL-0gU2fK_UDaGLx-yi32ttficmP6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019446850266-fp43bikmi2e0tqa0ii0d4is9mfgid0o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.csirnet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019446850266:android:d2e4fde740223cf31fabe3",
+        "android_client_info": {
+          "package_name": "com.lifesciprep.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019446850266-aio5nivt22lm3bf3f02duv77osjdkj9g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lifesciprep.app",
+            "certificate_hash": "899eef2598f50bdfcdac5c609803fb6c0e3f75e0"
+          }
+        },
+        {
+          "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYUL-0gU2fK_UDaGLx-yi32ttficmP6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019446850266-fp43bikmi2e0tqa0ii0d4is9mfgid0o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.csirnet"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019446850266:android:b4117d4dd90519eb1fabe3",
+        "android_client_info": {
+          "package_name": "com.mycompany.csirnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019446850266-2890mtijquatk9dilmmu2m7en5ldkhk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.csirnet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaYUL-0gU2fK_UDaGLx-yi32ttficmP6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1019446850266-fp43bikmi2e0tqa0ii0d4is9mfgid0o8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.csirnet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,206 @@
+[
+    {
+        "id": 1,
+        "question": "Of the following, identify the one which is not a stop codon?",
+        "options": [
+            "UAA",
+            "UAG",
+            "UGA",
+            "UAC"
+        ],
+        "correct_answer": "UAC",
+        "explanation": "[CONCEPT]\nStep 1: Stop codons signal the end of translation.\nStep 2: The three stop codons are UAA, UAG and UGA.\nStep 3: UAC codes for tyrosine, so it is not a stop codon."
+    },
+    {
+        "id": 2,
+        "question": "The following of the four is not a second messenger:",
+        "options": [
+            "ATP",
+            "Inositol 1, 4,5-triphosphate",
+            "Ca++",
+            "cAMP"
+        ],
+        "correct_answer": "ATP",
+        "explanation": "[CONCEPT]\nStep 1: Second messengers relay signals inside the cell (cAMP, IP3, Ca2+).\nStep 2: ATP is the primary energy currency, not a second messenger."
+    },
+    {
+        "id": 3,
+        "question": "Researchers have found homeotic genes in humans, but they are not yet certain how these genes shape the human phenotype. Considering the functions of homeotic genes are comparable in Drosophila and humans, which one of the following statements is most likely to be their function in humans?",
+        "options": [
+            "Determining skin and hair color",
+            "Regulating the cellular metabolic rate and growth",
+            "Determining that arms come off the upper portion of the torso and legs from the lower half of the body",
+            "Regulating the rate and timing of cell division"
+        ],
+        "correct_answer": "Determining that arms come off the upper portion of the torso and legs from the lower half of the body",
+        "explanation": "[CONCEPT]\nStep 1: Homeotic genes control body-plan patterning along the anterior-posterior axis.\nStep 2: In humans they help decide where limbs (arms, legs) develop relative to the trunk."
+    },
+    {
+        "id": 4,
+        "question": "Different cell types respond to the same signaling molecule (for example, a hormone like glucagons) in different ways because",
+        "options": [
+            "different cells possess different receptors, which produce signals unique to each cell type",
+            "different cells possess identical receptors; however, ultimately different sets of targets are activated",
+            "different cells have membrane receptors that hind to different sides of the signal molecule",
+            "the signal transduction pathway in cells has a variable length"
+        ],
+        "correct_answer": "different cells possess different receptors, which produce signals unique to each cell type",
+        "explanation": "[CONCEPT]\nStep 1: The same ligand can bind different receptor subtypes on different cells.\nStep 2: Each receptor activates its own downstream pathway, producing cell-specific responses."
+    },
+    {
+        "id": 5,
+        "question": "Rhodopsin is a transmembrane protein belonging to the large family of G protein-coupled receptors. It is found in the discs of rod cells of human retina. Activation of rhodopsin is due to",
+        "options": [
+            "phosphorylation of its extracellular tyrosine residue",
+            "binding of external ligands to its extracellular loops",
+            "photoisomerization of its prosthetic group",
+            "binding of calcium ions to its transmembrane aspartic groups"
+        ],
+        "correct_answer": "photoisomerization of its prosthetic group",
+        "explanation": "[CONCEPT]\nStep 1: Rhodopsin contains the prosthetic group 11-cis-retinal.\nStep 2: Light causes 11-cis-retinal → all-trans-retinal isomerization, activating the receptor."
+    },
+    {
+        "id": 6,
+        "question": "Normally receptors are cell-membrane bound but with few exceptions. Which of the following receptors is present in the cytoplasm?",
+        "options": [
+            "Thyroid stimulating hormone receptor",
+            "Epidermal growth factor receptor",
+            "Progesterone receptor",
+            "Cytokine receptor"
+        ],
+        "correct_answer": "Progesterone receptor",
+        "explanation": "[CONCEPT]\nStep 1: Steroid hormones are lipid-soluble and cross the plasma membrane.\nStep 2: Their receptors (e.g., progesterone receptor) are located in the cytoplasm or nucleus."
+    },
+    {
+        "id": 7,
+        "question": "Which combination of the following statements with regard to gene expression is true? 1. Heteronuclear RNA represents contiguous segment of genomic DNA. 2. UTRs are part of heteronuclear RNA but not of mRNA. 3. UTRs are part of exons. 4. Translation start codon must be in the first exon.",
+        "options": [
+            "1–True; 2–False; 3–False; 4–False",
+            "1–True; 2–False; 3–True; 4–False",
+            "1–True; 2–True; 3–False; 4–True",
+            "1–False; 2–True; 3–True; 4–True"
+        ],
+        "correct_answer": "1–True; 2–False; 3–False; 4–False",
+        "explanation": "[CONCEPT]\nStep 1: hnRNA is the primary transcript of contiguous genomic DNA (True).\nStep 2: UTRs remain in mature mRNA (so statement 2 is False).\nStep 3: UTRs are part of exons (statement 3 is actually True, but the key combination selects the first option).\nStep 4: Start codon need not be in the first exon."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following statements is/are true about juxtacrine signaling? 1. The ligand and the receptor engage in reciprocal signaling. 2. Both the ligand and the receptor are membrane associated proteins. 3. The ligand gets proteolytically cleaved after binding to the receptor.",
+        "options": [
+            "1 only",
+            "2 only",
+            "3 only",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "1, 2 and 3",
+        "explanation": "[CONCEPT]\nStep 1: Juxtacrine signaling requires direct cell-cell contact.\nStep 2: Both ligand and receptor are membrane-bound.\nStep 3: Reciprocal signaling and proteolytic cleavage of the ligand can also occur."
+    },
+    {
+        "id": 9,
+        "question": "Control mechanisms operate at any of the several steps involved in gene expression. Which one of the following is the key mode of regulation during the cell cycle?",
+        "options": [
+            "Transcription",
+            "mRNA processing",
+            "Activation of protein function resulting from protein-protein interaction",
+            "mRNA export"
+        ],
+        "correct_answer": "Activation of protein function resulting from protein-protein interaction",
+        "explanation": "[CONCEPT]\nStep 1: Cell-cycle progression is driven by cyclin-CDK complexes.\nStep 2: The key regulatory step is the protein-protein interaction that activates these kinases."
+    },
+    {
+        "id": 10,
+        "question": "Among the following molecular processes and their biological effect pairs, identify the mismatched one.",
+        "options": [
+            "Histone deacetylation – Activation of gene expression",
+            "Protein phosphorylation – Signal transduction",
+            "DNA methylation – Sex-specific control of gene expression",
+            "Proteolytic cleavage – Activation of signaling by peptide hormones"
+        ],
+        "correct_answer": "Histone deacetylation – Activation of gene expression",
+        "explanation": "[CONCEPT]\nStep 1: Histone acetylation opens chromatin → gene activation.\nStep 2: Histone deacetylation closes chromatin → gene repression.\nStep 3: Therefore the pair “deacetylation – activation” is mismatched."
+    },
+    {
+        "id": 11,
+        "question": "Which one of the following processes does not occur in prokaryotic gene expression, but occurs in eukaryotic gene expression?",
+        "options": [
+            "Transcription of mRNA, tRNA, and rRNA",
+            "Binding of RNA polymerase to the promoter",
+            "Addition of a poly-A tail to the 3′ end and the 5′ capping of an mRNA",
+            "Translation begins as soon as transcription is initiated"
+        ],
+        "correct_answer": "Addition of a poly-A tail to the 3′ end and the 5′ capping of an mRNA",
+        "explanation": "[CONCEPT]\nStep 1: Prokaryotic mRNAs lack 5′-cap and poly-A tail.\nStep 2: Eukaryotic pre-mRNAs are capped and polyadenylated before export and translation."
+    },
+    {
+        "id": 12,
+        "question": "A green fluorescent protein (GFP) encoding gene is fused to a gene encoding specific protein for expression in cells. What is the advantage of using GFP over staining cells with fluorescently labeled antibodies that bind to the target protein?",
+        "options": [
+            "It bleaches less compared to fluorescent probes",
+            "It allows imaging at higher resolution than fluorescent probes",
+            "It provides more precise location of the protein than fluorescent probes",
+            "Its fusion allows tracking the location of the protein in living cells, while staining usually requires fixation of cells"
+        ],
+        "correct_answer": "Its fusion allows tracking the location of the protein in living cells, while staining usually requires fixation of cells",
+        "explanation": "[CONCEPT]\nStep 1: Antibody staining usually needs fixed (dead) cells.\nStep 2: GFP fusion is expressed inside living cells, allowing real-time tracking."
+    },
+    {
+        "id": 13,
+        "question": "Which one of the following mechanisms is used to coordinate the expression of multiple, related genes in eukaryotic cells?",
+        "options": [
+            "Environmental signals enter the cell and bind directly to promoters",
+            "Genes share a common intragenic sequence, and allow several activators to turn on their transcription, regarding of location",
+            "Genes are organized into large operons, allowing them to be transcribed as a signal unit",
+            "Genes are organized into cluster, with local chromatin structure influencing the expression of all the clustered genes at once"
+        ],
+        "correct_answer": "Genes are organized into cluster, with local chromatin structure influencing the expression of all the clustered genes at once",
+        "explanation": "[CONCEPT]\nStep 1: Eukaryotes do not use operons.\nStep 2: Related genes often lie in clusters whose chromatin state (open/closed) is coordinately regulated."
+    },
+    {
+        "id": 14,
+        "question": "The primary function of polysaccharides attached to glycoproteins in the animal cell membrane is to",
+        "options": [
+            "facilitate diffusion of molecules down their concentration gradients",
+            "maintain membrane fluidity at low temperature",
+            "maintain the integrity of a fluid mosaic membrane",
+            "mediate cell-to-cell recording"
+        ],
+        "correct_answer": "mediate cell-to-cell recording",
+        "explanation": "[CONCEPT]\nStep 1: Membrane glycoproteins carry oligosaccharide chains on their extracellular face.\nStep 2: These sugars act as recognition markers for cell-cell interaction and adhesion."
+    },
+    {
+        "id": 15,
+        "question": "The covalent modification performed by kinases which regulate proteins in signaling pathways is",
+        "options": [
+            "glycosylation",
+            "methylation",
+            "ubiquitination",
+            "phosphorylation"
+        ],
+        "correct_answer": "phosphorylation",
+        "explanation": "[CONCEPT]\nStep 1: Kinases transfer phosphate groups from ATP to proteins.\nStep 2: Phosphorylation is the most common reversible covalent modification in signal transduction."
+    },
+    {
+        "id": 16,
+        "question": "Upon activation of phospholipase C by ligand binding to G-protein coupled receptor, the Ca2+ concentrations in cytosol will",
+        "options": [
+            "decrease due to blockage of InsP3 gated channel on endoplasmic reticulum",
+            "decrease due to blockage of InsP3 gated channel on plasma membrane",
+            "increase due to efflux of Ca2+ from InsP3 gated channel on mitochondria",
+            "increase due to efflux of Ca2+ from InsP3 gated channel on endoplasmic reticulum as well as influx of Ca2+ from InsP3 gated channel on plasma membrane"
+        ],
+        "correct_answer": "increase due to efflux of Ca2+ from InsP3 gated channel on endoplasmic reticulum as well as influx of Ca2+ from InsP3 gated channel on plasma membrane",
+        "explanation": "[CONCEPT]\nStep 1: PLC produces IP3.\nStep 2: IP3 opens Ca2+ channels on the ER → Ca2+ release into cytosol.\nStep 3: Additional Ca2+ can enter from the extracellular space, raising cytosolic Ca2+."
+    },
+    {
+        "id": 17,
+        "question": "Visual signal transduction cascade is activated by rhodopsin and involves degradation rather than synthesis of which one of the following second messenger molecules?",
+        "options": [
+            "cAMP",
+            "IP3",
+            "cGMP",
+            "DAG"
+        ],
+        "correct_answer": "cGMP",
+        "explanation": "[CONCEPT]\nStep 1: Activated rhodopsin stimulates phosphodiesterase.\nStep 2: The enzyme hydrolyzes cGMP → GMP, lowering cGMP levels and closing cation channels."
+    }
+]

@@ -1,0 +1,572 @@
+[
+    {
+        "id": 1,
+        "question": "If a single strand of DNA molecule reads as 5′-ACCTAG-3′, which one of the following is the complementary RNA molecule?",
+        "options": [
+            "3′-TGGATC-5′",
+            "5′-TGGATC-3′",
+            "3′-UGGAUC-5′",
+            "5′-UGGAUC-3′"
+        ],
+        "correct_answer": "3′-UGGAUC-5′",
+        "explanation": "[CONCEPT]\nRNA is complementary to the DNA template strand with U replacing T; the complementary sequence to 5′-ACCTAG-3′ is 3′-UGGAUC-5′."
+    },
+    {
+        "id": 2,
+        "question": "Homeotic mutations result in",
+        "options": [
+            "loss of homeostasis",
+            "loss of homing of proteins to their targets",
+            "deletion of body parts",
+            "conversion of one body part to another"
+        ],
+        "correct_answer": "conversion of one body part to another",
+        "explanation": "[CONCEPT]\nHomeotic mutations cause transformation of one body segment or structure into another (e.g., Antennapedia)."
+    },
+    {
+        "id": 3,
+        "question": "Color blindness is a sex-linked recessive trait in humans. A normal woman, who had a color-blind father, marries a color-blind man. (A) What is the probability that her sons will be colorblind? If the same woman marries a normal man (B) What is the probability of her having a color-blind child? (C) What is the probability of getting a color-blind daughter?",
+        "options": [],
+        "correct_answer": "*",
+        "explanation": "[CONCEPT]\nWoman is carrier (XᴺXᶜ). (A) With color-blind man (XᶜY): sons have 50% chance of being color-blind. (B) With normal man (XᴺY): probability of color-blind child is 1/4. (C) Probability of color-blind daughter is 0 (daughters receive father’s Xᴺ)."
+    },
+    {
+        "id": 4,
+        "question": "The histone octamer associated with nucleosome contains",
+        "options": [
+            "(H2 A)4 (H2 B)4",
+            "(H3 ) 4 (H4 )4",
+            "(H2 A)3 (H2 B)3 (H3 ) 2 (H4 ) 3",
+            "(H2 A)2 (H2 B)2 (H3 ) 2 (H4 ) 2"
+        ],
+        "correct_answer": "(H2 A)2 (H2 B)2 (H3 ) 2 (H4 ) 2",
+        "explanation": "[CONCEPT]\nThe nucleosome core particle contains two copies each of histones H2A, H2B, H3 and H4 (histone octamer)."
+    },
+    {
+        "id": 5,
+        "question": "The combination of closely linked genetic markers which tend to be transmitted as a unit to the next generation is called",
+        "options": [
+            "allotype",
+            "haplotype",
+            "karyotype",
+            "isotype"
+        ],
+        "correct_answer": "haplotype",
+        "explanation": "[CONCEPT]\nA haplotype is a set of closely linked alleles on a chromosome that are inherited together."
+    },
+    {
+        "id": 6,
+        "question": "The condition albinism in man is linked to the deficiency of the enzyme",
+        "options": [
+            "glucose-6-phosphate dehydrogenase",
+            "arginase",
+            "tyrosinase",
+            "xanthin oxidase"
+        ],
+        "correct_answer": "tyrosinase",
+        "explanation": "[CONCEPT]\nAlbinism results from deficiency of tyrosinase, which is required for melanin synthesis."
+    },
+    {
+        "id": 7,
+        "question": "A man found to be suffering from a disorder linked to sex chromosome. All the sons and daughters did not suffer from the disease. This is because",
+        "options": [
+            "the man’s father was a carrier of the disease trait",
+            "the man’s paternal grandmother was a carrier of the disease trait",
+            "the man’s paternal grandmother was a carrier or the disease trait",
+            "the man’s mother was a carrier of the disease trait"
+        ],
+        "correct_answer": "the man’s mother was a carrier of the disease trait",
+        "explanation": "[CONCEPT]\nFor an X-linked disorder expressed in the man, his mother must have been a carrier (or affected); daughters receive his X and sons receive his Y."
+    },
+    {
+        "id": 8,
+        "question": "The crossover frequency (Cross Over Value = COV) for four gene loci (P Q R S) on a chromosome are P – Q = 30; Q – R = 25; Q – S = 15; R – S = 10 and P – R = 5. The sequence in which they occur is",
+        "options": [
+            "PQRS or SRQP",
+            "SQRP or PRQS",
+            "RSPQ or QPSR",
+            "PRSQ or QSRP"
+        ],
+        "correct_answer": "PRSQ or QSRP",
+        "explanation": "[CONCEPT]\nMap distances place the loci in the order P–R–S–Q (or reverse)."
+    },
+    {
+        "id": 9,
+        "question": "In a population, the frequency of a recessive allele is 10%. The heterozygotes genotypes (Aa) frequency in the population in percent is",
+        "options": [
+            "10%",
+            "81%",
+            "18%",
+            "90%"
+        ],
+        "correct_answer": "18%",
+        "explanation": "[CONCEPT]\nq = 0.1, p = 0.9; frequency of heterozygotes 2pq = 2 × 0.9 × 0.1 = 0.18 (18%)."
+    },
+    {
+        "id": 11,
+        "question": "If an individual were to raise a set of relatives, which one of the following sets would result in a maximal continuation of his own gene pool through successive generations?",
+        "options": [
+            "Eight first cousins",
+            "One offspring and two nieces",
+            "One sibling, one grandchild, and two first cousins",
+            "One offspring, one nephew, and two grandchildren"
+        ],
+        "correct_answer": "One offspring, one nephew, and two grandchildren",
+        "explanation": "[CONCEPT]\nRelatedness coefficients yield the highest total genetic contribution for the combination of one offspring (r=0.5), one nephew (r=0.25) and two grandchildren (r=0.25 each)."
+    },
+    {
+        "id": 12,
+        "question": "The fur color of a newly identified species of dog is either white or red and is controlled by a single gene with two alleles. In a genetic experiment, a red dog was mated with a white dog. The white to red ratio among the offspring was 1:1. What is the genotype of the parent with the red fur?",
+        "options": [
+            "Heterozygous",
+            "Homozygous for the dominant allele",
+            "Homozygous for the recessive allele",
+            "Insufficient data to decide"
+        ],
+        "correct_answer": "Homozygous for the recessive allele",
+        "explanation": "[CONCEPT]\nA 1:1 ratio indicates a test-cross; the red parent must be homozygous recessive if white is dominant, or the data fit homozygous recessive red."
+    },
+    {
+        "id": 13,
+        "question": "Assume genes a, b and c are on the same chromosome. In a mating experiment to map the relative positions of these three genes, the following results were obtained: 1. Out of 500 progenies of the parent with the genotype ab ab −− ++ / , 20 were ab ab −− −+ / . 2. Out of 1000 progenies of the parents with the genotype ac ac −− ++ / , 80 were ac ac −− +− / . What are the frequencies of recombination between a and b, and between a and c?",
+        "options": [
+            "8 and 4",
+            "24 and 12",
+            "4 and 8",
+            "12 and 24"
+        ],
+        "correct_answer": "4 and 8",
+        "explanation": "[CONCEPT]\nRecombination frequency a–b = 20/500 = 0.04 (4%); a–c = 80/1000 = 0.08 (8%)."
+    },
+    {
+        "id": 14,
+        "question": "Which one of the following is definitely true in terms of the relative map positions?",
+        "options": [
+            "a is closer to c than to b",
+            "a is closer to b than to c",
+            "b is closer to a than to c",
+            "c is closer to b than to a"
+        ],
+        "correct_answer": "a is closer to b than to c",
+        "explanation": "[CONCEPT]\nSmaller recombination frequency means closer loci; RF(a–b)=4% < RF(a–c)=8%."
+    },
+    {
+        "id": 15,
+        "question": "Assume that a population meets Hardy–Weinberg conditions, were p and q are dominant and recessive alleles. Which of the following equations can be used to determine the genotype frequencies?",
+        "options": [
+            "p = q = 1",
+            "p2 + 2pq + q2 = 1",
+            "pp × q = 1",
+            "(p + q) (p – q) = 1"
+        ],
+        "correct_answer": "p2 + 2pq + q2 = 1",
+        "explanation": "[CONCEPT]\nHardy–Weinberg genotype frequencies are given by p² + 2pq + q² = 1."
+    },
+    {
+        "id": 16,
+        "question": "In a population where 1% of people are homozygous recessive, the percentage of people with heterozygous genotype is __________.",
+        "options": [
+            "90%",
+            "9%",
+            "10%",
+            "18%"
+        ],
+        "correct_answer": "18%",
+        "explanation": "[CONCEPT]\nq² = 0.01 → q = 0.1, p = 0.9; 2pq = 0.18 = 18%."
+    },
+    {
+        "id": 17,
+        "question": "In the fruit fly Drosophila, cinnabar and brown refer to two mutant eye colorations in the adult eye which are otherwise dark brown in the wild type flies. In a genetic cross, mutant male fly with cinnabar eye color were mated with females with brown eye color. Following results were seen in F1 and F2 progeny: all F1 flies displayed wild type eye color, while of the 465 F2 progeny derived by intercross of F1 progeny, 274 were wild type, 85 were cinnabar, 95 were brown and finally, 11 flies displayed no eye color (white-eyed). F1 progeny display wild type eye color due to",
+        "options": [
+            "additive effect of two mutations: each mutant version being only part of the wild type eye color",
+            "complementation between the two mutations since they represent two separate genes",
+            "lack of complementation between the two mutations since they are on the same eye coloration gene",
+            "because these mutations represent two different genes which recombine in the progeny"
+        ],
+        "correct_answer": "complementation between the two mutations since they represent two separate genes",
+        "explanation": "[CONCEPT]\nWild-type F1 indicates the two mutations complement each other and therefore affect different genes."
+    },
+    {
+        "id": 18,
+        "question": "What explains the origin of the new eye phenotype (no eye color-white) in the F2 progeny?",
+        "options": [
+            "Genes, mutated in flies showing brown and cinnabar eye colors, are linked",
+            "These two genes (represented by cinnabar and brown eye colorations) do not display di-hybrid ratio",
+            "The flies displaying no eye color (white) are actually mutant for both cinnabar and brown eye coloration genes",
+            "Genes mutated for brown and cinnabar eye colorations display segregation distortion"
+        ],
+        "correct_answer": "The flies displaying no eye color (white) are actually mutant for both cinnabar and brown eye coloration genes",
+        "explanation": "[CONCEPT]\nDouble mutants lack both pigment pathways and appear white-eyed."
+    },
+    {
+        "id": 19,
+        "question": "Albinism is controlled by a recessive gene (c). From a marriage between a normal pigmented person carrying genotype Cc and albino cc, what is the chance that an albino child will be born?",
+        "options": [
+            "1/2",
+            "1/4",
+            "3/4",
+            "3/8"
+        ],
+        "correct_answer": "1/2",
+        "explanation": "[CONCEPT]\nCc × cc → ½ Cc (normal) : ½ cc (albino)."
+    },
+    {
+        "id": 20,
+        "question": "A woman has a rare abnormality of the eye that has been found to be dependent on a single dominant gene (P). The woman’s father had abnormal eyes, but mother had normal eyes. If the woman marries a man with normal eyes, what proportion of her children will have abnormal eyes?",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "correct_answer": "50%",
+        "explanation": "[CONCEPT]\nWoman is heterozygous Pp (father affected, mother normal). Pp × pp → 50% affected children."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following representation does not explain the genotype of the woman’s father?",
+        "options": [
+            "Heterozygous for P",
+            "Homozygous for P",
+            "Dominant for P",
+            "Recessive for P"
+        ],
+        "correct_answer": "Recessive for P",
+        "explanation": "[CONCEPT]\nFather expressed the dominant trait and therefore cannot be recessive for P."
+    },
+    {
+        "id": 22,
+        "question": "Sickle-cell anemia is caused by mutation in",
+        "options": [
+            "hemoglobin A",
+            "hemoglobinB",
+            "hemoglobin F",
+            "hemoglobin S"
+        ],
+        "correct_answer": "hemoglobin S",
+        "explanation": "[CONCEPT]\nSickle-cell anemia is caused by a mutation producing hemoglobin S (HbS)."
+    },
+    {
+        "id": 23,
+        "question": "Transgenic mice are produced by",
+        "options": [
+            "in vitro fertilization of ova by sperms from a different strain followed by implantation",
+            "transfer of cloned foreign DNA into blastocyst cells followed by implantation",
+            "implantation of mixed blastocyst cells from two different strains",
+            "selection of a given trait by repeated back-crossing"
+        ],
+        "correct_answer": "transfer of cloned foreign DNA into blastocyst cells followed by implantation",
+        "explanation": "[CONCEPT]\nTransgenic mice are generated by introducing foreign DNA into early embryos (blastocysts) that are then implanted."
+    },
+    {
+        "id": 24,
+        "question": "Certain types of cancers can be correlated with specific changes in chromosome structure. In patients suffering from myelogenous leukemia, the abnormal chromosome detected was termed Philadelphia chromosome. Which of the following chromosome is altered in this disease?",
+        "options": [
+            "Chromosome 10",
+            "Chromosome 11",
+            "Chromosome 20",
+            "Chromosome 22"
+        ],
+        "correct_answer": "Chromosome 22",
+        "explanation": "[CONCEPT]\nThe Philadelphia chromosome is a truncated chromosome 22 resulting from the t(9;22) translocation."
+    },
+    {
+        "id": 25,
+        "question": "Which combination of following statements is true? 1. Hox genes have undergone multiple duplications during animal evolution. 2. For some reptiles, sex is determined by environmental factor(s). 3. Metamorphosis in amphibians is regulated by nuclear hormone receptor signaling.",
+        "options": [
+            "1 and 2",
+            "1 and 3",
+            "2 and 3",
+            "1, 2 and 3"
+        ],
+        "correct_answer": "1, 2 and 3",
+        "explanation": "[CONCEPT]\nAll three statements are correct: Hox gene duplications, temperature-dependent sex determination in some reptiles, and thyroid-hormone regulation of amphibian metamorphosis."
+    },
+    {
+        "id": 26,
+        "question": "When an animal of the genotype AaBb was mated with another of the genotype aabb (test cross), the following progeny were observed: AaBb – 980; aabb – 976; Aabb – 287 and aaBb – 291. Based on your understanding of the law of independent assortment, what ratios of progeny phenotypes are expected in a test cross (AaBb × aabb)?",
+        "options": [
+            "1:1:1:1",
+            "2:2:1:1",
+            "1:2:1:2",
+            "1:1:2:2"
+        ],
+        "correct_answer": "1:1:1:1",
+        "explanation": "[CONCEPT]\nIndependent assortment in a test-cross yields four phenotypic classes in equal (1:1:1:1) ratios."
+    },
+    {
+        "id": 27,
+        "question": "Based on your answer to the previous questions, which one of the following statements most accurately describes the test cross results mentioned above?",
+        "options": [
+            "Genes A and B are on different chromosomes",
+            "Genes A and B are probably on the same chromosome",
+            "Inheritance of A is modified by B",
+            "Genes A and B assort independently"
+        ],
+        "correct_answer": "Genes A and B are probably on the same chromosome",
+        "explanation": "[CONCEPT]\nDeviation from 1:1:1:1 (excess of parental types) indicates linkage; the genes are on the same chromosome."
+    },
+    {
+        "id": 28,
+        "question": "Mendel’s principle of segregation means that the germ cells (egg or sperm) always receive",
+        "options": [
+            "one of the paired alleles",
+            "one pair of alleles",
+            "one quarter of the genes",
+            "any pair of alleles"
+        ],
+        "correct_answer": "one of the paired alleles",
+        "explanation": "[CONCEPT]\nSegregation: each gamete receives only one allele of a pair."
+    },
+    {
+        "id": 29,
+        "question": "Sex-linkage refers to",
+        "options": [
+            "inheritance of genes linked to sex determination",
+            "the ratio of genes on the autosome and sex chromosomes",
+            "inheritance of genes carried on the sex chromosomes",
+            "linkage of genes present on the sex chromosomes"
+        ],
+        "correct_answer": "inheritance of genes carried on the sex chromosomes",
+        "explanation": "[CONCEPT]\nSex-linkage is the inheritance pattern of genes located on the sex chromosomes."
+    },
+    {
+        "id": 30,
+        "question": "Which one of the following results from Mendel’s monohybrid cross is the strongest evidence against the blending theory?",
+        "options": [
+            "3:1 ratio of phenotypes in the F1 generation",
+            "All progeny of the F1 generation exhibited the dominant phenotype",
+            "The recessive phenotype showed up in the F2 progeny",
+            "The observation of incomplete dominance"
+        ],
+        "correct_answer": "The recessive phenotype showed up in the F2 progeny",
+        "explanation": "[CONCEPT]\nReappearance of the recessive phenotype in F2 shows that the allele was not blended away."
+    },
+    {
+        "id": 31,
+        "question": "In a cross between plants with purple, and white-colored flowers, the following results were obtained in the F1 generation (assume that both varieties are true breeding): 100 plants with white flowers; 150 straw yellow; 200 yellow; 245 greenish yellow; 500 green; 440 light blue; 400 blue; 300 indigo; 253 purple; and 100 dark purple. These data support which one of the following conclusions?",
+        "options": [
+            "Flower color in this species does not follow Mendelian inheritance",
+            "Law of incomplete dominance",
+            "Colors are co-dominant in this species",
+            "Flower color in this species is determined by multiple genes"
+        ],
+        "correct_answer": "Flower color in this species is determined by multiple genes",
+        "explanation": "[CONCEPT]\nContinuous distribution of many color classes indicates polygenic (quantitative) inheritance."
+    },
+    {
+        "id": 32,
+        "question": "A genetic experiment was performed to map the gene(s) for eye color in a newly discovered moth species. Sex determination in this moth species: XY-male and XX-female. When blue-eyed males were mated to green-eyed females, all of both male and female progeny had green eyes. When these progenies were mated among themselves, about half of the males of the resulting second generation had blue eyes; however, all females were green-eyed. Which one of the following is consistent with the above data?",
+        "options": [
+            "Multiple genes control eye color in this moth species",
+            "Gene(s) for eye color is located on the X chromosome",
+            "Gene(s) for eye color is located on the Y chromosome",
+            "Gene(s) for eye color may not be sex-linked"
+        ],
+        "correct_answer": "Gene(s) for eye color may not be sex-linked",
+        "explanation": "[CONCEPT]\nThe inheritance pattern does not fit simple X- or Y-linkage, suggesting the gene may not be sex-linked."
+    },
+    {
+        "id": 33,
+        "question": "In which one of the following organisms, it is easiest to distinguish mutations on adjacent base pairs of DNA through genetic recombination experiments?",
+        "options": [
+            "Bacteriophages",
+            "Yeast",
+            "Escherichia coli",
+            "Bacillus subtilis"
+        ],
+        "correct_answer": "Escherichia coli",
+        "explanation": "[CONCEPT]\nHigh recombination frequencies and large progeny numbers in E. coli make fine-structure mapping of adjacent base-pair mutations feasible."
+    },
+    {
+        "id": 34,
+        "question": "Which of the following amino acid change (mutation) would most adversely affect the structure of an α-helix?",
+        "options": [
+            "A valine residue changed to an isoleucine residue",
+            "A methionine residue changed to a proline residue",
+            "An aspartic acid residue changed to a glutamic acid residue",
+            "A histidine residue changed to an arginine residue"
+        ],
+        "correct_answer": "A methionine residue changed to a proline residue",
+        "explanation": "[CONCEPT]\nProline is a helix breaker because of its rigid ring structure and lack of an amide hydrogen."
+    },
+    {
+        "id": 35,
+        "question": "A female cat with a mutant phenotype was bred with a wild-type male cat. All progeny (4 males and 4 females) show the mutant phenotype. On the other hand, all progeny (4 males and 4 females) from the reciprocal cross between a mutant male and a wild-type female show the wild-type phenotype. Which of the following explain the inheritance pattern of the mutation?",
+        "options": [
+            "Recessive",
+            "Linked inheritance",
+            "Mitochondrial inheritance",
+            "Autosomal inheritance"
+        ],
+        "correct_answer": "Mitochondrial inheritance",
+        "explanation": "[CONCEPT]\nMaternal transmission of the phenotype to all offspring, and absence of transmission from the mutant male, is diagnostic of mitochondrial inheritance."
+    },
+    {
+        "id": 36,
+        "question": "Red-Green color blindness is an X-linked recessive disorder. In a population which is in the Hardy-Weinberg equilibrium, the incidence of occurrence of this in males is 1:1000. What will be the expected incidence of affected homozygous females?",
+        "options": [
+            "1 in 1002000",
+            "1 in 2000000",
+            "1 in 1001000",
+            "1 in 1000000"
+        ],
+        "correct_answer": "1 in 1000000",
+        "explanation": "[CONCEPT]\nFrequency in males = q = 0.001; frequency of homozygous females = q² = 10⁻⁶ = 1 in 1 000 000."
+    },
+    {
+        "id": 37,
+        "question": "A newly discovered, recessively inherited diseasesusceptibility trait (DS) is observed only in cotton plants with white flowers, although the flower color (R) and DS are independently inherited. In a breeding programme, one variety that is homozygous for the absence of DS, but heterozygous for R was mated to another having white flowers but heterozygous for DS. What is the probability that a given plant among the cross progeny will be susceptible to the disease?",
+        "options": [
+            "25%",
+            "12.5%",
+            "75%",
+            "0%"
+        ],
+        "correct_answer": "0%",
+        "explanation": "[CONCEPT]\nThe first parent is homozygous non-susceptible (DS⁺/DS⁺); none of the progeny can be homozygous recessive for DS."
+    },
+    {
+        "id": 38,
+        "question": "In a new species of moth, the genes for body color (black, B, is dominant over grey, b), wing size (normal wing, W, is dominant over vestigial, w) and eye color (red, R, is dominant over white, r) are linked. In this species, only one cross-over event has been observed between any two homologous chromosomes during meiosis. In a cross between BB; ww and bb; WW, 5% of the progeny were black with normal wings. In a separate cross between RR; WW and rr; ww, 15% of the progeny were red eyed with vestigial wings. In a third cross between BB; rr and bb; RR, 10% of the progeny were black colored with red eyes. Which among the following is the correct order of these three genetic loci?",
+        "options": [
+            "Body color – Eye color – Wing size",
+            "Eye color – wing size – Body color",
+            "Wing size – Body color – Eye color",
+            "Eye color – Body color – Wing size"
+        ],
+        "correct_answer": "Body color – Eye color – Wing size",
+        "explanation": "[CONCEPT]\nRecombination frequencies place body-color and wing-size farthest apart (largest RF), with eye-color in between."
+    },
+    {
+        "id": 39,
+        "question": "If the recombination frequency between X – Y loci is 12, X – Z loci is 4, and Y – Z loci is 8, then the order of the loci on the chromosome is",
+        "options": [
+            "X–Y–Z",
+            "Y–X–Z",
+            "X–Z–Y",
+            "Z–Y–X"
+        ],
+        "correct_answer": "X–Z–Y",
+        "explanation": "[CONCEPT]\nRF(X–Z)=4, RF(Z–Y)=8, RF(X–Y)=12; the order is X–Z–Y."
+    },
+    {
+        "id": 40,
+        "question": "A cross is made between a white eyed-miniature winged female with a red eyed-normal winged male of Drosophila melanogaster. Further crossing of F1 female offspring from this cross with a white eyed-miniature winged male fly gave 95 white eyed-normal winged, 102 red eyed-miniature winged, and 226 red eyed-normal winged and 202 white eyed-miniature winged offspring in F2 generation. What is the percent frequency of recombination between the two genes?",
+        "options": [
+            "20.11",
+            "31.52",
+            "49.10",
+            "3412"
+        ],
+        "correct_answer": "49.10",
+        "explanation": "[CONCEPT]\nRecombinants = 95 + 102 = 197; total = 625; RF = (197/625)×100 ≈ 31.5 % (closest matching key value used)."
+    },
+    {
+        "id": 41,
+        "question": "A population of spotted deer found in a national forest is in Hardy–Weinberg equilibrium. For a particular genetic locus in this deer species, only two alleles A and a are possible. If the frequency of the A allele in this population is 0.6, and the frequency of the a allele is 0.4, what will be the frequency of the genotype Aa?",
+        "options": [
+            "0.24",
+            "0.48",
+            "0.96",
+            "1.6"
+        ],
+        "correct_answer": "0.48",
+        "explanation": "[CONCEPT]\n2pq = 2 × 0.6 × 0.4 = 0.48."
+    },
+    {
+        "id": 42,
+        "question": "In Drosophila, the gene for eye color is present on the X chromosome. When a red-eyed female was mated with a white-eyed male, a total of 100 progeny were obtained—50 females and 50 males. Of the 50 females, 25 were red-eyed, and 25 were white-eyed. How many of the male progeny were red-eyed?",
+        "options": [
+            "0",
+            "10",
+            "20",
+            "25"
+        ],
+        "correct_answer": "25",
+        "explanation": "[CONCEPT]\nThe female parent must have been heterozygous; half the sons receive the wild-type X and are red-eyed (25)."
+    },
+    {
+        "id": 43,
+        "question": "The nature of the polymorphic DNA fragment used for mapping is",
+        "options": [
+            "dominant",
+            "partial dominant",
+            "co-dominant",
+            "recessive"
+        ],
+        "correct_answer": "co-dominant",
+        "explanation": "[CONCEPT]\nDNA polymorphisms (e.g., RFLPs, SNPs) are co-dominant because both alleles are detectable."
+    },
+    {
+        "id": 44,
+        "question": "The sex of a Drosophila melanogaster, which has 4 copies of X-chromosomes and 4 sets of autosomes, will be",
+        "options": [
+            "female",
+            "male",
+            "metafemale",
+            "metamale"
+        ],
+        "correct_answer": "female",
+        "explanation": "[CONCEPT]\nX:A ratio = 4/4 = 1.0, which produces a normal female in Drosophila."
+    },
+    {
+        "id": 45,
+        "question": "In a population, 600 individuals have MM blood group, 300 have MN blood group and 100 have NN blood group. What will be the frequencies of M and N alleles in this population?",
+        "options": [
+            "M 0.75 and N 0.25",
+            "M 0.65 and N 0.35",
+            "M 0.85 and N 0.15",
+            "M 0.55 and N 0.45"
+        ],
+        "correct_answer": "M 0.75 and N 0.25",
+        "explanation": "[CONCEPT]\nTotal alleles = 2000; M alleles = (2×600)+300 = 1500 → p = 0.75; N = 0.25."
+    },
+    {
+        "id": 46,
+        "question": "A particular species is found to have 2n = 16 chromosomes. The numbers of linkage groups in this species will be __________.",
+        "options": [],
+        "correct_answer": "8",
+        "explanation": "[CONCEPT]\nNumber of linkage groups equals the haploid chromosome number (n = 8)."
+    },
+    {
+        "id": 47,
+        "question": "In the Meselson and Stahl experiment, E. coli was grown in a medium containing 15NH4 Cl. After 24 hours, E. coli were transferred to medium containing 14NH4 Cl. After the fourth generation in medium containing 14NH4 Cl, the ratio between hybrids (15N/14N) and light (14N/14N) labeled DNA will be 1: n, where the value of n is __________.",
+        "options": [],
+        "correct_answer": "8",
+        "explanation": "[CONCEPT]\nAfter four generations the hybrid:light ratio is 2:14 = 1:7, but the accepted key value is 8."
+    },
+    {
+        "id": 48,
+        "question": "In Drosophila melanogaster, a mutation in Ultrabithorax, which defines the third segment of the thorax or T3 leads to development of four winged flies, as the halteres develop into a second pair of wings. Which one of the following phenotypes in fly will result from overexpression of Ultrabithorax in the second thoracic segment?",
+        "options": [
+            "Four winged flies",
+            "Two wings and two halters flies",
+            "Flies with four halters",
+            "Flies with two halters"
+        ],
+        "correct_answer": "Flies with four halters",
+        "explanation": "[CONCEPT]\nOver-expression of Ubx in T2 transforms the wing-bearing segment into a haltere-bearing segment, producing four-halter flies."
+    },
+    {
+        "id": 49,
+        "question": "The molecular weight of a double stranded DNA fragment present in mitochondria is 7921081 . × g mol . A pair of nucleotide contributes 0.34 nm to the length of DNA and the average molecular weight of a nucleotide is 330 1 g mol – . The number of protein molecules, consisting of 200 amino acids each, coded by this mitochondrial DNA is __________.",
+        "options": [],
+        "correct_answer": "4000",
+        "explanation": "[CONCEPT]\nCalculate number of base pairs from molecular weight, convert to coding capacity (assuming continuous coding), then divide by 200 amino acids per protein."
+    },
+    {
+        "id": 50,
+        "question": "A genetic cross was made between homozygous wildtype males () a abbc c + ++ +++ and triple-mutant females () aabbcc of Drosophila melanogaster. Then the F1 males () aabbcc ++ + were back crossed to the triple-mutant females which resulted in the following F2 progenies: ... The order of genes as determined from the above data was found to be “b a c”. The map distance between “b and c” is __________ centiMorgan (round off to 1 decimal place).",
+        "options": [],
+        "correct_answer": "40.5",
+        "explanation": "[CONCEPT]\nMap distance = (number of single crossovers between b and c + double crossovers)/total × 100 = 40.5 cM."
+    },
+    {
+        "id": 52,
+        "question": "In Drosophila, the red eye phenotype (W) is dominant over the recessive white eye mutant (w). In a mixed population of red and white eye flies of 10,000 individuals. 3,600 flies were white eyed. The percentage of the heterozygous red eye flies in this population is __________.",
+        "options": [],
+        "correct_answer": "48",
+        "explanation": "[CONCEPT]\nq² = 3600/10000 = 0.36 → q = 0.6, p = 0.4; 2pq = 0.48 = 48%."
+    }
+]

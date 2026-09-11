@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "question": "What role does acetosyringone play in the Agrobacterium-mediated gene transfer?",
+    "options": [
+      "Induces expression of vir genes",
+      "Attaches Agrobacterium to host plant cells",
+      "Transfers T-strand to plant cells",
+      "Induces site specific nicks in the bottom strand"
+    ],
+    "correct_answer": "Induces expression of vir genes",
+    "explanation": "[CONCEPT]\nStep 1: Acetosyringone is a wound-induced phenolic compound secreted by wounded dicot cells.\nStep 2: It is recognized by the membrane sensor kinase VirA, which autophosphorylates and transphosphorylates VirG, triggering transcription of the entire vir regulon."
+  },
+  {
+    "id": 2,
+    "question": "How many different kinds of matings can be made in a population containing two alleles (e.g. Y and y with genotypes YY, Yy, yy)?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "More than 8"
+    ],
+    "correct_answer": "6",
+    "explanation": "[CONCEPT]\nStep 1: With 2 alleles at a locus, there are 3 possible diploid genotypes: YY, Yy, and yy.\nStep 2: The number of distinct mating combinations (ignoring parent gender) is given by n(n+1)/2 = 3(4)/2 = 6 (YY×YY, YY×Yy, YY×yy, Yy×Yy, Yy×yy, yy×yy)."
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following should be considered a model plant for investigation in molecular genetics?",
+    "options": [
+      "Allium cepa",
+      "Haplopappus gracilis",
+      "Arabidopsis thaliana",
+      "Rhoeo discolor"
+    ],
+    "correct_answer": "Arabidopsis thaliana",
+    "explanation": "[CONCEPT]\nStep 1: Arabidopsis thaliana (thale cress, Brassicaceae) is the premier model plant organism.\nStep 2: It has a small sequenced diploid genome (~135 Mb), short life cycle (6 weeks), high fecundity, and high transformation efficiency."
+  },
+  {
+    "id": 4,
+    "question": "The physiologically receptor state in which a bacterial cell is able to take up exogenous DNA (transform) is called",
+    "options": [
+      "lysogenic.",
+      "competent.",
+      "sensitized.",
+      "inducible."
+    ],
+    "correct_answer": "competent.",
+    "explanation": "[CONCEPT]\nStep 1: Competence is the physiological state that permits a bacterial cell to take up foreign naked DNA across its cell envelope."
+  },
+  {
+    "id": 5,
+    "question": "The most widely used chemical for protoplast fusion, as a chemical fusogen, is",
+    "options": [
+      "mannitol.",
+      "polyethylene glycol (PEG).",
+      "sorbitol.",
+      "glycerol."
+    ],
+    "correct_answer": "polyethylene glycol (PEG).",
+    "explanation": "[CONCEPT]\nStep 1: Polyethylene glycol (PEG, MW 1500–6000) in the presence of high Ca²⁺ (pH 9–10) acts as the standard chemical fusogen for inducing somatic protoplast aggregation and fusion."
+  },
+  {
+    "id": 6,
+    "question": "Production of transgenic cotton resistant to lepidopteran insects utilizes a toxin-producing gene isolated from",
+    "options": [
+      "Pseudomonas fluorescens.",
+      "Bacillus thuringiensis.",
+      "Bipolaris maydis.",
+      "Clostridium tetani."
+    ],
+    "correct_answer": "Bacillus thuringiensis.",
+    "explanation": "[CONCEPT]\nStep 1: Bt cotton expresses crystalline delta-endotoxin genes (cry1Ac / cry2Ab) isolated from the soil bacterium Bacillus thuringiensis."
+  },
+  {
+    "id": 7,
+    "question": "Genetic engineering for male sterility in crops utilizes the ribonuclease gene",
+    "options": [
+      "aroA.",
+      "Barnase.",
+      "Bt.",
+      "Crtl."
+    ],
+    "correct_answer": "Barnase.",
+    "explanation": "[CONCEPT]\nStep 1: The Barnase-Barstar system (Mariani et al., 1990) expresses the cytotoxic ribonuclease Barnase (from Bacillus amyloliquefaciens) under a tapetum-specific promoter (TA29) to ablate tapetal cells and induce male sterility.\nStep 2: Fertility is restored in hybrids using Barstar (barnase inhibitor)."
+  },
+  {
+    "id": 8,
+    "question": "In protoplast somatic hybridization, a cybrid (cytoplasmic hybrid) is defined as a fusion product containing",
+    "options": [
+      "nuclear genomes from both parents and chloroplasts from one parent.",
+      "the nuclear genome of only one parent combined with the cytoplasmic genomes (chloroplasts/mitochondria) of both parents.",
+      "both nuclear genomes and both cytoplasmic genomes.",
+      "neither nuclear genome."
+    ],
+    "correct_answer": "the nuclear genome of only one parent combined with the cytoplasmic genomes (chloroplasts/mitochondria) of both parents.",
+    "explanation": "[CONCEPT]\nStep 1: Cybrids (cytoplasmic hybrids) possess the complete nuclear genome of one parent combined with the cytoplasm / extranuclear organelles (chloroplast/mitochondria) of both parents (or another parent)."
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Biolistic</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Agrobacterium</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Electroporation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Microinjection\n\nGroup II:\n1. Gene Pulser\n2. PDS-1000/He\n3. Micromanipulator\n4. Silicon carbide\n5. vir operons\n6. rol C</span></div></div>",
+    "options": [
+      "P–2; Q–5; R–1; S–3",
+      "P–2; Q–1; R–6; S–4",
+      "P–5; Q–6; R–2; S–4",
+      "P–1; Q–5; R–4; S–2"
+    ],
+    "correct_answer": "P–2; Q–5; R–1; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Biolistics uses PDS-1000/He helium gene gun (P–2).\nStep 2: Agrobacterium gene transfer relies on vir operons (Q–5).\nStep 3: Electroporation uses a Gene Pulser electrical apparatus (R–1).\nStep 4: Microinjection uses a precision Micromanipulator (S–3)."
+  },
+  {
+    "id": 10,
+    "question": "Which of the staining procedures is not followed to determine the viability of cultured cells?",
+    "options": [
+      "FDA (Fluorescein diacetate) staining",
+      "TTC (Triphenyl tetrazolium chloride) staining",
+      "Evan’s blue staining",
+      "Methyl blue staining"
+    ],
+    "correct_answer": "Methyl blue staining",
+    "explanation": "[CONCEPT]\nStep 1: FDA, TTC, and Evan's blue are standard vital exclusion/metabolic viability stains.\nStep 2: Methyl blue is a general histological dye and does not selectively differentiate viable from non-viable cells."
+  },
+  {
+    "id": 11,
+    "question": "The rol gene family (rolA, rolB, rolC, rolD) responsible for hairy root induction is present in",
+    "options": [
+      "Ri plasmid (of Agrobacterium rhizogenes).",
+      "Both Ri and Ti plasmid.",
+      "Ti plasmid.",
+      "pUC plasmid."
+    ],
+    "correct_answer": "Ri plasmid (of Agrobacterium rhizogenes).",
+    "explanation": "[CONCEPT]\nStep 1: The rol (root oncogenesis) genes reside on the T-DNA of the root-inducing (Ri) plasmid in Agrobacterium rhizogenes."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Transgenic plant):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Glyphosate resistance</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Insect resistance (Bollgard)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Delayed ripening</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Insect resistance (Yieldgard)\n\nGroup II (Relevant gene):\n1. psbA\n2. tfdA\n3. cry1Ac\n4. PG (antisense Polygalacturonase)\n5. cry1Ab\n6. aroA (CP4 EPSPS)</span></div></div>",
+    "options": [
+      "P–6; Q–3; R–4; S–5",
+      "P–1; Q–2; R–3; S–4",
+      "P–6; Q–5; R–1; S–3",
+      "P–2; Q–3; R–4; S–5"
+    ],
+    "correct_answer": "P–6; Q–3; R–4; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Glyphosate tolerance uses aroA / CP4 EPSPS (P–6).\nStep 2: Bollgard cotton uses cry1Ac (Q–3).\nStep 3: Flavr Savr delayed ripening uses antisense PG (R–4).\nStep 4: Yieldgard corn uses cry1Ab (S–5)."
+  },
+  {
+    "id": 13,
+    "question": "Which one of the following statements is not true for marker-assisted selection (MAS)?",
+    "options": [
+      "The ability to manipulate recessive genes and identify the heterozygotes.",
+      "A reduction in phenotypic screening and in the number of backcrosses.",
+      "Without the self-fertilization of individuals, heterozygotes cannot be identified.",
+      "Early detection of superior lines along with the ability to select multiple traits simultaneously."
+    ],
+    "correct_answer": "Without the self-fertilization of individuals, heterozygotes cannot be identified.",
+    "explanation": "[CONCEPT]\nStep 1: Co-dominant DNA markers (like SSRs, RFLPs, SNPs) can distinguish homozygous from heterozygous individuals directly at the seedling stage without requiring selfing progeny tests."
+  },
+  {
+    "id": 14,
+    "question": "The primary functions of the VirD2 protein in Agrobacterium-mediated transformation are",
+    "options": [
+      "sensing phenolic compounds and autophosphorylation.",
+      "forming the T-pilus conjugation channel.",
+      "nicking the T-DNA borders, attaching covalently to the 5′ end, and nuclear targeting via its NLS.",
+      "synthesis of opines in host cells."
+    ],
+    "correct_answer": "nicking the T-DNA borders, attaching covalently to the 5′ end, and nuclear targeting via its NLS.",
+    "explanation": "[CONCEPT]\nStep 1: VirD2 is a site-specific endonuclease that cleaves the bottom strand of T-DNA at the 25-bp border repeats.\nStep 2: It caps the 5′ end covalently, protects against nucleases, and guides the T-strand into the host nucleus via its nuclear localization signals (NLS)."
+  },
+  {
+    "id": 15,
+    "question": "A disease-free tomato plant was planted in soil contaminated with Agrobacterium tumefaciens harboring a Ti plasmid that lacks the virA gene. Provided all other conditions are optimum for bacterial infection, identify the appropriate consequences:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Octopine synthesis by the bacterium will enhance.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Acetosyringone receptor will not be synthesized.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The bacteria will fail to transfer the T-DNA to the plant.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>A fragmented T-DNA will be transferred to the tomato plant.</span></div></div>",
+    "options": [
+      "P, S",
+      "Q, S",
+      "P, R",
+      "Q, R"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: VirA is the transmembrane sensor kinase for phenolic wound signals (acetosyringone).\nStep 2: Without virA, acetosyringone cannot be perceived (Q is correct), the vir regulon remains uninduced, and T-DNA cannot be transferred (R is correct)."
+  },
+  {
+    "id": 16,
+    "question": "Identify the correct statements for plantibodies:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Plantibodies are antibodies generated by bacteria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Plantibodies are recombinant antibodies produced in transgenic plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Plantibodies can bind to viral coat proteins or antigens in planta to neutralize pathogens.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Plantibodies are toxins produced by plants.</span></div></div>",
+    "options": [
+      "P, R",
+      "R, S",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: 'Plantibodies' are full-length functional antibodies or antibody fragments (scFv) expressed in genetically engineered plants (Q is correct).\nStep 2: They provide in planta immunoneutralization against viral coat proteins and pathogens (R is correct)."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following methods is critical for haploidy induction in plants?",
+    "options": [
+      "Presence of optimum levels of auxin and cytokinin in the medium.",
+      "Treatment of donor plants with phytohormones.",
+      "Use of colchicine in the medium.",
+      "Induction and proliferation of androgenic embryoids from anther / microspore culture."
+    ],
+    "correct_answer": "Induction and proliferation of androgenic embryoids from anther / microspore culture.",
+    "explanation": "[CONCEPT]\nStep 1: Haploid plants are induced via androgenesis (anther/isolated microspore culture) or gynogenesis (unfertilized ovule culture) pioneered by Guha and Maheshwari (1964)."
+  },
+  {
+    "id": 18,
+    "question": "Gene transfer method: Choose the correct developer/author match.",
+    "options": [
+      "Agrobacterium-mediated transformation was developed by E. C. Cocking.",
+      "Biolistic particle bombardment was first developed by J. C. Sanford.",
+      "Protoplast transformation was first reported by I. Potrykus alone.",
+      "Pollen tube transformation was demonstrated by Oifa Zhang alone."
+    ],
+    "correct_answer": "Biolistic particle bombardment was first developed by J. C. Sanford.",
+    "explanation": "[CONCEPT]\nStep 1: J.C. Sanford, E.D. Wolf, and N.K. Allen (1987) at Cornell University invented the biolistic particle delivery (gene gun) method."
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct one from the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Insect resistant cotton</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Golden rice</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>‘Flavr-Savr’ tomato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Herbicide tolerant soybean\n\nGroup II:\n1. Bt (cry1Ac)\n2. Roundup Ready (cp4 epsps)\n3. 2,4-D\n4. β-Carotene (psy and crtI)\n5. Ferritin\n6. Antisense ACC synthase / Polygalacturonase</span></div></div>",
+    "options": [
+      "P−2; Q−5; R−1; S−3",
+      "P−1; Q−4; R−6; S−2",
+      "P−1; Q−4; R−6; S−3",
+      "P−2; Q−4; R−6; S−1"
+    ],
+    "correct_answer": "P−1; Q−4; R−6; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Insect-resistant Bt cotton uses Bt endotoxin (P–1).\nStep 2: Golden rice expresses provitamin A / β-carotene pathway genes (Q–4).\nStep 3: Flavr-Savr tomato uses antisense technology for delayed softening (R–6).\nStep 4: Roundup Ready soybean is resistant to glyphosate (S–2)."
+  },
+  {
+    "id": 20,
+    "question": "Heterosis helps in crop improvement. Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Parental lines improvement by diversification of CMS and restorer sources for higher yield.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Development of fortified food to satisfy market demand.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Improved hybrid crop developed for dual function – salinity tolerance and fungal resistance.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Reciprocal crosses of an improved isogenic line for a better yield.</span></div></div>",
+    "options": [
+      "Q, S",
+      "P, S",
+      "P, Q",
+      "P, R"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Hybrid breeding utilizes Cytoplasmic Male Sterility (CMS) and nuclear Restorer (Rf) lines to produce commercial F₁ hybrid seed (P is correct).\nStep 2: Heterosis / hybrid vigor imparts combined biotic and abiotic stress tolerances and superior yield (R is correct)."
+  },
+  {
+    "id": 21,
+    "question": "Pioneering global work in the Green Revolution that resulted in high-yielding semi-dwarf wheat varieties was conducted by",
+    "options": [
+      "Subramaniam.",
+      "M.S. Swaminathan.",
+      "E.C. Cocking.",
+      "Norman Borlaug."
+    ],
+    "correct_answer": "Norman Borlaug.",
+    "explanation": "[CONCEPT]\nStep 1: Dr. Norman Borlaug (Nobel Peace Prize, 1970) developed the high-yielding semi-dwarf wheat varieties carrying Norin 10 dwarfing genes (Rht1/Rht2).\nStep 2: Dr. M.S. Swaminathan led the Green Revolution in India."
+  },
+  {
+    "id": 22,
+    "question": "The ‘Kornberg’s enzyme’ is now known as",
+    "options": [
+      "DNA polymerase III.",
+      "DNA polymerase II.",
+      "DNA polymerase I.",
+      "DNA ligase."
+    ],
+    "correct_answer": "DNA polymerase I.",
+    "explanation": "[CONCEPT]\nStep 1: Arthur Kornberg isolated the first DNA-synthesizing enzyme from E. coli in 1956, known as Kornberg's enzyme or DNA Polymerase I."
+  },
+  {
+    "id": 23,
+    "question": "Choose the correct match from the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Insect resistance rice</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Non-antibiotic selection system</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Antibiotic marker gene</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>C₄ photosynthesis\n\nGroup II:\n1. psy\n2. cry1Ab\n3. hpt (hygromycin phosphotransferase)\n4. PEPC (Phosphoenolpyruvate carboxylase)\n5. PMI (Phosphomannose isomerase)\n6. RuBisCO</span></div></div>",
+    "options": [
+      "P−2; Q−1; R−3; S−4",
+      "P−1; Q−2; R−4; S−6",
+      "P−5; Q−2; R−1; S−6",
+      "P−2; Q−5; R−3; S−4"
+    ],
+    "correct_answer": "P−2; Q−5; R−3; S−4",
+    "explanation": "[CONCEPT]\nStep 1: Insect-resistant Bt rice expresses cry1Ab (P–2).\nStep 2: Non-antibiotic positive selection uses PMI (Phosphomannose isomerase) (Q–5).\nStep 3: Antibiotic resistance marker is hpt (hygromycin resistance) (R–3).\nStep 4: Primary carboxylation in C₄ photosynthesis is catalyzed by PEPC (S–4)."
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct match from the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>P. Maheshwari</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>E. Hood</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>B. McClintock</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>S. M. Sircar\n\nGroup II:\n1. Plant embryology & test tube fertilization\n2. Genetics & transposable elements\n3. Agrobacterium transformation\n4. Plant growth hormones\n5. Molecular biology\n6. Systematic botany</span></div></div>",
+    "options": [
+      "P–1; Q–6; R–3; S–2",
+      "P–1; Q–3; R–2; S–4",
+      "P–1; Q–2; R–6; S–5",
+      "P–2; Q–5; R–5; S–3"
+    ],
+    "correct_answer": "P–1; Q–3; R–2; S–4",
+    "explanation": "[CONCEPT]\nStep 1: Panchanan Maheshwari pioneered plant embryology and in vitro fertilization (P–1).\nStep 2: Elizabeth Hood contributed to Agrobacterium-mediated monocot transformation (Q–3).\nStep 3: Barbara McClintock discovered transposable elements (jumping genes) in maize (R–2).\nStep 4: S.M. Sircar contributed to plant physiology and auxin/growth hormone research (S–4)."
+  },
+  {
+    "id": 25,
+    "question": "Choose the correct match from the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>IPR</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Selectable reporter gene</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Vectorless DNA transfer</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span></span></div></div>\nSelectable marker gene\n\nGroup II:\n1. Intellectual property rights\n2. International plant registration\n3. Protoplast / PEG / Electroporation system\n4. Agrobacterium system\n5. Neomycin phosphotransferase (nptII)\n6. Green fluorescent protein (GFP)",
+    "options": [
+      "P–1; Q–6; R–3; S–5",
+      "P–1; Q–6; R–4; S–2",
+      "P–2; Q–6; R–3; S–5",
+      "P–2; Q–5; R–4; S–6"
+    ],
+    "correct_answer": "P–1; Q–6; R–3; S–5",
+    "explanation": "[CONCEPT]\nStep 1: IPR = Intellectual Property Rights (P–1).\nStep 2: Visual reporter gene = GFP (Green Fluorescent Protein) (Q–6).\nStep 3: Direct/vectorless gene transfer = Protoplast/PEG/electroporation (R–3).\nStep 4: Selectable antibiotic marker = nptII (S–5)."
+  },
+  {
+    "id": 26,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Heterosis is a proven way of increasing productivity of many crop plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Weed causes considerable yield loss and reduces farmer’s income.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>PR (Pathogenesis related) proteins protect plants against bacteria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Marker assisted</span></div></div>\nselection can improve crops in field.",
+    "options": [
+      "P, S",
+      "R, S",
+      "Q, R",
+      "P, Q"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Heterosis/hybrid vigor significantly increases yield and vigor in F₁ hybrids (P is correct).\nStep 2: Weeds compete for nutrients, light, and water causing substantial crop yield loss (Q is correct)."
+  },
+  {
+    "id": 27,
+    "question": "Identify the incorrect statement.",
+    "options": [
+      "2,4-dichlorophenoxyacetic acid (2,4-D) is the most commonly used chemical analogue of indole-3-acetic acid.",
+      "In somatic embryogenesis, embryo initiation needs a high concentration of 2,4-D.",
+      "Crown-gall disease depends on the presence of Ti-plasmid in Agrobacterium tumefaciens.",
+      "Agrobacterium tumefaciens is responsible for hairy root formation in plants."
+    ],
+    "correct_answer": "Agrobacterium tumefaciens is responsible for hairy root formation in plants.",
+    "explanation": "[CONCEPT]\nStep 1: Agrobacterium rhizogenes (harboring the Ri plasmid) causes hairy root disease.\nStep 2: Agrobacterium tumefaciens (harboring the Ti plasmid) causes crown gall tumor disease."
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct match from the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Monarch butterfly</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Horizontal resistance</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Super weed</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Biolistics\n\nGroup II:\n1. Gene-for-gene matching\n2. Bt crops\n3. Polygenic trait\n4. Tungsten / gold microprojectiles\n5. Herbicide resistance transgene flow\n6. Pusztai affair</span></div></div>",
+    "options": [
+      "P−2; Q−3; R−5; S−4",
+      "P−2; Q−6; R−5; S−4",
+      "P−2; Q−6; R−5; S−1",
+      "P−6; Q−4; R−1; S−3"
+    ],
+    "correct_answer": "P−2; Q−3; R−5; S−4",
+    "explanation": "[CONCEPT]\nStep 1: Monarch butterfly larvae safety is an biosafety study model in Bt maize pollen (P–2).\nStep 2: Horizontal resistance is a durable, polygenic/quantitative trait (Q–3).\nStep 3: Superweeds acquire herbicide resistance via gene flow from GM crops (R–5).\nStep 4: Biolistics uses tungsten or gold microprojectiles (S–4)."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following statements are true on DNA delivery methods during plant transformation?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Single stranded nicks are made in T-DNA border repeat by the virD1, virD2 and virD3 protein complex.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>virA gene products form the export apparatus on the membrane for the transfer of T-DNA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Gold/Tungsten particles are used as microprojectiles in biolistic method.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Acceleration of DNA-coated microprojectiles is carried out with compressed CO₂.</span></div></div>",
+    "options": [
+      "P, S",
+      "R, S",
+      "P, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: VirD1/VirD2 endonuclease complex nicks the 25-bp T-DNA border repeats (P is correct).\nStep 2: Biolistics utilizes heavy microprojectiles made of high-density gold or tungsten particles (R is correct).\nStep 3: Gene guns use compressed Helium (not CO₂); the VirB/VirD4 complex (not VirA) forms the type IV secretion transfer apparatus."
+  },
+  {
+    "id": 30,
+    "question": "Match the gene of interest for various aspects of crop improvement:\n\nGene insert:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>bar</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>vip3A</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>β-lcy</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>gshII\n\nAspects of crop improvement:\n1. Tolerance to heavy metals (Glutathione synthetase)\n2. Nutritional improvement with provitamin A / β-carotene\n3. Insect resistance (Vegetative insecticidal protein)\n4. Herbicide resistance (Glufosinate / Bialaphos)\n5. Delayed ripening\n6. Resistance to fungal infection</span></div></div>",
+    "options": [
+      "P−4; Q–3; R–5; S–6",
+      "P−4; Q–3; R–2; S–1",
+      "P−2; Q–4; R–5; S–3",
+      "P−4; Q–2; R–6; S–1"
+    ],
+    "correct_answer": "P−4; Q–3; R–2; S–1",
+    "explanation": "[CONCEPT]\nStep 1: bar confers resistance to phosphinothricin/glufosinate herbicide (P–4).\nStep 2: vip3A encodes vegetative insecticidal protein against lepidoptera (Q–3).\nStep 3: β-lcy (lycopene beta-cyclase) synthesizes β-carotene in Golden Rice (R–2).\nStep 4: gshII encodes glutathione synthetase II for heavy metal tolerance (S–1)."
+  },
+  {
+    "id": 31,
+    "question": "Cytoplasmic male sterility via the chloroplast genome can be induced by the expression of the phaA gene encoding",
+    "options": [
+      "β-Ketothiolase.",
+      "acetoacetyl CoA carboxylase.",
+      "acetoacetyl CoA reductase.",
+      "PHB synthase."
+    ],
+    "correct_answer": "β-Ketothiolase.",
+    "explanation": "[CONCEPT]\nStep 1: The phaA gene encodes β-ketothiolase (acetyl-CoA acetyltransferase).\nStep 2: Hyper-expression of β-ketothiolase in chloroplasts induces 100% cytoplasmic male sterility."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following statements are correct for somatic cell hybridization?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>For fusion of protoplast, polyethylene glycol (PEG) / DMSO is used as a fusogen.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The enzyme ‘Cellulase Onozuka’ used for protoplast isolation is sourced from Trichoderma viride.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The first report of somatic hybrid plants resulted from the fusion of protoplasts of Nicotiana glauca and N. langsdorffii.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Viability of isolated protoplasts can be determined by Evan’s blue / FDA staining.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, S",
+      "R, S",
+      "P, R"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: PEG/DMSO are widely used chemical fusogens for protoplast hybridization (P is correct).\nStep 2: Cellulase Onozuka R-10 is commercial cellulase prepared from Trichoderma viride (Q is correct).\nStep 3: Carlson et al. (1972) produced the first somatic hybrid using N. glauca + N. langsdorffii."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following statements are true on transgene approach?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>T-DNA integration occurs mainly through non-homologous end joining (NHEJ) / illegitimate recombination.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Gateway cloning depends on site-specific recombination (att sites / lambda integrase) as opposed to standard restriction enzymes and DNA ligase.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The localization of β-glucuronidase (GUS) activity is visualized using X-gluc (not X-gal).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The green fluorescent protein gene (GFP) is isolated from Aequorea victoria (not Photinus pyralis).</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, S",
+      "R, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: In higher plants, T-DNA integrates predominantly at random genomic sites via non-homologous recombination (P is correct).\nStep 2: Gateway cloning uses bacteriophage lambda site-specific recombination (BP and LR clonase reactions) without restriction enzymes/ligase (Q is correct)."
+  },
+  {
+    "id": 34,
+    "question": "For successful transfer of a foreign gene from the engineered binary Ti-plasmid to the plant genome, which essential combination of cis-acting DNA elements and trans-acting protein factors are required?",
+    "options": [
+      "Opine catabolism genes, Left border sequence, Right border sequence",
+      "Opine catabolism genes, Left border sequence, Virulence genes",
+      "Hormone biosynthetic genes, Right border sequence, Virulence genes",
+      "Left border sequence, Right border sequence, Virulence (vir) genes"
+    ],
+    "correct_answer": "Left border sequence, Right border sequence, Virulence (vir) genes",
+    "explanation": "[CONCEPT]\nStep 1: Cis-acting elements: 25-bp Left Border (LB) and Right Border (RB) direct repeats flanking the T-DNA.\nStep 2: Trans-acting factors: Virulence proteins (VirA, VirG, VirD1, VirD2, VirE2, VirB complex) encoded by the vir helper plasmid."
+  },
+  {
+    "id": 35,
+    "question": "In naturally occurring cytoplasmic male sterility (CMS), the molecular determinant is located in the",
+    "options": [
+      "chloroplast genome.",
+      "endoplasmic reticulum.",
+      "Golgi complex.",
+      "mitochondrial genome."
+    ],
+    "correct_answer": "mitochondrial genome.",
+    "explanation": "[CONCEPT]\nStep 1: Naturally occurring cytoplasmic male sterility (CMS) is governed by chimeric, aberrant open reading frames (e.g., T-urf13, pcf, orf256) created by recombination in mitochondrial DNA (mtDNA)."
+  },
+  {
+    "id": 36,
+    "question": "An ideal cybrid (cytoplasmic hybrid) should have",
+    "options": [
+      "both nuclear genome and cytoplasmic genome equally from both the parents.",
+      "nuclear genome from one of the parents and cytoplasmic genome from other parent.",
+      "nuclear genome predominantly/exclusively from one of the parents and cytoplasmic genome (chloroplast/mitochondria) derived from both parents.",
+      "nuclear genome equally from both the parents and cytoplasmic genome predominantly from one parent."
+    ],
+    "correct_answer": "nuclear genome predominantly/exclusively from one of the parents and cytoplasmic genome (chloroplast/mitochondria) derived from both parents.",
+    "explanation": "[CONCEPT]\nStep 1: Cybrids possess the nuclear genome of a single recurrent parent combined with novel cytoplasmic organellar combinations (mitochondria from one parent, chloroplasts from another) through selective chemical or irradiation (gamma/X-ray) nucleus inactivation."
+  },
+  {
+    "id": 37,
+    "question": "Plantibody is",
+    "options": [
+      "an antibody expressed in transgenic plants.",
+      "a transgenic plant that expresses antibody.",
+      "an antibody against plant-based antigens.",
+      "a transgenic plant that expresses antigen."
+    ],
+    "correct_answer": "an antibody expressed in transgenic plants.",
+    "explanation": "[CONCEPT]\nStep 1: A Plantibody is a therapeutic monoclonal antibody or antibody fragment produced by genetically transformed transgenic plants."
+  },
+  {
+    "id": 38,
+    "question": "The semi-dwarf trait of wheat and rice plants that catalyzed the Green Revolution resulted from mutations in genes involved in",
+    "options": [
+      "auxin biosynthesis.",
+      "gibberellin biosynthesis or signaling (DELLA domain).",
+      "cytokinin degradation.",
+      "ethylene perception."
+    ],
+    "correct_answer": "gibberellin biosynthesis or signaling (DELLA domain).",
+    "explanation": "[CONCEPT]\nStep 1: Wheat dwarfing genes (Rht-B1 / Rht-D1) encode mutated DELLA proteins insensitive to GA-induced degradation.\nStep 2: Rice dwarfing gene (sd1) encodes a defective GA 20-oxidase enzyme in the gibberellin biosynthetic pathway."
+  },
+  {
+    "id": 39,
+    "question": "Match the following reporter genes used in plant transformation experiments with their source and detection assay:\n\nReporter gene:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>β-glucuronidase (GUS)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Green fluorescent protein (GFP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Luciferase (LUC)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Chloramphenicol acetyltransferase (CAT)\n\nSource:\n1. Aequorea victoria\n2. Photinus pyralis\n3. E. coli\n\nDetection/assay:\ni. Radioactive assay (¹⁴C-chloramphenicol TLC)\nii. Fluorimetric (MUG / 4-MU) & histochemical (X-gluc)\niii. Fluorescence (UV / Blue light excitation)\niv. Bioluminescence (Luciferin + ATP)</span></div></div>",
+    "options": [
+      "P−3−i; Q−1−ii; R−2−iii; S−3−iv",
+      "P−3−ii; Q−1−iii; R−2−iv; S−3−i",
+      "P−2−ii; Q−1−iii; R−3−iv; S−1−i",
+      "P−1−ii; Q−2−iii; R−3−i; S−3−iv"
+    ],
+    "correct_answer": "P−3−ii; Q−1−iii; R−2−iv; S−3−i",
+    "explanation": "[CONCEPT]\nStep 1: β-glucuronidase (gusA/uidA from E. coli) is detected by fluorimetric/histochemical X-gluc assay (P–3–ii).\nStep 2: GFP (from Aequorea victoria) is detected by direct green fluorescence (Q–1–iii).\nStep 3: Luciferase (from firefly Photinus pyralis) emits light with luciferin (R–2–iv).\nStep 4: CAT (from E. coli) is assayed radioactively with ¹⁴C-chloramphenicol (S–3–i)."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following techniques is not applicable for evaluating the transcription / expression of a transgene?",
+    "options": [
+      "Northern blot",
+      "RT-PCR",
+      "Western blot",
+      "Southern blot"
+    ],
+    "correct_answer": "Southern blot",
+    "explanation": "[CONCEPT]\nStep 1: Southern blotting detects the physical presence, integration, and copy number of DNA sequences in the genome, not its expression.\nStep 2: Northern blot and RT-PCR evaluate RNA transcript levels; Western blot evaluates protein expression."
+  },
+  {
+    "id": 41,
+    "question": "Identify the incorrect statements with respect to plastid transformation (transplastomic plants):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Antibiotic used for selection of transplastomic plant is spectinomycin (aadA).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Chances of gene escape via pollen from transplastomic plants are high.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Microprojectile bombardment is the primary method of plastid DNA delivery.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Levels of transgene expression are low in plastids.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, Q",
+      "Q, S",
+      "R, S"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Maternal inheritance of plastids in most angiosperms prevents gene escape via pollen (making gene escape exceptionally low, so Q is incorrect).\nStep 2: Transplastomic plants yield extremely high levels of protein expression (up to 40% of total soluble protein due to thousands of chloroplast genomes per cell, so S is incorrect)."
+  },
+  {
+    "id": 42,
+    "question": "Consider the following genetic pathway controlling time to flowering in wheat:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"flex flex-col items-center space-y-2 text-xs\">\n    <div class=\"px-3 py-1.5 bg-sky-900 border border-sky-500 rounded-lg text-sky-200 font-bold\">Cold Temperature (Vernalization)</div>\n    <span class=\"text-rose-400 font-bold text-base\">↓ (Represses / Inactivates)</span>\n    <div class=\"px-3 py-1.5 bg-rose-950 border border-rose-600 rounded-lg text-rose-300 font-bold\">VRN2 Gene (Flowering Repressor)</div>\n    <span class=\"text-emerald-400 font-bold text-base\">↓ (Represses / Blocks)</span>\n    <div class=\"px-3 py-1.5 bg-emerald-950 border border-emerald-600 rounded-lg text-emerald-300 font-bold\">VRN1 Gene (Flowering Activator)</div>\n    <div class=\"flex space-x-6 pt-2\">\n      <span class=\"text-slate-400\">Vegetative Growth (when VRN1 off)</span>\n      <span class=\"text-sky-300 font-bold\">→ Flowering (when VRN1 active)</span>\n    </div>\n  </div>\n</div>\n\nIf batch P wheat seed is vernalized before sowing and batch Q is not vernalized, then which of the following statements is most likely to be correct?",
+    "options": [
+      "P will have lower VRN2 transcript and flower later than Q.",
+      "P will have lower VRN2 transcript and will flower earlier than Q.",
+      "P will have higher VRN2 transcript and will flower later than Q.",
+      "P and Q will have equal VRN2 transcript and will flower at the same time."
+    ],
+    "correct_answer": "P will have lower VRN2 transcript and will flower earlier than Q.",
+    "explanation": "[CONCEPT]\nStep 1: Vernalization represses the floral repressor VRN2 in batch P.\nStep 2: Reduced VRN2 derepresses VRN1 expression, enabling batch P plants to transition to flowering significantly earlier than non-vernalized batch Q."
+  },
+  {
+    "id": 43,
+    "question": "An RFLP marker shows sequence polymorphism in two ecotypes (X and Y) of a plant. In ecotype X, the marker contains one EcoRI site (5′–GAATTC–3′), whereas in ecotype Y it has the sequence GAAATC (no EcoRI site). The marker was PCR amplified from four seedlings (P, Q, R, S), completely digested with EcoRI, and analyzed by gel electrophoresis:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"text-xs font-bold text-slate-400 mb-2 uppercase tracking-wider\">Agarose Gel Electrophoresis</div>\n  <svg viewBox=\"0 0 300 180\" class=\"w-full max-w-xs\">\n    <rect x=\"30\" y=\"10\" width=\"240\" height=\"160\" rx=\"8\" fill=\"#020617\" stroke=\"#334155\" stroke-width=\"2\" />\n    <text x=\"60\" y=\"30\" fill=\"#38bdf8\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">P</text>\n    <text x=\"110\" y=\"30\" fill=\"#38bdf8\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">Q</text>\n    <text x=\"160\" y=\"30\" fill=\"#38bdf8\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">R</text>\n    <text x=\"210\" y=\"30\" fill=\"#38bdf8\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">S</text>\n    <!-- Bands -->\n    <rect x=\"92\" y=\"55\" width=\"36\" height=\"8\" rx=\"2\" fill=\"#f59e0b\" />\n    <rect x=\"42\" y=\"95\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n    <rect x=\"42\" y=\"135\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n    <rect x=\"142\" y=\"95\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n    <rect x=\"142\" y=\"135\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n    <rect x=\"192\" y=\"95\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n    <rect x=\"192\" y=\"135\" width=\"36\" height=\"7\" rx=\"2\" fill=\"#22d3ee\" />\n  </svg>\n</div>\n\nBased on the band patterns obtained, which of the following statements is correct?",
+    "options": [
+      "Seedling Q belongs to ecotype Y.",
+      "Seedling Q belongs to ecotype X.",
+      "Seedling P belongs to ecotype Y.",
+      "Seedling R belongs to ecotype Y."
+    ],
+    "correct_answer": "Seedling Q belongs to ecotype Y.",
+    "explanation": "[CONCEPT]\nStep 1: Ecotype X has the GAATTC EcoRI site and will be cleaved into 2 smaller fragments.\nStep 2: Ecotype Y lacks the EcoRI site (GAAATC) and remains an intact single large fragment.\nStep 3: Seedling Q displaying the single undigested band belongs to ecotype Y."
+  },
+  {
+    "id": 44,
+    "question": "Match the names of genes/enzymes with their commercial application in genetically modified crops:\n\nGene/enzyme:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Bt (cry) gene</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>β-Carotene biosynthetic genes (psy + crtI)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>ACC deaminase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>EPSP synthase (aroA)\n\nCommercial use:\n1. Golden rice\n2. Insect resistance\n3. Herbicide resistance (Roundup Ready)\n4. Delayed fruit ripening / senescence</span></div></div>",
+    "options": [
+      "P−1; Q−2; R−3; S−4",
+      "P−2; Q−1; R−4; S−3",
+      "P−3; Q−1; R−2; S−4",
+      "P−2; Q−1; R−3; S−2"
+    ],
+    "correct_answer": "P−2; Q−1; R−4; S−3",
+    "explanation": "[CONCEPT]\nStep 1: Bt gene confers Insect resistance (P–2).\nStep 2: β-Carotene genes generate Golden rice (Q–1).\nStep 3: ACC deaminase degrades the ethylene precursor ACC, delaying fruit ripening/softening (R–4).\nStep 4: EPSP synthase confers Glyphosate herbicide resistance (S–3)."
+  },
+  {
+    "id": 45,
+    "question": "Choose the correct set of matches between group I and II in relation to plant genetic transformation:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Helium gas propellant</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Acetosyringone</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Polyethylene glycol (PEG)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Agarose embedding\n\nGroup II:\n1. Agrobacterium tumefaciens vir induction\n2. Microinjection immobilization\n3. Particle bombardment (Gene gun)\n4. Protoplast DNA uptake</span></div></div>",
+    "options": [
+      "P−4; Q−3; R−2; S−1",
+      "P−2; Q−1; R−4; S−3",
+      "P−3; Q−4; R−1; S−2",
+      "P−3; Q−1; R−4; S−2"
+    ],
+    "correct_answer": "P−3; Q−1; R−4; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Helium propellant is used in Particle bombardment (P–3).\nStep 2: Acetosyringone induces Agrobacterium vir genes (Q–1).\nStep 3: Polyethylene glycol induces Protoplast DNA uptake (R–4).\nStep 4: Agarose embedding immobilizes protoplasts/cells for Microinjection (S–2)."
+  },
+  {
+    "id": 46,
+    "question": "Identify the correct statement regarding self-incompatibility mechanisms in plants.",
+    "options": [
+      "Receptor-like kinases play a role in gametophytic self-incompatibility in Brassicaceae.",
+      "Receptor-like kinases play a role in sporophytic self-incompatibility in Solanaceae.",
+      "Ribonucleases play a role in sporophytic self-incompatibility in Brassicaceae.",
+      "Ribonucleases (S-RNases) play a role in gametophytic self-incompatibility in Solanaceae."
+    ],
+    "correct_answer": "Ribonucleases (S-RNases) play a role in gametophytic self-incompatibility in Solanaceae.",
+    "explanation": "[CONCEPT]\nStep 1: Gametophytic self-incompatibility (GSI) in Solanaceae, Rosaceae, and Scrophulariaceae is mediated by stylar cytotoxic S-RNases that degrade RNA in self-pollen tubes.\nStep 2: Sporophytic self-incompatibility (SSI) in Brassicaceae is mediated by an S-receptor kinase (SRK) and S-locus cysteine-rich protein (SCR/SP11)."
+  },
+  {
+    "id": 47,
+    "question": "You are asked to design a genetic construct for high-level expression of a therapeutic protein (TP18) via plastid (chloroplast) transformation. Select the correct set of genetic regulatory elements for this construct.",
+    "options": [
+      "Actin1 promoter → TP18 coding sequence → Actin1 transcription terminator",
+      "Ubiquitin1 promoter → TP18 coding sequence → Ubiquitin1 transcription terminator",
+      "rbcS promoter → TP18 coding sequence → rbcS transcription terminator",
+      "rbcL promoter (or psbA promoter) → TP18 coding sequence → rbcL / psbA transcription terminator"
+    ],
+    "correct_answer": "rbcL promoter (or psbA promoter) → TP18 coding sequence → rbcL / psbA transcription terminator",
+    "explanation": "[CONCEPT]\nStep 1: Chloroplasts have prokaryotic-like transcription machinery (PEP and NEP).\nStep 2: Nuclear promoters (Actin1, Ubiquitin, rbcS) are not functional in plastids; endogenous plastid promoters/terminators like rbcL, psbA, or 16S rRNA promoter (Prrn) are required."
+  },
+  {
+    "id": 48,
+    "question": "Cybrids (cytoplasmic hybrids) may arise through the",
+    "options": [
+      "fusion of a normal protoplast with another nucleated protoplast of different origin without nuclear loss.",
+      "fusion between two enucleated cytoplasts.",
+      "elimination or inactivation of one of the nuclei from the heterokaryon formed from two protoplasts of different origin.",
+      "fusion of a normal cell with an intact pollen mother cell."
+    ],
+    "correct_answer": "elimination or inactivation of one of the nuclei from the heterokaryon formed from two protoplasts of different origin.",
+    "explanation": "[CONCEPT]\nStep 1: Cybrids are produced when one parent's nucleus is inactivated (by X-rays/gamma irradiation) or eliminated during heterokaryon division, retaining a single nuclear genome with mixed cytoplasms."
+  },
+  {
+    "id": 49,
+    "question": "Which one of the following methods is incorrect with respect to haploid plant production? Haploids can be produced",
+    "options": [
+      "from an unfertilized egg cell (gynogenesis).",
+      "from nucellar tissue.",
+      "from isolated microspore / pollen culture (androgenesis).",
+      "by distant hybridization followed by selective chromosome elimination (Bulbosum technique)."
+    ],
+    "correct_answer": "from nucellar tissue.",
+    "explanation": "[CONCEPT]\nStep 1: Nucellar tissue is maternal diploid (2n) somatic tissue (nucellar embryony yields maternal clones, not haploids).\nStep 2: Androgenesis (pollen), gynogenesis (egg cell), and chromosome elimination (Hordeum bulbosum technique) produce true haploid (n) plants."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following chemicals is used for doubling of chromosome numbers during production of ‘doubled haploids’ (DH) in crop plants?",
+    "options": [
+      "Hygromycin",
+      "Kanamycin",
+      "Colchicine",
+      "Glufosinate"
+    ],
+    "correct_answer": "Colchicine",
+    "explanation": "[CONCEPT]\nStep 1: Colchicine binds to tubulin dimers and inhibits mitotic spindle assembly during metaphase.\nStep 2: This prevents chromosome segregation and results in diploidization / chromosome doubling, yielding fertile homozygous doubled haploids."
+  },
+  {
+    "id": 51,
+    "question": "In relation to Agrobacterium-mediated genetic engineering in plants, match the virulence gene name with its specific function:\n\nGene name:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>virA</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>virB</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>virD1</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>virG\n\nFunction:\n1. Transmembrane sensor kinase / Acetosyringone receptor\n2. T-pilus / Conjugation tube (Type IV Secretion System) formation\n3. Topoisomerase that relaxes supercoiled T-DNA\n4. Transcriptional activator of all vir operons upon phosphorylation\n5. Octopine synthesis</span></div></div>",
+    "options": [
+      "P–4; Q–3; R–2; S–5",
+      "P–2; Q–1; R–3; S–5",
+      "P–1; Q–2; R–3; S–4",
+      "P–3; Q–1; R–2; S–4"
+    ],
+    "correct_answer": "P–1; Q–2; R–3; S–4",
+    "explanation": "[CONCEPT]\nStep 1: VirA is the sensor kinase / acetosyringone receptor (P–1).\nStep 2: VirB complex forms the T-pilus Type IV Secretion System (Q–2).\nStep 3: VirD1 is a topoisomerase that aids in border nicking (R–3).\nStep 4: VirG is the response regulator and transcriptional activator (S–4)."
+  },
+  {
+    "id": 52,
+    "question": "Selection markers and the corresponding genes used in plant genetic engineering are given below:\n\nSelection Marker:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Kanamycin / G418</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hygromycin B</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Bialaphos / Phosphinothricin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Mannose (Positive</span></div></div>\nselection)\n\nGene:\n1. hpt (hph)\n2. bar (pat)\n3. pmi (manA)\n4. nptII (neo)\n\nChoose the correct combination:",
+    "options": [
+      "P–2; Q–1; R–4; S–3",
+      "P–4; Q–2; R–1; S–3",
+      "P–4; Q–1; R–2; S–3",
+      "P–3; Q–4; R–2; S–1"
+    ],
+    "correct_answer": "P–4; Q–1; R–2; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Kanamycin resistance is conferred by nptII (neomycin phosphotransferase II) (P–4).\nStep 2: Hygromycin resistance is conferred by hpt (hygromycin phosphotransferase) (Q–1).\nStep 3: Bialaphos resistance is conferred by bar (phosphinothricin acetyltransferase) (R–2).\nStep 4: Mannose positive selection utilizes pmi (phosphomannose isomerase) (S–3)."
+  }
+]

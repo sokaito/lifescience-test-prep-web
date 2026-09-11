@@ -1,0 +1,746 @@
+[
+  {
+    "id": 1,
+    "question": "The properties of water include",
+    "options": [
+      "the ability to form hydrophobic bonds with itself.",
+      "a disordered structure in the liquid state.",
+      "a low dielectric constant.",
+      "being a dipole, with the negative end at the oxygen atom."
+    ],
+    "correct_answer": "being a dipole, with the negative end at the oxygen atom.",
+    "explanation": "[CONCEPT]\nStep 1: Water (H₂O) has a bent geometry (104.5° bond angle) with high electronegativity difference between oxygen (δ⁻) and hydrogen (δ⁺).\nStep 2: This creates a permanent electric dipole moment with the negative pole localized on the oxygen atom and high dielectric constant (ε ≈ 80)."
+  },
+  {
+    "id": 2,
+    "question": "Histones have a very high percentage of arginine and lysine residues (15%–30%). For this class of basic proteins, which of the following reagents would be a suitable choice for generating a manageable number of specific peptide fragments during determination of the amino acid sequence?",
+    "options": [
+      "Cyanogen bromide",
+      "Thermolysin",
+      "Trypsin",
+      "N-bromosuccinimide"
+    ],
+    "correct_answer": "Cyanogen bromide",
+    "explanation": "[CONCEPT]\nStep 1: Trypsin cleaves at every Lys and Arg residue; in histones (15–30% Lys/Arg), trypsin would over-digest the protein into tiny di- and tri-peptides.\nStep 2: Cyanogen bromide (CNBr) cleaves specifically at rare Methionine (Met) residues, generating larger, manageable overlapping peptide fragments suitable for sequencing."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following types of non-covalent / structural interactions is mainly responsible for the hydrophobic collapse and aggregation of non-polar protein segments in aqueous solutions?",
+    "options": [
+      "Hydrogen bonds",
+      "Hydrophobic interactions",
+      "Disulfide bonds",
+      "Peptide bonds"
+    ],
+    "correct_answer": "Hydrophobic interactions",
+    "explanation": "[CONCEPT]\nStep 1: In aqueous solutions, non-polar hydrophobic side chains aggregate together to minimize disruption of the surrounding water hydrogen-bonding network (entropically driven hydrophobic effect)."
+  },
+  {
+    "id": 4,
+    "question": "How many asymmetric (chiral) carbon atoms are present in an aldohexose molecule (e.g. D-glucose) whose open-chain structure is:\nCHO–CH(OH)–CH(OH)–CH(OH)–CH(OH)–CH₂OH",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: In an aldohexose open-chain structure, C-1 (–CHO) is achiral (sp² hybridized) and C-6 (–CH₂OH) has two identical hydrogens (achiral).\nStep 2: Carbons C-2, C-3, C-4, and C-5 are each attached to four distinct functional groups, making a total of 4 chiral carbons."
+  },
+  {
+    "id": 5,
+    "question": "Christian Anfinsen’s classic ribonuclease A folding experiment demonstrated that all the information required for a protein to achieve its native three-dimensional tertiary conformation is contained within its",
+    "options": [
+      "primary amino acid sequence.",
+      "quaternary subunit stoichiometry.",
+      "molecular chaperone assistance.",
+      "carbohydrate glycosylation profile."
+    ],
+    "correct_answer": "primary amino acid sequence.",
+    "explanation": "[CONCEPT]\nStep 1: Anfinsen fully denatured RNase A with 8 M urea and reduced its 4 disulfide bonds with β-mercaptoethanol.\nStep 2: Upon removal of urea and reductant by dialysis, the enzyme spontaneously refolded into its active 3D conformation with 100% correct disulfide pairings, proving that native structure is determined solely by the primary sequence."
+  },
+  {
+    "id": 6,
+    "question": "Match the entries in Column I with\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Van der Waals bonds</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>γ-Globulins</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tertiary structure</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Hill coefficient (n_H)\nT. Tunicamycin\n\nColumn II:\n1. Spatial 3D arrangement of amino acids far apart in sequence\n2. N-linked glycosylation inhibitor\n3. Cooperativity of ligand / oxygen binding\n4. Involves transient polarizable induced dipoles\n5. Immune protection (Immunoglobulins)</span></div></div>",
+    "options": [
+      "P – 3; Q – 1; R – 4; S – 2; T – 5",
+      "P – 5; Q – 3; R – 1; S – 2; T – 4",
+      "P – 4; Q – 5; R – 1; S – 3; T – 2",
+      "P – 3; Q – 1; R – 2; S – 4; T – 3"
+    ],
+    "correct_answer": "P – 4; Q – 5; R – 1; S – 3; T – 2",
+    "explanation": "[CONCEPT]\nStep 1: Van der Waals interactions occur between polarizable electron clouds (P–4).\nStep 2: γ-Globulins (IgG, IgA, IgM) provide immune protection (Q–5).\nStep 3: Tertiary structure defines 3D folding of distant residues (R–1).\nStep 4: Hill coefficient quantifies binding cooperativity (S–3).\nStep 5: Tunicamycin blocks GlcNAc phosphotransferase, inhibiting N-glycosylation (T–2)."
+  },
+  {
+    "id": 7,
+    "question": "The rise per residue in a standard right-handed α-helix is 1.5 Å (0.15 nm). The total length of an α-helical segment of 20 amino acid residues would be",
+    "options": [
+      "30 Å",
+      "20 Å",
+      "5.4 Å",
+      "6 Å"
+    ],
+    "correct_answer": "30 Å",
+    "explanation": "[CONCEPT]\nStep 1: Axial length = (Number of residues) × (Rise per residue).\nStep 2: Length = 20 × 1.5 Å = 30 Å (3.0 nm)."
+  },
+  {
+    "id": 8,
+    "question": "Gangliosides are complex glycosphingolipids that contain",
+    "options": [
+      "a ceramide backbone (sphingosine + fatty acid).",
+      "an oligosaccharide head group with glucose and galactose.",
+      "one or more sialic acid (N-acetylneuraminic acid / NANA) residues.",
+      "all of the above."
+    ],
+    "correct_answer": "all of the above.",
+    "explanation": "[CONCEPT]\nStep 1: Gangliosides are acidic glycosphingolipids composed of ceramide, an oligosaccharide head group, and one or more negatively charged sialic acid (NANA) residues."
+  },
+  {
+    "id": 9,
+    "question": "An active site catalytic amino acid residue that functions as a general acid/base in an enzyme with an optimal pH of 4.0 is most likely to be",
+    "options": [
+      "arginine",
+      "cysteine",
+      "serine",
+      "glutamate (or Aspartate)"
+    ],
+    "correct_answer": "glutamate (or Aspartate)",
+    "explanation": "[CONCEPT]\nStep 1: The side-chain γ-carboxyl group of Glutamate (pKa ~ 4.25) and β-carboxyl of Aspartate (pKa ~ 3.86) have buffering/catalytic ionization centered near pH 4.0."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following amino acid residues are predominantly buried in the interior hydrophobic core of a water-soluble globular protein in aqueous solution?",
+    "options": [
+      "Val, Phe, Ile, Leu",
+      "Asp, Glu, Lys, Arg",
+      "Ser, Thr, Asn, Gln",
+      "His, Lys, Asp, Glu"
+    ],
+    "correct_answer": "Val, Phe, Ile, Leu",
+    "explanation": "[CONCEPT]\nStep 1: Hydrophobic amino acids with non-polar aliphatic or aromatic side chains (Val, Leu, Ile, Phe, Met) are packed into the interior core to minimize contact with water."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following proteins exhibits a quaternary structure assembled from multiple polypeptide subunits?",
+    "options": [
+      "α-Chymotrypsin",
+      "Hemoglobin",
+      "Ribonuclease A",
+      "Myoglobin"
+    ],
+    "correct_answer": "Hemoglobin",
+    "explanation": "[CONCEPT]\nStep 1: Hemoglobin is a heterotetramer (α₂β₂) composed of four distinct polypeptide subunits held together by non-covalent interactions (quaternary structure).\nStep 2: Myoglobin and RNase A are monomeric single chains."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following statements is correct regarding molecular chaperone proteins (e.g. Hsp70, GroEL/GroES)?",
+    "options": [
+      "They do not prevent protein aggregation.",
+      "They cleave incorrect disulfide bonds.",
+      "They act on fully synthesized rigid folded proteins only.",
+      "They assist in the folding and translocation of nascent polypeptide chains across organelle membranes (ER and mitochondria)."
+    ],
+    "correct_answer": "They assist in the folding and translocation of nascent polypeptide chains across organelle membranes (ER and mitochondria).",
+    "explanation": "[CONCEPT]\nStep 1: Molecular chaperones bind exposed hydrophobic patches of nascent or stress-unfolded polypeptides, preventing non-productive aggregation and facilitating post-translational translocation across membranes."
+  },
+  {
+    "id": 13,
+    "question": "Which amino acid residue is most likely to be found buried in the interior of a water-soluble globular protein?",
+    "options": [
+      "Ser",
+      "Arg",
+      "Val",
+      "Asp"
+    ],
+    "correct_answer": "Val",
+    "explanation": "[CONCEPT]\nStep 1: Valine (Val) has a non-polar branched aliphatic side chain (–CH(CH₃)₂), making it hydrophobic and strongly driven into the interior core."
+  },
+  {
+    "id": 14,
+    "question": "Of the following peptide sequences, which one is the digestive serine protease trypsin most likely to cleave?",
+    "options": [
+      "---- Val-Lys-Pro-Met ----",
+      "---- Arg-Val-Phe-Tyr ----",
+      "---- Trp-Asp-Gln-Pro ----",
+      "---- Glu-Gly-Trp-Gly ----"
+    ],
+    "correct_answer": "---- Arg-Val-Phe-Tyr ----",
+    "explanation": "[CONCEPT]\nStep 1: Trypsin cleaves peptide bonds on the carboxyl side of basic residues (Arg, Lys) unless followed immediately by Proline.\nStep 2: In sequence B (Arg-Val-Phe-Tyr), Trypsin cleaves efficiently after Arg."
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following statements about protein secondary structure is correct?",
+    "options": [
+      "An α-helix is primarily stabilized by ionic interactions between the side chains.",
+      "β-sheets exist only in antiparallel form.",
+      "β-turns often contain proline (and glycine).",
+      "An α-helix can be composed of more than one polypeptide chain."
+    ],
+    "correct_answer": "β-turns often contain proline (and glycine).",
+    "explanation": "[CONCEPT]\nStep 1: β-turns (reverse turns) reverse polypeptide chain direction by 180°.\nStep 2: Proline readily adopts the cis peptide conformation and glycine provides conformational flexibility, making both abundant in turns."
+  },
+  {
+    "id": 16,
+    "question": "Choose the consensus sequence motif of classical C₂H₂ zinc-finger DNA-binding domains (where X stands for any intervening amino acid residue):",
+    "options": [
+      "X₃-Cys-X₂₋₄-Cys-X₁₂-His-X₃₋₅-His-X₄",
+      "X₃-Cys-Cys-X₂₋₄-His-His-X₄",
+      "X₃-Cys-Cys-His-His-X₄",
+      "Xy-Cys-H₂₋₄-His-X₁₋₂-His-X₃₋₄-Cys-X₄"
+    ],
+    "correct_answer": "X₃-Cys-X₂₋₄-Cys-X₁₂-His-X₃₋₅-His-X₄",
+    "explanation": "[CONCEPT]\nStep 1: The canonical Cys₂His₂ zinc finger consensus motif is C-X₂₋₄-C-X₁₂-H-X₃₋₅-H, where a single Zn²⁺ ion is tetrahedrally coordinated by two invariant cysteines and two invariant histidines."
+  },
+  {
+    "id": 17,
+    "question": "In a standard Ramachandran plot (φ vs ψ), which secondary structural conformations correspond to regions X, Y, and Z?\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 300 240\" class=\"w-full max-w-xs\">\n    <rect x=\"40\" y=\"20\" width=\"220\" height=\"180\" fill=\"#0f172a\" stroke=\"#64748b\" stroke-width=\"2\" />\n    <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"200\" stroke=\"#475569\" stroke-dasharray=\"4,3\" />\n    <line x1=\"40\" y1=\"110\" x2=\"260\" y2=\"110\" stroke=\"#475569\" stroke-dasharray=\"4,3\" />\n    <text x=\"150\" y=\"225\" fill=\"#cbd5e1\" font-size=\"12\" text-anchor=\"middle\">phi (φ)</text>\n    <text x=\"20\" y=\"110\" fill=\"#cbd5e1\" font-size=\"12\" transform=\"rotate(-90 20,110)\" text-anchor=\"middle\">psi (ψ)</text>\n    <!-- Region X: Upper Left (Beta-sheets) -->\n    <rect x=\"60\" y=\"40\" width=\"65\" height=\"55\" rx=\"8\" fill=\"#38bdf8\" fill-opacity=\"0.4\" stroke=\"#38bdf8\" stroke-width=\"2\" />\n    <text x=\"92\" y=\"72\" fill=\"#e0f2fe\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">X</text>\n    <!-- Region Y: Lower Left (Right-handed alpha-helix) -->\n    <rect x=\"65\" y=\"125\" width=\"55\" height=\"50\" rx=\"8\" fill=\"#10b981\" fill-opacity=\"0.4\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <text x=\"92\" y=\"155\" fill=\"#d1fae5\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">Y</text>\n    <!-- Region Z: Upper Right (Left-handed alpha-helix) -->\n    <rect x=\"180\" y=\"50\" width=\"50\" height=\"45\" rx=\"8\" fill=\"#f43f5e\" fill-opacity=\"0.4\" stroke=\"#f43f5e\" stroke-width=\"2\" />\n    <text x=\"205\" y=\"77\" fill=\"#ffe4e6\" font-weight=\"bold\" font-size=\"14\" text-anchor=\"middle\">Z</text>\n  </svg>\n</div>",
+    "options": [
+      "X: Right-handed α-helix; Y: Left-handed α-helix; Z: β-sheet",
+      "X: Left-handed α-helix; Y: Right-handed α-helix; Z: β-sheet",
+      "X: β-sheets; Y: Right-handed α-helix; Z: Left-handed α-helix",
+      "X: β-sheet; Y: Left-handed α-helix; Z: Right-handed α-helix"
+    ],
+    "correct_answer": "X: β-sheets; Y: Right-handed α-helix; Z: Left-handed α-helix",
+    "explanation": "[CONCEPT]\nStep 1: Region X (upper left: φ negative, ψ positive) = β-sheets & collagen helix.\nStep 2: Region Y (lower left: φ negative, ψ negative) = Right-handed α-helix.\nStep 3: Region Z (upper right: φ positive, ψ positive) = Left-handed α-helix."
+  },
+  {
+    "id": 18,
+    "question": "Which pair of amino acid residues can interact in the hydrophobic interior of a globular protein exclusively through van der Waals dispersion forces?",
+    "options": [
+      "Arg, Thr",
+      "Ser, Thr",
+      "Glu, His",
+      "Val, Leu"
+    ],
+    "correct_answer": "Val, Leu",
+    "explanation": "[CONCEPT]\nStep 1: Valine and Leucine are non-polar aliphatic hydrocarbons lacking hydrogen bond donors/acceptors or charges on their side chains.\nStep 2: They interact exclusively via hydrophobic van der Waals packing."
+  },
+  {
+    "id": 19,
+    "question": "For any double-stranded B-form DNA molecule, which one of the following base ratios will always be equal to 1.0 according to Chargaff's rules?",
+    "options": [
+      "(A + T) / (G + C)",
+      "(A + G) / (C + T)",
+      "C / T",
+      "A / G"
+    ],
+    "correct_answer": "(A + G) / (C + T)",
+    "explanation": "[CONCEPT]\nStep 1: According to Chargaff's rules for dsDNA, A = T and G = C.\nStep 2: Therefore, Purines (A + G) = Pyrimidines (C + T), so (A + G) / (C + T) = 1.0."
+  },
+  {
+    "id": 20,
+    "question": "Which one of the following cannot be considered a weak non-covalent interaction in biological systems?",
+    "options": [
+      "Van der Waals forces",
+      "Peptide bonds",
+      "Hydrogen bonds",
+      "Ionic interactions"
+    ],
+    "correct_answer": "Peptide bonds",
+    "explanation": "[CONCEPT]\nStep 1: Peptide bonds (amide linkages) are strong covalent bonds (~400 kJ/mol) with partial double-bond character.\nStep 2: Hydrogen bonds, van der Waals forces, and electrostatic interactions are non-covalent weak interactions."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following statements correctly distinguishes glycogen from cellulose?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Branched molecule containing β(1→4) glycosidic bonds.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Straight chain linear polymer containing β(1→4) glycosidic bonds.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Branched storage polymer containing α(1→4) chains and α(1→6) branch points.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Straight chain molecule containing α(1→6) glycosidic bonds.</span></div></div>",
+    "options": [
+      "P: Glycogen; S: Cellulose",
+      "Q: Glycogen; R: Cellulose",
+      "R: Glycogen; Q: Cellulose",
+      "S: Glycogen; P: Cellulose"
+    ],
+    "correct_answer": "R: Glycogen; Q: Cellulose",
+    "explanation": "[CONCEPT]\nStep 1: Glycogen is an animal storage polysaccharide composed of α(1→4) linked glucose chains with α(1→6) branches every 8–12 residues (R).\nStep 2: Cellulose is an unbranched structural plant polysaccharide composed entirely of linear β(1→4) linked D-glucose units (Q)."
+  },
+  {
+    "id": 22,
+    "question": "In a polypeptide backbone, the dihedral angle of rotation around the N–Cα bond is defined as the",
+    "options": [
+      "psi (ψ) angle.",
+      "phi (φ) angle.",
+      "chi (χ) angle.",
+      "omega (ω) angle."
+    ],
+    "correct_answer": "phi (φ) angle.",
+    "explanation": "[CONCEPT]\nStep 1: By IUPAC-IUB protein backbone convention:\n- N–Cα bond rotation = phi (φ)\n- Cα–C(=O) bond rotation = psi (ψ)\n- C(=O)–N peptide bond rotation = omega (ω)\n- Side-chain rotations = chi (χ)."
+  },
+  {
+    "id": 23,
+    "question": "Identify the amino acid sequence of the tripeptide containing an amide side chain (Gln/Asn), an isopropyl side chain (Val), and a secondary alcohol (Thr):\nH₂N–CH(CH₂–CH₂–CONH₂)–CO–NH–CH(CH(CH₃)₂)–CO–NH–CH(CH(OH)CH₃)–COOH",
+    "options": [
+      "Glutamine – Valine – Threonine",
+      "Asparagine – Valine – Serine",
+      "Glutamine – Leucine – Threonine",
+      "Asparagine – Valine – Threonine"
+    ],
+    "correct_answer": "Glutamine – Valine – Threonine",
+    "explanation": "[CONCEPT]\nStep 1: N-terminal residue has –CH₂–CH₂–CONH₂ = Glutamine (Gln).\nStep 2: Middle residue has –CH(CH₃)₂ = Valine (Val).\nStep 3: C-terminal residue has –CH(OH)CH₃ = Threonine (Thr).\nStep 4: Sequence: Glutamine–Valine–Threonine."
+  },
+  {
+    "id": 24,
+    "question": "In the oxygen binding curves for myoglobin (Mb) and hemoglobin (Hb):\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 360 200\" class=\"w-full max-w-sm\">\n    <line x1=\"50\" y1=\"170\" x2=\"330\" y2=\"170\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"170\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <text x=\"20\" y=\"95\" fill=\"#cbd5e1\" font-size=\"11\" transform=\"rotate(-90 20,95)\" text-anchor=\"middle\">% Saturation (Y)</text>\n    <text x=\"190\" y=\"190\" fill=\"#cbd5e1\" font-size=\"11\" text-anchor=\"middle\">pO₂ (mm Hg)</text>\n    <!-- Hyperbolic Curve P (Myoglobin) -->\n    <path d=\"M 50 170 Q 70 30 320 25\" fill=\"none\" stroke=\"#f43f5e\" stroke-width=\"3\" />\n    <text x=\"100\" y=\"45\" fill=\"#f43f5e\" font-weight=\"bold\" font-size=\"13\">Curve P (Hyperbolic)</text>\n    <!-- Sigmoidal Curve Q (Hemoglobin) -->\n    <path d=\"M 50 170 C 110 170 140 100 320 30\" fill=\"none\" stroke=\"#38bdf8\" stroke-width=\"3\" />\n    <text x=\"210\" y=\"90\" fill=\"#38bdf8\" font-weight=\"bold\" font-size=\"13\">Curve Q (Sigmoidal)</text>\n  </svg>\n</div>\n\nIdentify the correct curves for Myoglobin (Mb) and Hemoglobin (Hb):",
+    "options": [
+      "P : Mb; Q : Hb",
+      "Q : Mb; P : Hb",
+      "R : Mb; Q : Hb",
+      "S : Mb; R : Hb"
+    ],
+    "correct_answer": "P : Mb; Q : Hb",
+    "explanation": "[CONCEPT]\nStep 1: Myoglobin has high O₂ affinity (P₅₀ ~ 2.8 mm Hg) and displays a non-cooperative Hyperbolic binding curve (P).\nStep 2: Hemoglobin binds O₂ with positive cooperativity (Hill coefficient n ≈ 2.8), producing a Sigmoidal binding curve (Q)."
+  },
+  {
+    "id": 25,
+    "question": "Sickle cell anemia arises due to a point mutation creating a sticky hydrophobic patch in deoxy-hemoglobin. This is caused by the substitution of",
+    "options": [
+      "Glu 6 by Val 6 in the α-subunit.",
+      "Glu 6 by Val 6 in the β-subunit.",
+      "Val 6 by Glu 6 in the β-subunit.",
+      "Lys 6 by Glu 6 in the β-subunit."
+    ],
+    "correct_answer": "Glu 6 by Val 6 in the β-subunit.",
+    "explanation": "[CONCEPT]\nStep 1: Sickle cell hemoglobin (HbS) results from a single base substitution (GAG → GTG) at codon 6 of the β-globin gene.\nStep 2: Negatively charged Glutamic acid (Glu6) is replaced by hydrophobic Valine (Val6), which forms insoluble polymer fibers under deoxygenated conditions."
+  },
+  {
+    "id": 26,
+    "question": "The maximum theoretical number of hydrogen bonds that a single molecule of liquid water (or in ice crystal lattice) can simultaneously form is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: A water molecule has two hydrogen atoms (acting as 2 H-bond donors) and two unshared lone pairs on oxygen (acting as 2 H-bond acceptors).\nStep 2: It forms a maximum of 4 hydrogen bonds in a tetrahedral geometry."
+  },
+  {
+    "id": 27,
+    "question": "How does hemoglobin transport carbon dioxide (~15%) generated by respiring peripheral tissues back to the lungs?",
+    "options": [
+      "By direct coordination with heme Fe²⁺",
+      "By forming carbamate adducts at the uncharged N-terminal α-amino groups of the globin chains",
+      "By forming C-terminal carboxylate esters",
+      "By linking covalently to the ε-amino group of lysine"
+    ],
+    "correct_answer": "By forming carbamate adducts at the uncharged N-terminal α-amino groups of the globin chains",
+    "explanation": "[CONCEPT]\nStep 1: CO₂ reacts with terminal α-amino groups: R–NH₂ + CO₂ ⇌ R–NH–COO⁻ + H⁺ (Carbaminohemoglobin).\nStep 2: This stabilizes the T (deoxy) state, releasing O₂ via the Bohr effect."
+  },
+  {
+    "id": 28,
+    "question": "Match the polysaccharides in Column I with their constituent monosaccharide subunits in\n\nColumn II:\n\nColumn I:\nP. Chitin\nQ. Hemicellulose (Xylan)\nR. Glycogen\n\nColumn II:\n1. D-Glucose\n2. N-Acetyl-D-glucosamine (GlcNAc)\n3. D-Xylose\n4. D-Galactose",
+    "options": [
+      "P – 1; Q – 3; R – 4",
+      "P – 2; Q – 4; R – 1",
+      "P – 4; Q – 2; R – 3",
+      "P – 2; Q – 3; R – 1"
+    ],
+    "correct_answer": "P – 2; Q – 3; R – 1",
+    "explanation": "[CONCEPT]\nStep 1: Chitin = homopolymer of N-acetylglucosamine in β(1→4) linkage (P–2).\nStep 2: Hemicellulose (xylan) = polymer of D-xylose (Q–3).\nStep 3: Glycogen = branched polymer of D-glucose (R–1)."
+  },
+  {
+    "id": 29,
+    "question": "Match the catalytic intermediate / transition state entity with each enzyme:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Ribonuclease A</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Lysozyme</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Chymotrypsin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Carboxypeptidase A\n\nColumn II:\n1. Oxyanion hole / Tetrahedral intermediate\n2. Pentacovalent cyclic phosphorus intermediate\n3. Oxocarbenium (carbonium) ion\n4. Mixed anhydride acyl-enzyme intermediate</span></div></div>",
+    "options": [
+      "P – 3; Q – 2; R – 4; S – 1",
+      "P – 2; Q – 3; R – 1; S – 4",
+      "P – 2; Q – 1; R – 3; S – 4",
+      "P – 4; Q – 3; R – 2; S – 1"
+    ],
+    "correct_answer": "P – 2; Q – 3; R – 1; S – 4",
+    "explanation": "[CONCEPT]\nStep 1: RNase A forms a 2′,3′-cyclic pentacoordinated phosphorane intermediate (P–2).\nStep 2: Lysozyme generates an oxocarbenium ion transition state (Q–3).\nStep 3: Chymotrypsin forms a tetrahedral oxyanion intermediate stabilized by the oxyanion hole (R–1).\nStep 4: Carboxypeptidase forms a mixed anhydride with Glu270 (S–4)."
+  },
+  {
+    "id": 30,
+    "question": "In mammalian cells, 45S pre-rRNA transcript yields mature 5.8S (160 b), 18S (1.9 kb), and 28S (5.1 kb) rRNAs. Given that approximately 46% of the 45S transcript is transcribed spacer region (unstable/degraded) and average ribonucleotide MW is 330 Da, what is the approximate molecular weight of 45S pre-rRNA?",
+    "options": [
+      "2 × 10⁶ Da",
+      "5 × 10⁵ Da",
+      "5 × 10⁶ Da",
+      "9 × 10⁷ Da"
+    ],
+    "correct_answer": "5 × 10⁶ Da",
+    "explanation": "[CONCEPT]\nStep 1: Mature rRNA length = 160 + 1900 + 5100 = 7160 bases (representing 54% of transcript).\nStep 2: Total 45S length = 7160 / 0.54 ≈ 13,260 bases.\nStep 3: MW = 13,260 × 330 Da ≈ 4.38 × 10⁶ to 4.5 × 10⁶ Da."
+  },
+  {
+    "id": 31,
+    "question": "Given that pre-rRNA content per human genome is 7.8 × 10⁻¹⁵ g and 45S pre-rRNA MW is ~4.5 × 10⁶ Da (4.73 × 10⁹ Da total per genome), the number of ribosomal RNA gene copies per genome is approximately",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10,000"
+    ],
+    "correct_answer": "1000",
+    "explanation": "[CONCEPT]\nStep 1: Total rRNA genes = (4.73 × 10⁹ Da) / (4.5 × 10⁶ Da) ≈ 1000 copies distributed across nucleolar organizer regions (NORs)."
+  },
+  {
+    "id": 32,
+    "question": "The physiological advantage of hemoglobin possessing a high content of histidine residues (such as proximal His F8 and distal His E7) is that",
+    "options": [
+      "histidine binds directly to molecular oxygen.",
+      "histidine carries oxygen in place of iron.",
+      "histidine has an imidazole side chain pKa (~6.0–7.0) close to physiological blood pH, imparting high buffering capacity and mediating the Bohr effect.",
+      "the R group of histidine is permanently uncharged."
+    ],
+    "correct_answer": "histidine has an imidazole side chain pKa (~6.0–7.0) close to physiological blood pH, imparting high buffering capacity and mediating the Bohr effect.",
+    "explanation": "[CONCEPT]\nStep 1: Imidazole nitrogen of Histidine has pKa near 6.5–7.0, allowing reversible protonation at physiological blood pH (7.4) to buffer H⁺ and regulate oxygen affinity (Bohr effect)."
+  },
+  {
+    "id": 33,
+    "question": "Chymotrypsin and Lysozyme are enzymes involved respectively in:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Removal of successive carboxyl terminal residues.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hydrolytic cleavage of specific peptide bonds.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Cleavage of β(1→4) glycosidic C–O bonds in bacterial peptidoglycan.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Oxygen transport in blood.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "Q, S",
+      "R, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Chymotrypsin hydrolyzes peptide bonds C-terminal to aromatic residues (Q).\nStep 2: Lysozyme hydrolyzes β(1→4) glycosidic bonds between NAM and NAG (R)."
+  },
+  {
+    "id": 34,
+    "question": "The rise per residue of an α-helix is 1.5 Å. A 7-transmembrane G-protein coupled receptor (GPCR) spans a 4.0 nm (40 Å) lipid bilayer 7 times. Approximately how many amino acid residues constitute the transmembrane domain of this protein?",
+    "options": [
+      "105",
+      "450",
+      "30",
+      "190"
+    ],
+    "correct_answer": "190",
+    "explanation": "[CONCEPT]\nStep 1: Residues per transmembrane span = 40 Å / 1.5 Å/residue ≈ 26.7 residues.\nStep 2: For 7 spans: 7 × 26.7 ≈ 187 ≈ 190 amino acid residues."
+  },
+  {
+    "id": 35,
+    "question": "The strong permanent polarity of a water molecule is primarily due to",
+    "options": [
+      "its tetrahedral structure.",
+      "bonding electrons being attracted more strongly towards the highly electronegative oxygen atom.",
+      "bonding electrons being attracted more to hydrogen.",
+      "its weak electrolytic dissociation."
+    ],
+    "correct_answer": "bonding electrons being attracted more strongly towards the highly electronegative oxygen atom.",
+    "explanation": "[CONCEPT]\nStep 1: Oxygen is much more electronegative (3.44) than hydrogen (2.20), drawing bonding electrons toward oxygen and giving water a strong permanent dipole."
+  },
+  {
+    "id": 36,
+    "question": "Collagen, α-keratin, and tropomyosin share which common structural features?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Interchain disulfide bridges linking neighboring subunits.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Repeating tandem sequences / heptad repeats of amino acids.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>A high β-sheet content.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Coiled-coil superhelical rope-like quaternary structures.</span></div></div>",
+    "options": [
+      "P and Q",
+      "Q and R",
+      "Q and S",
+      "P and R"
+    ],
+    "correct_answer": "Q and S",
+    "explanation": "[CONCEPT]\nStep 1: All three fibrous proteins have characteristic repeating sequences (Gly-X-Y in collagen, heptad repeats in keratin/tropomyosin) (Q).\nStep 2: All form supercoiled coiled-coil ropes (triple helix in collagen, 2-stranded coiled coils in α-keratin and tropomyosin) (S)."
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following closely defines the ‘Molten Globule’ folding intermediate state of a globular protein?",
+    "options": [
+      "A compact folding intermediate with a high degree of native-like secondary structure but lacking fixed tertiary side-chain packing",
+      "A state with complete loss of secondary structure",
+      "Completely random-coil unfolded state",
+      "Loss of quaternary structure without tertiary change"
+    ],
+    "correct_answer": "A compact folding intermediate with a high degree of native-like secondary structure but lacking fixed tertiary side-chain packing",
+    "explanation": "[CONCEPT]\nStep 1: The molten globule is a compact intermediate formed during hydrophobic collapse, possessing substantial secondary structure but dynamic, fluctuating tertiary interactions."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following pairs of amino acids has the highest propensity to adopt an α-helical conformation in proteins?",
+    "options": [
+      "Gly−Asp",
+      "Pro−His",
+      "Gly−Pro",
+      "Ala−Arg (or Ala-Leu)"
+    ],
+    "correct_answer": "Ala−Arg (or Ala-Leu)",
+    "explanation": "[CONCEPT]\nStep 1: Alanine (Ala) has the highest helix propensity (ΔΔG° = 0) because its small uncharged methyl side chain fits without steric hindrance.\nStep 2: Proline (helix breaker) and Glycine (high conformational entropy) strongly destabilize α-helices."
+  },
+  {
+    "id": 39,
+    "question": "An amino acid (Glutamic acid) has pKa values: pK_COOH = 2.19, pK_NH3+ = 9.67, and pK_R (side chain carboxyl) = 4.25. Which statement about this amino acid is correct?",
+    "options": [
+      "Majority of the molecules will have a net charge of −1 at pH 7.0.",
+      "Majority of the molecules will have a net charge of 0 at pH 4.25.",
+      "All molecules will have a deprotonated R group at pH 3.22.",
+      "During titration with a strong base, deprotonation will start with the R group."
+    ],
+    "correct_answer": "Majority of the molecules will have a net charge of −1 at pH 7.0.",
+    "explanation": "[CONCEPT]\nStep 1: At pH 7.0 (well above pK₁ = 2.19 and pK_R = 4.25):\n- α-COOH is deprotonated (−1)\n- γ-COOH is deprotonated (−1)\n- α-NH₃⁺ remains protonated (+1)\nStep 2: Net charge = (−1) + (−1) + (+1) = −1."
+  },
+  {
+    "id": 40,
+    "question": "The total axial length of a 36-amino-acid-residue α-helix is",
+    "options": [
+      "10 Å",
+      "54 Å",
+      "27 Å",
+      "360 Å"
+    ],
+    "correct_answer": "54 Å",
+    "explanation": "[CONCEPT]\nStep 1: Length = 36 residues × 1.5 Å/residue = 54 Å (5.4 nm, exactly 10 helical turns)."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following amino acid residues is specifically recognized and bound in the deep hydrophobic S1 pocket of chymotrypsin during peptide cleavage?",
+    "options": [
+      "Phenylalanine (Phe)",
+      "Leucine (Leu)",
+      "Valine (Val)",
+      "Aspartate (Asp)"
+    ],
+    "correct_answer": "Phenylalanine (Phe)",
+    "explanation": "[CONCEPT]\nStep 1: Chymotrypsin has a deep, non-polar S1 substrate specificity pocket lined with Ser189, Gly216, and Gly226, specifically accommodating bulky aromatic rings (Phe, Tyr, Trp)."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following amino acids has a significantly higher intrinsic propensity for cis peptide bond formation (~6% cis vs <0.1% for other residues)?",
+    "options": [
+      "Histidine",
+      "Cysteine",
+      "Glycine",
+      "Proline"
+    ],
+    "correct_answer": "Proline",
+    "explanation": "[CONCEPT]\nStep 1: In X-Pro peptide bonds, the steric clash between Cα atoms in trans vs cis configurations is comparable because the imino ring has a δ-carbon attached to nitrogen, allowing ~6% cis-proline isomers."
+  },
+  {
+    "id": 43,
+    "question": "Which of the following proteases does not cleave on the carboxyl side of arginine residues in a protein?",
+    "options": [
+      "Trypsin",
+      "Proteinase K",
+      "Thrombin",
+      "Chymotrypsin"
+    ],
+    "correct_answer": "Chymotrypsin",
+    "explanation": "[CONCEPT]\nStep 1: Trypsin and Thrombin cleave specifically after basic residues (Arg, Lys).\nStep 2: Chymotrypsin cleaves after bulky aromatic residues (Phe, Tyr, Trp) and cannot cleave charged Arginine."
+  },
+  {
+    "id": 44,
+    "question": "Choose the option comprising two reducing sugars:",
+    "options": [
+      "Lactose and Maltose",
+      "Trehalose and Sucrose",
+      "Maltose and Trehalose",
+      "Lactose and Sucrose"
+    ],
+    "correct_answer": "Lactose and Maltose",
+    "explanation": "[CONCEPT]\nStep 1: Lactose (Gal β1→4 Glc) and Maltose (Glc α1→4 Glc) retain a free anomeric hemiacetal carbon capable of mutarotating and reducing Fehling's/Benedict's reagents.\nStep 2: Sucrose and Trehalose have their anomeric carbons locked in glycosidic linkages (non-reducing)."
+  },
+  {
+    "id": 45,
+    "question": "Proteolytic enzymes like trypsin and pepsin are biosynthesized as larger inactive precursors known as",
+    "options": [
+      "holoenzymes.",
+      "ribozymes.",
+      "zymogens (proenzymes).",
+      "apoenzymes."
+    ],
+    "correct_answer": "zymogens (proenzymes).",
+    "explanation": "[CONCEPT]\nStep 1: Zymogens (e.g., trypsinogen, chymotrypsinogen, pepsinogen) are inactive proenzymes requiring proteolytic cleavage to prevent premature autodigestion of secreting cells."
+  },
+  {
+    "id": 46,
+    "question": "The formation of a planar oxocarbenium (oxonium) ion transition state occurs during the glycosidic bond cleavage catalyzed by",
+    "options": [
+      "aldolase.",
+      "lysozyme.",
+      "ribonuclease A.",
+      "carboxypeptidase A."
+    ],
+    "correct_answer": "lysozyme.",
+    "explanation": "[CONCEPT]\nStep 1: Lysozyme distorts the D sugar ring of peptidoglycan into a half-chair conformation, facilitating C1–O cleavage and stabilizing a resonance-stabilized oxocarbenium (oxonium) intermediate."
+  },
+  {
+    "id": 47,
+    "question": "Which one of the following does not constitute a covalent lipid anchor in lipid-linked membrane proteins?",
+    "options": [
+      "Palmitic acid (S-palmitoylation)",
+      "Stearic acid",
+      "Farnesyl groups (Prenylation)",
+      "Myristic acid (N-myristoylation)"
+    ],
+    "correct_answer": "Stearic acid",
+    "explanation": "[CONCEPT]\nStep 1: Standard lipid anchors in proteins include Myristate (C14:0 amide to N-terminal Gly), Palmitate (C16:0 thioester to Cys), Farnesyl/Geranylgeranyl (isoprenoids), and GPI anchors.\nStep 2: Stearic acid (C18:0) is not used as a protein lipid anchor."
+  },
+  {
+    "id": 48,
+    "question": "Match the peptide backbone and side-chain dihedral angles:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Rotation around N–Cα bond (W)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Rotation around Cα–C(=O) bond (X)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Rotation around C(=O)–N peptide bond (Y)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Rotation around Cα–Cβ side chain bond (Z)\n\nColumn II:\n1. ψ (psi)\n2. χ (chi)\n3. φ (phi)\n4. ω (omega)</span></div></div>",
+    "options": [
+      "P – 3; Q – 1; R – 4; S – 2",
+      "P – 1; Q – 3; R – 4; S – 2",
+      "P – 1; Q – 3; R – 2; S – 4",
+      "P – 3; Q – 1; R – 2; S – 4"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 4; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: W (N–Cα) = φ (phi) (P–3).\nStep 2: X (Cα–C) = ψ (psi) (Q–1).\nStep 3: Y (C–N) = ω (omega) (R–4).\nStep 4: Z (Cα–Cβ) = χ (chi) (S–2)."
+  },
+  {
+    "id": 49,
+    "question": "Which of the following statements is incorrect regarding hemoglobin (Hb)?",
+    "options": [
+      "There is covalent bonding between the four subunits of Hb.",
+      "Hb demonstrates higher oxygen carrying capacity compared to myoglobin.",
+      "During de-oxygenation, the loss of the first oxygen molecule promotes the dissociation of subsequent oxygen molecules (allosteric cooperativity).",
+      "Myoglobin binds oxygen with higher affinity than hemoglobin."
+    ],
+    "correct_answer": "There is covalent bonding between the four subunits of Hb.",
+    "explanation": "[CONCEPT]\nStep 1: The four globin subunits (α₁β₁ and α₂β₂) are held together entirely by non-covalent salt bridges, hydrogen bonds, and hydrophobic interactions (no covalent bonds between subunits)."
+  },
+  {
+    "id": 50,
+    "question": "Cellulose serves as a rigid structural cell wall polymer whereas starch acts as energy storage. This is because cellulose contains",
+    "options": [
+      "β(1→4) linked glucose monomers forming extended ribbons stabilized by inter-chain and intra-chain hydrogen bonds.",
+      "β(1→4) linked glucose monomers with no hydrogen bonds.",
+      "α(1→4) linked glucose monomers forming loose helical coils.",
+      "α(1→6) linked glucose monomers only."
+    ],
+    "correct_answer": "β(1→4) linked glucose monomers forming extended ribbons stabilized by inter-chain and intra-chain hydrogen bonds.",
+    "explanation": "[CONCEPT]\nStep 1: The β(1→4) glycosidic linkage forces glucose residues into flat extended 180° flipped ribbons, allowing dense inter-chain hydrogen-bonded microfibrils with high tensile strength."
+  },
+  {
+    "id": 51,
+    "question": "Aspartate residues are present in the active sites of many enzymes. The pKa for the β-carboxylate of aspartate is 3.86. At physiological pH (7.4), this group functions as",
+    "options": [
+      "a nucleophile and a conjugate acid.",
+      "an electrophile and a conjugate acid.",
+      "a nucleophile and a conjugate base (–COO⁻).",
+      "an electrophile and a conjugate base."
+    ],
+    "correct_answer": "a nucleophile and a conjugate base (–COO⁻).",
+    "explanation": "[CONCEPT]\nStep 1: At pH 7.4 (> pKa 3.86), aspartate is fully deprotonated as the conjugate base carboxylate (–COO⁻).\nStep 2: The negatively charged oxygen can act as an electron-pair donor (nucleophile / general base)."
+  },
+  {
+    "id": 52,
+    "question": "Which one of the following lipid classes will not spontaneously form a stable lipid bilayer in aqueous solution?",
+    "options": [
+      "Cholesterol",
+      "Phosphatidylethanolamine",
+      "Triacylglycerol",
+      "Phosphatidylcholine"
+    ],
+    "correct_answer": "Triacylglycerol",
+    "explanation": "[CONCEPT]\nStep 1: Phospholipids and glycolipids are amphipathic (polar head + 2 fatty acyl tails) and spontaneously form planar bilayers/liposomes.\nStep 2: Triacylglycerols are entirely hydrophobic neutral lipids that coalesce into oily droplets."
+  },
+  {
+    "id": 53,
+    "question": "To which EC class of enzymes does chymotrypsin belong?",
+    "options": [
+      "EC 1: Oxidoreductase",
+      "EC 3: Hydrolase (Peptidase / Serine endopeptidase)",
+      "EC 2: Transferase",
+      "EC 5: Isomerase"
+    ],
+    "correct_answer": "EC 3: Hydrolase (Peptidase / Serine endopeptidase)",
+    "explanation": "[CONCEPT]\nStep 1: Chymotrypsin hydrolyzes peptide and ester bonds using water: EC 3.4.21.1 (Hydrolase)."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following ring conformations of D-glucopyranose is the most thermodynamically stable?",
+    "options": [
+      "Boat",
+      "Half chair",
+      "Chair (⁴C₁ conformation)",
+      "Planar"
+    ],
+    "correct_answer": "Chair (⁴C₁ conformation)",
+    "explanation": "[CONCEPT]\nStep 1: In the ⁴C₁ chair conformation of β-D-glucopyranose, all bulky hydroxyl (–OH) and hydroxymethyl (–CH₂OH) substituents occupy equatorial positions, minimizing steric and torsional strain."
+  },
+  {
+    "id": 55,
+    "question": "Which of the following velocity vs substrate concentration profiles represents the phenomenon of positive allosteric cooperativity in enzyme kinetics?",
+    "options": [
+      "Hyperbolic curve",
+      "Linear line",
+      "Sigmoidal (S-shaped) curve",
+      "Horizontal plateau"
+    ],
+    "correct_answer": "Sigmoidal (S-shaped) curve",
+    "explanation": "[CONCEPT]\nStep 1: Positive cooperativity (e.g. phosphofructokinase, ATCase, hemoglobin) produces a sigmoidal (S-shaped) saturation velocity curve."
+  },
+  {
+    "id": 56,
+    "question": "The secondary structure topology of a 400-amino-acid-long protein X shows three α-helices:\n- Helix 1: residues 21 to 70 (50 residues)\n- Helix 2: residues 225 to 249 (25 residues)\n- Helix 3: residues 320 to 324 (5 residues)\n\nWhat is the percentage of residues forming α-helices in protein X?",
+    "options": [
+      "10%",
+      "15%",
+      "20%",
+      "25%"
+    ],
+    "correct_answer": "20%",
+    "explanation": "[CONCEPT]\nStep 1: Total helical residues = (70 − 21 + 1) + (249 − 225 + 1) + (324 − 320 + 1) = 50 + 25 + 5 = 80 residues.\nStep 2: Percentage = (80 / 400) × 100% = 20%."
+  },
+  {
+    "id": 57,
+    "question": "The dipeptide with the least rotational barrier around the peptide bond among the given structures is the one where resonance delocalization of the nitrogen lone pair is sterically strained/restricted in a five-membered imino ring system:",
+    "options": [
+      "Gly-Gly",
+      "Dipeptide with non-planar pyrrolidine / tertiary amide ring",
+      "Ala-Ala",
+      "Leu-Val"
+    ],
+    "correct_answer": "Dipeptide with non-planar pyrrolidine / tertiary amide ring",
+    "explanation": "[CONCEPT]\nStep 1: In tertiary amides where the nitrogen is constrained in a non-planar 5-membered ring, conjugation of the nitrogen lone pair into the carbonyl π system is reduced, lowering the C–N double-bond rotational barrier."
+  },
+  {
+    "id": 58,
+    "question": "The electrostatic interaction energy between two opposite charges A and B separated by 3 Å in water (relative permittivity ε_r = 80) is −6.0 kJ mol⁻¹. What is the electrostatic interaction energy (in kJ mol⁻¹) between the same charges in vacuum (ε_r = 1)?",
+    "options": [
+      "−6.0 kJ mol⁻¹",
+      "−480 kJ mol⁻¹",
+      "+480 kJ mol⁻¹",
+      "−80 kJ mol⁻¹"
+    ],
+    "correct_answer": "−480 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: Coulomb's Law: E = q₁q₂ / (4πε₀ε_r · r).\nStep 2: E_vacuum = E_water × ε_r(water) = (−6.0 kJ/mol) × 80 = −480 kJ/mol."
+  },
+  {
+    "id": 59,
+    "question": "The crystal structure of an extended polypeptide shows a distance of ~6.5–7.0 Å between alternate Cα atoms. Which pair of dihedral angles (φ, ψ) accurately represents this β-strand secondary structure?",
+    "options": [
+      "φ ≈ −60°, ψ ≈ −50°",
+      "φ ≈ −120°, ψ ≈ −50°",
+      "φ ≈ −60°, ψ ≈ +120°",
+      "φ ≈ −120° to −140°, ψ ≈ +120° to +140°"
+    ],
+    "correct_answer": "φ ≈ −120° to −140°, ψ ≈ +120° to +140°",
+    "explanation": "[CONCEPT]\nStep 1: In β-strands, the polypeptide chain is fully extended with alternate Cα distance of ~6.5–7.0 Å.\nStep 2: The Ramachandran coordinates for β-sheets are φ ≈ −120° to −140° and ψ ≈ +120° to +140°."
+  },
+  {
+    "id": 60,
+    "question": "One mole of a native protein upon N-terminal sequencing analysis yielded exactly one mole of Aspartate (Asp) and one mole of Valine (Val). In its native state, this protein exists as a",
+    "options": [
+      "monomer.",
+      "homo-dimer.",
+      "hetero-dimer (composed of two distinct polypeptide chains).",
+      "tetramer."
+    ],
+    "correct_answer": "hetero-dimer (composed of two distinct polypeptide chains).",
+    "explanation": "[CONCEPT]\nStep 1: The presence of 1 mole of Asp and 1 mole of Val per mole of intact native protein reveals two distinct N-termini, proving the protein is an equimolar heterodimer."
+  },
+  {
+    "id": 61,
+    "question": "The correct combination of glycosidic linkages present in glycogen is",
+    "options": [
+      "α(1→4) in linear chains and α(1→6) at branch points",
+      "α(1→4) and β(1→6)",
+      "α(1→6) and β(1→4)",
+      "α(1→6) and β(1→6)"
+    ],
+    "correct_answer": "α(1→4) in linear chains and α(1→6) at branch points",
+    "explanation": "[CONCEPT]\nStep 1: Glycogen is an α-D-glucan containing α(1→4) linear linkages and α(1→6) branches every 8–12 glucose residues."
+  },
+  {
+    "id": 62,
+    "question": "The second pKa of phosphoric acid (H₂PO₄⁻ ⇌ HPO₄²⁻ + H⁺) is 6.80. The molar ratio of [Na₂HPO₄] (base) to [NaH₂PO₄] (acid) required to prepare a phosphate buffer of pH 7.0 is",
+    "options": [
+      "0.58",
+      "00",
+      "58",
+      "58"
+    ],
+    "correct_answer": "58",
+    "explanation": "[CONCEPT]\nStep 1: Henderson-Hasselbalch equation: pH = pKa + log([Base] / [Acid]).\nStep 2: 7.0 = 6.80 + log([HPO₄²⁻] / [H₂PO₄⁻]).\nStep 3: log([Base] / [Acid]) = 0.20.\nStep 4: [Base] / [Acid] = 10^(0.20) = 1.58."
+  }
+]

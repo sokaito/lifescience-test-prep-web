@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 1,
+    "question": "A double-stranded DNA sample has 30% thymine (T). According to Chargaff's rules, what is the percentage of cytosine (C) in this DNA?",
+    "options": [
+      "30%",
+      "20%",
+      "70%",
+      "15%"
+    ],
+    "correct_answer": "20%",
+    "explanation": "[CONCEPT]\nStep 1: In dsDNA, %A = %T = 30%. Thus %A + %T = 60%.\nStep 2: %G + %C = 100% − 60% = 40%.\nStep 3: Since %G = %C, %C = 40% / 2 = 20%."
+  },
+  {
+    "id": 2,
+    "question": "The post-translational maturation of preproinsulin to active mature human insulin does not include",
+    "options": [
+      "cleavage of the N-terminal hydrophobic signal peptide in the ER.",
+      "formation of specific interchain and intrachain disulfide bonds in the ER.",
+      "proteolytic excision of the internal connecting C-peptide by prohormone convertases.",
+      "cyclization of an internal glutamate residue."
+    ],
+    "correct_answer": "cyclization of an internal glutamate residue.",
+    "explanation": "[CONCEPT]\nStep 1: Maturation involves: Signal peptide cleavage → Disulfide bond pairing → C-peptide excision by PC1/PC2 and carboxypeptidase E. Glutamate cyclization does not occur."
+  },
+  {
+    "id": 3,
+    "question": "Diphtheria toxin from Corynebacterium diphtheriae blocks eukaryotic protein synthesis by",
+    "options": [
+      "catalyzing mono-ADP-ribosylation of a modified histidine residue (diphthamide) on eukaryotic elongation factor 2 (eEF-2), inactivating translocation.",
+      "causing premature release of peptidyl-tRNA from the ribosomal P-site.",
+      "binding directly to initiation factor eIF-1.",
+      "inhibiting peptidyl transferase center."
+    ],
+    "correct_answer": "catalyzing mono-ADP-ribosylation of a modified histidine residue (diphthamide) on eukaryotic elongation factor 2 (eEF-2), inactivating translocation.",
+    "explanation": "[CONCEPT]\nStep 1: Diphtheria toxin fragment A transfers ADP-ribose from NAD⁺ onto diphthamide-715 of eEF-2, abolishing its ability to mediate GTP-dependent mRNA-tRNA translocation."
+  },
+  {
+    "id": 4,
+    "question": "In a Meselson-Stahl density gradient experiment, E. coli uniformly labeled with ¹⁵N is shifted to a medium containing ¹⁴N. After exactly two complete generations of replication, what will be the proportion of light (¹⁴N/¹⁴N) to hybrid intermediate (¹⁵N/¹⁴N) DNA?",
+    "options": [
+      "1 : 1 (50% light, 50% hybrid)",
+      "3 : 1 (75% light, 25% hybrid)",
+      "1 : 3",
+      "0 : 1"
+    ],
+    "correct_answer": "1 : 1 (50% light, 50% hybrid)",
+    "explanation": "[CONCEPT]\nStep 1: Gen 0: 100% Heavy (¹⁵N/¹⁵N).\nStep 2: Gen 1: 100% Hybrid (¹⁵N/¹⁴N).\nStep 3: Gen 2: 2 Hybrid (¹⁵N/¹⁴N) + 2 Light (¹⁴N/¹⁴N) = 1:1 ratio (50% light, 50% hybrid)."
+  },
+  {
+    "id": 5,
+    "question": "When an aqueous solution of double-stranded B-DNA is heated above its melting temperature (T_m), its UV absorbance at 260 nm (A₂₆₀) will",
+    "options": [
+      "decrease.",
+      "increase significantly (Hyperchromic effect).",
+      "remain unchanged.",
+      "initially increase and then decrease."
+    ],
+    "correct_answer": "increase significantly (Hyperchromic effect).",
+    "explanation": "[CONCEPT]\nStep 1: Thermal denaturation disrupts hydrogen bonds and un-stacks aromatic purine/pyrimidine base pairs, exposing their transition dipoles and increasing UV absorbance by ~30–40% (hyperchromicity)."
+  },
+  {
+    "id": 6,
+    "question": "Both parental strands of a double-stranded DNA molecule serve as templates simultaneously and concurrently during",
+    "options": [
+      "semiconservative DNA replication (leading and lagging strand synthesis).",
+      "mismatch repair.",
+      "nucleotide excision repair.",
+      "transcription."
+    ],
+    "correct_answer": "semiconservative DNA replication (leading and lagging strand synthesis).",
+    "explanation": "[CONCEPT]\nStep 1: At the replication fork, both parental strands are unwound and copied simultaneously by a dimeric DNA Polymerase III holoenzyme."
+  },
+  {
+    "id": 7,
+    "question": "The tripeptide encoded by the mRNA transcribed from the template DNA sequence 3′–GGG TTT ATG–5′ (mRNA: 5′–CCC AAA UAC–3′) is",
+    "options": [
+      "Pro – Lys – Tyr",
+      "Met – Phe – Gly",
+      "Met – Gly – Lys",
+      "Met – Phe – Lys"
+    ],
+    "correct_answer": "Pro – Lys – Tyr",
+    "explanation": "[CONCEPT]\nStep 1: mRNA codons: CCC = Proline, AAA = Lysine, UAC = Tyrosine → Pro–Lys–Tyr."
+  },
+  {
+    "id": 8,
+    "question": "All of the following statements about transposable genetic elements (transposons) are true except",
+    "options": [
+      "transposons can excise and insert into new chromosomal target sites.",
+      "both donor and target genomic sites must share strict extensive nucleotide sequence homology.",
+      "transposons may activate adjacent downstream proto-oncogenes or cryptic promoters.",
+      "transposons may inactivate genes by insertional mutagenesis."
+    ],
+    "correct_answer": "both donor and target genomic sites must share strict extensive nucleotide sequence homology.",
+    "explanation": "[CONCEPT]\nStep 1: Transposition is non-homologous site-independent recombination catalyzed by transposase and does not require extensive flanking sequence homology."
+  },
+  {
+    "id": 9,
+    "question": "A cell-free reaction contains E. coli DNA polymerase I, Mg²⁺, and all four dNTPs. Which of the following nucleic acid constructs will serve as a functional template-primer to initiate DNA synthesis?",
+    "options": [
+      "Single-stranded RNA paired with a primer having a free 3′-OH",
+      "Single-stranded DNA paired with a primer having a free 5′-OH",
+      "Single-stranded DNA template base-paired with an annealed oligonucleotide primer possessing a free 3′-OH group.",
+      "Intact double-stranded blunt DNA."
+    ],
+    "correct_answer": "Single-stranded DNA template base-paired with an annealed oligonucleotide primer possessing a free 3′-OH group.",
+    "explanation": "[CONCEPT]\nStep 1: DNA Polymerase I strictly requires a single-stranded DNA template and an annealed primer with a free 3′-hydroxyl terminus to catalyze phosphodiester bond formation."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following statements regarding DNA topoisomerases is correct?",
+    "options": [
+      "Type I topoisomerases produce transient single-strand nicks without ATP, whereas Type II topoisomerases introduce transient double-strand breaks in an ATP-dependent reaction.",
+      "Type I topoisomerases break both strands simultaneously.",
+      "Type II topoisomerases do not require ATP.",
+      "Topoisomerases cannot alter DNA linking numbers."
+    ],
+    "correct_answer": "Type I topoisomerases produce transient single-strand nicks without ATP, whereas Type II topoisomerases introduce transient double-strand breaks in an ATP-dependent reaction.",
+    "explanation": "[CONCEPT]\nStep 1: Type I topoisomerases (Topo I) cleave one DNA strand (ΔLk = ±1) ATP-independently.\nStep 2: Type II topoisomerases (Gyrase, Topo II) pass a duplex through a double-strand break (ΔLk = ±2) coupled to ATP hydrolysis."
+  },
+  {
+    "id": 11,
+    "question": "Left-handed Z-DNA conformation is characterized by which of the following features?",
+    "options": [
+      "Has fewer base pairs per helical turn than B-DNA.",
+      "Is favored by alternating purine-pyrimidine sequences (e.g. poly d(GC)·d(GC)) and high salt / cytosine methylation.",
+      "Tends to be localized exclusively at the 3′ poly-A tail of genes.",
+      "Is the predominant conformation of genomic DNA under physiological conditions."
+    ],
+    "correct_answer": "Is favored by alternating purine-pyrimidine sequences (e.g. poly d(GC)·d(GC)) and high salt / cytosine methylation.",
+    "explanation": "[CONCEPT]\nStep 1: Z-DNA is a left-handed double helix (12 bp/turn) with alternating syn/anti glycosidic conformations favored by alternating G-C sequences and cytosine C5-methylation."
+  },
+  {
+    "id": 12,
+    "question": "How many high-energy phosphoanhydride bonds (ATP/GTP equivalents) are expended for the synthesis of each single peptide bond during eukaryotic ribosomal translation?",
+    "options": [
+      "2",
+      "4 (2 ATP in tRNA aminoacylation + 1 GTP in EF-Tu delivery + 1 GTP in EF-G translocation)",
+      "3",
+      "6"
+    ],
+    "correct_answer": "4 (2 ATP in tRNA aminoacylation + 1 GTP in EF-Tu delivery + 1 GTP in EF-G translocation)",
+    "explanation": "[CONCEPT]\nStep 1: Amino acid activation by aminoacyl-tRNA synthetase consumes ATP → AMP + PPi (2 high-energy bonds equivalent).\nStep 2: EF-Tu / eEF-1A delivery consumes 1 GTP.\nStep 3: EF-G / eEF-2 ribosomal translocation consumes 1 GTP.\nTotal = 4 high-energy bonds."
+  },
+  {
+    "id": 13,
+    "question": "A recombinant DNA technique used to map and isolate overlapping genomic clones spanning very long contiguous stretches of uncharacterized chromosomal DNA (50–100 kb) is",
+    "options": [
+      "RFLP analysis",
+      "Chromosome walking (using end-fragments of isolated clones as hybridization probes to screen genomic libraries)",
+      "Nick translation",
+      "Southern blotting"
+    ],
+    "correct_answer": "Chromosome walking (using end-fragments of isolated clones as hybridization probes to screen genomic libraries)",
+    "explanation": "[CONCEPT]\nStep 1: Chromosome walking isolates overlapping genomic cosmid/BAC clones sequentially to traverse from a known marker to a linked target gene."
+  },
+  {
+    "id": 14,
+    "question": "An endonuclease is defined as an enzyme that catalyzes",
+    "options": [
+      "hydrolysis of terminal nucleotides from the 3′ end only.",
+      "hydrolysis of internal phosphodiester bonds within a polynucleotide chain.",
+      "hydrolysis of terminal nucleotides from the 5′ end.",
+      "cleavage of peptide bonds."
+    ],
+    "correct_answer": "hydrolysis of internal phosphodiester bonds within a polynucleotide chain.",
+    "explanation": "[CONCEPT]\nStep 1: Endonucleases cleave internal phosphodiester bonds inside nucleic acid strands, whereas exonucleases cleave terminal nucleotides."
+  },
+  {
+    "id": 15,
+    "question": "Bacterial operons (e.g. Lac, Trp operons) are defined by",
+    "options": [
+      "uniform genomic size across all species.",
+      "a cluster of structural genes under the coordinate control of a single promoter and operator transcribed as a single polycistronic mRNA.",
+      "presence in all eukaryotic genomes.",
+      "lacking protein-binding regulatory sites."
+    ],
+    "correct_answer": "a cluster of structural genes under the coordinate control of a single promoter and operator transcribed as a single polycistronic mRNA.",
+    "explanation": "[CONCEPT]\nStep 1: An operon contains multiple functionally related protein-coding genes transcribed into a single polycistronic mRNA regulated by a common operator and promoter."
+  },
+  {
+    "id": 16,
+    "question": "The Klenow fragment generated by limited subtilisin proteolysis of E. coli DNA Polymerase I retains which catalytic activities?",
+    "options": [
+      "5′→3′ Polymerase and 5′→3′ Exonuclease",
+      "5′→3′ Polymerase and 3′→5′ Proofreading Exonuclease (lacks 5′→3′ exonuclease)",
+      "3′→5′ Exonuclease only",
+      "5′→3′ Exonuclease only"
+    ],
+    "correct_answer": "5′→3′ Polymerase and 3′→5′ Proofreading Exonuclease (lacks 5′→3′ exonuclease)",
+    "explanation": "[CONCEPT]\nStep 1: Proteolytic cleavage of Pol I produces the large Klenow fragment (68 kDa) retaining 5′→3′ polymerase and 3′→5′ proofreading activities while removing the 5′→3′ nick-translation domain."
+  },
+  {
+    "id": 17,
+    "question": "Familial hypercholesterolemia is an autosomal dominant genetic disorder caused by mutations in the gene encoding the cell-surface",
+    "options": [
+      "VLDL receptor.",
+      "IDL receptor.",
+      "Low-Density Lipoprotein (LDL) receptor.",
+      "HDL scavenger receptor."
+    ],
+    "correct_answer": "Low-Density Lipoprotein (LDL) receptor.",
+    "explanation": "[CONCEPT]\nStep 1: Mutations in LDLR prevent receptor-mediated endocytosis of ApoB-100-containing LDL particles, causing severe hypercholesterolemia and premature atherosclerosis."
+  },
+  {
+    "id": 18,
+    "question": "Alkaptonuria is an autosomal recessive inborn error of phenylalanine and tyrosine metabolism caused by a deficiency in the enzyme",
+    "options": [
+      "phenylalanine hydroxylase.",
+      "ornithine decarboxylase.",
+      "adenosine deaminase.",
+      "homogentisate 1,2-dioxygenase (homogentisate oxidase)."
+    ],
+    "correct_answer": "homogentisate 1,2-dioxygenase (homogentisate oxidase).",
+    "explanation": "[CONCEPT]\nStep 1: Lack of homogentisate 1,2-dioxygenase leads to accumulation of homogentisic acid (HGA), which auto-oxidizes to alkapton polymers (dark urine and ochronosis)."
+  },
+  {
+    "id": 19,
+    "question": "The subunit stoichiometry of the core bacterial RNA polymerase enzyme and complete holoenzyme, respectively, are",
+    "options": [
+      "Core = α₂ββ′ω; Holoenzyme = α₂ββ′ωσ",
+      "Core = αβ₂; Holoenzyme = αβ₂σ",
+      "Core = αβ; Holoenzyme = αβσ",
+      "Core = α₂β₂; Holoenzyme = α₂β₂σ"
+    ],
+    "correct_answer": "Core = α₂ββ′ω; Holoenzyme = α₂ββ′ωσ",
+    "explanation": "[CONCEPT]\nStep 1: Core RNA polymerase consists of 2α, 1β, 1β′, and 1ω subunits (α₂ββ′ω). Association of the initiation σ factor forms the transcription-competent holoenzyme."
+  },
+  {
+    "id": 20,
+    "question": "In a Sanger dideoxy DNA sequencing gel read from bottom to top (5′ to 3′ of the synthesized strand), the band sequence is 5′–TCGAGCTGA–3′. The original template DNA strand sequence (in 5′ to 3′ direction) is",
+    "options": [
+      "3′− AGTCGAGCT − 5′",
+      "5′− TCAGCTCGA − 3′",
+      "3′− TCAGCTCGA − 5′",
+      "5′− AGTCGAGCT − 3′"
+    ],
+    "correct_answer": "5′− TCAGCTCGA − 3′",
+    "explanation": "[CONCEPT]\nStep 1: Synthesized strand = 5′–TCGAGCTGA–3′.\nStep 2: Complementary template = 3′–AGCTCGACT–5′.\nStep 3: Written in 5′→3′ direction = 5′–TCAGCTCGA–3′."
+  },
+  {
+    "id": 21,
+    "question": "During prokaryotic Okazaki fragment processing on the lagging strand, RNA primers are excised and replaced with deoxyribonucleotides by the 5′→3′ exonuclease and polymerase activities of",
+    "options": [
+      "Primase (DnaG)",
+      "RNase H only",
+      "DNA Polymerase I",
+      "DNA Polymerase II"
+    ],
+    "correct_answer": "DNA Polymerase I",
+    "explanation": "[CONCEPT]\nStep 1: DNA Polymerase I uses its unique 5′→3′ exonuclease domain to remove ribonucleotide primers ahead of the moving enzyme while simultaneously filling the gap with dNTPs (nick translation)."
+  },
+  {
+    "id": 22,
+    "question": "A fungal toxin (e.g. α-Amanitin at low concentrations of 10⁻⁸ M) strongly and selectively inhibits the synthesis of mRNA precursor transcripts and snRNAs. This toxin is a potent inhibitor of",
+    "options": [
+      "RNA Polymerase I",
+      "RNA Polymerase II",
+      "RNA Polymerase III",
+      "DNA Helicase"
+    ],
+    "correct_answer": "RNA Polymerase II",
+    "explanation": "[CONCEPT]\nStep 1: Eukaryotic RNA Polymerase II (which transcribes pre-mRNA and U1, U2, U4, U5 snRNAs) is exquisitely sensitive to α-amanitin (IC₅₀ ~ 10 nM)."
+  },
+  {
+    "id": 23,
+    "question": "Restriction enzyme A recognizes an 8 bp palindromic site (cleavage frequency = (1/4)⁸ = 1 in 65,536 bp). Restriction enzyme B recognizes a 4 bp palindromic site (frequency = (1/4)⁴ = 1 in 256 bp). The approximate ratio of the number of restriction fragments generated by enzyme A compared to enzyme B on E. coli genomic DNA is",
+    "options": [
+      "4 : 8",
+      "8 : 4",
+      "1 : 64",
+      "1 : 256"
+    ],
+    "correct_answer": "1 : 256",
+    "explanation": "[CONCEPT]\nStep 1: Number of cuts by A = N / 4⁸ = N / 65536.\nStep 2: Number of cuts by B = N / 4⁴ = N / 256.\nStep 3: Ratio (Fragments A : Fragments B) = 256 / 65536 = 1 : 256."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following trinucleotide mRNA codons is a nonsense stop codon that does not specify any aminoacyl-tRNA in canonical translation?",
+    "options": [
+      "UUA (Leucine)",
+      "UCA (Serine)",
+      "UAA (Ochre stop codon)",
+      "UGU (Cysteine)"
+    ],
+    "correct_answer": "UAA (Ochre stop codon)",
+    "explanation": "[CONCEPT]\nStep 1: Canonical termination codons are UAA (ochre), UAG (amber), and UGA (opal)."
+  },
+  {
+    "id": 25,
+    "question": "In vertebrate genomic DNA, enzymatic 5-methylcytosine epigenetic modification by DNA methyltransferases (DNMT1, DNMT3a/b) occurs predominantly in the dinucleotide context of",
+    "options": [
+      "CpA",
+      "CpT",
+      "CpG islands (symmetric 5′–CpG–3′)",
+      "CpC"
+    ],
+    "correct_answer": "CpG islands (symmetric 5′–CpG–3′)",
+    "explanation": "[CONCEPT]\nStep 1: Vertebrate DNA methylation occurs almost exclusively at palindromic CpG dinucleotides to establish stable transcriptional gene silencing."
+  },
+  {
+    "id": 26,
+    "question": "The catalytic L-19 IVS catalytic RNA ribozyme derived from Tetrahymena thermophila pre-rRNA self-splicing was shown by Thomas Cech to possess",
+    "options": [
+      "DNA Polymerase activity",
+      "sequence-specific endoribonuclease and RNA phosphotransferase / polymerase-like catalytic activities without any protein cofactor.",
+      "protease activity",
+      "restriction endonuclease activity"
+    ],
+    "correct_answer": "sequence-specific endoribonuclease and RNA phosphotransferase / polymerase-like catalytic activities without any protein cofactor.",
+    "explanation": "[CONCEPT]\nStep 1: The shortened L-19 IVS RNA ribozyme acts as a genuine multiple-turnover enzyme catalyzing trans-esterification and cleavage of oligoribonucleotides."
+  },
+  {
+    "id": 27,
+    "question": "An unknown DNA sample cannot be definitively distinguished as single-stranded versus double-stranded DNA by which of the following analytical techniques?",
+    "options": [
+      "Analysis of base composition (since equimolar A=T and G=C can coincidently occur in a random single-stranded DNA)",
+      "Thermal hyperchromicity denaturation profile",
+      "S1 nuclease sensitivity assay",
+      "Acridine orange fluorescence shift"
+    ],
+    "correct_answer": "Analysis of base composition (since equimolar A=T and G=C can coincidently occur in a random single-stranded DNA)",
+    "explanation": "[CONCEPT]\nStep 1: Single-stranded DNA can happen to have equal base ratios by chance; hyperchromic melting curves and S1 nuclease resistance provide definitive physical proof of duplex structure."
+  },
+  {
+    "id": 28,
+    "question": "Telomerase is a specialized reverse transcriptase enzyme whose macromolecular composition consists of",
+    "options": [
+      "lipoprotein only.",
+      "a ribonucleoprotein (RNP) complex containing a catalytic protein reverse transcriptase subunit (TERT) and an internal integral template RNA molecule (TERC).",
+      "pure RNA only.",
+      "pure protein without RNA."
+    ],
+    "correct_answer": "a ribonucleoprotein (RNP) complex containing a catalytic protein reverse transcriptase subunit (TERT) and an internal integral template RNA molecule (TERC).",
+    "explanation": "[CONCEPT]\nStep 1: Telomerase is an RNP containing TERT (reverse transcriptase) and TERC (telomerase RNA providing the 3′–CAAUCCCAAUC–5′ template for TTAGGG repeats)."
+  },
+  {
+    "id": 29,
+    "question": "Match each human genetic / metabolic disease in Column I with its defective protein in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Severe Combined Immunodeficiency (SCID)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Tay-Sachs disease</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Lesch-Nyhan syndrome</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cystic Fibrosis\n\nColumn II:\n1. Hexosaminidase A (GM2 ganglioside accumulation)\n2. Hypoxanthine-guanine phosphoribosyltransferase (HGPRT)\n3. CFTR ABC-transporter chloride channel\n4. Adenosine Deaminase (ADA)</span></div></div>",
+    "options": [
+      "P – 1; Q – 3; R – 4; S – 2",
+      "P – 3; Q – 2; R – 4; S – 1",
+      "P – 4; Q – 1; R – 2; S – 3",
+      "P – 2; Q – 4; R – 3; S – 1"
+    ],
+    "correct_answer": "P – 4; Q – 1; R – 2; S – 3",
+    "explanation": "[CONCEPT]\nStep 1: SCID = ADA deficiency (P–4).\nStep 2: Tay-Sachs = Hexosaminidase A (Q–1).\nStep 3: Lesch-Nyhan = HGPRT (R–2).\nStep 4: Cystic Fibrosis = CFTR (S–3)."
+  },
+  {
+    "id": 30,
+    "question": "During secretory protein synthesis on cytosolic ribosomes, binding of the Signal Recognition Particle (SRP) to the nascent N-terminal signal peptide halts ongoing translation elongation. This elongation arrest is mediated by the",
+    "options": [
+      "inactivation of aminoacyl-tRNA synthetases.",
+      "Alu domain of SRP sterically blocking the elongation factor (EF-Tu / eEF-1A) binding site at the ribosomal interface.",
+      "induced destruction of mRNA.",
+      "cleavage of peptidyl-tRNA."
+    ],
+    "correct_answer": "Alu domain of SRP sterically blocking the elongation factor (EF-Tu / eEF-1A) binding site at the ribosomal interface.",
+    "explanation": "[CONCEPT]\nStep 1: The Alu domain of SRP fits into the factor-binding center of the ribosome, halting peptide extension until the ribosome-SRP complex docks onto the ER SRP-receptor/translocon."
+  },
+  {
+    "id": 31,
+    "question": "Transcriptional enhancer elements in eukaryotes increase the rate of gene transcription. If an enhancer element located 5 kb upstream of a promoter is experimentally flipped and placed in reverse orientation:",
+    "options": [
+      "the rate of transcription increases significantly.",
+      "the rate of transcription drops to zero.",
+      "the rate of transcription remains virtually the same (Enhancers function in an orientation-independent and distance-independent manner).",
+      "the promoter switches to transcribing the opposite strand."
+    ],
+    "correct_answer": "the rate of transcription remains virtually the same (Enhancers function in an orientation-independent and distance-independent manner).",
+    "explanation": "[CONCEPT]\nStep 1: Enhancers loop chromatin to interact with the Mediator complex at the promoter; their activating function is independent of orientation (bidirectional) and distance."
+  },
+  {
+    "id": 32,
+    "question": "During discontinuous lagging strand DNA replication, adjacent Okazaki fragments are covalently joined together by the enzyme",
+    "options": [
+      "RNA Polymerase",
+      "DNA Polymerase III",
+      "DNA Ligase (using NAD⁺ in bacteria or ATP in eukaryotes)",
+      "Reverse transcriptase"
+    ],
+    "correct_answer": "DNA Ligase (using NAD⁺ in bacteria or ATP in eukaryotes)",
+    "explanation": "[CONCEPT]\nStep 1: DNA Ligase seals the phosphodiester nick between adjacent 3′-OH and 5′-phosphate termini of Okazaki fragments."
+  },
+  {
+    "id": 33,
+    "question": "In eukaryotic cells, non-coding intervening intron sequences are transcribed as part of primary precursor transcripts of",
+    "options": [
+      "mRNA (Pre-mRNA spliceosomal introns)",
+      "rRNA (Pre-rRNA self-splicing group I introns)",
+      "tRNA (Pre-tRNA endonucleolytic spliced introns)",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "[CONCEPT]\nStep 1: Introns are present in eukaryotic pre-mRNA, pre-rRNA, and pre-tRNA transcripts, each spliced by distinct enzymatic or self-splicing mechanisms."
+  },
+  {
+    "id": 34,
+    "question": "Homologous recombination mediated by engineered targeting vectors in mammalian embryonic stem (ES) cells is standardly utilized to generate",
+    "options": [
+      "randomly integrated transgenes.",
+      "targeted gene knock-out and knock-in mice models.",
+      "site-specific PCR mutations.",
+      "monoclonal antibodies."
+    ],
+    "correct_answer": "targeted gene knock-out and knock-in mice models.",
+    "explanation": "[CONCEPT]\nStep 1: Mario Capecchi, Martin Evans, and Oliver Smithies pioneered gene targeting by homologous recombination in ES cells to create knockout mice."
+  },
+  {
+    "id": 35,
+    "question": "The plant alkaloid colchicine arrests eukaryotic cells in mitotic metaphase by",
+    "options": [
+      "blocking DNA replication.",
+      "binding to free tubulin heterodimers and inhibiting microtubule polymerization into mitotic spindle fibers.",
+      "preventing chromosome condensation.",
+      "inhibiting cytokinesis cleavage furrows directly."
+    ],
+    "correct_answer": "binding to free tubulin heterodimers and inhibiting microtubule polymerization into mitotic spindle fibers.",
+    "explanation": "[CONCEPT]\nStep 1: Colchicine forms a tubulin-colchicine complex that caps growing (+) ends of microtubules, preventing spindle formation and arresting cells in metaphase."
+  },
+  {
+    "id": 36,
+    "question": "The chemotherapeutic drug methotrexate acts as a potent competitive inhibitor of which enzyme in folate metabolism, blocking dTMP and purine biosynthesis?",
+    "options": [
+      "Dihydrofolate reductase (DHFR)",
+      "Dihydroorotate dehydrogenase",
+      "Carbamoyl phosphate synthetase II",
+      "Thymidylate synthase"
+    ],
+    "correct_answer": "Dihydrofolate reductase (DHFR)",
+    "explanation": "[CONCEPT]\nStep 1: Methotrexate is a structural analog of folate that binds DHFR with 1000-fold higher affinity than dihydrofolate, depleting tetrahydrofolate (THF) needed for dTMP synthesis."
+  },
+  {
+    "id": 37,
+    "question": "In a Maxam-Gilbert chemical sequencing gel read from bottom to top:\n- G only lane: G bands\n- A+G lane: A bands (appear only in A+G) and G bands (appear in both)\n- C only lane: C bands\n- C+T lane: T bands (appear only in C+T) and C bands (appear in both)\n\nThe template DNA strand sequence deduced in 5′→3′ direction is",
+    "options": [
+      "3′–CTAGATAGTATAG–5′",
+      "5′–CTAGATAGTATAG–3′",
+      "3′–GATCTATCATATC–5'",
+      "5′–GATCATCATAC–3′"
+    ],
+    "correct_answer": "5′–CTAGATAGTATAG–3′",
+    "explanation": "[CONCEPT]\nStep 1: Reading lanes from bottom (5′) to top (3′): C, T, A, G, A, T, A, G, T, A, T, A, G.\nStep 2: Sequence = 5′–CTAGATAGTATAG–3′."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following 6 bp palindromic sequences represents the recognition site for a Type II restriction endonuclease?",
+    "options": [
+      "5′–TAGCTA–3′ / 3′–ATCGAT–5′",
+      "5′–TAGGTA–3′",
+      "5′–ATCCAT–3′",
+      "5′–GATACC–3′"
+    ],
+    "correct_answer": "5′–TAGCTA–3′ / 3′–ATCGAT–5′",
+    "explanation": "[CONCEPT]\nStep 1: A Type II restriction site is a two-fold rotational palindrome that reads identically 5′→3′ on both complementary strands (e.g. 5′–TAGCTA–3′)."
+  },
+  {
+    "id": 39,
+    "question": "Considering the DNA sequence 5′–CTAGATAGTATAG–3′ as the template strand for RNA Polymerase, the sequence of the transcribed mRNA will be",
+    "options": [
+      "5′–CTAGATAGTATAG–3′",
+      "3′–GATCTATCATATC–5′",
+      "3′–GAUCUAUCAUAUC–5′",
+      "5′–CUAGAUAGUAUAG–3′"
+    ],
+    "correct_answer": "3′–GAUCUAUCAUAUC–5′",
+    "explanation": "[CONCEPT]\nStep 1: RNA is synthesized antiparallel and complementary to the template strand.\nStep 2: Template 5′–CTAGATAGTATAG–3′ yields mRNA 3′–GAUCUAUCAUAUC–5′ (or 5′–CUAUACUAUCUAG–3′)."
+  },
+  {
+    "id": 40,
+    "question": "The biological advantage of degeneracy in the universal genetic code (multiple synonymous codons for the same amino acid) is that",
+    "options": [
+      "it minimizes the lethal or deleterious phenotypic consequences of point mutations (silent / conservative mutations).",
+      "it provides structural flexibility to mRNA.",
+      "it makes proteins resistant to proteases.",
+      "it enables translation of high molecular weight proteins."
+    ],
+    "correct_answer": "it minimizes the lethal or deleterious phenotypic consequences of point mutations (silent / conservative mutations).",
+    "explanation": "[CONCEPT]\nStep 1: Degeneracy (especially at the wobble third base) ensures that many single nucleotide substitutions produce identical amino acids (silent mutations), buffering organisms against deleterious mutations."
+  },
+  {
+    "id": 41,
+    "question": "The cellular proto-oncogene products c-Fos, c-Jun, and c-Myc function as",
+    "options": [
+      "cell surface growth factor receptors.",
+      "cytoplasmic protein tyrosine kinases.",
+      "nuclear sequence-specific transcription factors that regulate the expression of genes involved in cell cycle progression and growth promotion.",
+      "membrane ion channels."
+    ],
+    "correct_answer": "nuclear sequence-specific transcription factors that regulate the expression of genes involved in cell cycle progression and growth promotion.",
+    "explanation": "[CONCEPT]\nStep 1: Fos and Jun form the AP-1 bZIP transcription factor heterodimer; Myc is a bHLH-LZ factor promoting G1/S transition."
+  },
+  {
+    "id": 42,
+    "question": "DNA microarray analysis indicated that a 10-gene expression cluster is upregulated in drug-treated cancer cells. Which pair of orthogonal molecular techniques is standardly used to validate these mRNA expression changes?",
+    "options": [
+      "Southern blotting and PCR",
+      "Northern blotting and FISH",
+      "Southern blotting and RT-PCR",
+      "Northern blotting and Quantitative Real-Time Reverse Transcriptase PCR (RT-qPCR)"
+    ],
+    "correct_answer": "Northern blotting and Quantitative Real-Time Reverse Transcriptase PCR (RT-qPCR)",
+    "explanation": "[CONCEPT]\nStep 1: Microarray measures transcript abundance; Northern blotting and RT-qPCR quantify specific RNA expression levels."
+  },
+  {
+    "id": 43,
+    "question": "Select the correct pair of 5′→3′ forward and reverse PCR primers to amplify the following duplex DNA fragment:\n5′–TTTTTTTTTTTTGTAACTCG...ATGCGGGGGGGGGG–3′\n3′–AAAAAAAAAAAACATTGAGC...TACGCCCCCCCCCC–5′",
+    "options": [
+      "5′–TTTTTTTTTTTT–3′ and 5′–GGGGGGGGGG–3′",
+      "5′–AAAAAAAAAA–3′ and 5′–CCCCCCCCCC–3′",
+      "5′–TTTTTTTTTTTT–3′ and 5′–CCCCCCCCCC–3′ (Reverse complement of 3′ end)",
+      "5′–AAAAAAAAAA–3′ and 5′–GGGGGGGGGG–3′"
+    ],
+    "correct_answer": "5′–TTTTTTTTTTTT–3′ and 5′–CCCCCCCCCC–3′ (Reverse complement of 3′ end)",
+    "explanation": "[CONCEPT]\nStep 1: Forward primer matches 5′ top strand: 5′–TTTTTTTTTTTT–3′.\nStep 2: Reverse primer is the reverse complement of 3′ top strand (5′–GGGGGGGGGG–3′ → 5′–CCCCCCCCCC–3′)."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following statements regarding eukaryotic transcription and chromatin is incorrect?",
+    "options": [
+      "Most eukaryotic mRNAs possess a 7-methylguanosine (m⁷G) cap at their 5′ end.",
+      "TATA-binding protein (TBP) is a universal transcription initiation factor involved in transcription by Pol I, Pol II, and Pol III.",
+      "Histones have no other biological functions except in passive static DNA packaging in chromatin (Incorrect; histone post-translational modifications regulate epigenetics, transcription, and repair).",
+      "Eukaryotic RNA Polymerase II consists of 12 distinct polypeptide subunits."
+    ],
+    "correct_answer": "Histones have no other biological functions except in passive static DNA packaging in chromatin (Incorrect; histone post-translational modifications regulate epigenetics, transcription, and repair).",
+    "explanation": "[CONCEPT]\nStep 1: Histones are dynamically modified (acetylation, methylation, ubiquitination, phosphorylation) to form the histone code regulating chromatin accessibility."
+  },
+  {
+    "id": 45,
+    "question": "A eukaryotic gene has the following structure:\n- 5′ UTR = 0.4 kb\n- Exon I = 2.0 kb\n- Intron I = 1.0 kb\n- Exon II = 4.0 kb\n- Intron II = 3.0 kb\n- Exon III = 6.0 kb\n- 3′ UTR = 0.6 kb\n\nWhat is the size of the mature spliced mRNA (in kb) assuming no poly-A tail?",
+    "options": [
+      "12.4 kb",
+      "13.0 kb",
+      "12.0 kb",
+      "12.6 kb"
+    ],
+    "correct_answer": "13.0 kb",
+    "explanation": "[CONCEPT]\nStep 1: Mature mRNA includes 5′ UTR + Exons + 3′ UTR.\nStep 2: Size = 0.4 kb (5′ UTR) + 2.0 kb (Exon I) + 4.0 kb (Exon II) + 6.0 kb (Exon III) + 0.6 kb (3′ UTR) = 13.0 kb."
+  },
+  {
+    "id": 46,
+    "question": "Two double-stranded DNA samples X and Y of identical length and ionic strength have melting temperatures T_m of 85°C and 80°C, respectively. This demonstrates that",
+    "options": [
+      "the AT content of Y is lower than X.",
+      "the GC content of Y is higher than X.",
+      "the AT content is the same in X and Y.",
+      "the GC content of DNA X is higher than DNA Y (3 H-bonds in G:C vs 2 in A:T impart higher thermal stability)."
+    ],
+    "correct_answer": "the GC content of DNA X is higher than DNA Y (3 H-bonds in G:C vs 2 in A:T impart higher thermal stability).",
+    "explanation": "[CONCEPT]\nStep 1: Higher T_m directly correlates with higher G+C percentage due to 3 hydrogen bonds and stronger base-stacking interactions in G:C pairs."
+  },
+  {
+    "id": 47,
+    "question": "When yeast cells are shifted from glycerol to glucose, four metabolic genes show upregulated transcription. Which technique directly measures and demonstrates increased mRNA transcript levels?",
+    "options": [
+      "Southern hybridization (measures DNA)",
+      "Northern hybridization (measures RNA)",
+      "Western hybridization (measures protein)",
+      "FISH"
+    ],
+    "correct_answer": "Northern hybridization (measures RNA)",
+    "explanation": "[CONCEPT]\nStep 1: Northern blotting fractionates cellular RNA by gel electrophoresis and hybridizes with specific labeled probes to quantify transcript levels."
+  },
+  {
+    "id": 48,
+    "question": "Match the techniques in Column I with their applications in\n\nColumn II:\n\nColumn I:\nP. PCR\nQ. DNA Microarray\nR. ELISA\n\nColumn II:\n1. Identification of transcription factor binding sites (ChIP)\n2. Detection of HIV antibodies / antigens in serum\n3. Amplification and isolation of a specific gene homologue\n4. Global profiling of differential gene expression in cancer vs normal tissues",
+    "options": [
+      "P – 4; Q – 1; R – 3",
+      "P – 3; Q – 4; R – 2",
+      "P – 4; Q – 1; R – 2",
+      "P – 3; Q – 2; R – 1"
+    ],
+    "correct_answer": "P – 3; Q – 4; R – 2",
+    "explanation": "[CONCEPT]\nStep 1: PCR: Gene cloning/isolation (P–3).\nStep 2: Microarray: Transcriptome profiling (Q–4).\nStep 3: ELISA: Serological diagnostic assay (R–2)."
+  },
+  {
+    "id": 49,
+    "question": "A nonsense mutation in gene X generates a truncated inactive protein. A mutant suppressor strain restored synthesis of the full-length functional protein X. This extragenic informational suppressor mutation is most likely located in a gene encoding a",
+    "options": [
+      "Ribosomal 18S rRNA",
+      "RNA Polymerase subunit",
+      "Suppressor tRNA (with a mutated anticodon that recognizes the nonsense stop codon)",
+      "Ribosomal protein"
+    ],
+    "correct_answer": "Suppressor tRNA (with a mutated anticodon that recognizes the nonsense stop codon)",
+    "explanation": "[CONCEPT]\nStep 1: Nonsense suppressor tRNAs (e.g. amber suppressor tRNA_Tyr) carry mutated anticodons that pair with premature stop codons, inserting an amino acid to allow full-length translation."
+  },
+  {
+    "id": 50,
+    "question": "Which DNA polymerase enzyme in E. coli is primarily responsible for high-speed, processive de novo replication of both leading and lagging chromosomal strands?",
+    "options": [
+      "DNA Polymerase I",
+      "DNA Polymerase II",
+      "DNA Polymerase III holoenzyme",
+      "DNA Polymerase IV"
+    ],
+    "correct_answer": "DNA Polymerase III holoenzyme",
+    "explanation": "[CONCEPT]\nStep 1: DNA Polymerase III holoenzyme (with α catalytic subunit and β₂ sliding clamp) replicates chromosomal DNA with high processivity (>1000 bp/s)."
+  },
+  {
+    "id": 51,
+    "question": "The exact nucleotide position of transcription initiation (+1 transcription start site) for a gene can be precisely mapped by",
+    "options": [
+      "Primer extension analysis (or 5′ RACE)",
+      "Northern blotting",
+      "DNase I footprinting",
+      "Nick translation"
+    ],
+    "correct_answer": "Primer extension analysis (or 5′ RACE)",
+    "explanation": "[CONCEPT]\nStep 1: Primer extension anneals a labeled primer to mRNA and uses reverse transcriptase to synthesize cDNA to the 5′ end; electrophoresis beside a sequencing ladder gives single-nucleotide resolution of the +1 TSS."
+  },
+  {
+    "id": 52,
+    "question": "Match the biological inhibitors in Column II with their target enzymes in\n\nColumn I:\n\nColumn I:\nP. DNA Polymerase α\nQ. RNA Polymerase II\nR. Serine Protease\n\nColumn II:\n1. Phenylmethanesulfonyl fluoride (PMSF)\n2. Aphidicolin\n3. α-Amanitin\n4. Actinomycin D",
+    "options": [
+      "P – 2; Q – 3; R – 1",
+      "P – 3; Q – 1; R – 2",
+      "P – 2; Q – 1; R – 2",
+      "P – 1; Q – 2; R – 4"
+    ],
+    "correct_answer": "P – 2; Q – 3; R – 1",
+    "explanation": "[CONCEPT]\nStep 1: Aphidicolin inhibits DNA Pol α (P–2).\nStep 2: α-Amanitin inhibits RNA Pol II (Q–3).\nStep 3: PMSF inhibits serine proteases (R–1)."
+  },
+  {
+    "id": 53,
+    "question": "A nucleic acid sample is resistant to λ-exonuclease (requires 5′-phosphate dsDNA ends), lacks a standard duplex melting curve, and bands at high density at the bottom of a CsCl-EtBr gradient. This nucleic acid is",
+    "options": [
+      "ccc pBR322 plasmid",
+      "Phage P22 dsDNA",
+      "Single-stranded / structural Ribosomal RNA (rRNA)",
+      "RFII M13 DNA"
+    ],
+    "correct_answer": "Single-stranded / structural Ribosomal RNA (rRNA)",
+    "explanation": "[CONCEPT]\nStep 1: RNA has higher density in CsCl than DNA, lacks cooperative duplex melting, and is completely resistant to double-strand specific λ-exonuclease."
+  },
+  {
+    "id": 54,
+    "question": "In a cosmid contig covering chromosome 2 markers 1 to 9 (Cosmids: a=2–4, b=3–5, c=4–6, d=5–8, e=8–9): Probe x hybridizes to cosmids b, c, d; Probe y hybridizes to cosmids d, e. The approximate map locations of x and y are",
+    "options": [
+      "4 and 7",
+      "5 and 8 (5 is shared in b, c, d; 8 is shared in d, e)",
+      "4 and 8",
+      "5 and 7"
+    ],
+    "correct_answer": "5 and 8 (5 is shared in b, c, d; 8 is shared in d, e)",
+    "explanation": "[CONCEPT]\nStep 1: Region overlapping cosmids b (3–5), c (4–6), and d (5–8) is marker 5.\nStep 2: Region overlapping cosmids d (5–8) and e (8–9) is marker 8."
+  },
+  {
+    "id": 55,
+    "question": "Both probe x (location 5) and probe y (location 8) from the contig above will hybridize to which single common cosmid?",
+    "options": [
+      "Cosmid b",
+      "Cosmid d (spans markers 5 to 8)",
+      "Cosmid e",
+      "Cosmid c"
+    ],
+    "correct_answer": "Cosmid d (spans markers 5 to 8)",
+    "explanation": "[CONCEPT]\nStep 1: Cosmid d spans positions 5 through 8 and therefore contains homology to both probe x (at 5) and probe y (at 8)."
+  },
+  {
+    "id": 56,
+    "question": "Human diploid genomic DNA (3 × 10⁶ kb) replicates in 5 hours (300 min) at a replication fork rate of 1.0 kb min⁻¹ per fork (2.0 kb min⁻¹ per bidirectional origin). What is the minimum number of active replication origins required?",
+    "options": [
+      "1",
+      "3",
+      "300",
+      "10,000 (or 5,000–10,000 origins)"
+    ],
+    "correct_answer": "10,000 (or 5,000–10,000 origins)",
+    "explanation": "[CONCEPT]\nStep 1: DNA replicated per bidirectional origin in 300 min = 300 min × 1.0 kb/min = 300 kb.\nStep 2: Total origins = (3 × 10⁶ kb) / 300 kb = 10,000 origins."
+  },
+  {
+    "id": 57,
+    "question": "A 1.0 kb DNA insert (I) is to be ligated to a 4.0 kb plasmid vector (P) in a molar ratio of 4 : 1 (Insert : Vector) in a 1.0 mL reaction containing 10 μg total DNA. What amounts of insert (I) and plasmid (P) in μg are required?",
+    "options": [
+      "I = 8 μg, P = 2 μg",
+      "I = 2 μg, P = 8 μg",
+      "I = 5 μg and P = 5 μg (Molar ratio 4:1 with 1:4 size ratio gives equal masses: 5 μg each)",
+      "I = 1 μg, P = 4 μg"
+    ],
+    "correct_answer": "I = 5 μg and P = 5 μg (Molar ratio 4:1 with 1:4 size ratio gives equal masses: 5 μg each)",
+    "explanation": "[CONCEPT]\nStep 1: Mass ratio = (Moles_I × MW_I) / (Moles_P × MW_P) = (4 × 1 kb) / (1 × 4 kb) = 4 / 4 = 1 : 1.\nStep 2: For 10 μg total DNA: Insert = 5.0 μg and Plasmid = 5.0 μg."
+  },
+  {
+    "id": 58,
+    "question": "When E. coli is grown in a medium containing both glucose and lactose, transcription of the lac operon remains repressed (catabolite repression) because glucose",
+    "options": [
+      "prevents removal of the Lac repressor.",
+      "inhibits adenylate cyclase, lowering cAMP and preventing the CAP/CRP activator from binding the promoter.",
+      "causes degradation of RNA polymerase.",
+      "induces premature transcription termination."
+    ],
+    "correct_answer": "inhibits adenylate cyclase, lowering cAMP and preventing the CAP/CRP activator from binding the promoter.",
+    "explanation": "[CONCEPT]\nStep 1: Glucose transport via the PTS system inhibits adenylate cyclase (inducer exclusion), reducing cAMP and preventing CAP-cAMP activator complex formation."
+  },
+  {
+    "id": 59,
+    "question": "In the regulation of the E. coli tryptophan operon, free L-tryptophan functions as a",
+    "options": [
+      "repressor.",
+      "inducer.",
+      "co-repressor (binds inactive TrpR aporepressor to convert it into active DNA-binding repressor).",
+      "co-activator."
+    ],
+    "correct_answer": "co-repressor (binds inactive TrpR aporepressor to convert it into active DNA-binding repressor).",
+    "explanation": "[CONCEPT]\nStep 1: TrpR aporepressor alone cannot bind the operator; binding of tryptophan (co-repressor) alters TrpR conformation to bind the trp operator and block transcription."
+  },
+  {
+    "id": 60,
+    "question": "What is the approximate molecular weight (in kDa) of a translated protein encoded by a 390-nucleotide open reading frame (average amino acid residue MW = 110 Da)?",
+    "options": [
+      "48 kDa",
+      "26 kDa",
+      "39 kDa",
+      "14.3 kDa"
+    ],
+    "correct_answer": "14.3 kDa",
+    "explanation": "[CONCEPT]\nStep 1: Number of amino acids = 390 / 3 = 130 residues (or 129 + stop).\nStep 2: MW = 130 × 110 Da = 14,300 Da = 14.3 kDa."
+  },
+  {
+    "id": 61,
+    "question": "RNA Polymerase unwinds approximately 1.5 helical turns of template B-DNA (10.4 bp/turn) per transcription bubble (~15–17 bp). For a 180 bp DNA template, how many transcription bubbles are theoretically possible?",
+    "options": [
+      "11.5 ≈ 12 transcription bubbles",
+      "27",
+      "6",
+      "270"
+    ],
+    "correct_answer": "11.5 ≈ 12 transcription bubbles",
+    "explanation": "[CONCEPT]\nStep 1: Turns in 180 bp = 180 / 10.4 ≈ 17.3 turns.\nStep 2: Number of 1.5-turn bubbles = 17.3 / 1.5 ≈ 11.5 ≈ 12 transcription bubbles."
+  },
+  {
+    "id": 62,
+    "question": "The metabolic disorders Alkaptonuria and Phenylketonuria (PKU) are caused by hereditary enzyme deficiencies in",
+    "options": [
+      "Homogentisate 1,2-dioxygenase and Phenylalanine hydroxylase, respectively",
+      "Glucose-6-phosphatase and Tyrosinase",
+      "Tyrosinase and Homogentisate oxidase",
+      "Phenylalanine hydroxylase and Tyrosinase"
+    ],
+    "correct_answer": "Homogentisate 1,2-dioxygenase and Phenylalanine hydroxylase, respectively",
+    "explanation": "[CONCEPT]\nStep 1: PKU is caused by phenylalanine hydroxylase (PAH) deficiency.\nStep 2: Alkaptonuria is caused by homogentisate 1,2-dioxygenase (HGD) deficiency."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following compounds does not inhibit protein biosynthesis on ribosomes?",
+    "options": [
+      "Puromycin (causes premature peptide termination)",
+      "Chloramphenicol (inhibits 50S peptidyl transferase)",
+      "Cycloheximide (inhibits 60S translocation)",
+      "Oligomycin (inhibits mitochondrial F₀F₁-ATP synthase)"
+    ],
+    "correct_answer": "Oligomycin (inhibits mitochondrial F₀F₁-ATP synthase)",
+    "explanation": "[CONCEPT]\nStep 1: Oligomycin is an inhibitor of oxidative phosphorylation (ATP synthase F₀ proton channel) and does not act on ribosomes."
+  },
+  {
+    "id": 64,
+    "question": "Two DNA samples A and B of equal length each contain 1 EcoRI site and 1 BamHI site. Complete double digestion yields 3 bands for sample A and 2 bands for sample B upon gel electrophoresis. What is the topology of A and B?",
+    "options": [
+      "A is circular and B is linear",
+      "A is linear DNA (2 cuts yield 3 fragments) and B is circular plasmid DNA (2 cuts yield 2 fragments).",
+      "Both are circular",
+      "Both are linear"
+    ],
+    "correct_answer": "A is linear DNA (2 cuts yield 3 fragments) and B is circular plasmid DNA (2 cuts yield 2 fragments).",
+    "explanation": "[CONCEPT]\nStep 1: On linear DNA, 2 restriction cuts generate (n+1) = 3 fragments.\nStep 2: On circular plasmid DNA, 2 restriction cuts generate exactly n = 2 fragments."
+  },
+  {
+    "id": 65,
+    "question": "Four PCR reactions were performed containing either [γ-³²P] dATP (Tube 1), [β-³²P] dATP (Tube 2), [α-³²P] dATP (Tube 3), or [α-³²P] rATP (Tube 4). Which tube will yield radiolabeled PCR product?",
+    "options": [
+      "Tube 1",
+      "Tube 2",
+      "Tube 3 ([α-³²P] dATP)",
+      "Tube 4"
+    ],
+    "correct_answer": "Tube 3 ([α-³²P] dATP)",
+    "explanation": "[CONCEPT]\nStep 1: During DNA synthesis, DNA Polymerase incorporates the α-phosphate into the phosphodiester backbone while β and γ phosphates are released as inorganic pyrophosphate (PPi)."
+  },
+  {
+    "id": 66,
+    "question": "Match the enzymes / regulatory systems in Group I with their features in\n\nGroup II:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Polynucleotide kinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Fluoride ion</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Ras protein</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Lac operon\n\nGroup II:\n1. Inactivates Enolase by fluorophosphate complexing\n2. Monomeric GTPase switch\n3. End-labeling 5′ end of DNA\n4. Both positive (CAP) and negative (LacI) transcriptional control</span></div></div>",
+    "options": [
+      "P – 5; Q – 4; R – 2; S – 8",
+      "P – 6; Q – 3; R – 1; S – 7",
+      "P – 4; Q – 2; R – 1; S – 6",
+      "P – 1; Q – 7; R – 5; S – 3"
+    ],
+    "correct_answer": "P – 5; Q – 4; R – 2; S – 8",
+    "explanation": "[CONCEPT]\nStep 1: Polynucleotide kinase transfers γ-phosphate to 5′ end (P–5).\nStep 2: Fluoride inhibits enolase (Q–4).\nStep 3: Ras is a GTPase (R–2).\nStep 4: Lac operon has positive and negative control (S–8)."
+  },
+  {
+    "id": 67,
+    "question": "Which pair of amino acid residues does not undergo enzymatic post-translational modification in proteins?",
+    "options": [
+      "Asn − His",
+      "Tyr − Ser",
+      "Asn − Ser",
+      "Ala − Gly (lack reactive functional side chains for common PTMs)"
+    ],
+    "correct_answer": "Ala − Gly (lack reactive functional side chains for common PTMs)",
+    "explanation": "[CONCEPT]\nStep 1: Ser/Thr/Tyr (phosphorylation), Asn (N-glycosylation), Lys (acetylation/methylation), Pro (hydroxylation) are heavily modified; simple aliphatic side chains of Ala and Gly lack reactive side-chain nucleophiles."
+  },
+  {
+    "id": 68,
+    "question": "A 6.0 kb linear DNA has a PvuII site at 2.0 kb and an EcoRI site at 5.0 kb. Digestion with EcoRI and PvuII gives three fragments: 2.0 kb, 3.0 kb, and 1.0 kb. When end-labeled with Klenow fragment and [α-³²P] dATP, which fragments will incorporate label?",
+    "options": [
+      "Only fragments with 5′ overhang sticky ends generated by EcoRI (1.0 kb and 3.0 kb fragments, while blunt PvuII ends are not labeled without primer).",
+      "All three fragments",
+      "Only the 2.0 kb fragment",
+      "None of the fragments"
+    ],
+    "correct_answer": "Only fragments with 5′ overhang sticky ends generated by EcoRI (1.0 kb and 3.0 kb fragments, while blunt PvuII ends are not labeled without primer).",
+    "explanation": "[CONCEPT]\nStep 1: EcoRI creates 5′–AATT–3′ overhangs which Klenow fills using [α-³²P] dATP.\nStep 2: PvuII creates flush blunt ends (5′–CAG/CTG–3′) which cannot be extended by Klenow."
+  },
+  {
+    "id": 69,
+    "question": "In an autoradiogram of a Sanger sequencing gel, the bands read from bottom (5′) to top (3′) are: G, T, C, C, T, G, T, A, C, A. The sequence of the synthesized strand is",
+    "options": [
+      "3′− GTCCTGTACA − 5′",
+      "5′− GTCCTGTACA − 3′",
+      "5′− ACATGTCCTG − 3′",
+      "3′− AATTTCCCGG − 5′"
+    ],
+    "correct_answer": "5′− GTCCTGTACA − 3′",
+    "explanation": "[CONCEPT]\nStep 1: Electrophoresis migrates fastest (shortest) fragments farthest.\nStep 2: Reading from bottom to top yields the 5′→3′ synthesized sequence: 5′–GTCCTGTACA–3′."
+  },
+  {
+    "id": 70,
+    "question": "A researcher wants to clone three DNA inserts of sizes: 1.1 Mb (1100 kb), 0.097 Mb (97 kb), and 0.045 Mb (45 kb). The most appropriate cloning vectors, respectively, are",
+    "options": [
+      "Cosmid, Phage λ, Phage P1",
+      "YAC (Yeast Artificial Chromosome, 100–2000 kb), Bacteriophage P1 (75–100 kb), and Cosmid (35–45 kb)",
+      "BAC, Phage λ, YAC",
+      "Plasmids only"
+    ],
+    "correct_answer": "YAC (Yeast Artificial Chromosome, 100–2000 kb), Bacteriophage P1 (75–100 kb), and Cosmid (35–45 kb)",
+    "explanation": "[CONCEPT]\nStep 1: YAC capacity = 100–2000 kb (clones 1.1 Mb).\nStep 2: Phage P1 capacity = 75–100 kb (clones 97 kb).\nStep 3: Cosmid capacity = 35–45 kb (clones 45 kb)."
+  },
+  {
+    "id": 71,
+    "question": "Which of the following restriction endonucleases will cut inside the DNA sequence 5′–CCGATATCTCGAGGGC–3′?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>BamHI (5′–G↓GATCC–3′)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>XhoI (5′–C↓TCGAG–3′)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>EcoRI (5′–G↓AATTC–3′)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>EcoRV (5′–GAT↓ATC–3′)</span></div></div>",
+    "options": [
+      "P and Q",
+      "P, R and S",
+      "Q (XhoI at CTCGAG) and S (EcoRV at GATATC)",
+      "P and R"
+    ],
+    "correct_answer": "Q (XhoI at CTCGAG) and S (EcoRV at GATATC)",
+    "explanation": "[CONCEPT]\nStep 1: Sequence contains 5′–CC[GATATC]T[CTCGAG]GGC–3′.\nStep 2: GATATC is cleaved by EcoRV; CTCGAG is cleaved by XhoI."
+  },
+  {
+    "id": 72,
+    "question": "A human gene has three exons (I, II, III). RT-PCR on kidney cDNA with Exon I forward and Exon III reverse primers gave 2 bands (2.5 kb and 1.0 kb). Northern blotting with an Exon II probe showed only 1 band (2.5 kb). Which statement is false?",
+    "options": [
+      "Northern blotting with an Exon III probe will show two bands.",
+      "The gene undergoes alternative splicing to produce two splice variants.",
+      "If the forward primer were specific to Exon II, two bands would be observed in RT-PCR (False; Exon II is present in only one splice form).",
+      "Exon II is 1.5 kb in size (2.5 − 1.0 = 1.5 kb)."
+    ],
+    "correct_answer": "If the forward primer were specific to Exon II, two bands would be observed in RT-PCR (False; Exon II is present in only one splice form).",
+    "explanation": "[CONCEPT]\nStep 1: Splice form 1 = Exon I + II + III (2.5 kb); Splice form 2 = Exon I + III (1.0 kb, Exon II skipped).\nStep 2: A primer in Exon II can amplify only the 2.5 kb variant (single band, not two)."
+  },
+  {
+    "id": 73,
+    "question": "In Sanger sequencing of a genomic locus, Subject 1 autoradiogram shows sequence 5′–AGGCTGAT–3′. Subject 2 shows dual overlapping bands at position 5 (both A and T in the same row). What is the correct interpretation?",
+    "options": [
+      "Subject 2 is heterozygous for a single nucleotide polymorphism (SNP, carrying two allelic variants).",
+      "Subject 1 has sequence 5′–TAGTCGGA–3′.",
+      "Subject 2 has a deletion.",
+      "Subject 1 has an insertion."
+    ],
+    "correct_answer": "Subject 2 is heterozygous for a single nucleotide polymorphism (SNP, carrying two allelic variants).",
+    "explanation": "[CONCEPT]\nStep 1: Dual bands at the same position in Sanger sequencing indicate heterozygosity (two alleles with A and T at that base)."
+  },
+  {
+    "id": 74,
+    "question": "A 7.0 kb linear DNA digested with EcoRI and PvuII gives four bands on EtBr gel (3.0, 2.0, 1.5, 0.5 kb). Which restriction map is correct?",
+    "options": [
+      "Circular plasmid",
+      "7.0 kb linear DNA: [3.0 kb] – EcoRI – [2.0 kb] – PvuII – [0.5 kb] – EcoRI – [1.5 kb]",
+      "5 kb plasmid",
+      "Linear DNA with 2 bands"
+    ],
+    "correct_answer": "7.0 kb linear DNA: [3.0 kb] – EcoRI – [2.0 kb] – PvuII – [0.5 kb] – EcoRI – [1.5 kb]",
+    "explanation": "[CONCEPT]\nStep 1: Linear fragments summing to 3.0 + 2.0 + 0.5 + 1.5 = 7.0 kb match the linear map with two EcoRI and one PvuII sites."
+  },
+  {
+    "id": 75,
+    "question": "Which of the following modified bases is typically localized in the D-loop of tRNA rather than the TΨC-loop?",
+    "options": [
+      "Dihydrouridine (D)",
+      "Pseudouridine (Ψ)",
+      "Thymine (T)",
+      "Guanine"
+    ],
+    "correct_answer": "Dihydrouridine (D)",
+    "explanation": "[CONCEPT]\nStep 1: Dihydrouridine is characteristic of the D-arm/loop.\nStep 2: The TΨC loop contains Ribothymidine (T) and Pseudouridine (Ψ)."
+  },
+  {
+    "id": 76,
+    "question": "A closed circular B-DNA of 4000 bp (relaxed Lk₀ = 4000/10.5 ≈ 380) is negatively supercoiled with ΔLk = −4 writhes. What is the superhelical density (σ)?",
+    "options": [
+      "−0.010",
+      "+0.010",
+      "−0.050",
+      "−0.100"
+    ],
+    "correct_answer": "−0.010",
+    "explanation": "[CONCEPT]\nStep 1: Superhelical density σ = ΔLk / Lk₀ = (−4) / 380 = −0.0105 ≈ −0.010."
+  },
+  {
+    "id": 77,
+    "question": "In overlap extension PCR, primers P1 and P3 amplify fragment 1 (with mutation), primers P2 and P4 amplify fragment 2 (with matching mutation). Mixing both fragments in a secondary PCR with flanking primers P1 and P4 generates",
+    "options": [
+      "2 kb wild-type DNA",
+      "2 kb full-length recombinant DNA with site-directed point mutations.",
+      "0.9 kb fragment",
+      "0.5 kb fragment"
+    ],
+    "correct_answer": "2 kb full-length recombinant DNA with site-directed point mutations.",
+    "explanation": "[CONCEPT]\nStep 1: Overlap extension PCR fuses the two overlapping mutated fragments into a full-length 1.2 kb product containing the engineered point mutation."
+  },
+  {
+    "id": 78,
+    "question": "Match the differential centrifugation conditions in Column I with the pelleted subcellular fractions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>1,000 × g, 10 min</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>20,000 × g, 30 min</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>80,000 × g, 60 min</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>150,000 × g, 3 h\n\nColumn II:\n1. Microsomes and small ER vesicles\n2. Ribosomes / Polyribosomes\n3. Nuclei and unbroken cells\n4. Mitochondria, lysosomes, and peroxisomes</span></div></div>",
+    "options": [
+      "P – 3; Q – 4; R – 1; S – 2",
+      "P – 1; Q – 4; R – 3; S – 2",
+      "P – 3; Q – 4; R – 2; S – 1",
+      "P – 2; Q – 1; R – 4; S – 3"
+    ],
+    "correct_answer": "P – 3; Q – 4; R – 1; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: 1000g pellets Nuclei (P–3).\nStep 2: 20,000g pellets Mitochondria/Lysosomes (Q–4).\nStep 3: 80,000g pellets Microsomes (R–1).\nStep 4: 150,000g pellets Ribosomes (S–2)."
+  },
+  {
+    "id": 79,
+    "question": "A 1200 bp insert with internal HindIII sites is cloned into a 3000 bp vector. Correct recombinant orientation digested with HindIII yields fragments of 3400 bp, 600 bp, and 200 bp on agarose gel. Which band pattern corresponds to the correct construct?",
+    "options": [
+      "Bands at 3400 bp, 600 bp, and 200 bp",
+      "Bands at 4000 bp and 200 bp",
+      "Single 4200 bp band",
+      "Bands at 2000 bp and 2200 bp"
+    ],
+    "correct_answer": "Bands at 3400 bp, 600 bp, and 200 bp",
+    "explanation": "[CONCEPT]\nStep 1: HindIII cleavage cuts the vector-insert recombinant at all 3 sites, resolving 3400 bp, 600 bp, and 200 bp bands."
+  },
+  {
+    "id": 80,
+    "question": "Amino acid side chains predominantly involved in electrostatic interactions with the negatively charged phosphodiester backbone of DNA in histones and transcription factors are",
+    "options": [
+      "Alanine and Valine",
+      "Aspartate and Glutamate",
+      "Proline",
+      "Positively charged basic amino acids (Lysine and Arginine)"
+    ],
+    "correct_answer": "Positively charged basic amino acids (Lysine and Arginine)",
+    "explanation": "[CONCEPT]\nStep 1: Positively charged side chains (Lys ε-NH₃⁺, Arg guanidinium) form strong salt bridges with negative DNA phosphates."
+  },
+  {
+    "id": 81,
+    "question": "Heterologous expression of Aequorea victoria Green Fluorescent Protein (GFP) in bacteria, yeast, plants, and mammals is possible because the genetic code is",
+    "options": [
+      "Universal across nearly all living organisms.",
+      "Triplet",
+      "Degenerate",
+      "Non-overlapping"
+    ],
+    "correct_answer": "Universal across nearly all living organisms.",
+    "explanation": "[CONCEPT]\nStep 1: The near universality of the genetic code allows identical mRNA codons to be translated into the exact same protein sequence across different species."
+  },
+  {
+    "id": 82,
+    "question": "The direction of polypeptide chain elongation on ribosomes during cellular translation and in Merrifield solid-phase chemical peptide synthesis, respectively, are",
+    "options": [
+      "C-terminus to N-terminus in both cases",
+      "N-terminus to C-terminus in both cases",
+      "C→N on ribosomes and N→C in solid-phase",
+      "N-terminus to C-terminus on ribosomes, and C-terminus to N-terminus in solid-phase peptide synthesis."
+    ],
+    "correct_answer": "N-terminus to C-terminus on ribosomes, and C-terminus to N-terminus in solid-phase peptide synthesis.",
+    "explanation": "[CONCEPT]\nStep 1: Ribosomes synthesize proteins from N-terminus to C-terminus.\nStep 2: Merrifield solid-phase synthesis anchors the C-terminal carboxylate to resin and extends toward the N-terminus (C→N)."
+  },
+  {
+    "id": 83,
+    "question": "Three micrograms (3.0 μg) of a 4200 bp circular plasmid was completely digested into 5 linear fragments. How many picomoles of DNA ends (10 ends per molecule) were generated? (Average base pair MW = 660 Da):",
+    "options": [
+      "08 pmol",
+      "5.41 pmol",
+      "10.62 pmol to 10.8 pmol",
+      "21.6 pmol"
+    ],
+    "correct_answer": "10.62 pmol to 10.8 pmol",
+    "explanation": "[CONCEPT]\nStep 1: Plasmid MW = 4200 bp × 660 Da/bp = 2.772 × 10⁶ g/mol.\nStep 2: pmoles of plasmid = 3.0 μg / (2.772 × 10⁶ μg/pmol) = 1.082 pmol.\nStep 3: 5 linear fragments = 10 DNA ends. Total ends = 5 × 2 × 1.082 = 10.82 pmol."
+  },
+  {
+    "id": 84,
+    "question": "The antibiotic puromycin inhibits protein translation because it is a structural analog of",
+    "options": [
+      "alanyl-tRNA",
+      "the 3′-terminal end of tyrosyl-tRNA (accepts growing peptide and causes premature chain termination).",
+      "methionyl-tRNA",
+      "peptidyl-tRNA"
+    ],
+    "correct_answer": "the 3′-terminal end of tyrosyl-tRNA (accepts growing peptide and causes premature chain termination).",
+    "explanation": "[CONCEPT]\nStep 1: Puromycin mimics 3′ aminoacyl-adenosine of Tyr-tRNA, enters the A-site, forms a peptide bond, and dissociates as peptidyl-puromycin."
+  },
+  {
+    "id": 85,
+    "question": "A plant genome of 3.0 × 10¹⁰ bp replicates in 11 hours (39,600 s) at a fork rate of 100 bp/s per fork. How many bidirectional replication forks are active?",
+    "options": [
+      "1,000",
+      "3,500",
+      "7,575 forks",
+      "15,000"
+    ],
+    "correct_answer": "7,575 forks",
+    "explanation": "[CONCEPT]\nStep 1: DNA replicated per fork = 100 bp/s × 39,600 s = 3.96 × 10⁶ bp.\nStep 2: Total forks = (3.0 × 10¹⁰ bp) / (3.96 × 10⁶ bp) ≈ 7,575.75 forks."
+  },
+  {
+    "id": 86,
+    "question": "In a 40-cycle PCR starting with a single 600 bp dsDNA template (MW = 600 × 650 = 390,000 Da), assuming 100% amplification efficiency (2⁴⁰ copies), what is the mass of DNA produced in nanograms?",
+    "options": [
+      "360 ng",
+      "722 ng",
+      "1440 ng",
+      "2100 ng"
+    ],
+    "correct_answer": "722 ng",
+    "explanation": "[CONCEPT]\nStep 1: 2⁴⁰ = 1.0995 × 10¹² copies.\nStep 2: Moles = (1.0995 × 10¹²) / (6.022 × 10²³) = 1.826 × 10⁻¹² mol.\nStep 3: Mass = 1.826 × 10⁻¹² mol × 395,000 g/mol ≈ 7.22 × 10⁻⁷ g = 722 ng."
+  },
+  {
+    "id": 87,
+    "question": "A circular plasmid gave two bands (3.2 and 3.0 kb) with EcoRI, two bands (5.0 and 1.2 kb) with BamHI, and four bands (2.6, 2.4, 0.8, 0.4 kb) on EcoRI+BamHI double digestion. Insertion of SalI disrupted the Amp^R gene. Which restriction map is correct?",
+    "options": [
+      "Map A",
+      "Map B (SalI site located inside the Amp^R cassette flanked by EcoRI and BamHI sites)",
+      "Map C",
+      "Map D"
+    ],
+    "correct_answer": "Map B (SalI site located inside the Amp^R cassette flanked by EcoRI and BamHI sites)",
+    "explanation": "[CONCEPT]\nStep 1: Digestion distances match Map B with SalI in the ampicillin resistance gene."
+  },
+  {
+    "id": 88,
+    "question": "A PCR reaction is performed for 10 cycles (efficiency 100%) in a 1.0 mL volume starting with 5 template molecules. What is the number of DNA molecules present in a 100 μL aliquot at the end of the reaction?",
+    "options": [
+      "256",
+      "512 molecules",
+      "1024",
+      "5120"
+    ],
+    "correct_answer": "512 molecules",
+    "explanation": "[CONCEPT]\nStep 1: Total copies after 10 cycles = 5 × 2¹⁰ = 5 × 1024 = 5120 molecules in 1000 μL.\nStep 2: In 100 μL (1/10th volume): 5120 / 10 = 512 molecules."
+  },
+  {
+    "id": 89,
+    "question": "In QuikChange site-directed mutagenesis, the restriction endonuclease DpnI is used to treat the PCR reaction mixture prior to transformation because",
+    "options": [
+      "DpnI digests single-stranded primers only.",
+      "DpnI digests unmethylated DNA.",
+      "DpnI specifically cleaves methylated G(m⁶A)TC parent plasmid template DNA while sparing newly synthesized unmethylated mutant PCR product.",
+      "DpnI inactivates DNA polymerase."
+    ],
+    "correct_answer": "DpnI specifically cleaves methylated G(m⁶A)TC parent plasmid template DNA while sparing newly synthesized unmethylated mutant PCR product.",
+    "explanation": "[CONCEPT]\nStep 1: DpnI recognizes methylation-specific 5′–G(m⁶A)TC–3′ sequences, selectively destroying dam-methylated parent plasmid templates."
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is an incorrect biomolecule–modification pair?",
+    "options": [
+      "Lipid – Palmitoylation (Lipids are not palmitoylated; proteins undergo S-palmitoylation)",
+      "DNA and Protein – Methylation",
+      "Protein – Glycosylation",
+      "RNA – Polyadenylation"
+    ],
+    "correct_answer": "Lipid – Palmitoylation (Lipids are not palmitoylated; proteins undergo S-palmitoylation)",
+    "explanation": "[CONCEPT]\nStep 1: Palmitoylation is a covalent lipid modification of cysteine residues in proteins, not a modification of lipid molecules."
+  },
+  {
+    "id": 91,
+    "question": "Absence of detectable recombinant protein expression following blunt-end cloning of an E. coli gene with its own promoter into an expression vector is most likely caused by",
+    "options": [
+      "the gene insert ligating in the reverse (non-functional) orientation (50% probability in blunt-end cloning).",
+      "cloning out of frame.",
+      "codon bias.",
+      "rapid proteolysis."
+    ],
+    "correct_answer": "the gene insert ligating in the reverse (non-functional) orientation (50% probability in blunt-end cloning).",
+    "explanation": "[CONCEPT]\nStep 1: Non-directional blunt-end ligation produces 50% of clones with the insert oriented backward relative to the vector."
+  },
+  {
+    "id": 92,
+    "question": "A linear DNA fragment containing two EcoRI sites (500 bp – EcoRI – 500 bp – EcoRI – 500 bp) is subjected to partial/incomplete EcoRI digestion. What is the maximum number of different-sized DNA fragments (X) that can be observed?",
+    "options": [
+      "1",
+      "2",
+      "3 (500 bp, 1000 bp, and uncut 1500 bp)",
+      "5"
+    ],
+    "correct_answer": "3 (500 bp, 1000 bp, and uncut 1500 bp)",
+    "explanation": "[CONCEPT]\nStep 1: Complete digestion gives 500 bp fragments.\nStep 2: Single cuts give 500 bp + 1000 bp fragments.\nStep 3: Uncut DNA gives 1500 bp fragments.\nTotal distinct sizes = 3."
+  },
+  {
+    "id": 93,
+    "question": "Nirenberg and Matthaei demonstrated that poly(U) directs the synthesis of poly(L-Phe), and poly(C) directs poly(L-Pro). This proved that",
+    "options": [
+      "GGG codes for Phe",
+      "CCC codes for Phe",
+      "AAA codes for Phe",
+      "Codon UUU specifies L-Phenylalanine and codon CCC specifies L-Proline."
+    ],
+    "correct_answer": "Codon UUU specifies L-Phenylalanine and codon CCC specifies L-Proline.",
+    "explanation": "[CONCEPT]\nStep 1: Cell-free translation of poly(U) produced polyphenylalanine, deciphering the first codon UUU = Phe."
+  },
+  {
+    "id": 94,
+    "question": "The direction of polypeptide synthesis during natural mRNA translation on ribosomes and in chemical solid-phase peptide synthesis (SPPS), respectively, are",
+    "options": [
+      "C→N on ribosomes and N→C in solid phase",
+      "N→C on ribosomes and C→N in solid-phase peptide synthesis.",
+      "N→C in both cases",
+      "C→N in both cases"
+    ],
+    "correct_answer": "N→C on ribosomes and C→N in solid-phase peptide synthesis.",
+    "explanation": "[CONCEPT]\nStep 1: Ribosomes synthesize N-terminal to C-terminal; SPPS anchors the C-terminus and couples incoming N-protected amino acids (C to N)."
+  },
+  {
+    "id": 95,
+    "question": "A PCR reaction (100 μL) containing two primers at 0.2 μM each amplifies a 250 bp DNA fragment (660 Da/bp). If the primers are 100% consumed, what is the maximum yield of PCR product in μg?",
+    "options": [
+      "65 μg",
+      "3 μg",
+      "6.6 μg",
+      "13.2 μg"
+    ],
+    "correct_answer": "3 μg",
+    "explanation": "[CONCEPT]\nStep 1: Primer moles = 100 μL × 0.2 μM = 2 × 10⁻¹¹ mol (20 pmol each).\nStep 2: Duplex DNA copies formed = 20 pmol (since 1 forward + 1 reverse primer form 1 duplex).\nStep 3: Product MW = 250 bp × 660 Da = 165,000 g/mol.\nStep 4: Yield = 2 × 10⁻¹¹ mol × 165,000 g/mol = 3.3 × 10⁻⁶ g = 3.3 μg."
+  }
+]

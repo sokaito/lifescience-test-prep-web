@@ -45,7 +45,7 @@
     "options": [
       "ro 4\n~ V)\n0::: 3\n..c\n.::it:.·",
       "ro\n....J\n- a.,\n1 u\nL.\na.. 0\n0.5 1 1.S 2 2.5 0\nWei~ht of di,amond (carat)\n1. 1.5 carat\n2. 2.25 carat",
-      "2.5 carat",
+      "5 carat",
       "4 .. 5 carat"
     ],
     "correct_answer": "ro 4\n~ V)\n0::: 3\n..c\n.::it:.·",
@@ -71,8 +71,8 @@
     "options": [
       "0.25%",
       "25%",
-      "2.5%",
-      "1.25%"
+      "5%",
+      "25%"
     ],
     "correct_answer": "0.25%",
     "explanation": ""
@@ -432,12 +432,12 @@
     "section": "B",
     "question": "Match the following:\nEukarvotic DNA polymerase Function\nBase excision repair A. 5 L\n£_ dimer bypass ii. Thymine B\nWhich one of the follow ing options represen ts a~I correct matches between\nCO:lumn X and Column Y?\nB (iv)",
     "options": [
-      "(a) A (iii) D (ii) C (i)",
-      "(b) A(iv)- C (i) D (ii) B (iii)",
-      "(c) A(iv), C (ii) B (iii) D (i)",
-      "(d) A(iii) B (iv) C (ii) D (i)"
+      "A (iii) D (ii) C (i)",
+      "A(iv)- C (i) D (ii) B (iii)",
+      "A(iv), C (ii) B (iii) D (i)",
+      "A(iii) B (iv) C (ii) D (i)"
     ],
-    "correct_answer": "(a) A (iii) D (ii) C (i)",
+    "correct_answer": "A (iii) D (ii) C (i)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -517,12 +517,12 @@
     "section": "B",
     "question": "Recognit ,ion Receptors (PRRs) and Column Y lists the Column X lists Pattern\nligands that bind to the PRRs.\nCpG DNA B TLR3 ii. Unmethylated\nFilaqelli:n C. TLR12 iii.\nF. TL'R7 vi. LPS\nWhich one of the following options represents alll correct matches between",
     "options": [
-      "(a) lumn X and Column Y? Go\nC-j A-iii 1. B-v ,\n' A-iii ,",
-      "(b) D-ii ' D-ii F-v\nF-iv",
-      "(c) C-i\n'",
-      "(d) 8-iv E-vi '"
+      "lumn X and Column Y? Go\nC-j A-iii 1. B-v ,\n' A-iii ,",
+      "D-ii ' D-ii F-v\nF-iv",
+      "C-i\n'",
+      "8-iv E-vi '"
     ],
-    "correct_answer": "(b) D-ii ' D-ii F-v\nF-iv",
+    "correct_answer": "D-ii ' D-ii F-v\nF-iv",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -760,12 +760,12 @@
     "section": "B",
     "question": "In a population , the frequency of allele Cal is 0.2 and that of a:llele b' is 0.1. Consider\nthat there are two aUeles for each of the genes. What would be the expected\nAaBb, considering that the popullation is percentage of population with genotype\nunder Hardy-Weinberg equilibrium?",
     "options": [
-      "1.44 %",
-      "2.88 %",
+      "44 %",
+      "88 %",
       "50%",
       "57.6 %"
     ],
-    "correct_answer": "2.88 %",
+    "correct_answer": "88 %",
     "explanation": ""
   },
   {
@@ -943,9 +943,9 @@
     "question": "- - -\nThe graph below shows the plot of 1/v vs 1/[S] for an enzyma ic reaction , with the\nsolid and dashed lines representing the reactiions without and with an inhibitor,\nrespective ly. The concentrat ion of the inhibitor is 1 µM.\n24 I\nI\nI 21\nI ..\n.I\nf en 1a\nI\nI\n~ 15\nT\"\"\n12\nI\n~\nI\nI 0\n-4 -3 -.2 -1 0 1 2 3 4 5 6\n1/[S], pM-1\nWhich one of the following will be the K, of the inhibitor?",
     "options": [
       "0.33",
-      "1.0",
+      "0",
       "0.50",
-      "2.0"
+      "0"
     ],
     "correct_answer": "0.50",
     "explanation": ""
@@ -1215,12 +1215,12 @@
     "section": "C",
     "question": "The table below lists unique structurail modificat ions ,(Column X) found in various",
     "options": [
-      "(a) Pistia\nD. lnnated petiole IV. Opuntia\nopfon that correctly matches column X w'th column Y. Select the\n1. A-I B-11 C-111 D-IV",
-      "(b) A-II B-111 C-1 D-IV",
-      "(c) A-II B-IV C-1 D-111",
-      "(d) A-Ill B-IV C-11 D-1"
+      "Pistia\nD. lnnated petiole IV. Opuntia\nopfon that correctly matches column X w'th column Y. Select the\n1. A-I B-11 C-111 D-IV",
+      "A-II B-111 C-1 D-IV",
+      "A-II B-IV C-1 D-111",
+      "A-Ill B-IV C-11 D-1"
     ],
-    "correct_answer": "(c) A-II B-IV C-1 D-111",
+    "correct_answer": "A-II B-IV C-1 D-111",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1288,12 +1288,12 @@
     "section": "C",
     "question": "Leaves can alter the intracellular distribution of their chloroplasts in response to\nchanging light conditions. Shown below are schematic diagram of chloroplast\ndistribution patterns 'in palisade cells of Arab idopsis, in response to different light\nintens ities, grown in a growth chamber having light source from the top.\nDirectio n of incident light\n111\n11 1 11\n1,, , , ,\n111 Upper ce11 wan Upper cell wall\n\"\"\"'\nI\n•\nI\nVacuole Vacuole • Vacuole\n• • I\n• •\nI\n•\n'--- - Cytoso1 Lower cell wall lower ,cell wall lower cell wal I ----·\nA B C\nWhich one of the following combinations correctly matches the chloroplast\ndistribution with its corresponding light intensity?\nA= High light; C =Lowlight B=Darkness ;",
     "options": [
-      "(a) A= Darkness · '",
-      "(b) C =Lowlight light; B= High",
-      "(c) A= Low light; C = High light B= Darkness ;",
-      "(d) A= High light; C = Darkness B= Low light;"
+      "A= Darkness · '",
+      "C =Lowlight light; B= High",
+      "A= Low light; C = High light B= Darkness ;",
+      "A= High light; C = Darkness B= Low light;"
     ],
-    "correct_answer": "(c) A= Low light; C = High light B= Darkness ;",
+    "correct_answer": "A= Low light; C = High light B= Darkness ;",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1304,12 +1304,12 @@
     "section": "C",
     "question": "The table be1low lists the food reserves (Column X) found in different algal groups\n(Column Y).\nC6Iumn X Column Y\nPhaeophyceae B. Starch 11.\nSelect the option that correctly matches column X with column Y.",
     "options": [
-      "(a) A-II B-111 C-1 D-IV",
-      "(b) A-IV B-111 C-11 D-1",
-      "(c) A-Ill B-11 C-1 D-IV\nA-I",
-      "(d) B-IV C-III D-11"
+      "A-II B-111 C-1 D-IV",
+      "A-IV B-111 C-11 D-1",
+      "A-Ill B-11 C-1 D-IV\nA-I",
+      "B-IV C-III D-11"
     ],
-    "correct_answer": "(b) A-IV B-111 C-11 D-1",
+    "correct_answer": "A-IV B-111 C-11 D-1",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1379,9 +1379,9 @@
     "question": "In a typical experiment , 15 ml of an aqueous solution containing an unknown\nquantity of acetylcholine had a pH of 7.65. When the solution is incubated with\nacetylcholinesterase, the pH of the solution decreased to 6.87. Assuming that there\nwas no buffer in the reaction mixture , determ ine the number of moles of",
     "options": [
       "acetylcholine in the 15 ml s0 lution.\n1. 1.65 x 10-9 mol to 1.75 x 10·9 mol\n9",
-      "2.65 x 10- mol to 2.75 x 10-9 mol\n9 mol 9",
+      "65 x 10- mol to 2.75 x 10-9 mol\n9 mol 9",
       "0.65 x 1fr to 0.75 x 10- mol",
-      "3.30 x 10~9 mol to 3.40 x 10-9 mol"
+      "30 x 10~9 mol to 3.40 x 10-9 mol"
     ],
     "correct_answer": "acetylcholine in the 15 ml s0 lution.\n1. 1.65 x 10-9 mol to 1.75 x 10·9 mol\n9",
     "explanation": ""
@@ -1391,12 +1391,12 @@
     "section": "C",
     "question": "in the tropical and c. Podzo lization 111. Hum id environments\nsubtrop ical regions\nmid-latitude regions IV. Cool , moist d imates of the\nWhich one of the folllowing options represents all correct matches between\nCo:lumn X and Column Y?",
     "options": [
-      "(a) A- I B- Ill C- 1I",
-      "(b) A- Ill B-11 C- IV",
-      "(c) A- I B- IV C- 1II",
-      "(d) A- II B-"
+      "A- I B- Ill C- 1I",
+      "A- Ill B-11 C- IV",
+      "A- I B- IV C- 1II",
+      "A- II B-"
     ],
-    "correct_answer": "(d) A- II B-",
+    "correct_answer": "A- II B-",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1528,7 +1528,7 @@
   {
     "id": 115,
     "section": "C",
-    "question": "The figure below represents a bipartite network of species interactions between two\nrnk represents an interaction between a species in the higher trophic levels. Each\nP),. trophic level (A to H) and a species in the lower trophic level (I to\nHigher troph ic level\nJ K L M N 0 IP\nLower trophic level\nGiven below are a few statements describing potentia~ conclusions that can be\ndrawn from the network:\nA. If the network represents predator species (A-H) and prey species (1-P), then\nan apex predator. D ·s\nB. If the network represents plant species (1-P), and pollinator species (A-H),\nthen species I is more likely to experience local ext,inction than K.\nC. The network is more stable i:f D is removed and the population size of 0\nincreases.\nD. If the network represen s frugivore species (A-H) and plant species (1-P),\nthen M is a keystone species.\noptions given below represents all correct statemenUs that can Which one of the\nbe inferred from the network above?",
+    "question": "The figure below represents a bipartite network of species interactions between two\nrnk represents an interaction between a species in the higher trophic levels. Each\nP),. trophic level (A to H) and a species in the lower trophic level (I to\nHigher troph ic level\nJ K L M N 0 IP\nLower trophic level\nGiven below are a few statements describing potentia~ conclusions that can be\ndrawn from the network:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>If the network represents predator species (A-H) and prey species (1-P), then\nan apex predator. D ·s</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>If the network represents plant species (1-P), and pollinator species (A-H),\nthen species I is more likely to experience local ext,inction than K.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The network is more stable i:f D is removed and the population size of 0\nincreases.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>If the network represen s frugivore species (A-H) and plant species (1-P),\nthen M is a keystone species.\noptions given below represents all correct statemenUs that can</span></div></div>\nWhich one of the\nbe inferred from the network above?",
     "options": [
       "A and B only",
       "A, Band C",
@@ -1659,12 +1659,12 @@
     "section": "C",
     "question": "The following tab e shows a list of migratory birds coming to India (Column X) and\nWhich one of the following options represents all correct matches between\nColumn X and Column Y?",
     "options": [
-      "(a) A- Ill , B- IV ' C-1 ' D- 11",
-      "(b) A- II ' 8- Ill, C-1 ' D-IV",
-      "(c) A- I ' B-11 ID- IV\n' C-\nA- II ' 8- 111,",
-      "(d) C-IV ' ID- I"
+      "A- Ill , B- IV ' C-1 ' D- 11",
+      "A- II ' 8- Ill, C-1 ' D-IV",
+      "A- I ' B-11 ID- IV\n' C-\nA- II ' 8- 111,",
+      "C-IV ' ID- I"
     ],
-    "correct_answer": "(b) A- II ' 8- Ill, C-1 ' D-IV",
+    "correct_answer": "A- II ' 8- Ill, C-1 ' D-IV",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1685,12 +1685,12 @@
     "section": "C",
     "question": "The following table shows a list of migratory birds coming to India (Column X) and the region from where they migrate (Column Y).\nColumn X | Column Y\nWhich one of the following options represents all correct matches between Column X and Column Y?",
     "options": [
-      "(a) A-III, B-IV, C-I, D-II",
-      "(b) A-II, B-III, C-I, D-IV",
-      "(c) A-I, B-II, C-III, D-IV",
-      "(d) A-II, B-III, C-IV, D-I"
+      "A-III, B-IV, C-I, D-II",
+      "A-II, B-III, C-I, D-IV",
+      "A-I, B-II, C-III, D-IV",
+      "A-II, B-III, C-IV, D-I"
     ],
-    "correct_answer": "(c) A-I, B-II, C-III, D-IV",
+    "correct_answer": "A-I, B-II, C-III, D-IV",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1724,12 +1724,12 @@
     "section": "C",
     "question": "Match the folllowing ribose sugar pucker in nucleic adds (labeled A, B, C, D) with\ntheir corresponding conformational states. The black circle denotes the base of the\nnucleotide.\nH\nCs'~\nH . . 'OH\nH 3' H\nOH\nID A B C\nB. 04 '-exo · ' B - 04 '-endo ; C - C3'-endo · ' C - C3 '-endo · ' D - 04 '-endo",
     "options": [
-      "(a) A - C2 '-exo;\nD - 04 '-exo A - C2 '-endo · ' A - C2 '-endo ·",
-      "(b) D - 04 '-exo B - 04 '-exo ·",
-      "(c) C - C3'-exo ; . , I\nD - 04 '-endo A - C2 '-exo · ' B - 04 '-endo · C - C3 '-exo · '",
-      "(d) ,"
+      "A - C2 '-exo;\nD - 04 '-exo A - C2 '-endo · ' A - C2 '-endo ·",
+      "D - 04 '-exo B - 04 '-exo ·",
+      "C - C3'-exo ; . , I\nD - 04 '-endo A - C2 '-exo · ' B - 04 '-endo · C - C3 '-exo · '",
+      ","
     ],
-    "correct_answer": "(b) D - 04 '-exo B - 04 '-exo ·",
+    "correct_answer": "D - 04 '-exo B - 04 '-exo ·",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1753,12 +1753,12 @@
     "section": "C",
     "question": "Mycobacterium lep,rae Q reen B. ii. Malachite\nflaQella iii. Lactophenol cotton blue C. Pseudomonas\nVollutin granules of C. D. iv. Gram stain\ndiphtheriae\nfunqi E. Cultu red V. Silver stain\nF. Klebsiella capsule vi. Zieh l Neelsen stain\nG. Olostridium endospore vii. India ink\nWhich one of the following options represents the combination of all correct\nmatches?\nE-v",
     "options": [
-      "(a) A-iv C-iii,\n'\nA-i",
-      "(b) B-vi F-ii\n' '\nF-vii",
-      "(c) A-i , B-vi ' C-v,",
-      "(d) D-.i E-rn"
+      "A-iv C-iii,\n'\nA-i",
+      "B-vi F-ii\n' '\nF-vii",
+      "A-i , B-vi ' C-v,",
+      "D-.i E-rn"
     ],
-    "correct_answer": "(d) D-.i E-rn",
+    "correct_answer": "D-.i E-rn",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1847,12 +1847,12 @@
     "section": "C",
     "question": "Match the following bacterial gene expression mechan isms:\nWhich one of the following options represents all correct matches between\nCo1lumn X and Column Y?",
     "options": [
-      "(a) A (iv) B (') C (ii) D (iii)",
-      "(b) A(i) B D (v) C (ii) (Hi)",
-      "(c) A (iv) B ('i) C (i) D (iii)",
-      "(d) A (ii) C (iv) B (i) D (iii)"
+      "A (iv) B (') C (ii) D (iii)",
+      "A(i) B D (v) C (ii) (Hi)",
+      "A (iv) B ('i) C (i) D (iii)",
+      "A (ii) C (iv) B (i) D (iii)"
     ],
-    "correct_answer": "(d) A (ii) C (iv) B (i) D (iii)",
+    "correct_answer": "A (ii) C (iv) B (i) D (iii)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1873,12 +1873,12 @@
     "section": "C",
     "question": "A Thrips i Blattodea\nii Dermaptera B Lacewings\nC Termites m Phasmatodea\nD Earwigs iv Thysa noptera\nV Neuroptera E Stick insects\nSelect the option that correctly matches column X with column Y.",
     "options": [
-      "(a) A-ii B- m D-v C-iv",
-      "(b) A-iii 8- C-v",
-      "(c) A-i B- iv E-v C-ii\nC-i",
-      "(d) A-iv B- v E-iii"
+      "A-ii B- m D-v C-iv",
+      "A-iii 8- C-v",
+      "A-i B- iv E-v C-ii\nC-i",
+      "A-iv B- v E-iii"
     ],
-    "correct_answer": "(d) A-iv B- v E-iii",
+    "correct_answer": "A-iv B- v E-iii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1928,12 +1928,12 @@
     "section": "C",
     "question": "Below is a table with the !list of post -trans lational modificat ions on proteins and\nadd res.idues that are correspondingly modified. amino\nPost-translational modification Amino acid residue(s)\nA. Phosphorylation Histidine\nN-termina f B. Ubiquitination Lysine, Methionine\nD.Hydroxy lation Pro line, Cystei ne\nWhich post-translational modifications are correctly matched with the amino acid\nresidues they typicaUy modify?",
     "options": [
-      "(a) A, B, and C",
-      "(b) B, C, and D",
-      "(c) C and D only",
-      "(d) A and B only"
+      "A, B, and C",
+      "B, C, and D",
+      "C and D only",
+      "A and B only"
     ],
-    "correct_answer": "(d) A and B only",
+    "correct_answer": "A and B only",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],

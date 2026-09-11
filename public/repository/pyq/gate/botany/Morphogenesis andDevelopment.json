@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Microbodies found in cells of fat-rich endosperm are known as",
+    "options": [
+      "peroxisomes.",
+      "glyoxysomes.",
+      "lysosomes.",
+      "spherosomes."
+    ],
+    "correct_answer": "glyoxysomes.",
+    "explanation": "[CONCEPT]\nStep 1: Glyoxysomes are specialized plant microbodies found in fat-storing tissues of germinating seeds.\nStep 2: They contain enzymes of the glyoxylate cycle which convert stored lipids into carbohydrates."
+  },
+  {
+    "id": 2,
+    "question": "Germplasm preservation through tissue culture is",
+    "options": [
+      "in situ conservation.",
+      "ex situ conservation.",
+      "protected area conservation.",
+      "both in situ and ex situ conservation."
+    ],
+    "correct_answer": "ex situ conservation.",
+    "explanation": "[CONCEPT]\nStep 1: In vitro tissue culture preservation maintains germplasm outside natural habitats.\nStep 2: Therefore, it is an ex situ conservation method."
+  },
+  {
+    "id": 3,
+    "question": "Pollination effected by wind is called",
+    "options": [
+      "ornithophily.",
+      "anemophily.",
+      "entomophily.",
+      "hydrophily."
+    ],
+    "correct_answer": "anemophily.",
+    "explanation": "[CONCEPT]\nStep 1: Anemophily is pollination by wind.\nStep 2: Ornithophily is by birds, entomophily by insects, and hydrophily by water."
+  },
+  {
+    "id": 4,
+    "question": "In which phase of the cell cycle the drug colchicine exerts its effect?",
+    "options": [
+      "G₁",
+      "S",
+      "G₂",
+      "M"
+    ],
+    "correct_answer": "M",
+    "explanation": "[CONCEPT]\nStep 1: Colchicine prevents microtubule polymerization and disrupts mitotic spindle assembly.\nStep 2: This arrests dividing cells at the metaphase stage of M phase."
+  },
+  {
+    "id": 5,
+    "question": "The condition when anthers mature earlier than stigma is known as",
+    "options": [
+      "dicliny.",
+      "herkogamy.",
+      "protandry.",
+      "protogyny."
+    ],
+    "correct_answer": "protandry.",
+    "explanation": "[CONCEPT]\nStep 1: Protandry is the maturation of anthers before stigma in a flower.\nStep 2: Protogyny is when stigma matures before anthers."
+  },
+  {
+    "id": 6,
+    "question": "Viviparous germination is found in",
+    "options": [
+      "Rhizophora sp.",
+      "Mangifera sp.",
+      "Nymphaea sp.",
+      "Typha sp."
+    ],
+    "correct_answer": "Rhizophora sp.",
+    "explanation": "[CONCEPT]\nStep 1: Vivipary is seed germination while still attached to the parent plant.\nStep 2: It is a characteristic adaptation of mangrove plants like Rhizophora."
+  },
+  {
+    "id": 7,
+    "question": "Seed storage proteins of legumes are deficient in",
+    "options": [
+      "threonine.",
+      "methionine.",
+      "lysine.",
+      "glycine."
+    ],
+    "correct_answer": "methionine.",
+    "explanation": "[CONCEPT]\nStep 1: Legume seed proteins are rich in lysine but deficient in sulfur-containing amino acids like methionine.\nStep 2: Cereal proteins in contrast are rich in methionine but deficient in lysine."
+  },
+  {
+    "id": 8,
+    "question": "The chromatin fibers at metaphase have an average diameter of",
+    "options": [
+      "100 Å",
+      "200 Å",
+      "300 Å",
+      "400 Å"
+    ],
+    "correct_answer": "300 Å",
+    "explanation": "[CONCEPT]\nStep 1: The 10 nm (100 Å) nucleosomal filament coils into a 30 nm (300 Å) solenoid fiber.\nStep 2: This 300 Å chromatin fiber represents the basic higher-order chromatin structure."
+  },
+  {
+    "id": 9,
+    "question": "Synthesis of DNA polymerase occurs at",
+    "options": [
+      "G₁ phase.",
+      "S phase.",
+      "G₂ phase.",
+      "M phase."
+    ],
+    "correct_answer": "G₁ phase.",
+    "explanation": "[CONCEPT]\nStep 1: G₁ phase involves synthesis of RNA and replication enzymes such as DNA polymerase.\nStep 2: Actual replication of DNA occurs subsequently in S phase."
+  },
+  {
+    "id": 10,
+    "question": "Synthetic seed is produced by encapsulating somatic embryo with",
+    "options": [
+      "sodium alginate.",
+      "sodium nitrate.",
+      "sodium acetate.",
+      "sodium sulphate."
+    ],
+    "correct_answer": "sodium alginate.",
+    "explanation": "[CONCEPT]\nStep 1: Synthetic seeds encapsulate somatic embryos in a hydrogel matrix.\nStep 2: Sodium alginate cross-linked with calcium chloride is standardly used."
+  },
+  {
+    "id": 11,
+    "question": "The storage protein found in wheat and pea are",
+    "options": [
+      "glutenin and patatin.",
+      "glutenin and vicilin.",
+      "zein and vicilin.",
+      "vicilin and patatin."
+    ],
+    "correct_answer": "glutenin and vicilin.",
+    "explanation": "[CONCEPT]\nStep 1: Wheat storage proteins comprise glutenin and gliadin.\nStep 2: Pea storage proteins comprise vicilin and legumin."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Meristem culture</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Suspension culture</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Protoplast culture</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Anther culture\n\nGroup II:\n1. Virus elimination\n2. Homozygosity\n3. Packed-cell volume\n4. Embryo rescue\n5. Macerozyme\n6. Liposome</span></div></div>",
+    "options": [
+      "P–2; Q–1; R–4; S–6",
+      "P–1; Q–3; R–5; S–2",
+      "P–3; Q–2; R–5; S–4",
+      "P–5; Q–6; R–2; S–1"
+    ],
+    "correct_answer": "P–1; Q–3; R–5; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Meristem culture eliminates viruses (1).\nStep 2: Suspension culture growth is measured by packed-cell volume (3).\nStep 3: Protoplast isolation uses Macerozyme for wall digestion (5).\nStep 4: Anther culture yields haploids for producing homozygous lines (2)."
+  },
+  {
+    "id": 13,
+    "question": "During seed development, the organelle oleosome functions for storage of",
+    "options": [
+      "oil only.",
+      "oil and starch.",
+      "oil, starch and protein.",
+      "oil and protein."
+    ],
+    "correct_answer": "oil only.",
+    "explanation": "[CONCEPT]\nStep 1: Oleosomes (lipid droplets / oil bodies) are bounded by a phospholipid monolayer with oleosins.\nStep 2: They function specifically for the storage of neutral lipids / triacylglycerols (oils)."
+  },
+  {
+    "id": 14,
+    "question": "With the objective of raising somatic embryos via friable callusing choose the best combination of growth regulators for medium I and II.\n\nMedium I (Callusing):\nP. 2,4-D\nQ. IAA\n\nMedium II (Embryogenesis):\n1. IAA and TIBA\n2. 2,4-D and BAP\n3. IAA and BAP\n4. 2,4-D and ABA",
+    "options": [
+      "Q–2",
+      "P–1",
+      "Q–4",
+      "P–3"
+    ],
+    "correct_answer": "Q–2",
+    "explanation": "[CONCEPT]\nStep 1: Callus induction is initiated in Medium I using auxin (Q: IAA).\nStep 2: Somatic embryogenesis in Medium II is promoted by auxin-cytokinin combination (2: 2,4-D and BAP)."
+  },
+  {
+    "id": 15,
+    "question": "Apospory can be defined as",
+    "options": [
+      "development of sporophytes on the gametophytes without any reduction division.",
+      "development of gametophytes on the sporophytes without any reduction division.",
+      "development of several embryos within the same ovule.",
+      "development of an embryo directly from an egg cell or male gamete."
+    ],
+    "correct_answer": "development of gametophytes on the sporophytes without any reduction division.",
+    "explanation": "[CONCEPT]\nStep 1: Apospory is the formation of a 2n gametophyte directly from vegetative cells of the sporophyte without meiosis.\nStep 2: Apogamy is the development of a sporophyte directly from a gametophyte cell without fertilization."
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I (In vitro problems):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Browning of explants</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hyperhydricity of regenerated shoots</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Low frequency of formation of protoplast colonies</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Low transformation frequency during biolistic operation\n\nGroup II (Remedial measure):\n1. Addition of antioxidants in the medium\n2. Nurse culture\n3. Osmotic pretreatment of tissues\n4. Membrane raft culture\n5. Decrease agar concentration\n6. Depletion of CO₂ in the culture vessel</span></div></div>",
+    "options": [
+      "P–2; Q–3; R–5; S–4",
+      "P–3; Q–2; R–4; S–6",
+      "P–1; Q–4; R–2; S–3",
+      "P–4; Q–3; R–1; S–6"
+    ],
+    "correct_answer": "P–1; Q–4; R–2; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Browning of explants is mitigated by antioxidants (1).\nStep 2: Hyperhydricity is prevented using membrane raft culture (4).\nStep 3: Low colony formation in protoplasts is improved by nurse culture (2).\nStep 4: Biolistic transformation frequency is enhanced by osmotic pretreatment (3)."
+  },
+  {
+    "id": 17,
+    "question": "Choose the correct one from among the alternatives A, B, C and D.\n\nGroup I (Meiosis I):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Zygonema</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Diplonema</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Diakinesis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Metaphase I\n\nGroup II (Event):\n1. Nucleolus and nuclear membrane disappear\n2. Replicated chromosomes become visible\n3. Assembly of spindle completed\n4. Chromatids become fully visible, chiasmata becomes visible\n5. Homologous chromosomes pair, crossing over occurs\n6. Homologous chromosomes pair</span></div></div>",
+    "options": [
+      "P–6; Q–2; R–4; S–5",
+      "P–1; Q–2; R–5; S–4",
+      "P–5; Q–2; R–1; S–6",
+      "P–6; Q–4; R–1; S–3"
+    ],
+    "correct_answer": "P–6; Q–4; R–1; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Zygonema: Homologous chromosomes pair (synapsis) (6).\nStep 2: Diplonema: Chiasmata become clearly visible (4).\nStep 3: Diakinesis: Nuclear membrane and nucleolus disappear (1).\nStep 4: Metaphase I: Spindle assembly is complete with bivalents at the equatorial plate (3)."
+  },
+  {
+    "id": 18,
+    "question": "Encapsulated somatic embryo in alginate beads produces artificial seeds. Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Artificial seed is a genetically modified agricultural product.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Artificial seed is a patented product for pharmaceutical industry.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Artificial seeds can be stored and transferred to soil for germination.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Somatic embryo of single cell origin produces genetically uniform plants.</span></div></div>",
+    "options": [
+      "P, S",
+      "P, Q",
+      "Q, R",
+      "R, S"
+    ],
+    "correct_answer": "R, S",
+    "explanation": "[CONCEPT]\nStep 1: Artificial seeds can be handled, stored, and planted directly for germination (R is correct).\nStep 2: Somatic embryos derived clonally yield genetically uniform true-to-type plants (S is correct)."
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct one from the alternatives A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Funiculus</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Seed coat dormancy</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Reserve food stored in endosperm</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Vivipary germination\n\nGroup II:\n1. Pea pod\n2. Coconut\n3. Rice seed\n4. Erycibe\n5. Malvaceae\n6. Rhizophora</span></div></div>",
+    "options": [
+      "P–1; Q–4; R–3; S–5",
+      "P–1; Q–6; R–5; S–4",
+      "P–1; Q–5; R–3; S–6",
+      "P–1; Q–2; R–6; S–3"
+    ],
+    "correct_answer": "P–1; Q–5; R–3; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Funiculus is the seed stalk prominently seen in pea pods (1).\nStep 2: Hard seed coat dormancy is found in Malvaceae (5).\nStep 3: Endosperm stores reserve food in rice seed (3).\nStep 4: Viviparous germination occurs in mangrove Rhizophora (6)."
+  },
+  {
+    "id": 20,
+    "question": "Choose the correct one from the alternatives A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Chromosome cycle</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>G₁ phase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Salt glands</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tunica-corpus\n\nGroup II:\n1. Interval between mitosis and DNA replication\n2. Helps in removing the excess salts\n3. Behavior of the cell as they grow and divide\n4. Organization of apical meristem based on a single apical cell\n5. Concept of tissue differentiation at shoot apical meristem\n6. Replication and partitioning of the genome into two daughter cells</span></div></div>",
+    "options": [
+      "P–1; Q–6; R–3; S–4",
+      "P–2; Q–1; R–6; S–5",
+      "P–3; Q–6; R–4; S–5",
+      "P–6; Q–1; R–2; S–5"
+    ],
+    "correct_answer": "P–6; Q–1; R–2; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Chromosome cycle involves DNA replication and chromosome segregation (6).\nStep 2: G₁ phase is the interval between M phase and S phase (1).\nStep 3: Salt glands eliminate excess salt in halophytes (2).\nStep 4: Tunica-corpus describes shoot apical meristem differentiation (5)."
+  },
+  {
+    "id": 21,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Caryopsis, one-seeded dry indehiscent fruit of Gramineae.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Lithocyst, a cell containing starch.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Aleurone layer contains protein granules and enzymes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Embryo development is not of a single cell origin.</span></div></div>",
+    "options": [
+      "Q, R",
+      "P, S",
+      "P, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Caryopsis is the characteristic fruit of Gramineae/Poaceae (P is correct).\nStep 2: Lithocyst contains calcium carbonate cystoliths, not starch (Q is incorrect).\nStep 3: Aleurone layer stores protein granules and digestive enzymes (R is correct).\nStep 4: Embryo develops from a single zygotic cell (S is incorrect)."
+  },
+  {
+    "id": 22,
+    "question": "Study the diagram depicting plant cell cycle phases and match each stage with its corresponding regulatory cyclin:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 320 260\" class=\"w-full max-w-xs\">\n    <circle cx=\"160\" cy=\"130\" r=\"90\" fill=\"none\" stroke=\"#334155\" stroke-width=\"32\" />\n    <path d=\"M 160 40 A 90 90 0 0 1 250 130\" fill=\"none\" stroke=\"#38bdf8\" stroke-width=\"28\" />\n    <path d=\"M 250 130 A 90 90 0 0 1 190 217\" fill=\"none\" stroke=\"#a855f7\" stroke-width=\"28\" />\n    <path d=\"M 190 217 A 90 90 0 0 1 100 205\" fill=\"none\" stroke=\"#eab308\" stroke-width=\"28\" />\n    <path d=\"M 100 205 A 90 90 0 0 1 160 40\" fill=\"none\" stroke=\"#ef4444\" stroke-width=\"28\" />\n    <text x=\"215\" y=\"85\" fill=\"#0f172a\" font-weight=\"bold\" font-size=\"14\">G₁</text>\n    <text x=\"225\" y=\"180\" fill=\"#0f172a\" font-weight=\"bold\" font-size=\"14\">S</text>\n    <text x=\"140\" y=\"225\" fill=\"#0f172a\" font-weight=\"bold\" font-size=\"14\">G₂</text>\n    <text x=\"105\" y=\"110\" fill=\"#0f172a\" font-weight=\"bold\" font-size=\"14\">M</text>\n    <text x=\"160\" y=\"135\" fill=\"#f8fafc\" font-weight=\"black\" font-size=\"13\" text-anchor=\"middle\">Cell Cycle</text>\n  </svg>\n</div>\n\nStages of cell cycle:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Late G₁-phase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Beginning of S-phase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Prior to mitotic phase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Early G₁-phase\n\nType of cyclin:\n1. Cyclin B\n2. Cyclin E\n3. S-Cyclin\n4. Cyclin D</span></div></div>",
+    "options": [
+      "P–4; Q–3; R–1; S–2",
+      "P–2; Q–3; R–1; S–4",
+      "P–1; Q–4; R–3; S–2",
+      "P–3; Q–1; R–2; S–4"
+    ],
+    "correct_answer": "P–2; Q–3; R–1; S–4",
+    "explanation": "[CONCEPT]\nStep 1: Cyclin D acts during early G₁ phase (S–4).\nStep 2: Cyclin E acts during late G₁ phase to facilitate entry into S phase (P–2).\nStep 3: S-cyclin regulates DNA replication in S phase (Q–3).\nStep 4: Cyclin B promotes entry into mitosis (R–1)."
+  },
+  {
+    "id": 23,
+    "question": "In which one of the following phases of cell cycle the drug colchicine exerts its effect?",
+    "options": [
+      "G₁",
+      "G₂",
+      "S",
+      "M"
+    ],
+    "correct_answer": "M",
+    "explanation": "[CONCEPT]\nStep 1: Colchicine binds to tubulin and inhibits spindle apparatus formation.\nStep 2: This halts dividing cells during M phase (metaphase arrest)."
+  },
+  {
+    "id": 24,
+    "question": "Match the plants with their seed storage proteins.\n\nPlant:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Rape seed</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Pea</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Sorghum</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Wheat\n\nProtein:\n1. Kafirin\n2. Vicilin\n3. Gliadin\n4. Napin\n5. Zein\n6. Patatin</span></div></div>",
+    "options": [
+      "P–4; Q–3; R–5; S–2",
+      "P–2; Q–3; R–6; S–1",
+      "P–4; Q–2; R–1; S–3",
+      "P–3; Q–2; R–4; S–5"
+    ],
+    "correct_answer": "P–4; Q–2; R–1; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Rapeseed stores Napin (4).\nStep 2: Pea stores Vicilin (2).\nStep 3: Sorghum stores Kafirin (1).\nStep 4: Wheat stores Gliadin (3)."
+  },
+  {
+    "id": 25,
+    "question": "Identify the event that exclusively occurs in meiotic cell division.",
+    "options": [
+      "Chromatid formation.",
+      "Spindle formation.",
+      "Synapsis.",
+      "Chromosome movement to pole."
+    ],
+    "correct_answer": "Synapsis.",
+    "explanation": "[CONCEPT]\nStep 1: Synapsis (pairing of homologous chromosomes) occurs solely in Zygotene of Prophase I of Meiosis.\nStep 2: Chromatid formation, spindle assembly, and chromosome movement occur in both mitosis and meiosis."
+  },
+  {
+    "id": 26,
+    "question": "Find the right combination for P, Q, R and S with respect to gametophyte development in flowering plants:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-3 text-xs\">\n    <div class=\"p-2 border border-slate-700 rounded-lg bg-slate-800 text-center font-bold\">Microsporocyte</div>\n    <span class=\"text-sky-400 font-bold\">⎯( P )→</span>\n    <div class=\"p-2 border border-slate-700 rounded-lg bg-slate-800 text-center font-bold\">4 Microspores</div>\n    <span class=\"text-sky-400 font-bold\">⎯(Mitosis)→</span>\n    <div class=\"p-2 border border-slate-700 rounded-lg bg-slate-800 text-center\">\n      <div class=\"font-bold text-emerald-400\">Vegetative cell (Q)</div>\n      <div class=\"font-bold text-amber-400 mt-1\">Generative cell (R)</div>\n    </div>\n    <span class=\"text-sky-400 font-bold\">⎯(Mitosis)→</span>\n    <div class=\"p-2 border border-slate-700 rounded-lg bg-slate-800 text-center font-bold text-rose-400\">2 Sperm cells (S)</div>\n  </div>\n</div>",
+    "options": [
+      "P–Meiosis; Q–Generative cell; R–Pollen tube; S–2 Sperm cells",
+      "P–Meiosis; Q–Pollen tube; R–Generative cell; S–2 Sperm cells",
+      "P–Mitosis; Q–Generative cell; R–Pollen tube; S–2 Sperm cells",
+      "P–Growth; Q–2 Sperm cells; R–Pollen tube; S–Generative cell"
+    ],
+    "correct_answer": "P–Meiosis; Q–Pollen tube; R–Generative cell; S–2 Sperm cells",
+    "explanation": "[CONCEPT]\nStep 1: Microsporocyte undergoes Meiosis (P) to produce 4 microspores.\nStep 2: Microspore divides into a vegetative cell (grows into pollen tube, Q) and generative cell (R).\nStep 3: Generative cell (R) undergoes mitosis to form 2 sperm cells (S)."
+  },
+  {
+    "id": 27,
+    "question": "With respect to germination of seeds, the correct sequence of events is:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Seed imbibes water.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mobilization of starch reserve to embryo.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Diffusion of gibberellin from embryo to aleurone layer.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Synthesis of α-amylase in the aleurone layer.</span></div></div>",
+    "options": [
+      "P, Q, S, R",
+      "P, R, S, Q",
+      "R, P, Q, S",
+      "R, Q, P, S"
+    ],
+    "correct_answer": "P, R, S, Q",
+    "explanation": "[CONCEPT]\nStep 1: Seed imbibes water (P).\nStep 2: Gibberellin released by the embryo diffuses to the aleurone layer (R).\nStep 3: Aleurone layer synthesizes and secretes α-amylase (S).\nStep 4: Starch is digested and mobilized to the growing embryo (Q)."
+  },
+  {
+    "id": 28,
+    "question": "Statements given below are either true (T) or false (F). Find the correct combination:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Somatic embryo is unipolar in nature.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Heterokaryon can be selected using a fluorescence-activated cell sorter (FACS).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The term somaclonal variation is coined by Larkin and Scowcroft.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Differentiation of shoot buds during in vitro culture is known as somatic embryogenesis.</span></div></div>",
+    "options": [
+      "P–T; Q–F; R–T; S–F",
+      "P–F; Q–T; R–F; S–T",
+      "P–T; Q–F; R–F; S–T",
+      "P–F; Q–T; R–T; S–F"
+    ],
+    "correct_answer": "P–F; Q–T; R–T; S–F",
+    "explanation": "[CONCEPT]\nStep 1: Somatic embryos are bipolar (P is False).\nStep 2: Heterokaryons from protoplast fusion can be sorted via FACS (Q is True).\nStep 3: Larkin and Scowcroft introduced the term somaclonal variation (R is True).\nStep 4: Shoot bud organogenesis is caulogenesis, not embryogenesis (S is False)."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is most abundant in the aleurone layer of wheat seeds?",
+    "options": [
+      "Tannin",
+      "Starch",
+      "Protein",
+      "Lipid"
+    ],
+    "correct_answer": "Protein",
+    "explanation": "[CONCEPT]\nStep 1: The aleurone layer of cereals is rich in protein grains (aleurone granules) and hydrolytic enzymes.\nStep 2: Starch is predominantly stored in the starchy endosperm."
+  },
+  {
+    "id": 30,
+    "question": "Statements given below are either true (T) or false (F). Select the correct combination:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Mitosis occurs exclusively in diploid mother cell.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mitosis occurs both in diploid and haploid mother cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Meiosis occurs exclusively in diploid mother cell.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Meiosis occurs both in diploid and haploid mother cells.</span></div></div>",
+    "options": [
+      "P–T; Q–F; R–T; S–F",
+      "P–F; Q–T; R–F; S–T",
+      "P–T; Q–F; R–F; S–T",
+      "P–F; Q–T; R–T; S–F"
+    ],
+    "correct_answer": "P–F; Q–T; R–T; S–F",
+    "explanation": "[CONCEPT]\nStep 1: Mitosis can take place in both haploid and diploid cells (P is False, Q is True).\nStep 2: Meiosis requires homologous chromosome pairs, occurring exclusively in diploid cells (R is True, S is False)."
+  },
+  {
+    "id": 31,
+    "question": "The plant cells are considered totipotent. The phenomenon of a mature cell reverting to the meristematic state and forming undifferentiated callus tissue is called",
+    "options": [
+      "redifferentiation.",
+      "dedifferentiation.",
+      "organogenesis.",
+      "recalcitrancy."
+    ],
+    "correct_answer": "dedifferentiation.",
+    "explanation": "[CONCEPT]\nStep 1: Dedifferentiation is the reversion of mature, differentiated cells back into dividing, undifferentiated meristematic cells (callus).\nStep 2: Redifferentiation is the subsequent development of specialized cells from dedifferentiated callus."
+  },
+  {
+    "id": 32,
+    "question": "Which one of the following statements is correct with respect to endosperm development?\nIt originates",
+    "options": [
+      "from the fusion product of three haploid nuclei—one from male gametophyte and two from the female gametophyte.",
+      "from the fusion product of three haploid nuclei—two from male gametophyte and one from the female gametophyte.",
+      "from the fusion product of two haploid nuclei—one from male gametophyte and one from the female gametophyte.",
+      "by a phenomenon called apomixes."
+    ],
+    "correct_answer": "from the fusion product of three haploid nuclei—one from male gametophyte and two from the female gametophyte.",
+    "explanation": "[CONCEPT]\nStep 1: Triple fusion involves one haploid male sperm nucleus ($n$) fusing with two haploid polar nuclei ($n + n$) of the central cell in the embryo sac.\nStep 2: This produces the primary endosperm nucleus ($3n$) that develops into endosperm."
+  }
+]

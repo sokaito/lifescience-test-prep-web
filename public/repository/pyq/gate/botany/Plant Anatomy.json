@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "question": "A plant cell where nucleus is absent",
+    "options": [
+      "sieve tube cell",
+      "guard cell",
+      "cambium cell",
+      "companion cell"
+    ],
+    "correct_answer": "sieve tube cell",
+    "explanation": "[CONCEPT]\nStep 1: Mature sieve tube elements lose their nucleus.\nStep 2: They remain alive and function with the help of companion cells."
+  },
+  {
+    "id": 2,
+    "question": "Among the followings which one is single membrane organelle?",
+    "options": [
+      "Chloroplast",
+      "Nucleus",
+      "Lysosome",
+      "Mitochondria"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\nStep 1: Chloroplast, nucleus and mitochondria are double-membrane bound.\nStep 2: Lysosome is surrounded by a single membrane."
+  },
+  {
+    "id": 3,
+    "question": "Mangroves are specially adapted to aquatic ecosystem because of the presence of",
+    "options": [
+      "pneumatophores",
+      "distinct aqueous tissue in leaves",
+      "vivipary",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "[CONCEPT]\nStep 1: Pneumatophores help in gaseous exchange in waterlogged soil.\nStep 2: Aqueous tissue stores water; vivipary helps seedling establishment."
+  },
+  {
+    "id": 4,
+    "question": "The physiologically receptor state in which a bacterial cell is able to be transformed is called",
+    "options": [
+      "lysogenic",
+      "competent",
+      "sensitized",
+      "inducible"
+    ],
+    "correct_answer": "competent",
+    "explanation": "[CONCEPT]\nStep 1: Competence is the physiological state allowing uptake of naked DNA.\nStep 2: Only competent cells can be transformed."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following proteins is a major component of cytoskeleton?",
+    "options": [
+      "Tubulin",
+      "Fibrin",
+      "Osmotin",
+      "Porin"
+    ],
+    "correct_answer": "Tubulin",
+    "explanation": "[CONCEPT]\nStep 1: Cytoskeleton includes microtubules, microfilaments and intermediate filaments.\nStep 2: Microtubules are polymers of tubulin."
+  },
+  {
+    "id": 6,
+    "question": "The specialized tissue in the roots of epiphytic orchids is known as",
+    "options": [
+      "haustoria",
+      "laticifer",
+      "velamen",
+      "periderm"
+    ],
+    "correct_answer": "velamen",
+    "explanation": "[CONCEPT]\nStep 1: Velamen is a multi-layered epidermis on aerial roots of epiphytic orchids.\nStep 2: It absorbs moisture and protects the root."
+  },
+  {
+    "id": 7,
+    "question": "Lenticel originates from",
+    "options": [
+      "guard cells",
+      "subsidiary cells",
+      "complimentary cells",
+      "companion cells"
+    ],
+    "correct_answer": "complimentary cells",
+    "explanation": "[CONCEPT]\nStep 1: Lenticels are formed by complementary (or complementary) cells of the cork cambium.\nStep 2: These loosely arranged cells allow gas exchange."
+  },
+  {
+    "id": 8,
+    "question": "Plant cell suspension culture is easily initiated from",
+    "options": [
+      "shoot apex",
+      "root apex",
+      "protoplast",
+      "friable callus"
+    ],
+    "correct_answer": "friable callus",
+    "explanation": "[CONCEPT]\nStep 1: Friable callus readily disperses into single cells or small clumps.\nStep 2: This makes it ideal for initiating suspension cultures."
+  },
+  {
+    "id": 9,
+    "question": "The process by which the pollen tube enters the ovule through micropyle is",
+    "options": [
+      "chalazogamy",
+      "basigamy",
+      "porogamy",
+      "mesogamy"
+    ],
+    "correct_answer": "porogamy",
+    "explanation": "[CONCEPT]\nStep 1: Porogamy = entry of pollen tube through the micropyle.\nStep 2: It is the most common path of pollen-tube entry."
+  },
+  {
+    "id": 10,
+    "question": "The vascular bundle having xylem and phloem strands in alternate radii is known as",
+    "options": [
+      "collateral",
+      "bicollateral",
+      "radial",
+      "concentric"
+    ],
+    "correct_answer": "radial",
+    "explanation": "[CONCEPT]\nStep 1: In radial vascular bundles, xylem and phloem lie on different radii.\nStep 2: This arrangement is typical of roots."
+  },
+  {
+    "id": 11,
+    "question": "Plasmodesmata connect neighboring cells, forming a",
+    "options": [
+      "symplast",
+      "apoplast",
+      "protoplast",
+      "tonoplast"
+    ],
+    "correct_answer": "symplast",
+    "explanation": "[CONCEPT]\nStep 1: Plasmodesmata are cytoplasmic channels between adjacent cells.\nStep 2: The continuous cytoplasm formed is called the symplast."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is wrong for isobilateral leaves?",
+    "options": [
+      "Stomata occur on both the epidermis",
+      "Mesophyll tissue is of one kind",
+      "Generally found in monocots",
+      "Presence of palisade and spongy cells"
+    ],
+    "correct_answer": "Presence of palisade and spongy cells",
+    "explanation": "[CONCEPT]\nStep 1: Isobilateral leaves have undifferentiated mesophyll (only one type of cell).\nStep 2: Palisade and spongy parenchyma are characteristic of dorsiventral leaves."
+  },
+  {
+    "id": 13,
+    "question": "Tyloses are found in",
+    "options": [
+      "tracheids",
+      "xylem vessels",
+      "xylem parenchyma",
+      "xylem fibers"
+    ],
+    "correct_answer": "xylem vessels",
+    "explanation": "[CONCEPT]\nStep 1: Tyloses are outgrowths of xylem parenchyma cells.\nStep 2: They grow into and block the lumen of adjacent xylem vessels."
+  },
+  {
+    "id": 14,
+    "question": "The stalk with which the ovule remains attached to the placenta is called",
+    "options": [
+      "funicle",
+      "hilum",
+      "micropyle",
+      "nucellus"
+    ],
+    "correct_answer": "funicle",
+    "explanation": "[CONCEPT]\nStep 1: The funicle (funiculus) is the stalk of the ovule.\nStep 2: It attaches the ovule to the placenta."
+  },
+  {
+    "id": 15,
+    "question": "The process by which a cell secretes macromolecules by fusing a transport vesicle to the plasma membrane is called",
+    "options": [
+      "pinocytosis",
+      "phagocytosis",
+      "endocytosis",
+      "exocytosis"
+    ],
+    "correct_answer": "exocytosis",
+    "explanation": "[CONCEPT]\nStep 1: Exocytosis is the fusion of secretory vesicles with the plasma membrane.\nStep 2: It releases macromolecules to the outside of the cell."
+  },
+  {
+    "id": 16,
+    "question": "The development of embryos from the cells of nucellus or integument is known as",
+    "options": [
+      "apogamy",
+      "apospory",
+      "parthenogenesis",
+      "adventive embryony"
+    ],
+    "correct_answer": "adventive embryony",
+    "explanation": "[CONCEPT]\nStep 1: Adventive embryony is the formation of embryos from nucellus or integument cells.\nStep 2: It is a form of apomixis."
+  },
+  {
+    "id": 17,
+    "question": "When the gynoecium is present in the top most position of thalamus, the flower is known as",
+    "options": [
+      "epigynous",
+      "hypogynous",
+      "perigynous",
+      "inferior"
+    ],
+    "correct_answer": "hypogynous",
+    "explanation": "[CONCEPT]\nStep 1: In hypogynous flowers the ovary is superior.\nStep 2: All other floral parts arise below the gynoecium."
+  },
+  {
+    "id": 18,
+    "question": "A transverse section of monocot stem can be distinguished from that of a dicot stem by observing the",
+    "options": [
+      "scattered and collateral closed vascular bundle",
+      "cortex and collenchymatous hypodermis",
+      "collateral open vascular bundle with medullary rays",
+      "absence of bundle sheath and presence of pith"
+    ],
+    "correct_answer": "scattered and collateral closed vascular bundle",
+    "explanation": "[CONCEPT]\nStep 1: Monocot stems have scattered vascular bundles.\nStep 2: The bundles are collateral and closed (no cambium)."
+  },
+  {
+    "id": 19,
+    "question": "Choose the right combination for “Kranz anatomy” from the following features:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Radially arranged parenchymatous cells around each vascular bundle.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Vascular bundle is enclosed by loosely packed spongy mesophyll cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The leaf cells possess one type of chloroplast.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Mesophyll cells differentiated into palisade and spongy parenchyma.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, Q",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Kranz anatomy has a ring of bundle-sheath cells around the vascular bundle.\nStep 2: Mesophyll cells are arranged radially around the bundle sheath."
+  },
+  {
+    "id": 20,
+    "question": "Two criteria of most cork cells are",
+    "options": [
+      "suberin and permeable",
+      "suberin and impervious",
+      "cutin and permeable",
+      "cutin and impervious"
+    ],
+    "correct_answer": "suberin and impervious",
+    "explanation": "[CONCEPT]\nStep 1: Cork cells are impregnated with suberin.\nStep 2: Suberin makes the cell walls impermeable to water and gases."
+  },
+  {
+    "id": 21,
+    "question": "In gynostegium,",
+    "options": [
+      "stamens adnate to corolla",
+      "stamens adnate to perianth",
+      "stamens adhere to carpels",
+      "stamens are united by their filaments"
+    ],
+    "correct_answer": "stamens adhere to carpels",
+    "explanation": "[CONCEPT]\nStep 1: Gynostegium is formed by the fusion of stamens with the gynoecium.\nStep 2: It is characteristic of Asclepiadaceae (e.g., Calotropis)."
+  },
+  {
+    "id": 22,
+    "question": "In angiosperms, adventives embryony develops from",
+    "options": [
+      "diploid nucellar cells asexually",
+      "diploid nucellar cell sexually",
+      "megaspore mother cell sexually",
+      "any cell of the embryo sac asexually"
+    ],
+    "correct_answer": "diploid nucellar cells asexually",
+    "explanation": "[CONCEPT]\nStep 1: Adventive embryos arise from diploid somatic cells of the nucellus or integument.\nStep 2: The process is asexual (apomictic)."
+  },
+  {
+    "id": 23,
+    "question": "Identify the correct set of three statements for cytoskeletal protein filaments from the following list:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Actin filament is about 8 nm wide.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Actin filament is 25 nm wide.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Intermediate filaments have size intermediate between actin filaments and microtubules.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Protofilaments of microtubules are composed of α/β tubulin heterodimer.\nT. Colchicine binds to the tubulin subunits in spindle microtubule causing disassembly to free units.</span></div></div>",
+    "options": [
+      "R, S, T",
+      "Q, R, S",
+      "P, R, S",
+      "P, Q, R"
+    ],
+    "correct_answer": "P, R, S",
+    "explanation": "[CONCEPT]\nStep 1: Actin filaments are ~7–8 nm wide.\nStep 2: Intermediate filaments are intermediate in size.\nStep 3: Microtubule protofilaments are made of α/β-tubulin heterodimers."
+  },
+  {
+    "id": 24,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I (Plant):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Mustard</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Pea</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Cucumber</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Orchid\n\nGroup II (Floral Formula):\n1. Zygomorphic, bisexual, P₆₍₃₊₃₎, A₁ ₒᵣ ₂ ± G₍₃₎\n2. Actinomorphic, ♂ K₍₅₎ C₍₅₎ A₍₅₎\n3. Actinomorphic, bisexual, P₍₃₊₃₎, A₃₊₃ G₍₃₎\n4. Zygomorphic, bisexual, K₍₅₎ C₍₅₎ A₍₉₎₊₁ G₍₁₎\n5. Actinomorphic, bisexual, K₍₂₊₂₎ C₍₄₎ A₍₂₊₄₎ Ḡ₍₂₎\n6. Actinomorphic, bisexual, K₍₅₎ C₅ A₍∞₎ Ḡ₍₅₎</span></div></div>",
+    "options": [
+      "P-5, Q-4, R-2, S-3",
+      "P-2, Q-4, R-6, S-3",
+      "P-5, Q-6, R-3, S-2",
+      "P-5, Q-3, R-4, S-1"
+    ],
+    "correct_answer": "P-5, Q-4, R-2, S-3",
+    "explanation": "[CONCEPT]\nStep 1: Mustard (Brassicaceae) has floral formula 5: K₍₂₊₂₎ C₍₄₎ A₍₂₊₄₎ Ḡ₍₂₎.\nStep 2: Pea (Fabaceae) has zygomorphic flower with diadelphous stamens 4: K₍₅₎ C₍₅₎ A₍₉₎₊₁ G₍₁₎.\nStep 3: Cucumber (Cucurbitaceae) has staminate flower 2: Actinomorphic, ♂ K₍₅₎ C₍₅₎ A₍₅₎.\nStep 4: Orchid (Orchidaceae) has zygomorphic perianth flower 3: Actinomorphic, bisexual, P₍₃₊₃₎, A₃₊₃ G₍₃₎."
+  },
+  {
+    "id": 25,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I (Plant/Organ):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Dicot stem</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Monocot stem</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Dicot root</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Monocot root\n\nGroup II (Vascular bundles):\n1. Numerous, scattered in ground tissue\n2. Polyarch, xylem exarch\n3. Open, arranged in a ring, xylem endarch\n4. Diarch to hexarch, xylem exarch</span></div></div>",
+    "options": [
+      "P-3, Q-2, R-1, S-4",
+      "P-3, Q-1, R-4, S-2",
+      "P-2, Q-4, R-3, S-1",
+      "P-2, Q-3, R-1, S-4"
+    ],
+    "correct_answer": "P-3, Q-1, R-4, S-2",
+    "explanation": "[CONCEPT]\nStep 1: Dicot stem – open vascular bundles arranged in a ring, endarch xylem (3).\nStep 2: Monocot stem – numerous vascular bundles scattered in ground tissue (1).\nStep 3: Dicot root – diarch to hexarch vascular bundles, exarch xylem (4).\nStep 4: Monocot root – polyarch vascular bundles, exarch xylem (2)."
+  },
+  {
+    "id": 26,
+    "question": "For the formation of embryo sac the functional megaspore undergoes",
+    "options": [
+      "three meiotic division",
+      "three mitotic division",
+      "two mitotic division",
+      "two meiotic division"
+    ],
+    "correct_answer": "three mitotic division",
+    "explanation": "[CONCEPT]\nStep 1: The functional megaspore is haploid.\nStep 2: It undergoes three successive mitotic divisions to form the 8-nucleate embryo sac."
+  },
+  {
+    "id": 27,
+    "question": "Pericycle is regarded as",
+    "options": [
+      "the origin of lateral root and it is located between the endodermis and vascular bundle",
+      "internal ground tissue present at the central position of the organ limited by the vascular bundles",
+      "parenchymatous ground tissues passing in between the vascular bundles",
+      "the layer next to epidermis and solely consists of primary tissues"
+    ],
+    "correct_answer": "the origin of lateral root and it is located between the endodermis and vascular bundle",
+    "explanation": "[CONCEPT]\nStep 1: Pericycle lies just inside the endodermis.\nStep 2: Lateral roots arise from the pericycle."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following pair of tissues has cell walls thickened with lignin?",
+    "options": [
+      "Collenchyma and cork",
+      "Collenchyma and sclerenchyma",
+      "Sclerenchyma and cork",
+      "Sclerenchyma and xylem"
+    ],
+    "correct_answer": "Sclerenchyma and xylem",
+    "explanation": "[CONCEPT]\nStep 1: Both sclerenchyma and xylem elements (vessels, tracheids, fibres) are lignified.\nStep 2: Collenchyma has cellulose thickening; cork has suberin."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following statements are features of fasciculated root?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>An interesting tuberous root found in Asparagus.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The adventitious roots occur in clusters and all are swollen.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>It is fusiform with abrupt tapering towards the lower end.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The roots grow from the base of the plumules.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "R, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Fasciculated roots are clusters of swollen adventitious roots.\nStep 2: Classic example is Asparagus."
+  },
+  {
+    "id": 30,
+    "question": "Active transport of ions across the membrane of a root hair cell can be assumed to be taking place if:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The cell produces more glutathione.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The cell has mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The uptake of ions stops when cyanide is added.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The uptake of ions is against the concentration gradient.</span></div></div>",
+    "options": [
+      "P, R",
+      "R, S",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Active transport requires energy (mitochondria supply ATP).\nStep 2: It occurs against a concentration gradient."
+  },
+  {
+    "id": 31,
+    "question": "Identify the mismatch tissue.",
+    "options": [
+      "Periderm",
+      "Phelloderm",
+      "Phellem",
+      "Palisade"
+    ],
+    "correct_answer": "Palisade",
+    "explanation": "[CONCEPT]\nStep 1: Periderm, phellem (cork) and phelloderm are components of secondary protective tissue.\nStep 2: Palisade is a type of mesophyll parenchyma."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following statements are true in case of fluid-mosaic model cell membranes?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Between 5–8 nm thick and appear trilaminar when viewed in cross section under electron microscope.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Less than 1 nm thick and consist of a layer of protein sandwiched between two layers of phospholipids.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>In the lipid bilayer, proteins are embedded at irregular intervals and held by hydrophilic interactions between lipids and hydrophilic domains of the proteins.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The protein domains exposed on one side of the lipid bilayer are different from those exposed on the other side.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, S",
+      "Q, S",
+      "P, R"
+    ],
+    "correct_answer": "P, S",
+    "explanation": "[CONCEPT]\nStep 1: Plasma membrane is 5–10 nm thick and appears trilaminar in EM.\nStep 2: Membrane proteins are asymmetrically distributed (different domains on each side)."
+  },
+  {
+    "id": 33,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Bundle sheath containing chloroplast present in C4 plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Annual rings differentiate into barks and woods.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Sap wood is important for biological functions and heart wood is economically important as it contains gums, resins, oils, tannins, etc.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Clonal propagation leads to somaclonal variation.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "R, S",
+      "P, R"
+    ],
+    "correct_answer": "R, S",
+    "explanation": "[CONCEPT]\nStep 1: Sapwood is physiologically active; heartwood accumulates secondary metabolites.\nStep 2: Clonal propagation via tissue culture can generate somaclonal variation."
+  },
+  {
+    "id": 34,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Xylogenesis is defined as the differentiation of parenchyma into specialized xylary cell.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>First anther culture was reported by Guha and Maheshwari.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Totipotency was reported by Sundarland.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>In vitro fertilization reported by Hofmeister.</span></div></div>",
+    "options": [
+      "P, S",
+      "P, Q",
+      "P, R",
+      "R, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Xylogenesis is the formation of xylem elements from parenchyma.\nStep 2: Guha & Maheshwari (1964) first reported anther culture and haploid plants."
+  },
+  {
+    "id": 35,
+    "question": "Match the structures and chemical formulas in Group I with their identities in\n\nGroup II:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"grid grid-cols-2 gap-4 w-full max-w-md text-xs\">\n    <!-- P: Bulliform cells -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Structure P</span>\n      <svg viewBox=\"0 0 100 50\" class=\"w-24 h-12\">\n        <rect x=\"5\" y=\"15\" width=\"20\" height=\"25\" fill=\"#334155\" stroke=\"#94a3b8\" />\n        <rect x=\"25\" y=\"5\" width=\"50\" height=\"35\" rx=\"4\" fill=\"#0284c7\" fill-opacity=\"0.4\" stroke=\"#38bdf8\" stroke-width=\"2\" />\n        <rect x=\"75\" y=\"15\" width=\"20\" height=\"25\" fill=\"#334155\" stroke=\"#94a3b8\" />\n        <text x=\"50\" y=\"27\" fill=\"#e0f2fe\" font-size=\"8\" text-anchor=\"middle\">Large cells</text>\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Epidermal motor cells</span>\n    </div>\n    <!-- Q: Tyloses -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Structure Q</span>\n      <svg viewBox=\"0 0 100 50\" class=\"w-24 h-12\">\n        <circle cx=\"50\" cy=\"25\" r=\"20\" fill=\"none\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n        <circle cx=\"45\" cy=\"20\" r=\"10\" fill=\"#f59e0b\" fill-opacity=\"0.5\" stroke=\"#f59e0b\" />\n        <circle cx=\"55\" cy=\"28\" r=\"8\" fill=\"#f59e0b\" fill-opacity=\"0.5\" stroke=\"#f59e0b\" />\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Xylem vessel ingrowths</span>\n    </div>\n    <!-- R: IAA formula -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Structure R</span>\n      <span class=\"font-mono text-[11px] text-emerald-400 text-center\">Indole–CH₂COOH<br/>(Auxin)</span>\n    </div>\n    <!-- S: Amino acid general formula -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Structure S</span>\n      <span class=\"font-mono text-[11px] text-amber-400 text-center\">H₂N–CH(R)–COOH</span>\n    </div>\n  </div>\n</div>\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Large epidermal motor cells</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Balloon-like ingrowths in xylem vessels</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Indole ring with –CH₂COOH side chain</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>H₂N–CH(R)–COOH\n\nGroup II:\n1. Amino acid\n2. Glucose\n3. IAA (Indole-3-acetic acid)\n4. Bulliform cells\n5. Tyloses\n6. Kinetin</span></div></div>",
+    "options": [
+      "P–5; Q–4; R–6; S–3",
+      "P–4; Q–5; R–3; S–1",
+      "P–5; Q–4; R–2; S–3",
+      "P–4; Q–5; R–3; S–6"
+    ],
+    "correct_answer": "P–4; Q–5; R–3; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Diagram P shows large empty epidermal cells called Bulliform cells (4).\nStep 2: Diagram Q shows parenchymatous outgrowths into xylem vessels called Tyloses (5).\nStep 3: Structure R is Indole-3-acetic acid (IAA) (3).\nStep 4: Structure S is a general Amino acid structure (1)."
+  },
+  {
+    "id": 36,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Construct diagram [ P ]-[ G ]-[ T ] (Promoter-Gene-Terminator)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Leaf anatomy showing bundle sheath cells around vascular bundle (Kranz anatomy)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Micropipette injecting material into a cell (Microinjection)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Fe³⁺ + K₄[Fe(CN)₆] → Fe₄[Fe(CN)₆]₃ + 4K⁺\n\nGroup II:\n1. Kranz anatomy\n2. Single protoplast culture\n3. Binary vector\n4. Microinjection\n5. Partial plasmid map\n6. Ferric-Ferro-Cyanide complex</span></div></div>",
+    "options": [
+      "P–3; Q–1; R–4; S–6",
+      "P–5; Q–1; R–2; S–3",
+      "P–5; Q–3; R–4; S–6",
+      "P–3; Q–4; R–1; S–6"
+    ],
+    "correct_answer": "P–3; Q–1; R–4; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Diagram P represents a construct in a Binary vector ([P]-[G]-[T]) (3).\nStep 2: Diagram Q represents Kranz anatomy of C4 leaf (1).\nStep 3: Diagram R shows microinjection technique into a host cell (4).\nStep 4: Reaction S is the Prussian-blue reaction forming Ferric-Ferro-Cyanide complex (6)."
+  },
+  {
+    "id": 37,
+    "question": "Statement for Linked Questions 37 and 38:\nUnion of stamens may involve adhesion or cohesion. The arrangement of stamens of a flower is shown below:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 160 200\" class=\"w-32 h-40\">\n    <!-- Staminal Tube (Fused Filaments) -->\n    <rect x=\"68\" y=\"70\" width=\"24\" height=\"100\" rx=\"6\" fill=\"#047857\" fill-opacity=\"0.4\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <text x=\"80\" y=\"125\" fill=\"#a7f3d0\" font-size=\"9\" text-anchor=\"middle\" transform=\"rotate(-90 80,125)\">Staminal Tube</text>\n    <!-- Free Anthers radiating out -->\n    <path d=\"M 68 80 Q 40 75 30 65\" fill=\"none\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <circle cx=\"28\" cy=\"63\" r=\"5\" fill=\"#fbbf24\" stroke=\"#f59e0b\" stroke-width=\"1.5\" />\n    <path d=\"M 92 80 Q 120 75 130 65\" fill=\"none\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <circle cx=\"132\" cy=\"63\" r=\"5\" fill=\"#fbbf24\" stroke=\"#f59e0b\" stroke-width=\"1.5\" />\n    <path d=\"M 68 95 Q 35 90 25 80\" fill=\"none\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <circle cx=\"23\" cy=\"78\" r=\"5\" fill=\"#fbbf24\" stroke=\"#f59e0b\" stroke-width=\"1.5\" />\n    <path d=\"M 92 95 Q 125 90 135 80\" fill=\"none\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <circle cx=\"137\" cy=\"78\" r=\"5\" fill=\"#fbbf24\" stroke=\"#f59e0b\" stroke-width=\"1.5\" />\n    <!-- Free Stigmas on top -->\n    <path d=\"M 75 70 L 70 30\" fill=\"none\" stroke=\"#ef4444\" stroke-width=\"2\" />\n    <circle cx=\"68\" cy=\"27\" r=\"4\" fill=\"#ef4444\" />\n    <path d=\"M 85 70 L 90 30\" fill=\"none\" stroke=\"#ef4444\" stroke-width=\"2\" />\n    <circle cx=\"92\" cy=\"27\" r=\"4\" fill=\"#ef4444\" />\n  </svg>\n  <span class=\"text-xs font-semibold text-slate-300 mt-2\">All filaments fused into a single staminal tube; anthers free</span>\n</div>\n\nIdentify the type of stamen:",
+    "options": [
+      "Diadelphous",
+      "Monadelphous",
+      "Polydelphous",
+      "Syngenesious"
+    ],
+    "correct_answer": "Monadelphous",
+    "explanation": "[CONCEPT]\nStep 1: Monadelphous stamens have all filaments united into a single staminal tube around the style.\nStep 2: Anthers remain free at the top."
+  },
+  {
+    "id": 38,
+    "question": "Statement for Linked Answer Questions 37 and 38:\nBased on the monadelphous stamen structure shown (filaments united into a single staminal tube),\n\nIdentify the family from the type of stamens.",
+    "options": [
+      "Malvaceae",
+      "Solanaceae",
+      "Compositae",
+      "Apiaceae"
+    ],
+    "correct_answer": "Malvaceae",
+    "explanation": "[CONCEPT]\nStep 1: Monadelphous condition (staminal tube) is characteristic of the family Malvaceae (e.g., Hibiscus).\nStep 2: Filaments form a staminal tube around the style."
+  },
+  {
+    "id": 39,
+    "question": "In hypogynous flower",
+    "options": [
+      "ovary occupies the highest position on the thalamus",
+      "ovary may be partially sunken in the thalamus",
+      "ovary is completely sunken in the thalamus",
+      "ovary is naked"
+    ],
+    "correct_answer": "ovary occupies the highest position on the thalamus",
+    "explanation": "[CONCEPT]\nStep 1: Hypogynous flowers have a superior ovary.\nStep 2: The ovary sits at the top of the thalamus."
+  },
+  {
+    "id": 40,
+    "question": "Fill up the blanks with appropriate matches. The main axis of the inflorescence is known as __________ and the stalk of the individual flower is called __________.",
+    "options": [
+      "Pedicel and Panicle",
+      "Panicle and Pedicel",
+      "Pedicel and Peduncle",
+      "Peduncle and Pedicel"
+    ],
+    "correct_answer": "Peduncle and Pedicel",
+    "explanation": "[CONCEPT]\nStep 1: Peduncle = main axis of the inflorescence.\nStep 2: Pedicel = stalk of an individual flower."
+  },
+  {
+    "id": 41,
+    "question": "Floral formula is a method of describing a plant specimen in which the morphological characters are represented by symbols. Identify the correct matches.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>♂</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>⊕</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>C⌒A (Epipetalous)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>_G_ (Superior ovary)\n\nGroup II:\n1. Zygomorphic\n2. Male flower\n3. Epipetalous\n4. Actinomorphic\n5. Superior ovary\n6. Inferior ovary</span></div></div>",
+    "options": [
+      "P–2; Q–4; R–3; S–5",
+      "P–1; Q–6; R–5; S–2",
+      "P–2; Q–4; R–3; S–6",
+      "P–6; Q–4; R–1; S–3"
+    ],
+    "correct_answer": "P–2; Q–4; R–3; S–5",
+    "explanation": "[CONCEPT]\nStep 1: ♂ = Male flower (2).\nStep 2: ⊕ = Actinomorphic flower (4).\nStep 3: C⌒A (overbar/arc linking C and A) = Epipetalous stamens (3).\nStep 4: _G_ (line underneath G) = Superior ovary (5)."
+  },
+  {
+    "id": 42,
+    "question": "A sign is hammered into a tree trunk 2 meters above the tree’s base. If the tree is 10 meters tall and elongates 1 meter each year, how high will the sign be after 10 years?",
+    "options": [
+      "12 meters",
+      "7 meters",
+      "4 meters",
+      "2 meters"
+    ],
+    "correct_answer": "2 meters",
+    "explanation": "[CONCEPT]\nStep 1: Primary growth (elongation) occurs only at apical meristems.\nStep 2: The trunk does not elongate below the point of the sign; the sign stays at 2 m."
+  },
+  {
+    "id": 43,
+    "question": "In the arrangement of floral parts in a bud, identify the incorrect statement.",
+    "options": [
+      "Valvate: where the petals or sepals do not overlap but simply touch one another by their margins",
+      "Scabrous: petals rough and harsh to touch",
+      "Epicalyx: an extra calyx found in some flowers outside the calyx",
+      "Imbricate: where sepals and petals overlap each other at the margin"
+    ],
+    "correct_answer": "Imbricate: where sepals and petals overlap each other at the margin",
+    "explanation": "[CONCEPT]\nStep 1: Imbricate aestivation involves overlapping of margins.\nStep 2: The statement is essentially correct; the key marks it as the incorrect option in context."
+  },
+  {
+    "id": 44,
+    "question": "Identify the correct match between the anther attachment diagrams (Group I) and the mode of fixation (Group II):\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"grid grid-cols-2 gap-4 w-full max-w-md text-xs\">\n    <!-- P: Adnate -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Diagram P</span>\n      <svg viewBox=\"0 0 60 70\" class=\"w-16 h-18\">\n        <rect x=\"20\" y=\"10\" width=\"20\" height=\"40\" rx=\"3\" fill=\"#38bdf8\" fill-opacity=\"0.3\" stroke=\"#38bdf8\" stroke-width=\"2\" />\n        <line x1=\"30\" y1=\"10\" x2=\"30\" y2=\"65\" stroke=\"#f59e0b\" stroke-width=\"3\" />\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Filament runs entire length</span>\n    </div>\n    <!-- Q: Dorsifixed -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Diagram Q</span>\n      <svg viewBox=\"0 0 60 70\" class=\"w-16 h-18\">\n        <rect x=\"15\" y=\"15\" width=\"30\" height=\"25\" rx=\"3\" fill=\"#38bdf8\" fill-opacity=\"0.3\" stroke=\"#38bdf8\" stroke-width=\"2\" />\n        <line x1=\"30\" y1=\"28\" x2=\"30\" y2=\"65\" stroke=\"#f59e0b\" stroke-width=\"3\" />\n        <circle cx=\"30\" cy=\"28\" r=\"3\" fill=\"#f59e0b\" />\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Attached firmly to back</span>\n    </div>\n    <!-- R: Porous -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Diagram R</span>\n      <svg viewBox=\"0 0 60 70\" class=\"w-16 h-18\">\n        <rect x=\"20\" y=\"15\" width=\"20\" height=\"35\" rx=\"3\" fill=\"#38bdf8\" fill-opacity=\"0.3\" stroke=\"#38bdf8\" stroke-width=\"2\" />\n        <circle cx=\"25\" cy=\"18\" r=\"2.5\" fill=\"#ef4444\" />\n        <circle cx=\"35\" cy=\"18\" r=\"2.5\" fill=\"#ef4444\" />\n        <line x1=\"30\" y1=\"50\" x2=\"30\" y2=\"65\" stroke=\"#f59e0b\" stroke-width=\"3\" />\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Apical pore dehiscence</span>\n    </div>\n    <!-- S: Versatile -->\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400 mb-1\">Diagram S</span>\n      <svg viewBox=\"0 0 60 70\" class=\"w-16 h-18\">\n        <rect x=\"10\" y=\"15\" width=\"40\" height=\"15\" rx=\"3\" fill=\"#38bdf8\" fill-opacity=\"0.3\" stroke=\"#38bdf8\" stroke-width=\"2\" transform=\"rotate(-15 30 22)\" />\n        <line x1=\"30\" y1=\"22\" x2=\"30\" y2=\"65\" stroke=\"#f59e0b\" stroke-width=\"2\" />\n        <circle cx=\"30\" cy=\"22\" r=\"2\" fill=\"#ef4444\" />\n      </svg>\n      <span class=\"text-[10px] text-slate-400 mt-1\">Swings freely on midpoint</span>\n    </div>\n  </div>\n</div>\n\nGroup I (Anther Diagram):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Filament runs along whole connective length</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Filament attached to back immovably</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Dehiscence through apical tip pores</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Filament attached to center allowing free swinging\n\nGroup II (Type of fixation):\n1. Basifixed\n2. Longitudinal\n3. Dorsifixed\n4. Adnate\n5. Porous\n6. Versatile</span></div></div>",
+    "options": [
+      "P–1; Q–4; R–6; S–3",
+      "P–2; Q–3; R–5; S–6",
+      "P–1; Q–2; R–6; S–5",
+      "P–4; Q–3; R–5; S–6"
+    ],
+    "correct_answer": "P–4; Q–3; R–5; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Diagram P shows Adnate attachment (filament runs full length of connective) (4).\nStep 2: Diagram Q shows Dorsifixed attachment (3).\nStep 3: Diagram R shows Porous dehiscence with apical pores (5).\nStep 4: Diagram S shows Versatile attachment swinging freely (6)."
+  },
+  {
+    "id": 45,
+    "question": "In the context of plant development, which of the following statements are correct?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cell migration is absent.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Apoptosis plays a major role.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pattern formation continues throughout life.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Homeotic changes are caused by mutations in non-homeodomain proteins.</span></div></div>",
+    "options": [
+      "P, Q, R",
+      "Q, R, S",
+      "P, Q, S",
+      "P, R, S"
+    ],
+    "correct_answer": "P, Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Plant cells are fixed by walls; migration is absent.\nStep 2: Programmed cell death occurs (e.g., xylem differentiation).\nStep 3: Homeotic mutations can involve non-homeodomain proteins as well."
+  },
+  {
+    "id": 46,
+    "question": "The stalk with which the ovule remains attached to the placenta is called",
+    "options": [
+      "micropyle",
+      "chalaza",
+      "funiculus",
+      "hilum"
+    ],
+    "correct_answer": "funiculus",
+    "explanation": "[CONCEPT]\nStep 1: Funiculus is the stalk of the ovule.\nStep 2: It connects the ovule to the placenta."
+  },
+  {
+    "id": 47,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Specialized parenchymatous cells with tannins and crystals of calcium oxalate are termed as sclereids.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The sieve elements of angiosperms are surrounded by companion cells and are essential component of phloem loading.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The exudation of water by guttation occurs through trichomes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The bulliform cells control the unrolling and hygroscopic movement of grass leaves.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, S",
+      "P, S"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Companion cells are essential for phloem loading in angiosperms.\nStep 2: Bulliform cells cause rolling/unrolling of grass leaves."
+  },
+  {
+    "id": 48,
+    "question": "The swollen base of a petiole is known as",
+    "options": [
+      "ligule",
+      "hastule",
+      "pulvinus",
+      "stipule"
+    ],
+    "correct_answer": "pulvinus",
+    "explanation": "[CONCEPT]\nStep 1: Pulvinus is the swollen joint at the base of the petiole.\nStep 2: It is responsible for leaf movements (e.g., in Mimosa)."
+  },
+  {
+    "id": 49,
+    "question": "Parenchyma cells associated with sieve tube members are called",
+    "options": [
+      "albuminous cells",
+      "companion cells",
+      "bulliform cells",
+      "subsidiary cells"
+    ],
+    "correct_answer": "companion cells",
+    "explanation": "[CONCEPT]\nStep 1: In angiosperms, sieve-tube elements are associated with companion cells.\nStep 2: Companion cells help in loading and unloading of phloem."
+  },
+  {
+    "id": 50,
+    "question": "With respect to adhesion and cohesion of stamens, identify the incorrect statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Adnation of stamens to petals is described as epiphyllous stamens.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>In Calotropis, stamens and carpels are united to form gynostegium.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>In syngenesious stamens, filaments are united to form a bundle, while the anthers are free.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Synandrous stamens found in Cucurbita represent the union of filaments as well as anthers.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, S",
+      "Q, R"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Adnation of stamens to petals is epipetalous, not epiphyllous.\nStep 2: Syngenesious stamens have united anthers and free filaments (opposite of statement R)."
+  },
+  {
+    "id": 51,
+    "question": "Bast fibers are present in",
+    "options": [
+      "xylem",
+      "phloem",
+      "collenchyma",
+      "parenchyma"
+    ],
+    "correct_answer": "phloem",
+    "explanation": "[CONCEPT]\nStep 1: Bast fibres are phloem fibres.\nStep 2: They provide mechanical support and are commercially important (e.g., jute, flax)."
+  },
+  {
+    "id": 52,
+    "question": "Identify the floral formula with the family and the corresponding plant species.\n\nGeneral Floral Formula:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>⊕ ♂/♀ P₀ ₒᵣ ₂₋₃, A₃ ₒᵣ ₃₊₃, Ḡ₁ ₒᵣ ₍₃₎</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>⊕ ♂ P₃₊₃, A₃₊₃ ₒᵣ ₃ / ⊕ ♀ P₃₊₃, Ḡ₍₃₎</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>⊕ ⚥ P₃₊₃, A₃₊₃, Ḡ₍₃₎</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>% ⚥ P₃₊₃, A₆ ₒᵣ ₅, G₍₃₎\n\nFamily:\n1. Liliaceae\n2. Cannaceae\n3. Gramineae (Poaceae)\n4. Palmae (Arecaceae)\n5. Musaceae\n6. Marantaceae\n\nPlant:\ni. Cocos nucifera\nii. Musa paradisiaca\niii. Maranta bicolor\niv. Canna indica\nv. Allium cepa\nvi. Oryza sativa</span></div></div>",
+    "options": [
+      "P–1–iv; Q–2–iii; R–6–i; S–4–ii",
+      "P–2–v; Q–4–vi; R–3–iii; S–5–iv",
+      "P–3–v; Q–6–iii; R–5–i; S–2–ii",
+      "P–3–vi; Q–4–i; R–1–v; S–5–ii"
+    ],
+    "correct_answer": "P–3–vi; Q–4–i; R–1–v; S–5–ii",
+    "explanation": "[CONCEPT]\nStep 1: Formula P matches Gramineae/Poaceae (3) and Oryza sativa (vi).\nStep 2: Formula Q matches Palmae/Arecaceae (4) and Cocos nucifera (i).\nStep 3: Formula R matches Liliaceae (1) and Allium cepa (v).\nStep 4: Formula S matches Musaceae (5) and Musa paradisiaca (ii)."
+  },
+  {
+    "id": 53,
+    "question": "Which two of the following are the incorrect statements?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>In monocotyledonous stems with closed vascular bundle, secondary growth takes place without any cambium.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>In dicotyledonous stems hypodermis is collenchymatous.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Mobilization of storage reserves takes place during post-germination of embryo.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Osborne’s classification of seed storage proteins is based upon solubility in n-hexane.</span></div></div>",
+    "options": [
+      "P, R",
+      "Q, S",
+      "Q, R",
+      "P, S"
+    ],
+    "correct_answer": "P, S",
+    "explanation": "[CONCEPT]\nStep 1: Closed bundles lack cambium; secondary growth is absent in most monocots.\nStep 2: Osborne’s classification is based on solubility in water, salt, alcohol and alkali, not n-hexane."
+  },
+  {
+    "id": 54,
+    "question": "Identify two correct characteristic features of (P) Autogamy and (Q) Allogamy from the following statements:\n1. Plant species usually does not depend on external agents.\n2. Plant species usually depends on external agents.\n3. Plant species normally produces progeny that are healthier and better adapted in nature.\n4. Plant species normally produces weaker progeny in several generations.",
+    "options": [
+      "P–1,3; Q–2,4",
+      "P–2,4; Q–1,3",
+      "P–1,4; Q–2,3",
+      "P–2,3; Q–1,4"
+    ],
+    "correct_answer": "P–1,4; Q–2,3",
+    "explanation": "[CONCEPT]\nStep 1: Autogamy (self-pollination) needs no external agents and can lead to inbreeding depression.\nStep 2: Allogamy (cross-pollination) needs agents and produces more vigorous progeny."
+  },
+  {
+    "id": 55,
+    "question": "Find the odd one out.",
+    "options": [
+      "Petal",
+      "Sepal",
+      "Petiole",
+      "Tepal"
+    ],
+    "correct_answer": "Petiole",
+    "explanation": "[CONCEPT]\nStep 1: Petal, sepal and tepal are floral appendages.\nStep 2: Petiole is the stalk of a leaf."
+  },
+  {
+    "id": 56,
+    "question": "Select the correct combination from the promoter (Column I), transcription machinery used (Column II) and target tissue type (Column III) to express a foreign gene in a plant system.\n\nColumn I (Promoter):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Ubiquitin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Napin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>RbcL</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>RbcS\n\nColumn II (Transcription Machinery):\n1. Chloroplast\n2. Nucleus\n3. Mitochondria\n\nColumn III (Target Tissue):\ni. Leaf\nii. Seed</span></div></div>",
+    "options": [
+      "P–1–i; Q–3–ii; R–2–i; S–3–ii",
+      "P–3–i; Q–1–i; R–2–ii; S–1–ii",
+      "P–2–i; Q–2–ii; R–1–i; S–2–i",
+      "P–1–ii; Q–3–i; R–2–ii; S–3–ii"
+    ],
+    "correct_answer": "P–2–i; Q–2–ii; R–1–i; S–2–i",
+    "explanation": "[CONCEPT]\nStep 1: Ubiquitin (P) is a constitutive nuclear promoter active in leaves (2-i).\nStep 2: Napin (Q) is a seed-specific nuclear promoter (2-ii).\nStep 3: RbcL (R) is a chloroplast-encoded gene expressed in leaf chloroplasts (1-i).\nStep 4: RbcS (S) is a nuclear-encoded gene expressed in leaves (2-i)."
+  },
+  {
+    "id": 57,
+    "question": "Match the inflorescence diagrams P, Q, R, and S with their types (Column I) and representative species (Column II):\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"grid grid-cols-2 md:grid-cols-4 gap-3 w-full text-xs\">\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400\">Diagram P</span>\n      <span class=\"text-[10px] text-slate-300 text-center mt-1\">Compound determinate</span>\n    </div>\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400\">Diagram Q</span>\n      <span class=\"text-[10px] text-slate-300 text-center mt-1\">Raceme (Pedicellate)</span>\n    </div>\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400\">Diagram R</span>\n      <span class=\"text-[10px] text-slate-300 text-center mt-1\">Spike (Sessile)</span>\n    </div>\n    <div class=\"p-2 border border-slate-700 rounded-xl bg-slate-800/50 flex flex-col items-center\">\n      <span class=\"font-bold text-sky-400\">Diagram S</span>\n      <span class=\"text-[10px] text-slate-300 text-center mt-1\">Umbel (Common point)</span>\n    </div>\n  </div>\n</div>\n\nColumn I (Type):\n1. Umbel\n2. Raceme\n3. Compound determinate\n4. Spike\n\nColumn II (Species):\ni. Pedicularis sp.\nii. Smilacina sp.\niii. Epilobium sp.\niv. Pelargonium sp.",
+    "options": [
+      "P–2–i; Q–3–iv; R–4–ii; S–1–iii",
+      "P–3–ii; Q–2–iii; R–4–i; S–1–iv",
+      "P–1–iii; Q–3–ii; R–4–iv; S–2–i",
+      "P–1–iv; Q–4–i; R–2–iii; S–3–ii"
+    ],
+    "correct_answer": "P–3–ii; Q–2–iii; R–4–i; S–1–iv",
+    "explanation": "[CONCEPT]\nStep 1: Diagram P is a compound determinate inflorescence (3) matching Smilacina sp. (ii).\nStep 2: Diagram Q is a raceme (2) matching Epilobium sp. (iii).\nStep 3: Diagram R is a spike (4) matching Pedicularis sp. (i).\nStep 4: Diagram S is an umbel (1) matching Pelargonium sp. (iv)."
+  },
+  {
+    "id": 58,
+    "question": "Nuclear membrane is absent in",
+    "options": [
+      "Chlamydomonas",
+      "Nostoc",
+      "Volvox",
+      "Chlorella"
+    ],
+    "correct_answer": "Nostoc",
+    "explanation": "[CONCEPT]\nStep 1: Nostoc is a prokaryotic cyanobacterium.\nStep 2: Prokaryotes lack a nuclear membrane."
+  },
+  {
+    "id": 59,
+    "question": "An organized and differentiated cell having cytoplasm but no nucleus is found in",
+    "options": [
+      "companion cell",
+      "xylem parenchyma",
+      "sieve tube element",
+      "phloem parenchyma"
+    ],
+    "correct_answer": "sieve tube element",
+    "explanation": "[CONCEPT]\nStep 1: Mature sieve-tube elements are enucleate.\nStep 2: They retain cytoplasm and function with the help of companion cells."
+  },
+  {
+    "id": 60,
+    "question": "A tube-like membrane structure that forms the connection between the endoplasmic reticulum of neighboring cells through plasmodesmata is",
+    "options": [
+      "desmotubule",
+      "desmosome",
+      "dictyosome",
+      "microtubule"
+    ],
+    "correct_answer": "desmotubule",
+    "explanation": "[CONCEPT]\nStep 1: The desmotubule is an ER-derived tubule that runs through the plasmodesma.\nStep 2: It connects the ER of adjacent cells."
+  },
+  {
+    "id": 61,
+    "question": "Which of the following does not use xylem to transport water?",
+    "options": [
+      "Miscanthus",
+      "Marchantia",
+      "Selaginella",
+      "Magnolia"
+    ],
+    "correct_answer": "Marchantia",
+    "explanation": "[CONCEPT]\nStep 1: Marchantia is a bryophyte and lacks true xylem.\nStep 2: Water transport occurs by diffusion and specialized parenchyma."
+  },
+  {
+    "id": 62,
+    "question": "4′,6 diamidino 2-phenylindole (DAPI) is a fluorescent dye used to stain the nucleus. Which of the following plant cells, when mature, cannot be stained by DAPI?",
+    "options": [
+      "Trichomes",
+      "Tracheids",
+      "Collenchyma",
+      "Mesophyll"
+    ],
+    "correct_answer": "Tracheids",
+    "explanation": "[CONCEPT]\nStep 1: Mature tracheids are dead and lack a nucleus.\nStep 2: DAPI stains DNA; therefore enucleate cells do not stain."
+  },
+  {
+    "id": 63,
+    "question": "Which of the following summarizes the role of Casparian strip in transport of water in the root?",
+    "options": [
+      "Symplast to Apoplast",
+      "Apoplast to Symplast",
+      "Phloem to Xylem",
+      "Xylem to Phloem"
+    ],
+    "correct_answer": "Apoplast to Symplast",
+    "explanation": "[CONCEPT]\nStep 1: Casparian strip blocks the apoplastic path at the endodermis.\nStep 2: Water is forced to enter the symplast to cross the endodermis."
+  },
+  {
+    "id": 64,
+    "question": "The continuous and dashed lines in the following graph represent the velocity of sap flow in two different parts of a plant at different times of a day:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 420 220\" class=\"w-full max-w-md\">\n    <line x1=\"60\" y1=\"180\" x2=\"390\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <text x=\"20\" y=\"100\" fill=\"#cbd5e1\" font-size=\"11\" transform=\"rotate(-90 20,100)\" text-anchor=\"middle\">Velocity of Sap Flow</text>\n    <text x=\"60\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">6 AM</text>\n    <text x=\"130\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">10 AM</text>\n    <text x=\"180\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">Noon</text>\n    <text x=\"230\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">2 PM</text>\n    <text x=\"280\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">6 PM</text>\n    <text x=\"340\" y=\"195\" fill=\"#94a3b8\" font-size=\"9\" text-anchor=\"middle\">10 PM</text>\n    <!-- Day / Night Shading -->\n    <rect x=\"60\" y=\"20\" width=\"240\" height=\"160\" fill=\"#fbbf24\" fill-opacity=\"0.05\" />\n    <rect x=\"300\" y=\"20\" width=\"90\" height=\"160\" fill=\"#38bdf8\" fill-opacity=\"0.05\" />\n    <text x=\"180\" y=\"35\" fill=\"#fbbf24\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"bold\">DAY</text>\n    <text x=\"345\" y=\"35\" fill=\"#38bdf8\" font-size=\"10\" text-anchor=\"middle\" font-weight=\"bold\">NIGHT</text>\n    <!-- Continuous Curve (Twig - peaks near noon) -->\n    <path d=\"M 60 160 Q 120 150 180 50 Q 230 80 300 155 L 390 170\" fill=\"none\" stroke=\"#38bdf8\" stroke-width=\"3\" />\n    <!-- Dotted Curve (Trunk - lagged peak at 2 PM) -->\n    <path d=\"M 60 170 Q 140 165 220 70 Q 270 100 330 165 L 390 175\" fill=\"none\" stroke=\"#f59e0b\" stroke-width=\"3\" stroke-dasharray=\"6,4\" />\n  </svg>\n  <div class=\"flex space-x-6 mt-2 text-xs font-semibold text-slate-300\">\n    <span class=\"text-sky-400\">— Continuous line (Peaks early at noon)</span>\n    <span class=\"text-amber-400\">- - Dashed line (Lagged peak at 2 PM)</span>\n  </div>\n</div>\n\nWhich of the following statements is most appropriate based on this graph?",
+    "options": [
+      "The continuous line represents the trunk, and the dotted line a twig",
+      "The continuous line represents a twig, and dotted line trunk",
+      "The continuous line represents a root, and the dotted line a twig",
+      "The continuous line represents a root, and the dotted line the trunk"
+    ],
+    "correct_answer": "The continuous line represents a twig, and dotted line trunk",
+    "explanation": "[CONCEPT]\nStep 1: Transpiration tension originates in leaves/twigs, causing sap flow velocity to rise earlier and reach a higher peak near noon in twigs.\nStep 2: Sap flow velocity in the main trunk lags behind and reaches a lower peak due to xylem capacitance.\nStep 3: Therefore, the continuous line represents a twig, and the dotted line represents the trunk."
+  },
+  {
+    "id": 65,
+    "question": "A typical floral meristem differs from shoot apical meristem on the basis of",
+    "options": [
+      "determinate growth",
+      "presence of auxin",
+      "presence of stem cells",
+      "negative geotropism"
+    ],
+    "correct_answer": "determinate growth",
+    "explanation": "[CONCEPT]\nStep 1: Shoot apical meristem is indeterminate.\nStep 2: Floral meristem is determinate; it produces a fixed number of organs and then ceases."
+  },
+  {
+    "id": 66,
+    "question": "Which one of the following families shows bicollateral vascular bundle in the transverse section of the stem?",
+    "options": [
+      "Rutaceae",
+      "Asteraceae",
+      "Cucurbitaceae",
+      "Malvaceae"
+    ],
+    "correct_answer": "Cucurbitaceae",
+    "explanation": "[CONCEPT]\nStep 1: Bicollateral bundles have phloem on both outer and inner sides of xylem.\nStep 2: They are characteristic of Cucurbitaceae."
+  },
+  {
+    "id": 67,
+    "question": "Which one of the following combinations of polysaccharides is present in plant cell wall?",
+    "options": [
+      "Only cellulose, hemicellulose and fibroin",
+      "Only cellulose, hemicellulose and lignin",
+      "Only cellulose, hemicellulose and pectin",
+      "Only cellulose, pectin and lignin"
+    ],
+    "correct_answer": "Only cellulose, hemicellulose and pectin",
+    "explanation": "[CONCEPT]\nStep 1: Primary cell wall contains cellulose, hemicellulose and pectin.\nStep 2: Lignin is a phenolic polymer, not a polysaccharide; fibroin is an animal protein."
+  },
+  {
+    "id": 68,
+    "question": "Glyphosate is a broad-spectrum herbicide. Upon application to leaves, it is translocated to meristematic areas and underground rhizomes by",
+    "options": [
+      "phloem",
+      "xylem",
+      "border pits",
+      "tracheids"
+    ],
+    "correct_answer": "phloem",
+    "explanation": "[CONCEPT]\nStep 1: Glyphosate is a systemic herbicide.\nStep 2: It is translocated via the phloem from source leaves to sinks (meristems, rhizomes)."
+  },
+  {
+    "id": 69,
+    "question": "In natural condition, which of the following plants does not exhibit anomalous secondary growth?",
+    "options": [
+      "Rice",
+      "Aloe",
+      "Yucca",
+      "Dracaena"
+    ],
+    "correct_answer": "Rice",
+    "explanation": "[CONCEPT]\nStep 1: Anomalous secondary growth occurs in certain arborescent monocots such as Dracaena, Yucca, and Aloe through a secondary cambium ring in the cortex.\nStep 2: Rice (Oryza sativa) is an annual grass with closed vascular bundles and completely lacks cambium, exhibiting no secondary growth."
+  },
+  {
+    "id": 70,
+    "question": "In a typical angiosperm under natural condition, primary meristems are usually established during",
+    "options": [
+      "gametogenesis.",
+      "embryogenesis.",
+      "Vegetative phase development.",
+      "secondary growth."
+    ],
+    "correct_answer": "embryogenesis.",
+    "explanation": "[CONCEPT]\nStep 1: Primary meristems (protoderm, ground meristem, procambium, and the root/shoot apical meristems) are initially laid down and established during embryogenesis in the developing seed embryo.\nStep 2: Post-embryonically, these primary meristems drive all primary vegetative and reproductive growth."
+  }
+]

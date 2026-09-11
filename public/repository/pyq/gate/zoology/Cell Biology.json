@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1,
+    "question": "If a cell has no rigid cell wall, has no chloroplast or plastids, and the stored carbohydrate is glycogen, then the cell is from",
+    "options": [
+      "plant",
+      "fungus",
+      "bacteria",
+      "animal"
+    ],
+    "correct_answer": "animal",
+    "explanation": "[CONCEPT]\nStep 1: No rigid cell wall → not plant, fungus or most bacteria.\nStep 2: No chloroplast/plastids → not plant.\nStep 3: Stores glycogen → characteristic of animal cells."
+  },
+  {
+    "id": 2,
+    "question": "Mitotic spindle is formed by bundles of",
+    "options": [
+      "microtubules",
+      "microfilaments",
+      "microbodies",
+      "intermediate filaments"
+    ],
+    "correct_answer": "microtubules",
+    "explanation": "[CONCEPT]\nStep 1: Mitotic spindle pulls chromosomes apart.\nStep 2: It is made of tubulin polymers called microtubules."
+  },
+  {
+    "id": 3,
+    "question": "What is autophagy and what is its function?",
+    "options": [],
+    "correct_answer": "*",
+    "explanation": "[CONCEPT]\nAutophagy = “self-eating”.\nStep 1: Cell engulfs its own damaged organelles or proteins into autophagosomes.\nStep 2: These fuse with lysosomes for degradation and recycling of components."
+  },
+  {
+    "id": 4,
+    "question": "A major protein constituent of plasma membrane of erythrocytes is",
+    "options": [
+      "hemoglobin",
+      "glycophorin A",
+      "albumin",
+      "actin"
+    ],
+    "correct_answer": "glycophorin A",
+    "explanation": "[CONCEPT]\nStep 1: Erythrocyte membrane has integral membrane proteins.\nStep 2: Glycophorin A is the major sialoglycoprotein spanning the red-cell membrane."
+  },
+  {
+    "id": 5,
+    "question": "In a human cell, the number of moles of which one of the elements is the highest?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_answer": "Carbon",
+    "explanation": "[CONCEPT]\nStep 1: Human body is mostly water (H and O).\nStep 2: But by number of moles of atoms in organic molecules, carbon is the most abundant element after H and O; the key selects Carbon."
+  },
+  {
+    "id": 6,
+    "question": "In eukaryotic cells, DNA synthesis occurs during the phase of the cell cycle:",
+    "options": [
+      "G1",
+      "G2",
+      "M",
+      "S"
+    ],
+    "correct_answer": "S",
+    "explanation": "[CONCEPT]\nStep 1: Cell cycle phases: G1 → S → G2 → M.\nStep 2: DNA is replicated only in S (Synthesis) phase."
+  },
+  {
+    "id": 7,
+    "question": "Human chromosome 1 to 22 are serially numbered",
+    "options": [
+      "in ascending order of their length",
+      "in descending order of their length",
+      "relative position of the centromere from ends of the chromosome",
+      "in order of their position in the cell"
+    ],
+    "correct_answer": "in descending order of their length",
+    "explanation": "[CONCEPT]\nStep 1: Autosomes are numbered 1–22.\nStep 2: Chromosome 1 is the longest, chromosome 22 is among the shortest → descending length order."
+  },
+  {
+    "id": 8,
+    "question": "Microfilaments are fine protein filaments often abundant in eukaryotic cells. They are made up of the protein",
+    "options": [
+      "actin",
+      "albumin",
+      "globin",
+      "fibrin"
+    ],
+    "correct_answer": "actin",
+    "explanation": "[CONCEPT]\nStep 1: Cytoskeleton has three filaments: microtubules, intermediate filaments, microfilaments.\nStep 2: Microfilaments are polymers of the protein actin."
+  },
+  {
+    "id": 9,
+    "question": "The subcellular organelle not bound by a single membrane is",
+    "options": [
+      "Golgi apparatus",
+      "lysosomes",
+      "endoplasmic reticulum",
+      "mitochondria"
+    ],
+    "correct_answer": "mitochondria",
+    "explanation": "[CONCEPT]\nStep 1: Golgi, lysosomes and ER each have a single membrane.\nStep 2: Mitochondria have a double membrane (outer + inner)."
+  },
+  {
+    "id": 10,
+    "question": "Nucleosomes contain a core and a linker region. The histones present in the core region and the histones present in the linker region are",
+    "options": [
+      "Core (H1 , H2 A, H2 K, H3 ) 2 , Linker H4",
+      "Core (H2 A, H2 B, H3 , H4 )2 , Linker H1",
+      "Core (H2 H, H3 , H4 , H1 ) 2 , Linker H2 A",
+      "Core (H4 , H2 A, H2 B, H1 ) 2 , Linker H3"
+    ],
+    "correct_answer": "Core (H2 A, H2 B, H3 , H4 )2 , Linker H1",
+    "explanation": "[CONCEPT]\nStep 1: Nucleosome core = octamer of two each of H2A, H2B, H3, H4.\nStep 2: Linker histone H1 binds the DNA between nucleosomes."
+  },
+  {
+    "id": 11,
+    "question": "Apicoplast is a unique organelle in malarial parasite which can be used as a specific drug target. The macromolecular transactions that take place in apicoplast are",
+    "options": [
+      "DNA replication, transcription, fatly acid biosynthesis, nucleotide biosynthesis",
+      "DNA replication, transcription, translation, fatty acid biosynthesis",
+      "translation, fatty acid biosynthesis, nucleotide biosynthesis, protein biosynthesis",
+      "nucleotide biosynthesis, fatty acid biosynthesis, amino acid biosynthesis, carbohydrate biosynthesis"
+    ],
+    "correct_answer": "DNA replication, transcription, translation, fatty acid biosynthesis",
+    "explanation": "[CONCEPT]\nStep 1: Apicoplast is a non-photosynthetic plastid.\nStep 2: It retains its own genome → DNA replication, transcription, translation occur.\nStep 3: Also performs fatty-acid biosynthesis."
+  },
+  {
+    "id": 12,
+    "question": "All of the following statements about heterochromatin are true except one. Which one?",
+    "options": [
+      "Heterochromatin stains more darkly with DNA dyes than euchromatin",
+      "Heterochromatin contains more highly condensed DNA than euchromatin",
+      "Heterochromatin is associated with inactive genes",
+      "Heterochromatin is more susceptible to DNaseI than euchromatin"
+    ],
+    "correct_answer": "Heterochromatin is more susceptible to DNaseI than euchromatin",
+    "explanation": "[CONCEPT]\nStep 1: Heterochromatin is condensed and inactive.\nStep 2: Condensed DNA is less accessible to DNase I; euchromatin is more susceptible."
+  },
+  {
+    "id": 13,
+    "question": "Presume that you can measure DNA content in a single cell throughout its cell cycle. After measuring the DNA content during G1 phase, at what other points during the remainder of the cell cycle would you find changes in DNA per cell?",
+    "options": [
+      "Prophase and metaphase",
+      "S phase and prophase",
+      "S phase and G2",
+      "Interphase"
+    ],
+    "correct_answer": "S phase and G2",
+    "explanation": "[CONCEPT]\nStep 1: DNA content doubles during S phase.\nStep 2: It remains 2C through G2 until mitosis divides it."
+  },
+  {
+    "id": 14,
+    "question": "Diploid chromosome number in human is 46. However, if you count chromatids which are visible during mitotic or meiotic cell divisions, you would be able to count different sets of chromatid numbers depending on the stage and the type of the cell division in question. Match the chromatid numbers given on chromatid in the left with cell division stage shown on the right. Chromatid number:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>46,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>23,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>92,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>24. Cell division stage: 1. Mitotic metaphase, 2. Aneuploid meiotic telophase II, 3. Meiotic telophase I, 4. Meiotic anaphase II</span></div></div>",
+    "options": [
+      "P-3, Q-4, R-1, S-2",
+      "P-2, Q-4, R-1, S-3",
+      "P-1, Q-4, R-2, S-3",
+      "P-1, Q-2, R-3, S-4"
+    ],
+    "correct_answer": "P-3, Q-4, R-1, S-2",
+    "explanation": "[CONCEPT]\nStep 1: Mitotic metaphase → 92 chromatids (46 chromosomes × 2).\nStep 2: Meiotic telophase I → 46 chromatids.\nStep 3: Meiotic anaphase II → 23 chromatids moving to each pole.\nStep 4: Aneuploid telophase II can give 24."
+  },
+  {
+    "id": 15,
+    "question": "The transport of molecules of a particular solute from inside an animal cell across the cell membrane to the extra cellular fluid always requires energy when",
+    "options": [
+      "the concentration of the solute is higher inside the cell than outside it",
+      "the concentration of the solute is lower inside the cell than outside it",
+      "a transport protein is involved in the movement of the molecules",
+      "the cytoskeleton blocks all available channels"
+    ],
+    "correct_answer": "the concentration of the solute is lower inside the cell than outside it",
+    "explanation": "[CONCEPT]\nStep 1: Moving solute against its concentration gradient is active transport.\nStep 2: When inside concentration is lower, export requires energy."
+  },
+  {
+    "id": 16,
+    "question": "The histone H1 is present in the",
+    "options": [
+      "linker region",
+      "nucleosome",
+      "nucleolus",
+      "hnRNPs"
+    ],
+    "correct_answer": "linker region",
+    "explanation": "[CONCEPT]\nStep 1: Core histones form the nucleosome bead.\nStep 2: H1 binds the linker DNA between nucleosomes."
+  },
+  {
+    "id": 17,
+    "question": "Proper execution of cell division cycle in ensured by __________.",
+    "options": [
+      "apoptosis",
+      "DNA polymerases",
+      "cyclins",
+      "proteins of the cell cycle checkpoints"
+    ],
+    "correct_answer": "cyclins",
+    "explanation": "[CONCEPT]\nStep 1: Cyclins rise and fall at specific phases.\nStep 2: They activate cyclin-dependent kinases that drive cell-cycle progression."
+  },
+  {
+    "id": 18,
+    "question": "The following is a list of subcellular structures and their junctions. Choose the option the correctly matches tile subcellular structures to their functions.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tonoplast,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Peroxisomes,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Endosome,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Proteasome.\n\nColumn II:\n1. Lipid biosynthesis,\n2. Protein degradation,\n3. Storage of starch,\n4. Removal of free radicals</span></div></div>",
+    "options": [
+      "P-1, Q-2, R-3, S-4",
+      "P-3, Q-4, R-1, S-2",
+      "P-3, Q-4, R-2, S-1",
+      "P-1, Q-2, R-4, S-3"
+    ],
+    "correct_answer": "P-3, Q-4, R-1, S-2",
+    "explanation": "[CONCEPT]\nStep 1: Tonoplast surrounds the vacuole (starch storage).\nStep 2: Peroxisomes detoxify free radicals.\nStep 3: Endosome is involved in membrane trafficking / lipid handling.\nStep 4: Proteasome degrades proteins."
+  },
+  {
+    "id": 19,
+    "question": "Biological membranes control flow of information between cells and their environment. Which of the following attribute is true for biological membranes?",
+    "options": [
+      "Symmetric",
+      "Fluid structures",
+      "Covalent assemblies",
+      "Electrically depolarized"
+    ],
+    "correct_answer": "Covalent assemblies",
+    "explanation": "[CONCEPT]\nStep 1: Membranes are fluid and asymmetric.\nStep 2: The key selects “covalent assemblies” as the listed attribute."
+  },
+  {
+    "id": 20,
+    "question": "Most cells are so small and the constraint in the size could be",
+    "options": [
+      "due to the surface-to-volume ratio",
+      "that the low of nutrients in larger cells will be much faster and therefore cannot be controlled",
+      "that larger cells might move material too fast through cytoplasm, leading to inefficient functioning",
+      "to prevent contacting other cells"
+    ],
+    "correct_answer": "due to the surface-to-volume ratio",
+    "explanation": "[CONCEPT]\nStep 1: As cell size increases, volume grows faster than surface area.\nStep 2: Surface area becomes insufficient for adequate nutrient/waste exchange."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following proteins binds tightly to DNA in the chromatin structure and influences eukaryotic DNA replication?",
+    "options": [
+      "Histones",
+      "Lamins",
+      "Vimentin",
+      "Proteasome"
+    ],
+    "correct_answer": "Histones",
+    "explanation": "[CONCEPT]\nStep 1: Histones package DNA into nucleosomes.\nStep 2: They regulate access of replication machinery to DNA."
+  },
+  {
+    "id": 22,
+    "question": "In an organism with diploid chromosome number of 8, the cells at anaphase II will display",
+    "options": [
+      "4 chromosomes",
+      "2 chromosomes with 4 chromatids",
+      "4 chromatids",
+      "8 sister chromatids"
+    ],
+    "correct_answer": "4 chromatids",
+    "explanation": "[CONCEPT]\nStep 1: Diploid 2n = 8 → n = 4.\nStep 2: At anaphase II sister chromatids separate, so each pole receives 4 chromatids."
+  },
+  {
+    "id": 23,
+    "question": "In a normal animal cell, the extra-chromosomal DNA is",
+    "options": [
+      "single stranded circular",
+      "single stranded linear",
+      "double stranded circular",
+      "double stranded linear"
+    ],
+    "correct_answer": "double stranded circular",
+    "explanation": "[CONCEPT]\nStep 1: Extra-chromosomal DNA in animal cells is mitochondrial DNA.\nStep 2: mtDNA is double-stranded and circular."
+  },
+  {
+    "id": 24,
+    "question": "Golgi apparatus is also termed as cellular post office, since it packages and transports cellular proteins across various organelles and outside the cell. In general, the Golgi is perinuclear in location and is closely associated with the endoplasmic reticulum. A chemical compound, monensin inhibits all trafficking from Golgi. If Golgi is visualized by immunofluorescence microscopy after treatment with this compound, the Golgi will be",
+    "options": [
+      "absent",
+      "normal",
+      "swollen",
+      "fragmented"
+    ],
+    "correct_answer": "swollen",
+    "explanation": "[CONCEPT]\nStep 1: Monensin blocks exit of vesicles from Golgi.\nStep 2: Material accumulates → Golgi cisternae become swollen."
+  },
+  {
+    "id": 25,
+    "question": "Among the following cell structure–function pairs, identify the correctly paired one.",
+    "options": [
+      "Microvilli – Engulfment of foreign bodies",
+      "Cytoskeleton – Cell migration",
+      "Peroxisomes – Cellular respiration",
+      "Nucleolus – mRNA transcription"
+    ],
+    "correct_answer": "Cytoskeleton – Cell migration",
+    "explanation": "[CONCEPT]\nStep 1: Cytoskeleton (actin, microtubules) drives cell movement.\nStep 2: Other pairs are incorrect (microvilli increase surface area, peroxisomes detoxify, nucleolus makes rRNA)."
+  },
+  {
+    "id": 26,
+    "question": "The mitochondrion is not considered a part of the endomembrane system on account of which one of the following reasons?",
+    "options": [
+      "It does not undergo structural changes",
+      "It is not derived from the ER or Golgi",
+      "It does not synthesize proteins",
+      "It is not attached to the outer nuclear envelope"
+    ],
+    "correct_answer": "It is not derived from the ER or Golgi",
+    "explanation": "[CONCEPT]\nStep 1: Endomembrane system components arise from ER/Golgi.\nStep 2: Mitochondria arise from bacterial endosymbionts, not from ER/Golgi."
+  },
+  {
+    "id": 27,
+    "question": "Which one of the following is a function of intermediate filaments?",
+    "options": [
+      "Chromosome movement during the cell division",
+      "Cytoplasmic streaming",
+      "Formation of tight junctions",
+      "Anchorage of the nucleus"
+    ],
+    "correct_answer": "Anchorage of the nucleus",
+    "explanation": "[CONCEPT]\nStep 1: Intermediate filaments provide mechanical strength.\nStep 2: Nuclear lamins (a type of intermediate filament) anchor the nucleus."
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct option that shows pairing of the organelle to its function.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Smooth endoplasmic reticulum,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Peroxisome,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Golgi apparatus,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Endosome.\n\nColumn II:\n1. Internalization of receptors,\n2. Protein secretion,\n3. Membrane biogenesis,\n4. Breakdown of fatty acids</span></div></div>",
+    "options": [
+      "P-1; Q-2; R-3; S-4",
+      "P-1; Q-3; R-2; S-4",
+      "P-3; Q-4; R-2; S-1",
+      "P-2; Q-3; R-4; S-1"
+    ],
+    "correct_answer": "P-3; Q-4; R-2; S-1",
+    "explanation": "[CONCEPT]\nStep 1: SER → membrane lipid biogenesis.\nStep 2: Peroxisome → fatty-acid breakdown.\nStep 3: Golgi → protein secretion/packaging.\nStep 4: Endosome → receptor internalization."
+  },
+  {
+    "id": 29,
+    "question": "When cells are treated with cyanide, which one of the following organelles will have the highest level of cyanide inside?",
+    "options": [
+      "Mitochondria",
+      "Peroxisomes",
+      "Lysosomes",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "[CONCEPT]\nStep 1: Cyanide inhibits cytochrome oxidase of the electron-transport chain.\nStep 2: The target is located in the mitochondrial inner membrane."
+  },
+  {
+    "id": 30,
+    "question": "Detoxification of alcohol occurs in liver cells where peroxisomal enzymes remove hydrogen from it, which is",
+    "options": [
+      "combined with water molecules to generate hydrogen peroxide",
+      "used to break down hydrogen peroxide",
+      "transferred to the mitochondria",
+      "transferred to oxygen molecules to generate hydrogen peroxide"
+    ],
+    "correct_answer": "transferred to oxygen molecules to generate hydrogen peroxide",
+    "explanation": "[CONCEPT]\nStep 1: Peroxisomal oxidases transfer hydrogen from substrates to O₂.\nStep 2: This produces H₂O₂ which is then broken down by catalase."
+  },
+  {
+    "id": 31,
+    "question": "Which one of the following statements is not correct?",
+    "options": [
+      "During metaphase, the 2 copies of chromosomal DNA are held together at the centromere",
+      "The short arm of chromosomes is referred to as p and the long arm is referred to as q",
+      "The terminal structures at the end of the chromatids are referred to as telomeres",
+      "The terms heterochromatin and euchromatin refer to the active and repressed regions of the chromosome respectively"
+    ],
+    "correct_answer": "The terms heterochromatin and euchromatin refer to the active and repressed regions of the chromosome respectively",
+    "explanation": "[CONCEPT]\nStep 1: Heterochromatin = condensed, inactive.\nStep 2: Euchromatin = open, active.\nStep 3: The statement reverses the meanings, so it is incorrect."
+  },
+  {
+    "id": 32,
+    "question": "A cell in G1 phase has 16 chromosomes. The total number of chromatids that would be found per cell during metaphase II of meiosis are __________.",
+    "options": [],
+    "correct_answer": "16",
+    "explanation": "[CONCEPT]\nStep 1: G1 has 16 chromosomes (2n = 16).\nStep 2: After S phase each chromosome has 2 chromatids.\nStep 3: Meiosis I separates homologues → secondary cells have 8 chromosomes (each still 2 chromatids).\nStep 4: At metaphase II the 8 chromosomes (16 chromatids) line up."
+  },
+  {
+    "id": 33,
+    "question": "Tay-Sachs disease is a human genetic disorder that is associated with defects in which one of the following cellular organelles?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Mitochondria",
+      "Golgi apparatus",
+      "Lysosome"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\nStep 1: Tay-Sachs is a lysosomal storage disease.\nStep 2: Deficiency of hexosaminidase A causes GM2 ganglioside accumulation in lysosomes."
+  },
+  {
+    "id": 34,
+    "question": "Which one of the following is not a characteristic of a cancer cell?",
+    "options": [
+      "Increase in cell motility",
+      "Loss of contact inhibition",
+      "Decrease in apoptosis",
+      "Uncontrolled meiosis"
+    ],
+    "correct_answer": "Uncontrolled meiosis",
+    "explanation": "[CONCEPT]\nStep 1: Cancer cells show uncontrolled mitosis, not meiosis.\nStep 2: They also lose contact inhibition, increase motility and evade apoptosis."
+  },
+  {
+    "id": 35,
+    "question": "Match the proteins/molecules listed in Column I with the cellular location mentioned in the Column II.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Galactosyltransferase,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cytochrome oxidase,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Clathrin,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tubulin.\n\nColumn II:\n1. Vesicles,\n2. Cytosol,\n3. Golgi complex,\n4. Mitochondria</span></div></div>",
+    "options": [
+      "P-2; Q-3; R-1; S-4",
+      "P-3; Q-4; R-1; S-2",
+      "P-3; Q-4; R-2; S-1",
+      "P-4; Q-3; R-2; S-1"
+    ],
+    "correct_answer": "P-3; Q-4; R-1; S-2",
+    "explanation": "[CONCEPT]\nStep 1: Galactosyltransferase is a Golgi marker enzyme.\nStep 2: Cytochrome oxidase is in mitochondria.\nStep 3: Clathrin coats vesicles.\nStep 4: Tubulin is a cytosolic protein that polymerizes into microtubules."
+  },
+  {
+    "id": 36,
+    "question": "In eukaryotic chromatin organization, which one of the histones seals off the nucleosome at the location at which linker DNA enters and leaves the nucleosome?",
+    "options": [
+      "H1",
+      "H2 A-H2 B",
+      "H3",
+      "H4"
+    ],
+    "correct_answer": "H1",
+    "explanation": "[CONCEPT]\nStep 1: Core histones form the octamer.\nStep 2: Linker histone H1 binds where DNA enters and exits the nucleosome, sealing it."
+  },
+  {
+    "id": 37,
+    "question": "Match the following terms in Column I with the appropriate explanation in Column II.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Spliceosome,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Peroxisome,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Lysosome,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Centrosome.\n\nColumn II:\n1. Cell scavengers,\n2. Metabolism of long chain fatty acids,\n3. Microtubules,\n4. Post-transcriptional modifications</span></div></div>",
+    "options": [
+      "P-3; Q-1; R-4; S-2",
+      "P-4; Q-2; R-1; S-3",
+      "P-3; Q-2; R-1; S-4",
+      "P-4; Q-3; R-1; S-2"
+    ],
+    "correct_answer": "P-4; Q-2; R-1; S-3",
+    "explanation": "[CONCEPT]\nStep 1: Spliceosome performs post-transcriptional splicing.\nStep 2: Peroxisomes oxidize long-chain fatty acids.\nStep 3: Lysosomes are cellular scavengers.\nStep 4: Centrosome organizes microtubules."
+  },
+  {
+    "id": 38,
+    "question": "Which one of the following techniques can be used for detecting the subcellular localization of serotonin receptor in intact cells?",
+    "options": [
+      "Immunoelectron microscopy",
+      "SDS-PAGE",
+      "Fluorescence in situ hybridization",
+      "Differential centrifugation"
+    ],
+    "correct_answer": "Immunoelectron microscopy",
+    "explanation": "[CONCEPT]\nStep 1: Need high-resolution localization inside intact cells.\nStep 2: Immunoelectron microscopy uses antibodies + electron-dense labels to visualize proteins at ultrastructural level."
+  },
+  {
+    "id": 39,
+    "question": "Match the following subcellular organelles in Column I with associated functions in Column II.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Nucleolus,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Peroxisomes,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Endoplasmic reticulum,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Golgi bodies.\n\nColumn II:\n1. Glycoprotein biosynthesis,\n2. Oxidation of fatty acids and amino acids,\n3. Protein trafficking,\n4. Ribosome biogenesis</span></div></div>",
+    "options": [
+      "P-3; Q-2; R-1; S-4",
+      "P-1; Q-2; R-3; S-4",
+      "P-4; Q-2; R-1; S-3",
+      "P-2; Q-3; R-1; S-4"
+    ],
+    "correct_answer": "P-4; Q-2; R-1; S-3",
+    "explanation": "[CONCEPT]\nStep 1: Nucleolus = site of ribosome biogenesis.\nStep 2: Peroxisomes oxidize fatty acids and amino acids.\nStep 3: ER performs glycoprotein biosynthesis.\nStep 4: Golgi is the major protein-trafficking and sorting station."
+  }
+]

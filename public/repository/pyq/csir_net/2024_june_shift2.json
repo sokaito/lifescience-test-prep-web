@@ -17,8 +17,8 @@
     "section": "A",
     "question": "There will be 7 horizontal and 7 vertical lines (leaving the outer edges, as per question) so as to have total 64 squares.\nTotal vertical line length = 7 × Length of one line (5 × 8 = 40) = 7 × 40 = 280 cm = 2.8 m\nTotal horizontal line length = 7 × Length of one line (5 × 8 = 40) = 7 × 40 = 280 cm = 2.8 m\nTotal length of the edges = 2.8 + 2.8 = 5.6 m\nA chess board contains 64 squares of 5 cm size, in 8 rows and 8 columns, alternately black and\nwhite. What is the total length of edges (in m) between the squares in the chessboard?",
     "options": [
-      "2.8",
-      "3.2",
+      "8",
+      "2",
       "5.6",
       "6.4"
     ],
@@ -158,7 +158,7 @@
   {
     "id": 13,
     "section": "A",
-    "question": "Two rings made of metals A and B with ring A having a larger diameter, are placed concentrically\nleaving an annular gap. The thermal expansion coefficients of the two metals are CA and CB. Identify\nthe correct statement(s) from the following.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The gap will decrease if CA < CB .</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The gap will remain the same if CA = CB.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The gap will increase if CA < CB</span></div></div>\nThe thermal expansion coefficient is a material property that quantifies how much a material's size changes with a\nchange in temperature. Specifically, it measures the fractional change in length, area, or volume of a material per\ndegree of temperature change. If the thermal expansion coefficient of B is greater than that of A, metal B will expand\nmore than metal A when heated. Since ring B is inside ring A, the gap between them will decrease.\n1. Only A 2. A and B\n3. Only C 4. B and C",
+    "question": "Two rings made of metals A and B with ring A having a larger diameter, are placed concentrically\nleaving an annular gap. The thermal expansion coefficients of the two metals are CA and CB. Identify\nthe correct statement(s) from the following.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The gap will decrease if CA < CB .</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The gap will remain the same if CA = CB.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The gap will increase if CA < CB</span></div></div>\nThe thermal expansion coefficient is a material property that quantifies how much a material's size changes with a\nchange in temperature. Specifically, it measures the fractional change in length, area, or volume of a material per\ndegree of temperature change. If the thermal expansion coefficient of B is greater than that of A, metal B will expand\nmore than metal A when heated. Since ring B is inside ring A, the gap between them will decrease.\n1. Only A\n2. A and B\n3. Only C\n4. B and C",
     "options": [
       "A",
       "B",
@@ -327,7 +327,7 @@
   {
     "id": 26,
     "section": "B",
-    "question": "Statements A and B are correct. Animal-based diets involve greater thermodynamic energy loss due to inefficiencies in\nenergy transfer through the food chain. The production of animal-based foods generally involves higher carbon emissions\nand environmental impacts compared to plant-based foods.\nThe proponents of sustainable development argue for a switch to a predominantly plant-based diet, in order\nto reduce the human footprint of food production. The statements given below present some of the\narguments put forward by them.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Animal-based diets involve greater thermodynamic energy loss.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The production of animal-based foods involves high carbon burn-off.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Animal tissues have high C:N ratios.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Animal tissues have high water content.</span></div></div>\nSelect the option that constitutes the basis of their argument.\n1. A and B 2. A and C\n3. B and C 4. B and D",
+    "question": "Statements A and B are correct. Animal-based diets involve greater thermodynamic energy loss due to inefficiencies in\nenergy transfer through the food chain. The production of animal-based foods generally involves higher carbon emissions\nand environmental impacts compared to plant-based foods.\nThe proponents of sustainable development argue for a switch to a predominantly plant-based diet, in order\nto reduce the human footprint of food production. The statements given below present some of the\narguments put forward by them.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Animal-based diets involve greater thermodynamic energy loss.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The production of animal-based foods involves high carbon burn-off.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Animal tissues have high C:N ratios.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Animal tissues have high water content.</span></div></div>\nSelect the option that constitutes the basis of their argument.\n1. A and B\n2. A and C\n3. B and C\n4. B and D",
     "options": [
       "A",
       "B",
@@ -418,7 +418,7 @@
   {
     "id": 33,
     "section": "B",
-    "question": "Which one of the following compounds can serve as a direct acceptor of an additional amino group\nderived from amino acid catabolism?\n1. Fumarate 2. Glutamine\n3. α-Ketoglutarate 4. Asparagine\nFor detail you can consult Fundamental and Practice, Life Sciences-1, 9th Edition",
+    "question": "Which one of the following compounds can serve as a direct acceptor of an additional amino group\nderived from amino acid catabolism?\n1. Fumarate\n2. Glutamine\n3. α-Ketoglutarate\n4. Asparagine\nFor detail you can consult Fundamental and Practice, Life Sciences-1, 9th Edition",
     "options": [
       "A",
       "B",
@@ -912,7 +912,7 @@
   {
     "id": 71,
     "section": "C",
-    "question": "The statements given below indicate key characteristics of a geographical region.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Contains at least 1500 species of endemic animals</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Contains at least 1500 species of endemic vascular plants</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Has lost 70% of its original natural vegetation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Has lost 30% of its original natural vegetation</span></div></div>\nWhich one of the following combinations represents the correct criteria for declaring an area as a\nbiodiversity hotspot?\n1. A and C 2. B and C\n3. A and D 4. B and D\nFor detail you can consult Fundamental of Ecology and Environment, 4th edition",
+    "question": "The statements given below indicate key characteristics of a geographical region.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Contains at least 1500 species of endemic animals</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Contains at least 1500 species of endemic vascular plants</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Has lost 70% of its original natural vegetation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Has lost 30% of its original natural vegetation</span></div></div>\nWhich one of the following combinations represents the correct criteria for declaring an area as a\nbiodiversity hotspot?\n1. A and C\n2. B and C\n3. A and D\n4. B and D\nFor detail you can consult Fundamental of Ecology and Environment, 4th edition",
     "options": [
       "A",
       "B",
@@ -938,7 +938,7 @@
   {
     "id": 73,
     "section": "C",
-    "question": "Dendritic cells are indeed capable of presenting antigens on both MHC Class I and MHC Class II molecules. MHC-I\npresents endogenous antigens (typically from cytosolic proteins) to CD8+ T cells and MHC-II presents exogenous antigens\nto CD4+ T cells. CD4+ T cells can activate DCs and DCs can produce chemokines to attract CD8+ T cells.\nThe following statements are made about how CD4 T cells provide help to CD8 T cells.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Antigen/MHC-11 complexes on CD4 T cells interact with antigen/MHC-I complexes on CD8 cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>A single dendritic cell (DC) presents antigen on MHC-I and MHC-11 at the same time.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>CD4 T cells activate DCs which produce chemokines like CCL3 and CCL4 that can specifically attract CD8 T cells to form a CD4-CD8-DC triad.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>CD4 T cells help B cells, which differentiate into plasma cells and secrete antibodies that form immune complexes which bind to FcγRs on CD8 T cells.</span></div></div>\n1. A and B 2. A and C\n3. B and C 4. C and D\nWhich one of the following options represents the combination of all correct statements?",
+    "question": "Dendritic cells are indeed capable of presenting antigens on both MHC Class I and MHC Class II molecules. MHC-I\npresents endogenous antigens (typically from cytosolic proteins) to CD8+ T cells and MHC-II presents exogenous antigens\nto CD4+ T cells. CD4+ T cells can activate DCs and DCs can produce chemokines to attract CD8+ T cells.\nThe following statements are made about how CD4 T cells provide help to CD8 T cells.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Antigen/MHC-11 complexes on CD4 T cells interact with antigen/MHC-I complexes on CD8 cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>A single dendritic cell (DC) presents antigen on MHC-I and MHC-11 at the same time.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>CD4 T cells activate DCs which produce chemokines like CCL3 and CCL4 that can specifically attract CD8 T cells to form a CD4-CD8-DC triad.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>CD4 T cells help B cells, which differentiate into plasma cells and secrete antibodies that form immune complexes which bind to FcγRs on CD8 T cells.</span></div></div>\n1. A and B\n2. A and C\n3. B and C\n4. C and D\nWhich one of the following options represents the combination of all correct statements?",
     "options": [
       "A",
       "B",
@@ -977,7 +977,7 @@
   {
     "id": 76,
     "section": "C",
-    "question": "Statements A and B are correct. A. The membrane potential is brought to the threshold potential (firing level) due to the opening\nof some voltage-gated sodium channels in response to a threshold depolarizing stimulus. B. The rapid depolarization after the\nfiring level is caused by the opening of more voltage-gated sodium channels and the entry of Na+ into the nerve fiber.\nDifferent phases of a typical nerve fibre action potential are explained in the following statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The membrane potential is brought to the threshold potential (firing level) due to the opening of some voltage-gated sodium channels in response to a threshold depolarizing stimulus.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The rapid depolarization after the firing level is caused by opening of more voltage-gated sodium channels</span></div></div>\nand entry of Na+ into the nerve fibre.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The reversal of membrane potential (overshoot) at the peak of action potential occurs as membrane potential moves towards the equilibrium potential of K+.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The peak voltage of action potential does not reach the equilibrium potential of K+ primarily because the</span></div></div>\nincrease of K+ conductance is short-lived.\nWhich one of the following options represents the combination of the correct statements?\n1. A and B 2. B and C\n3. C and D 4. A and D",
+    "question": "Statements A and B are correct. A. The membrane potential is brought to the threshold potential (firing level) due to the opening\nof some voltage-gated sodium channels in response to a threshold depolarizing stimulus. B. The rapid depolarization after the\nfiring level is caused by the opening of more voltage-gated sodium channels and the entry of Na+ into the nerve fiber.\nDifferent phases of a typical nerve fibre action potential are explained in the following statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The membrane potential is brought to the threshold potential (firing level) due to the opening of some voltage-gated sodium channels in response to a threshold depolarizing stimulus.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The rapid depolarization after the firing level is caused by opening of more voltage-gated sodium channels</span></div></div>\nand entry of Na+ into the nerve fibre.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The reversal of membrane potential (overshoot) at the peak of action potential occurs as membrane potential moves towards the equilibrium potential of K+.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The peak voltage of action potential does not reach the equilibrium potential of K+ primarily because the</span></div></div>\nincrease of K+ conductance is short-lived.\nWhich one of the following options represents the combination of the correct statements?\n1. A and B\n2. B and C\n3. C and D\n4. A and D",
     "options": [
       "A",
       "B",
@@ -1161,12 +1161,12 @@
     "section": "C",
     "question": "Given below are a list of sub-cellular compartments (Column X) and markers (Column Y).\nWhich one of the following options correctly matches the subcellular compartments with their markers?",
     "options": [
-      "(a) A-iii , 8-iv, C-i, D-ii",
-      "(b) A-iv, 8-iii, C-ii, D-i",
-      "(c) A-iii , 8-iv, C-ii, D-I",
-      "(d) A-ii, 8-iv, C-i, D-iii"
+      "A-iii , 8-iv, C-i, D-ii",
+      "A-iv, 8-iii, C-ii, D-i",
+      "A-iii , 8-iv, C-ii, D-I",
+      "A-ii, 8-iv, C-i, D-iii"
     ],
-    "correct_answer": "(a) A-iii , 8-iv, C-i, D-ii",
+    "correct_answer": "A-iii , 8-iv, C-i, D-ii",
     "explanation": "[CONCEPT]\nFor detail you can consult Chapter 3 Cell structure and Function (Fundamental and Practice, Life Sciences-1, 9th Edition)",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1190,12 +1190,12 @@
     "section": "C",
     "question": "Given below is a list of regulatory RNAs (Column X) and their modes of action {Column Y).\nWhich one of the following options represents all correct matches between Column X and Column Y?",
     "options": [
-      "(a) A-ii, B-i, C-iii",
-      "(b) A-i, B-ii, C-iii",
-      "(c) A-iii, B-i, C-ii",
-      "(d) A-iii, B-ii, C-i"
+      "A-ii, B-i, C-iii",
+      "A-i, B-ii, C-iii",
+      "A-iii, B-i, C-ii",
+      "A-iii, B-ii, C-i"
     ],
-    "correct_answer": "(a) A-ii, B-i, C-iii",
+    "correct_answer": "A-ii, B-i, C-iii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1258,12 +1258,12 @@
     "section": "C",
     "question": "Different leads used in electrocardiography (Column X) and the electrode placement and connections\n(Column Y) are listed below:\nWhich one of the following options represents the correct match between Column X and Column Y?",
     "options": [
-      "(a) a-i , b-ii, c-iii, d-iv",
-      "(b) a-ii, b-iii, c-iv, d-i",
-      "(c) a-iii, b-iv, c-i, d-ii",
-      "(d) a-iv, b-i, c-ii, d-iii"
+      "a-i , b-ii, c-iii, d-iv",
+      "a-ii, b-iii, c-iv, d-i",
+      "a-iii, b-iv, c-i, d-ii",
+      "a-iv, b-i, c-ii, d-iii"
     ],
-    "correct_answer": "(d) a-iv, b-i, c-ii, d-iii",
+    "correct_answer": "a-iv, b-i, c-ii, d-iii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1534,12 +1534,12 @@
     "section": "C",
     "question": "Mutants of bacteriophage that carry deletions can be used to rapidly locate mutational sites of newly obtained\nmutants. The mapping is based on whether wild type recombinants can be recovered when the deletion mutant and\nthe novel mutant are brought together.\nFour independent deletions (1 to 4) of a region were used to map 4 novel mutations (A to D).\nThe deletions (starting from a fixed site) are shown below (the lines denote the region of deletion):\nThe results of mapping are summarized in the table, where '+' denotes\nthe recovery of wild type recombinants and '- ' the inability to do so.\nFurther it was observed\n• that out of the 4 novel mutants no revertant was observed\nfor mutant A\n• mutant B and C do not complement each other\nThe following conclusions were made:\nA. Mutation A lies within the region of deletion",
     "options": [
-      "B. Mutations can be ordered as A-D-B-C.\nC. Mutant A could be a deletion.\nD. Mutants Band Care located on 2 independent cistrons.\nWhich one of the following options represents a combination\nof all correct statements?\n1. A, B and C",
+      "Mutations can be ordered as A-D-B-C.\nC. Mutant A could be a deletion.\nD. Mutants Band Care located on 2 independent cistrons.\nWhich one of the following options represents a combination\nof all correct statements?\n1. A, B and C",
       "B, C and D",
       "A, C and D",
       "A and B only"
     ],
-    "correct_answer": "B. Mutations can be ordered as A-D-B-C.\nC. Mutant A could be a deletion.\nD. Mutants Band Care located on 2 independent cistrons.\nWhich one of the following options represents a combination\nof all correct statements?\n1. A, B and C",
+    "correct_answer": "Mutations can be ordered as A-D-B-C.\nC. Mutant A could be a deletion.\nD. Mutants Band Care located on 2 independent cistrons.\nWhich one of the following options represents a combination\nof all correct statements?\n1. A, B and C",
     "explanation": ""
   },
   {
@@ -1704,7 +1704,7 @@
   {
     "id": 131,
     "section": "C",
-    "question": "Following are certain statements regarding NADP-malic enzyme type of C4 photosynthesis:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Malate synthesized from oxaloacetate in mesophyll cells is transported to bundle sheath cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Pyruvate formed in the bundle sheath cells is transported to mesophyll cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Aspartate synthesized from oxaloacetate in mesophyll cells is transported to the bundle sheath cells and again gets converted into oxaloacetate.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Alanine aminotransferase converts pyruvate into alanine in the bundle sheath cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>Oxaloacetate is converted into aspartate, by aspartate aminotransferase in the mesophyll cell.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?\n1. A and B only 2. B, C and E\n3. B and D only 4. A, D and E\nFor detail you can consult Fundamental and Practice, Life Sciences-1, 9th Edition",
+    "question": "Following are certain statements regarding NADP-malic enzyme type of C4 photosynthesis:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Malate synthesized from oxaloacetate in mesophyll cells is transported to bundle sheath cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Pyruvate formed in the bundle sheath cells is transported to mesophyll cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Aspartate synthesized from oxaloacetate in mesophyll cells is transported to the bundle sheath cells and again gets converted into oxaloacetate.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Alanine aminotransferase converts pyruvate into alanine in the bundle sheath cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">E.</span><span>Oxaloacetate is converted into aspartate, by aspartate aminotransferase in the mesophyll cell.</span></div></div>\nWhich one of the following options represents the combination of all correct statements?\n1. A and B only\n2. B, C and E\n3. B and D only\n4. A, D and E\nFor detail you can consult Fundamental and Practice, Life Sciences-1, 9th Edition",
     "options": [
       "A",
       "B",
@@ -1826,12 +1826,12 @@
     "section": "C",
     "question": "Given below is the list of F-box proteins of the SCF ubiquitin E3 ligase complex (Column X) and their\nWhich of the following combinations represents the correct match between Column X and Column Y?",
     "options": [
-      "(a) A-i, B-iii, C-ii, D-iv",
-      "(b) A-iii, B-iv, C-i, D-ii",
-      "(c) A-iv, B-i, C-ii, D-iii",
-      "(d) A-iii, B-i, C-iv, D -ii"
+      "A-i, B-iii, C-ii, D-iv",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-i, C-ii, D-iii",
+      "A-iii, B-i, C-iv, D -ii"
     ],
-    "correct_answer": "(d) A-iii, B-i, C-iv, D -ii",
+    "correct_answer": "A-iii, B-i, C-iv, D -ii",
     "explanation": "[CONCEPT]\nTIR1 is an F-box protein that acts as a receptor for the plant hormone auxin. COL1: Functions in regulating flowering time by\n\nintegrating light and circadian signals, affecting the timing of flowering based on environmental conditions. SLY1 is an F-box\n\nprotein that functions as part of the SCF (SKP1-Cullin-F-box) E3 ubiquitin ligase complex. In the presence of gibberellins, SLY1\n\nhelps target DELLA proteins for ubiquitination.",
     "type": "match_following_mcq",
     "list_1": [],

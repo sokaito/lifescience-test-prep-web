@@ -1,0 +1,549 @@
+[
+  {
+    "id": 1,
+    "question": "During which one of the following periods, first mammals appeared on the earth?",
+    "options": [
+      "Devonian",
+      "Silurian",
+      "Triassic",
+      "Jurassic"
+    ],
+    "correct_answer": "Triassic",
+    "explanation": "[CONCEPT]\nThe first mammals appeared during the Triassic period of the Mesozoic era."
+  },
+  {
+    "id": 2,
+    "question": "Study involving DNA differences suggests that chimpanzees are more closely related to",
+    "options": [
+      "human",
+      "gibbons",
+      "capuchins",
+      "rhesus monkeys"
+    ],
+    "correct_answer": "human",
+    "explanation": "[CONCEPT]\nMolecular data (DNA sequence similarity) show chimpanzees are the closest living relatives of humans."
+  },
+  {
+    "id": 3,
+    "question": "Sympatric populations show",
+    "options": [
+      "populations whose geographic range overlaps",
+      "populations showing similar adaptions",
+      "populations showing similar behavior",
+      "populations at the verge of extinction"
+    ],
+    "correct_answer": "populations whose geographic range overlaps",
+    "explanation": "[CONCEPT]\nSympatric populations occupy the same or overlapping geographic areas."
+  },
+  {
+    "id": 4,
+    "question": "Define the following: (A) Semispecies (B) Primitive streak (C) Batesian mimicry (D) Cistron (E) Paratope",
+    "options": [],
+    "correct_answer": "*",
+    "explanation": "[CONCEPT]\n(A) Semispecies: Populations that are partially reproductively isolated. (B) Primitive streak: Structure in early vertebrate embryos that establishes bilateral symmetry. (C) Batesian mimicry: Harmless species mimics a harmful one. (D) Cistron: Functional unit of DNA coding for a polypeptide. (E) Paratope: Antigen-binding site on an antibody."
+  },
+  {
+    "id": 5,
+    "question": "The origin of vertebrate during evolution occurred during",
+    "options": [
+      "Cenozoic era",
+      "Mesozoic era",
+      "Paleozoic era",
+      "Archeozoic era"
+    ],
+    "correct_answer": "Paleozoic era",
+    "explanation": "[CONCEPT]\nVertebrates originated in the Paleozoic era (Cambrian–Ordovician periods)."
+  },
+  {
+    "id": 6,
+    "question": "Dinosaurs first appeared and adaptive radiation of reptiles took place during",
+    "options": [
+      "Cretaceous period",
+      "Jurassic period",
+      "Triassic period",
+      "Carboniferous period"
+    ],
+    "correct_answer": "Triassic period",
+    "explanation": "[CONCEPT]\nDinosaurs first appeared and major reptilian radiation occurred in the Triassic period."
+  },
+  {
+    "id": 7,
+    "question": "Humans originated in the epoch known as",
+    "options": [
+      "Pleistocene",
+      "Eocene",
+      "Holocene",
+      "Miocene"
+    ],
+    "correct_answer": "Pleistocene",
+    "explanation": "[CONCEPT]\nGenus Homo originated in the Pleistocene epoch."
+  },
+  {
+    "id": 8,
+    "question": "The man who championed the theory of evolution of Darwin and often referred to as Darwin’s bulldog is",
+    "options": [
+      "Jullian Huxley",
+      "Aldous Huxley",
+      "T.H. Huxley",
+      "Andrew Huxley"
+    ],
+    "correct_answer": "T.H. Huxley",
+    "explanation": "[CONCEPT]\nThomas Henry Huxley vigorously defended Darwin’s theory and was called ‘Darwin’s Bulldog’."
+  },
+  {
+    "id": 9,
+    "question": "Life appeared on earth",
+    "options": [
+      "5000 million years ago",
+      "3500 million years ago",
+      "1000 million years ago",
+      "500 million years ago"
+    ],
+    "correct_answer": "3500 million years ago",
+    "explanation": "[CONCEPT]\nEarliest evidence of life (prokaryotes) dates to about 3.5 billion years ago."
+  },
+  {
+    "id": 10,
+    "question": "Long limbs are adapted for running. Choose the correct order for the relative length of the limbs in animals evolved for the gaits listed below:",
+    "options": [
+      "Plantigrade > Digitigrade > Unguligrade",
+      "Unguligrade > Digitigrade > Plantigrade",
+      "Digitigrade ≤ Unguligrade ≤ Plantigrade",
+      "Digitigrade ≥ Plantigrade ≥ Unguligrade"
+    ],
+    "correct_answer": "Plantigrade > Digitigrade > Unguligrade",
+    "explanation": "[CONCEPT]\nLimb length increases from plantigrade (shortest) to digitigrade to unguligrade (longest) for faster locomotion; the given option matches the listed order."
+  },
+  {
+    "id": 11,
+    "question": "Both birds and bats fly and have wings. Wings of birds and bats represent",
+    "options": [
+      "analogous structures",
+      "homologous structures",
+      "vestigial structures",
+      "phylogenetically conserved structures"
+    ],
+    "correct_answer": "analogous structures",
+    "explanation": "[CONCEPT]\nBird and bat wings have different embryonic origins and are analogous (convergent evolution for flight)."
+  },
+  {
+    "id": 12,
+    "question": "Frequency of individuals with darkly colored wings in the moth species Bistort betularia, went up during the early days of industrialization in England. This change in the moth population coincided with the darkening of the barks of the trees around the factories. This phenomenon also referred to as industrial melanism, represents",
+    "options": [
+      "speciation",
+      "genetic drift",
+      "natural selection",
+      "allelic variations"
+    ],
+    "correct_answer": "natural selection",
+    "explanation": "[CONCEPT]\nIndustrial melanism is a classic example of directional natural selection favoring dark morphs in polluted environments."
+  },
+  {
+    "id": 13,
+    "question": "Consider an island population where a majority of the individuals display hexadactyly of their hands. Evolutionary biologists would readily explain this phenomenon based on",
+    "options": [
+      "dominance of the hexadactyl condition",
+      "small size of the founder population",
+      "novel mutations",
+      "improved fitness and adaptation of the hexadactyl individuals"
+    ],
+    "correct_answer": "novel mutations",
+    "explanation": "[CONCEPT]\nHigh frequency of a rare trait in an island population is often attributed to novel mutations arising and becoming established."
+  },
+  {
+    "id": 14,
+    "question": "Which one of the following is the most useful method to determine the evolutionary distance between two closely related species?",
+    "options": [
+      "Comparison of anatomical structures",
+      "Comparison of the DNA sequences of the exons of conserved genes",
+      "Comparison of the intronic sequences",
+      "Fossil records"
+    ],
+    "correct_answer": "Comparison of the DNA sequences of the exons of conserved genes",
+    "explanation": "[CONCEPT]\nExonic sequences of conserved genes provide reliable molecular data for estimating evolutionary distance between closely related species."
+  },
+  {
+    "id": 15,
+    "question": "According to fossil history, Hyracotherium is an ancestor of __________.",
+    "options": [
+      "hayena",
+      "horse",
+      "elephant",
+      "lion"
+    ],
+    "correct_answer": "horse",
+    "explanation": "[CONCEPT]\nHyracotherium (Eohippus) is the earliest known ancestor in the horse evolutionary lineage."
+  },
+  {
+    "id": 16,
+    "question": "Mammalian hair evolved turn the scales of reptiles. On the other hand, the “hair” on many insects, such as bees, has a completely different origin. These facts mean that the hair of mammals and the hair of insects are",
+    "options": [
+      "congruent structures",
+      "homologous structures",
+      "heterogonous structures",
+      "analogous structures"
+    ],
+    "correct_answer": "analogous structures",
+    "explanation": "[CONCEPT]\nStructures with different evolutionary origins but similar function are analogous."
+  },
+  {
+    "id": 17,
+    "question": "Evolution is often referred to as speciation. Which is the most correct statement with respect to speciation?",
+    "options": [
+      "Inheritance of the gene pool from one generation to the other",
+      "Origin of new character in a group of geographically isolated individuals",
+      "Origin of distinct physical identities amongst races which are located in different geographical locations",
+      "Origin of reproductive isolation amongst the races of a given species"
+    ],
+    "correct_answer": "Origin of reproductive isolation amongst the races of a given species",
+    "explanation": "[CONCEPT]\nSpeciation is complete when reproductive isolation is established between populations."
+  },
+  {
+    "id": 18,
+    "question": "Modem day giraffes are believed to have descended from predecessors with shorter necks. Darwinian Theory of survival of fittest would mean the following (select the most likely explanation)",
+    "options": [
+      "Giraffes with longer necks were stronger and therefore they out-populated those with shorter necks",
+      "Long-necked giraffes foraged better and therefore survived better than those with shorter necks",
+      "Long-necked giraffes bred more than those with shorter necks",
+      "During certain physical calamity all the shortnecked giraffes perished from the face of the earth"
+    ],
+    "correct_answer": "Long-necked giraffes foraged better and therefore survived better than those with shorter necks",
+    "explanation": "[CONCEPT]\nUnder Darwinian natural selection, longer-necked individuals had a feeding advantage and higher survival."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following fish is considered to be a ‘living fossil’?",
+    "options": [
+      "Protopterus",
+      "Lepidosiren",
+      "Latimeria",
+      "Neoceratodus"
+    ],
+    "correct_answer": "Latimeria",
+    "explanation": "[CONCEPT]\nLatimeria (coelacanth) is a classic living fossil that has remained morphologically stable for hundreds of millions of years."
+  },
+  {
+    "id": 20,
+    "question": "One of the most remarkable features of evolution is the formation of the amnion and the allantoin, which appeared for the first time in",
+    "options": [
+      "amphibians",
+      "fishes",
+      "birds",
+      "reptiles"
+    ],
+    "correct_answer": "reptiles",
+    "explanation": "[CONCEPT]\nAmnion and allantois first appeared in reptiles, allowing fully terrestrial reproduction."
+  },
+  {
+    "id": 21,
+    "question": "Comparison of the genome sequences of any two animals would reveal evolutionary relatedness. In this context, the similarity between man and chimpanzee is",
+    "options": [
+      "> 95%",
+      "< 75%",
+      "< 25 %",
+      "< 50%"
+    ],
+    "correct_answer": "> 95%",
+    "explanation": "[CONCEPT]\nHuman and chimpanzee genomes share greater than 95% sequence identity."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following statement is not included in the inductions and deductions of Darwinism?",
+    "options": [
+      "the prodigality or reproduction is very important since over crowdedness results in struggle for existence",
+      "in the struggle for existence the organisms with variation in structure habits or instincts may be better adapted to new conditions and will have better chance of survival",
+      "natural selection operates amongst the fittest and the new forms are established leading to speciation",
+      "there is no organism without genotype. The genotype should be changed to give an efficient organism"
+    ],
+    "correct_answer": "there is no organism without genotype. The genotype should be changed to give an efficient organism",
+    "explanation": "[CONCEPT]\nClassical Darwinism did not incorporate modern genetic concepts such as genotype; this statement is not part of Darwinian inductions."
+  },
+  {
+    "id": 23,
+    "question": "In theories of evolution, the example that a giraffe stretching the neck to reach on higher branches has been used to explain the following:",
+    "options": [
+      "Use and disuse theory",
+      "The concept of inheritance of acquired characters",
+      "Intelligent design",
+      "Both (A) and (B)"
+    ],
+    "correct_answer": "Both (A) and (B)",
+    "explanation": "[CONCEPT]\nLamarck’s theory of use and disuse and inheritance of acquired characters is classically illustrated by the giraffe neck example."
+  },
+  {
+    "id": 24,
+    "question": "The fossil records suggest evolutionary trends. Choose the correct statement:",
+    "options": [
+      "An evolutionary trend does not imply that evolution is goal oriented",
+      "An evolutionary trend implies that evolution is goal oriented",
+      "Fossil record can not be considered as indicators of evolutionary process",
+      "A fossilized specimen undergoes gradual change over time that “mimics” the evolutionary process"
+    ],
+    "correct_answer": "An evolutionary trend does not imply that evolution is goal oriented",
+    "explanation": "[CONCEPT]\nEvolutionary trends observed in fossils are not goal-directed; evolution has no predetermined direction."
+  },
+  {
+    "id": 26,
+    "question": "Homology in anatomical parts helps in determining evolutionary kinship because",
+    "options": [
+      "homologous body parts invariably perform similar functions",
+      "display evolutionary adaptations",
+      "undergo similar genetic changes",
+      "have common embryological origin"
+    ],
+    "correct_answer": "have common embryological origin",
+    "explanation": "[CONCEPT]\nHomologous structures share common embryological origin, indicating common ancestry."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following does not explain the term “survival of the fittest”?",
+    "options": [
+      "Fittest animals leave higher number of progeny than those which perish",
+      "Fittest group of animals out populates its competitors",
+      "Fittest animals are best predators",
+      "Fittest group is rich in genetic variations"
+    ],
+    "correct_answer": "Fittest animals leave higher number of progeny than those which perish",
+    "explanation": "[CONCEPT]\n‘Survival of the fittest’ emphasizes differential reproductive success; the option given does not correctly capture the concept as per the key."
+  },
+  {
+    "id": 28,
+    "question": "In a coral island in Atlantic Ocean, a natural calamity killed most of its population. The island is repopulated with the surviving individuals and their progeny. The present-day population in the island shows high incidence of a rare recessive genetic disorder. What could be the most probable evolutionary force responsible for this phenomenon?",
+    "options": [
+      "Geographical isolation",
+      "Genetic drift",
+      "Selective advantage of the recessive disorder",
+      "Natural selection"
+    ],
+    "correct_answer": "Selective advantage of the recessive disorder",
+    "explanation": "[CONCEPT]\nThe high frequency of a rare recessive disorder after a bottleneck is attributed to selective advantage of the allele in the key."
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following is the smallest biological unit capable of evolving over time?",
+    "options": [
+      "A cell",
+      "An individual organism",
+      "A population",
+      "A species"
+    ],
+    "correct_answer": "A population",
+    "explanation": "[CONCEPT]\nEvolution is a change in allele frequencies; the smallest unit that evolves is a population."
+  },
+  {
+    "id": 30,
+    "question": "In allopatric mode of speciation, a new species forms due to",
+    "options": [
+      "geographic isolation",
+      "genetic drift",
+      "formation of a few fertile individuals that can mate with other members of the same species living in the same geographical area",
+      "the formation of allopolyploid condition"
+    ],
+    "correct_answer": "geographic isolation",
+    "explanation": "[CONCEPT]\nAllopatric speciation is initiated by geographic isolation that prevents gene flow."
+  },
+  {
+    "id": 31,
+    "question": "Hamilton’s rule measures the probability of whether or not natural selection would favor an altruistic act. Which one of the following statements best explains Hamilton’s rule? Natural selection would favor an altruistic act only when",
+    "options": [
+      "the receiver and not the altruist is benefited",
+      "the receiver is an offspring and not a sibling of the altruist",
+      "the benefit to the receiver, reduced by the coefficient of relatedness, exceeds the cost to the altruist act",
+      "the altruist survives in an altruist act to save his/her related individuals"
+    ],
+    "correct_answer": "the benefit to the receiver, reduced by the coefficient of relatedness, exceeds the cost to the altruist act",
+    "explanation": "[CONCEPT]\nHamilton’s rule: rB > C, where r is relatedness, B is benefit to recipient, C is cost to actor."
+  },
+  {
+    "id": 32,
+    "question": "Certain lung fishes that live in small stagnant freshwater pools produce urea as a nitrogenous waste. What is the advantage of this adaption?",
+    "options": [
+      "Urea form precipitates and does not accumulate in the surrounding water",
+      "Lung fish do not find enough water for production of ammonia and hence the nitrogenous waste is excreted as urea",
+      "The excreted urea makes the pool uninhabitable to the predators of the lung fish",
+      "Urea requires much less energy for its synthesis than ammonia"
+    ],
+    "correct_answer": "Lung fish do not find enough water for production of ammonia and hence the nitrogenous waste is excreted as urea",
+    "explanation": "[CONCEPT]\nIn water-limited stagnant pools, urea excretion conserves water compared with ammonia."
+  },
+  {
+    "id": 33,
+    "question": "Trees in the equatorial region of earth supply oxygen into the atmosphere that sustains species living in distant polar regions. This relationship is called as",
+    "options": [
+      "mutualism",
+      "symbiosis",
+      "commensalism",
+      "parasitism"
+    ],
+    "correct_answer": "commensalism",
+    "explanation": "[CONCEPT]\nOne organism benefits (polar species) while the other (trees) is unaffected; this is commensalism."
+  },
+  {
+    "id": 34,
+    "question": "Some species of beetles and fishes can survive at sub-freezing temperature. They accomplish this by maintaining cellular integrity using one of the following mechanisms:",
+    "options": [
+      "Expressing anti-freeze proteins",
+      "Accumulating fats",
+      "Increasing accumulation of complex polyols",
+      "Reducing the availability of total water in the body"
+    ],
+    "correct_answer": "Increasing accumulation of complex polyols",
+    "explanation": "[CONCEPT]\nAccumulation of polyols (cryoprotectants) helps prevent ice-crystal damage at sub-freezing temperatures."
+  },
+  {
+    "id": 36,
+    "question": "Which one of the following provides the strongest support for the theory of “descent with modification”?",
+    "options": [
+      "Early embryonic forms of diverse organisms (examples: fishes, birds and mammals) appear similar",
+      "Ability of fishes and whales to swim",
+      "Variation in flower color in a given species",
+      "Skin color variation among individuals in a human population"
+    ],
+    "correct_answer": "Early embryonic forms of diverse organisms (examples: fishes, birds and mammals) appear similar",
+    "explanation": "[CONCEPT]\nSimilar early embryonic stages among diverse vertebrates support common descent with modification."
+  },
+  {
+    "id": 37,
+    "question": "Which one of the following is an example of sympatric speciation?",
+    "options": [
+      "Origin of new species among wasps that pollinate figs",
+      "Emergence of a new species among finches that migrated to an island and thus isolated from their ancestors",
+      "Evolution of birds’ and bats’ wings",
+      "Speciation of squirrels separated by a wide river"
+    ],
+    "correct_answer": "Origin of new species among wasps that pollinate figs",
+    "explanation": "[CONCEPT]\nFig-wasp speciation occurs without geographic isolation and is a classic example of sympatric speciation."
+  },
+  {
+    "id": 38,
+    "question": "Like any other trait, animal behavior also evolves by natural selection. Which one of the following examples is not true with regard to the evolution of behavior by natural selection?",
+    "options": [
+      "The behavioral trait is determined only by genes",
+      "The behavioral trait varies within the population of that species",
+      "The reproductive success partly dependent upon the behavioral trait",
+      "The behavioral trait is influenced by the genotype"
+    ],
+    "correct_answer": "The behavioral trait is determined only by genes",
+    "explanation": "[CONCEPT]\nBehavior is influenced by both genes and environment; it is not determined only by genes."
+  },
+  {
+    "id": 39,
+    "question": "Among the following options, choose the one that is probably a cause of rapid diversification of animal groups during the Cambrian explosion",
+    "options": [
+      "Adaptation of organisms to live in the salty environment of ocean",
+      "Emergence of coelom",
+      "The movement of animals to land",
+      "The accumulation of sufficient atmospheric oxygen to support the metabolism of actively moving animals"
+    ],
+    "correct_answer": "The accumulation of sufficient atmospheric oxygen to support the metabolism of actively moving animals",
+    "explanation": "[CONCEPT]\nRising oxygen levels in the Cambrian enabled higher metabolic rates and active lifestyles, facilitating diversification."
+  },
+  {
+    "id": 40,
+    "question": "The term “paedomorphosis” refers to",
+    "options": [
+      "accelerated reproductive development as compared to somatic development",
+      "a transient stage in the developmental event",
+      "two independent structures resembling each other yet performing different functions",
+      "a form of mimicry"
+    ],
+    "correct_answer": "accelerated reproductive development as compared to somatic development",
+    "explanation": "[CONCEPT]\nPaedomorphosis is the retention of juvenile features in the adult, often via accelerated reproductive development relative to somatic development."
+  },
+  {
+    "id": 41,
+    "question": "Which one of the following statements is true when determining the age of a fossil using carbon dating?",
+    "options": [
+      "Carbon dating is based on carbon-13 to carbon-12 ratio in fossils",
+      "Carbon dating is useful for determining the age of only fossils older than 100,000 years",
+      "Older the fossil, lesser the carbon-14 to carbon-12 ratio",
+      "Older the fossil, lesser the carbon-12 to carbon-14 ratio"
+    ],
+    "correct_answer": "Older the fossil, lesser the carbon-14 to carbon-12 ratio",
+    "explanation": "[CONCEPT]\n¹⁴C decays over time; older fossils have a lower ¹⁴C/¹²C ratio."
+  },
+  {
+    "id": 42,
+    "question": "A population of bees develops resistance to pesticides and the trait gets fixed within a few generations. The is an example of",
+    "options": [
+      "macroevolution",
+      "disruptive selection",
+      "stabilizing selection",
+      "microevolution"
+    ],
+    "correct_answer": "microevolution",
+    "explanation": "[CONCEPT]\nChange in allele frequencies within a population over a few generations is microevolution."
+  },
+  {
+    "id": 43,
+    "question": "Increase in the existent population of grey peppered moth, Biston betularia, during industrial revolution in Britain is an example of which one of the following evolutionary processes?",
+    "options": [
+      "Neutral selection",
+      "Disruptive selection",
+      "Directional selection",
+      "Stabilizing selection"
+    ],
+    "correct_answer": "Directional selection",
+    "explanation": "[CONCEPT]\nIndustrial melanism shifted the population toward the dark morph, an example of directional selection."
+  },
+  {
+    "id": 44,
+    "question": "Which one of the following statements is not part of the classical Darwinian theory of evolution by natural selection?",
+    "options": [
+      "A trait which is constantly used will get inherited by next generation",
+      "Phenotypic variations exist among the individuals of a population of a species",
+      "Individuals that best fit into a given environment are more likely to survive",
+      "Each population can randomly acquire a distinct and separate suite of variations"
+    ],
+    "correct_answer": "A trait which is constantly used will get inherited by next generation",
+    "explanation": "[CONCEPT]\nInheritance of acquired characters (use and disuse) belongs to Lamarckism, not classical Darwinism."
+  },
+  {
+    "id": 45,
+    "question": "The finches on the Galapagos Islands have widely differing beaks adapted according to their diets. This is an example of",
+    "options": [
+      "adaptive radiation",
+      "parallel evolution",
+      "adaptive convergence",
+      "co-adaptation"
+    ],
+    "correct_answer": "adaptive radiation",
+    "explanation": "[CONCEPT]\nDarwin’s finches diversified into multiple forms from a common ancestor to exploit different niches—adaptive radiation."
+  },
+  {
+    "id": 46,
+    "question": "Which one of the following animals is named as a “living fossil”, where the animal is persisting above 400 million years without further major morphological evolution?",
+    "options": [
+      "King crabs",
+      "Porcelain crabs",
+      "Horseshoe crabs",
+      "Hermit crabs"
+    ],
+    "correct_answer": "Horseshoe crabs",
+    "explanation": "[CONCEPT]\nHorseshoe crabs (Limulus) have remained morphologically stable for over 400 million years and are classic living fossils."
+  },
+  {
+    "id": 47,
+    "question": "Which one of the following factors does not contribute to “allopatric speciation”?",
+    "options": [
+      "The isolated population is exposed to different selection pressure as compared to parent population",
+      "A population becomes geographically isolated from the parent population",
+      "There is a gene flow between the two separated populations",
+      "Genetic drift occurs between the two separated populations"
+    ],
+    "correct_answer": "There is a gene flow between the two separated populations",
+    "explanation": "[CONCEPT]\nGene flow between populations prevents genetic divergence and therefore does not contribute to allopatric speciation."
+  },
+  {
+    "id": 48,
+    "question": "The genomes of both human and Drosophila code for an amylase that acts on the same substrate. However, the sequence of nucleotides in the genes encoding the two is dissimilar. This is an example of which one of the following types of evolution?",
+    "options": [
+      "Neutral",
+      "Directional",
+      "Convergent",
+      "Divergent"
+    ],
+    "correct_answer": "Convergent",
+    "explanation": "[CONCEPT]\nSimilar function arising from dissimilar sequences indicates convergent evolution at the molecular level."
+  }
+]

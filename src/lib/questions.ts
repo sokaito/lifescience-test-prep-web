@@ -295,10 +295,10 @@ export const UNIT_1_QUESTIONS = [
     "options": [
       "8×10^16",
       "3×10^21",
-      "2.4×10^32",
+      "4×10^32",
       "6.6×10^34"
     ],
-    "correctAnswer": "2.4×10^32"
+    "correctAnswer": "4×10^32"
   },
   {
     "question": "TCA cycle sequence: 2-oxoglutarate → ?",
@@ -551,12 +551,12 @@ export const UNIT_3_QUESTIONS = [
   {
     "question": "A diploid eukaryotic cell with 3.2×10^6 bp has how many nucleosomes?",
     "options": [
-      "1.2×10^4",
-      "1.6×10^4",
+      "2×10^4",
+      "6×10^4",
       "0.8×10^4",
       "0.6×10^4"
     ],
-    "correctAnswer": "1.6×10^4"
+    "correctAnswer": "6×10^4"
   },
   {
     "question": "Which statements regarding DNA as genetic material are true?",
@@ -1026,20 +1026,20 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "6.2×10^-23 eV",
       "8×10^8 eV",
-      "2.4×10^-20 eV",
-      "1.6×10^-8 eV"
+      "4×10^-20 eV",
+      "6×10^-8 eV"
     ],
-    "correctAnswer": "1.6×10^-8 eV"
+    "correctAnswer": "6×10^-8 eV"
   },
   {
     "question": "Order of given values (A,B,C,D)?",
     "options": [
-      "(A)<(B)<(C)<(D)",
-      "(A)<(B)<(D)<(C)",
-      "(B)<(A)<(C)<(D)",
-      "(B)<(A)<(D)<(C)"
+      "<(B)<(C)<(D)",
+      "<(B)<(D)<(C)",
+      "<(A)<(C)<(D)",
+      "<(A)<(D)<(C)"
     ],
-    "correctAnswer": "(B)<(A)<(C)<(D)"
+    "correctAnswer": "<(A)<(C)<(D)"
   },
   {
     "question": "TH1 vs TH2 subset differentiation cytokines?",
@@ -1292,7 +1292,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "correctAnswer": "ACTH"
   },
   {
-    "question": "Which ONE of the following is the most appropriate match for the items in Group I and Group II?\nGroup I: P. Recombination, Q. Mutation, R. Transcription, S. Translation\nGroup II: 1. DNA polymerase, 2. RNA polymerase, 3. Reverse transcriptase, 4. Amino acyl tRNA synthetase, 5. Rec A, 6. Ethidium bromide",
+    "question": "Which ONE of the following is the most appropriate match for the items in Group I and Group II?\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Recombination,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mutation,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Transcription,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Translation\nGroup II: 1. DNA polymerase, 2. RNA polymerase, 3. Reverse transcriptase, 4. Amino acyl tRNA synthetase, 5. Rec A, 6. Ethidium bromide</span></div></div>",
     "options": [
       "P-5, Q-6, R-2, S-4",
       "P-3, Q-6, R-2, S-1",
@@ -1734,12 +1734,12 @@ export const UNCATEGORIZED_QUESTIONS = [
   {
     "question": "The pH of gastric juice in the stomach is approximately:",
     "options": [
-      "1.5 - 3.5",
+      "5 - 3.5",
       "5.5 - 6.5",
       "7.0 - 8.0",
       "8.5 - 9.5"
     ],
-    "correctAnswer": "1.5 - 3.5"
+    "correctAnswer": "5 - 3.5"
   },
   {
     "question": "Which of the following is a function of the hormone Thyroxine?",
@@ -3864,12 +3864,12 @@ export const UNCATEGORIZED_QUESTIONS = [
   {
     "question": "A vector can accept an insert of 20 kb size and the recombinant vector can be replicated in E. coli. In order to make complete gene library of E. coli by using this vector, the minimum number of bacterial colonies which must be present should not be less than:",
     "options": [
-      "1.1 x 10³",
-      "4.1 x 10³",
-      "2.1 x 10⁴",
-      "1.5 x 10⁴"
+      "1 x 10³",
+      "1 x 10³",
+      "1 x 10⁴",
+      "5 x 10⁴"
     ],
-    "correctAnswer": "1.1 x 10³"
+    "correctAnswer": "1 x 10³"
   },
   {
     "question": "Scientist involved with 'Golden Rice' technology is:",
@@ -3895,11 +3895,11 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "The DNA of temperate phage P4 is linear, double stranded, 11.5 kb long and has cohesive ends. Digestion with the same enzyme yields fragments 10.5, 6.4, 4.1, and 1.0 kb in length. Circular P4 DNA made with BamHI to yield fragments in the DNA. What is the order of fragments in DNA?",
     "options": [
       "6.4-1.0-4.1",
-      "4.1-6.4-1.0",
-      "1.0-6.4-4.1",
-      "4.1-1.0-6.4"
+      "1-6.4-1.0",
+      "0-6.4-4.1",
+      "1-1.0-6.4"
     ],
-    "correctAnswer": "4.1-6.4-1.0"
+    "correctAnswer": "1-6.4-1.0"
   },
   {
     "question": "The peptide bond is rigid because it is a:",
@@ -4145,7 +4145,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "If the equilibrium constant for a chemical reaction at 20° C is 20, the standard free energy change associated with the reaction will be:",
     "options": [
       "-1.74 kcals",
-      "1.74 kcals",
+      "74 kcals",
       "0.76 kcals",
       "0.12 kcals"
     ],
@@ -5008,7 +5008,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "40 μmol/L-min",
       "80 μmol/L-min",
       "120 μmol/L-min",
-      "4.8 × 10⁶ μmol/L-min"
+      "8 × 10⁶ μmol/L-min"
     ],
     "correctAnswer": "80 μmol/L-min"
   },
@@ -6924,7 +6924,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "(mol L⁻¹)^n sec⁻¹",
       "(mol L⁻¹)^{n-1} sec⁻¹",
       "(mol L⁻¹)^n sec⁻¹",
-      "4.8 × 10⁶ μmol/l-min"
+      "8 × 10⁶ μmol/l-min"
     ],
     "correctAnswer": "(mol L⁻¹)^{n-1} sec⁻¹"
   },
@@ -6994,7 +6994,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "40 μmol/l-min",
       "80 μmol/l-min",
       "120 μmol/l-min",
-      "4.8 × 10⁶ μmol/l-min"
+      "8 × 10⁶ μmol/l-min"
     ],
     "correctAnswer": "80 μmol/l-min"
   },
@@ -8304,7 +8304,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "It is triple stranded in nature",
       "It requires only Hoogsteen hydrogen bonding",
       "It requires Watson-Crick hydrogen bonding",
-      "It forms at neutral or acidic pH"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8314,7 +8314,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "The protein to be folded by hsc70",
       "The protein to be degraded by the ubiquitin-proteasome pathway",
       "secretion of the protein",
-      "ER-retention of the protein"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8324,7 +8324,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "are not recognized by the proofreading activity of DNA polymerase",
       "can mispair with adenine",
       "can deaminate to thymidine",
-      "prevent discrimination between the daughter and parental strand"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8334,7 +8334,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Ion exchange",
       "Affinity",
       "Size exclusion",
-      "Reverse phase"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8344,7 +8344,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Tetracycline",
       "Puromycin",
       "Kanamycin",
-      "Streptomycin"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8354,7 +8354,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ATP production",
       "Glycosylation",
       "Fatty acid biosynthesis",
-      "TCA cycle"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8364,7 +8364,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "fail to reproduce in artificial media",
       "have a rigid cell wall",
       "are resistant to penicillin",
-      "stain well with Gram's stain"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8373,7 +8373,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "Finger printing",
       "Foot printing",
-      "Array printing"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8383,7 +8383,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "PRODOM",
       "PROSITE",
       "TREMBLE",
-      "DALI"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8393,7 +8393,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Dna G",
       "Dna A",
       "Lysozyme",
-      "Dna K"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8403,7 +8403,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "release of inositol 4,5-bisphosphate from a phospholipid",
       "increase in intracellular Ca2+ concentration",
       "release of diacylglycerol from phospholipid",
-      "activation of protein kinase C"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8413,7 +8413,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "clone 5' end of the DNA strand",
       "label 5'end of DNA with a dye",
       "clone 3' region of genes from mRNA",
-      "add sequences at 5' end to facilitate annealing of a specific primer"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8423,7 +8423,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "deacetylation",
       "methylation",
       "hyperacetylation",
-      "phosphorylation"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8433,7 +8433,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "COS sites",
       "random integration by the function of e-14 element in the chromosome",
       "site specific recombination",
-      "Red gene mediated recombination"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8443,7 +8443,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "genome-length RNA of CaMV",
       "subgenomic RNAs of CaMV viruses",
       "Taq polymerase-amplified DNA fragments",
-      "short RNA fragments involved in RNA silencing"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8453,7 +8453,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "specific attachment of pathogens to the cell surface",
       "formation of clathrin-coated vesicles",
       "genomic compartmentalization creating chromatin domains favourable for transcription",
-      "transport of spliced mRNA from the nucleus to the cytoplasm"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8463,7 +8463,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "developing transgenic plants with herbicide markers",
       "Post-Selection using non-antibiotic markers like pmi",
       "developing transgenic lines",
-      "elimination of markers using Cre/lox system"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8473,7 +8473,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "lactose and cAMP",
       "allolactose and cAMP",
       "cAMP",
-      "lactose"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8483,7 +8483,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Restriction endonuclease",
       "DNA gyrase",
       "DNA ligase",
-      "DNA polymerase"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8493,7 +8493,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "It stimulates cell-mediated immunity",
       "It stimulates humoral immunity",
       "Its direct antiviral action is related to the suppression of messenger RNA formation",
-      "Its action is related to the synthesis of a protein that inhibits translation or transcription"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8503,7 +8503,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "isolation of the virus",
       "identification of characteristic cells in gastric secretions",
       "detection of IgM antibody by immunofluorescence",
-      "direct detection of antigen by ELISA"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8514,7 +8514,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Plasmid",
       "Free DNA",
       "Transposons",
-      "Protein A"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8525,7 +8525,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Production of IgG and IgM antibodies",
       "opsonization",
       "activation of helper T cells",
-      "modulation of the host cell receptors in response to the toxin"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8535,7 +8535,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Fever",
       "Activation of the coagulation cascade",
       "Hypotension",
-      "Production of IgG and IgM antibodies"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8545,7 +8545,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "They belong to T-cell lineage",
       "They belong to B-cell lineage",
       "They kill bacterially infected cells",
-      "They display cytotoxic effect on tumor cells"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8555,7 +8555,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "the probability that the search result is non-random",
       "the significance of the search result",
       "the probability that the search result is obtained randomly",
-      "the reliability of the search"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8565,7 +8565,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "functional domain",
       "structurally conserved domain",
       "connective loops",
-      "hydrophobic domain"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8575,7 +8575,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "lac operon",
       "trp operon",
       "ara operon",
-      "his operon"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8585,7 +8585,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Mismatch repair",
       "Nucleotide excision repair",
       "Base excision repair",
-      "SOS repair"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8594,14 +8594,14 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "shikonin",
       "colchicine",
-      "cytokinin"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
   {
     "question": "Patentability criteria were applied to a discovery reported in high-impact journals versus a product with industrial application. Only products meeting utility, novelty, and non-obviousness were patentable. Integrating intellectual property with scientific discovery, you can patent a product only if it is",
     "options": [
-      "a major discovery reported in high impact journals"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8611,7 +8611,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "n to n+4",
       "n to n+3",
       "n to n+5",
-      "n-i to n"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8621,7 +8621,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "adds nucleotide to the 3'OH terminus of a DNA molecule",
       "adds nucleotide to the 5' P terminus of a DNA molecule",
       "removes nucleotide from the 3'OH terminus of a DNA molecule",
-      "removes nucleotide from 5' P terminus of a DNA molecule"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8631,7 +8631,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "dc/dt = -kC²",
       "dc/dt = -kC",
       "dc/dt = kC²",
-      "dc/dt = 2kC"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8641,7 +8641,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Klenow fragment of DNA Polymerase I",
       "DNA Polymerase I holoenzyme",
       "T4 DNA polymerase",
-      "S1 nuclease"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8651,7 +8651,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "OMIM",
       "Entrez",
       "PubMed",
-      "PROSITE"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8661,7 +8661,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "gene duplication",
       "gene duplication and mutation events",
       "mutation events",
-      "unequal crossing over"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8671,7 +8671,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "major groove of A-DNA",
       "minor groove of B-DNA",
       "major groove of B-DNA",
-      "sugar-phosphate backbone of A-DNA"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8681,7 +8681,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "guanine",
       "cytosine",
       "adenine",
-      "thymine"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8691,7 +8691,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "increased tolerance",
       "defective thymic selection",
       "peripheral deletion",
-      "breakdown of host immunity"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8701,7 +8701,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Helicobacter sp.",
       "Pseudomonas sp.",
       "Trichoderma sp.",
-      "Staphylococcus sp."
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8711,7 +8711,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "red cell morphology",
       "blood buffering",
       "globin synthesis",
-      "bone marrow regeneration"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8721,7 +8721,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Gossypium sp",
       "Oryza sativa",
       "Arabidopsis thaliana",
-      "Arachis hypogaea"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8731,7 +8731,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "are cytoskeletal proteins",
       "form channels which allow passage of hydrophilic molecules",
       "are fatty acids",
-      "are pores in the stem of a plant"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8741,7 +8741,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ammonification",
       "nitrogen fixation",
       "nitrification",
-      "denitrification"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8751,7 +8751,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "growth promoter",
       "stress hormone",
       "protein",
-      "polyamine"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8761,7 +8761,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "large deletions",
       "single base substitutions",
       "translocations",
-      "chromosomal rearrangements"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8771,7 +8771,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cybrid",
       "tonoplast",
       "cytoplast",
-      "duplast"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8781,7 +8781,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cytokinin synthesis",
       "auxin synthesis",
       "proline synthesis",
-      "purine synthesis"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8791,7 +8791,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "E. coli",
       "Aequorea victoria",
       "Photinus pyralis",
-      "Bacillus sp."
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8801,7 +8801,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "GA signalling",
       "ABA signalling",
       "Auxin signalling",
-      "Cytokinin signalling"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8811,7 +8811,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ammonia",
       "nitrate",
       "nitrite",
-      "nitrogen dioxide"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8821,7 +8821,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "T-DNA is nontoxic",
       "T-DNA is not required by Agrobacterium",
       "The agrobacterial genes essential for mobilization of the T-DNA lie outside the T-DNA",
-      "T-DNA cannot function in plants"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8831,7 +8831,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "it can make more transcript than needed",
       "it can cause toxicity",
       "it can cause mutation in the gene of interest",
-      "it can induce gene silencing"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8841,7 +8841,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "is an enhanced resistance exhibited by uninfected plant tissue through a memory of previous infection",
       "is a resistance exhibited by plants towards any pathogen",
       "is a resistance exhibited by a sensitive plant through breeding",
-      "is a resistance exhibited by bacterial pathogens towards a large number of antibiotics"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8851,7 +8851,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "heterochromatinization of DNA through histone tail modification",
       "post transcriptional RNA degradation",
       "degradation of proteins",
-      "heterochromatinization of DNA through methylation at cytosine residues"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8861,7 +8861,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "By adding highly concentrated substrate in the stationary phase",
       "By adding more substrate in the stationary phase",
       "By diluting the broth by sterilized water in the stationary phase",
-      "By extracting toxin from the broth in the stationary phase"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8871,7 +8871,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "10 mg/l",
       "100 mg/l",
       "160 mg/l",
-      "1 mg/l"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8881,7 +8881,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Diatomaceous earth",
       "Porcelain",
       "Asbestos pad",
-      "Sintered glass disks"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8891,7 +8891,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Filobasidiella neoformans",
       "Candida albicans",
       "Candida dermatitidis",
-      "Histoplasma capsulatum"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -8901,7 +8901,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Frei test",
       "Tuberculin test",
       "Dick test",
-      "Schultz-Charlton test"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8911,7 +8911,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "through jacket only",
       "through internal coil only",
       "through both jacket and internal coil",
-      "by sprinkling cold water on the wall of the reactor"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8919,7 +8919,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "Robersonian translocation in cattle populations was studied worldwide. Cytogenetic analysis identified it as Robertson's anomaly rather than Anderson's. Linking cytogenetics with veterinary genetics, the Robertsonian translocation that is most widely distributed in cattle populations worldwide is referred to as",
     "options": [
       "Robertson's anomaly",
-      "Anderson's anomaly"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8929,7 +8929,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "an axial flow impeller",
       "a turbine impeller",
       "baffles in the reactor",
-      "multiple impellers"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8939,7 +8939,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Streptomycin",
       "Tetracycline",
       "Chloramphenicol",
-      "Erythromycin"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8949,7 +8949,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Vitamin A",
       "Vitamin B",
       "Vitamin C",
-      "Vitamin K"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8959,7 +8959,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Poly-lysine backbone",
       "Poly-arginine backbone",
       "Poly-methionine backbone",
-      "Poly-histidine backbone"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8969,7 +8969,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Penicillin",
       "Streptomycin",
       "Tetracycline",
-      "Chloramphenicol"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -8979,7 +8979,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Chemoheterotroph",
       "Lithotroph",
       "Autotroph",
-      "Heterotroph"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -8989,7 +8989,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Neutrophilia",
       "Eosinophilia",
       "Leukopenia",
-      "Basophilia"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -8999,7 +8999,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Natural preserves",
       "Cloud forests",
       "Landscape",
-      "Biodiversity hotspots"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9009,7 +9009,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Muscle cramps",
       "Joint inflammation",
       "Hepatotoxicity",
-      "Coma and death"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9019,7 +9019,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "E. coli",
       "S. aureus",
       "Pseudomonas",
-      "Clostridia"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9029,7 +9029,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "(mol L⁻¹)^n sec⁻¹",
       "(mol L⁻¹)^{n-1} sec⁻¹",
       "(mol L⁻¹)^{n-2} sec⁻¹",
-      "(mol L⁻¹)^{n-3} sec⁻¹"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9039,7 +9039,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Square of final substrate",
       "Initial substrate concentration",
       "Final substrate concentration",
-      "Cube root of final substrate concentration"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9049,7 +9049,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "[A] versus time (t)",
       "1/[A] versus time (t)",
       "ln [A] versus time (t)",
-      "1/ln [A] versus time (t)"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9059,7 +9059,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Corynebacterium pyogenes",
       "Staphylococcus aureus",
       "Brucella abortus",
-      "Salmonella dublin"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9069,7 +9069,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "kcat/Km",
       "Vmax/Km",
       "kcat/Km",
-      "kcat/Vmax"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9079,7 +9079,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Staphylococcus",
       "Clostridium",
       "Streptococcus",
-      "Corynebacterium"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9089,7 +9089,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Competitive inhibition",
       "Uncompetitive inhibition",
       "Irreversible inhibition",
-      "Noncompetitive inhibition"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9104,7 +9104,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "40 µmol/l-min",
       "80 µmol/l-min",
       "120 µmol/l-min",
-      "4.8 × 10⁶ µmol/l-min"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9114,7 +9114,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Collision frequency increases",
       "Energy of products increases",
       "Fraction of molecules possessing energy ≥ Er (Threshold energy) increases",
-      "Mechanism of reaction is changed"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9124,7 +9124,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "e^{kX}",
       "K",
       "K/X",
-      "K X/K"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9134,7 +9134,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "STR",
       "Air-Lift reactor",
       "Bubble column reactor",
-      "Fluidized bed reactor"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9144,7 +9144,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "m³h⁻¹",
       "m⁶h⁻¹",
       "h⁻¹",
-      "dm³h⁻¹"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9154,7 +9154,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "An increase in flow rate leads to decrease in dissolved oxygen tension",
       "Cell recycle leads to increased productivity",
       "If operated with fixed flow rate, steady state is achieved by metabolic control",
-      "Maximum cell mass yield is obtained when operating at dilution rate greater than maximum specific growth rate"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9164,7 +9164,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Operon repression",
       "Enzyme repression",
       "Catabolite repression",
-      "Catabolite induction"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9174,7 +9174,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Commensalism",
       "Mutualism",
       "Parasitism",
-      "Synergism"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9184,7 +9184,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Bioremediation",
       "Biomagnification",
       "Biotoxification",
-      "Bioamplification"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9194,7 +9194,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cis-trans isomers",
       "Geometric isomers",
       "Anomers",
-      "Enantiomers"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9204,7 +9204,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Rabies",
       "Anthrax",
       "Brucellosis",
-      "Canine distemper"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9214,7 +9214,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "induce tolerance",
       "facilitatory for clearance by spleen",
       "to produce strong NK cell response",
-      "to form peptide-MHC complex"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9224,7 +9224,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "insulin",
       "ADH",
       "thyroxine",
-      "TSH"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9234,7 +9234,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "neutrophil",
       "eosinophil",
       "basophil",
-      "macrophage"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9244,7 +9244,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "dopaminergic neurons in the substantia nigra",
       "cholinergic neurons in the brain stem",
       "noradrenergic neurons in the locus coeruleus",
-      "GABA-ergic neurons in the cortex"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9254,7 +9254,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "basophil",
       "eosinophil",
       "platelet",
-      "monocyte"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9264,7 +9264,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "CCR1",
       "CCR5",
       "CXCR3",
-      "CXCR7"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9274,7 +9274,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Vesicles at the presynaptic terminal",
       "Extracellular space",
       "Intracellular space",
-      "Presynaptic terminal in free form"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9284,7 +9284,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "locus coeruleus",
       "red nucleus",
       "substantia nigra",
-      "mammillary body"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9294,7 +9294,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cholinergic",
       "Cholinoceptive",
       "Noradrenoceptive",
-      "Noradrenergic"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9304,7 +9304,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Both liver and lymph node",
       "Both spleen and liver",
       "Both lymph node and thymus",
-      "Both spleen and thymus"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9314,7 +9314,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "lentiviral vector",
       "plasmid vector",
       "episomal vector",
-      "baculoviral vector"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9322,7 +9322,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "SCID mouse model correction used gene insertion. ADA gene or SCID gene was inserted; only one restored immunity. Integrating molecular genetics with immunodeficiency, defect in the SCID mice may be cured by inserting",
     "options": [
       "ADA gene",
-      "SCID gene"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9332,7 +9332,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cancer",
       "Gout",
       "Addison's disease",
-      "Psoriasis"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9342,7 +9342,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "red, black and yellow",
       "black, white and green",
       "orange, yellow and blue",
-      "red, blue and green"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9352,7 +9352,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cerebellum",
       "cerebral cortex",
       "preoptic area",
-      "mammillary body"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9362,7 +9362,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "atopic or anaphylactic",
       "cytotoxic",
       "immune complex",
-      "delayed type"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9372,7 +9372,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Parvoviridae",
       "Adenoviridae",
       "Flaviviridae",
-      "Picornaviridae"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9382,7 +9382,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Acetylcholinergic",
       "Dopaminergic",
       "GABA-ergic",
-      "Histaminergic"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9392,7 +9392,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cytotoxic T-cell response",
       "NK-cell response",
       "Antibody response",
-      "Immediate hypersensitivity response"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9402,7 +9402,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Antibody response",
       "T-helper cell response",
       "NK-T cell response",
-      "Cytotoxic T-cell response"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9412,7 +9412,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "CD8+ cytotoxic T lymphocytes",
       "Natural Killer cells",
       "CD4+ T lymphocytes",
-      "Dendritic cells"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9422,7 +9422,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "lack of utilization of insulin",
       "lack of insulin production",
       "lack of glucose synthesis",
-      "high intake of glucose"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9432,7 +9432,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Make the patient drink glucose water",
       "Intravenous injection with steroid",
       "Make the patient drink ethanol",
-      "Make the patient drink lemon juice"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9442,7 +9442,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Toxoplasma",
       "Leishmania",
       "Trypanosoma",
-      "Plasmodium"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9452,7 +9452,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Insulin",
       "Glucagon",
       "Estradiol",
-      "Norepinephrine"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9462,7 +9462,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Paramyxovirus",
       "HIV",
       "HPV",
-      "Picornavirus"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9472,7 +9472,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "lack of NADH",
       "lack of NAD+",
       "excess supply of CO2",
-      "excess supply of O2"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9482,7 +9482,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "random coil",
       "β-sheet",
       "α-helix",
-      "β-barrel"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9492,7 +9492,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Chromosomes separate in meiosis I and chromatids separate in meiosis II",
       "Chromosomes separate in meiosis II and chromatids separate in meiosis I",
       "Chromosomes separate in both meiosis I and II",
-      "Chromatids separate in both meiosis I and II"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9502,7 +9502,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Vaccinia virus",
       "Rotavirus",
       "Rabies virus",
-      "Papilloma virus"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9512,7 +9512,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ss RNA",
       "ds RNA",
       "ss DNA",
-      "ds DNA"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9522,7 +9522,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "allelic exclusion",
       "class switching from IgM to IgG",
       "affinity maturation",
-      "V(D)J recombination"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9532,7 +9532,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "CD4⁻CD8⁻",
       "CD4⁺CD8⁺",
       "CD4⁺CD8⁻",
-      "CD4⁻CD8⁺"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9542,7 +9542,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Adenovirus",
       "SV40",
       "Parvovirus",
-      "Influenza virus"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9552,7 +9552,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "IgG2b",
       "IgG2a",
       "IgE",
-      "IgA"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9562,7 +9562,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Carbohydrate catabolic pathways",
       "Fermentative pathways",
       "TCA cycle",
-      "Ability to grow autotrophically"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9572,7 +9572,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "moles of CO2 produced / moles of O2 consumed",
       "moles of O2 consumed / moles of CO2 produced",
       "moles of biomass produced / moles of O2 produced",
-      "moles of biomass produced / moles of CO2 produced"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9582,7 +9582,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "SSLPs",
       "SNPs",
       "SNRPs",
-      "AFLPs"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9592,7 +9592,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ADA gene",
       "SCID gene",
       "SCDA gene",
-      "DAA gene"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9602,7 +9602,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "menaquinone",
       "α-tocopherol",
       "phylloquinone",
-      "retinol"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9612,7 +9612,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Streptolysin",
       "Perforin",
       "Channel",
-      "Perforin"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9622,7 +9622,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Papilloma virus",
       "Herpes simplex virus",
       "Hepatitis B virus",
-      "Vesicular stomatitis virus"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9632,7 +9632,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "axon diameter and axon length",
       "axon length and number of dendrites",
       "axon diameter and thickness of myelination",
-      "myelination and nuclear size"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9642,7 +9642,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "day time before noon",
       "day time before noon period",
       "before sunset",
-      "dark period"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9652,7 +9652,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "acetylcholine",
       "adrenaline",
       "cold saline",
-      "cold glucose solution"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9662,7 +9662,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cerebrum",
       "cerebellum",
       "hypothalamus",
-      "mammary bodies"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9672,7 +9672,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "1/16",
       "9/16",
       "1/256",
-      "81/256"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9682,7 +9682,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Somatic Hypermutation",
       "V-D-J Recombination",
       "Alternative Splicing",
-      "Gene Jumping"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9692,7 +9692,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "10⁻¹ s⁻¹",
       "10 s⁻¹",
       "10¹⁷ s⁻¹",
-      "10⁻¹⁷ s⁻¹"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9702,7 +9702,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "hypervariable regions of heavy and light chains",
       "constant regions of light chains",
       "constant regions of heavy chains",
-      "the hinge region"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9712,7 +9712,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "precipitin test",
       "complement fixation test",
       "agglutination test",
-      "indirect fluorescent-antibody test"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9722,7 +9722,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "interleukin-1",
       "gamma interferon",
       "interleukin-2",
-      "interleukin-4"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9732,7 +9732,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Glycine",
       "Glutamate",
       "Acetylcholine",
-      "Opiates"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9742,7 +9742,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Basophil",
       "Eosinophil",
       "Platelet",
-      "Monocytes"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9752,7 +9752,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "blocking the formation of hemoglobin in the host",
       "blocking the formation of hemozoin in the parasite",
       "triggering synthesis of hemoglobin in the host",
-      "triggering synthesis of hemozoin in the parasite"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9762,7 +9762,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "double stranded RNA",
       "positive sense RNA",
       "negative sense RNA",
-      "double stranded DNA"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9772,7 +9772,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "ouabain",
       "sodium azide",
       "dicumarol",
-      "phlorhizin"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9782,7 +9782,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "only noradrenergic",
       "only dopaminergic",
       "either dopaminergic or noradrenergic",
-      "only serotonergic"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9792,7 +9792,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cortex",
       "brainstem",
       "dentate gyrus",
-      "hypothalamus"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9801,7 +9801,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "anti-allotypic antibody",
       "anti-isotypic antibody",
-      "anti-idiotypic antibody"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9811,7 +9811,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "(-78, +59)",
       "(+49, +26)",
       "(-57, -40)",
-      "(-60, -40)"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9821,7 +9821,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "fold",
       "domain",
       "motif",
-      "super-fold"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9831,7 +9831,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Pro > Gly > Ala",
       "Gly > Ala > Pro",
       "Ala > Pro > Gly",
-      "Gly > Pro > Ala"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9841,7 +9841,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "alanine",
       "arginine",
       "proline",
-      "methionine"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9851,7 +9851,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "dBEST",
       "PDB",
       "OMIM",
-      "HTGS"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9861,7 +9861,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Alanine",
       "Glutamine",
       "Methionine",
-      "Cysteine"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9871,7 +9871,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "BLOSUM45 or PAM250",
       "BLOSUM45 or PAM1",
       "BLOSUM80 or PAM250",
-      "BLOSUM80 or PAM1"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9881,7 +9881,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "D-A-V-I-D",
       "D-[AVILM]-X-[DE]",
       "[DE]-[AVILM]-X-E",
-      "D-A-V-E"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9891,7 +9891,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Local",
       "Global",
       "Pair-wise",
-      "Multiple"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9899,7 +9899,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "Twilight zone in protein sequence analysis was defined using percent identity thresholds. 0-20% identity with statistical significance or without was evaluated. Linking sequence analysis with structural bioinformatics, in a sequence domain in a protein sequence",
     "options": [
       "a zone of sequence similarity (0-20% identity) but statistically not significant",
-      "a zone of sequence similarity that is statistically significant"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9909,7 +9909,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "gapped, aligned motif in a multiple sequence alignment",
       "ungapped, aligned motif in a multiple sequence alignment",
       "coding sequences",
-      "non-coding sequences"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -9919,7 +9919,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "identify open reading frames",
       "differentiate the same sequence and prokaryotic DNA sequences",
       "look for DNA-binding domains",
-      "determine STS"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9929,7 +9929,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Neural network",
       "Rule-based system",
       "Hidden Markovs model",
-      "Statistics based"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9939,7 +9939,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "search a nucleotide database using a nucleotide query",
       "search protein database using a protein query",
       "search protein database using a translated nucleotide query",
-      "search translated nucleotide database using a protein query"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9949,7 +9949,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Entrez",
       "Bioedit",
       "Vsecreen",
-      "Rasmol"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -9959,7 +9959,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Local pairwise sequence alignment",
       "Global pairwise sequence alignment",
       "Multiple sequence alignment",
-      "Structural alignment"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9969,7 +9969,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "position only",
       "momentum only",
       "both position and momentum",
-      "either position or momentum"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -9979,7 +9979,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "alignment of the target sequence to the sequence of a template structure",
       "alignment of the target sequence with multiple sequences with no structural information",
       "ab initio structure prediction",
-      "no input structure information"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9989,7 +9989,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "gap opening penalty = -2, gap extension penalty = -0.5",
       "gap opening penalty = -0.5, gap extension penalty = -2",
       "gap opening penalty = -100, gap extension penalty = 0",
-      "gap opening penalty = -100, gap extension penalty = -100"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -9999,7 +9999,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "CATH: Class, Architecture, Topology and Homology",
       "Automatic Classification of Turns and Helices",
       "Class, Architecture, Topology and Homologous superfamily",
-      "Classification of Alpha Trans-membrane Helices"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10009,7 +10009,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "sequence similarity",
       "structural similarity",
       "both sequence and structural similarity",
-      "basic physicochemical principles"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10019,7 +10019,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "PRODOM",
       "PROSITE",
       "TREMBLE",
-      "DALI"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10029,7 +10029,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "drug design",
       "protein modeling",
       "aligning two sequences",
-      "molecular dynamics simulation"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10039,7 +10039,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "it takes less time as compared to others",
       "it is more accurate",
       "it guarantees global minimum",
-      "it explicitly represents the electrons in a calculation"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10049,7 +10049,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "the sum of van der Waals radii of the atoms",
       "the existence of the maximum electrostatic interaction",
       "the situation when the first term vanishes",
-      "the situation when the atoms get bonded covalently"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10059,7 +10059,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "surface protein",
       "globular protein",
       "membrane protein",
-      "glycoprotein"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10069,7 +10069,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "upstream processing",
       "downstream processing",
       "fermentation process",
-      "formulation process"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10079,7 +10079,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "EINSTEIN",
       "CRICK",
       "FARADAY",
-      "WATSON"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10089,7 +10089,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "arrangement of one protein chain in a protein with a single subunit",
       "arrangement of separate protein chains in a protein molecule with more than one subunit",
       "arrangement of only parallel and antiparallel β-sheets in a protein chain",
-      "occurrence of an alpha-helix bundle in a protein chain"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10099,7 +10099,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Neovastat",
       "Chloramphenicol",
       "Streptomycin",
-      "Histamine"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10109,7 +10109,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Tetrodotoxin",
       "Conotoxin",
       "Carrageenan",
-      "Acetyl choline"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10119,7 +10119,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Green Fluorescent protein",
       "Anti freezing protein",
       "Horseradish peroxidase",
-      "Myosin protein"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10129,7 +10129,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cathelesine",
       "Echinoderms",
       "Coral reefs",
-      "Molluscs"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10139,7 +10139,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Cathelesine",
       "Spongosides",
       "Spongin",
-      "Selenin"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10149,7 +10149,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "mollusk",
       "sea weeds",
       "sponges",
-      "mangrove"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10158,7 +10158,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "actinomycetes",
       "cyanobacterium",
-      "aspergillus"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10168,7 +10168,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "cholinergic",
       "peptidergic",
       "dopaminergic",
-      "serotoninergic"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10178,7 +10178,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Shrimp",
       "Cuttle fish",
       "Isopods",
-      "Polychaetes"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10188,7 +10188,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "DNAse",
       "Polymerase",
       "Helicase",
-      "Telomerase"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10198,7 +10198,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Pressure shock",
       "Thermal shock",
       "6-dimethylaminopurine",
-      "Osmotic shock"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10208,7 +10208,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "α-glucoside",
       "α-galactoside",
       "biopterin glucoside",
-      "biopterin galactoside"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10218,7 +10218,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "conjugation",
       "recombination",
       "quorum sensing",
-      "secreting pheromones"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10228,7 +10228,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Agmenellum sp.",
       "Spirulina sp.",
       "Oscillatoria sp.",
-      "Nostoc sp."
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10237,7 +10237,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "options": [
       "relaxed plasmids",
       "stringent",
-      "cryptic"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10247,7 +10247,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Barnacles",
       "Bryozoans",
       "Sea anemone",
-      "Mussels"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10257,7 +10257,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Saxitoxin",
       "Tetrodotoxin",
       "Ecleinasciidin",
-      "Dolastatin"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10267,7 +10267,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "sea cucumber",
       "sea anemone",
       "sea urchin",
-      "hermit crab"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10277,7 +10277,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "p53",
       "cyclins",
       "P27",
-      "cyclin dependent kinase"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10287,7 +10287,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "luxR",
       "luxI",
       "recA",
-      "luciferase"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10297,7 +10297,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "star fish",
       "sponges",
       "red algae",
-      "corals"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10307,7 +10307,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "sensation",
       "respiration",
       "immunity",
-      "reproduction"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10317,7 +10317,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "phenol oxidase",
       "alpha-glucosidase",
       "prophenol oxidase",
-      "all the above"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10325,7 +10325,7 @@ export const UNCATEGORIZED_QUESTIONS = [
     "question": "Salt tolerant gene source was identified from halophytes. Fishes and mangroves were screened; only one provided the gene. Integrating marine biotechnology with stress tolerance, the best source for salt tolerant gene is",
     "options": [
       "fishes",
-      "mangroves"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10335,7 +10335,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "seaweeds",
       "mangroves",
       "mussels",
-      "sea anemones"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10345,7 +10345,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Metalloprotease",
       "Phytochelatins",
       "Metallothioneins",
-      "Phycobilins"
+      "(C)"
     ],
     "correctAnswer": "(C)"
   },
@@ -10355,7 +10355,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Vincristine",
       "Carboplatin",
       "Vinblastin",
-      "Ara C"
+      "(D)"
     ],
     "correctAnswer": "(D)"
   },
@@ -10365,7 +10365,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "Bird watch programme",
       "Mussel watch programme",
       "Fish watch programme",
-      "Bay of Bengal programme"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10375,7 +10375,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "HSV",
       "WSSV",
       "HIV",
-      "HPV"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },
@@ -10385,7 +10385,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "brown algae",
       "green algae",
       "red algae",
-      "blue green algae"
+      "(A)"
     ],
     "correctAnswer": "(A)"
   },
@@ -10395,7 +10395,7 @@ export const UNCATEGORIZED_QUESTIONS = [
       "500 nautical miles",
       "200 nautical miles",
       "300 nautical miles",
-      "100 nautical miles"
+      "(B)"
     ],
     "correctAnswer": "(B)"
   },

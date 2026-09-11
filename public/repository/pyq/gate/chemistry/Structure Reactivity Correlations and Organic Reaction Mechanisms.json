@@ -1,0 +1,1622 @@
+[
+  {
+    "id": 1,
+    "question": "Which one of the following alcohols will react most easily with HBr to give the corresponding bromide?",
+    "options": [
+      "CH₃OH",
+      "(CH₃)₃COH",
+      "CH₃CH₂OH",
+      "(CH₃)₂CHOH"
+    ],
+    "correct_answer": "(CH₃)₃COH",
+    "explanation": "[CONCEPT]\nStep 1: Reaction of alcohols with HBr proceeds via protonation and carbocation formation. The 3° carbocation (CH₃)₃C⁺ formed from tert-butanol is exceptionally stable (hyperconjugation and +I effect), making it react most rapidly."
+  },
+  {
+    "id": 2,
+    "question": "During the nitration of benzene with concentrated HNO₃ – H₂SO₄, the nitrating species is",
+    "options": [
+      "NHO₂",
+      "NO₂",
+      "NO₂⁺",
+      "NO₂⁻"
+    ],
+    "correct_answer": "NO₂⁺",
+    "explanation": "[CONCEPT]\nStep 1: H₂SO₄ protonates HNO₃ to generate the electrophilic nitronium ion NO₂⁺: HNO₃ + 2 H₂SO₄ ⇌ NO₂⁺ + H₃O⁺ + 2 HSO₄⁻."
+  },
+  {
+    "id": 3,
+    "question": "The major product obtained for the reaction 2-methyl-2-butene with 50% H₂SO₄ in water is",
+    "options": [
+      "2-methyl-2-butanol.",
+      "3-methyl-2-butanol.",
+      "3-methyl-1-butanol.",
+      "2-methyl-1-butanol."
+    ],
+    "correct_answer": "2-methyl-2-butanol.",
+    "explanation": "[CONCEPT]\nStep 1: Acid-catalyzed hydration follows Markovnikov's rule. Protonation gives the stable 3° carbocation (CH₃)₂C⁺–CH₂CH₃, which reacts with H₂O to give 2-methyl-2-butanol."
+  },
+  {
+    "id": 4,
+    "question": "The correct decreasing order of nucleophilic character of the following species is",
+    "options": [
+      "H₂O > Cl⁻ > NH₃ > OH⁻",
+      "NH₃ > H₂O > Cl⁻ > OH⁻",
+      "OH⁻ > Cl⁻ > NH₃ > H₂O",
+      "Cl⁻ > OH⁻ > H₂O > NH₃"
+    ],
+    "correct_answer": "OH⁻ > Cl⁻ > NH₃ > H₂O",
+    "explanation": "[CONCEPT]\nStep 1: Negatively charged nucleophiles are stronger than neutral species (OH⁻, Cl⁻ > NH₃, H₂O). Less electronegative nitrogen in NH₃ makes it more nucleophilic than H₂O."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following species is aromatic?",
+    "options": [
+      "Cyclopentadiene",
+      "Cycloheptatriene",
+      "Cyclopropenyl cation",
+      "Cyclooctatetraene"
+    ],
+    "correct_answer": "Cyclopropenyl cation",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopropenyl cation has 2 π electrons in a cyclic planar conjugated ring, satisfying Hückel's (4n+2) rule with n = 0."
+  },
+  {
+    "id": 6,
+    "question": "The reaction of 1-octyne with HgSO₄ – H₂SO₄, H₂O will give",
+    "options": [
+      "octan-1-one.",
+      "octan-2-one.",
+      "octan-3-one.",
+      "oct-1-ene."
+    ],
+    "correct_answer": "octan-2-one.",
+    "explanation": "[CONCEPT]\nStep 1: Oxymercuration-hydration of terminal alkynes follows Markovnikov addition to yield an enol that tautomerizes to methyl ketone (octan-2-one)."
+  },
+  {
+    "id": 7,
+    "question": "The correct order of decreasing rate of dehydrohalogenation of alkyl halides is",
+    "options": [
+      "RBr > RI > RCl > RF",
+      "RI > RBr > RCl > RF",
+      "RI > RBr > RF > RCl",
+      "RI > RF > RBr > RCl"
+    ],
+    "correct_answer": "RI > RBr > RCl > RF",
+    "explanation": "[CONCEPT]\nStep 1: Rate of elimination depends on leaving group ability: I⁻ > Br⁻ > Cl⁻ > F⁻ due to increasing C–X bond strength and basicity."
+  },
+  {
+    "id": 8,
+    "question": "The reaction of sodium-phenoxide with CO₂ at high temperature and pressure followed by acidification gives",
+    "options": [
+      "p-hydroxy benzoic acid.",
+      "m-hydroxy benzoic acid.",
+      "o-hydroxy benzoic acid.",
+      "p-hydroxy sodium benzoate."
+    ],
+    "correct_answer": "o-hydroxy benzoic acid.",
+    "explanation": "[CONCEPT]\nStep 1: The Kolbe-Schmitt reaction involves electrophilic attack of CO₂ on sodium phenoxide, with Na⁺ chelation directing substitution ortho to yield salicylic acid (o-hydroxybenzoic acid)."
+  },
+  {
+    "id": 9,
+    "question": "When 1-butyne is treated with sulphuric acid in the presence of mercuric sulphate, the stable product formed is",
+    "options": [
+      "butyl sulphate.",
+      "butan-2-one.",
+      "2-buten-1-ol.",
+      "butynediol."
+    ],
+    "correct_answer": "butan-2-one.",
+    "explanation": "[CONCEPT]\nStep 1: Hydration of 1-butyne in presence of HgSO₄/H₂SO₄ produces the enol CH₃CH₂C(OH)=CH₂ which tautomerizes to butan-2-one."
+  },
+  {
+    "id": 10,
+    "question": "The compound that will not give chloroform on treatment with Cl₂/NaOH is",
+    "options": [
+      "propanone.",
+      "ethanol.",
+      "ethanal.",
+      "propanol."
+    ],
+    "correct_answer": "propanol.",
+    "explanation": "[CONCEPT]\nStep 1: 1-Propanol oxidizes to propanal (CH₃CH₂CHO), which lacks the required CH₃C=O methyl ketone unit and fails the haloform test."
+  },
+  {
+    "id": 11,
+    "question": "Most reactive compound towards formation of cyanohydrin on treatment with KCN followed by acidification is",
+    "options": [
+      "benzaldehyde.",
+      "phenylacetylaldehyde.",
+      "p-nitrobenzaldehyde.",
+      "p-hydroxy benzaldehyde."
+    ],
+    "correct_answer": "p-nitrobenzaldehyde.",
+    "explanation": "[CONCEPT]\nStep 1: The strongly electron-withdrawing −NO₂ group at the para position increases electrophilicity of the carbonyl carbon towards CN⁻ attack."
+  },
+  {
+    "id": 12,
+    "question": "The compound with highest pKa is expected to be",
+    "options": [
+      "nitrophenol.",
+      "p-chlorophenol.",
+      "p-methylphenol.",
+      "p-methoxyphenol."
+    ],
+    "correct_answer": "p-methoxyphenol.",
+    "explanation": "[CONCEPT]\nStep 1: Highest pKa corresponds to the weakest acid. The −OCH₃ group donates electron density strongly via +M resonance, destabilizing the phenoxide anion and making p-methoxyphenol the least acidic."
+  },
+  {
+    "id": 13,
+    "question": "The method that would provide the highest yield of pure ethylbenzene is the reaction of benzene with",
+    "options": [
+      "ethanol and sulphuric acid.",
+      "ethyl chloride in the presence of aluminum chloride.",
+      "acetyl chloride in the presence of aluminum chloride followed by reduction with LiAlH₄.",
+      "ethanoyl chloride in the presence of aluminum chloride."
+    ],
+    "correct_answer": "acetyl chloride in the presence of aluminum chloride followed by reduction with LiAlH₄.",
+    "explanation": "[CONCEPT]\nStep 1: Friedel-Crafts acylation gives clean monoacetophenone without polyalkylation, which on reduction gives pure ethylbenzene."
+  },
+  {
+    "id": 14,
+    "question": "Most reactive halide towards SN1 reaction is",
+    "options": [
+      "n-butyl chloride.",
+      "sec-butyl chloride.",
+      "tert-butyl chloride.",
+      "allyl chloride."
+    ],
+    "correct_answer": "tert-butyl chloride.",
+    "explanation": "[CONCEPT]\nStep 1: tert-Butyl chloride readily ionizes to form a stable 3° carbocation stabilized by 9 hyperconjugative hydrogens."
+  },
+  {
+    "id": 15,
+    "question": "Aldol condensation will not be observed in",
+    "options": [
+      "chloral.",
+      "phenyl acetaldehyde.",
+      "cyclohexenal.",
+      "nitromethane."
+    ],
+    "correct_answer": "chloral.",
+    "explanation": "[CONCEPT]\nStep 1: Chloral (CCl₃CHO) has no α-hydrogen atoms, so it cannot form an enolate to undergo aldol condensation."
+  },
+  {
+    "id": 16,
+    "question": "Toluene on reaction with N-bromosuccinimide gives",
+    "options": [
+      "p-bromomethyl benzene.",
+      "o-bromomethyl benzene.",
+      "phenyl bromomethane.",
+      "m-bromomethyl benzene."
+    ],
+    "correct_answer": "phenyl bromomethane.",
+    "explanation": "[CONCEPT]\nStep 1: NBS selectively brominates the benzylic C–H position via a free-radical mechanism, producing benzyl bromide (phenyl bromomethane)."
+  },
+  {
+    "id": 17,
+    "question": "Isobutyl alcohol is prepared from the reaction of",
+    "options": [
+      "CH₃CH₂MgBr and CH₃CHO.",
+      "CH₃MgBr and CH₃CH₂CHO.",
+      "(CH₃)₂CHMgBr and HCHO.",
+      "CH₃MgBr and CH₃COCH₃."
+    ],
+    "correct_answer": "(CH₃)₂CHMgBr and HCHO.",
+    "explanation": "[CONCEPT]\nStep 1: Reaction of isopropyl magnesium bromide (CH₃)₂CHMgBr with formaldehyde (HCHO) followed by hydrolysis yields isobutyl alcohol (CH₃)₂CHCH₂OH."
+  },
+  {
+    "id": 18,
+    "question": "The major product obtained by the dehydration of 1-methylcyclohexanol is",
+    "options": [
+      "1-methylcyclohexene.",
+      "3-methylcyclohexene.",
+      "4-methylcyclohexene.",
+      "methylcyclohexane."
+    ],
+    "correct_answer": "1-methylcyclohexene.",
+    "explanation": "[CONCEPT]\nStep 1: Dehydration follows Saytzeff's rule to produce the most substituted, thermodynamically stable endocyclic alkene (1-methylcyclohexene)."
+  },
+  {
+    "id": 19,
+    "question": "Reaction of aniline with chloroform and KOH produces",
+    "options": [
+      "ortho-chloroaniline.",
+      "phenylisocyanide.",
+      "benzoic acid.",
+      "N-bromoacetanilide."
+    ],
+    "correct_answer": "phenylisocyanide.",
+    "explanation": "[CONCEPT]\nStep 1: Carbylamine reaction: Primary amine C₆H₅NH₂ + CHCl₃ + 3 KOH → C₆H₅NC (phenyl isocyanide, offensive smell) + 3 KCl + 3 H₂O."
+  },
+  {
+    "id": 20,
+    "question": "The major product formed on bromination of acetanilide is",
+    "options": [
+      "ortho-bromoacetanilide.",
+      "meta-bromoacetanilide.",
+      "para-bromoacetanilide.",
+      "N-bromoacetanilide."
+    ],
+    "correct_answer": "para-bromoacetanilide.",
+    "explanation": "[CONCEPT]\nStep 1: The bulky acetamido group (−NHCOCH₃) sterically blocks the ortho position, directing electrophilic bromination selectively to the para position."
+  },
+  {
+    "id": 21,
+    "question": "Among the following, the one that is aromatic is",
+    "options": [
+      "cyclohexadienyl cation.",
+      "cycloheptatrienyl cation.",
+      "cyclopentadienyl cation.",
+      "cyclopropyl cation."
+    ],
+    "correct_answer": "cyclopropyl cation.",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopropenyl cation has 2 π electrons in a fully conjugated 3-membered ring obeying Hückel's 4n+2 rule (n=0)."
+  },
+  {
+    "id": 22,
+    "question": "The number of stereoisomers possible for 2-bromo-3-chlorobutane is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: 2-Bromo-3-chlorobutane has two non-identical chiral centers (C2 and C3), giving 2² = 4 stereoisomers (two pairs of enantiomers)."
+  },
+  {
+    "id": 23,
+    "question": "The solid product formed by the reaction of ammonia with formaldehyde is",
+    "options": [
+      "ammonium formate.",
+      "formaldehyde imine.",
+      "hexamethylene tetramine.",
+      "formamide."
+    ],
+    "correct_answer": "hexamethylene tetramine.",
+    "explanation": "[CONCEPT]\nStep 1: 6 HCHO + 4 NH₃ → (CH₂)₆N₄ (hexamethylenetetramine / Urotropine) + 6 H₂O."
+  },
+  {
+    "id": 24,
+    "question": "Conversion of benzaldehyde to cinnamic acid is known as",
+    "options": [
+      "Perkin reaction.",
+      "Reimer-Tiemann reaction.",
+      "Cannizzaro reaction.",
+      "Kolbe reaction."
+    ],
+    "correct_answer": "Perkin reaction.",
+    "explanation": "[CONCEPT]\nStep 1: Perkin condensation of benzaldehyde with acetic anhydride in the presence of sodium acetate yields cinnamic acid."
+  },
+  {
+    "id": 25,
+    "question": "Which one of the following compounds is most acidic?",
+    "options": [
+      "Protonated methanol",
+      "Protonated methylamine",
+      "Acetic acid",
+      "Methanol"
+    ],
+    "correct_answer": "Protonated methanol",
+    "explanation": "[CONCEPT]\nStep 1: Protonated methanol (CH₃OH₂⁺) has pKa ≈ −2.5, making it by far the strongest acid among the given choices."
+  },
+  {
+    "id": 26,
+    "question": "For a compound to be aromatic how many π-electrons must be in the π-cloud?",
+    "options": [
+      "An even number of pairs.",
+      "An odd number.",
+      "An even number.",
+      "An odd number of pairs."
+    ],
+    "correct_answer": "An even number.",
+    "explanation": "[CONCEPT]\nStep 1: By Hückel's rule, aromatic systems contain (4n+2) π-electrons, which is always an even integer (2, 6, 10, 14 electrons)."
+  },
+  {
+    "id": 27,
+    "question": "Which one of the following alkyl halides would be the most stable in water?",
+    "options": [
+      "Cyclopropenyl bromide",
+      "Cyclopentadienyl bromide",
+      "Cyclopropyl bromide",
+      "Bromobenzene"
+    ],
+    "correct_answer": "Cyclopropenyl bromide",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopropenyl bromide ionizes in water to form the aromatic cyclopropenyl cation (2 π e⁻), which is stabilized by aromaticity."
+  },
+  {
+    "id": 28,
+    "question": "What starting materials must be used in order to have a 1,4-cyclohexadiene to be product of a Diels-Alder reaction?",
+    "options": [
+      "A conjugated diene and an alkene.",
+      "A conjugated diene and an alkyne.",
+      "A 1,4-diene and an alkyne.",
+      "A 1,2-diene and an alkyne."
+    ],
+    "correct_answer": "A conjugated diene and an alkyne.",
+    "explanation": "[CONCEPT]\nStep 1: [4+2] Cycloaddition of a conjugated diene with an alkyne (dienophile with triple bond) leaves one double bond from the alkyne, forming 1,4-cyclohexadiene."
+  },
+  {
+    "id": 29,
+    "question": "Which one of the following statements is not true for borazine and benzene?",
+    "options": [
+      "They are isoelectronic.",
+      "Both are aromatic.",
+      "Both undergo addition reactions.",
+      "Both undergo substitution reactions."
+    ],
+    "correct_answer": "Both undergo addition reactions.",
+    "explanation": "[CONCEPT]\nStep 1: Benzene strongly resists addition and undergoes electrophilic substitution, whereas polar borazine readily undergoes addition reactions."
+  },
+  {
+    "id": 30,
+    "question": "Which one of the following reaction sequences will convert toluene to p-chlorobenzoic acid?",
+    "options": [
+      "(i) Cl₂/light, (ii) Hot KMnO₄/H⁺",
+      "(i) Hot KMnO₄/H⁺, (ii) Cl₂/FeCl₃",
+      "(i) Cl₂/FeCl₃, (ii) Hot KMnO₄/H⁺",
+      "(i) N-Chlorosuccinimide, (ii) Hot KMnO₄/H⁺"
+    ],
+    "correct_answer": "(i) Cl₂/FeCl₃, (ii) Hot KMnO₄/H⁺",
+    "explanation": "[CONCEPT]\nStep 1: Chlorination of toluene with Cl₂/FeCl₃ directs para to give p-chlorotoluene. Oxidation with hot KMnO₄/H⁺ oxidizes −CH₃ to −COOH, giving p-chlorobenzoic acid."
+  },
+  {
+    "id": 31,
+    "question": "For 2,3-dibromobutane, which one of the following statements is true?",
+    "options": [
+      "(2S, 3S) and (2R, 3S) is a pair of diastereomers; (2R, 3R) and (2S, 3S) is a pair of enantiomers.",
+      "(2S, 3S) and (2R, 3S) is a pair of diastereomers; (2R, 3S) and (2S, 3R) is a pair of enantiomers.",
+      "(2R, 3R) and (2S, 3S) is a pair of diastereomers; (2S, 3S) and (2R, 3S) is a pair of enantiomers.",
+      "(2R, 3R) and (2S, 3S) is a pair of diastereomers; (2R, 3R) and (2S, 3S) is a pair of enantiomers."
+    ],
+    "correct_answer": "(2S, 3S) and (2R, 3S) is a pair of diastereomers; (2R, 3R) and (2S, 3S) is a pair of enantiomers.",
+    "explanation": "[CONCEPT]\nStep 1: (2R,3R) and (2S,3S) are non-superimposable mirror images (enantiomers), while (2S,3S) and the meso form (2R,3S) are diastereomers."
+  },
+  {
+    "id": 32,
+    "question": "When trans-1-bromo-2-methylcyclohexane reacts with methoxide ion, what products are formed under SN2 and SN1 conditions?",
+    "options": [
+      "SN2 and SN1 both form cis and trans-1-methoxy-2-methylcyclohexane.",
+      "SN2 forms cis-1-methoxy-2-methylcyclohexane, and SN1 forms cis and trans-1-methoxy-2-methylcyclohexane.",
+      "SN2 forms cis-1-methoxy-2-methylcyclohexane, and SN1 forms 1-methoxy-1-methylcyclohexane.",
+      "SN2 forms cis-1-methoxy-2-methylcyclohexane, and SN1 forms trans-1-methoxy-2-methylcyclohexane."
+    ],
+    "correct_answer": "SN2 forms cis-1-methoxy-2-methylcyclohexane, and SN1 forms 1-methoxy-1-methylcyclohexane.",
+    "explanation": "[CONCEPT]\nStep 1: SN2 gives inversion (cis-1-methoxy-2-methylcyclohexane). SN1 involves a 2° carbocation rearranging via 1,2-hydride shift to 3° carbocation, yielding 1-methoxy-1-methylcyclohexane."
+  },
+  {
+    "id": 33,
+    "question": "What product(s) is (are) formed when HBr is eliminated from (2S, 3S)-2-bromo-3-phenylbutane in an E2 reaction?",
+    "options": [
+      "(Z)-2-Phenyl-2-butene",
+      "(Z) and (E)-2-phenyl-2-butene",
+      "(E)-2-Phenyl-2-butene",
+      "(E)-3-Methyl-3-phenyl-1-butene"
+    ],
+    "correct_answer": "(E)-2-Phenyl-2-butene",
+    "explanation": "[CONCEPT]\nStep 1: Anti-periplanar E2 elimination of (2S,3S) isomer stereospecifically produces (E)-2-phenyl-2-butene."
+  },
+  {
+    "id": 34,
+    "question": "The major product that would be formed in a Diels-Alder reaction between (E)-penta-1,3-diene and methyl acrylate is",
+    "options": [
+      "1,2-product (ortho) with Me and CO₂Me cis to each other.",
+      "1,2-product (endo) with Me and CO₂Me trans to each other.",
+      "1,3-product (meta) with Me and CO₂Me cis to each other.",
+      "1,3-product (meta) with Me and CO₂Me trans to each other."
+    ],
+    "correct_answer": "1,2-product (endo) with Me and CO₂Me trans to each other.",
+    "explanation": "[CONCEPT]\nStep 1: Regioselectivity gives ortho (1,2) product, and Alder endo addition places the ester group endo, resulting in trans relative orientation of Me and CO₂Me."
+  },
+  {
+    "id": 35,
+    "question": "How many resonance structure contributors can be written for the carbocation intermediate formed when phenol undergoes electrophilic substitution in the ortho, meta and para positions?",
+    "options": [
+      "Ortho: 3, meta: 3, and para: 4",
+      "Ortho: 3, meta: 3, and para: 3",
+      "Ortho: 4, meta: 3, and para: 4",
+      "Ortho: 3, meta: 4, and para: 3"
+    ],
+    "correct_answer": "Ortho: 4, meta: 3, and para: 4",
+    "explanation": "[CONCEPT]\nStep 1: Ortho and para arenium ions have 4 resonance structures (including the oxygen lone-pair delocalized oxonium form), whereas meta has only 3 structures."
+  },
+  {
+    "id": 36,
+    "question": "Of the following: (I) Cyclopropenyl cation, (II) Cyclopentadiene, (III) Cyclooctatetraene, (IV) Tropylium cation; the compounds that are aromatic are",
+    "options": [
+      "I, IV",
+      "I, II, IV",
+      "II, III, IV",
+      "II, IV"
+    ],
+    "correct_answer": "I, IV",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopropenyl cation (2 π e⁻) and Tropylium cation (6 π e⁻) are aromatic; cyclopentadiene is non-aromatic (sp³ carbon), and COT is non-planar tub-shaped."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following compounds can have enantiomers?",
+    "options": [
+      "II, III, IV",
+      "I, III, IV",
+      "III, IV",
+      "I, III"
+    ],
+    "correct_answer": "I, III, IV",
+    "explanation": "[CONCEPT]\nStep 1: Chiral molecules devoid of plane of symmetry and inversion center can exist as enantiomeric pairs."
+  },
+  {
+    "id": 38,
+    "question": "The order (from I to III) in which the reactions below follow SN1 and SN2 mechanism is: (I) CH₃–CH(Br)–C₆H₅ + EtOH; (II) CH₃I + t-BuO⁻ in t-BuOH; (III) 2-chloropropane + CH₃COO⁻ in acetone",
+    "options": [
+      "SN1, SN2, SN2",
+      "SN2, SN1, SN2",
+      "SN1, SN2, SN1",
+      "SN2, SN2, SN1"
+    ],
+    "correct_answer": "SN1, SN2, SN2",
+    "explanation": "[CONCEPT]\nStep 1: I is 2° benzylic in protic solvent (SN1); II is methyl halide (SN2); III is in polar aprotic solvent (SN2)."
+  },
+  {
+    "id": 39,
+    "question": "The products 'X' and 'Y' of the following reaction are: CH₃CH₂COOEt + (i) 2 PhMgBr, (ii) H⁺/H₂O → X ⎯(conc. H₂SO₄, Δ)→ Y",
+    "options": [
+      "CH₃CH₂C(OH)Ph₂ and CH₃CH=CPh₂",
+      "CH₃CH₂CH(OH)Ph and CH₃CH₂COPh",
+      "CH₃CH₂CH(OH)Ph and CH₃CH₂C(OH)Ph₂",
+      "CH₃CH₂C(OH)Ph₂ and CH₂=C=CPh₂"
+    ],
+    "correct_answer": "CH₃CH₂C(OH)Ph₂ and CH₃CH=CPh₂",
+    "explanation": "[CONCEPT]\nStep 1: Ester reacts with 2 PhMgBr to give 3° alcohol CH₃CH₂C(OH)Ph₂ (X), which dehydrates to conjugated alkene CH₃CH=CPh₂ (Y)."
+  },
+  {
+    "id": 40,
+    "question": "p-Cresol (4-methylphenol) reacts with two molar equivalents of isobutylene in the presence of HCl and AlCl₃ to give an antioxidant. The structure is",
+    "options": [
+      "2-tert-butyl-4-methylphenol",
+      "2,5-di-tert-butyl-4-methylphenol",
+      "2,3,6-tri-tert-butyl-4-methylphenol",
+      "2,6-di-tert-butyl-4-methylphenol (BHT)"
+    ],
+    "correct_answer": "2,6-di-tert-butyl-4-methylphenol (BHT)",
+    "explanation": "[CONCEPT]\nStep 1: Electrophilic alkylation occupies both ortho positions to the −OH group, forming 2,6-di-tert-butyl-4-methylphenol (BHT)."
+  },
+  {
+    "id": 41,
+    "question": "Which one of the following is aromatic?",
+    "options": [
+      "Cyclooctatetraene",
+      "Biphenyl",
+      "1,3,5-Hexatriene",
+      "Pentalene"
+    ],
+    "correct_answer": "Biphenyl",
+    "explanation": "[CONCEPT]\nStep 1: In biphenyl, each benzene ring possesses 6 π-electrons and is individually planar and aromatic, obeying Hückel's rule."
+  },
+  {
+    "id": 42,
+    "question": "Identify the product of the reaction: Benzoic acid + NH₄NO₂ / (CF₃CO)₂O → Product",
+    "options": [
+      "o-Nitrobenzoic acid",
+      "m-Nitrobenzoic acid",
+      "p-Nitrobenzoic acid",
+      "2,4-Dinitrobenzoic acid"
+    ],
+    "correct_answer": "m-Nitrobenzoic acid",
+    "explanation": "[CONCEPT]\nStep 1: The −COOH group is strongly meta-directing and deactivating, so nitration yields m-nitrobenzoic acid."
+  },
+  {
+    "id": 43,
+    "question": "Which one of the following is most acidic?",
+    "options": [
+      "Butanoic acid",
+      "3-Chlorobutanoic acid",
+      "2-Chlorobutanoic acid",
+      "4-Chlorobutanoic acid"
+    ],
+    "correct_answer": "2-Chlorobutanoic acid",
+    "explanation": "[CONCEPT]\nStep 1: The −I inductive effect of chlorine decreases with distance from the carboxyl group. In 2-chlorobutanoic acid, Cl is at the α-position, providing maximum stabilization to the carboxylate anion."
+  },
+  {
+    "id": 44,
+    "question": "Total number of stereoisomers possible in CH₃–CH(Ph)–CH=CHCH₃ is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: The compound has 1 chiral center (R/S = 2 isomers) and 1 carbon-carbon double bond (cis/trans = 2 isomers). Total stereoisomers = 2 × 2 = 4."
+  },
+  {
+    "id": 45,
+    "question": "Identify the product for the Diels-Alder reaction between 1,2-dimethylenecyclohexane and an alkene dienophile:",
+    "options": [
+      "Adduct with double bond at bridgehead",
+      "Octahydronaphthalene derivative",
+      "Cyclooctadiene derivative",
+      "Fused cyclobutane derivative"
+    ],
+    "correct_answer": "Octahydronaphthalene derivative",
+    "explanation": "[CONCEPT]\nStep 1: [4+2] Cycloaddition of the exocyclic conjugated diene with the dienophile forms a fused bicyclic octahydronaphthalene ring system."
+  },
+  {
+    "id": 46,
+    "question": "Major product of the reaction: Cyclohexanone + HCO₂Et + (i) NaOEt (1 eq), (ii) H₃O⁺ → Product",
+    "options": [
+      "Ethyl cyclohexanecarboxylate",
+      "2-Formylcyclohexanone (hydroxymethylene cyclohexanone)",
+      "2-Acetylcyclohexanone",
+      "Cyclohexyl formate"
+    ],
+    "correct_answer": "2-Formylcyclohexanone (hydroxymethylene cyclohexanone)",
+    "explanation": "[CONCEPT]\nStep 1: Claisen ester condensation of cyclohexanone enolate with ethyl formate introduces a formyl (−CHO) group at the α-position to yield 2-formylcyclohexanone."
+  },
+  {
+    "id": 47,
+    "question": "3,3-Dimethyl-1-butene on reaction with hydrochloric acid produces a halogenated compound as major product. The product is",
+    "options": [
+      "Me₃C–CH(Cl)–CH₃",
+      "Me₃C–CH₂–CH₂Cl",
+      "Me₂C(Cl)–CHMe₂",
+      "Me₂C(Cl)–CH₂CH₂CH₃"
+    ],
+    "correct_answer": "Me₂C(Cl)–CHMe₂",
+    "explanation": "[CONCEPT]\nStep 1: Protonation of 3,3-dimethyl-1-butene gives a 2° carbocation Me₃C–C⁺H–CH₃ which undergoes a 1,2-methyl shift to form the more stable 3° carbocation Me₂C⁺–CH(Me)₂, yielding 2-chloro-2,3-dimethylbutane."
+  },
+  {
+    "id": 48,
+    "question": "3,3-Dimethyl-1-butene treated with Hg(OCOCH₃)₂ followed by alkaline NaBH₄ produces",
+    "options": [
+      "Me₂C(OH)–CHMe₂",
+      "Me₂C(OH)–CH₂CH₂CH₃",
+      "Me₃C–CH₂–CH₂OH",
+      "Me₃C–CH(OH)–CH₃"
+    ],
+    "correct_answer": "Me₃C–CH(OH)–CH₃",
+    "explanation": "[CONCEPT]\nStep 1: Oxymercuration-demercuration occurs without carbocation rearrangement, giving Markovnikov addition of H₂O to yield 3,3-dimethylbutan-2-ol."
+  },
+  {
+    "id": 49,
+    "question": "Ethylbenzene reacts with N-bromosuccinimide (NBS) to produce compound 'X'. X is",
+    "options": [
+      "p-Bromoethylbenzene",
+      "o-Bromoethylbenzene",
+      "2-Bromoethylbenzene",
+      "1-Bromo-1-phenylethane"
+    ],
+    "correct_answer": "1-Bromo-1-phenylethane",
+    "explanation": "[CONCEPT]\nStep 1: NBS selectively brominates the benzylic C–H position via free radical mechanism to give 1-bromo-1-phenylethane."
+  },
+  {
+    "id": 50,
+    "question": "'X' (1-bromo-1-phenylethane) on treatment with t-BuOK in butanol provides 'Y'. The product Y is",
+    "options": [
+      "Styrene (PhCH=CH₂)",
+      "1-tert-butoxy-1-phenylethane",
+      "2-tert-butoxyethylbenzene",
+      "p-tert-butoxystyrene"
+    ],
+    "correct_answer": "Styrene (PhCH=CH₂)",
+    "explanation": "[CONCEPT]\nStep 1: Sterically hindered strong base t-BuOK promotes E2 dehydrobromination of 1-bromo-1-phenylethane to form styrene."
+  },
+  {
+    "id": 51,
+    "question": "The nucleophile among the following is",
+    "options": [
+      "BF₃",
+      "SO₂",
+      "(CH₃)₃N",
+      "NO₂⁺"
+    ],
+    "correct_answer": "(CH₃)₃N",
+    "explanation": "[CONCEPT]\nStep 1: Trimethylamine (CH₃)₃N has an unshared lone pair of electrons on nitrogen available for donation to electrophiles, acting as a nucleophile."
+  },
+  {
+    "id": 52,
+    "question": "The major product (X) of the reaction: BrCH₂–CH₂–CH₂Br + Zinc dust → (X) is",
+    "options": [
+      "Cyclopropane",
+      "CH₂=CH–CH₂Br",
+      "BrCH₂–CH=CH₂",
+      "CH₂=C=CH₂"
+    ],
+    "correct_answer": "Cyclopropane",
+    "explanation": "[CONCEPT]\nStep 1: 1,3-Dibromopropane undergoes intramolecular reductive 1,3-elimination (Freund reaction) with zinc dust to form cyclopropane."
+  },
+  {
+    "id": 53,
+    "question": "The reagent required for the conversion of 2-butyne to cis-2-butene is",
+    "options": [
+      "Na in liquid ammonia",
+      "LiAlH₄",
+      "Sn/HCl",
+      "Pd/BaSO₄/quinoline (Lindlar's catalyst)"
+    ],
+    "correct_answer": "Pd/BaSO₄/quinoline (Lindlar's catalyst)",
+    "explanation": "[CONCEPT]\nStep 1: Lindlar's catalyst (Pd/BaSO₄ poisoned with quinoline) performs syn-hydrogenation of alkynes to yield cis-alkenes."
+  },
+  {
+    "id": 54,
+    "question": "For the synthesis of bicyclo[2.2.1]hept-5-en-2-yl methyl ketone using Diels-Alder reaction, the reactants required are",
+    "options": [
+      "Cyclopentadiene and methyl vinyl ketone (CH₂=CHCOCH₃)",
+      "1,3-Cyclohexadiene and methyl vinyl ketone",
+      "Cyclopentadiene and acrolein",
+      "Furan and methyl vinyl ketone"
+    ],
+    "correct_answer": "Cyclopentadiene and methyl vinyl ketone (CH₂=CHCOCH₃)",
+    "explanation": "[CONCEPT]\nStep 1: [4+2] Cycloaddition of cyclopentadiene (diene) and methyl vinyl ketone (dienophile) yields the bicyclo[2.2.1]heptene skeleton."
+  },
+  {
+    "id": 55,
+    "question": "Match the values of Ka with substituted benzoic acids: P. p-NO₂ (X. 36 × 10⁻⁵), Q. p-OH (Z. 2.6 × 10⁻⁵), R. p-Cl (Y. 10 × 10⁻⁵)",
+    "options": [
+      "P–X; Q–Z; R–Y",
+      "P–Y; Q–X; R–Z",
+      "P–Z; Q–Y; R–X",
+      "P–X; Q–Y; R–Z"
+    ],
+    "correct_answer": "P–X; Q–Z; R–Y",
+    "explanation": "[CONCEPT]\nStep 1: Electron-withdrawing −NO₂ gives highest Ka (36 × 10⁻⁵, X); −Cl gives intermediate Ka (10 × 10⁻⁵, Y); electron-donating −OH gives lowest Ka (2.6 × 10⁻⁵, Z)."
+  },
+  {
+    "id": 56,
+    "question": "The major products (X) and (Y) of the reactions of propene with HBr/peroxide and HCl/peroxide are",
+    "options": [
+      "X = 2-bromopropane; Y = 2-chloropropane",
+      "X = 1-bromopropane; Y = 2-chloropropane",
+      "X = 1-bromopropane; Y = 1-chloropropane",
+      "X = 2-bromopropane; Y = 1-chloropropane"
+    ],
+    "correct_answer": "X = 1-bromopropane; Y = 2-chloropropane",
+    "explanation": "[CONCEPT]\nStep 1: HBr/peroxide undergoes free-radical anti-Markovnikov addition (Kharasch effect) to give 1-bromopropane. The peroxide effect does not operate for HCl due to endothermic radical steps, giving Markovnikov product 2-chloropropane."
+  },
+  {
+    "id": 57,
+    "question": "In the reaction CH₃(CH₂)₃CH(X)CH₃ + NaOMe/MeOH: If X = F in case 1 and X = Br in case 2, major products are",
+    "options": [
+      "1-hexene and 1-hexene.",
+      "1-hexene and 2-hexene.",
+      "2-hexene and 2-hexene.",
+      "2-hexene and 1-hexene."
+    ],
+    "correct_answer": "1-hexene and 2-hexene.",
+    "explanation": "[CONCEPT]\nStep 1: Poor leaving group F⁻ with strong base proceeds via carbanion-like transition state giving Hofmann elimination (1-hexene). Good leaving group Br⁻ gives Saytzeff elimination (2-hexene)."
+  },
+  {
+    "id": 58,
+    "question": "Benzene reacts with 1-chloro-2-methylpropane in presence of anhydrous AlCl₃ at 20°C to give the major product (X):",
+    "options": [
+      "Isobutylbenzene",
+      "n-Butylbenzene",
+      "tert-Butylbenzene",
+      "sec-Butylbenzene"
+    ],
+    "correct_answer": "Isobutylbenzene",
+    "explanation": "[CONCEPT]\nStep 1: Under mild conditions with AlCl₃, isobutyl carbocation/complex alkylates benzene to give isobutylbenzene (or tert-butylbenzene via hydride shift at higher temp; textbook key A)."
+  },
+  {
+    "id": 59,
+    "question": "Compound (X) (isobutylbenzene) on treatment with hot acidic KMnO₄ followed by reaction with LiAlH₄ gives (Y). Compound (Y) is",
+    "options": [
+      "Benzaldehyde",
+      "Benzyl alcohol",
+      "Toluene",
+      "Benzoic acid"
+    ],
+    "correct_answer": "Benzyl alcohol",
+    "explanation": "[CONCEPT]\nStep 1: KMnO₄ oxidizes the benzylic carbon to benzoic acid (PhCOOH). Subsequent reduction of benzoic acid with LiAlH₄ yields benzyl alcohol (PhCH₂OH)."
+  },
+  {
+    "id": 60,
+    "question": "The product 'P' formed in the hydration of phenylacetylene (HgSO₄-H₂SO₄ / H₂O) is",
+    "options": [
+      "Acetophenone (PhCOCH₃)",
+      "Phenylacetaldehyde",
+      "Phenylethanol",
+      "Benzaldehyde"
+    ],
+    "correct_answer": "Acetophenone (PhCOCH₃)",
+    "explanation": "[CONCEPT]\nStep 1: Oxymercuration-hydration of phenylacetylene adds H₂O Markovnikov-style to give enol Ph–C(OH)=CH₂, which tautomerizes to acetophenone."
+  },
+  {
+    "id": 61,
+    "question": "The order of reactivity of aldehydes with a nucleophile is: I. HCHO, II. CH₃CHO, III. PhCHO, IV. Cl₃CCHO",
+    "options": [
+      "I > II > III > IV",
+      "IV > I > II > III",
+      "IV > III > II > I",
+      "I > IV > II > III"
+    ],
+    "correct_answer": "IV > I > II > III",
+    "explanation": "[CONCEPT]\nStep 1: Electron-withdrawing −CCl₃ strongly activates carbonyl (IV most reactive). HCHO (I) is unhindered; CH₃CHO (II) is deactivated by +I; PhCHO (III) is deactivated by resonance donation (+R)."
+  },
+  {
+    "id": 62,
+    "question": "Which of the following olefins leads to a racemic mixture of the diol product upon cis-dihydroxylation?",
+    "options": [
+      "Ethene",
+      "cis-2-butene",
+      "trans-2-butene",
+      "Isobutene"
+    ],
+    "correct_answer": "trans-2-butene",
+    "explanation": "[CONCEPT]\nStep 1: cis-Dihydroxylation (syn-addition with OsO₄ or cold alkaline KMnO₄) on trans-2-butene gives a pair of non-superimposable enantiomers (racemic (2R,3R) and (2S,3S) butane-2,3-diol)."
+  },
+  {
+    "id": 63,
+    "question": "The major product 'Q' formed in the reaction: Ethyl benzoate + (i) excess MeMgBr, (ii) H⁺, Heat → Q is",
+    "options": [
+      "Acetophenone",
+      "2-Phenylpropan-2-ol",
+      "2-Phenylpropene",
+      "1-Phenylpropene"
+    ],
+    "correct_answer": "2-Phenylpropene",
+    "explanation": "[CONCEPT]\nStep 1: Reaction with 2 eq MeMgBr gives 3° alcohol 2-phenylpropan-2-ol, which upon heating with acid readily dehydrates to 2-phenylpropene."
+  },
+  {
+    "id": 64,
+    "question": "The most stable conformation of cis-1-tert-butyl-4-methylcyclohexane is",
+    "options": [
+      "Both groups axial",
+      "Both groups equatorial",
+      "t-Bu equatorial and Me axial",
+      "t-Bu axial and Me equatorial"
+    ],
+    "correct_answer": "t-Bu equatorial and Me axial",
+    "explanation": "[CONCEPT]\nStep 1: The bulky tert-butyl group strongly prefers equatorial orientation (−ΔG° = 4.9 kcal/mol) to avoid 1,3-diaxial strain, locking methyl in the axial position for the cis isomer."
+  },
+  {
+    "id": 65,
+    "question": "The major product 'R' formed in the sequence: 4-chlorobenzoic acid + (1) HNO₃/H₂SO₄ → (2) Sn/HCl → (3) NaNO₂/H₂SO₄, H₂O → R is",
+    "options": [
+      "4-chloro-3-hydroxybenzoic acid",
+      "3,4-dihydroxybenzoic acid",
+      "3-chloro-4-hydroxybenzoic acid",
+      "4-chloro-3-nitrobenzoic acid"
+    ],
+    "correct_answer": "4-chloro-3-hydroxybenzoic acid",
+    "explanation": "[CONCEPT]\nStep 1: Nitration occurs ortho to Cl (meta to COOH) to give 4-chloro-3-nitrobenzoic acid. Reduction gives 3-amino derivative, which upon diazotization and hydrolysis yields 4-chloro-3-hydroxybenzoic acid."
+  },
+  {
+    "id": 66,
+    "question": "The optically active compound (R)-2-iodobutane undergoes racemization upon reaction with NaI in acetone. The pathway followed by the reaction is",
+    "options": [
+      "SN1",
+      "SN2",
+      "E1",
+      "E2"
+    ],
+    "correct_answer": "SN1",
+    "explanation": "[CONCEPT]\nStep 1: Repeated Walden inversion via SN2 exchange of I⁻ with I⁻ (or ion-pair SN1) leads to progressive loss of optical activity and eventual racemization."
+  },
+  {
+    "id": 67,
+    "question": "Reductive ozonolysis of an alkene ester with (i) O₃, (ii) Me₂S gives structure 'S':",
+    "options": [
+      "Aldehyde ester",
+      "Carboxylic ester",
+      "Hydroxy ester",
+      "Keto ester"
+    ],
+    "correct_answer": "Keto ester",
+    "explanation": "[CONCEPT]\nStep 1: Ozonolysis of trisubstituted double bond followed by dimethyl sulfide reduction cleaves the alkene into a ketone and an aldehyde/ester fragment."
+  },
+  {
+    "id": 68,
+    "question": "The name reaction by which ethyl acetoacetate may be readily prepared is",
+    "options": [
+      "Aldol condensation.",
+      "Benzoin condensation.",
+      "Claisen condensation.",
+      "Perkin condensation."
+    ],
+    "correct_answer": "Claisen condensation.",
+    "explanation": "[CONCEPT]\nStep 1: Base-catalyzed condensation of two molecules of ethyl acetate in the presence of sodium ethoxide yields ethyl acetoacetate via Claisen ester condensation."
+  },
+  {
+    "id": 69,
+    "question": "Among the following four amines, which one is least basic in aqueous solution?",
+    "options": [
+      "CH₃NH₂",
+      "(CH₃)₂NH",
+      "(CH₃)₃N",
+      "C₆H₅NHCH₃ (N-methylaniline)"
+    ],
+    "correct_answer": "C₆H₅NHCH₃ (N-methylaniline)",
+    "explanation": "[CONCEPT]\nStep 1: In aromatic amines like N-methylaniline, the nitrogen lone pair is delocalized into the benzene ring by resonance (+M effect), significantly reducing basicity compared to aliphatic amines."
+  },
+  {
+    "id": 70,
+    "question": "Which of the following acids is used for the preparation of cyclohexene from cyclohexanol?",
+    "options": [
+      "Conc. HNO₃",
+      "48% HBr",
+      "85% H₃PO₄",
+      "(COOH)₂"
+    ],
+    "correct_answer": "85% H₃PO₄",
+    "explanation": "[CONCEPT]\nStep 1: 85% Phosphoric acid is a non-oxidizing, non-nucleophilic dehydrating acid that smoothly eliminates water from cyclohexanol without oxidizing or halogenating the substrate."
+  },
+  {
+    "id": 71,
+    "question": "The reactivity order for nitration of benzene, chlorobenzene, phenol and nitrobenzene is",
+    "options": [
+      "benzene > chlorobenzene > phenol > nitrobenzene",
+      "phenol > benzene > chlorobenzene > nitrobenzene",
+      "nitrobenzene > phenol > chlorobenzene > benzene",
+      "phenol > chlorobenzene > benzene > nitrobenzene"
+    ],
+    "correct_answer": "phenol > benzene > chlorobenzene > nitrobenzene",
+    "explanation": "[CONCEPT]\nStep 1: −OH is strongly activating (+M); benzene is standard; −Cl is weakly deactivating (−I > +M); −NO₂ is strongly deactivating (−M, −I)."
+  },
+  {
+    "id": 72,
+    "question": "Methylenecyclohexane on reaction with NBS in CCl₄ / benzoyl peroxide yields as major product:",
+    "options": [
+      "(1-bromomethyl)cyclohexene",
+      "3-bromomethylenecyclohexane",
+      "1-bromo-1-methylcyclohexane",
+      "1,2-dibromomethylcyclohexane"
+    ],
+    "correct_answer": "3-bromomethylenecyclohexane",
+    "explanation": "[CONCEPT]\nStep 1: NBS provides allylic bromination via allylic radical intermediate, substituting bromine at the allylic ring methylene carbon."
+  },
+  {
+    "id": 73,
+    "question": "When compound (M) is slowly heated with chloroform in alcoholic KOH, it produces an offensive smell. The compound M is",
+    "options": [
+      "N,N-diethylaniline",
+      "diethylamine",
+      "ethylamine",
+      "triethylamine"
+    ],
+    "correct_answer": "ethylamine",
+    "explanation": "[CONCEPT]\nStep 1: The carbylamine test is specific to primary amines (R–NH₂). Ethylamine reacts with CHCl₃ and KOH to form ethyl isocyanide."
+  },
+  {
+    "id": 74,
+    "question": "Which one of the following will lactonize in presence of acid?",
+    "options": [
+      "trans-2-hydroxycyclohexanecarboxylic acid",
+      "cis-2-hydroxycyclohexanecarboxylic acid",
+      "4-hydroxycyclohexanecarboxylic acid",
+      "trans-3-hydroxycyclohexanecarboxylic acid"
+    ],
+    "correct_answer": "cis-2-hydroxycyclohexanecarboxylic acid",
+    "explanation": "[CONCEPT]\nStep 1: In the cis isomer, the −OH and −COOH groups are on the same face of the ring, allowing intramolecular esterification to form a bicyclic γ-lactone."
+  },
+  {
+    "id": 75,
+    "question": "The major condensation product in the reaction of benzaldehyde with excess amount of acetone in presence of dilute NaOH is",
+    "options": [
+      "Benzalacetone (4-phenylbut-3-en-2-one)",
+      "Dibenzalacetone",
+      "Mesityl oxide",
+      "4-hydroxy-4-phenylbutan-2-one"
+    ],
+    "correct_answer": "Benzalacetone (4-phenylbut-3-en-2-one)",
+    "explanation": "[CONCEPT]\nStep 1: Crossed aldol (Claisen-Schmidt) condensation between benzaldehyde and excess acetone yields 4-phenylbut-3-en-2-one (benzalacetone)."
+  },
+  {
+    "id": 76,
+    "question": "In the ring test for nitrate ion, the brown color is due to the formation of",
+    "options": [
+      "[Fe(H₂O)₅(NO)]SO₄",
+      "[Fe(H₂O)₅(NO₂)]SO₄",
+      "[Fe(H₂O)₃(NO)₃]SO₄",
+      "[Fe(H₂O)₅(NO₃)]SO₄"
+    ],
+    "correct_answer": "[Fe(H₂O)₅(NO)]SO₄",
+    "explanation": "[CONCEPT]\nStep 1: Reduction of nitrate by Fe²⁺ generates NO, which coordinates to hydrated iron to form the brown ring complex pentaaquanitrosyliron(I) sulfate [Fe(H₂O)₅(NO)]SO₄."
+  },
+  {
+    "id": 77,
+    "question": "The appropriate reagent required for converting 2,3-dibromobutane to 2-butene via debromination is",
+    "options": [
+      "KOH/EtOH",
+      "NaOMe/MeOH",
+      "NaI/Acetone",
+      "NaNH₂"
+    ],
+    "correct_answer": "NaOMe/MeOH",
+    "explanation": "[CONCEPT]\nStep 1: Strong base NaOMe/MeOH eliminates HBr via E2, or NaI/acetone performs vicinal debromination."
+  },
+  {
+    "id": 78,
+    "question": "In the E2 elimination of (2R,3R)-2,3-dibromobutane, the alkene produced is",
+    "options": [
+      "(E)-2-butene exclusively",
+      "(Z)-2-butene exclusively",
+      "Equal mixture of (E) and (Z)",
+      "1-butene"
+    ],
+    "correct_answer": "(E)-2-butene exclusively",
+    "explanation": "[CONCEPT]\nStep 1: Anti-periplanar E2 elimination from the anti conformation of the meso/chiral diastereomer stereospecifically yields the trans (E) alkene."
+  },
+  {
+    "id": 79,
+    "question": "The most stable carbocation among the following is",
+    "options": [
+      "CH₃OCH₂CH₂⁺",
+      "CH₃CH=CHCH₂⁺",
+      "CH₃CH₂⁺",
+      "CH₃COCH₂⁺"
+    ],
+    "correct_answer": "CH₃CH=CHCH₂⁺",
+    "explanation": "[CONCEPT]\nStep 1: The allylic carbocation CH₃CH=CH–C⁺H₂ is stabilized by resonance delocalization of the positive charge over two carbon atoms."
+  },
+  {
+    "id": 80,
+    "question": "The carboxylic acid with the lowest pKa value is",
+    "options": [
+      "C₆H₅COOH",
+      "CH₃COOH",
+      "p-CH₃O–C₆H₄COOH",
+      "p-CH₃–C₆H₄COOH"
+    ],
+    "correct_answer": "C₆H₅COOH",
+    "explanation": "[CONCEPT]\nStep 1: Benzoic acid (pKa = 4.19) is more acidic than acetic acid (4.76) and p-methoxybenzoic acid (4.50) due to sp² phenyl ring resonance stabilization."
+  },
+  {
+    "id": 81,
+    "question": "Identify the major product Q formed in: (CH₃)₂CHCH₂Br + NaOEt/EtOH → Q",
+    "options": [
+      "CH₃CH(OEt)CH₂CH₃",
+      "(CH₃)₂CHCH₂OEt",
+      "(CH₃)₃COEt",
+      "(CH₃)₂C=CH₂"
+    ],
+    "correct_answer": "(CH₃)₂C=CH₂",
+    "explanation": "[CONCEPT]\nStep 1: Strong base NaOEt induces E2 dehydrohalogenation of isobutyl bromide to produce 2-methylpropene (isobutene)."
+  },
+  {
+    "id": 82,
+    "question": "The major product formed in the nitration of o-methoxybenzoic acid is",
+    "options": [
+      "2-methoxy-3-nitrobenzoic acid",
+      "2-methoxy-4-nitrobenzoic acid",
+      "2-methoxy-5-nitrobenzoic acid",
+      "2-methoxy-6-nitrobenzoic acid"
+    ],
+    "correct_answer": "2-methoxy-5-nitrobenzoic acid",
+    "explanation": "[CONCEPT]\nStep 1: Strong +M activating −OCH₃ group directs ortho/para to itself (positions 4 and 5); meta-directing −COOH reinforces substitution at position 5."
+  },
+  {
+    "id": 83,
+    "question": "Which Fischer projection represents (2S, 3S)-tartaric acid?",
+    "options": [
+      "Fischer projection with both OH on left",
+      "Fischer projection with both OH on right",
+      "Fischer projection with top OH left, bottom OH right",
+      "Fischer projection with top OH right, bottom OH left"
+    ],
+    "correct_answer": "Fischer projection with top OH left, bottom OH right",
+    "explanation": "[CONCEPT]\nStep 1: Assigning CIP priorities at C2 and C3 gives the (2S,3S) configuration for levorotatory D-(−)-tartaric acid."
+  },
+  {
+    "id": 84,
+    "question": "Which among the following compounds loses a proton most readily in a basic medium?",
+    "options": [
+      "Cyclopentadiene",
+      "Cycloheptatriene",
+      "Cyclopropene",
+      "1,3-Cyclohexadiene"
+    ],
+    "correct_answer": "Cyclopentadiene",
+    "explanation": "[CONCEPT]\nStep 1: Deprotonation of cyclopentadiene generates the cyclopentadienyl anion, a 6 π-electron fully aromatic system with extreme thermodynamic stabilization (pKa ≈ 16)."
+  },
+  {
+    "id": 85,
+    "question": "The compound that is aromatic among the choices is",
+    "options": [
+      "Cyclopentadienyl cation",
+      "Cycloheptatriene",
+      "Cyclooctatetraene",
+      "Cyclopentadienyl anion"
+    ],
+    "correct_answer": "Cyclopentadienyl anion",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopentadienyl anion has 6 π-electrons in a planar 5-membered conjugated ring, obeying Hückel's 4n+2 rule."
+  },
+  {
+    "id": 86,
+    "question": "Among heptan-1-ol, heptan-2-ol, heptan-3-ol and heptan-4-ol, compounds that exhibit optical activity are",
+    "options": [
+      "heptan-2-ol and heptan-3-ol.",
+      "heptan-2-ol and heptan-4-ol.",
+      "heptan-3-ol and heptan-4-ol.",
+      "heptan-1-ol and heptan-4-ol."
+    ],
+    "correct_answer": "heptan-2-ol and heptan-3-ol.",
+    "explanation": "[CONCEPT]\nStep 1: Heptan-2-ol (chiral C2: Me, H, OH, pentyl) and heptan-3-ol (chiral C3: Et, H, OH, butyl) possess asymmetric carbons and are optically active. Heptan-4-ol has two identical propyl groups (achiral)."
+  },
+  {
+    "id": 87,
+    "question": "Structure of compound Y in: Cyclohexene + Br₂/AcOH → X ⎯(KOtBu)→ Y is",
+    "options": [
+      "Bromocyclohexene",
+      "1,3-Cyclohexadiene",
+      "1,4-Cyclohexadiene",
+      "Benzene"
+    ],
+    "correct_answer": "1,3-Cyclohexadiene",
+    "explanation": "[CONCEPT]\nStep 1: Bromination yields 1,2-dibromocyclohexane (X). Double dehydrobromination with strong bulky base KOtBu forms conjugated 1,3-cyclohexadiene (Y)."
+  },
+  {
+    "id": 88,
+    "question": "The structure of X in: Anisole + (CH₃CO)₂O / anhydrous AlCl₃ → X (major product) is",
+    "options": [
+      "o-Methoxyacetophenone",
+      "m-Methoxyacetophenone",
+      "p-Methoxyacetophenone",
+      "Phenyl acetate"
+    ],
+    "correct_answer": "p-Methoxyacetophenone",
+    "explanation": "[CONCEPT]\nStep 1: Friedel-Crafts acylation of anisole occurs predominantly at the less sterically hindered para position to give 4-methoxyacetophenone."
+  },
+  {
+    "id": 89,
+    "question": "Compound X (p-methoxyacetophenone) on treatment with (i) Br₂/NaOH, (ii) H₃O⁺ gives Y. The structure of Y is",
+    "options": [
+      "4-Methoxybenzoic acid",
+      "4-Methoxybenzyl alcohol",
+      "4-Bromoanisole",
+      "4-Methoxyphenylacetic acid"
+    ],
+    "correct_answer": "4-Methoxybenzoic acid",
+    "explanation": "[CONCEPT]\nStep 1: Haloform reaction on the methyl ketone converts −COCH₃ to −COOH and CHBr₃, giving 4-methoxybenzoic acid (anisic acid)."
+  },
+  {
+    "id": 90,
+    "question": "Electrophile among the following is",
+    "options": [
+      "NH₃",
+      "SO₃",
+      "NO₂",
+      "CH≡C⁻"
+    ],
+    "correct_answer": "NO₂",
+    "explanation": "[CONCEPT]\nStep 1: NO₂ has an incomplete valence octet on nitrogen with formal positive character, acting as an electron-seeking electrophile."
+  },
+  {
+    "id": 91,
+    "question": "The major product for the reaction: Benzene + (CH₃)₂CHCH₂Cl / AlCl₃ → Product is",
+    "options": [
+      "Isobutylbenzene",
+      "sec-Butylbenzene",
+      "tert-Butylbenzene",
+      "n-Butylbenzene"
+    ],
+    "correct_answer": "tert-Butylbenzene",
+    "explanation": "[CONCEPT]\nStep 1: The isobutyl carbocation rearranges via 1,2-hydride shift to the more stable 3° tert-butyl carbocation, yielding tert-butylbenzene as the major product."
+  },
+  {
+    "id": 92,
+    "question": "The correct order of acidity is",
+    "options": [
+      "C₆H₅COOH < CH₃COOH < C₂H₅OH < C₆H₅OH",
+      "CH₃COOH < C₆H₅COOH < C₂H₅OH < C₆H₅OH",
+      "C₂H₅OH < C₆H₅OH < C₆H₅COOH < CH₃COOH",
+      "C₂H₅OH < C₆H₅OH < CH₃COOH < C₆H₅COOH"
+    ],
+    "correct_answer": "C₂H₅OH < C₆H₅OH < CH₃COOH < C₆H₅COOH",
+    "explanation": "[CONCEPT]\nStep 1: Carboxylic acids > Phenols > Alcohols. Benzoic acid is stronger than acetic acid, and phenol is stronger than ethanol: C₂H₅OH < C₆H₅OH < CH₃COOH < C₆H₅COOH."
+  },
+  {
+    "id": 93,
+    "question": "The reaction: (C₂H₅)(CH₃)(C₆H₅)C–Br + KOH(aq) → (C₂H₅)(CH₃)(C₆H₅)C–OH is an example of",
+    "options": [
+      "addition reaction.",
+      "bimolecular elimination (E2).",
+      "unimolecular substitution (SN1).",
+      "bimolecular substitution (SN2)."
+    ],
+    "correct_answer": "unimolecular substitution (SN1).",
+    "explanation": "[CONCEPT]\nStep 1: Tertiary benzylic halide ionizes in the rate-determining step to form a stable 3° carbocation followed by attack of H₂O/OH⁻ (SN1 pathway)."
+  },
+  {
+    "id": 94,
+    "question": "If the concentration of KOH in the above reaction mixture is doubled, the rate of the reaction will be",
+    "options": [
+      "decreased to one-half.",
+      "the same.",
+      "increased by two-times.",
+      "increased by four-times."
+    ],
+    "correct_answer": "the same.",
+    "explanation": "[CONCEPT]\nStep 1: In an SN1 mechanism, rate = k [Substrate], which is zero-order with respect to nucleophile concentration [KOH]."
+  },
+  {
+    "id": 95,
+    "question": "Among the following, the most reactive diene in the Diels-Alder reaction is",
+    "options": [
+      "1,3-Butadiene",
+      "trans,trans-2,4-Hexadiene",
+      "Furan",
+      "Cyclopentadiene"
+    ],
+    "correct_answer": "Cyclopentadiene",
+    "explanation": "[CONCEPT]\nStep 1: Cyclopentadiene is permanently locked in the reactive s-cis conformation, making it extremely reactive towards [4+2] cycloaddition."
+  },
+  {
+    "id": 96,
+    "question": "The non-aromatic compound/ion is",
+    "options": [
+      "[10]Annulene (Cyclodecapentaene)",
+      "Tropylium cation",
+      "Cyclooctatetraene dianion",
+      "Cyclopentadienyl anion"
+    ],
+    "correct_answer": "[10]Annulene (Cyclodecapentaene)",
+    "explanation": "[CONCEPT]\nStep 1: [10]Annulene adopts a non-planar conformation due to steric clash between internal hydrogens, destroying planarity and rendering it non-aromatic."
+  },
+  {
+    "id": 97,
+    "question": "The iodide which reacts most slowly with cyanide ion as a nucleophile in an SN2 reaction is",
+    "options": [
+      "CH₃CH₂CH₂CH₂I",
+      "PhCH₂I",
+      "Neopentyl iodide ((CH₃)₃CCH₂I)",
+      "(CH₃)₂CH–I"
+    ],
+    "correct_answer": "Neopentyl iodide ((CH₃)₃CCH₂I)",
+    "explanation": "[CONCEPT]\nStep 1: Neopentyl iodide has extreme steric hindrance from the bulky β-tert-butyl group, blocking backside attack and making SN2 extremely sluggish (10⁻⁵ relative rate)."
+  },
+  {
+    "id": 98,
+    "question": "Bromine water is decolorized upon reaction with (E)-3-hexene. It is due to",
+    "options": [
+      "electrophilic addition of bromine to C=C.",
+      "nucleophilic addition of bromine to C=C.",
+      "electrophilic allylic bromination.",
+      "nucleophilic allylic bromination."
+    ],
+    "correct_answer": "electrophilic addition of bromine to C=C.",
+    "explanation": "[CONCEPT]\nStep 1: Decolorization is due to electrophilic addition of Br₂ across the alkene double bond via a cyclic bromonium ion intermediate."
+  },
+  {
+    "id": 99,
+    "question": "The structure of the product obtained from (E)-3-hexene with Br₂ is",
+    "options": [
+      "(3R, 4R)-3,4-dibromohexane",
+      "(3S, 4S)-3,4-dibromohexane",
+      "meso-3,4-dibromohexane",
+      "3-bromohex-2-ene"
+    ],
+    "correct_answer": "meso-3,4-dibromohexane",
+    "explanation": "[CONCEPT]\nStep 1: Anti-addition of Br₂ to a symmetrical trans (E) alkene stereospecifically yields the optically inactive meso diastereomer."
+  },
+  {
+    "id": 100,
+    "question": "Identify the correct product in the Diels-Alder reaction of furan with N-phenylmaleimide:",
+    "options": [
+      "endo-adduct",
+      "exo-adduct",
+      "7-oxabicyclo[2.2.1]heptene adduct",
+      "Polymerized product"
+    ],
+    "correct_answer": "7-oxabicyclo[2.2.1]heptene adduct",
+    "explanation": "[CONCEPT]\nStep 1: [4+2] Cycloaddition of furan with N-phenylmaleimide produces the bicyclic 7-oxabicyclo[2.2.1]hept-5-ene-2,3-dicarboximide adduct."
+  },
+  {
+    "id": 101,
+    "question": "The major product obtained in the reaction of 2-bromo-2-methyl-1-phenylpropane with NaOEt/EtOH at 50°C is",
+    "options": [
+      "2-ethoxy-2-methyl-1-phenylpropane",
+      "1-ethoxy-2-methyl-1-phenylpropane",
+      "2-methyl-1-phenylprop-1-ene",
+      "2-methyl-3-phenylprop-1-ene"
+    ],
+    "correct_answer": "2-methyl-1-phenylprop-1-ene",
+    "explanation": "[CONCEPT]\nStep 1: E2 elimination follows Saytzeff's rule to give the more conjugated, thermodynamically stable alkene (2-methyl-1-phenylprop-1-ene)."
+  },
+  {
+    "id": 102,
+    "question": "In the SN2 reaction of optically pure (1R, 3S)-1-chloro-3-ethylcyclopentane with OH⁻, the structure of product Y has:",
+    "options": [
+      "Inverted configuration at C1 (1S, 3S)",
+      "Retained configuration at C1 (1R, 3S)",
+      "Planar carbocation mixture",
+      "Elimination diene"
+    ],
+    "correct_answer": "Inverted configuration at C1 (1S, 3S)",
+    "explanation": "[CONCEPT]\nStep 1: SN2 displacement by hydroxide occurs with 100% Walden inversion at C1 while leaving C3 configuration unaffected."
+  },
+  {
+    "id": 103,
+    "question": "The absolute configuration of 1-chloro-3-ethylcyclopentane (X) shown is",
+    "options": [
+      "(1S, 3R)",
+      "(1S, 3S)",
+      "(1R, 3R)",
+      "(1R, 3S)"
+    ],
+    "correct_answer": "(1R, 3S)",
+    "explanation": "[CONCEPT]\nStep 1: Using CIP priority rules: C1 is (R) and C3 is (S), designating the compound as (1R, 3S)."
+  },
+  {
+    "id": 104,
+    "question": "The major product formed in the reaction of phenol with Br₂ in CS₂ at < 5°C is",
+    "options": [
+      "o-bromophenol",
+      "p-bromophenol",
+      "2,4,6-tribromophenol",
+      "2,4-dibromophenol"
+    ],
+    "correct_answer": "p-bromophenol",
+    "explanation": "[CONCEPT]\nStep 1: In non-polar CS₂ solvent, ionization of phenol is suppressed, preventing polybromination and selectively yielding p-bromophenol due to minimal steric hindrance."
+  },
+  {
+    "id": 105,
+    "question": "The acid that undergoes decarboxylation most readily upon heating is",
+    "options": [
+      "Benzoic acid",
+      "Phenylacetic acid",
+      "3-Oxo-3-phenylpropanoic acid (PhCOCH₂COOH)",
+      "2-Hydroxy-2-phenylacetic acid"
+    ],
+    "correct_answer": "3-Oxo-3-phenylpropanoic acid (PhCOCH₂COOH)",
+    "explanation": "[CONCEPT]\nStep 1: β-Keto acids decarboxylate readily at low temperatures via a cyclic 6-membered transition state to form an enol intermediate and CO₂."
+  },
+  {
+    "id": 106,
+    "question": "The Fischer projection that represents (2R,3S)-2,3-dihydroxybutanoic acid is",
+    "options": [
+      "Fischer projection A",
+      "Fischer projection with C2-OH on Right, C3-OH on Left",
+      "Fischer projection C",
+      "Fischer projection D"
+    ],
+    "correct_answer": "Fischer projection with C2-OH on Right, C3-OH on Left",
+    "explanation": "[CONCEPT]\nStep 1: Assigning priority at C2 gives (R) and at C3 gives (S), corresponding to projection B."
+  },
+  {
+    "id": 107,
+    "question": "A hydrocarbon that undergoes ozonolysis with Me₂S reduction to form formaldehyde (HCHO) and glyoxal (OHC–CHO) is",
+    "options": [
+      "1,3-Butadiene",
+      "1,4-Pentadiene",
+      "Cyclobutene",
+      "Propene"
+    ],
+    "correct_answer": "1,3-Butadiene",
+    "explanation": "[CONCEPT]\nStep 1: Ozonolysis of 1,3-butadiene (CH₂=CH–CH=CH₂) cleaves both double bonds to yield 2 HCHO + 1 OHC–CHO."
+  },
+  {
+    "id": 108,
+    "question": "The order of acidity of substituted benzoic acids (I: p-OMe, II: p-Me, III: p-NO₂, IV: H) is",
+    "options": [
+      "III > II > I > IV",
+      "I > IV > III > II",
+      "IV > III > II > I",
+      "III > IV > II > I"
+    ],
+    "correct_answer": "III > IV > II > I",
+    "explanation": "[CONCEPT]\nStep 1: −NO₂ (III) is strongly electron withdrawing (most acidic); −H (IV) is unsubstituted; −Me (II) has weak +I/+H donation; −OMe (I) has strong +M donation (least acidic)."
+  },
+  {
+    "id": 109,
+    "question": "The Diels-Alder adduct from the reaction between cyclopentadiene and benzyne is",
+    "options": [
+      "Biphenyl",
+      "Naphthalene",
+      "Phenanthrene",
+      "Benzobicyclo[2.2.1]heptadiene"
+    ],
+    "correct_answer": "Benzobicyclo[2.2.1]heptadiene",
+    "explanation": "[CONCEPT]\nStep 1: [4+2] Cycloaddition of benzyne (reactive dienophile) with cyclopentadiene (diene) produces the bridged benzonorbornadiene adduct."
+  },
+  {
+    "id": 110,
+    "question": "The number of possible enantiomeric pair(s) in HOOC–CH(OH)–CH(OH)–COOH is __________.",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "1",
+    "explanation": "[CONCEPT]\nStep 1: Tartaric acid exists as 3 stereoisomers: one meso compound (optically inactive) and one pair of enantiomers (d- and l-tartaric acid). Number of pairs = 1."
+  },
+  {
+    "id": 111,
+    "question": "Among the following reactions, the one that produces an achiral alcohol (after hydrolysis) is",
+    "options": [
+      "CH₃CHO + CH₃CH₂MgBr",
+      "PhCOCH₃ + CH₃CH₂MgBr",
+      "CH₃COOEt + 2 CH₃CH₂MgBr",
+      "CH₃COCH₃ + CH₃CH₂MgBr"
+    ],
+    "correct_answer": "CH₃COOEt + 2 CH₃CH₂MgBr",
+    "explanation": "[CONCEPT]\nStep 1: Ethyl acetate reacts with 2 equivalents of ethyl magnesium bromide to yield 3-ethylpentan-3-ol, (CH₃CH₂)₃C–OH, which has three identical ethyl groups and is completely achiral."
+  },
+  {
+    "id": 112,
+    "question": "The major product from the sequence: tert-butylbenzene + (1) SO₃/H₂SO₄ → (2) HNO₃/H₂SO₄ → (3) H⁺, H₂O, heat is",
+    "options": [
+      "4-tert-butyl-2-nitrosulfonic acid",
+      "3-nitro-tert-butylbenzene",
+      "4-nitro-tert-butylbenzene",
+      "2-nitro-tert-butylbenzene"
+    ],
+    "correct_answer": "2-nitro-tert-butylbenzene",
+    "explanation": "[CONCEPT]\nStep 1: Sulfonation protects the bulky para position (4-tert-butylbenzenesulfonic acid). Nitration is directed to the ortho position (2-position). Desulfonation by dilute acid/heat removes the sulfonic group, giving 2-nitro-tert-butylbenzene."
+  },
+  {
+    "id": 113,
+    "question": "The order of resonance energy for benzene (I), pyrrole (II), thiophene (III), and furan (IV) is",
+    "options": [
+      "(I) > (III) > (II) > (IV)",
+      "(I) > (III) > (IV) > (II)",
+      "(I) > (IV) > (II) > (III)",
+      "(I) > (IV) > (III) > (II)"
+    ],
+    "correct_answer": "(I) > (III) > (II) > (IV)",
+    "explanation": "[CONCEPT]\nStep 1: Resonance energies: Benzene (36 kcal/mol) > Thiophene (29 kcal/mol, d-orbital participation) > Pyrrole (21 kcal/mol) > Furan (16 kcal/mol, oxygen electronegativity resists delocalization)."
+  },
+  {
+    "id": 114,
+    "question": "The total number of chair conformations possible for 1,2-dimethylcyclohexane is __________.",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "6"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: Trans isomer has 2 chair conformations (diequatorial e,e and diaxial a,a). Cis isomer has 2 chair conformations (axial-equatorial a,e and equatorial-axial e,a). Total = 4 conformations."
+  },
+  {
+    "id": 115,
+    "question": "The major product formed in the reaction of cyclohex-2-ene-1-carboxylic acid with I₂ and NaHCO₃ is",
+    "options": [
+      "1,2-diiodocyclohexanecarboxylic acid",
+      "iodo-hydroxy acid",
+      "Iodolactone (bicyclic lactone)",
+      "Sodium carboxylate"
+    ],
+    "correct_answer": "Iodolactone (bicyclic lactone)",
+    "explanation": "[CONCEPT]\nStep 1: Iodolactonization: Electrophilic addition of I⁺ to the double bond forms an iodonium ion, followed by intramolecular nucleophilic capture by carboxylate to form a stable bicyclic γ-iodolactone."
+  },
+  {
+    "id": 116,
+    "question": "The major product formed in the hydroboration-oxidation of 1-methylcyclopentene (B₂H₆, diglyme followed by H₂O₂, HO⁻) is",
+    "options": [
+      "trans-2-methylcyclopentanol",
+      "cis-2-methylcyclopentanol",
+      "1-methylcyclopentanol",
+      "2-methylcyclopentanone"
+    ],
+    "correct_answer": "trans-2-methylcyclopentanol",
+    "explanation": "[CONCEPT]\nStep 1: Hydroboration-oxidation proceeds via anti-Markovnikov syn-addition of H and B, followed by retention of configuration on oxidation, yielding trans-2-methylcyclopentanol."
+  },
+  {
+    "id": 117,
+    "question": "The compound that gives characteristic foul smell of isocyanide upon heating with potassium hydroxide and chloroform is",
+    "options": [
+      "Nicotine",
+      "Histamine",
+      "Coniine",
+      "Methamphetamine"
+    ],
+    "correct_answer": "Histamine",
+    "explanation": "[CONCEPT]\nStep 1: Carbylamine test is specific to primary aliphatic/aromatic amines. Histamine contains an aliphatic primary −NH₂ group."
+  },
+  {
+    "id": 118,
+    "question": "The correct order of stability in water towards hydrolysis is",
+    "options": [
+      "Amide > Ester > Anhydride > Acyl chloride",
+      "Ester > Amide > Anhydride > Acyl chloride",
+      "Amide > Ester > Acyl chloride > Anhydride",
+      "Amide > Anhydride > Ester > Acyl chloride"
+    ],
+    "correct_answer": "Amide > Ester > Anhydride > Acyl chloride",
+    "explanation": "[CONCEPT]\nStep 1: Stability towards nucleophilic acyl substitution depends inversely on leaving group ability: NH₂⁻ (worst leaving group, most resonance donation) > OR⁻ > RCOO⁻ > Cl⁻ (best leaving group)."
+  },
+  {
+    "id": 119,
+    "question": "The type of nucleophilic substitution and products for allylic bromide reactions with NaCN/DMF (P) and H₂O/MeOH (Q) are",
+    "options": [
+      "P: SN2 (two products via NGP); Q: SN1 (mixture of allylic alcohols)",
+      "P: SN1; Q: SN2",
+      "P: SN2 (single product); Q: SN1",
+      "P: SN1; Q: SN2"
+    ],
+    "correct_answer": "P: SN2 (two products via NGP); Q: SN1 (mixture of allylic alcohols)",
+    "explanation": "[CONCEPT]\nStep 1: Reaction P in polar aprotic DMF undergoes SN2 substitution. Reaction Q in solvolytic protic medium ionizes to an allylic carbocation yielding SN1 allylic rearrangement isomers."
+  },
+  {
+    "id": 120,
+    "question": "If mono-chlorination occurs at every carbon of 2-bromobutane, the number of isomers (stereoisomers + constitutional) that one can have is",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6",
+    "explanation": "[CONCEPT]\nStep 1: Chlorination at C1 (2 diastereomers), C2 (1 product), C3 (2 diastereomers), and C4 (1 product) yields 6 total stereoisomers."
+  },
+  {
+    "id": 121,
+    "question": "The major product in the acid-catalyzed reaction of a diketone carboxylic acid with ethylene glycol (p-TsOH, benzene, Δ) is",
+    "options": [
+      "Selective monoketal with lactone formation",
+      "Bisketal ester",
+      "Unreacted starting material",
+      "Dehydrated enone"
+    ],
+    "correct_answer": "Selective monoketal with lactone formation",
+    "explanation": "[CONCEPT]\nStep 1: The less hindered ketone forms a cyclic ethylene ketal, accompanied by acid-catalyzed intramolecular lactonization of the remaining functionalities."
+  },
+  {
+    "id": 122,
+    "question": "Two equivalents of aldehyde P react with one equivalent of bis-ylide Q in a Wittig reaction to produce product R. The number of double bonds present in product R is __________.",
+    "options": [
+      "11",
+      "9",
+      "7",
+      "13"
+    ],
+    "correct_answer": "11",
+    "explanation": "[CONCEPT]\nStep 1: Wittig olefination of both terminal ylide carbons with the conjugated polyenal aldehyde P extends the polyene chain to a total of 11 conjugated double bonds (as in β-carotene)."
+  },
+  {
+    "id": 123,
+    "question": "The total number of possible stereoisomers for the compound CH₃–CH(OH)–CH=CH–CH₂CH₃ is __________.",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "8"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\nStep 1: Contains 1 chiral center (R/S = 2) and 1 disubstituted alkene (E/Z = 2). Total stereoisomers = 2 × 2 = 4."
+  },
+  {
+    "id": 124,
+    "question": "The major product M in the ozonolysis of β-pinene/alkene with (i) O₃, (ii) Zn, AcOH is",
+    "options": [
+      "Keto-aldehyde derivative M",
+      "Dicarboxylic acid",
+      "Diol derivative",
+      "Cyclic ether"
+    ],
+    "correct_answer": "Keto-aldehyde derivative M",
+    "explanation": "[CONCEPT]\nStep 1: Reductive ozonolysis cleaves the exocyclic double bond into formaldehyde (CH₂O) and a bicyclic keto-aldehyde compound M."
+  },
+  {
+    "id": 125,
+    "question": "The two major products of Hofmann elimination: N-ethyl-N,N-dimethylbutan-2-aminium hydroxide + Δ are",
+    "options": [
+      "Ethene and N,N-dimethylbutan-2-amine",
+      "1-Butene and N,N-dimethylethylamine",
+      "2-Butene and N,N-dimethylethylamine",
+      "Ethene and butan-2-ol"
+    ],
+    "correct_answer": "Ethene and N,N-dimethylbutan-2-amine",
+    "explanation": "[CONCEPT]\nStep 1: Hofmann elimination abstracts the least sterically hindered β-proton from the smaller ethyl group, yielding ethene gas and tertiary amine."
+  },
+  {
+    "id": 126,
+    "question": "The compound which upon mono-nitration does NOT give the meta-isomer as the major product is",
+    "options": [
+      "Trifluoromethylbenzene",
+      "Nitrobenzene",
+      "Acetanilide",
+      "Benzoic acid"
+    ],
+    "correct_answer": "Acetanilide",
+    "explanation": "[CONCEPT]\nStep 1: Acetanilide contains an activating −NHCOCH₃ group with lone pair resonance (+M) that strongly directs electrophilic substitution to ortho and para positions."
+  },
+  {
+    "id": 127,
+    "question": "The compound that provides a carboxylic acid upon treatment with Br₂/NaOH followed by acidification is",
+    "options": [
+      "3-Pentanone",
+      "Benzophenone",
+      "Acetophenone",
+      "Di-tert-butyl ketone"
+    ],
+    "correct_answer": "Acetophenone",
+    "explanation": "[CONCEPT]\nStep 1: Acetophenone (PhCOCH₃) contains a methyl ketone group that undergoes haloform cleavage to form benzoic acid (PhCOOH) and bromoform (CHBr₃)."
+  },
+  {
+    "id": 128,
+    "question": "The total number of tautomers for 2-hydroxynaphthalene-1,4-dione (lawsone) is __________.",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "1"
+    ],
+    "correct_answer": "3",
+    "explanation": "[CONCEPT]\nStep 1: Lawsone exhibits keto-enol and 1,2/1,4-quinone tautomerism between three distinct interconvertible tautomeric forms."
+  },
+  {
+    "id": 129,
+    "question": "The total number of stereoisomers possible for 1,2,3-tribromocyclopropane is __________.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nStep 1: Due to planes of symmetry: (1) cis,cis,cis-1,2,3-tribromocyclopropane (meso, C3v) and (2) cis,cis,trans-1,2,3-tribromocyclopropane (meso, Cs). Both are achiral, giving exactly 2 stereoisomers."
+  },
+  {
+    "id": 130,
+    "question": "Match the reaction type:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Hydroboration-oxidation,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>SNAr,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Wittig,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Friedel-Crafts with descriptions: 1. Electrophilic aromatic substitution, 2. Oxaphosphetane intermediate, 3. Meisenheimer complex, 4. Anti-Markovnikov product</span></div></div>",
+    "options": [
+      "P–2; Q–4; R–1; S–3",
+      "P–4; Q–3; R–1; S–2",
+      "P–4; Q–3; R–2; S–1",
+      "P–2; Q–1; R–4; S–3"
+    ],
+    "correct_answer": "P–4; Q–3; R–2; S–1",
+    "explanation": "[CONCEPT]\nStep 1: P (Hydroboration) gives Anti-Markovnikov product (4); Q (SNAr) proceeds via Meisenheimer complex (3); R (Wittig) involves oxaphosphetane (2); S (Friedel-Crafts) is electrophilic aromatic substitution (1)."
+  },
+  {
+    "id": 131,
+    "question": "The major product formed in the E2 elimination of trans-2-bromodecalin with NaOEt is",
+    "options": [
+      "Δ²-Octalin (elimination away from bridgehead)",
+      "Δ¹-Octalin",
+      "Decalone",
+      "Substitution ether"
+    ],
+    "correct_answer": "Δ²-Octalin (elimination away from bridgehead)",
+    "explanation": "[CONCEPT]\nStep 1: Anti-periplanar trans-diaxial elimination occurs readily between axial H and axial Br to give the conjugated/stable bicyclic alkene."
+  },
+  {
+    "id": 132,
+    "question": "In naphthalene, the value of the integer 'n' according to Hückel's rule of aromaticity is __________.",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "0"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nStep 1: Naphthalene has 10 π-electrons. By Hückel's rule: 4n + 2 = 10 ⟹ 4n = 8 ⟹ n = 2."
+  },
+  {
+    "id": 133,
+    "question": "The most stable conformations (lowest energy) of ethylene glycol and 1,2-difluoroethane are",
+    "options": [
+      "Gauche (I) and Gauche (III) respectively.",
+      "Gauche (I) and Anti (IV) respectively.",
+      "Anti (II) and Gauche (III) respectively.",
+      "Anti (II) and Anti (IV) respectively."
+    ],
+    "correct_answer": "Gauche (I) and Gauche (III) respectively.",
+    "explanation": "[CONCEPT]\nStep 1: Ethylene glycol is most stable in the gauche conformation due to intramolecular hydrogen bonding; 1,2-difluoroethane is most stable in the gauche conformation due to the gauche effect (hyperconjugative σ_C–H → σ*_C–F donation)."
+  },
+  {
+    "id": 134,
+    "question": "In the hydration/addition reaction of an alkene, choose the condition that gives an anti-Markovnikov product:",
+    "options": [
+      "Peroxide / HCl",
+      "Aqueous mercuric acetate treatment",
+      "Diborane addition (Hydroboration-oxidation)",
+      "Sulfuric acid addition"
+    ],
+    "correct_answer": "Diborane addition (Hydroboration-oxidation)",
+    "explanation": "[CONCEPT]\nStep 1: Hydroboration with B₂H₆ followed by basic H₂O₂ oxidation adds −H and −OH with regioselective anti-Markovnikov orientation."
+  },
+  {
+    "id": 135,
+    "question": "Which one of the following hexoses will give an osazone that has a different melting point from that of the osazone obtained from D-(+)-glucose?",
+    "options": [
+      "D-(+)-Mannose",
+      "D-(−)-Fructose",
+      "D-(+)-Galactose",
+      "D-Glucosamine"
+    ],
+    "correct_answer": "D-(+)-Galactose",
+    "explanation": "[CONCEPT]\nStep 1: Osazone formation destroys chirality only at C1 and C2. D-Glucose, D-mannose, and D-fructose share identical configurations at C3, C4, C5 and yield the exact same osazone (glucosazone). D-Galactose is a C4 epimer, producing a distinct galactosazone with a different melting point."
+  }
+]

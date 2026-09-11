@@ -43,12 +43,12 @@
     "section": "A",
     "question": "In a grid puzzle, each row and column in the 9 &times; 9 grid, as well as each 3 &times; 3 subgrid shown with heavy borders, must contain all the digits 1 &ndash; 9.18928854942939211?54912371276In the given partially filled grid, the digit in the square marked \"?\" is:",
     "options": [
-      "(a) 3",
-      "(b) 9",
-      "(c) 8",
-      "(d) 7"
+      "3",
+      "9",
+      "8",
+      "7"
     ],
-    "correct_answer": "(b) 9",
+    "correct_answer": "9",
     "explanation": "[CONCEPT]\nLet's find the value for the cell containing '?' (Row 6, Column 5).<br>1. Check the 3&times;3 subgrid (Rows 4-6, Columns 4-6) containing '?':<br>The subgrid already contains: 2 (Row 4, Col 5) and 5 (Row 6, Col 6). The remaining values needed are {1, 3, 4, 6, 7, 8, 9}.<br>2. Check Row 6:<br>Row 6 already contains: 1 (Col 2), 5 (Col 6), and 4 (Col 8).<br>3. Check Column 5:<br>Col 5 already contains: 8 (Row 1), 4 (Row 3), 2 (Row 4), and 1 (Row 7).<br>So '?' cannot be {1, 2, 4, 5, 8}. This leaves options {3, 6, 7, 9}.<br>4. Let's analyze the options: {3, 8, 9, 7}.<br>Notice that in the middle-left 3&times;3 subgrid (Rows 4-6, Cols 1-3), there is a 9 at Row 5, Col 3. In the middle-right 3&times;3 subgrid (Rows 4-6, Cols 7-9), there is a 9 at Row 4, Col 7. Thus, for the middle-center subgrid (Rows 4-6, Cols 4-6), the digit 9 must be in Row 6 (since Rows 4 and 5 already have 9s in the neighboring subgrids).<br>Since Row 6 has its 9, and Col 6 has 5, the only place for 9 in Row 6 within the center subgrid is at Column 5 (marked as '?'). Therefore, the cell marked '?' must be 9.",
     "type": "match_following_mcq",
     "list_1": [],

@@ -71,16 +71,58 @@ export interface ParsedMatchQuestion {
   preamble: string;
   list_1: string[];
   list_2: string[];
+  col1Header?: string;
+  col2Header?: string;
 }
 
 /**
- * Parses a Column I and Column II match question at runtime into dynamic list components.
+ * Automatically formats statement-based questions (P., Q., R., S.) and 
+ * matching columns into clean point-by-point lines at runtime for future questions.
+ */
+export function formatQuestionStatements(qText: string): string {
+  if (!qText || typeof qText !== "string") return qText;
+
+  let text = qText.trim();
+
+  // 1. Separate Group / Column / Medium / List headers with double newlines
+  text = text.replace(/([^\n])\s*((?:Group|Column|Medium|List|Table)\s*I(?:\s*\([^)]+\))?\s*:)/gi, '$1\n\n$2');
+  text = text.replace(/([^\n])\s*((?:Group|Column|Medium|List|Table)\s*II(?:\s*\([^)]+\))?\s*:)/gi, '$1\n\n$2');
+
+  // 2. Format P. Q. R. S. (T.) items onto separate lines if clustered together
+  if (/\bP\.\s+.+?\bQ\.\s+.+?\bR\.\s+.+?\bS\.\s+/.test(text)) {
+    text = text.replace(/([^\n])\s*\bP\.\s+/g, '$1\n\nP. ');
+    text = text.replace(/([^\n])\s*\bQ\.\s+/g, '$1\nQ. ');
+    text = text.replace(/([^\n])\s*\bR\.\s+/g, '$1\nR. ');
+    text = text.replace(/([^\n])\s*\bS\.\s+/g, '$1\nS. ');
+    text = text.replace(/([^\n])\s*\bT\.\s+/g, '$1\nT. ');
+    text = text.replace(/([^\n])\s*\bU\.\s+/g, '$1\nU. ');
+  }
+
+  // 3. Format 1. 2. 3. 4. items onto separate lines if clustered in matching / statement lists
+  if (/(?:Group\s*II|Column\s*II|Medium\s*II|List\s*II|statements|features|properties|below|following)[\s\S]*?\b1\.\s+[\s\S]+?\b2\.\s+[\s\S]+?\b3\.\s+/i.test(text)) {
+    text = text.replace(/([^\n])\s*\b1\.\s+/g, '$1\n1. ');
+    text = text.replace(/([^\n])\s*\b2\.\s+/g, '$1\n2. ');
+    text = text.replace(/([^\n])\s*\b3\.\s+/g, '$1\n3. ');
+    text = text.replace(/([^\n])\s*\b4\.\s+/g, '$1\n4. ');
+    text = text.replace(/([^\n])\s*\b5\.\s+/g, '$1\n5. ');
+    text = text.replace(/([^\n])\s*\b6\.\s+/g, '$1\n6. ');
+    text = text.replace(/([^\n])\s*\b7\.\s+/g, '$1\n7. ');
+  }
+
+  return text.replace(/\n{3,}/g, '\n\n').trim();
+}
+
+/**
+ * Parses Column/Group/Medium/List I and II match questions at runtime into dynamic list components.
  */
 export function parseColumnMatchQuestion(qText: string): ParsedMatchQuestion | null {
   if (!qText) return null;
-  const lowerText = qText.toLowerCase();
-  const col1Match = qText.match(/column\s*i\s*(?::|\b\s*[P-Zp-z]\.)/i);
-  const col2Match = qText.match(/column\s*ii\s*(?::|\b\s*\d)/i);
+
+  const col1Regex = /((?:Column|Group|Medium|List|Table)\s*I(?:\s*\([^)]+\))?)\s*(?::|\b\s*[P-Zp-z]\.)/i;
+  const col2Regex = /((?:Column|Group|Medium|List|Table)\s*II(?:\s*\([^)]+\))?)\s*(?::|\b\s*\d)/i;
+
+  const col1Match = qText.match(col1Regex);
+  const col2Match = qText.match(col2Regex);
 
   if (!col1Match || !col2Match) {
     return null;
@@ -97,6 +139,9 @@ export function parseColumnMatchQuestion(qText: string): ParsedMatchQuestion | n
   const col1Str = qText.substring(col1Idx, col2Idx).trim();
   const col2Str = qText.substring(col2Idx).trim();
 
+  const col1Header = col1Match[1]?.trim() || "List I";
+  const col2Header = col2Match[1]?.trim() || "List II";
+
   const list_1 = parseLetteredItems(col1Str);
   const list_2 = parseNumberedItems(col2Str);
 
@@ -104,7 +149,7 @@ export function parseColumnMatchQuestion(qText: string): ParsedMatchQuestion | n
     return null;
   }
 
-  return { preamble, list_1, list_2 };
+  return { preamble, list_1, list_2, col1Header, col2Header };
 }
 
 

@@ -329,7 +329,7 @@ export default function ActiveTest({ testId }: { testId: string }) {
               return (
                 <>
                   <h2 
-                    className="text-xl md:text-2xl font-bold text-text-primary leading-snug mb-6 md:mb-8"
+                    className="text-xl md:text-2xl font-bold text-text-primary leading-snug mb-6 md:mb-8 whitespace-pre-line"
                     dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : q.question }}
                   />
 
@@ -348,8 +348,8 @@ export default function ActiveTest({ testId }: { testId: string }) {
                       }}
                       selectedOption={answers[q.id]}
                       onSelectOption={handleSelectOption}
-                      col1Header="Column I"
-                      col2Header="Column II"
+                      col1Header={parsedColumnMatch.col1Header || "List I"}
+                      col2Header={parsedColumnMatch.col2Header || "List II"}
                     />
                   ) : q.type === "table_mcq" ? (
                     <TableMCQ

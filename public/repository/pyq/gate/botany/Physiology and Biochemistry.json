@@ -1,0 +1,1334 @@
+[
+  {
+    "id": 1,
+    "question": "If glucose is the sole respiratory substrate, the respiratory quotient (RQ) would be",
+    "options": [
+      "0.36",
+      "0.80",
+      "00",
+      "30"
+    ],
+    "correct_answer": "00",
+    "explanation": "[CONCEPT]\nStep 1: Respiratory Quotient (RQ) = Volume of CO₂ released / Volume of O₂ consumed.\nStep 2: For glucose (C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O), RQ = 6 / 6 = 1.00."
+  },
+  {
+    "id": 2,
+    "question": "The processes of guttation in plants usually take place through certain specialized structures known as",
+    "options": [
+      "hydathodes.",
+      "nectar glands.",
+      "stomata.",
+      "trichomes."
+    ],
+    "correct_answer": "hydathodes.",
+    "explanation": "[CONCEPT]\nStep 1: Guttation is the exudation of liquid water droplets from vein endings on leaf margins under high root pressure and low transpiration.\nStep 2: It occurs through specialized non-closing pores called hydathodes (epithem tissue)."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following amino acids is unable to form a proper peptide bond because of its secondary amino / imino ring structure?",
+    "options": [
+      "Valine",
+      "Cysteine",
+      "Arginine",
+      "Proline"
+    ],
+    "correct_answer": "Proline",
+    "explanation": "[CONCEPT]\nStep 1: Proline contains a secondary amine (imino group) where the aliphatic side chain forms a rigid five-membered pyrrolidine ring with the alpha-amino group.\nStep 2: This imposes conformational rigidity, introducing kinks/bends into polypeptide chains and restricting normal alpha-helical peptide geometry."
+  },
+  {
+    "id": 4,
+    "question": "The enzyme responsible for movement of transposable genetic elements around the genome is",
+    "options": [
+      "DNA helicase.",
+      "primase.",
+      "transposase.",
+      "reverse transcriptase."
+    ],
+    "correct_answer": "transposase.",
+    "explanation": "[CONCEPT]\nStep 1: Transposase recognizes the terminal inverted repeats of a DNA transposon, cleaves target DNA, and catalyzes integration into new genomic loci."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following phytohormones induces climacteric fruit ripening?",
+    "options": [
+      "Ethylene",
+      "Abscisic acid",
+      "Zeatin",
+      "Gibberellins"
+    ],
+    "correct_answer": "Ethylene",
+    "explanation": "[CONCEPT]\nStep 1: Ethylene (C₂H₄) is the gaseous plant hormone responsible for triggering and coordinating climacteric fruit ripening, chlorophyll degradation, and fruit softening."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following statements about the hexose monophosphate (HMP) shunt / Pentose Phosphate Pathway is not true?",
+    "options": [
+      "Major means in the cell by which reduced NADP (NADPH) is produced.",
+      "Major pathway by which necessary ribose and deoxyribose are supplied in the biosynthesis of nucleotides and nucleic acids.",
+      "This pathway takes place in cytoplasm and requires oxygen for its entire operation.",
+      "It leads to synthesis of 28 molecules of ATP."
+    ],
+    "correct_answer": "It leads to synthesis of 28 molecules of ATP.",
+    "explanation": "[CONCEPT]\nStep 1: The pentose phosphate pathway generates NADPH (reducing power) and ribose-5-phosphate without direct production of ATP.\nStep 2: Stating that it directly yields 28 molecules of ATP is incorrect."
+  },
+  {
+    "id": 7,
+    "question": "Photooxidation of chlorophyll in photosynthetic membranes is prevented primarily by",
+    "options": [
+      "carotenoids.",
+      "anthocyanin.",
+      "phycobilin.",
+      "fucoxanthin."
+    ],
+    "correct_answer": "carotenoids.",
+    "explanation": "[CONCEPT]\nStep 1: Carotenoids (xanthophylls/carotenes) quench triplet chlorophyll and singlet oxygen (¹O₂), preventing photo-oxidative damage through the xanthophyll cycle (zeaxanthin non-photochemical quenching)."
+  },
+  {
+    "id": 8,
+    "question": "How many molecules of ATP are produced during the oxidation of each molecule of NADH via the mitochondrial electron transport chain (standard classical stoichiometry)?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "3",
+    "explanation": "[CONCEPT]\nStep 1: In classical biochemistry, oxidation of 1 molecule of NADH transfers electrons through Complexes I, III, and IV, pumping 10 protons to generate approximately 3 (2.5–3) ATP molecules."
+  },
+  {
+    "id": 9,
+    "question": "Photosystem II (PS II) reaction center has an absorption maximum at",
+    "options": [
+      "450 nm",
+      "660 nm",
+      "680 nm",
+      "700 nm"
+    ],
+    "correct_answer": "680 nm",
+    "explanation": "[CONCEPT]\nStep 1: Photosystem II has its chlorophyll a reaction center absorption maximum at 680 nm (P680).\nStep 2: Photosystem I absorbs maximally at 700 nm (P700)."
+  },
+  {
+    "id": 10,
+    "question": "Initial CO₂ fixation in the C₄ photosynthetic pathway occurs in the cytoplasm/chloroplast of",
+    "options": [
+      "mesophyll cell.",
+      "bundle sheath cell.",
+      "palisade parenchyma.",
+      "guard cell."
+    ],
+    "correct_answer": "mesophyll cell.",
+    "explanation": "[CONCEPT]\nStep 1: In C₄ plants, initial atmospheric CO₂ (as HCO₃⁻) fixation is carried out by PEP carboxylase in the cytosol of mesophyll cells.\nStep 2: The resulting 4-carbon acid is transported to bundle sheath cells for decarboxylation and RuBisCO Calvin cycle fixation."
+  },
+  {
+    "id": 11,
+    "question": "The growth retardant cycocel (CCC / chlormequat chloride) inhibits sub-apical cell division and stem elongation by blocking the biosynthesis of",
+    "options": [
+      "abscisic acid.",
+      "kinetin.",
+      "traumatic acid.",
+      "gibberellin."
+    ],
+    "correct_answer": "gibberellin.",
+    "explanation": "[CONCEPT]\nStep 1: Cycocel (CCC) is an anti-gibberellin plant growth retardant that blocks ent-copalyl diphosphate synthase in the early plastidial steps of gibberellin biosynthesis."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following cell organelles is involved in the photorespiratory (C₂) glycolate pathway along with chloroplast and mitochondria?",
+    "options": [
+      "Peroxisomes",
+      "Ribosomes",
+      "Dictyosomes",
+      "Lysosomes"
+    ],
+    "correct_answer": "Peroxisomes",
+    "explanation": "[CONCEPT]\nStep 1: The photorespiratory (C₂ / PCO) cycle requires metabolic cooperation between three organelles in sequence: Chloroplast (glycolate synthesis) → Peroxisome (glyoxylate/glycine synthesis) → Mitochondria (serine synthesis)."
+  },
+  {
+    "id": 13,
+    "question": "The loss of liquid water through specialized hydathodes at leaf margins is called",
+    "options": [
+      "guttation.",
+      "transpiration.",
+      "secretion.",
+      "bleeding."
+    ],
+    "correct_answer": "guttation.",
+    "explanation": "[CONCEPT]\nStep 1: Guttation is the exudation of xylem sap as liquid drops through hydathodes.\nStep 2: Transpiration is water loss in the vapor phase via stomata."
+  },
+  {
+    "id": 14,
+    "question": "A phytohormone that induces stomatal closure in response to water stress and drought is",
+    "options": [
+      "abscisic acid (ABA).",
+      "gibberellins.",
+      "ethylene.",
+      "zeatin."
+    ],
+    "correct_answer": "abscisic acid (ABA).",
+    "explanation": "[CONCEPT]\nStep 1: Under water deficit, roots and leaves synthesize Abscisic Acid (ABA).\nStep 2: ABA triggers Ca²⁺ influx and K⁺/anion efflux in guard cells, causing loss of turgor and stomatal pore closure."
+  },
+  {
+    "id": 15,
+    "question": "When a plant cell expends metabolic energy (ATP) to transport a solute across its membrane against an electrochemical / concentration gradient, the process is called",
+    "options": [
+      "diffusion.",
+      "facilitated diffusion.",
+      "active transport.",
+      "osmosis."
+    ],
+    "correct_answer": "active transport.",
+    "explanation": "[CONCEPT]\nStep 1: Active transport moves ions/solutes against their electrochemical gradient utilizing metabolic energy directly (primary ATP pump) or indirectly (secondary proton-coupled co-transport)."
+  },
+  {
+    "id": 16,
+    "question": "The primary CO₂ acceptor in the mesophyll cells of C₄ plants is",
+    "options": [
+      "3-phosphoglyceric acid.",
+      "ribulose 1,5-bisphosphate.",
+      "phosphoenolpyruvate (PEP).",
+      "xylulose 5-phosphate."
+    ],
+    "correct_answer": "phosphoenolpyruvate (PEP).",
+    "explanation": "[CONCEPT]\nStep 1: Phosphoenolpyruvate (PEP, 3-carbon compound) is the primary CO₂/HCO₃⁻ acceptor in C₄ mesophyll cells, catalyzed by PEP carboxylase."
+  },
+  {
+    "id": 17,
+    "question": "The far-red absorbing physiologically active form of phytochrome (Pfr) has an absorption maximum at",
+    "options": [
+      "660 nm",
+      "680 nm",
+      "700 nm",
+      "730 nm"
+    ],
+    "correct_answer": "730 nm",
+    "explanation": "[CONCEPT]\nStep 1: Phytochrome exists in two interconvertible photo-states:\n- Pr (inactive form): absorbs red light at 660 nm\n- Pfr (active form): absorbs far-red light at 730 nm."
+  },
+  {
+    "id": 18,
+    "question": "Light Harvesting Complex II (LHC II) is located in the",
+    "options": [
+      "thylakoid lumen.",
+      "chloroplast stroma.",
+      "thylakoid membrane (stacked grana).",
+      "outer membrane of chloroplast."
+    ],
+    "correct_answer": "thylakoid membrane (stacked grana).",
+    "explanation": "[CONCEPT]\nStep 1: LHC II is an integral transmembrane pigment-protein complex located predominantly in the appressed/stacked granal thylakoid membranes."
+  },
+  {
+    "id": 19,
+    "question": "A known uncoupler of the mitochondrial electron transport chain and oxidative phosphorylation that collapses the proton gradient is",
+    "options": [
+      "dinitrophenol (2,4-DNP).",
+      "ancymidol.",
+      "triacontanol.",
+      "hexaconazole."
+    ],
+    "correct_answer": "dinitrophenol (2,4-DNP).",
+    "explanation": "[CONCEPT]\nStep 1: 2,4-Dinitrophenol (DNP) is a lipophilic protonophore that shuttles H⁺ across the inner mitochondrial membrane, dissipating the proton motive force (PMF) and uncoupling electron transport from ATP synthesis."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following amino acids acts as the primary precursor for indole-3-acetic acid (IAA / auxin) biosynthesis?",
+    "options": [
+      "Tryptophan",
+      "Methionine",
+      "Putrescine",
+      "Geranylgeranyl pyrophosphate"
+    ],
+    "correct_answer": "Tryptophan",
+    "explanation": "[CONCEPT]\nStep 1: L-Tryptophan is the aromatic amino acid precursor for indole-3-acetic acid (IAA) synthesis via the IPA (indole-3-pyruvic acid) and YUCCA pathways."
+  },
+  {
+    "id": 21,
+    "question": "Two plant cells X and Y are adjacent to each other:\n- Cell X has osmotic potential (Ψs) = −20 bars and turgor pressure (Ψp) = 12 bars.\n- Cell Y has osmotic potential (Ψs) = −16 bars and turgor pressure (Ψp) = 6 bars.\n\nIn which direction will water spontaneously move?",
+    "options": [
+      "From cell X to cell Y",
+      "From cell Y to cell X",
+      "There will be no movement of water",
+      "Water can move in both directions equally"
+    ],
+    "correct_answer": "From cell Y to cell X",
+    "explanation": "[CONCEPT]\nStep 1: Water potential Ψw = Ψs + Ψp.\n- Cell X: Ψw = −20 + 12 = −8 bars (DPD = 8 bars).\n- Cell Y: Ψw = −16 + 6 = −10 bars (DPD = 10 bars).\nStep 2: Water moves from higher (less negative) water potential to lower (more negative) water potential: from Cell X (−8 bars) to Cell Y (−10 bars), or in terms of suction pressure/DPD from low DPD (Cell X) to high DPD (Cell Y)."
+  },
+  {
+    "id": 22,
+    "question": "In photorespiration, glycolate and glyoxylate are produced sequentially in which organelles?",
+    "options": [
+      "Chloroplast and Mitochondria",
+      "Chloroplast and Peroxisome",
+      "Peroxisome and Mitochondria",
+      "Peroxisome and Chloroplast"
+    ],
+    "correct_answer": "Chloroplast and Peroxisome",
+    "explanation": "[CONCEPT]\nStep 1: Glycolate is formed in Chloroplasts via dephosphorylation of 2-phosphoglycolate.\nStep 2: Glycolate is transported into Peroxisomes where glycolate oxidase converts it to Glyoxylate and H₂O₂."
+  },
+  {
+    "id": 23,
+    "question": "In the two-step biological nitrification process:\nStep I: NH₄⁺ + O₂ ⎯(Nitrosomonas)→ [ I ]\nStep II: [ I ] + O₂ ⎯(Nitrobacter)→ [ II ]\n\nWhich of the following identifies [ I ] and [ II ] correctly?",
+    "options": [
+      "I is NO₂⁻, II is N₂O",
+      "I is NO₃⁻, II is NO₂⁻",
+      "I is NO₂⁻ (Nitrite), II is NO₃⁻ (Nitrate)",
+      "I is N₂O, II is NO₂⁻"
+    ],
+    "correct_answer": "I is NO₂⁻ (Nitrite), II is NO₃⁻ (Nitrate)",
+    "explanation": "[CONCEPT]\nStep 1: Nitrosomonas oxidizes ammonium (NH₄⁺) to nitrite (NO₂⁻) [Compound I].\nStep 2: Nitrobacter oxidizes nitrite (NO₂⁻) to nitrate (NO₃⁻) [Compound II]."
+  },
+  {
+    "id": 24,
+    "question": "In mitochondrial oxidative phosphorylation, which pair of inhibitors blocks electron transfer at Complex III (Cytochrome bc₁) and Complex IV (Cytochrome c oxidase), respectively?",
+    "options": [
+      "Rotenone and CO",
+      "Antimycin A and CO (or Cyanide)",
+      "Antimycin A and DCMU",
+      "DCMU and CO"
+    ],
+    "correct_answer": "Antimycin A and CO (or Cyanide)",
+    "explanation": "[CONCEPT]\nStep 1: Antimycin A binds to the Qi site of Cytochrome bc₁ (Complex III).\nStep 2: Carbon monoxide (CO) and Cyanide (CN⁻) inhibit Cytochrome c oxidase (Complex IV / Cyt a+a₃)."
+  },
+  {
+    "id": 25,
+    "question": "In the Krebs (citric acid) cycle, in which of the following enzymatic steps is nucleoside triphosphate (GTP / ATP) generated via substrate-level phosphorylation?",
+    "options": [
+      "Citrate to isocitrate",
+      "α-Ketoglutarate to succinyl-CoA",
+      "Fumarate to malate",
+      "Succinyl-CoA to succinate"
+    ],
+    "correct_answer": "Succinyl-CoA to succinate",
+    "explanation": "[CONCEPT]\nStep 1: Succinyl-CoA synthetase (succinate thiokinase) converts high-energy thioester Succinyl-CoA to succinate with concomitant phosphorylation of GDP/ADP to GTP/ATP."
+  },
+  {
+    "id": 26,
+    "question": "The essential trace metal cofactor required for the catalytic activity of the nitrogenase enzyme complex in diazotrophs is",
+    "options": [
+      "zinc.",
+      "cobalt.",
+      "copper.",
+      "molybdenum (and Iron)."
+    ],
+    "correct_answer": "molybdenum (and Iron).",
+    "explanation": "[CONCEPT]\nStep 1: The catalytic MoFe protein (dinitrogenase) contains the iron-molybdenum cofactor (FeMo-co) essential for binding and reducing atmospheric N₂ to NH₃."
+  },
+  {
+    "id": 27,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Enzyme):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Phosphoglucomutase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hexokinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Fructokinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Sucrose phosphatase\n\nGroup II (Product):\n1. Fructose-6-PO₄\n2. Glucose-1-PO₄\n3. Glucose-6-PO₄\n4. UDP-glu + PPi\n5. Sucrose + Pi\n6. Sucrose 6-PO₄</span></div></div>",
+    "options": [
+      "P–3; Q–1; R–4; S–6",
+      "P–6; Q–4; R–2; S–5",
+      "P–4; Q–6; R–5; S–3",
+      "P–2; Q–3; R–1; S–5"
+    ],
+    "correct_answer": "P–2; Q–3; R–1; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Phosphoglucomutase interconverts G6P and Glucose-1-PO₄ (P–2).\nStep 2: Hexokinase phosphorylates glucose to Glucose-6-PO₄ (Q–3).\nStep 3: Fructokinase phosphorylates fructose to Fructose-6-PO₄ / F1P (R–1).\nStep 4: Sucrose phosphatase hydrolyzes sucrose-6-P to Sucrose + Pi (S–5)."
+  },
+  {
+    "id": 28,
+    "question": "Choose the correct match for photosynthetic pigments and their absorption maxima:\n\nGroup I (Pigment):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Chlorophyll a</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>c-Phycoerythrin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>c-Phycocyanin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Bacteriochlorophyll b\n\nGroup II (Absorption maxima):\n1. 1020 nm\n2. 350 nm\n3. 615 nm\n4. 750 nm\n5. 660–680 nm\n6. 550 nm</span></div></div>",
+    "options": [
+      "P–5; Q–6; R–3; S–1",
+      "P–1; Q–2; R–3; S–4",
+      "P–1; Q–3; R–6; S–5",
+      "P–5; Q–6; R–1; S–2"
+    ],
+    "correct_answer": "P–5; Q–6; R–3; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Chlorophyll a absorbs in red at 680 nm (P–5).\nStep 2: c-Phycoerythrin absorbs in green at 550 nm (Q–6).\nStep 3: c-Phycocyanin absorbs in orange-red at 615 nm (R–3).\nStep 4: Bacteriochlorophyll b absorbs in near-IR at 1020 nm (S–1)."
+  },
+  {
+    "id": 29,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Metabolite):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Menthol</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ajmalicine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Caffeine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Carotene\n\nGroup II (Chemical nature):\n1. Diterpene\n2. Tetraterpene\n3. Purine alkaloid\n4. Phenylpropanoid\n5. Indole alkaloid\n6. Monoterpene</span></div></div>",
+    "options": [
+      "P–6; Q–5; R–2; S–3",
+      "P–5; Q–6; R–3; S–2",
+      "P–6; Q–5; R–3; S–2",
+      "P–1; Q–2; R–3; S–4"
+    ],
+    "correct_answer": "P–6; Q–5; R–3; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Menthol is a C10 Monoterpene alcohol (P–6).\nStep 2: Ajmalicine is an Indole alkaloid (Q–5).\nStep 3: Caffeine (1,3,7-trimethylxanthine) is a Purine alkaloid (R–3).\nStep 4: Carotene is a C40 Tetraterpenoid (S–2)."
+  },
+  {
+    "id": 30,
+    "question": "In the photosynthetic Z-scheme electron transport chain:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <div class=\"flex flex-wrap items-center justify-center gap-2 text-xs font-bold\">\n    <span class=\"px-2 py-1 bg-slate-800 border border-slate-700 rounded-lg\">H₂O</span>\n    <span class=\"text-slate-400\">→</span>\n    <span class=\"px-2 py-1 bg-rose-950/60 border border-rose-600 rounded-lg text-rose-300\">PS II (P680)</span>\n    <span class=\"text-amber-400\">⎯[ Site X ]→</span>\n    <span class=\"px-2 py-1 bg-slate-800 border border-slate-700 rounded-lg text-amber-300\">PQ</span>\n    <span class=\"text-amber-400\">⎯[ Site Y ]→</span>\n    <span class=\"px-2 py-1 bg-emerald-950/60 border border-emerald-600 rounded-lg text-emerald-300\">Cyt b₆f</span>\n    <span class=\"text-slate-400\">→</span>\n    <span class=\"px-2 py-1 bg-slate-800 border border-slate-700 rounded-lg\">PC</span>\n    <span class=\"text-slate-400\">→</span>\n    <span class=\"px-2 py-1 bg-sky-950/60 border border-sky-600 rounded-lg text-sky-300\">PS I (P700)</span>\n  </div>\n</div>\n\nIdentify the specific chemical inhibitors for sites X and Y, respectively:",
+    "options": [
+      "P−DCMU; Y−CO",
+      "P−DCMU; Y−Paraquat",
+      "P−CO; Y−DBMIB",
+      "P−DCMU; Y−DBMIB"
+    ],
+    "correct_answer": "P−DCMU; Y−DBMIB",
+    "explanation": "[CONCEPT]\nStep 1: DCMU (Diuron) binds to the QB site of PS II, blocking electron transfer to plastoquinone (Site X).\nStep 2: DBMIB (dibromothymoquinone) competes with plastoquinol binding at Cyt b₆f, blocking electron transfer between PQ and Cyt b₆f (Site Y)."
+  },
+  {
+    "id": 31,
+    "question": "Identify the restriction endonuclease that recognizes the palindromic hexanucleotide sequence 5′–G↓GATCC–3′ and generates 5′-sticky cohesive ends:",
+    "options": [
+      "BamHI",
+      "EcoRI",
+      "AluI",
+      "HaeIII"
+    ],
+    "correct_answer": "BamHI",
+    "explanation": "[CONCEPT]\nStep 1: BamHI recognizes 5′–G↓GATCC–3′.\nStep 2: EcoRI recognizes 5′–G↓AATTC–3′; AluI recognizes 5′–AG↓CT–3′; HaeIII recognizes 5′–GG↓CC–3′."
+  },
+  {
+    "id": 32,
+    "question": "The physical process by which water undergoes a phase transition from liquid directly into an amorphous non-crystalline glassy solid is known as",
+    "options": [
+      "desiccation.",
+      "vitrification.",
+      "ice nucleation.",
+      "hyperhydricity."
+    ],
+    "correct_answer": "vitrification.",
+    "explanation": "[CONCEPT]\nStep 1: Vitrification prevents ice crystals that destroy cellular membranes during cryogenic preservation."
+  },
+  {
+    "id": 33,
+    "question": "In plant cells, storage and mobilization of neutral lipids (triacylglycerols) occurs in specialized single-membrane microbodies known as",
+    "options": [
+      "glyoxysomes.",
+      "peroxisomes.",
+      "lysosomes.",
+      "spherosomes (oleosomes / lipid droplets)."
+    ],
+    "correct_answer": "spherosomes (oleosomes / lipid droplets).",
+    "explanation": "[CONCEPT]\nStep 1: Spherosomes (oleosomes) are lipid-storing organelles bounded by a phospholipid monolayer embedded with oleosin proteins."
+  },
+  {
+    "id": 34,
+    "question": "Following are characteristics of one C₄ photosynthetic subtype:\n- Mitochondria decarboxylate malate.\n- Mesophyll cells form aspartate from oxaloacetate.\n- Presence of double bundle sheath.\n\nIdentify the specific C₄ subtype:",
+    "options": [
+      "NADP-ME type",
+      "PCK-type",
+      "NAD-ME type",
+      "CAM-type"
+    ],
+    "correct_answer": "NAD-ME type",
+    "explanation": "[CONCEPT]\nStep 1: NAD-malic enzyme (NAD-ME) type C₄ plants (e.g., Panicum miliaceum, Amaranthus) decarboxylate malate in bundle sheath mitochondria using mitochondrial NAD-ME."
+  },
+  {
+    "id": 35,
+    "question": "Identify the two enzymes catalyzing the following reactions in plant nitrogen assimilation:\nReaction 1: NO₂⁻ + 6e⁻ + 8H⁺ → NH₄⁺ + 2H₂O\nReaction 2: Glutamate + NH₄⁺ + ATP ⎯(Mg²⁺)→ Glutamine + ADP + Pi",
+    "options": [
+      "Nitrite reductase and Glutamate dehydrogenase",
+      "Nitrate reductase and Glutamine synthetase",
+      "Nitrite reductase and Glutamine synthetase",
+      "Nitrite reductase and Glutamate synthase (GOGAT)"
+    ],
+    "correct_answer": "Nitrite reductase and Glutamine synthetase",
+    "explanation": "[CONCEPT]\nStep 1: Reaction 1 is catalyzed by Chloroplastic Nitrite Reductase (6-electron reduction).\nStep 2: Reaction 2 is catalyzed by Glutamine Synthetase (GS)."
+  },
+  {
+    "id": 36,
+    "question": "In the stepwise univalent reduction of molecular oxygen: O₂ → O₂•⁻ (Superoxide) → [ X ] → [ Y ] → H₂O.\nChoose the correct reactive oxygen species formed at steps X and Y:",
+    "options": [
+      "X = ¹O₂; Y = •OH",
+      "X = H₂O₂ (Hydrogen peroxide); Y = •OH (Hydroxyl radical)",
+      "X = •OH; Y = H₂O₂",
+      "X = •OH; Y = ¹O₂"
+    ],
+    "correct_answer": "X = H₂O₂ (Hydrogen peroxide); Y = •OH (Hydroxyl radical)",
+    "explanation": "[CONCEPT]\nStep 1: Sequential 1-electron reduction of O₂ produces:\nO₂ + e⁻ → O₂•⁻ (Superoxide)\nO₂•⁻ + e⁻ + 2H⁺ → H₂O₂ [X]\nH₂O₂ + e⁻ + H⁺ → •OH + H₂O [Y]\n•OH + e⁻ + H⁺ → H₂O."
+  },
+  {
+    "id": 37,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Secondary metabolite):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Coniine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Morphine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Quinine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Chalcone\n\nGroup II (Biosynthetic precursor):\n1. Tryptophan\n2. Phenylalanine\n3. Lysine\n4. Tyrosine\n5. Ornithine\n6. Agmatine</span></div></div>",
+    "options": [
+      "P–1; Q–5; R–3; S–4",
+      "P–3; Q–4; R–1; S–2",
+      "P–2; Q–1; R–2; S–3",
+      "P–4; Q–3; R–6; S–5"
+    ],
+    "correct_answer": "P–3; Q–4; R–1; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Coniine is derived from Lysine/acetate (P–3).\nStep 2: Morphine is derived from Tyrosine (P–4).\nStep 3: Quinine is derived from Tryptophan (R–1).\nStep 4: Chalcone is derived from Phenylalanine (phenylpropanoid pathway) (S–2)."
+  },
+  {
+    "id": 38,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Enzyme):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Glycogen phosphorylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hexokinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pyruvate carboxylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>RuBisCO\n\nGroup II (Pathway):\n1. Glycolytic pathway\n2. Calvin cycle (C₃)\n3. Gluconeogenesis / Anaplerotic reaction\n4. C₄ cycle\n5. Glycogenolysis\n6. C₆ cycle</span></div></div>",
+    "options": [
+      "P–5; Q–1; R–3; S–2",
+      "P–4; Q–2; R–5; S–1",
+      "P–2; Q–1; R–3; S–4",
+      "P–6; Q–5; R–2; S–1"
+    ],
+    "correct_answer": "P–5; Q–1; R–3; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Glycogen phosphorylase catalyzes phosphorolysis in Glycogenolysis (P–5).\nStep 2: Hexokinase catalyzes Step 1 in Glycolysis (Q–1).\nStep 3: Pyruvate carboxylase converts pyruvate to oxaloacetate in Gluconeogenesis/Anaplerosis (R–3).\nStep 4: RuBisCO fixes CO₂ in the Calvin cycle (S–2)."
+  },
+  {
+    "id": 39,
+    "question": "Choose the correct match between plant hormones and their physiological functions:\n\nGroup I (Hormone):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Gibberellin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>IAA (Auxin)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Cytokinin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ethylene\n\nGroup II (Function):\n1. Phototropism and gravitropism\n2. Stomatal movement\n3. Delay of senescence (Richmond-Lang effect)\n4. Combating water deficit\n5. Seed germination & alpha-amylase induction\n6. Fruit ripening</span></div></div>",
+    "options": [
+      "P–6; Q–4; R–1; S–2",
+      "P–5; Q–1; R–3; S–6",
+      "P–3; Q–4; R–5; S–1",
+      "P–4; Q–3; R–1; S–5"
+    ],
+    "correct_answer": "P–5; Q–1; R–3; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Gibberellin mobilizes seed storage reserves for Germination (P–5).\nStep 2: Auxin mediates Phototropism and Gravitropism via differential elongation (Q–1).\nStep 3: Cytokinins delay senescence (Richmond-Lang effect) (R–3).\nStep 4: Ethylene drives climacteric Fruit ripening (S–6)."
+  },
+  {
+    "id": 40,
+    "question": "Statement for Linked Questions 40 and 41:\nTwo proteins having the same molecular weight of 192,000 Dalton were identified. During post-translational modification, one of the proteins is phosphorylated.\n\nWhat will be the nature of the band(s) if the mixture of these proteins is separated in standard SDS-PAGE electrophoretic gel?",
+    "options": [
+      "Single band",
+      "Distinct two bands",
+      "No band(s) at all",
+      "Bands with a number of subunits"
+    ],
+    "correct_answer": "Single band",
+    "explanation": "[CONCEPT]\nStep 1: SDS-PAGE resolves proteins purely by molecular mass.\nStep 2: Phosphorylation adds only ~80 Da, which cannot separate two large 192 kDa proteins, resulting in a single co-migrating band."
+  },
+  {
+    "id": 41,
+    "question": "Statement for Linked Questions 40 and 41:\nFor further analytical separation and resolution of these two 192 kDa proteins, what method should one adopt?",
+    "options": [
+      "2-D gel electrophoresis",
+      "Gel filtration chromatography",
+      "Native gel electrophoresis without pI focus",
+      "Reverse phase chromatography"
+    ],
+    "correct_answer": "2-D gel electrophoresis",
+    "explanation": "[CONCEPT]\nStep 1: Isoelectric focusing (1st dimension of 2D gel) separates based on isoelectric point (pI).\nStep 2: The negatively charged phosphate group shifts the pI, resolving the two proteins into two distinct spots."
+  },
+  {
+    "id": 42,
+    "question": "The glyoxylate cycle operating in glyoxysomes is used by germinating oilseeds for",
+    "options": [
+      "cyclic adenosine monophosphate synthesis.",
+      "precursors for synthesis of aromatic amino acids.",
+      "generating 4-carbon intermediates (succinate) to synthesize glucose from acetyl-CoA (gluconeogenesis).",
+      "4-carbon intermediates during growth on hexose."
+    ],
+    "correct_answer": "generating 4-carbon intermediates (succinate) to synthesize glucose from acetyl-CoA (gluconeogenesis).",
+    "explanation": "[CONCEPT]\nStep 1: The glyoxylate cycle bypasses the two decarboxylation steps of the TCA cycle using isocitrate lyase and malate synthase.\nStep 2: It converts two acetyl-CoA molecules into succinate, enabling net gluconeogenesis from fatty acids."
+  },
+  {
+    "id": 43,
+    "question": "In the Krebs cycle, which of the following enzyme-catalyzed reactions release CO₂ (oxidative decarboxylation)?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Malate dehydrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Succinate dehydrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Isocitrate dehydrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>α-Ketoglutarate dehydrogenase</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "R, S"
+    ],
+    "correct_answer": "R, S",
+    "explanation": "[CONCEPT]\nStep 1: Isocitrate dehydrogenase decarboxylates isocitrate (6C) to α-ketoglutarate (5C) + CO₂ (R).\nStep 2: α-Ketoglutarate dehydrogenase decarboxylates α-ketoglutarate (5C) to Succinyl-CoA (4C) + CO₂ (S)."
+  },
+  {
+    "id": 44,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Stress-induced biomolecule):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Phytochelatin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Scytonemin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Proline</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Chaperonin (Hsp)\n\nGroup II (Stress type):\n1. Heat shock\n2. Phosphate limitation\n3. Carbon limitation\n4. Metal stress (Heavy metals)\n5. UV radiation\n6. Osmotic stress (Drought/Salinity)</span></div></div>",
+    "options": [
+      "P–2; Q–5; R–6; S–1",
+      "P–3; Q–4; R–6; S–2",
+      "P–4; Q–5; R–6; S–1",
+      "P–1; Q–6; R–4; S–3"
+    ],
+    "correct_answer": "P–4; Q–5; R–6; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Phytochelatin detoxifies Heavy metals (P–4).\nStep 2: Scytonemin shields against UV radiation in cyanobacteria (Q–5).\nStep 3: Proline acts as an osmoprotectant in Osmotic stress (R–6).\nStep 4: Chaperonins assist protein folding during Heat shock (S–1)."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following combinations represents the correct glycosidic linkage and monomer structures of maltose and sucrose, respectively?",
+    "options": [
+      "Maltose: α(1→4) Glc-Glc; Sucrose: β(1→6) Glc-Gal",
+      "Maltose: β(1→4) Gal-Glc; Sucrose: α(1→2) Glc-Fru",
+      "Maltose: O-α-D-glucopyranosyl-(1→4)-D-glucopyranose; Sucrose: O-α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside",
+      "Maltose: α(1→6) Glc-Glc; Sucrose: α(1→4) Glc-Fru"
+    ],
+    "correct_answer": "Maltose: O-α-D-glucopyranosyl-(1→4)-D-glucopyranose; Sucrose: O-α-D-glucopyranosyl-(1→2)-β-D-fructofuranoside",
+    "explanation": "[CONCEPT]\nStep 1: Maltose is a reducing disaccharide composed of two D-glucose units with an α(1→4) glycosidic bond.\nStep 2: Sucrose is a non-reducing disaccharide composed of α-D-glucose and β-D-fructose linked via an α(1→2)β glycosidic bond."
+  },
+  {
+    "id": 46,
+    "question": "From the given statements regarding phytohormones, identify the incorrect one.",
+    "options": [
+      "Gibberellin (GA) is involved in bolting and flowering.",
+      "Ethylene is produced during ripening of seeds exclusively without fruit involvement.",
+      "Auxin promotes cell elongation and adventitious root formation.",
+      "Cytokinin promotes cell division and delays leaf senescence."
+    ],
+    "correct_answer": "Ethylene is produced during ripening of seeds exclusively without fruit involvement.",
+    "explanation": "[CONCEPT]\nStep 1: Ethylene is famously synthesized in climacteric fleshy fruit tissues to drive fruit ripening and senescence, rather than being confined to seeds."
+  },
+  {
+    "id": 47,
+    "question": "The balanced chemical equation for the reduction of nicotinamide adenine dinucleotide phosphate (NADP⁺) in photosynthetic electron transport is",
+    "options": [
+      "NADP⁺ + 2H⁺ → NADPH⁺ + H⁺",
+      "NADP⁺ + H⁺ + e⁻ → NADPH",
+      "NADP⁺ + H⁺ + 2e⁻ → NADPH",
+      "NADP⁺ + 2H⁺ + 2e⁻ → NADPH₂"
+    ],
+    "correct_answer": "NADP⁺ + H⁺ + 2e⁻ → NADPH",
+    "explanation": "[CONCEPT]\nStep 1: Ferredoxin-NADP⁺ reductase (FNR) transfers a hydride ion (:H⁻ = 2e⁻ + H⁺) from reduced ferredoxin to the nicotinamide ring of NADP⁺: NADP⁺ + H⁺ + 2e⁻ → NADPH."
+  },
+  {
+    "id": 48,
+    "question": "Statement for Linked Questions 48 and 49:\nEnzyme [E] reacts with substrate [S] to form an [ES] complex. In the presence of inhibitor, kinetic parameters alter.\n\nWhich of the following statements are incorrect about enzyme-mediated reactions in the presence of inhibitors?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Competitive inhibition causes a rise in KM value without altering Vmax.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Noncompetitive inhibition causes a decrease in Vmax and a rise in KM.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Uncompetitive inhibition causes a decrease in Vmax without altering KM.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Uncompetitive inhibition causes a decrease in both Vmax and KM.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "P, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Pure Noncompetitive inhibition decreases Vmax while KM remains unchanged (Q is incorrect).\nStep 2: Uncompetitive inhibition binds only to [ES] complex, decreasing BOTH Vmax and KM by the same factor (R is incorrect; S and P are correct)."
+  },
+  {
+    "id": 49,
+    "question": "In Lineweaver-Burk double reciprocal plots (1/V₀ vs 1/[S]), how do competitive and pure noncompetitive inhibitors alter the slope and y-intercept compared to uninhibited enzyme reactions?\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 360 200\" class=\"w-full max-w-sm\">\n    <line x1=\"120\" y1=\"170\" x2=\"340\" y2=\"170\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <line x1=\"120\" y1=\"20\" x2=\"120\" y2=\"170\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <text x=\"60\" y=\"90\" fill=\"#cbd5e1\" font-size=\"11\" transform=\"rotate(-90 60,90)\" text-anchor=\"middle\">1 / V₀</text>\n    <text x=\"230\" y=\"190\" fill=\"#cbd5e1\" font-size=\"11\" text-anchor=\"middle\">1 / [S]</text>\n    <line x1=\"60\" y1=\"170\" x2=\"320\" y2=\"60\" stroke=\"#10b981\" stroke-width=\"2.5\" />\n    <text x=\"325\" y=\"60\" fill=\"#10b981\" font-size=\"10\" font-weight=\"bold\">No Inhibitor</text>\n    <line x1=\"90\" y1=\"170\" x2=\"320\" y2=\"30\" stroke=\"#38bdf8\" stroke-width=\"2.5\" stroke-dasharray=\"5,3\" />\n    <text x=\"325\" y=\"35\" fill=\"#38bdf8\" font-size=\"10\" font-weight=\"bold\">+ Competitive</text>\n  </svg>\n</div>\n\nIdentify the correct expression for the slope and ordinate (y-intercept) in Competitive inhibition:",
+    "options": [
+      "P, S",
+      "R, S",
+      "P, Q",
+      "Q, R"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: For noncompetitive inhibition (P): Slope = (KM/Vmax)(1 + [I]/Kᵢ) and Y-intercept = (1/Vmax)(1 + [I]/Kᵢ).\nStep 2: For competitive inhibition (Q): Slope = (KM/Vmax)(1 + [I]/Kᵢ) and Y-intercept = 1/Vmax."
+  },
+  {
+    "id": 50,
+    "question": "C₄ photosynthesis is an anatomical and biochemical adaptation that enhances",
+    "options": [
+      "the concentration of CO₂ around RuBisCO in the bundle sheath cells.",
+      "photorespiration.",
+      "requirement of water and nitrogen per unit carbon fixed.",
+      "sensitivity to oxygen inhibition."
+    ],
+    "correct_answer": "the concentration of CO₂ around RuBisCO in the bundle sheath cells.",
+    "explanation": "[CONCEPT]\nStep 1: The C₄ CO₂-concentrating mechanism elevates CO₂ levels in bundle sheath cells (10- to 20-fold over atmospheric), saturating RuBisCO carboxylation and suppressing photorespiration."
+  },
+  {
+    "id": 51,
+    "question": "Identify the correct statement regarding cytokinins.",
+    "options": [
+      "Cytokinin does not regulate cell division in plants.",
+      "Kinetin was discovered as a breakdown product of autoclaved herring sperm DNA.",
+      "Osmotic adjustment of cells does not help water balance in plants.",
+      "Cytokinin accelerates leaf senescence."
+    ],
+    "correct_answer": "Kinetin was discovered as a breakdown product of autoclaved herring sperm DNA.",
+    "explanation": "[CONCEPT]\nStep 1: Carlos Miller and Folke Skoog (1955) isolated kinetin (6-furfurylaminopurine) from autoclaved herring sperm DNA."
+  },
+  {
+    "id": 52,
+    "question": "In the mitochondrial electron transport chain: NADH → Complex I → CoQ → [ ? ] → Cyt c₁ → [ ? ] → Cyt (a + a₃) → O₂.\nComplete the missing sequence of electron carriers:",
+    "options": [
+      "Cyt a and Cyt b",
+      "Cyt a and Cyt c",
+      "Cyt b and Cyt c",
+      "Cyt b and Cyt b₁"
+    ],
+    "correct_answer": "Cyt b and Cyt c",
+    "explanation": "[CONCEPT]\nStep 1: Electrons from ubiquinone (CoQ) pass through Cytochrome b (in Complex III), then to Cyt c₁, then to mobile carrier Cytochrome c, and finally to Cytochrome (a + a₃) (Complex IV)."
+  },
+  {
+    "id": 53,
+    "question": "Statement for Linked Questions 53 and 54:\nIn aerobic cellular respiration: Acetyl-CoA + Oxaloacetate + H₂O ⎯(Enzyme)→ [Product 1] + [Product 2].\n\nIdentify the products from the above reaction:",
+    "options": [
+      "Isocitrate and Coenzyme A",
+      "Citrate and Coenzyme A (CoASH)",
+      "Pyruvate and acetyl CoA",
+      "Succinate and acetyl CoA"
+    ],
+    "correct_answer": "Citrate and Coenzyme A (CoASH)",
+    "explanation": "[CONCEPT]\nStep 1: The condensation of 2C Acetyl-CoA with 4C Oxaloacetate produces 6C Citrate and releases free Coenzyme A (CoASH)."
+  },
+  {
+    "id": 54,
+    "question": "Statement for Linked Questions 53 and 54:\nIdentify the enzyme and the reaction type for the step in Question 53:",
+    "options": [
+      "Citrate synthase and condensation reaction",
+      "Citrate synthetase and condensation reaction",
+      "Isocitrate dehydrogenase and oxidative decarboxylation",
+      "Aconitase and dehydration reaction"
+    ],
+    "correct_answer": "Citrate synthase and condensation reaction",
+    "explanation": "[CONCEPT]\nStep 1: Citrate synthase catalyzes the aldol condensation between acetyl-CoA and oxaloacetate followed by hydrolysis of the citryl-CoA intermediate."
+  },
+  {
+    "id": 55,
+    "question": "Match the visible spectrum colors with their approximate wavelengths (nm):\n\nColor Spectrum:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Blue</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Green</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Yellow</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Red\n\nWavelength (nm):\n1. 500–550 nm\n2. 450–500 nm\n3. 650–700 nm\n4. 550–600 nm</span></div></div>",
+    "options": [
+      "P−1; Q−2; R−4; S−3",
+      "P−2; Q−1; R−3; S−4",
+      "P−2; Q−1; R−4; S−3",
+      "P−3; Q−1; R−2; S−4"
+    ],
+    "correct_answer": "P−2; Q−1; R−4; S−3",
+    "explanation": "[CONCEPT]\nStep 1: Blue = 450–500 nm (P–2).\nStep 2: Green = 500–550 nm (Q–1).\nStep 3: Yellow = 550–600 nm (R–4).\nStep 4: Red = 650–700 nm (S–3)."
+  },
+  {
+    "id": 56,
+    "question": "For conversion of wavelength from nanometers (nm) to Angstroms (Å) and micrometers (μm):\n1 nm = 10 Å = 10⁻³ μm.\nTo convert nm to Å and μm, one should:",
+    "options": [
+      "divide the wavelength by 10 and 10⁻³",
+      "multiply the wavelength by 10 and 10⁻³",
+      "divide the wavelength by 10 and 10⁻⁴",
+      "multiply the wavelength by 10 and 10⁻⁴"
+    ],
+    "correct_answer": "multiply the wavelength by 10 and 10⁻³",
+    "explanation": "[CONCEPT]\nStep 1: 1 nm = 10 Å (multiply by 10 to get Å).\nStep 2: 1 nm = 10⁻³ μm (multiply by 10⁻³ to get μm)."
+  },
+  {
+    "id": 57,
+    "question": "Choose the correct mathematical relation between Angstrom (Å) and nanometer (nm):",
+    "options": [
+      "1 Å = 10¹ nm",
+      "1 Å = 10⁻¹ nm (0.1 nm)",
+      "1 Å = 10⁻² nm",
+      "1 Å = 10² nm"
+    ],
+    "correct_answer": "1 Å = 10⁻¹ nm (0.1 nm)",
+    "explanation": "[CONCEPT]\nStep 1: 1 Å = 10⁻¹⁰ m; 1 nm = 10⁻⁹ m.\nStep 2: 1 Å = 10⁻¹ nm = 0.1 nm."
+  },
+  {
+    "id": 58,
+    "question": "Chemoautotrophic soil bacteria responsible for biological nitrification (converting NH₄⁺ to NO₂⁻ and NO₃⁻) are",
+    "options": [
+      "Nitrosomonas and Nitrobacter.",
+      "Nostoc and Anabaena.",
+      "Rhizobium and Azotobacter.",
+      "Clostridium and Pseudomonas."
+    ],
+    "correct_answer": "Nitrosomonas and Nitrobacter.",
+    "explanation": "[CONCEPT]\nStep 1: Nitrosomonas oxidizes ammonia to nitrite.\nStep 2: Nitrobacter oxidizes nitrite to nitrate."
+  },
+  {
+    "id": 59,
+    "question": "Identify the amino acids in the tripeptide chain: H₃N⁺–CH(CH₂OH)–CO–NH–CH(CH₂–CH(CH₃)₂)–CO–NH–CH(CH₃)–COO⁻",
+    "options": [
+      "Iso-Leu-Ala",
+      "Leu-Iso-Asn",
+      "Ser-Leu-Ala",
+      "Ser-Pro-Gln"
+    ],
+    "correct_answer": "Ser-Leu-Ala",
+    "explanation": "[CONCEPT]\nStep 1: N-terminal residue has –CH₂OH side chain = Serine (Ser).\nStep 2: Middle residue has –CH₂–CH(CH₃)₂ side chain = Leucine (Leu).\nStep 3: C-terminal residue has –CH₃ side chain = Alanine (Ala).\nStep 4: Sequence: Ser-Leu-Ala."
+  },
+  {
+    "id": 60,
+    "question": "Identify the correct statements with regard to plant development:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Vernalization is the process where flowering is promoted by a period of low temperature.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The four different types of floral organs are initiated as separate successive whorls.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The flowering stimulus is transported to the meristem via the xylem.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Abscisic acid synthesis occurs via the carotenoid biosynthetic pathway.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, S",
+      "R, S",
+      "P, R"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Floral organs arise sequentially in 4 whorls (Q is correct).\nStep 2: ABA is derived from carotenoid cleavage (S is correct).\nStep 3: Florigen moves through phloem (not xylem)."
+  },
+  {
+    "id": 61,
+    "question": "Identify the pathways where the following reactions occur:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Fatty acid + GTP + CoA ⇌ Acyl-CoA + GDP + Pi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>NH₃ + Glutamate + ATP ⇌ Glutamine + ADP + Pi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Succinate + E-FAD ⇌ Fumarate + E-FADH₂</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Malonyl-S-CoA + ACP-SH ⇌ Malonyl-S-ACP + CoA-SH\n\nGroup II:\n1. Fatty acid synthesis\n2. Fatty acid oxidation\n3. Oxidative phosphorylation\n4. Citric acid cycle\n5. Gluconeogenesis\n6. Amino acid biosynthesis</span></div></div>",
+    "options": [
+      "P−5; Q−3; R−4; S−6",
+      "P−1; Q−2; R−5; S−6",
+      "P−3; Q−2; R−6; S−1",
+      "P−2; Q−6; R−4; S−1"
+    ],
+    "correct_answer": "P−2; Q−6; R−4; S−1",
+    "explanation": "[CONCEPT]\nStep 1: P represents fatty acid activation in Fatty acid oxidation (2).\nStep 2: Q represents glutamine synthesis in Amino acid biosynthesis (6).\nStep 3: R represents succinate dehydrogenase in Citric acid cycle (4).\nStep 4: S represents acyl transfer in Fatty acid synthesis (1)."
+  },
+  {
+    "id": 62,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Förster mechanism (FRET)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ping-Pong reaction</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Feedback inhibition</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>DNA recombination\n\nGroup II:\n1. The initial product inhibits the initial reaction\n2. The accumulation of end product inhibits the initial pathway enzyme\n3. Process of exciton resonance energy transfer between chromophore molecules\n4. Double displacement enzyme mechanism with modified intermediate\n5. Michaelis-Menten kinetics\n6. Holliday model junction</span></div></div>",
+    "options": [
+      "P−5; Q−4; R−2; S−6",
+      "P−2; Q−3; R−4; S−6",
+      "P−3; Q−4; R−2; S−6",
+      "P−6; Q−5; R−4; S−1"
+    ],
+    "correct_answer": "P−3; Q−4; R−2; S−6",
+    "explanation": "[CONCEPT]\nStep 1: Förster resonance energy transfer (FRET) transfers exciton energy non-radiatively (P–3).\nStep 2: Ping-Pong bi-bi enzyme mechanism involves a covalent enzyme intermediate (Q–4).\nStep 3: Feedback inhibition involves allosteric end-product repression (R–2).\nStep 4: DNA recombination proceeds via Holliday junction resolution (S–6)."
+  },
+  {
+    "id": 63,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Water transport</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Guttation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Hartig net</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Secondary active transport\n\nGroup II:\n1. Hydathodes\n2. Xylem\n3. Arbuscules\n4. Ectotrophic mycorrhizal fungi\n5. Proton motive force (H⁺-ATPase)\n6. Lenticels</span></div></div>",
+    "options": [
+      "P−2; Q−1; R−4; S−5",
+      "P−1; Q−6; R−5; S−2",
+      "P−2; Q−6; R−4; S−5",
+      "P−6; Q−4; R−1; S−3"
+    ],
+    "correct_answer": "P−2; Q−1; R−4; S−5",
+    "explanation": "[CONCEPT]\nStep 1: Long-distance water transport occurs via Xylem vessels (P–2).\nStep 2: Guttation occurs via Hydathodes (Q–1).\nStep 3: Hartig net is formed by Ectomycorrhizal fungi around root cortical cells (R–4).\nStep 4: Secondary active transport is driven by Proton Motive Force (S–5)."
+  },
+  {
+    "id": 64,
+    "question": "Which one of the following is not a plant hormone?",
+    "options": [
+      "Abscisic acid",
+      "Brassinosteroid",
+      "Ethylene",
+      "Cytokine"
+    ],
+    "correct_answer": "Cytokine",
+    "explanation": "[CONCEPT]\nStep 1: Cytokines (e.g., interleukins, interferons) are animal immune signaling proteins.\nStep 2: Cytokinin (not cytokine) is the classical plant hormone."
+  },
+  {
+    "id": 65,
+    "question": "Identify the correct statements from the following:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Lenticels are small pores present on the surface of the periderm in woody stems.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Glyoxysomes contain chlorophyll molecules in their thylakoid membranes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>RuBisCO is otherwise known as carboxydehydratase.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>18 ATP and 12 NADPH molecules are consumed for synthesizing 1 molecule of hexose (fixing 6 CO₂) in the C₃ Calvin cycle.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, R",
+      "P, S"
+    ],
+    "correct_answer": "P, S",
+    "explanation": "[CONCEPT]\nStep 1: Lenticels facilitate gas exchange across suberized woody periderm (P is correct).\nStep 2: Fixing 6 CO₂ into 1 glucose in the Calvin cycle requires 18 ATP (12 in reduction + 6 in regeneration) and 12 NADPH (S is correct)."
+  },
+  {
+    "id": 66,
+    "question": "From the chemical structures given below, identify the compounds:\n- P: Cyclic monoterpene alcohol with isopropyl and methyl groups (Menthol)\n- Q: Pyridine-pyrrolidine bicyclic alkaloid (Nicotine)\n- R: Indole ring with acetic acid side chain (Indole-3-acetic acid / IAA)\n- S: Gaseous hydrocarbon H₂C=CH₂ (Ethylene)",
+    "options": [
+      "P–Menthol; Q–Nicotine; R–IAA; S–Ethylene",
+      "P–Gibberellic acid; Q–Nicotine; R–IAA; S–Ethylene",
+      "P–Menthol; Q–Indole butyric acid; R–Nicotine; S–Ethylene",
+      "P–Ethylene; Q–Nicotine; R–Gibberellic acid; S–Menthol"
+    ],
+    "correct_answer": "P–Menthol; Q–Nicotine; R–IAA; S–Ethylene",
+    "explanation": "[CONCEPT]\nStep 1: P is Menthol (C10 monoterpene).\nStep 2: Q is Nicotine (pyridine-pyrrolidine alkaloid).\nStep 3: R is Indole-3-acetic acid (auxin).\nStep 4: S is Ethylene gas."
+  },
+  {
+    "id": 67,
+    "question": "Identify the storage polysaccharide structures and their glycosidic linkages:\n- Structure 1: Branched D-glucan with α(1→4) linear chains and α(1→6) branch points (Amylopectin)\n- Structure 2: Unbranched helical D-glucan with α(1→4) glycosidic bonds (Amylose)",
+    "options": [
+      "Amylose, Cellulose; (α1 → 4), (β1 → 6)",
+      "Cellulose, Dextran; (β2 → 4), (α3 → 6)",
+      "Starch, Cellulose; (α1 → 6), (α1 → 4)",
+      "Amylopectin (α1 → 6 linkage), Amylose (α1 → 4 linkage)"
+    ],
+    "correct_answer": "Amylopectin (α1 → 6 linkage), Amylose (α1 → 4 linkage)",
+    "explanation": "[CONCEPT]\nStep 1: Amylopectin contains α(1→4) backbones with α(1→6) branching points every 24–30 glucose residues.\nStep 2: Amylose consists of linear chains of D-glucose linked by α(1→4) glycosidic bonds."
+  },
+  {
+    "id": 68,
+    "question": "In Arabidopsis, vernalization-induced flowering is associated with:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Chromatin histone methylation/modification at the FLC (Flowering Locus C) locus.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Degradation of the FLC protein.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Inactivating FLC by post-translational modification.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Epigenetic down-regulation of FLC transcript.</span></div></div>",
+    "options": [
+      "Q, S",
+      "P, S",
+      "P, R",
+      "Q, R"
+    ],
+    "correct_answer": "P, S",
+    "explanation": "[CONCEPT]\nStep 1: Prolonged cold induces PRC2-mediated histone H3K27 trimethylation (H3K27me3) at the FLC chromatin locus (P is correct).\nStep 2: This epigenetically silences FLC transcription, derepressing FT and SOC1 to promote flowering (S is correct)."
+  },
+  {
+    "id": 69,
+    "question": "Which of the following statements in plant cellular respiration are correct?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The oxidative pentose phosphate pathway occurs in the stroma of mitochondria.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>ATP / GTP is produced in the TCA cycle step catalyzed by succinyl-CoA synthetase.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>In addition to cytochrome c oxidase, an alternative oxidase (AOX) resistant to cyanide reduces O₂ to H₂O.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>In glyoxylate cycle, acetyl CoA reacts with citrate to form α-ketoglutarate.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, Q",
+      "Q, R",
+      "D, Q, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Succinyl-CoA synthetase generates ATP/GTP in the TCA cycle (Q is correct).\nStep 2: Plant mitochondrial Alternative Oxidase (AOX) transfers electrons directly from ubiquinol to oxygen, conferring cyanide-resistant respiration (R is correct)."
+  },
+  {
+    "id": 70,
+    "question": "During the photorespiratory C₂ cycle, hydrogen peroxide (H₂O₂) is produced and detoxified in",
+    "options": [
+      "glyoxysome.",
+      "lysosome.",
+      "peroxisome.",
+      "dictyosome."
+    ],
+    "correct_answer": "peroxisome.",
+    "explanation": "[CONCEPT]\nStep 1: In leaf peroxisomes, glycolate oxidase oxidizes glycolate to glyoxylate with the production of H₂O₂, which is immediately broken down to H₂O and O₂ by peroxisomal catalase."
+  },
+  {
+    "id": 71,
+    "question": "Retrograde signaling in plant cells involves communication directed from",
+    "options": [
+      "nucleus to the chloroplast.",
+      "endoplasmic reticulum to the nucleus.",
+      "nucleus to the mitochondria.",
+      "chloroplast / mitochondria to the nucleus."
+    ],
+    "correct_answer": "chloroplast / mitochondria to the nucleus.",
+    "explanation": "[CONCEPT]\nStep 1: Anterograde signaling is nucleus → organelle.\nStep 2: Retrograde signaling transmits plastid/mitochondrial metabolic and stress status signals back to the nucleus to coordinate nuclear gene expression."
+  },
+  {
+    "id": 72,
+    "question": "A photoautotrophic micropropagation system can be established in vitro by eliminating sugar and increasing the",
+    "options": [
+      "sucrose concentration in the culture medium.",
+      "CO₂ concentration and photosynthetic photon flux.",
+      "agar concentration in the culture medium.",
+      "NH₄⁺ concentration in the culture medium."
+    ],
+    "correct_answer": "CO₂ concentration and photosynthetic photon flux.",
+    "explanation": "[CONCEPT]\nStep 1: Photoautotrophic tissue culture relies entirely on plantlet photosynthesis by supplying enriched CO₂ and high light intensity in sugar-free media."
+  },
+  {
+    "id": 73,
+    "question": "Which of the following statements in photosynthesis are correct?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The absorption maxima for PS I and PS II reaction centers are 700 nm and 680 nm, respectively.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Approximately 2500 chlorophyll molecules per O₂ released (or ~300 Chl per reaction center) with a minimum requirement of 8–10 photons per O₂ evolved.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Non-photochemical quenching (NPQ) is enhanced by the presence of zeaxanthin.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Photochemical splitting of water occurs at PS I.</span></div></div>",
+    "options": [
+      "P, Q",
+      "R, S",
+      "P, S",
+      "Q, R"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: PS I absorbs at 700 nm, PS II absorbs at 680 nm (P is correct).\nStep 2: Quantum yield studies show ~8–10 photons are required per O₂ molecule evolved (Q is correct).\nStep 3: Water photolysis occurs exclusively at the Oxygen-Evolving Complex (OEC) of PS II (not PS I)."
+  },
+  {
+    "id": 74,
+    "question": "Which one of the following facultative halophytes performs normal C₃ photosynthesis under well-watered conditions, but switches to Crassulacean Acid Metabolism (CAM) during salinity or drought stress?",
+    "options": [
+      "Mesembryanthemum crystallinum (Common ice plant)",
+      "Cynodon dactylon",
+      "Eleusine coracana",
+      "Hordeum vulgare"
+    ],
+    "correct_answer": "Mesembryanthemum crystallinum (Common ice plant)",
+    "explanation": "[CONCEPT]\nStep 1: Mesembryanthemum crystallinum is the classic model for facultative C₃-to-CAM transition induced by salt stress or drought."
+  },
+  {
+    "id": 75,
+    "question": "Which one of the following is a free-living photosynthetic nitrogen-fixing bacterium?",
+    "options": [
+      "Frankia",
+      "Clostridium",
+      "Rhodospirillum",
+      "Rhizobium"
+    ],
+    "correct_answer": "Rhodospirillum",
+    "explanation": "[CONCEPT]\nStep 1: Rhodospirillum rubrum is a free-living purple non-sulfur photosynthetic diazotroph.\nStep 2: Rhizobium and Frankia are symbiotic; Clostridium is anaerobic non-photosynthetic."
+  },
+  {
+    "id": 76,
+    "question": "Which of the following statements are true for plant growth regulators?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The release of cellulase into the cell wall is promoted by ABA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The early biosynthetic steps of gibberellic acid (up to ent-kaurene) take place in the plastid.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The naturally occurring cytokinin zeatin belongs to the aromatic group.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Induction of proteinase inhibitors upon wounding / insect attack is activated by jasmonic acid.</span></div></div>",
+    "options": [
+      "P, R",
+      "Q, S",
+      "Q, R",
+      "P, Q"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: GA biosynthesis begins in the plastid (GGPP → ent-copalyl PP → ent-kaurene) (Q is correct).\nStep 2: Octadecanoid / Jasmonic acid pathway mediates systemic wound response and proteinase inhibitor (PIN) gene activation (S is correct).\nStep 3: Zeatin is an isoprenoid (isopentenyladenine-derived) cytokinin (not aromatic)."
+  },
+  {
+    "id": 77,
+    "question": "Identify the reactive oxygen intermediates in sequence (marked as '?') during univalent oxygen reduction:\nO₂ ⎯(+e⁻)→ [ ? ] ⎯(+e⁻, +2H⁺)→ H₂O₂ ⎯(+e⁻, +H⁺)→ [ ? ] ⎯(+e⁻, +H⁺)→ H₂O",
+    "options": [
+      "O₂•⁻ (Superoxide) and •OH (Hydroxyl radical)",
+      "OH⁻ and ¹O₂",
+      "HO₂⁻ and •OH",
+      "¹O₂ and O₂•⁻"
+    ],
+    "correct_answer": "O₂•⁻ (Superoxide) and •OH (Hydroxyl radical)",
+    "explanation": "[CONCEPT]\nStep 1: 1st reduction step: O₂ + e⁻ → O₂•⁻ (Superoxide radical).\nStep 2: 3rd reduction step: H₂O₂ + e⁻ + H⁺ → •OH (Hydroxyl radical) + H₂O."
+  },
+  {
+    "id": 78,
+    "question": "Which of the following statements are true for cellular respiration?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The complete oxidation of one molecule of pyruvate to 3 CO₂ (PDH + TCA cycle) generates 4 NADH, 1 FADH₂, and 1 GTP/ATP.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Fructose 6-phosphate is the initial substrate for glycolysis.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The oxidation of glucose 6-phosphate to 6-phosphogluconate is catalyzed by glucose-6-phosphate dehydrogenase in the oxidative pentose phosphate pathway.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Alternative oxidase pumps protons across the inner mitochondrial membrane.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, S",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Pyruvate oxidation (1 NADH in PDH + 3 NADH in TCA = 4 NADH total) (P is true).\nStep 2: Glucose 6-phosphate dehydrogenase oxidizes G6P to 6-phosphogluconolactone (R is true).\nStep 3: Alternative oxidase (AOX) is non-proton pumping."
+  },
+  {
+    "id": 79,
+    "question": "In mitochondrial respiration, the oxidative decarboxylation of pyruvate to acetyl-CoA (Pyruvate + NAD⁺ + CoA-SH → Acetyl-CoA + NADH + CO₂) is catalyzed by",
+    "options": [
+      "pyruvate kinase.",
+      "pyruvate dehydrogenase multi-enzyme complex.",
+      "pyruvate decarboxylase.",
+      "pyruvate carboxylase."
+    ],
+    "correct_answer": "pyruvate dehydrogenase multi-enzyme complex.",
+    "explanation": "[CONCEPT]\nStep 1: The mitochondrial Pyruvate Dehydrogenase Complex (PDC: E1, E2, E3 with TPP, lipoamide, CoA, FAD, NAD⁺) catalyzes the link reaction."
+  },
+  {
+    "id": 80,
+    "question": "In legume root nodules, leghemoglobin facilitates symbiotic nitrogen fixation by",
+    "options": [
+      "acting as a nitrogenase subunit.",
+      "reducing nitrate to nitrite.",
+      "synthesizing bacteroid ATP.",
+      "buffering free oxygen at nanomolar levels to protect oxygen-labile nitrogenase while delivering O₂ for bacteroid respiration."
+    ],
+    "correct_answer": "buffering free oxygen at nanomolar levels to protect oxygen-labile nitrogenase while delivering O₂ for bacteroid respiration.",
+    "explanation": "[CONCEPT]\nStep 1: Nitrogenase is irreversibly inactivated by O₂.\nStep 2: Leghemoglobin acts as an oxygen buffer with high affinity, maintaining extremely low free O₂ (~10 nM) while ensuring high flux to bacteroid terminal oxidases."
+  },
+  {
+    "id": 81,
+    "question": "The two enzymes commonly used for enzymatic isolation of plant protoplasts from leaf mesophyll are",
+    "options": [
+      "cellulase and lipase.",
+      "cellulase and amylase.",
+      "pectinase (macerozyme) and cellulase.",
+      "pectinase and lipase."
+    ],
+    "correct_answer": "pectinase (macerozyme) and cellulase.",
+    "explanation": "[CONCEPT]\nStep 1: Pectinase (Macerozyme R-10) degrades the middle lamella to separate cells.\nStep 2: Cellulase (Onozuka R-10) digests primary cellulose walls, releasing naked protoplasts."
+  },
+  {
+    "id": 82,
+    "question": "Which two of the following statements regarding photosynthetic carbon fixation in C₄ plants are incorrect?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>All plants fix CO₂ by RuBisCO in the bundle sheath of C₄ plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>In C₄ plants, RuBisCO carboxylation occurs in mesophyll cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Phosphoenolpyruvate + HCO₃⁻ → Oxaloacetate + Pi catalyzed by PEP carboxylase occurs in mesophyll cells.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Oxaloacetate is synthesized by PEP dehydrogenase in mesophyll cells.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "Q, S",
+      "P, R"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: In C₄ plants, RuBisCO is strictly localized to bundle sheath cells, not mesophyll cells (Q is incorrect).\nStep 2: Oxaloacetate is formed by PEP carboxylase (not PEP dehydrogenase) (S is incorrect)."
+  },
+  {
+    "id": 83,
+    "question": "Select the correct pair comprising synthetic analogues of auxin and cytokinin, respectively:",
+    "options": [
+      "IAA and kinetin",
+      "2,4-D and zeatin",
+      "IAA and zeatin",
+      "2,4-D and kinetin (or BAP)"
+    ],
+    "correct_answer": "2,4-D and kinetin (or BAP)",
+    "explanation": "[CONCEPT]\nStep 1: 2,4-D (2,4-dichlorophenoxyacetic acid) is a synthetic auxin.\nStep 2: Kinetin / 6-BAP (benzylaminopurine) are synthetic cytokinins (whereas IAA and zeatin are natural)."
+  },
+  {
+    "id": 84,
+    "question": "Identify the correct matching by taking one item from each column:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Coenzyme</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Holoenzyme</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Prosthetic group</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Apoenzyme\n\nColumn II:\n1. Holoenzyme + Apoenzyme\n2. Non-protein organic part in an active enzyme\n3. Only the protein part in an active enzyme\n4. Cofactor in an enzymatic reaction\n5. Apoenzyme + Prosthetic group (Active complex)\n6. Holoenzyme + Inorganic phosphate</span></div></div>",
+    "options": [
+      "P−4; Q−5; R−2; S−3",
+      "P−4; Q−3; R−1; S−2",
+      "P−4; Q−3; R−5; S−6",
+      "P−4; Q−1; R−3; S−5"
+    ],
+    "correct_answer": "P−4; Q−5; R−2; S−3",
+    "explanation": "[CONCEPT]\nStep 1: Coenzyme = organic cofactor (P–4).\nStep 2: Holoenzyme = active Apoenzyme + Cofactor (Q–5).\nStep 3: Prosthetic group = permanently bound non-protein moiety (R–2).\nStep 4: Apoenzyme = catalytically inactive protein part (S–3)."
+  },
+  {
+    "id": 85,
+    "question": "Identify two correct statements regarding ion transport in plant root systems:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The proton pumps and H⁺-PPase create a proton gradient across the tonoplast.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cytosolic free calcium concentration is maintained at sub-micromolar levels (~100 nM), while apoplastic/vacuolar calcium is in the millimolar range.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Solutes move through both apoplast and symplast, and xylem parenchyma cells participate in xylem loading.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Nernst equation cannot distinguish between active and passive transport.</span></div></div>",
+    "options": [
+      "P, S",
+      "Q, R",
+      "R, S",
+      "Q, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Cytosolic Ca²⁺ is tightly buffered at ~100 nM vs mM in vacuole/apoplast (Q is correct).\nStep 2: Ions traverse symplastic/apoplastic pathways and are actively loaded into xylem vessels by xylem parenchyma (R is correct)."
+  },
+  {
+    "id": 86,
+    "question": "Find the correct statements in the context of global warming / elevated temperature effects on plant photosynthesis:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Decreasing aqueous solubility of dissolved CO₂ relative to dissolved O₂.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Decreasing oxygenase activity of RuBisCO relative to carboxylation.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Enhancing the ratio of CO₂ to O₂ in solution.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Increasing photorespiration relative to photosynthesis in C₃ plants.</span></div></div>",
+    "options": [
+      "P and Q",
+      "R and S",
+      "P and R",
+      "P and S"
+    ],
+    "correct_answer": "P and S",
+    "explanation": "[CONCEPT]\nStep 1: Higher temperatures reduce the solubility of CO₂ more steeply than O₂ in aqueous solution (P is correct).\nStep 2: RuBisCO specificity for CO₂ drops at higher temperatures, increasing oxygenation and photorespiratory carbon loss in C₃ plants (S is correct)."
+  },
+  {
+    "id": 87,
+    "question": "Statements given below are either True (T) or False (F). Find the correct combination:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Regulation of cell cycle progression depends on cyclin-dependent kinase (CDK) activity and ubiquitin-mediated proteolysis.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>In photosynthesis, water photolysis produces O₂ and releases electrons to Photosystem I.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Photorespiratory carbon oxidation (C₂) involves cooperative interaction among chloroplast, peroxisome, and mitochondrion.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ethylene promotes fruit ripening and senescence, whereas cytokinins act as senescence antagonists.</span></div></div>",
+    "options": [
+      "P–T; Q–F; R–T; S–F",
+      "P–T; Q–T; R–T; S–F",
+      "P–T; Q–F; R–F; S–T",
+      "P–T; Q–F; R–T; S–T"
+    ],
+    "correct_answer": "P–T; Q–F; R–T; S–T",
+    "explanation": "[CONCEPT]\nStep 1: CDKs and proteasomal cyclin destruction drive cell cycle (P is True).\nStep 2: Water photolysis donates electrons to PS II (not PS I) (Q is False).\nStep 3: C₂ cycle operates across 3 organelles (R is True).\nStep 4: Ethylene accelerates and cytokinins delay senescence (S is True).\nResult: P–T, Q–F, R–T, S–T."
+  },
+  {
+    "id": 88,
+    "question": "During plant de novo fatty acid biosynthesis in plastids, the initial committed intermediate malonyl-CoA is formed by acetyl-CoA carboxylase (ACCase) from",
+    "options": [
+      "acetyl-CoA and bicarbonate (HCO₃⁻ / CO₂).",
+      "two acetyl-CoA molecules.",
+      "acetyl-CoA and biotin alone.",
+      "palmitoyl-CoA and ACP."
+    ],
+    "correct_answer": "acetyl-CoA and bicarbonate (HCO₃⁻ / CO₂).",
+    "explanation": "[CONCEPT]\nStep 1: Acetyl-CoA Carboxylase (ACCase) catalyzes the ATP-dependent carboxylation of Acetyl-CoA using dissolved bicarbonate (HCO₃⁻) to form Malonyl-CoA."
+  },
+  {
+    "id": 89,
+    "question": "Which of the following chemical substances acts as an antitranspirant by promoting stomatal closure when applied to aerial foliage?",
+    "options": [
+      "Phosphon-D",
+      "Paraquat",
+      "Phenylmercuric acetate (PMA)",
+      "Valinomycin"
+    ],
+    "correct_answer": "Phenylmercuric acetate (PMA)",
+    "explanation": "[CONCEPT]\nStep 1: Phenylmercuric acetate (PMA) is a metabolic antitranspirant that inhibits sulfhydryl-dependent guard cell pumps, inducing partial stomatal closure."
+  },
+  {
+    "id": 90,
+    "question": "Which of the following statements are true with regard to similarities between Crassulacean Acid Metabolism (CAM) and C₄ photosynthesis?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Stomata open during night and close during day in both.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>PEP carboxylase is the initial carboxylating enzyme to form a C₄ dicarboxylic acid (oxaloacetate/malate).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The C₄ acid is decarboxylated to provide concentrated CO₂ for the C₃ Calvin cycle.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Kranz anatomy is predominant in both CAM and C₄ plants.</span></div></div>",
+    "options": [
+      "P, S",
+      "Q, R",
+      "P, Q",
+      "R, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Both CAM and C₄ fix HCO₃⁻ via PEP carboxylase into 4-carbon organic acids (Q is true).\nStep 2: Both decarboxylate C₄ acids to elevate CO₂ around RuBisCO (R is true).\nStep 3: Spatial separation + Kranz anatomy is unique to C₄; temporal separation (nocturnal acid storage in large vacuoles) is unique to CAM."
+  },
+  {
+    "id": 91,
+    "question": "Identify the correct statements with regard to plant hormone signaling:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>ABA promotes viviparous germination in seeds.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Auxin induces proton extrusion into the apoplast (acid growth hypothesis), activating expansins for turgor-driven cell wall extension.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Gibberellin signaling leads to ubiquitin-proteasome degradation of DELLA repressor proteins via GID1 receptor.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cytokinin regulates G2 to M transition in cell division.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "Q, S",
+      "P, R"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Acid growth hypothesis: Auxin stimulates plasma membrane H⁺-ATPases, lowering apoplastic pH and activating expansins (Q is correct).\nStep 2: GA binds GID1 to recruit DELLA repressors to SCF-SLY1/GID2 E3 ligases for proteasomal degradation (R is correct)."
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is not involved in plant innate immune responses?",
+    "options": [
+      "Antimicrobial PR proteins (chitinases, defensins)",
+      "Hypersensitive response (HR localized cell death)",
+      "Pattern recognition receptors (PRRs / RLKs)",
+      "Interleukins"
+    ],
+    "correct_answer": "Interleukins",
+    "explanation": "[CONCEPT]\nStep 1: Interleukins are cytokine signaling proteins of vertebrate immune systems and do not exist in plants."
+  },
+  {
+    "id": 93,
+    "question": "The three curves P, Q, and R in the graph below represent the response of different physiological processes to decreasing leaf water potential (from 0.0 to -3.0 MPa):\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 400 220\" class=\"w-full max-w-md\">\n    <line x1=\"50\" y1=\"180\" x2=\"370\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"180\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <text x=\"20\" y=\"100\" fill=\"#cbd5e1\" font-size=\"12\" transform=\"rotate(-90 20,100)\" text-anchor=\"middle\">Relative Rate (%)</text>\n    <text x=\"210\" y=\"205\" fill=\"#cbd5e1\" font-size=\"12\" text-anchor=\"middle\">Leaf Water Potential (MPa)</text>\n    <text x=\"50\" y=\"195\" fill=\"#94a3b8\" font-size=\"10\" text-anchor=\"middle\">0.0</text>\n    <text x=\"210\" y=\"195\" fill=\"#94a3b8\" font-size=\"10\" text-anchor=\"middle\">-1.5</text>\n    <text x=\"360\" y=\"195\" fill=\"#94a3b8\" font-size=\"10\" text-anchor=\"middle\">-3.0</text>\n    <path d=\"M 50 30 Q 80 40 100 120 T 130 180\" fill=\"none\" stroke=\"#f43f5e\" stroke-width=\"3\" />\n    <text x=\"105\" y=\"80\" fill=\"#f43f5e\" font-weight=\"bold\" font-size=\"14\">P</text>\n    <path d=\"M 50 40 Q 150 50 200 130 T 260 180\" fill=\"none\" stroke=\"#06b6d4\" stroke-width=\"3\" />\n    <text x=\"205\" y=\"100\" fill=\"#06b6d4\" font-weight=\"bold\" font-size=\"14\">Q</text>\n    <path d=\"M 50 45 Q 220 50 280 120 T 350 180\" fill=\"none\" stroke=\"#10b981\" stroke-width=\"3\" />\n    <text x=\"295\" y=\"110\" fill=\"#10b981\" font-weight=\"bold\" font-size=\"14\">R</text>\n  </svg>\n  <div class=\"flex space-x-4 mt-2 text-xs font-semibold text-slate-300\">\n    <span class=\"text-rose-400\">● Curve P</span>\n    <span class=\"text-cyan-400\">● Curve Q</span>\n    <span class=\"text-emerald-400\">● Curve R</span>\n  </div>\n</div>\n\nWhich of the following assignments is correct?",
+    "options": [
+      "P represents LER; Q represents TR; R represents PR",
+      "P represents TR; Q represents PR; R represents LER",
+      "P represents PR; Q represents LER; R represents TR",
+      "P represents LER; Q represents PR; R represents TR"
+    ],
+    "correct_answer": "P represents LER; Q represents PR; R represents TR",
+    "explanation": "[CONCEPT]\nStep 1: Leaf expansion rate (LER, P) depends directly on cell turgor and is the most sensitive process to water stress, dropping first.\nStep 2: Photosynthesis rate (PR, Q) declines next due to stomatal closure.\nStep 3: Translocation rate of assimilates (TR, R) in the phloem is the most resistant to water deficit, dropping last."
+  },
+  {
+    "id": 94,
+    "question": "PIN proteins are plasma membrane-localized carrier proteins required for polar auxin transport in plants. Four carrier proteins are shown in the diagram below labelled P1–P4:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 160 220\" class=\"w-32 h-44\">\n    <!-- Elongated Plant Cell -->\n    <rect x=\"30\" y=\"20\" width=\"100\" height=\"180\" rx=\"8\" fill=\"#1e293b\" stroke=\"#64748b\" stroke-width=\"2\" />\n    <text x=\"80\" y=\"110\" fill=\"#94a3b8\" font-size=\"11\" text-anchor=\"middle\">Cytosol</text>\n    <!-- Apical Carrier P1 -->\n    <rect x=\"65\" y=\"16\" width=\"30\" height=\"8\" rx=\"2\" fill=\"#38bdf8\" />\n    <text x=\"80\" y=\"12\" fill=\"#38bdf8\" font-size=\"9\" text-anchor=\"middle\" font-weight=\"bold\">P1</text>\n    <!-- Lateral Carrier P2 -->\n    <rect x=\"126\" y=\"70\" width=\"8\" height=\"25\" rx=\"2\" fill=\"#a855f7\" />\n    <text x=\"145\" y=\"87\" fill=\"#a855f7\" font-size=\"9\" text-anchor=\"middle\" font-weight=\"bold\">P2</text>\n    <!-- Lateral Carrier P3 -->\n    <rect x=\"126\" y=\"130\" width=\"8\" height=\"25\" rx=\"2\" fill=\"#a855f7\" />\n    <text x=\"145\" y=\"147\" fill=\"#a855f7\" font-size=\"9\" text-anchor=\"middle\" font-weight=\"bold\">P3</text>\n    <!-- Basal Efflux Carrier P4 -->\n    <rect x=\"65\" y=\"196\" width=\"30\" height=\"8\" rx=\"2\" fill=\"#f43f5e\" />\n    <text x=\"80\" y=\"215\" fill=\"#f43f5e\" font-size=\"9\" text-anchor=\"middle\" font-weight=\"bold\">P4 (Efflux)</text>\n    <!-- Downward Arrow -->\n    <line x1=\"80\" y1=\"50\" x2=\"80\" y2=\"170\" stroke=\"#f43f5e\" stroke-width=\"2.5\" stroke-dasharray=\"4,3\" marker-end=\"url(#arrow)\" />\n  </svg>\n  <span class=\"text-xs font-semibold text-slate-300 mt-2\">Basipetal Auxin Flow</span>\n</div>\n\nWhich among these is most likely to be a PIN protein?",
+    "options": [
+      "P1 (Apical influx)",
+      "P2 (Lateral influx)",
+      "P3 (Lateral influx)",
+      "P4 (Basal efflux carrier)"
+    ],
+    "correct_answer": "P4 (Basal efflux carrier)",
+    "explanation": "[CONCEPT]\nStep 1: PIN-FORMED (PIN1) proteins are asymmetric auxin efflux carriers localized to the basal plasma membrane of stele/vascular parenchyma cells, directing polar auxin flow downwards."
+  },
+  {
+    "id": 95,
+    "question": "Which of the following plant hormones is derived from the enzymatic cleavage of carotenoid precursors in plastids?",
+    "options": [
+      "Phytosulfokine",
+      "Brassinosteroid",
+      "Methyl jasmonate",
+      "Strigolactone (and Abscisic acid)"
+    ],
+    "correct_answer": "Strigolactone (and Abscisic acid)",
+    "explanation": "[CONCEPT]\nStep 1: Strigolactones and Abscisic acid (ABA) are apocarotenoid hormones synthesized via carotenoid cleavage dioxygenases (CCD7 and CCD8 / NCED)."
+  },
+  {
+    "id": 96,
+    "question": "Match the biological nitrogen transformation in Group I with\n\nGroup II:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Nitrobacter</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Nitrite reductase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Nitrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Nitrate reductase\n\nGroup II:\n1. NO₃⁻ → NO₂⁻\n2. N₂ → 2 NH₃\n3. NO₂⁻ → NH₄⁺\n4. NO₂⁻ → NO₃⁻</span></div></div>",
+    "options": [
+      "P−4; Q−3; R−2; S−1",
+      "P−4; Q−3; R−1; S−2",
+      "P−1; Q−2; R−4; S–3",
+      "P−3; Q−4; R−2; S−1"
+    ],
+    "correct_answer": "P−4; Q−3; R−2; S−1",
+    "explanation": "[CONCEPT]\nStep 1: Nitrobacter oxidizes NO₂⁻ → NO₃⁻ (P–4).\nStep 2: Nitrite reductase reduces NO₂⁻ → NH₄⁺ (Q–3).\nStep 3: Nitrogenase reduces N₂ → 2 NH₃ (R–2).\nStep 4: Nitrate reductase reduces NO₃⁻ → NO₂⁻ (S–1)."
+  },
+  {
+    "id": 97,
+    "question": "Two adjacent plant cells M and N are in direct contact:\n- Cell M has osmotic potential (Ψs) = −10 bar and turgor pressure (Ψp) = 4 bar.\n- Cell N has osmotic potential (Ψs) = −12 bar and turgor pressure (Ψp) = 5 bar.\n\nBased on these data, what will be the direction of net water movement?",
+    "options": [
+      "M to N",
+      "N to M",
+      "There will be no movement",
+      "In both directions equally"
+    ],
+    "correct_answer": "M to N",
+    "explanation": "[CONCEPT]\nStep 1: Ψw = Ψs + Ψp.\n- Cell M: Ψw = −10 + 4 = −6 bar.\n- Cell N: Ψw = −12 + 5 = −7 bar.\nStep 2: Water moves from higher (less negative) Ψw to lower (more negative) Ψw: from Cell M (−6 bar) to Cell N (−7 bar)."
+  },
+  {
+    "id": 98,
+    "question": "Which two of the following stoichiometric equations are incorrect in relation to the photorespiratory C₂ cycle in C₃ plants?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>2 RuBP + 2 O₂ → Phosphoglycolate + 3-PGA + 4H⁺</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Serine + α-Ketoglutarate → Hydroxypyruvate + Glutamine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>2 Phosphoglycolate + 2 H₂O → 2 Glycolate + 2 Pi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Hydroxypyruvate + NADH + H⁺ → Glycerate + NAD⁺</span></div></div>",
+    "options": [
+      "P and Q",
+      "Q and R",
+      "R and S",
+      "S and P"
+    ],
+    "correct_answer": "P and Q",
+    "explanation": "[CONCEPT]\nStep 1: Equation P is stoichiometry unbalanced: 2 RuBP + 2 O₂ yields 2 Phosphoglycolate + 2 (3-PGA) (P is incorrect).\nStep 2: Serine-glyoxylate transaminase reacts with glyoxylate (or α-ketoglutarate yields glutamate, not glutamine) (Q is incorrect)."
+  },
+  {
+    "id": 99,
+    "question": "Identify the incorrect statement in connection with the polar transport of auxin.",
+    "options": [
+      "The putative influx carrier AUX1 is a cytosolic protein.",
+      "Polar auxin transport in roots is basipetal in the epidermis/cortex and acropetal in the central stele.",
+      "Naphthylphthalamic acid (NPA) is an inhibitor of polar auxin transport.",
+      "AUX1 (apical) and PIN1 (basal) proteins are located at opposite ends of vascular parenchyma cells."
+    ],
+    "correct_answer": "The putative influx carrier AUX1 is a cytosolic protein.",
+    "explanation": "[CONCEPT]\nStep 1: AUX1 / LAX are integral transmembrane auxin-H⁺ symporters localized to the plasma membrane (not cytosolic proteins)."
+  },
+  {
+    "id": 100,
+    "question": "Select the correct combination of the following statements regarding photophosphorylation and RuBisCO:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cyclic electron transport involving PS I results in net production of both ATP and NADPH.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cyclic electron transport involving PS I results in net production of ATP only (no NADPH or O₂).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>RuBisCO carboxylase activity converts RuBP and CO₂ into 2-phosphoglycolate and 3-PGA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>RuBisCO oxygenase activity converts RuBP and O₂ into 1 molecule of 2-phosphoglycolate and 1 molecule of 3-PGA.</span></div></div>",
+    "options": [
+      "P, Q",
+      "R, S",
+      "Q, S",
+      "P, R"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Cyclic photophosphorylation generates a proton gradient for ATP synthesis without NADPH formation (Q is correct).\nStep 2: Oxygenation by RuBisCO yields 1 molecule of 2-phosphoglycolate + 1 molecule of 3-phosphoglycerate (S is correct)."
+  },
+  {
+    "id": 101,
+    "question": "Select the correct combination by matching Group I with\n\nGroup II:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Photorespiration</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Respiration (TCA cycle)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Amino acid degradation / Transamination</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Fatty acid synthesis\n\nGroup II:\n1. Glutamate → 2-Oxoglutarate + NH₄⁺\n2. Acetyl-CoA + HCO₃⁻ → Malonyl-CoA\n3. 2-Oxoglutarate → Succinyl-CoA\n4. Glycine → Serine + CO₂ + NH₃</span></div></div>",
+    "options": [
+      "P−1; Q−2; R−3; S−4",
+      "P−2; Q−1; R−4; S−1",
+      "P−3; Q−4; R−2; S−3",
+      "P−4; Q−3; R−1; S−2"
+    ],
+    "correct_answer": "P−4; Q−3; R−1; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Photorespiration: Glycine decarboxylase/serine hydroxymethyltransferase (P–4).\nStep 2: Respiration: α-ketoglutarate dehydrogenase (Q–3).\nStep 3: Amino acid degradation: Glutamate dehydrogenase (R–1).\nStep 4: Fatty acid synthesis: Acetyl-CoA carboxylase (S–2)."
+  },
+  {
+    "id": 102,
+    "question": "Raphides found in plant specialized idioblast cells are needle-shaped crystal deposits of",
+    "options": [
+      "calcium oxalate.",
+      "calcium carbonate.",
+      "silica bodies.",
+      "protein bodies."
+    ],
+    "correct_answer": "calcium oxalate.",
+    "explanation": "[CONCEPT]\nStep 1: Raphides are sharp, needle-like crystals of calcium oxalate monohydrate bundled in specialized plant cells to deter herbivores."
+  },
+  {
+    "id": 103,
+    "question": "Which one of the following statements is incorrect regarding biological nitrogen fixation?",
+    "options": [
+      "Nitrogen fixation is an aerobic process.",
+      "Dinitrogenase catalyzes reduction of nitrogen gas to ammonia.",
+      "Root nodules are found in Glycine max.",
+      "Nitrogenase is an oxygen-sensitive enzyme requiring microaerobic / anaerobic protection."
+    ],
+    "correct_answer": "Nitrogen fixation is an aerobic process.",
+    "explanation": "[CONCEPT]\nStep 1: Biological nitrogen fixation requires strict protection from free O₂ because nitrogenase is irreversibly inactivated by oxygen."
+  },
+  {
+    "id": 104,
+    "question": "Which one of the following statements is incorrect with respect to cyclic photophosphorylation?",
+    "options": [
+      "ATP is generated without concomitant formation of NADPH.",
+      "Electrons flow from Photosystem I through ferredoxin to cytochrome b₆f complex and back to PS I.",
+      "Photosystem II does not participate in cyclic photophosphorylation.",
+      "Cyclic photophosphorylation occurs when the NADP⁺/NADPH ratio is high."
+    ],
+    "correct_answer": "Cyclic photophosphorylation occurs when the NADP⁺/NADPH ratio is high.",
+    "explanation": "[CONCEPT]\nStep 1: When NADP⁺/NADPH ratio is low (NADPH is plentiful, NADP⁺ is depleted), ferredoxin cannot pass electrons to NADP⁺ and diverts them into cyclic electron flow around PS I."
+  },
+  {
+    "id": 105,
+    "question": "RuBisCO catalyzes the conversion of ribulose 1,5-bisphosphate to:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Two molecules of stable 3-phosphoglycerate (Carboxylation).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>One molecule of 3-phosphoglycerate and one molecule of 2-phosphoglycolate (Oxygenation).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>One molecule of ribulose 5-phosphate.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>One molecule of ribose 5-phosphate.</span></div></div>\nChoose the correct combination:",
+    "options": [
+      "P and S",
+      "Q and S",
+      "P and Q",
+      "R and S"
+    ],
+    "correct_answer": "P and Q",
+    "explanation": "[CONCEPT]\nStep 1: Carboxylation: RuBP (5C) + CO₂ + H₂O → 2 molecules of 3-PGA (3C each) (P).\nStep 2: Oxygenation: RuBP (5C) + O₂ → 1 molecule of 3-PGA (3C) + 1 molecule of 2-phosphoglycolate (2C) (Q)."
+  },
+  {
+    "id": 106,
+    "question": "Select the correct combination of molecules in Group I with their functions in\n\nGroup II:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Ubiquitin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Phytotropins (NPA / TIBA)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Expansins / Extensins</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>DELLA proteins\n\nGroup II:\n1. Cell wall loosening and extension proteins\n2. Nuclear repressors in gibberellin signaling\n3. Covalent tag mediating target protein degradation\n4. Noncompetitive inhibitors of polar auxin transport (efflux)</span></div></div>",
+    "options": [
+      "P−3; Q−4; R−1; S−2",
+      "P−3; Q−1; R−2; S−4",
+      "P−4; Q−3; R−1; S−2",
+      "P−1; Q−2; R−4; S−3"
+    ],
+    "correct_answer": "P−3; Q−4; R−1; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Ubiquitin marks proteins for 26S proteasome degradation (P–3).\nStep 2: Phytotropins block auxin efflux carriers (Q–4).\nStep 3: Expansins/Extensins loosen cell walls during acid growth (R–1).\nStep 4: DELLA proteins repress GA signaling (S–2)."
+  },
+  {
+    "id": 107,
+    "question": "Match the options in Group I with Group II with respect to phosphoinositide signal transduction in plants:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Phospholipase C (PLC)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Inositol 1,4,5-trisphosphate (IP₃)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Diacylglycerol (DAG)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Phosphatidic acid (PA)\n\nGroup II:\n1. Stimulates release of Ca²⁺ from vacuolar / ER stores\n2. Regulates ion channels / stress signaling lipids\n3. Hydrolyzes phosphatidylinositol 4,5-bisphosphate (PIP₂)\n4. Phosphorylated by DAG kinase to phosphatidic acid</span></div></div>",
+    "options": [
+      "P−3; Q−4; R−2; S−1",
+      "P−4; Q−3; R−2; S−1",
+      "P−2; Q−3; R−1; S−4",
+      "P−3; Q−1; R−4; S−2"
+    ],
+    "correct_answer": "P−3; Q−1; R−4; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Phospholipase C cleaves PIP₂ into IP₃ and DAG (P–3).\nStep 2: IP₃ opens ligand-gated Ca²⁺ channels on the tonoplast (Q–1).\nStep 3: DAG is converted to Phosphatidic acid by DAG kinase (R–4).\nStep 4: Phosphatidic acid acts as a secondary lipid messenger in stress responses (S–2)."
+  },
+  {
+    "id": 108,
+    "question": "2-Methoxy-3,6-dichlorobenzoic acid (Dicamba) belongs to which class of plant growth regulators / herbicides?",
+    "options": [
+      "Synthetic auxin (Benzoic acid derivative)",
+      "Synthetic cytokinin",
+      "Strigolactone",
+      "Brassinosteroid"
+    ],
+    "correct_answer": "Synthetic auxin (Benzoic acid derivative)",
+    "explanation": "[CONCEPT]\nStep 1: Dicamba (2-methoxy-3,6-dichlorobenzoic acid) is a synthetic halogenated benzoic acid auxin herbicide."
+  },
+  {
+    "id": 109,
+    "question": "In a typical green C₃ plant, the first stable chemical product of the Calvin cycle is",
+    "options": [
+      "oxaloacetic acid.",
+      "succinic acid.",
+      "maleic acid.",
+      "3-phosphoglyceric acid (3-PGA)."
+    ],
+    "correct_answer": "3-phosphoglyceric acid (3-PGA).",
+    "explanation": "[CONCEPT]\nStep 1: RuBisCO catalyzes the carboxylation of RuBP to an unstable 6-carbon intermediate which instantly hydrolyzes into two molecules of 3-phosphoglyceric acid (3-PGA, 3-carbon acid)."
+  },
+  {
+    "id": 110,
+    "question": "Group I, Group II and Group III represent enzyme, product of the enzymatic reaction, and metabolic process, respectively:\n\nGroup I (Enzyme):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Hexokinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Fumarase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>PEP Carboxylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Glycolate oxidase\n\nGroup II (Product):\ni. Malate\nii. Glucose 6-P\niii. Hydrogen peroxide (H₂O₂)\niv. Cinnamic acid\nv. Oxaloacetic acid\n\nGroup III (Metabolic Process):\n1. Glycolysis\n2. Photorespiration\n3. TCA cycle\n4. C₄ Photosynthesis</span></div></div>",
+    "options": [
+      "P–ii–1; Q–iv–3; R–v–2; S–iii–4",
+      "P–ii–1; Q–i–3; R–v–4; S–iii–2",
+      "P–ii–2; Q–v–3; R–i–4; S–iii–1",
+      "P–iii-1; Q–i–3; R–iv–4; S–ii–2"
+    ],
+    "correct_answer": "P–ii–1; Q–i–3; R–v–4; S–iii–2",
+    "explanation": "[CONCEPT]\nStep 1: Hexokinase (P) → Glucose 6-P (ii) in Glycolysis (1) → P–ii–1.\nStep 2: Fumarase (Q) → Malate (i) in TCA cycle (3) → Q–i–3.\nStep 3: PEP Carboxylase (R) → Oxaloacetic acid (v) in C₄ Photosynthesis (4) → R–v–4.\nStep 4: Glycolate oxidase (S) → H₂O₂ (iii) in Photorespiration (2) → S–iii–2."
+  },
+  {
+    "id": 111,
+    "question": "Match the following agents that interfere with oxidative phosphorylation with their molecular site of action:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cyanide</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Antimycin A</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Aurovertin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>2,4-Dinitrophenol (DNP)\n\nGroup II:\n1. Blocks electron transfer from Cyt b to Cyt c₁ (Complex III)\n2. Inhibits F₁ catalytic domain of ATP synthase\n3. Uncouples oxidative phosphorylation by dissipating the proton gradient\n4. Inhibits Cytochrome c oxidase (Complex IV)\n5. Inhibits K⁺ ionophore</span></div></div>",
+    "options": [
+      "P–4; Q–1; R–2; S–3",
+      "P–5; Q–1; R–3; S–4",
+      "P–4; Q–3; R–2; S–5",
+      "P–5; Q–2; R–3; S–4"
+    ],
+    "correct_answer": "P–4; Q–1; R–2; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Cyanide (CN⁻) blocks Complex IV (P–4).\nStep 2: Antimycin A blocks Complex III (Q–1).\nStep 3: Aurovertin inhibits the F₁ ATPase subunit (R–2).\nStep 4: 2,4-Dinitrophenol uncouples electron transfer from ATP synthesis (S–3)."
+  }
+]

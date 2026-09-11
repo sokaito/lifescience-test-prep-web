@@ -238,7 +238,7 @@ export default function ResultClient({ testId }: { testId: string }) {
                                   {idx + 1}
                                 </span>
                                 <h4 
-                                  className="text-lg md:text-xl font-bold text-text-primary leading-snug w-full"
+                                  className="text-lg md:text-xl font-bold text-text-primary leading-snug w-full whitespace-pre-line"
                                   dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : q.question }}
                                 />
                               </div>
@@ -271,8 +271,8 @@ export default function ResultClient({ testId }: { testId: string }) {
                                           onSelectOption={() => {}}
                                           isReview={true}
                                           correctAnswer={q.correctAnswer}
-                                          col1Header="Column I"
-                                          col2Header="Column II"
+                                          col1Header={parsedColumnMatch.col1Header || "List I"}
+                                          col2Header={parsedColumnMatch.col2Header || "List II"}
                                         />
                                       </div>
                                     );
@@ -366,7 +366,7 @@ export default function ResultClient({ testId }: { testId: string }) {
                                 {idx + 1}
                               </span>
                               <h4 
-                                className="text-lg md:text-xl font-bold text-text-primary leading-snug w-full"
+                                className="text-lg md:text-xl font-bold text-text-primary leading-snug w-full whitespace-pre-line"
                                 dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : q.question }}
                               />
                             </div>
@@ -399,8 +399,8 @@ export default function ResultClient({ testId }: { testId: string }) {
                                         onSelectOption={() => {}}
                                         isReview={true}
                                         correctAnswer={q.correctAnswer}
-                                        col1Header="Column I"
-                                        col2Header="Column II"
+                                        col1Header={parsedColumnMatch.col1Header || "List I"}
+                                        col2Header={parsedColumnMatch.col2Header || "List II"}
                                       />
                                     </div>
                                   );

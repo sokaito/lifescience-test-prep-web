@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following elements has the largest atomic radius?",
+    "options": [
+      "Be",
+      "C",
+      "N",
+      "F"
+    ],
+    "correct_answer": "Be",
+    "explanation": "[CONCEPT]\nStep 1: Atomic radius decreases across a period from left to right due to increased effective nuclear charge pulling the electron cloud inward.\nStep 2: Be, C, N, and F belong to period 2.\nStep 3: Beryllium (Be) is at the leftmost position, hence it has the largest atomic radius."
+  },
+  {
+    "id": 2,
+    "question": "The valence electronic configuration of Cr atom (At. no. 24) in its ground state is",
+    "options": [
+      "4s¹ 3d⁵",
+      "3d⁵ 4s¹",
+      "4s¹ 3d⁴",
+      "3d⁴ 4s²"
+    ],
+    "correct_answer": "3d⁵ 4s¹",
+    "explanation": "[CONCEPT]\nStep 1: Chromium (Z=24) has an anomalous configuration due to half-filled subshell stability.\nStep 2: A 4s electron is promoted to 3d to yield a stable 3d⁵ 4s¹ configuration with maximum exchange energy."
+  },
+  {
+    "id": 3,
+    "question": "The largest ionization energy is found with",
+    "options": [
+      "alkali metals.",
+      "alkaline earth metals.",
+      "halogens.",
+      "inert gases."
+    ],
+    "correct_answer": "inert gases.",
+    "explanation": "[CONCEPT]\nStep 1: Inert (noble) gases have completely filled valence shells (octet/duplet ns²np⁶).\nStep 2: Their high effective nuclear charge and extreme electronic stability require maximum energy to remove an electron."
+  },
+  {
+    "id": 4,
+    "question": "In Planck's hypothesis E = hν, E is the energy of",
+    "options": [
+      "a photon.",
+      "a hydrogen atom.",
+      "one electron.",
+      "one H₂ molecule."
+    ],
+    "correct_answer": "a photon.",
+    "explanation": "[CONCEPT]\nStep 1: Planck's quantum theory states that radiant energy is emitted or absorbed in discrete packets called quanta or photons.\nStep 2: E = hν represents the energy associated with one photon of frequency ν."
+  },
+  {
+    "id": 5,
+    "question": "Which one of the following species is not isoelectronic with N₂?",
+    "options": [
+      "CN⁻",
+      "NO",
+      "CO",
+      "CS"
+    ],
+    "correct_answer": "NO",
+    "explanation": "[CONCEPT]\nStep 1: N₂ contains 7 + 7 = 14 electrons.\nStep 2: CN⁻ has 6 + 7 + 1 = 14 electrons; CO has 6 + 8 = 14 electrons.\nStep 3: NO has 7 + 8 = 15 electrons, so it is not isoelectronic with N₂."
+  },
+  {
+    "id": 6,
+    "question": "The ground state electronic configuration of iron is [Ar] 3d⁶ 4s². The electronic configuration of ferric ion (Fe³⁺) is",
+    "options": [
+      "[Ar] 3d⁶ 4s⁰",
+      "[Ar] 3d⁵ 4s⁰",
+      "[Ar] 3d⁴ 4s²",
+      "[Ar] 3d³ 4s²"
+    ],
+    "correct_answer": "[Ar] 3d⁵ 4s⁰",
+    "explanation": "[CONCEPT]\nStep 1: Fe (Z=26) is [Ar] 3d⁶ 4s².\nStep 2: Formation of Fe³⁺ involves loss of 2 electrons from 4s and 1 electron from 3d, leaving [Ar] 3d⁵ 4s⁰."
+  },
+  {
+    "id": 7,
+    "question": "Among the following the one that is not an amphoteric oxide is",
+    "options": [
+      "Al₂O₃",
+      "MgO",
+      "ZnO",
+      "SnO"
+    ],
+    "correct_answer": "MgO",
+    "explanation": "[CONCEPT]\nStep 1: Amphoteric oxides react with both acids and bases (e.g., Al₂O₃, ZnO, SnO).\nStep 2: MgO is an alkaline earth metal oxide which is purely basic and reacts only with acids."
+  },
+  {
+    "id": 8,
+    "question": "The minimum uncertainty in the speed of an electron in a one-dimensional box of length 10⁻¹⁰ m is",
+    "options": [
+      "510 m s⁻¹",
+      "580 km s⁻¹",
+      "1160 km s⁻¹",
+      "5800 km s⁻¹"
+    ],
+    "correct_answer": "580 km s⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: By Heisenberg's uncertainty principle: Δx · m Δv ≥ h / (4π).\nStep 2: Δv ≥ h / (4π m Δx) = (6.626 × 10⁻³⁴) / (4π × 9.11 × 10⁻³¹ × 10⁻¹⁰) ≈ 5.79 × 10⁵ m s⁻¹ ≈ 580 km s⁻¹."
+  },
+  {
+    "id": 9,
+    "question": "The longest wavelength transition in the Balmer series of atomic hydrogen is",
+    "options": [
+      "656.5 nm",
+      "6564.7 nm",
+      "15233 nm",
+      "65647 nm"
+    ],
+    "correct_answer": "656.5 nm",
+    "explanation": "[CONCEPT]\nStep 1: Longest wavelength corresponds to transition from n = 3 to n = 2.\nStep 2: 1/λ = R_H (1/2² − 1/3²) = 109677 × (5/36) = 15232.9 cm⁻¹.\nStep 3: λ = 1 / 15232.9 cm⁻¹ = 656.5 nm."
+  },
+  {
+    "id": 10,
+    "question": "The wavelength possessed by cricket ball of mass 1 kg travelling with a velocity of 40 m s⁻¹ is",
+    "options": [
+      "66 × 10⁻³⁸ m",
+      "66 × 10⁻³⁵ m",
+      "65 × 10⁻³² m",
+      "66 × 10⁻³³ m"
+    ],
+    "correct_answer": "66 × 10⁻³⁵ m",
+    "explanation": "[CONCEPT]\nStep 1: de Broglie wavelength λ = h / (m · v).\nStep 2: λ = (6.63 × 10⁻³⁴ J s) / (1 kg × 40 m s⁻¹) = 1.66 × 10⁻³⁵ m."
+  },
+  {
+    "id": 11,
+    "question": "The function cos(ax) is an eigen function of d²/dx² with an eigen value of",
+    "options": [
+      "−a",
+      "−a²",
+      "a",
+      "−a⁻²"
+    ],
+    "correct_answer": "−a²",
+    "explanation": "[CONCEPT]\nStep 1: d/dx [cos(ax)] = −a sin(ax).\nStep 2: d²/dx² [cos(ax)] = d/dx [−a sin(ax)] = −a² cos(ax).\nStep 3: Eigenvalue is −a²."
+  },
+  {
+    "id": 12,
+    "question": "The heteronuclear diatomic molecule that is isoelectronic to HCN is",
+    "options": [
+      "NO",
+      "CO",
+      "BO",
+      "SO"
+    ],
+    "correct_answer": "CO",
+    "explanation": "[CONCEPT]\nStep 1: HCN has 1 + 6 + 7 = 14 electrons.\nStep 2: CO has 6 + 8 = 14 electrons, which is heteronuclear, diatomic, and isoelectronic with HCN."
+  },
+  {
+    "id": 13,
+    "question": "Heisenberg's uncertainty principle is expressed as",
+    "options": [
+      "Δp Δx ≥ h / 2π",
+      "Δp Δx ≤ h / 4π",
+      "Δp Δx ≤ h / 2π",
+      "Δp Δx ≥ h / 4π"
+    ],
+    "correct_answer": "Δp Δx ≥ h / 4π",
+    "explanation": "[CONCEPT]\nStep 1: Heisenberg's uncertainty principle mathematically states that Δx · Δp ≥ h / (4π) or ℏ / 2."
+  },
+  {
+    "id": 14,
+    "question": "Specify which among the following statements describe uncertainty principle.",
+    "options": [
+      "No two electrons in an atom can have the same set of four quantum numbers.",
+      "It is impossible to determine simultaneously the velocity and momentum of an object with certainty.",
+      "Matter like radiation exhibit a dual behavior.",
+      "It is impossible to simultaneously determine the position and momentum of an object with certainty."
+    ],
+    "correct_answer": "It is impossible to simultaneously determine the position and momentum of an object with certainty.",
+    "explanation": "[CONCEPT]\nStep 1: Uncertainty principle states the impossibility of measuring position and momentum of a particle simultaneously with absolute precision."
+  },
+  {
+    "id": 15,
+    "question": "The ionization energy of hydrogen atom in ground state is 13.6 eV. The ionization energy of Li²⁺ in ground state would be",
+    "options": [
+      "51 eV",
+      "53 eV",
+      "40.8 eV",
+      "122.4 eV"
+    ],
+    "correct_answer": "122.4 eV",
+    "explanation": "[CONCEPT]\nStep 1: IE for hydrogen-like species = 13.6 × (Z² / n²) eV.\nStep 2: For Li²⁺, Z = 3 and ground state n = 1.\nStep 3: IE = 13.6 × 3² = 13.6 × 9 = 122.4 eV."
+  },
+  {
+    "id": 16,
+    "question": "The region in which the following spectral lines are observed is:\nP. Lyman series\nQ. Balmer series\nR. Paschen series",
+    "options": [
+      "P – UV, Q – UV/Vis, R – IR",
+      "P – UV/Vis, Q – UV, R – IR",
+      "P – IR, Q – UV, R – Vis/IR",
+      "P – UV, Q – IR, R – UV/Vis"
+    ],
+    "correct_answer": "P – UV, Q – UV/Vis, R – IR",
+    "explanation": "[CONCEPT]\nStep 1: Lyman series (n₁=1) is in the UV region.\nStep 2: Balmer series (n₁=2) is in the Visible/Near-UV region.\nStep 3: Paschen series (n₁=3) is in the Infrared (IR) region."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following substances will produce acidic oxides when burnt in excess air? Sodium (P), Sulfur (Q) and Methane (R)",
+    "options": [
+      "All three",
+      "Both Q and R",
+      "Only Q",
+      "Both P and R"
+    ],
+    "correct_answer": "Both Q and R",
+    "explanation": "[CONCEPT]\nStep 1: Non-metal combustion products (SO₂ from sulfur, CO₂ from methane) form acidic solutions in water.\nStep 2: Sodium combustion produces basic oxides (Na₂O/Na₂O₂).\nStep 3: Therefore, both Q and R produce acidic oxides."
+  },
+  {
+    "id": 18,
+    "question": "If the ground state ionization energy of the hydrogen atom is denoted by ε, then the energy required to ionize an electron from the 3d energy level of the hydrogen atom is",
+    "options": [
+      "2ε / 3",
+      "ε / 9",
+      "ε / 3",
+      "8ε / 9"
+    ],
+    "correct_answer": "ε / 9",
+    "explanation": "[CONCEPT]\nStep 1: Energy required to ionize from level n is IE_n = IE_ground / n².\nStep 2: For the 3d level (n = 3), IE = ε / 3² = ε / 9."
+  },
+  {
+    "id": 19,
+    "question": "The ionization energy follows the order",
+    "options": [
+      "O₂⁺ > O₂ > O₂⁻ > O₂²⁻",
+      "O₂ > O₂⁺ > O₂⁻ > O₂²⁻",
+      "O₂²⁻ > O₂⁻ > O₂ > O₂⁺",
+      "O₂⁻ > O₂ > O₂²⁻ > O₂⁺"
+    ],
+    "correct_answer": "O₂⁺ > O₂ > O₂⁻ > O₂²⁻",
+    "explanation": "[CONCEPT]\nStep 1: As electrons are added to antibonding π* orbitals (from O₂⁺ with 1 π* electron to O₂²⁻ with 4 π* electrons), electron-electron repulsion increases and bond order decreases.\nStep 2: O₂⁺ has highest Z_eff and lowest electron repulsion, hence highest IE: O₂⁺ > O₂ > O₂⁻ > O₂²⁻."
+  },
+  {
+    "id": 20,
+    "question": "A molecular electronic excited state has a life time of 10⁻⁹ s, the uncertainty in measuring the frequency (Hz) of the electronic transition is approximately",
+    "options": [
+      "(h / 4π) × 10⁹",
+      "(h / 4π) × 10⁻⁹",
+      "(1 / 4π) × 10⁻⁹",
+      "(1 / 4π) × 10⁹"
+    ],
+    "correct_answer": "(1 / 4π) × 10⁹",
+    "explanation": "[CONCEPT]\nStep 1: By ΔE · Δt ≥ h / (4π) and ΔE = h Δν.\nStep 2: h Δν · Δt ≥ h / (4π) ⟹ Δν ≥ 1 / (4π Δt).\nStep 3: With Δt = 10⁻⁹ s, Δν ≈ (1 / 4π) × 10⁹ Hz."
+  },
+  {
+    "id": 21,
+    "question": "The ions with lowest and highest radii among O²⁻, F⁻, Na⁺ and Mg²⁺ are respectively,",
+    "options": [
+      "Mg²⁺ and O²⁻",
+      "O²⁻ and F⁻",
+      "O²⁻ and Mg²⁺",
+      "Na⁺ and Mg²⁺"
+    ],
+    "correct_answer": "Mg²⁺ and O²⁻",
+    "explanation": "[CONCEPT]\nStep 1: O²⁻, F⁻, Na⁺, and Mg²⁺ are isoelectronic (10 electrons each).\nStep 2: Ionic radius decreases as nuclear charge increases (Mg²⁺ has Z=12, O²⁻ has Z=8).\nStep 3: Mg²⁺ has lowest radius; O²⁻ has highest radius."
+  },
+  {
+    "id": 22,
+    "question": "The ionic size of Na⁺, F⁻, Mg²⁺ and Al³⁺ varies as",
+    "options": [
+      "Al³⁺ > Mg²⁺ > Na⁺ > F⁻",
+      "F⁻ > Na⁺ > Mg²⁺ > Al³⁺",
+      "Al³⁺ > Mg²⁺ > F⁻ > Na⁺",
+      "Na⁺ > F⁻ > Mg²⁺ > Al³⁺"
+    ],
+    "correct_answer": "F⁻ > Na⁺ > Mg²⁺ > Al³⁺",
+    "explanation": "[CONCEPT]\nStep 1: All four species have 10 electrons.\nStep 2: As positive charge increases (F: 9, Na: 11, Mg: 12, Al: 13), electrons are drawn tighter.\nStep 3: Order: F⁻ > Na⁺ > Mg²⁺ > Al³⁺."
+  },
+  {
+    "id": 23,
+    "question": "A ball of mass 330 g is moving with a constant speed, and its associated de Broglie wavelength is 1 × 10⁻³³ m. The speed of the ball is __________ m s⁻¹. (h = 6.6 × 10⁻³⁴ J s)",
+    "options": [
+      "2 m s⁻¹",
+      "0.5 m s⁻¹",
+      "20 m s⁻¹",
+      "0.2 m s⁻¹"
+    ],
+    "correct_answer": "2 m s⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: λ = h / (m · v) ⟹ v = h / (m · λ).\nStep 2: m = 0.33 kg, λ = 1 × 10⁻³³ m.\nStep 3: v = (6.6 × 10⁻³⁴) / (0.33 × 1 × 10⁻³³) = 2 m s⁻¹."
+  },
+  {
+    "id": 24,
+    "question": "Molecules that are not isoelectronic to NO₂⁺ ion are",
+    "options": [
+      "CO₂ and N₃⁻",
+      "NCO⁻ and H₃BCN⁻",
+      "BO₂⁻ and H₃C–C≡CH",
+      "OF₂ and O₃⁻"
+    ],
+    "correct_answer": "OF₂ and O₃⁻",
+    "explanation": "[CONCEPT]\nStep 1: NO₂⁺ has 7 + 2(8) − 1 = 22 electrons.\nStep 2: CO₂, N₃⁻, NCO⁻, H₃BCN⁻, BO₂⁻, H₃C-C≡CH all have 22 electrons.\nStep 3: OF₂ has 26 electrons and O₃⁻ has 25 electrons, so they are not isoelectronic to NO₂⁺."
+  },
+  {
+    "id": 25,
+    "question": "For a 4s-orbital of hydrogen atom, the magnetic quantum number (m_l) is",
+    "options": [
+      "4",
+      "3",
+      "1",
+      "0"
+    ],
+    "correct_answer": "0",
+    "explanation": "[CONCEPT]\nStep 1: For any s-orbital, azimuthal quantum number l = 0.\nStep 2: Magnetic quantum number m_l can only take values from −l to +l, which is 0."
+  },
+  {
+    "id": 26,
+    "question": "The azimuthal quantum number (l) of an electron in the d_z² orbital of a copper atom (atomic number: 29) is __________.",
+    "options": [
+      "2",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nStep 1: The azimuthal quantum number (l) designates the orbital angular momentum.\nStep 2: For all d orbitals (including d_z²), l = 2 (s: l=0, p: l=1, d: l=2, f: l=3)."
+  },
+  {
+    "id": 27,
+    "question": "The correct order of the first ionization energies of He, B, N and O in their corresponding ground state is",
+    "options": [
+      "He > N > O > B",
+      "O > N > B > He",
+      "He > B > N > O",
+      "N > O > B > He"
+    ],
+    "correct_answer": "He > N > O > B",
+    "explanation": "[CONCEPT]\nStep 1: Helium has the highest ionization energy as a 1s² noble gas.\nStep 2: Nitrogen (2p³) has a stable half-filled configuration, giving it a higher IE than Oxygen (2p⁴).\nStep 3: Boron (2p¹) has the lowest IE among these.\nStep 4: Order: He > N > O > B."
+  }
+]

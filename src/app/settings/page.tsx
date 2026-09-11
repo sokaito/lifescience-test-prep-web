@@ -2,7 +2,7 @@
 
 import { useAuth } from "@/lib/AuthContext";
 import { useState } from "react";
-import { Globe, Save, User } from "lucide-react";
+import { Globe, Save, User, Download, Smartphone } from "lucide-react";
 import QuestionSeeder from "@/components/QuestionSeeder";
 
 const languages = ["English", "Hindi", "Spanish", "French"];
@@ -101,6 +101,50 @@ export default function SettingsPage() {
             </button>
           </div>
         </form>
+      </div>
+
+      {/* Android App APK Download Card */}
+      <div className="bg-bg-card p-6 md:p-8 rounded-[2rem] border border-border-subtle shadow-sm animate-fade-in-up">
+        <div className="flex items-center space-x-3 mb-4">
+          <div className="p-2 bg-teal-50 dark:bg-teal-900/30 rounded-xl text-accent-main">
+            <Smartphone className="w-5 h-5" />
+          </div>
+          <div>
+            <h3 className="text-lg font-black text-text-primary uppercase tracking-tight">Android Application</h3>
+            <p className="text-xs text-text-secondary font-medium">Download the standalone APK for mobile devices</p>
+          </div>
+        </div>
+
+        <div className="p-4 bg-bg-main rounded-2xl border border-border-subtle flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div>
+            <div className="flex items-center space-x-2">
+              <span className="font-bold text-sm text-text-primary">LifeSci Prep v1.0</span>
+              <span className="text-[10px] uppercase font-black px-1.5 py-0.5 rounded bg-teal-500/20 text-accent-main">Signed APK</span>
+            </div>
+            <p className="text-xs text-text-secondary mt-0.5">Package size: 8.7 MB • Compatible with Android 7.0+</p>
+          </div>
+          
+          <div className="flex items-center space-x-2 w-full sm:w-auto">
+            <a
+              href="/lifesci-prep.apk"
+              download="lifesci-prep.apk"
+              className="flex-1 sm:flex-initial py-3 px-5 bg-accent-main text-white text-xs font-black uppercase tracking-wider rounded-xl shadow-md hover:opacity-90 flex items-center justify-center space-x-2 transition-all"
+            >
+              <Download className="w-4 h-4" />
+              <span>Download</span>
+            </a>
+            <button
+              onClick={() => {
+                if (typeof window !== "undefined") {
+                  window.dispatchEvent(new CustomEvent("open-apk-modal", { detail: { showGuide: true } }));
+                }
+              }}
+              className="py-3 px-4 bg-bg-card border border-border-subtle rounded-xl text-text-primary text-xs font-bold uppercase tracking-wider hover:bg-bg-main transition-all"
+            >
+              Guide
+            </button>
+          </div>
+        </div>
       </div>
       
       <div className="text-center pt-8">

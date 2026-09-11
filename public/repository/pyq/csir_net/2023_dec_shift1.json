@@ -109,7 +109,7 @@
   {
     "id": 9,
     "section": "A",
-    "question": "In the given triangle ABC, a square is drawn as shown. Given,  ∠BAC = 90°, BC = a, BD = x and EC = y ;\nwhich of the following is the area of the square?\nGiven: DEFG is a square and ∠BAC=90°.\nIn ΔAFG and ΔDBG\n∠GAF = ∠BDG [90°]\n∠AGF = ∠DBG [corresponding angles because GF|| BC and AB is the transversal]\nΔAFG≈ΔDBG [by AA Similarity Criterion] …………(1)\nIn ΔAGF & ΔEFC\n∠AFG = ∠CEF [90°]\n∠AFG = ∠ECF [corresponding angles because GF|| BC and AC is the transversal]\nΔAGF≈ΔEFC [by AA Similarity Criterion] …………(2)\nFrom equation 1 and 2.\nΔDBG≈ΔEFC\nBD/EF=DG/EC\nBD/DE = DE/EC [ DEFG is a square]\nDE\n2=BD×EC. (BD = x and EC = y, Given)\nHence the area of the Square is xy unit\n1. (a - x)y 2. (a - y)x\n3. (a - x)(a - y ) 4. xy\nG F",
+    "question": "In the given triangle ABC, a square is drawn as shown. Given,  ∠BAC = 90°, BC = a, BD = x and EC = y ;\nwhich of the following is the area of the square?\nGiven: DEFG is a square and ∠BAC=90°.\nIn ΔAFG and ΔDBG\n∠GAF = ∠BDG [90°]\n∠AGF = ∠DBG [corresponding angles because GF|| BC and AB is the transversal]\nΔAFG≈ΔDBG [by AA Similarity Criterion] …………(1)\nIn ΔAGF & ΔEFC\n∠AFG = ∠CEF [90°]\n∠AFG = ∠ECF [corresponding angles because GF|| BC and AC is the transversal]\nΔAGF≈ΔEFC [by AA Similarity Criterion] …………(2)\nFrom equation 1 and\n2. ΔDBG≈ΔEFC\nBD/EF=DG/EC\nBD/DE = DE/EC [ DEFG is a square]\nDE\n2=BD×EC. (BD = x and EC = y, Given)\nHence the area of the Square is xy unit\n1. (a - x)y\n2. (a - y)x\n3. (a - x)(a - y )\n4. xy\nG F",
     "options": [
       "A",
       "B",
@@ -226,7 +226,7 @@
   {
     "id": 18,
     "section": "A",
-    "question": "Four students Adil, Billy, Ramesh and Diana joined a college in 1991 , 1992, 1993 and 11994 but not\nnecessarily in that order. Each student joined one of the four departments, viz. Physics, Chemistry,\nMathematics and Biology. No two students joined the same department. One of those who joined the college\nbefore 1993 joined Chemistry. No one joined the college after Ramesh. Diana joined Physics. Adil joined one\nyear after Diana but didn't join Chemistry. Who Joined the college in the year 1993?\nFrom the information provided in the question and conditions, we can derive the following matrix:\n1. Adil 2. Billy\n3. Ramesh 4. Diana\n1991 1992 1993 1994\nAdil N N Y N\nChemistry Billy Y N N N\nRamesh N N N Y\nPhysics Diana N Y N N",
+    "question": "Four students Adil, Billy, Ramesh and Diana joined a college in 1991 , 1992, 1993 and 11994 but not\nnecessarily in that order. Each student joined one of the four departments, viz. Physics, Chemistry,\nMathematics and Biology. No two students joined the same department. One of those who joined the college\nbefore 1993 joined Chemistry. No one joined the college after Ramesh. Diana joined Physics. Adil joined one\nyear after Diana but didn't join Chemistry. Who Joined the college in the year 1993?\nFrom the information provided in the question and conditions, we can derive the following matrix:\n1. Adil\n2. Billy\n3. Ramesh\n4. Diana\n1991 1992 1993 1994\nAdil N N Y N\nChemistry Billy Y N N N\nRamesh N N N Y\nPhysics Diana N Y N N",
     "options": [
       "A",
       "B",
@@ -931,12 +931,12 @@
     "section": "C",
     "question": "The table below represents some protein modifications in Column X and their functions in Column Y.\nWhich one of the following options represents all correct matches between Column X and Column Y?",
     "options": [
-      "(a) a-ii, b-i, c-iv, d-iii",
-      "(b) a-i, b-iv, c-ii, d-iii",
-      "(c) a-ii, b-i, c-ii, d-iii",
-      "(d) a-iv, b-iv, c-ii, d-i"
+      "a-ii, b-i, c-iv, d-iii",
+      "a-i, b-iv, c-ii, d-iii",
+      "a-ii, b-i, c-ii, d-iii",
+      "a-iv, b-iv, c-ii, d-i"
     ],
-    "correct_answer": "(c) a-ii, b-i, c-ii, d-iii",
+    "correct_answer": "a-ii, b-i, c-ii, d-iii",
     "explanation": "[CONCEPT]\nA palmitic acid (16-carbon, saturated fatty acid) molecule attaches to a Cys residue close to the N- or C-terminus via a thioester\n\nlinkage (palmitoylation). A glycosylphosphatidylinositol molecule (GPI) attaches to the C-terminal amino acid via an amide linkage.\n\nPolySUMOylation refers to the attachment of multiple Small Ubiquitin-like Modifier (SUMO) proteins to a target protein.\n\nSUMOylation is a post-translational modification where SUMO proteins are covalently attached to specific lysine residues on target\n\nproteins, typically altering their function, localization, or interactions with other molecules.\n\n[SOURCE]\nFundamental and Practice, Life Sciences - 1",
     "type": "match_following_mcq",
     "list_1": [
@@ -983,12 +983,12 @@
     "section": "C",
     "question": "The table below lists phylogenetic reconstruction methods and the description of these methods, which\nincludes both algorithmic and optimality-based methods or criteria.\nSelect the option that best matches the tree reconstruction method (Column X) with its correct description in\nColumn Y.\nand substitution parameters",
     "options": [
-      "(a) A-ii, B-i, C-iv, D-iii",
-      "(b) A-iv, B-iii, C-i, D-ii",
-      "(c) A-i, B-ii, C-iv, D-iii",
-      "(d) A-i, B-iii, C-ii, D-iv"
+      "A-ii, B-i, C-iv, D-iii",
+      "A-iv, B-iii, C-i, D-ii",
+      "A-i, B-ii, C-iv, D-iii",
+      "A-i, B-iii, C-ii, D-iv"
     ],
-    "correct_answer": "(a) A-ii, B-i, C-iv, D-iii",
+    "correct_answer": "A-ii, B-i, C-iv, D-iii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1061,12 +1061,12 @@
     "section": "C",
     "question": "Which one of the following options represents all the correct matches?",
     "options": [
-      "(a) A-ii, B-iii, C-i, D-iv",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-ii, C-i, D-iv",
-      "(d) A-iv, B-iii, C-i, D-ii"
+      "A-ii, B-iii, C-i, D-iv",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-ii, C-i, D-iv",
+      "A-iv, B-iii, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-iii, C-i, D-iv",
+    "correct_answer": "A-ii, B-iii, C-i, D-iv",
     "explanation": "[CONCEPT]\nA phylogenetic concept suggests that species should be considered to be monophyletic or exclusive groups. An evolutionary\n\nspecies is a group of organisms that shares an ancestor; a lineage that maintains its integrity with respect to other lineages\n\n[SOURCE]\nFundamental and Practice, Life Sciences - 2",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1077,12 +1077,12 @@
     "section": "C",
     "question": "Selected human diseases and their vectors are listed below:\nWhich one of the following options represents the correct match between column X and column Y?\nSchistosomiasis is an acute and chronic parasitic disease caused by blood flukes (trematode worms) of the\ngenus Schistosoma. Lyme disease is an illness caused by borrelia bacteria. Humans usually get Lyme disease\nfrom the bite of a tick carrying the bacteria.",
     "options": [
-      "(a) A-ii, B-iii, C-iv, D-i",
-      "(b) A-iii, B-iv, C-i, D-ii",
-      "(c) A-i, B-ii, C-iii, D-iv",
-      "(d) A-i, B-iv, C-ii, D-iii"
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-i, B-iv, C-ii, D-iii"
     ],
-    "correct_answer": "(d) A-i, B-iv, C-ii, D-iii",
+    "correct_answer": "A-i, B-iv, C-ii, D-iii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1143,7 +1143,7 @@
   {
     "id": 85,
     "section": "C",
-    "question": "A transgenic line was developed in mustard. The T0 transgenic line was selfed and the insertion of transgene was analyzed\nln t:he parental (P) and progeny lines (1 to 5). The T-DNA reg ion (between left (LB) and right (RB) borders) used for\ntransformation is outlined in Figure A. The pattern following Southern hybridization using probes A and B is represented in\nFigure B. Genomic DNA was digested with EcoRI (E). The thickness of band indicates the intensity of hybridization.\nThe following statements were made based on the above observation:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The developed transgenic line has a single copy of T-DNA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The absence of band in progeny 4 is due to incomplete transfer of the</span></div></div>\nT-DNA during transformation .\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Progeny 2 is homozygous at the site of insertion.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>All selfed progeny of line 5 is expected to show hybridization with both probes A and B.</span></div></div>\nWhich one of the following options has all of the correct statements?\n1. D only 2. A and D only\n3. B and C only 4. A, C and D",
+    "question": "A transgenic line was developed in mustard. The T0 transgenic line was selfed and the insertion of transgene was analyzed\nln t:he parental (P) and progeny lines (1 to 5). The T-DNA reg ion (between left (LB) and right (RB) borders) used for\ntransformation is outlined in Figure A. The pattern following Southern hybridization using probes A and B is represented in\nFigure B. Genomic DNA was digested with EcoRI (E). The thickness of band indicates the intensity of hybridization.\nThe following statements were made based on the above observation:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The developed transgenic line has a single copy of T-DNA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>The absence of band in progeny 4 is due to incomplete transfer of the</span></div></div>\nT-DNA during transformation .\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Progeny 2 is homozygous at the site of insertion.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>All selfed progeny of line 5 is expected to show hybridization with both probes A and B.</span></div></div>\nWhich one of the following options has all of the correct statements?\n1. D only\n2. A and D only\n3. B and C only\n4. A, C and D",
     "options": [
       "A",
       "B",
@@ -1273,7 +1273,7 @@
   {
     "id": 95,
     "section": "C",
-    "question": "A portion of an mRNA encoding a protein is shown below, with the start codon underlined.\n5' ... CCUCAAACAGACACCAUGUUGCACCUGACUCCU ... 3’\nWhich one of the following tRNAs is most likely used for translating the second codon in the open reading\nframe of the protein?\n1. A 2. B\n3. C 4. D",
+    "question": "A portion of an mRNA encoding a protein is shown below, with the start codon underlined.\n5' ... CCUCAAACAGACACCAUGUUGCACCUGACUCCU ... 3’\nWhich one of the following tRNAs is most likely used for translating the second codon in the open reading\nframe of the protein?\n1. A\n2. B\n3. C\n4. D",
     "options": [
       "A",
       "B",
@@ -1424,12 +1424,12 @@
     "section": "C",
     "question": "The sensory nerve fibers (Column X) and the sensory receptors connected to different sensory nerves\n(Column Y) are given below.\nWhich of the following options represents the correct match between column X and column Y?",
     "options": [
-      "(a) A- i, B- ii, C- iii, D- iv",
-      "(b) A- ii, B- iii, C- iv D-i",
-      "(c) A- iii, B- iv, C- i, D- ii",
-      "(d) A- iv, B- i, C- ii, D-iii"
+      "A- i, B- ii, C- iii, D- iv",
+      "A- ii, B- iii, C- iv D-i",
+      "A- iii, B- iv, C- i, D- ii",
+      "A- iv, B- i, C- ii, D-iii"
     ],
-    "correct_answer": "(c) A- iii, B- iv, C- i, D- ii",
+    "correct_answer": "A- iii, B- iv, C- i, D- ii",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1531,12 +1531,12 @@
     "section": "C",
     "question": "Match the names of scientists (column X) with the ecosystem concepts ( column Y) they are known for:\nAll choices are incorrect",
     "options": [
-      "(a) A- i, B - ii, C- iii, D- iv",
-      "(b) A- iv, B- ii, C- iii, D- i",
-      "(c) A- iv, B- i, C- ii, D- iii",
-      "(d) A- iii,. B- ii, C- iv, D- i"
+      "A- i, B - ii, C- iii, D- iv",
+      "A- iv, B- ii, C- iii, D- i",
+      "A- iv, B- i, C- ii, D- iii",
+      "A- iii,. B- ii, C- iv, D- i"
     ],
-    "correct_answer": "(d) A- iii,. B- ii, C- iv, D- i",
+    "correct_answer": "A- iii,. B- ii, C- iv, D- i",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],

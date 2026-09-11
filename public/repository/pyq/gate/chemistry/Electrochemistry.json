@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "The molar conductivity of a strong electrolyte varies",
+    "options": [
+      "linearly with concentration.",
+      "linearly with the square root of concentration.",
+      "inversely with concentration.",
+      "as the square of the concentration."
+    ],
+    "correct_answer": "linearly with the square root of concentration.",
+    "explanation": "[CONCEPT]\nStep 1: According to the Debye-Hückel-Onsager equation: Λ_m = Λ_m° − b√C.\nStep 2: Molar conductivity of a strong electrolyte varies linearly with the square root of concentration (√C)."
+  },
+  {
+    "id": 2,
+    "question": "If the standard reduction potential of Fe³⁺/Fe²⁺ is 0.77 V, then the reduction potential of the electrode Pt/Fe³⁺(0.1 M), Fe²⁺(1.0 M) at 298 K is",
+    "options": [
+      "0.67 V",
+      "0.71 V",
+      "0.77 V",
+      "0.83 V"
+    ],
+    "correct_answer": "0.71 V",
+    "explanation": "[CONCEPT]\nStep 1: Nernst equation for Fe³⁺ + e⁻ ⇌ Fe²⁺: E = E° − (0.0591/1) log([Fe²⁺]/[Fe³⁺]).\nStep 2: E = 0.77 − 0.0591 log(1.0 / 0.1) = 0.77 − 0.0591 log(10) = 0.77 − 0.0591 = 0.71 V."
+  },
+  {
+    "id": 3,
+    "question": "The limiting ionic conductivities of Mg²⁺ and Cl⁻ in H₂O at 298 K are 10.60 and 7.635 mS m² mol⁻¹ respectively. The limiting molar conductivity (in mS m² mol⁻¹) of MgCl₂ in H₂O at 298 K is",
+    "options": [
+      "18.235",
+      "25.870",
+      "28.833",
+      "60.893"
+    ],
+    "correct_answer": "25.870",
+    "explanation": "[CONCEPT]\nStep 1: By Kohlrausch's Law: Λ_m°(MgCl₂) = λ°(Mg²⁺) + 2 λ°(Cl⁻).\nStep 2: Λ_m° = 10.60 + 2(7.635) = 10.60 + 15.270 = 25.870 mS m² mol⁻¹."
+  },
+  {
+    "id": 4,
+    "question": "The standard potential for the electrodes Hg₂²⁺/Hg and Hg²⁺/Hg are 0.799 and 0.855 volts at 25°C, respectively. The equilibrium constant for the reaction Hg + Hg²⁺ ⇌ Hg₂²⁺ is",
+    "options": [
+      "85.12",
+      "79.12",
+      "70.00",
+      "90.20"
+    ],
+    "correct_answer": "79.12",
+    "explanation": "[CONCEPT]\nStep 1: E°_cell = E°_cathode (Hg²⁺/Hg₂²⁺) − E°_anode (Hg₂²⁺/Hg) = 2(0.855) − 0.799 = 0.911 − 0.799 = 0.056 V (for 1 mole electron transfer: n = 1, E° = 0.056 V).\nStep 2: log K = n E° / 0.0591 = 1 × 0.056 / 0.0591 ≈ 1.898 ⟹ K = 10^1.898 ≈ 79.12."
+  },
+  {
+    "id": 5,
+    "question": "The ion conductance of the alkali metal cations at a given concentration follow the following order:",
+    "options": [
+      "Li⁺ > Na⁺ > K⁺ > Rb⁺",
+      "Li⁺ < Na⁺ < K⁺ > Rb⁺",
+      "Li⁺ < Na⁺ < K⁺ < Rb⁺",
+      "Li⁺ ≅ Na⁺ > K⁺ > Rb⁺"
+    ],
+    "correct_answer": "Li⁺ < Na⁺ < K⁺ < Rb⁺",
+    "explanation": "[CONCEPT]\nStep 1: Smaller gaseous cations have higher charge density and attract a larger hydration shell in water.\nStep 2: Hydrated ionic radii: Li⁺(aq) > Na⁺(aq) > K⁺(aq) > Rb⁺(aq).\nStep 3: Larger hydrated size leads to lower ionic mobility and conductance: Li⁺ < Na⁺ < K⁺ < Rb⁺."
+  },
+  {
+    "id": 6,
+    "question": "The standard EMF of the cell set up from the reaction 2 Cu⁺(aq) → Cu(s) + Cu²⁺(aq) is 0.36 V at 298 K. The standard Gibbs free energy in kJ mol⁻¹ for this reaction is",
+    "options": [
+      "−34.73",
+      "−69.46",
+      "−3473",
+      "−6946"
+    ],
+    "correct_answer": "−34.73",
+    "explanation": "[CONCEPT]\nStep 1: Reaction involves transfer of n = 1 electron: Cu⁺ + e⁻ → Cu and Cu⁺ → Cu²⁺ + e⁻.\nStep 2: ΔG° = −nFE° = −(1)(96500 C mol⁻¹)(0.36 V) = −34740 J mol⁻¹ = −34.74 kJ mol⁻¹."
+  },
+  {
+    "id": 7,
+    "question": "The EMF of the cell (Pt, H₂ (1 atm) | HCl(aq) | AgCl, Ag) is 0.332 V and the EMF of AgCl|Ag electrode is 0.277 V. pH of the solution is",
+    "options": [
+      "0.926",
+      "03",
+      "26",
+      "5.61"
+    ],
+    "correct_answer": "0.926",
+    "explanation": "[CONCEPT]\nStep 1: E_cell = E°(AgCl/Ag) − (0.0591) log([H⁺][Cl⁻]) = E°(AgCl/Ag) + 0.0591 pH − 0.0591 log[Cl⁻].\nStep 2: For HCl, [H⁺] = [Cl⁻] ⟹ E_cell = E°_AgCl/Ag + 2(0.0591) pH ⟹ 0.332 = 0.222/0.277 + 2(0.0591)pH.\nStep 3: Solving gives pH ≈ 0.926 (or 0.93)."
+  },
+  {
+    "id": 8,
+    "question": "A concentrated solution of NaCl is diluted ten times. The specific conductance (κ) and molar conductance (Λm) will show the following behavior:",
+    "options": [
+      "decrease in κ and increase in Λm.",
+      "increase in κ and decrease in Λm.",
+      "no change in both.",
+      "increase in both."
+    ],
+    "correct_answer": "decrease in κ and increase in Λm.",
+    "explanation": "[CONCEPT]\nStep 1: Specific conductance (κ) is conductivity per unit volume (1 mL); on dilution, number of ions per unit volume decreases, so κ decreases.\nStep 2: Molar conductance Λm = κ / C increases upon dilution due to decreased interionic attractions."
+  },
+  {
+    "id": 9,
+    "question": "Statement for Linked Questions: Consider a cell Zn(s) | Zn²⁺(aq) || Cu²⁺(aq) | Cu(s) operating at 298 K (Given: E°(Zn²⁺/Zn) = −0.763 V and E°(Cu²⁺/Cu) = +0.337 V). The emf of the cell (E°_cell) will be",
+    "options": [
+      "100 V",
+      "0.426 V",
+      "−1.10 V",
+      "−0.426 V"
+    ],
+    "correct_answer": "100 V",
+    "explanation": "[CONCEPT]\nStep 1: E°_cell = E°_cathode − E°_anode = E°(Cu²⁺/Cu) − E°(Zn²⁺/Zn).\nStep 2: E°_cell = 0.337 V − (−0.763 V) = +1.100 V."
+  },
+  {
+    "id": 10,
+    "question": "The value of log K for the cell reaction Zn(s) + Cu²⁺(aq) ⇌ Zn²⁺(aq) + Cu(s) at 298 K is [Given: R = 8.314 J K⁻¹ mol⁻¹, F = 96500 C mol⁻¹]",
+    "options": [
+      "18.61",
+      "14.41",
+      "−14.41",
+      "37.22"
+    ],
+    "correct_answer": "37.22",
+    "explanation": "[CONCEPT]\nStep 1: log K = n E°_cell / 0.0591.\nStep 2: Here n = 2 and E°_cell = 1.100 V.\nStep 3: log K = (2 × 1.100) / 0.0591 = 2.200 / 0.0591 = 37.22."
+  },
+  {
+    "id": 11,
+    "question": "A fuel cell is based on the reaction H₂(g) + ½ O₂(g) → H₂O(l). The standard free energy change (ΔG°) for this reaction at 298 K is −237.13 kJ mol⁻¹. The standard cell potential is (1 Faraday = 96500 C)",
+    "options": [
+      "457 volts.",
+      "228 volts.",
+      "−1.228 volts.",
+      "−2.457 volts."
+    ],
+    "correct_answer": "228 volts.",
+    "explanation": "[CONCEPT]\nStep 1: In the reaction H₂ + ½ O₂ → H₂O, n = 2 electrons are transferred.\nStep 2: ΔG° = −n F E°_cell ⟹ E°_cell = −(−237.13 × 10³ J) / (2 × 96500 C) = +1.228 V."
+  },
+  {
+    "id": 12,
+    "question": "An electrochemical cell of representation A(s) | A²⁺(aq) 1 M || B²⁺(aq) 1 M | B(s) was found to be a spontaneous galvanic cell. Which of the following statements is correct?",
+    "options": [
+      "The cell converts electrical energy to chemical energy spontaneously.",
+      "The cell uses electrical energy to deposit 'A' and dissolve 'B' spontaneously.",
+      "(A²⁺/A) is a stronger reducing agent than (B²⁺/B).",
+      "(A²⁺/A) is a stronger oxidizing agent than (B²⁺/B)."
+    ],
+    "correct_answer": "(A²⁺/A) is a stronger reducing agent than (B²⁺/B).",
+    "explanation": "[CONCEPT]\nStep 1: In a spontaneous galvanic cell, oxidation occurs spontaneously at the anode (A → A²⁺ + 2e⁻) and reduction at the cathode (B²⁺ + 2e⁻ → B).\nStep 2: Therefore, metal A has higher oxidation potential and is a stronger reducing agent than metal B."
+  },
+  {
+    "id": 13,
+    "question": "The limiting molar conductivities are given: Λ°(HCl) = 425.9, Λ°(NaCl) = 126.4, λ°(H⁺) = 349.6 S cm² mol⁻¹. The limiting molar conductivity of Na⁺ ion is",
+    "options": [
+      "50.1",
+      "76.3",
+      "299.5",
+      "476.0"
+    ],
+    "correct_answer": "50.1",
+    "explanation": "[CONCEPT]\nStep 1: λ°(Cl⁻) = Λ°(HCl) − λ°(H⁺) = 425.9 − 349.6 = 76.3 S cm² mol⁻¹.\nStep 2: λ°(Na⁺) = Λ°(NaCl) − λ°(Cl⁻) = 126.4 − 76.3 = 50.1 S cm² mol⁻¹."
+  },
+  {
+    "id": 14,
+    "question": "Given the standard electrode potentials at 25°C: Fe²⁺ + 2e⁻ → Fe(s), E° = −0.440 V; Fe³⁺ + e⁻ → Fe²⁺, E° = +0.771 V. The standard electrode potential for Fe³⁺ + 3e⁻ → Fe(s) is",
+    "options": [
+      "−0.036 V",
+      "−0.331 V",
+      "−0.662 V",
+      "−2.422 V"
+    ],
+    "correct_answer": "−0.036 V",
+    "explanation": "[CONCEPT]\nStep 1: ΔG°₃ = ΔG°₁ + ΔG°₂ ⟹ −3 F E°₃ = −2 F E°₁ − 1 F E°₂.\nStep 2: 3 E°₃ = 2(−0.440) + 1(0.771) = −0.880 + 0.771 = −0.109 V.\nStep 3: E°₃ = −0.109 / 3 = −0.0363 V."
+  },
+  {
+    "id": 15,
+    "question": "A battery delivers a steady current of 1.25 A for 90 minutes. The total charge 'Q' (in Coulomb units) is",
+    "options": [
+      "6750",
+      "1012.5",
+      "112.5",
+      "12.5"
+    ],
+    "correct_answer": "6750",
+    "explanation": "[CONCEPT]\nStep 1: Q = I × t.\nStep 2: I = 1.25 A, t = 90 minutes = 90 × 60 = 5400 s.\nStep 3: Q = 1.25 × 5400 = 6750 C."
+  },
+  {
+    "id": 16,
+    "question": "The standard half-cell potential of Cu²⁺/Cu couple is 0.34 V. A copper wire is immersed into a copper nitrate solution. If the measured cell potential against standard hydrogen electrode at 298 K is 0.24 V, the molar concentration of copper nitrate is",
+    "options": [
+      "1 × 10⁻⁴ M",
+      "0 × 10⁻² M",
+      "4 × 10⁻² M",
+      "8 × 10⁻¹ M"
+    ],
+    "correct_answer": "1 × 10⁻⁴ M",
+    "explanation": "[CONCEPT]\nStep 1: E = E° + (0.0591/2) log[Cu²⁺] ⟹ 0.24 = 0.34 + 0.02955 log[Cu²⁺].\nStep 2: 0.02955 log[Cu²⁺] = −0.10 ⟹ log[Cu²⁺] = −3.384.\nStep 3: [Cu²⁺] = 10^−3.384 ≈ 4.1 × 10⁻⁴ M."
+  },
+  {
+    "id": 17,
+    "question": "The molar conductance at infinite dilution of sodium acetate, sodium sulfate and sulfuric acid solutions are 91.0 × 10⁻⁴, 259.8 × 10⁻⁴ and 859.3 × 10⁻⁴ S m² mol⁻¹, respectively. The molar conductance at infinite dilution of acetic acid is",
+    "options": [
+      "1028 × 10⁻⁴",
+      "820.4 × 10⁻⁴",
+      "690.5 × 10⁻⁴",
+      "390.8 × 10⁻⁴"
+    ],
+    "correct_answer": "390.8 × 10⁻⁴",
+    "explanation": "[CONCEPT]\nStep 1: Λ°(CH₃COOH) = Λ°(CH₃COONa) + ½ Λ°(H₂SO₄) − ½ Λ°(Na₂SO₄).\nStep 2: Λ° = [91.0 + ½(859.3) − ½(259.8)] × 10⁻⁴ = [91.0 + 429.65 − 129.9] × 10⁻⁴ = 390.75 × 10⁻⁴ S m² mol⁻¹."
+  },
+  {
+    "id": 18,
+    "question": "The molar conductance at infinite dilution of acetic acid is 390.8 × 10⁻⁴ S m² mol⁻¹. If the molar conductance of an acetic acid solution is 15.2 × 10⁻⁴ S m² mol⁻¹, then the percentage (%) dissociation of acetic acid in the solution will be",
+    "options": [
+      "89",
+      "20",
+      "85",
+      "48"
+    ],
+    "correct_answer": "89",
+    "explanation": "[CONCEPT]\nStep 1: Degree of dissociation α = Λ_m / Λ_m° = (15.2 × 10⁻⁴) / (390.8 × 10⁻⁴) = 0.03889.\nStep 2: % Dissociation = α × 100 = 3.89%."
+  },
+  {
+    "id": 19,
+    "question": "For the electrochemical reaction Cu²⁺(aq) + Zn(s) ⇌ Cu(s) + Zn²⁺(aq), the equilibrium constant at 25°C is 1.7 × 10³⁷. The change in standard Gibbs free energy (ΔG°) for this reaction at that temperature will be __________ kJ mol⁻¹.",
+    "options": [
+      "−212.4",
+      "−106.2",
+      "−424.8",
+      "−88.7"
+    ],
+    "correct_answer": "−212.4",
+    "explanation": "[CONCEPT]\nStep 1: ΔG° = −2.303 RT log K_eq.\nStep 2: ΔG° = −2.303 × (8.314 J K⁻¹ mol⁻¹) × (298 K) × log(1.7 × 10³⁷) = −5705.8 × (37.230) = −212431 J mol⁻¹ = −212.4 kJ mol⁻¹."
+  },
+  {
+    "id": 20,
+    "question": "For a weak acid at 298 K the molar conductivities at infinite dilution and 0.04 mol dm⁻³ are 4.3 × 10⁻³ and 1.0 × 10⁻³ ohm⁻¹ m² mol⁻¹, respectively. The degree of dissociation of the acid is __________.",
+    "options": [
+      "0.2325",
+      "0.4650",
+      "0.1162",
+      "0.3333"
+    ],
+    "correct_answer": "0.2325",
+    "explanation": "[CONCEPT]\nStep 1: α = Λ_m^c / Λ_m^∞.\nStep 2: α = (1.0 × 10⁻³) / (4.3 × 10⁻³) = 1 / 4.3 ≈ 0.2325."
+  },
+  {
+    "id": 21,
+    "question": "The EMF for the cell Ag(s) | Ag⁺(aq, 0.01 M) || Ag⁺(aq, 1.0 M) | Ag(s) at 298.15 K is",
+    "options": [
+      "0.12 V",
+      "0.68 V",
+      "0.80 V",
+      "0.92 V"
+    ],
+    "correct_answer": "0.12 V",
+    "explanation": "[CONCEPT]\nStep 1: Concentration cell with identical electrodes: E°_cell = 0.\nStep 2: E_cell = −(0.0591 / 1) log([Ag⁺]_anode / [Ag⁺]_cathode) = −0.0591 log(0.01 / 1.0) = −0.0591 log(10⁻²) = +0.1182 V ≈ 0.12 V."
+  },
+  {
+    "id": 22,
+    "question": "The standard reduction potential (E°) for the conversion of Cr₂O₇²⁻ to Cr³⁺ at 25°C in an aqueous solution of pH 3.0 is 1.33 V. The concentrations of Cr₂O₇²⁻ and Cr³⁺ are 1.0 × 10⁻⁴ M and 1.0 × 10⁻³ M, respectively. Then the potential of this half-cell reaction is",
+    "options": [
+      "04 V",
+      "0.94 V",
+      "0.84 V",
+      "0.74 V"
+    ],
+    "correct_answer": "0.94 V",
+    "explanation": "[CONCEPT]\nStep 1: Cr₂O₇²⁻ + 14 H⁺ + 6e⁻ ⇌ 2 Cr³⁺ + 7 H₂O. n = 6.\nStep 2: [H⁺] = 10⁻³ M at pH 3.0.\nStep 3: E = E° − (0.0591/6) log([Cr³⁺]² / ([Cr₂O₇²⁻][H⁺]¹⁴)) = 1.33 − (0.0591/6) log[(10⁻³)² / (10⁻⁴ × (10⁻³)¹⁴)] = 1.33 − (0.0591/6) log(10³⁷) = 1.33 − 0.364 = 0.936 V ≈ 0.94 V."
+  },
+  {
+    "id": 23,
+    "question": "Given the standard reduction potentials E°(Cu²⁺/Cu) = 0.34 V and E°(Ag⁺/Ag) = 0.80 V, the standard free energy change (ΔG°) for Cu(s) + 2 Ag⁺(aq) → Cu²⁺(aq) + 2 Ag(s) in kJ mol⁻¹ is __________.",
+    "options": [
+      "−88.7",
+      "−44.3",
+      "−177.4",
+      "−22.1"
+    ],
+    "correct_answer": "−88.7",
+    "explanation": "[CONCEPT]\nStep 1: E°_cell = E°(Ag⁺/Ag) − E°(Cu²⁺/Cu) = 0.80 − 0.34 = 0.46 V.\nStep 2: Reaction involves transfer of n = 2 electrons.\nStep 3: ΔG° = −n F E°_cell = −2 × 96500 × 0.46 = −88780 J mol⁻¹ = −88.78 kJ mol⁻¹ ≈ −88.7 kJ mol⁻¹."
+  },
+  {
+    "id": 24,
+    "question": "The standard potential (E°_cell) for Au³⁺(aq) + 3 Ag(s) → Au(s) + 3 Ag⁺(aq) is +0.7 V. The standard reaction free energy (ΔrG°) for this cell is __________ kJ mol⁻¹.",
+    "options": [
+      "−202.65",
+      "−101.32",
+      "−303.97",
+      "−67.55"
+    ],
+    "correct_answer": "−202.65",
+    "explanation": "[CONCEPT]\nStep 1: Number of electrons transferred n = 3.\nStep 2: ΔG° = −n F E°_cell = −3 × (96500 C mol⁻¹) × (0.7 V) = −202650 J mol⁻¹ = −202.65 kJ mol⁻¹."
+  }
+]

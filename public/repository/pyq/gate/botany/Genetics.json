@@ -1,0 +1,734 @@
+[
+  {
+    "id": 1,
+    "question": "Corn (Zea mays) has a diploid number of 20. The chromosome number in a microspore mother cell would be",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "40"
+    ],
+    "correct_answer": "20",
+    "explanation": "[CONCEPT]\nStep 1: Microspore mother cells (pollen mother cells or meiocytes) are diploid (2n) somatic/sporophytic reproductive cells.\nStep 2: Since Zea mays has 2n = 20, the microspore mother cell contains 20 chromosomes before undergoing meiosis to form haploid microspores (n = 10)."
+  },
+  {
+    "id": 2,
+    "question": "A mechanism that can cause a gene to move from one linkage group (chromosome) to another non-homologous chromosome is",
+    "options": [
+      "translocation.",
+      "inversion.",
+      "duplication.",
+      "deletion."
+    ],
+    "correct_answer": "translocation.",
+    "explanation": "[CONCEPT]\nStep 1: Translocation involves the transfer or reciprocal exchange of chromosome segments between non-homologous chromosomes, shifting genes to new linkage groups.\nStep 2: Inversion, deletion, and duplication affect gene order or dosage within the same chromosome."
+  },
+  {
+    "id": 3,
+    "question": "The diploid number of an organism is 12 (2n = 12). How many chromosomes would be expected in its nullisomic condition?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "correct_answer": "10",
+    "explanation": "[CONCEPT]\nStep 1: Nullisomy is an aneuploid condition characterized by the loss of an entire pair of homologous chromosomes: (2n − 2).\nStep 2: 2n − 2 = 12 − 2 = 10 chromosomes."
+  },
+  {
+    "id": 4,
+    "question": "The average number of chiasmata in one pair of homologous chromosomes is 1.4. The total genetic map length (in map units / cM) for this linkage group is expected to be",
+    "options": [
+      "90 cM",
+      "70 cM",
+      "50 cM",
+      "30 cM"
+    ],
+    "correct_answer": "70 cM",
+    "explanation": "[CONCEPT]\nStep 1: One chiasma (cross-over event involving 2 of the 4 chromatids) corresponds to 50% recombinant chromatids, which equals 50 map units (50 cM).\nStep 2: Map length = (Average number of chiasmata) × 50 cM = 1.4 × 50 = 70 cM."
+  },
+  {
+    "id": 5,
+    "question": "A functional genetic unit that codes for a single polypeptide chain is known as a",
+    "options": [
+      "codon.",
+      "muton.",
+      "cistron.",
+      "recon."
+    ],
+    "correct_answer": "cistron.",
+    "explanation": "[CONCEPT]\nStep 1: In classical molecular genetics (Seymour Benzer):\n- Cistron: the unit of function (one gene - one polypeptide)\n- Muton: the smallest unit of mutation (a single nucleotide pair)\n- Recon: the smallest unit of recombination."
+  },
+  {
+    "id": 6,
+    "question": "How many base pairs of DNA are present per complete nucleosome (including core particle and chromatosome H1-linker region)?",
+    "options": [
+      "166",
+      "156",
+      "146",
+      "136"
+    ],
+    "correct_answer": "166",
+    "explanation": "[CONCEPT]\nStep 1: The nucleosome core particle contains 146–147 bp of DNA wrapped 1.65 turns around the histone octamer (H2A, H2B, H3, H4)₂.\nStep 2: In the chromatosome, linker histone H1 binds to the entry/exit DNA sites, extending the protected length to approximately 166 bp."
+  },
+  {
+    "id": 7,
+    "question": "The maximum theoretical recombination frequency between two linked gene loci on a chromosome can never exceed",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\nStep 1: Crossing over occurs at the 4-strand (tetrad) stage and involves only 2 non-sister chromatids per event.\nStep 2: Even with multiple crossovers between distant loci, 50% non-recombinant parental chromatids remain on average, capping the maximum recombination frequency at 50% (independent assortment limit)."
+  },
+  {
+    "id": 8,
+    "question": "A point mutation involving a change from a purine to a pyrimidine, or a pyrimidine to a purine, is called a",
+    "options": [
+      "transition.",
+      "transversion.",
+      "frame shift.",
+      "reversion."
+    ],
+    "correct_answer": "transversion.",
+    "explanation": "[CONCEPT]\nStep 1: Transition: purine ↔ purine (A ↔ G) or pyrimidine ↔ pyrimidine (C ↔ T).\nStep 2: Transversion: purine ↔ pyrimidine (A/G ↔ C/T)."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following pairs of DNA sequences could qualify as the terminal inverted repeats of a bacterial insertion sequence (IS element)?",
+    "options": [
+      "5′–GAATCCGCA–3′ and 5′–ACGCCTAAG–3′",
+      "5′–GAATCCGCA–3′ and 5′–CTTAGGCGT–3′",
+      "5′–GAATCCGCA–3′ and 5′–GAATCCGCA–3′",
+      "5′–GAATCCGCA–3′ and 5′–TGCGGATTC–3′"
+    ],
+    "correct_answer": "5′–GAATCCGCA–3′ and 5′–TGCGGATTC–3′",
+    "explanation": "[CONCEPT]\nStep 1: Terminal Inverted Repeats (TIR) are identical when read in the 5′ → 3′ direction on opposite strands.\nStep 2: The reverse complement of 5′–GAATCCGCA–3′ is 5′–TGCGGATTC–3′."
+  },
+  {
+    "id": 10,
+    "question": "Assume a normal chromosome with gene sequence: a b c d • e f g h (where • is the centromere).\nAn aberration results in the sequence: a b c • d e f g h.\nWhat type of chromosomal aberration is this?",
+    "options": [
+      "Deletion",
+      "Translocation",
+      "Inversion",
+      "Duplication"
+    ],
+    "correct_answer": "Inversion",
+    "explanation": "[CONCEPT]\nStep 1: The segment including the centromere underwent a 180° rotation / pericentric inversion, altering the centromere position relative to flanking markers."
+  },
+  {
+    "id": 11,
+    "question": "There are three kinds of RNA polymerases (I, II, III) in eukaryotic nuclei, each synthesizing a specific class of RNA. Which of the following is a correct match?",
+    "options": [
+      "RNA pol I – rRNA; RNA pol II – tRNA",
+      "RNA pol II – mRNA; RNA pol III – rRNA",
+      "RNA pol I – rRNA; RNA pol II – mRNA",
+      "RNA pol I – tRNA; RNA pol III – rRNA"
+    ],
+    "correct_answer": "RNA pol I – rRNA; RNA pol II – mRNA",
+    "explanation": "[CONCEPT]\nStep 1: RNA Polymerase I transcribes large rRNAs (28S, 18S, 5.8S).\nStep 2: RNA Polymerase II transcribes pre-mRNA / mRNA and snRNAs.\nStep 3: RNA Polymerase III transcribes tRNA and 5S rRNA."
+  },
+  {
+    "id": 12,
+    "question": "Purple leaves (Pl) is dominant to green leaves (pl), and normal plant size (Pg) is dominant to pigmy plant (pg) on chromosome 6 of maize. F₁ dihybrids from the cross Pl pg / Pl pg × pl Pg / pl Pg were test-crossed (Pl pg / pl Pg × pl pg / pl pg), yielding the following 1000 progeny:\n- 419: Normal size plants with green leaves (pl Pg / pl pg)\n- 381: Pigmy plants with purple leaves (Pl pg / pl pg)\n- 79: Normal size plants with purple leaves (Pl Pg / pl pg)\n- 121: Pigmy plants with green leaves (pl pg / pl pg)\n\nWhat is the genetic map distance between Pl and pg loci?",
+    "options": [
+      "10 cM",
+      "15 cM",
+      "20 cM",
+      "30 cM"
+    ],
+    "correct_answer": "20 cM",
+    "explanation": "[CONCEPT]\nStep 1: Parental classes: Pl pg (381) + pl Pg (419) = 800.\nStep 2: Recombinant classes: Pl Pg (79) + pl pg (121) = 200.\nStep 3: Recombination frequency = 200 / 1000 = 0.20 = 20% = 20 cM."
+  },
+  {
+    "id": 13,
+    "question": "If A = 1 micrometer (10⁻⁶ m), B = 1 nanometer (10⁻⁹ m) and C = 5 angstroms (5 × 10⁻¹⁰ m), find the product of (A/B) and (B/C):",
+    "options": [
+      "(−) 2000",
+      "2000",
+      "5000",
+      "(−) 5000"
+    ],
+    "correct_answer": "2000",
+    "explanation": "[CONCEPT]\nStep 1: (A/B) × (B/C) = A/C.\nStep 2: A = 10⁻⁶ m; C = 5 × 10⁻¹⁰ m.\nStep 3: A/C = 10⁻⁶ / (5 × 10⁻¹⁰) = 10⁴ / 5 = 10,000 / 5 = 2000."
+  },
+  {
+    "id": 14,
+    "question": "In pea plants, a cross was made between homozygous dominant (GGRR, yellow round) and homozygous recessive (ggrr, green wrinkled). The F₁ dihybrid (GgRr) was selfed. In the F₂ generation, what is the proportion of completely homozygous to heterozygous yellow round seeds?",
+    "options": [
+      "1:3",
+      "1:16",
+      "1:8",
+      "9:16"
+    ],
+    "correct_answer": "1:8",
+    "explanation": "[CONCEPT]\nStep 1: Total yellow round seeds in F₂ = 9/16.\nStep 2: Homozygous yellow round = GGRR (1/16).\nStep 3: Heterozygous yellow round = GGRr (2/16) + GgRR (2/16) + GgRr (4/16) = 8/16.\nStep 4: Ratio of homozygous (1) : heterozygous (8) yellow round = 1:8."
+  },
+  {
+    "id": 15,
+    "question": "A mutant strain (thi⁻) of Neurospora was crossed with wild type (thi⁺). A total of 132 octad asci were analyzed:\n- First division segregation (FDS, 4:4): 104\n- Second division segregation (SDS, 2:2:2:2 or 2:4:2): 28\n\nFind the genetic map distance (in cM) of the thi gene from its centromere.",
+    "options": [
+      "10.6 cM",
+      "21.2 cM",
+      "5.3 cM",
+      "8.3 cM"
+    ],
+    "correct_answer": "10.6 cM",
+    "explanation": "[CONCEPT]\nStep 1: Gene-centromere map distance = 1/2 × (% SDS asci).\nStep 2: % SDS = (28 / 132) × 100% = 21.21%.\nStep 3: Distance = 21.21 / 2 = 10.6 cM."
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Property):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cointegrate formation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>LTRs (Long Terminal Repeats)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Hybrid dysgenesis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Controlling elements\n\nGroup II (Transposon):\n1. Tn5\n2. P elements (in Drosophila)\n3. Tn3 (Replicative transposon)\n4. Ty1 (in Yeast retrotransposon)\n5. IS elements\n6. Ac/Ds (in Maize)</span></div></div>",
+    "options": [
+      "P–3; Q–4; R–2; S–6",
+      "P–6; Q–5; R–2; S–1",
+      "P–4; Q–5; R–2; S–3",
+      "P–1; Q–3; R–2; S–5"
+    ],
+    "correct_answer": "P–3; Q–4; R–2; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Tn3 transposes via replicative cointegrate intermediates resolved by resolvase (P–3).\nStep 2: Ty1 yeast retrotransposon possesses LTRs (Q–4).\nStep 3: P elements in Drosophila cause hybrid dysgenesis (R–2).\nStep 4: Ac/Ds in maize are controlling transposable elements discovered by McClintock (S–6)."
+  },
+  {
+    "id": 17,
+    "question": "The two scientists who were awarded the Nobel Prize for discovering mobile genetic elements (transposons) and developing polymerase chain reaction (PCR), respectively, are",
+    "options": [
+      "Barbara McClintock and Susumu Tonegawa.",
+      "Barbara McClintock and Kary Mullis.",
+      "Barbara McClintock and Paul Berg.",
+      "Kary Mullis and Paul Berg."
+    ],
+    "correct_answer": "Barbara McClintock and Kary Mullis.",
+    "explanation": "[CONCEPT]\nStep 1: Barbara McClintock won the Nobel Prize in Physiology/Medicine in 1983 for discovering transposable elements.\nStep 2: Kary Mullis won the Nobel Prize in Chemistry in 1993 for inventing the Polymerase Chain Reaction (PCR)."
+  },
+  {
+    "id": 18,
+    "question": "In a three-point test cross XYZ/xyz × xyz/xyz, the following progeny counts were obtained:\n- Parental (NCO): XYZ (476) + xyz (471) = 947\n- SCO between X and Y: Xyz (15) + xYZ (18) = 33\n- DCO: XyZ (1) + xYz (1) = 2\n- SCO between Y and Z: XyZ / xyZ (9) + xYZ (9) = 18\nTotal progeny = 1000.\n\nFind out the genetic map distance between X and Y genes.",
+    "options": [
+      "5 cM",
+      "5 cM",
+      "8 cM",
+      "2 cM"
+    ],
+    "correct_answer": "5 cM",
+    "explanation": "[CONCEPT]\nStep 1: Total recombinants between X and Y = SCO(X-Y) + DCO = (15 + 18) + (1 + 1) = 35.\nStep 2: Map distance = (35 / 1000) × 100 = 3.5 cM."
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct match for non-allelic gene interaction and F₂ phenotypic segregation ratios:\n\nGroup I (Type of interaction):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Recessive epistasis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Dominant epistasis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Duplicate recessive epistasis (Complementary)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Dominant and recessive epistasis (Inhibitory)\n\nGroup II (F₂ Phenotypic ratio):\n1. 12 : 3 : 1\n2. 13 : 3\n3. 9 : 6 : 1\n4. 9 : 3 : 4\n5. 9 : 7\n6. 15 : 1</span></div></div>",
+    "options": [
+      "P–2; Q–1; R–2; S–5",
+      "P–4; Q–1; R–5; S–2",
+      "P–6; Q–3; R–2; S–1",
+      "P–1; Q–5; R–3; S–4"
+    ],
+    "correct_answer": "P–4; Q–1; R–5; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Recessive epistasis (e.g., coat color in mice) = 9 : 3 : 4 (P–4).\nStep 2: Dominant epistasis (e.g., fruit color in squash) = 12 : 3 : 1 (Q–1).\nStep 3: Duplicate recessive / complementary genes = 9 : 7 (R–5).\nStep 4: Dominant and recessive / inhibitory epistasis = 13 : 3 (S–2)."
+  },
+  {
+    "id": 20,
+    "question": "Statement for Linked Questions 20 and 21:\nIn tomato, the three linked genes on chromosome 3 are: + (tall) vs d (dwarf), + (normal leaves) vs m (mottled leaves), and + (smooth fruit) vs p (pubescent fruit).\nIn a test cross (+++ / dmp × dmp / dmp), the 1000 progeny were:\n- +++ (430), dmp (452)\n- +mp (45), d++ (38)\n- ++p (16), dm+ (17)\n- +m+ (1), d+p (1)\n\nWhich one of the following progeny groups represents the double crossovers (DCO)?",
+    "options": [
+      "+mp / d++",
+      "++p / dm+",
+      "+m+ / d+p",
+      "+++ / dmp"
+    ],
+    "correct_answer": "+m+ / d+p",
+    "explanation": "[CONCEPT]\nStep 1: In three-point mapping, Double Crossover (DCO) classes occur with the lowest frequency.\nStep 2: +m+ (1) and d+p (1) are the least frequent classes (total 2), representing the DCO progeny."
+  },
+  {
+    "id": 21,
+    "question": "Statement for Linked Questions 20 and 21:\nFrom the cross data in Question 20, what is the coefficient of coincidence (C)?",
+    "options": [
+      "0.25",
+      "0.48",
+      "0.66",
+      "0.82"
+    ],
+    "correct_answer": "0.66",
+    "explanation": "[CONCEPT]\nStep 1: Frequency SCO₁ (between d and m) = (45 + 38 + 1 + 1) / 1000 = 0.085 (8.5 cM).\nStep 2: Frequency SCO₂ (between m and p) = (16 + 17 + 1 + 1) / 1000 = 0.035 (3.5 cM).\nStep 3: Expected DCO = 0.085 × 0.035 × 1000 = 2.975.\nStep 4: Observed DCO = 2.\nStep 5: Coefficient of Coincidence (C) = Observed DCO / Expected DCO = 2 / 2.975 = 0.67 (0.66)."
+  },
+  {
+    "id": 22,
+    "question": "Consider a dihybrid self-cross (AaBb × AaBb), where genes A and B assort independently. What fraction of the progeny will display the recessive phenotype for at least one gene?",
+    "options": [
+      "1/16",
+      "9/16",
+      "7/16",
+      "3/16"
+    ],
+    "correct_answer": "7/16",
+    "explanation": "[CONCEPT]\nStep 1: In a standard dihybrid cross, the phenotypic ratio is 9 (A_B_) : 3 (A_bb) : 3 (aaB_) : 1 (aabb).\nStep 2: Progeny with recessive phenotype for at least one gene = A_bb (3) + aaB_ (3) + aabb (1) = 7/16 (or 1 − 9/16 = 7/16)."
+  },
+  {
+    "id": 23,
+    "question": "Statement for Linked Questions 23 and 24:\nNucleotide base compositions of four nucleic acid molecules are given below:\n- Molecule P: 33% A, 17% G, 33% T, 0% U, 17% C\n- Molecule Q: 33% A, 33% G, 17% T, 0% U, 17% C\n- Molecule R: 26% A, 24% G, 0% T, 26% U, 24% C\n- Molecule S: 30% A, 20% G, 0% T, 20% U, 30% C\n\nFrom the above table, identify the single-stranded RNA molecule.",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "correct_answer": "S",
+    "explanation": "[CONCEPT]\nStep 1: RNA molecules contain Uracil (U) and no Thymine (T) (ruling out P and Q).\nStep 2: Double-stranded RNA follows Chargaff's rule (%A = %U and %G = %C). In R, %A = %U = 26% and %G = %C = 24% (dsRNA).\nStep 3: In S, %A (30%) ≠ %U (20%) and %G (20%) ≠ %C (30%), indicating single-stranded RNA (ssRNA)."
+  },
+  {
+    "id": 24,
+    "question": "Statement for Linked Questions 23 and 24:\nFrom the data in Question 23, find out the double-stranded DNA molecule with the lowest melting temperature (Tₘ).",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "correct_answer": "P",
+    "explanation": "[CONCEPT]\nStep 1: Double-stranded DNA requires T (no U) and %A = %T, %G = %C. In P, %A=%T=33% (66% AT) and %G=%C=17% (34% GC).\nStep 2: DNA melting temperature Tₘ is lower for molecules with lower G+C content and higher A+T content (since AT base pairs have only 2 hydrogen bonds vs 3 in GC).\nStep 3: Molecule P has high AT (66%) and thus the lowest Tₘ."
+  },
+  {
+    "id": 25,
+    "question": "Statement for Linked Questions 25 and 26:\nThe diploid plant Arabidopsis thaliana has 5 pairs of chromosomes (2n = 10, designated AA, BB, CC, DD, EE) and the plant is self-fertilized.\n\nIdentify the correct chromosomal complement present in the root somatic cells of the offspring.",
+    "options": [
+      "A B C D E",
+      "AAAA BBBB CCCC DDDD EEEE",
+      "AA BB CC DD EE",
+      "AAA BBB CCC DDD EEE"
+    ],
+    "correct_answer": "AA BB CC DD EE",
+    "explanation": "[CONCEPT]\nStep 1: Root cells are diploid (2n) somatic tissues.\nStep 2: Self-fertilization of a homozygous diploid produces diploid offspring retaining the same two homologous copies for each of the 5 chromosome pairs: AA BB CC DD EE."
+  },
+  {
+    "id": 26,
+    "question": "Statement for Linked Questions 25 and 26:\nIf the offspring are selfed, identify the correct genotype of the pollen mother cell (PMC) of the F₂ generation.",
+    "options": [
+      "AAAA BBBB CCCC DDDD EEEE",
+      "AA BB CC DD EE",
+      "A B C D E",
+      "AAA BBB CCC DDD EEE"
+    ],
+    "correct_answer": "AA BB CC DD EE",
+    "explanation": "[CONCEPT]\nStep 1: Pollen mother cells (microsporocytes) are diploid (2n) germline cells that undergo meiosis.\nStep 2: Their chromosome complement is diploid: AA BB CC DD EE."
+  },
+  {
+    "id": 27,
+    "question": "Statement for Linked Questions 27 and 28:\nA cross was conducted between true-breeding parents for three independently assorting genes:\nTT WW CC × tt ww cc (Tall/Purple/Full × Dwarf/White/Constricted)\n\nHow many different kinds of gametes are expected from the F₁ dihybrid/trihybrid (TtWwCc)?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correct_answer": "8",
+    "explanation": "[CONCEPT]\nStep 1: Number of gametic types produced by a heterozygote = 2ⁿ, where n is the number of heterozygous gene pairs.\nStep 2: For trihybrid TtWwCc (n = 3), number of gametes = 2³ = 8."
+  },
+  {
+    "id": 28,
+    "question": "Statement for Linked Questions 27 and 28:\nHow many different kinds of F₂ genotypes are expected upon selfing the F₁ trihybrid (TtWwCc)?",
+    "options": [
+      "8",
+      "9",
+      "16",
+      "27"
+    ],
+    "correct_answer": "27",
+    "explanation": "[CONCEPT]\nStep 1: Number of distinct F₂ genotypes from selfing an n-gene heterozygote = 3ⁿ.\nStep 2: For trihybrid (n = 3), 3³ = 27 distinct genotypes."
+  },
+  {
+    "id": 29,
+    "question": "Whole-genome sequencing of rice (Oryza sativa) was significant because it",
+    "options": [
+      "characterized genes present in the rice genome and served as a syntenic reference model for cereal crops.",
+      "validated the genes available in animal systems.",
+      "controlled agribusiness monopolies.",
+      "prevented seed duplication."
+    ],
+    "correct_answer": "characterized genes present in the rice genome and served as a syntenic reference model for cereal crops.",
+    "explanation": "[CONCEPT]\nStep 1: Rice has the smallest genome among major cereals (~430 Mb) and high synteny with maize, wheat, and barley, making its sequence the foundational reference model for monocot functional genomics."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following statements are incorrect?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The frequency of recombination is a measure of linkage between genes on the same chromosome.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>DNA polymerase I is the true primary replicative polymerase in E. coli.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The conserved promoter element closest to the transcription initiation site is called the CAAT box.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The introns in nuclear pre-mRNAs are excised by spliceosomes.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "P, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: DNA Polymerase III (not Pol I) is the principal replicative DNA polymerase in E. coli (Q is incorrect).\nStep 2: The TATA box / Pribnow box at -10 to -25 is closest to the transcription start site (+1), while the CAAT box is further upstream around -75 to -80 (R is incorrect)."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following statements are true for transposable genetic elements?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>IS elements can insert at many different sites in bacterial chromosomes and plasmids.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>In Tn5, the flanking IS elements are in the same (direct) orientation.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The Ac and Ds elements in maize were discovered by Barbara McClintock.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tn10 consists of two IS elements flanking a gene for streptomycin resistance.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "P, S",
+      "R, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Insertion Sequences (IS elements) integrate into various target DNA sites (P is correct).\nStep 2: Barbara McClintock discovered Ac/Ds controlling elements in maize (R is correct).\nStep 3: Tn5 and Tn10 have inverted IS repeats; Tn10 carries tetracycline resistance (not streptomycin)."
+  },
+  {
+    "id": 32,
+    "question": "Arabidopsis and rice have diploid chromosome numbers of 2n = 10 and 2n = 24, respectively. Assuming NO crossing over occurs, what is the expected genetic variation among F₂ progeny derived from fully homozygous parents?",
+    "options": [
+      "Same in both species but not zero",
+      "More in Arabidopsis",
+      "More in rice",
+      "Zero in both the species"
+    ],
+    "correct_answer": "Zero in both the species",
+    "explanation": "[CONCEPT]\nStep 1: When two homozygous inbred parents are crossed, F₁ individuals are genetically identical.\nStep 2: If the original parents were identical homozygous lines or if no segregating allelic differences exist without recombination, variation in F₂ is zero."
+  },
+  {
+    "id": 33,
+    "question": "The possible genotypes of endosperm tissue (3n) developing on a heterozygous maternal plant (Rr) pollinated by a heterozygous pollen donor (Rr) will be",
+    "options": [
+      "RRR, RRr, Rrr, rrr",
+      "RRr, Rrr",
+      "RR, R, rr",
+      "Rr"
+    ],
+    "correct_answer": "RRR, RRr, Rrr, rrr",
+    "explanation": "[CONCEPT]\nStep 1: Endosperm develops from triple fusion of 2 maternal polar nuclei + 1 paternal sperm nucleus.\nStep 2: Maternal central cell genotypes (from Rr female): RR (from R egg/polar nuclei) or rr (from r polar nuclei).\nStep 3: Paternal sperm genotypes (from Rr male): R or r.\nStep 4: Combinations: RR + R = RRR; RR + r = RRr; rr + R = Rrr; rr + r = rrr."
+  },
+  {
+    "id": 34,
+    "question": "When changes in phenotype or gene expression occur without alterations in the underlying DNA nucleotide sequence, the phenomenon is called",
+    "options": [
+      "mutation.",
+      "eugenics.",
+      "epigenetics.",
+      "epistasis."
+    ],
+    "correct_answer": "epigenetics.",
+    "explanation": "[CONCEPT]\nStep 1: Epigenetics refers to heritable modifications in gene expression (such as DNA methylation, histone acetylation, and non-coding RNAs) that do not involve changes in the primary DNA base sequence."
+  },
+  {
+    "id": 35,
+    "question": "The diploid chromosome number of an organism is 2n = 14. What would be the expected chromosome number in a nullisomic individual?",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "16"
+    ],
+    "correct_answer": "12",
+    "explanation": "[CONCEPT]\nStep 1: Nullisomic = (2n − 2).\nStep 2: 14 − 2 = 12 chromosomes."
+  },
+  {
+    "id": 36,
+    "question": "The nuclear DNA content and ploidy level of cell populations can be accurately quantified by",
+    "options": [
+      "ESR spectroscopy.",
+      "FTIR spectroscopy.",
+      "Flow cytometry.",
+      "X-Ray crystallography."
+    ],
+    "correct_answer": "Flow cytometry.",
+    "explanation": "[CONCEPT]\nStep 1: Flow cytometry using DNA-binding fluorochromes (such as propidium iodide or DAPI) measures nuclear fluorescence intensity to quantify C-values and ploidy levels (2C, 4C, 8C)."
+  },
+  {
+    "id": 37,
+    "question": "The mutagen ethidium bromide (EtBr) acts primarily as a(n)",
+    "options": [
+      "deaminating agent.",
+      "alkylating agent.",
+      "intercalating agent.",
+      "base analogue."
+    ],
+    "correct_answer": "intercalating agent.",
+    "explanation": "[CONCEPT]\nStep 1: Ethidium bromide has a flat planar polycyclic aromatic structure that slips (intercalates) between stacked base pairs of DNA double helix, causing frameshift insertions/deletions during replication."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following statements are true for plastid (chloroplast) genomes?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Plastid genome is circular dsDNA with a size of 120–160 kb.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Plastid ribosomes have a sedimentation coefficient of 80S.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The gene for the small subunit of RuBisCO is located in the plastid.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>rRNAs (16S, 23S, 4.5S, 5S) in the plastid genome are arranged in one operon/transcription unit in the inverted repeats.</span></div></div>",
+    "options": [
+      "P, R",
+      "Q, S",
+      "R, S",
+      "P, S"
+    ],
+    "correct_answer": "P, S",
+    "explanation": "[CONCEPT]\nStep 1: Chloroplast DNA (cpDNA/ptDNA) is a circular ~120-160 kb molecule containing two inverted repeats (IRa and IRb) encoding the rRNA operon (P and S are true).\nStep 2: Plastid ribosomes are 70S (prokaryotic-like); the small subunit of RuBisCO (rbcS) is encoded in the nucleus."
+  },
+  {
+    "id": 39,
+    "question": "The number of nucleosomes present per helical turn in a 30 nm chromatin solenoid fiber is approximately",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_answer": "6",
+    "explanation": "[CONCEPT]\nStep 1: In the Finch & Klug solenoid model, the 10 nm 'beads-on-a-string' nucleosome filament coils into a 30 nm fiber containing 6 nucleosomes per helical turn stabilized by histone H1."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following statements are true for the Ac/Ds transposable element system in maize?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Barbara McClintock discovered the autonomous (Ac) and non-autonomous (Ds) transposable elements in Maize.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Variations in flower pigmentation in Antirrhinum are due to the Tam transposon family.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The Ac transposable element is 4563 bp long and has 11 bp terminal inverted repeats.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ds produces the transposase and mobilizes the Ac elements.</span></div></div>",
+    "options": [
+      "Q, S",
+      "P, Q",
+      "P, R",
+      "R, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Barbara McClintock discovered the Ac/Ds system in maize (P is correct).\nStep 2: Autonomous Ac element is 4563 bp with 11 bp terminal inverted repeats and encodes a functional transposase (R is correct).\nStep 3: Ds is non-autonomous (deletion derivative of Ac) and cannot produce transposase."
+  },
+  {
+    "id": 41,
+    "question": "Which one of the following statements correctly uses the terms gene, chromosome, and genome?",
+    "options": [
+      "The rice gene contains about 50,000 genomes located on 12 different chromosomes.",
+      "The rice genome contains about 50,000 genes located on 12 different chromosomes.",
+      "The rice chromosome contains about 50,000 genes located on 12 different genomes.",
+      "The rice genome contains about 50,000 chromosomes located on 12 different genes."
+    ],
+    "correct_answer": "The rice genome contains about 50,000 genes located on 12 different chromosomes.",
+    "explanation": "[CONCEPT]\nStep 1: A genome is the complete haploid set of genetic instructions, organized into chromosomes, which contain individual genes.\nStep 2: Rice haploid genome (n = 12 chromosomes) contains ~35,000–50,000 genes."
+  },
+  {
+    "id": 42,
+    "question": "A dihybrid cross is G/G • H/H × g/g • h/h, producing F₁ (G/g • H/h). What percentage (%) of the test-cross progeny will have the recombinant parental genotype g/g • h/h when the two genes are:\n- (P) Unlinked (independent assortment)\n- (Q) Completely linked with no crossing over\n- (R) Linked and 10 m.u. apart\n- (S) Linked and 24 m.u. apart?",
+    "options": [
+      "P−25; Q−25; R−25; S−25",
+      "P−25; Q−50; R−45; S−38",
+      "P−50; Q−50; R−90; S−76",
+      "P−25; Q−50; R−10; S−24"
+    ],
+    "correct_answer": "P−25; Q−50; R−45; S−38",
+    "explanation": "[CONCEPT]\nStep 1: In test cross of GH/gh × gh/gh, gh is a parental gamete.\n- (P) Unlinked: 25% gh.\n- (Q) Completely linked: 50% gh (50% GH + 50% gh).\n- (R) 10 m.u. apart: Recombinants = 10% (5% Gh + 5% gH); Parentals = 90% (45% GH + 45% gh) → 45% gh.\n- (S) 24 m.u. apart: Recombinants = 24%; Parentals = 76% (38% GH + 38% gh) → 38% gh.\nSequence: P−25, Q−50, R−45, S−38."
+  },
+  {
+    "id": 43,
+    "question": "Which two of the following are the correct statements regarding meiotic nondisjunction?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Nondisjunction in parental meiosis is not essential to produce diploid organisms.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Nondisjunction in parental meiosis is essential to produce aneuploid organisms (2n ± 1).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Nondisjunction in parental meiosis is essential to produce hexaploid organisms.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Nondisjunction in parental meiosis is essential to produce tetraploid organisms.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "R, S",
+      "P, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Normal meiotic segregation produces normal haploid gametes and diploid zygotes (P is correct).\nStep 2: Nondisjunction (failure of homologous chromosomes or sister chromatids to separate) generates n+1 and n-1 gametes, leading directly to aneuploidy (trisomy, monosomy) (Q is correct)."
+  },
+  {
+    "id": 44,
+    "question": "Regarding RNA interference (RNAi):\n\nP. It is an event of post-transcriptional gene silencing (PTGS).\nQ. It works through the RNA-induced silencing complex (RISC).\n\nIdentify the correct answer:",
+    "options": [
+      "P only",
+      "Q only",
+      "Both P and Q",
+      "Neither P nor Q"
+    ],
+    "correct_answer": "Both P and Q",
+    "explanation": "[CONCEPT]\nStep 1: RNAi is triggered by dsRNA processed by Dicer into siRNAs/miRNAs (PTGS, P is correct).\nStep 2: The guide strand is loaded into the RISC (RNA-induced silencing complex) containing Argonaute to target and cleave complementary mRNA transcripts (Q is correct)."
+  },
+  {
+    "id": 45,
+    "question": "In a plant species, flower color purple (P) is dominant over white (p). A purple-flowered plant upon selfing produced 35 viable progeny, of which 9 were white-flowered and 26 were purple-flowered. What fraction of these purple-flowered progeny is expected to be a pure-breeding (homozygous PP) line?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "correct_answer": "1/3",
+    "explanation": "[CONCEPT]\nStep 1: The segregation ratio 26 purple : 9 white fits a 3:1 ratio from a heterozygous Pp parent.\nStep 2: Among the purple progeny (1 PP : 2 Pp), the proportion of homozygous pure-breeding purple (PP) is 1 out of 3 = 1/3."
+  },
+  {
+    "id": 46,
+    "question": "A normal chromosome sequence is: G H I J • K L M N (where • is the centromere).\nMatch the chromosomal mutations in Column I with their mechanism in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>G H I K L • J M N</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>G J • K L H I M N</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>G H I J • K L K L M N</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>G H J • K L M N\n\nColumn II:\n1. Tandem duplication\n2. Deletion\n3. Pericentric inversion\n4. Non-reciprocal transposition / translocation</span></div></div>",
+    "options": [
+      "P−4; Q−3; R−2; S−1",
+      "P−1; Q−3; R−4; S−2",
+      "P−2; Q−1; R−4; S−3",
+      "P−3; Q−4; R−1; S−2"
+    ],
+    "correct_answer": "P−3; Q−4; R−1; S−2",
+    "explanation": "[CONCEPT]\nStep 1: P has inverted segment across centromere → Pericentric inversion (P–3).\nStep 2: Q has segment shifted to new position → Transposition/translocation (Q–4).\nStep 3: R has KL duplicated in tandem → Tandem duplication (R–1).\nStep 4: S has lost segment I → Deletion (S–2)."
+  },
+  {
+    "id": 47,
+    "question": "Match the ploidy/aneuploid status of a mutant plant (Column I) with its chromosome number (Column II), given that the wild type species is 2n = 46:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Trisomic (2n + 1)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Triploid (3x)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Monosomic (2n − 1)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Monoploid / Haploid (x)\n\nColumn II:\n1. 23\n2. 45\n3. 47\n4. 69</span></div></div>",
+    "options": [
+      "P–1; Q–2; R–3; S–4",
+      "P–2; Q–3; R–4; S–1",
+      "P–3; Q–4; R–2; S–1",
+      "P–4; Q–3; R–1; S–2"
+    ],
+    "correct_answer": "P–3; Q–4; R–2; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Trisomic = 2n + 1 = 46 + 1 = 47 (P–3).\nStep 2: Triploid = 3x = 3 × 23 = 69 (Q–4).\nStep 3: Monosomic = 2n − 1 = 46 − 1 = 45 (R–2).\nStep 4: Monoploid = x = 23 (S–1)."
+  },
+  {
+    "id": 48,
+    "question": "Doubled haploids (DH) in plant breeding can be efficiently induced by treating haploid explants/embryoids with",
+    "options": [
+      "mitomycin C.",
+      "mirin.",
+      "colchicine.",
+      "5-Azacytidine."
+    ],
+    "correct_answer": "colchicine.",
+    "explanation": "[CONCEPT]\nStep 1: Colchicine disrupts the mitotic spindle and causes chromosome doubling in haploids, producing 100% homozygous doubled haploid (DH) fertile pure lines in a single generation."
+  },
+  {
+    "id": 49,
+    "question": "An inbred plant line with red flowers and tall stem (RRTT) was crossed to white flowers and short stem (rrtt). The F₁ (RrTt) was test-crossed with rrtt, yielding the following progeny:\n- 103: Red, tall (RrTt)\n- 89: White, short (rrtt)\n- 26: Red, short (Rrtt)\n- 23: White, tall (rrTt)\nTotal = 241.\n\nWhat is the recombination percentage between the flower color and stem height loci?",
+    "options": [
+      "19–21% (20.33%)",
+      "49–51%",
+      "79–81%",
+      "0–2%"
+    ],
+    "correct_answer": "19–21% (20.33%)",
+    "explanation": "[CONCEPT]\nStep 1: Recombinant classes = 26 (Red, short) + 23 (White, tall) = 49.\nStep 2: Total progeny = 103 + 89 + 26 + 23 = 241.\nStep 3: Recombination frequency = (49 / 241) × 100 = 20.33% (lies in 19–21%)."
+  },
+  {
+    "id": 50,
+    "question": "Hardy-Weinberg equilibrium for a gene locus with two alleles (frequencies p and q) is p² + 2pq + q² = 1. Which of the following equations represents the corresponding equilibrium for a locus with three alleles (frequencies p, q, and r where p + q + r = 1)?",
+    "options": [
+      "p³ + q³ + r³ + 3pqr = 1",
+      "p² + q² + r² + 2pq + 2qr + 2pr = 1",
+      "p²q + q²r + r²p + 2pq + 2qr + 2pr = 1",
+      "p² + q² + r² + 2p²q + 2q²r + 2p²r = 1"
+    ],
+    "correct_answer": "p² + q² + r² + 2pq + 2qr + 2pr = 1",
+    "explanation": "[CONCEPT]\nStep 1: Expansion of trinomial (p + q + r)² = p² + q² + r² + 2pq + 2qr + 2pr = 1."
+  },
+  {
+    "id": 51,
+    "question": "The basic tenets of the ABC model of Arabidopsis flower development are shown below along with a diagram:\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 380 160\" class=\"w-full max-w-sm\">\n    <rect x=\"110\" y=\"20\" width=\"160\" height=\"35\" rx=\"6\" fill=\"#3b82f6\" fill-opacity=\"0.4\" stroke=\"#3b82f6\" stroke-width=\"2\" />\n    <text x=\"190\" y=\"42\" fill=\"#93c5fd\" font-weight=\"bold\" font-size=\"12\" text-anchor=\"middle\">Class B genes</text>\n    <rect x=\"30\" y=\"65\" width=\"160\" height=\"35\" rx=\"6\" fill=\"#10b981\" fill-opacity=\"0.4\" stroke=\"#10b981\" stroke-width=\"2\" />\n    <text x=\"110\" y=\"87\" fill=\"#6ee7b7\" font-weight=\"bold\" font-size=\"12\" text-anchor=\"middle\">Class A genes</text>\n    <rect x=\"190\" y=\"65\" width=\"160\" height=\"35\" rx=\"6\" fill=\"#f43f5e\" fill-opacity=\"0.4\" stroke=\"#f43f5e\" stroke-width=\"2\" />\n    <text x=\"270\" y=\"87\" fill=\"#fda4af\" font-weight=\"bold\" font-size=\"12\" text-anchor=\"middle\">Class C genes</text>\n    <text x=\"70\" y=\"135\" fill=\"#f8fafc\" font-weight=\"bold\" font-size=\"11\" text-anchor=\"middle\">Whorl 1\n(Sepals)</text>\n    <text x=\"150\" y=\"135\" fill=\"#f8fafc\" font-weight=\"bold\" font-size=\"11\" text-anchor=\"middle\">Whorl 2\n(Petals)</text>\n    <text x=\"230\" y=\"135\" fill=\"#f8fafc\" font-weight=\"bold\" font-size=\"11\" text-anchor=\"middle\">Whorl 3\n(Stamens)</text>\n    <text x=\"310\" y=\"135\" fill=\"#f8fafc\" font-weight=\"bold\" font-size=\"11\" text-anchor=\"middle\">Whorl 4\n(Carpels)</text>\n  </svg>\n</div>\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>A class genes acting alone determine sepal identity.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>A and B class genes acting together determine petal identity.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>B and C class genes acting together determine stamen identity.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>C class genes acting alone determine carpel identity.\nT. A and C class genes mutually inhibit each other.</span></div></div>\nWhich of the following organ arrangements is found in an A class mutant?",
+    "options": [
+      "Sepal; Petal; Stamen; Carpel",
+      "Carpel; Stamen; Stamen; Carpel",
+      "Petal; Petal; Stamen; Carpel",
+      "Stamen; Stamen; Stamen; Carpel"
+    ],
+    "correct_answer": "Carpel; Stamen; Stamen; Carpel",
+    "explanation": "[CONCEPT]\nStep 1: In class A mutants, C activity expands into whorls 1 and 2.\n- Whorl 1 (only C) → Carpel\n- Whorl 2 (B + C) → Stamen\n- Whorl 3 (B + C) → Stamen\n- Whorl 4 (only C) → Carpel\nResult: Carpel, Stamen, Stamen, Carpel."
+  },
+  {
+    "id": 52,
+    "question": "Among the following, which genetic material is naturally transmitted via uniparental maternal inheritance in higher plants?",
+    "options": [
+      "Nuclear DNA",
+      "Plasmid DNA",
+      "Chloroplast (plastid) DNA",
+      "T-DNA"
+    ],
+    "correct_answer": "Chloroplast (plastid) DNA",
+    "explanation": "[CONCEPT]\nStep 1: In most angiosperms, plastids (chloroplast DNA) and mitochondria are excluded during male gamete/pollen tube formation, resulting in maternal cytoplasmic inheritance."
+  },
+  {
+    "id": 53,
+    "question": "Two independent recessive mutant lines (m1 and m2) display identical defects in petal formation. When crossed (m1/m1 × m2/m2), all F₁ progeny develop completely normal wild-type petals. Which of the following conclusions is correct?",
+    "options": [
+      "Mutations in both m1 and m2 are in the same gene.",
+      "Mutations in m1 and m2 are in two separate genes (Genetic complementation occurred).",
+      "Inheritance is non-Mendelian.",
+      "None of the above."
+    ],
+    "correct_answer": "Mutations in m1 and m2 are in two separate genes (Genetic complementation occurred).",
+    "explanation": "[CONCEPT]\nStep 1: The restoration of the wild-type phenotype in the F₁ generation indicates genetic complementation, proving that m1 and m2 are mutations in two distinct cistrons/genes."
+  },
+  {
+    "id": 54,
+    "question": "In a three-point test cross of loci A, B, and C with tester 'aabbcc', the following 1000 progeny were obtained:\n- Parental: ABC (412) + abc (406) = 818\n- SCO₁ (A-B): Abc (85) + aBC (80) = 165\n- SCO₂ (B-C): aBc (8) + abC (7) + (other) = 15\n- DCO: AbC (1) + aBc (1) = 2\n\nThe genetic distance between the outer loci A and C is __________ cM.",
+    "options": [
+      "16.7 cM",
+      "18.4 cM",
+      "20.2 cM",
+      "24.0 cM"
+    ],
+    "correct_answer": "18.4 cM",
+    "explanation": "[CONCEPT]\nStep 1: Middle marker is B (exchanged in DCO).\nStep 2: Distance A-B = (165 + 2) / 1000 × 100 = 16.7 cM.\nStep 3: Distance B-C = (15 + 2) / 1000 × 100 = 1.7 cM.\nStep 4: Distance A-C = 16.7 + 1.7 = 18.4 cM."
+  },
+  {
+    "id": 55,
+    "question": "The genes encoding primary microRNAs (pri-miRNAs) in plants are transcribed predominantly by",
+    "options": [
+      "RNA polymerase I.",
+      "RNA polymerase II.",
+      "RNA polymerase III.",
+      "RNA polymerase IV."
+    ],
+    "correct_answer": "RNA polymerase II.",
+    "explanation": "[CONCEPT]\nStep 1: Plant pri-miRNAs possess 5′ 7-methylguanosine caps and 3′ poly(A) tails, and are transcribed from independent MIR genes by RNA Polymerase II."
+  },
+  {
+    "id": 56,
+    "question": "Which of the following statements is true for the maize transposable elements Ac and Ds?",
+    "options": [
+      "Both Ac and Ds are autonomous because they encode their own transposase.",
+      "Both Ac and Ds are non-autonomous because they do not encode their own transposase.",
+      "Only Ac is autonomous because it encodes its own functional transposase.",
+      "Only Ds is autonomous because it encodes its own transposase."
+    ],
+    "correct_answer": "Only Ac is autonomous because it encodes its own functional transposase.",
+    "explanation": "[CONCEPT]\nStep 1: The Ac (Activator) element is fully autonomous and encodes transposase.\nStep 2: The Ds (Dissociation) element has internal deletions and requires the transposase provided in trans by Ac to mobilize."
+  },
+  {
+    "id": 57,
+    "question": "The coding sequence of a gene XLR18 has a single open reading frame (ORF) of 783 bp. Assuming an average amino acid molecular weight of 110 Da (excluding stop codon), calculate the approximate molecular weight of the XLR18 protein in kDa.",
+    "options": [
+      "87 kDa",
+      "28.7 kDa",
+      "86.1 kDa",
+      "287 kDa"
+    ],
+    "correct_answer": "28.7 kDa",
+    "explanation": "[CONCEPT]\nStep 1: 783 bp / 3 bp per codon = 261 codons.\nStep 2: Number of amino acids = 261 (or 260 excluding stop codon).\nStep 3: Molecular weight = 261 × 110 Da = 28,710 Da = 28.7 kDa (given in key as 2.87 / 28.7)."
+  },
+  {
+    "id": 58,
+    "question": "In garden pea, dwarf plant with terminal flowers is recessive to tall plant with axial flowers. True-breeding tall axial was crossed with dwarf terminal, and the F₁ was test-crossed. Progeny obtained:\n- Tall axial: 320\n- Dwarf terminal: 318\n- Tall terminal: 79\n- Dwarf axial: 83\nTotal = 800.\n\nThe genetic map distance between the genes for plant height and flower position is __________ cM.",
+    "options": [
+      "10.25 cM",
+      "15.50 cM",
+      "20.25 cM",
+      "25.00 cM"
+    ],
+    "correct_answer": "20.25 cM",
+    "explanation": "[CONCEPT]\nStep 1: Recombinant progeny = 79 (Tall terminal) + 83 (Dwarf axial) = 162.\nStep 2: Total progeny = 320 + 318 + 79 + 83 = 800.\nStep 3: Map distance = (162 / 800) × 100 = 20.25 cM."
+  },
+  {
+    "id": 59,
+    "question": "If a diploid plant species has 2n = 16 chromosomes, the number of chromosomes per somatic cell in a double monosomic individual will be",
+    "options": [
+      "12",
+      "14",
+      "15",
+      "17"
+    ],
+    "correct_answer": "14",
+    "explanation": "[CONCEPT]\nStep 1: Double monosomic represents the loss of one chromosome from each of two different homologous pairs: (2n − 1 − 1) = (2n − 2).\nStep 2: 16 − 2 = 14 chromosomes."
+  },
+  {
+    "id": 60,
+    "question": "An mRNA of a nuclear encoded plant gene, DSH20, has an ORF of 1353 nucleotides. Provided that the average molecular weight of an amino acid is 110 Dalton (Da), calculate the molecular weight of the DSH20 protein in kDa (excluding stop codon).",
+    "options": [
+      "45.0 kDa",
+      "49.5 kDa",
+      "54.2 kDa",
+      "148.8 kDa"
+    ],
+    "correct_answer": "49.5 kDa",
+    "explanation": "[CONCEPT]\nStep 1: 1353 nucleotides / 3 = 451 codons.\nStep 2: Subtracting 1 stop codon gives 450 amino acids.\nStep 3: Total MW = 450 × 110 Da = 49,500 Da = 49.5 kDa."
+  },
+  {
+    "id": 61,
+    "question": "A double homozygous recessive mutant develops green and wrinkled seeds (yyrr). When crossed with a true-breeding plant having yellow round seeds (YYRR), all F₁ plants develop yellow round seeds (YyRr). After self-fertilization of F₁, what is the calculated percentage probability of plants with green and wrinkled seeds (yyrr) in the F₂ generation?",
+    "options": [
+      "12%",
+      "6.25%",
+      "18.75%",
+      "56.25%"
+    ],
+    "correct_answer": "6.25%",
+    "explanation": "[CONCEPT]\nStep 1: In a standard dihybrid cross, the double recessive class (yyrr) occurs with a probability of 1/16.\nStep 2: (1 / 16) × 100% = 6.25%."
+  }
+]

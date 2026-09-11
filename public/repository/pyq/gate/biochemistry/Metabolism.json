@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "question": "Deficiency of which of the following enzymes causes Glycogen Storage Disease Type 0 (impaired hepatic glycogen deposition)?",
+    "options": [
+      "Lactate dehydrogenase",
+      "Glyceraldehyde-3-phosphate dehydrogenase",
+      "Phosphorylase (causes Type VI / McArdle's Type V)",
+      "Glycogen synthase"
+    ],
+    "correct_answer": "Glycogen synthase",
+    "explanation": "[CONCEPT]\nStep 1: Glycogen synthase catalyzes the α(1→4) elongation of glycogen chains from UDP-glucose; its deficiency prevents glycogen storage (GSD Type 0)."
+  },
+  {
+    "id": 2,
+    "question": "The catalytic turnover number (k_cat) of chymotrypsin is 100 s⁻¹ and for DNA polymerase it is 15 s⁻¹. This means that",
+    "options": [
+      "chymotrypsin binds to its substrates with higher affinity than does DNA polymerase.",
+      "the velocity of the chymotrypsin reaction is always greater than that of DNA polymerase.",
+      "the velocities of reactions catalyzed by both enzymes at saturating substrate levels could be made equal if 6.7 times more DNA polymerase than chymotrypsin were used.",
+      "at equimolar enzyme concentrations and saturating substrate conditions (V_max = k_cat[E]_T), chymotrypsin converts 100 substrate molecules per active site per second compared to 15 for DNA polymerase."
+    ],
+    "correct_answer": "at equimolar enzyme concentrations and saturating substrate conditions (V_max = k_cat[E]_T), chymotrypsin converts 100 substrate molecules per active site per second compared to 15 for DNA polymerase.",
+    "explanation": "[CONCEPT]\nStep 1: Turnover number (k_cat = V_max / [E]_T) measures maximum catalytic conversion rate per enzyme active site per unit time."
+  },
+  {
+    "id": 3,
+    "question": "Enzymatic catalysis of a biochemical reaction achieves rate enhancement by",
+    "options": [
+      "increasing the forward and reverse reaction rates without changing equilibrium.",
+      "decreasing the standard free energy change (ΔG°′).",
+      "increasing the energy of the transition state.",
+      "lowering the Gibbs activation energy barrier (ΔG‡) to accelerate reaching equilibrium."
+    ],
+    "correct_answer": "lowering the Gibbs activation energy barrier (ΔG‡) to accelerate reaching equilibrium.",
+    "explanation": "[CONCEPT]\nStep 1: Enzymes selectively bind and stabilize the transition state, lowering the activation energy barrier (ΔG‡) without altering overall reaction free energy (ΔG) or equilibrium constant (K_eq)."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following enzymes is irreversibly inactivated by diisopropylfluorophosphate (DIPF)?",
+    "options": [
+      "Carboxypeptidase A",
+      "Trypsin (Serine protease)",
+      "Lysozyme",
+      "EcoRI endonuclease"
+    ],
+    "correct_answer": "Trypsin (Serine protease)",
+    "explanation": "[CONCEPT]\nStep 1: DIPF covalently phosphorylates the active-site catalytic Ser195 residue of serine proteases like trypsin and chymotrypsin."
+  },
+  {
+    "id": 5,
+    "question": "In aminotransferases (transaminases), the prosthetic group pyridoxal phosphate (PLP) is covalently attached in the resting resting enzyme via an internal aldimine Schiff base to the",
+    "options": [
+      "α-NH₂ group of N-terminal amino acid.",
+      "β-NH₂ group of asparagine.",
+      "ε-amino group of an active-site Lysine residue.",
+      "imidazole ring of histidine."
+    ],
+    "correct_answer": "ε-amino group of an active-site Lysine residue.",
+    "explanation": "[CONCEPT]\nStep 1: PLP aldehyde forms an internal Schiff base linkage with the ε-amino group of an active site lysine residue."
+  },
+  {
+    "id": 6,
+    "question": "Cholecalciferol (Vitamin D₃) undergoes two sequential enzymatic hydroxylations to form its active hormonal form 1,25-dihydroxycholecalciferol (Calcitriol). 25-Hydroxylation occurs in the liver, while 1α-hydroxylation occurs in the",
+    "options": [
+      "skin.",
+      "pancreas.",
+      "small intestine.",
+      "kidney proximal tubules (via 1α-hydroxylase)."
+    ],
+    "correct_answer": "kidney proximal tubules (via 1α-hydroxylase).",
+    "explanation": "[CONCEPT]\nStep 1: Vitamin D₃ ⎯(Liver 25-hydroxylase)→ 25-OH-D₃ (Calcidiol) ⎯(Renal 1α-hydroxylase)→ 1,25-(OH)₂-D₃ (Calcitriol)."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statements regarding cyclic photophosphorylation in chloroplast thylakoids is not correct?",
+    "options": [
+      "It does not generate NADPH.",
+      "It utilizes electrons extracted from water photolysis by Photosystem II (PS II does not participate in cyclic photophosphorylation).",
+      "It generates ATP via a proton motive force across the thylakoid membrane.",
+      "It does not produce molecular oxygen (O₂)."
+    ],
+    "correct_answer": "It utilizes electrons extracted from water photolysis by Photosystem II (PS II does not participate in cyclic photophosphorylation).",
+    "explanation": "[CONCEPT]\nStep 1: Cyclic photophosphorylation involves only PS I and Cyt b₆f; water photolysis and PS II are involved exclusively in non-cyclic electron flow."
+  },
+  {
+    "id": 8,
+    "question": "In the Entner-Doudoroff bacterial glycolytic pathway, 2-keto-3-deoxy-6-phosphogluconate (KDPG) is cleaved by KDPG aldolase to generate",
+    "options": [
+      "Pyruvate and Glyceraldehyde-3-phosphate",
+      "Two molecules of pyruvate",
+      "Dihydroxyacetone phosphate and acetyl-CoA",
+      "Glycerate and PEP"
+    ],
+    "correct_answer": "Pyruvate and Glyceraldehyde-3-phosphate",
+    "explanation": "[CONCEPT]\nStep 1: KDPG aldolase splits 6-carbon KDPG into one 3-carbon Pyruvate and one 3-carbon Glyceraldehyde-3-phosphate."
+  },
+  {
+    "id": 9,
+    "question": "Arsenate (AsO₄³⁻) acts as an uncoupler of substrate-level and oxidative phosphorylation by substituting for inorganic phosphate (Pi), producing an unstable intermediate that spontaneously hydrolyzes without ATP generation called",
+    "options": [
+      "1-Arsenato-3-phosphoglycerate (Arsenolysis)",
+      "Glucose 6-arsenate",
+      "ADP-arsenate",
+      "Phosphoenol arsenate"
+    ],
+    "correct_answer": "1-Arsenato-3-phosphoglycerate (Arsenolysis)",
+    "explanation": "[CONCEPT]\nStep 1: GAPDH uses arsenate instead of Pi, forming 1-arsenato-3-phosphoglycerate which immediately hydrolyzes to 3-phosphoglycerate and arsenate without ATP synthesis."
+  },
+  {
+    "id": 10,
+    "question": "Under steady-state Michaelis-Menten enzyme kinetics where initial substrate concentration is much greater than total enzyme concentration ([S] >> [E]_T):",
+    "options": [
+      "The concentration of the enzyme-substrate complex [ES] remains approximately constant (d[ES]/dt ≈ 0).",
+      "Velocity is zero-order with respect to enzyme concentration.",
+      "Substrate concentration increases linearly with time.",
+      "K_M decreases over time."
+    ],
+    "correct_answer": "The concentration of the enzyme-substrate complex [ES] remains approximately constant (d[ES]/dt ≈ 0).",
+    "explanation": "[CONCEPT]\nStep 1: Briggs-Haldane steady-state approximation assumes the rate of ES formation equals the rate of ES breakdown: d[ES]/dt ≈ 0."
+  },
+  {
+    "id": 11,
+    "question": "When ¹⁸O₂ is supplied to illuminated C₃ plant leaves, which photorespiratory amino acid subsequently isolated will be labeled with ¹⁸O?",
+    "options": [
+      "Glycine (and Serine, in the carboxyl group via 2-phosphoglycolate)",
+      "Alanine",
+      "Glutamate",
+      "Aspartate"
+    ],
+    "correct_answer": "Glycine (and Serine, in the carboxyl group via 2-phosphoglycolate)",
+    "explanation": "[CONCEPT]\nStep 1: RuBisCO oxygenation fixes ¹⁸O₂ into 2-phospho-[¹⁸O]glycolate, which is converted to [¹⁸O]glycolate, [¹⁸O]glyoxylate, and [¹⁸O]glycine."
+  },
+  {
+    "id": 12,
+    "question": "The plant enzyme β-amylase is an exo-glycosidase that cleaves dietary starch by releasing successive maltose disaccharide units through the hydrolysis of",
+    "options": [
+      "α(1→4) glycosidic bonds from the non-reducing ends.",
+      "β(1→4) glycosidic bonds.",
+      "α(1→6) branch linkages.",
+      "β(1→6) linkages."
+    ],
+    "correct_answer": "α(1→4) glycosidic bonds from the non-reducing ends.",
+    "explanation": "[CONCEPT]\nStep 1: β-Amylase cleaves penultimate α(1→4) bonds from non-reducing chain ends, releasing β-maltose."
+  },
+  {
+    "id": 13,
+    "question": "The largest quantitative energy reserve (in total kilocalories) in normal adult humans is stored in the form of",
+    "options": [
+      "circulating blood glucose (~40 kcal)",
+      "liver glycogen (~400 kcal)",
+      "muscle glycogen (~1,200 kcal)",
+      "adipose tissue triacylglycerols (~100,000–140,000 kcal)"
+    ],
+    "correct_answer": "adipose tissue triacylglycerols (~100,000–140,000 kcal)",
+    "explanation": "[CONCEPT]\nStep 1: Adipose triacylglycerols store ~9 kcal/g anhydrous energy, providing ~100,000–140,000 kcal of fuel reserve."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following radiolabeled ribonucleotides is best suited for measuring nascent RNA synthesis rate by RNA polymerase in vitro?",
+    "options": [
+      "[α-³²P] UTP (or [α-³²P] ATP)",
+      "[γ-³²P] ATP",
+      "[α-³²P] dATP",
+      "[γ-³²P] dATP"
+    ],
+    "correct_answer": "[α-³²P] UTP (or [α-³²P] ATP)",
+    "explanation": "[CONCEPT]\nStep 1: RNA polymerase incorporates ribonucleotides (NTPs, not dNTPs) via the α-phosphate into the RNA backbone."
+  },
+  {
+    "id": 15,
+    "question": "A dialyzed muscle extract containing hexokinase and glucose is supplemented with ATP. What essential divalent metal cofactor must also be added to catalyze glucose-6-phosphate synthesis?",
+    "options": [
+      "NADH",
+      "FADH₂",
+      "Magnesium (Mg²⁺, forming Mg·ATP²⁻ substrate complex)",
+      "Fe³⁺"
+    ],
+    "correct_answer": "Magnesium (Mg²⁺, forming Mg·ATP²⁻ substrate complex)",
+    "explanation": "[CONCEPT]\nStep 1: All kinases transferring phosphate from ATP require Mg²⁺ to coordinate and shield the negatively charged polyphosphate oxygens."
+  },
+  {
+    "id": 16,
+    "question": "Administration of 2,4-dinitrophenol (DNP) in mammals causes hyperthermia and rapid metabolic consumption because",
+    "options": [
+      "DNP inhibits mitochondrial ATPase directly.",
+      "DNP blocks the electron transport chain complexes.",
+      "DNP inhibits succinate dehydrogenase.",
+      "DNP uncouples electron transport from ATP synthesis, dissipating the proton motive force as heat."
+    ],
+    "correct_answer": "DNP uncouples electron transport from ATP synthesis, dissipating the proton motive force as heat.",
+    "explanation": "[CONCEPT]\nStep 1: DNP is a lipophilic proton ionophore that shuttles H⁺ across the inner mitochondrial membrane, bypassing ATP synthase and converting oxidation energy to heat."
+  },
+  {
+    "id": 17,
+    "question": "A liver extract is treated with avidin (a high-affinity biotin antagonist). Which of the following metabolic steps in gluconeogenesis will be completely blocked?",
+    "options": [
+      "Glyceraldehyde-3-P → Glucose-6-P",
+      "Malate → Oxaloacetate",
+      "Pyruvate → Oxaloacetate → Phosphoenolpyruvate (catalyzed by biotin-dependent Pyruvate Carboxylase)",
+      "Fructose-1,6-bisphosphate → Fructose-6-P"
+    ],
+    "correct_answer": "Pyruvate → Oxaloacetate → Phosphoenolpyruvate (catalyzed by biotin-dependent Pyruvate Carboxylase)",
+    "explanation": "[CONCEPT]\nStep 1: Pyruvate carboxylase requires biotin to carboxylate pyruvate to oxaloacetate; avidin binds biotin and abolishes enzyme activity."
+  },
+  {
+    "id": 18,
+    "question": "The direct molecular effect of cyclic AMP (cAMP) in the Protein Kinase A (PKA) signaling pathway is to",
+    "options": [
+      "activate adenylate cyclase.",
+      "bind to and dissociate the regulatory (R) subunits from the active catalytic (C) subunits of PKA.",
+      "phosphorylate PKA directly.",
+      "inhibit protein phosphatases."
+    ],
+    "correct_answer": "bind to and dissociate the regulatory (R) subunits from the active catalytic (C) subunits of PKA.",
+    "explanation": "[CONCEPT]\nStep 1: Inactive PKA is an R₂C₂ tetramer. Binding of 4 cAMP molecules to the R subunits releases active C subunits."
+  },
+  {
+    "id": 19,
+    "question": "Match the biological compounds in Column I with their biochemical properties in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Gramicidin A</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ouabain</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Malonate</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Alkaptonuria\nT. Cathepsins\n\nColumn II:\n1. Lysosomal proteases\n2. Na⁺/K⁺-ATPase inhibitor\n3. Homogentisate oxidase deficiency\n4. Phenylalanine hydroxylase\n5. Penicillin\n6. Channel-forming monovalent cation ionophore\n7. Classical competitive inhibitor of succinate dehydrogenase</span></div></div>",
+    "options": [
+      "P – 3; Q – 2; R – 7; S – 5; T – 1",
+      "P – 7; Q – 3; R – 6; S – 1; T – 2",
+      "P – 6; Q – 2; R – 7; S – 3; T – 1",
+      "P – 3; Q – 2; R – 6; S – 7; T – 1"
+    ],
+    "correct_answer": "P – 6; Q – 2; R – 7; S – 3; T – 1",
+    "explanation": "[CONCEPT]\nStep 1: Gramicidin A = Cation ionophore (P–6).\nStep 2: Ouabain = Na⁺/K⁺-ATPase inhibitor (Q–2).\nStep 3: Malonate = Competitive inhibitor of SDH (R–7).\nStep 4: Alkaptonuria = HGA oxidase deficiency (S–3).\nStep 5: Cathepsins = Lysosomal proteases (T–1)."
+  },
+  {
+    "id": 20,
+    "question": "Isoenzymes (isozymes) are defined as",
+    "options": [
+      "enzymes with identical primary sequences that catalyze different reactions.",
+      "different molecular forms of an enzyme (differing in amino acid sequence and kinetic parameters) that catalyze the exact same chemical reaction (e.g. LDH1–LDH5).",
+      "inactive proenzymes.",
+      "enzymes requiring different vitamins."
+    ],
+    "correct_answer": "different molecular forms of an enzyme (differing in amino acid sequence and kinetic parameters) that catalyze the exact same chemical reaction (e.g. LDH1–LDH5).",
+    "explanation": "[CONCEPT]\nStep 1: Isozymes are genetically distinct enzyme variants catalyzing the same reaction, often displaying tissue-specific distribution and distinct regulatory kinetics."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following antineoplastic chemotherapeutic agents acts by competitively inhibiting dihydrofolate reductase (DHFR) to impair de novo purine and dTMP synthesis?",
+    "options": [
+      "Cytosine arabinoside (Ara-C)",
+      "5-Fluorouracil (5-FU)",
+      "Methotrexate",
+      "Hydroxyurea"
+    ],
+    "correct_answer": "Methotrexate",
+    "explanation": "[CONCEPT]\nStep 1: Methotrexate blocks DHFR, preventing THF regeneration required for 10-formyl-THF (purine synthesis) and N⁵,N¹⁰-methylene-THF (thymidylate synthesis)."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following single amino acid substitutions represents a conservative mutation?",
+    "options": [
+      "Valine to Isoleucine (Val → Ile, both non-polar branched aliphatics)",
+      "Aspartate to Proline (Asp → Pro)",
+      "Lysine to Leucine (Lys → Leu)",
+      "Tryptophan to Alanine (Trp → Ala)"
+    ],
+    "correct_answer": "Valine to Isoleucine (Val → Ile, both non-polar branched aliphatics)",
+    "explanation": "[CONCEPT]\nStep 1: Conservative mutations substitute an amino acid with another having similar size, charge, and hydropathy (e.g. Val ↔ Ile, Glu ↔ Asp, Arg ↔ Lys)."
+  },
+  {
+    "id": 23,
+    "question": "Platelet activation and primary hemostatic plug aggregation are physiologically prevented in healthy, intact blood vessels by endothelial secretion of",
+    "options": [
+      "Prostacyclin (PGI₂) and Nitric Oxide (NO)",
+      "Thromboxane A₂",
+      "Serotonin",
+      "ADP"
+    ],
+    "correct_answer": "Prostacyclin (PGI₂) and Nitric Oxide (NO)",
+    "explanation": "[CONCEPT]\nStep 1: Healthy vascular endothelium synthesizes PGI₂ and NO, which elevate cAMP and cGMP in platelets to potently inhibit platelet aggregation."
+  },
+  {
+    "id": 24,
+    "question": "Oral administration of excessive concentrations of L-tyrosine may competitively interfere with the intestinal brush-border absorption of which amino acid?",
+    "options": [
+      "Leucine",
+      "Glycine",
+      "L-Phenylalanine and other large neutral amino acids (sharing the LAT1 / B⁰ system)",
+      "Aspartate"
+    ],
+    "correct_answer": "L-Phenylalanine and other large neutral amino acids (sharing the LAT1 / B⁰ system)",
+    "explanation": "[CONCEPT]\nStep 1: Large neutral amino acids (Tyr, Phe, Trp, Leu, Ile) compete for the same sodium-independent/dependent neutral amino acid transporter systems."
+  },
+  {
+    "id": 25,
+    "question": "The Michaelis constant (K_M) of an enzyme is mathematically defined as the",
+    "options": [
+      "half of the maximal velocity (V_max / 2).",
+      "dissociation constant of the enzyme-product complex.",
+      "substrate concentration that gives maximal velocity.",
+      "substrate concentration [S] at which the reaction velocity is exactly half-maximal (V = V_max / 2)."
+    ],
+    "correct_answer": "substrate concentration [S] at which the reaction velocity is exactly half-maximal (V = V_max / 2).",
+    "explanation": "[CONCEPT]\nStep 1: From V = V_max[S] / (K_M + [S]), when [S] = K_M, V = V_max[S] / (2[S]) = V_max / 2."
+  },
+  {
+    "id": 26,
+    "question": "During prolonged starvation in humans, the basal metabolic rate (BMR)",
+    "options": [
+      "is not influenced by caloric intake.",
+      "increases rapidly to burn fat.",
+      "decreases adaptively to conserve body energy and spare muscle protein.",
+      "remains constant."
+    ],
+    "correct_answer": "decreases adaptively to conserve body energy and spare muscle protein.",
+    "explanation": "[CONCEPT]\nStep 1: Prolonged fasting induces downregulation of thyroid hormone (T₃) and sympathetic tone, lowering BMR to minimize fuel consumption."
+  },
+  {
+    "id": 27,
+    "question": "In humans, saturated and monounsaturated fatty acids",
+    "options": [
+      "can be synthesized de novo from excess dietary carbohydrates or glucogenic amino acids via citrate and acetyl-CoA.",
+      "must be supplied entirely by dietary intake.",
+      "cannot be synthesized with double bonds.",
+      "are not stored in adipose tissue."
+    ],
+    "correct_answer": "can be synthesized de novo from excess dietary carbohydrates or glucogenic amino acids via citrate and acetyl-CoA.",
+    "explanation": "[CONCEPT]\nStep 1: Excess glucose is oxidized to acetyl-CoA, shuttled to the cytosol as citrate, and converted into palmitate by acetyl-CoA carboxylase and fatty acid synthase."
+  },
+  {
+    "id": 28,
+    "question": "A 10-times diluted enzyme solution (original concentration 3.0 mg/mL) is assayed: 10 μL (containing 3.0 μg protein) catalyzes the formation of 30 nmol product/min. What is the specific activity of the enzyme?",
+    "options": [
+      "1000 μmol min⁻¹ mg⁻¹",
+      "10 μmol min⁻¹ mg⁻¹ (10 U/mg)",
+      "100 μmol min⁻¹ mg⁻¹",
+      "0 μmol min⁻¹ mg⁻¹"
+    ],
+    "correct_answer": "10 μmol min⁻¹ mg⁻¹ (10 U/mg)",
+    "explanation": "[CONCEPT]\nStep 1: Activity = 30 nmol/min = 0.030 μmol/min in 3.0 μg = 0.003 mg protein.\nStep 2: Specific Activity = 0.030 μmol/min / 0.003 mg = 10 μmol min⁻¹ mg⁻¹."
+  },
+  {
+    "id": 29,
+    "question": "Enzymes that catalyze the transfer of electrons / hydride ions from a donor substrate to an acceptor substrate (e.g. Dehydrogenases, Oxidases) are classified under EC Class 1 as",
+    "options": [
+      "Isomerases",
+      "Transferases",
+      "Oxidoreductases",
+      "Lyases"
+    ],
+    "correct_answer": "Oxidoreductases",
+    "explanation": "[CONCEPT]\nStep 1: EC Class 1 = Oxidoreductases (catalyze oxidation-reduction reactions involving NAD⁺, NADP⁺, FAD, or O₂)."
+  },
+  {
+    "id": 30,
+    "question": "In human skin, provitamin D₃ is converted into previtamin D₃ by the photochemical action of solar UV-B radiation on",
+    "options": [
+      "7-Dehydrocholesterol",
+      "Lanosterol",
+      "Glycocholate",
+      "Squalene epoxide"
+    ],
+    "correct_answer": "7-Dehydrocholesterol",
+    "explanation": "[CONCEPT]\nStep 1: UV-B light (290–315 nm) breaks the B-ring of 7-dehydrocholesterol between C-9 and C-10, yielding previtamin D₃."
+  },
+  {
+    "id": 31,
+    "question": "In which of the following glycolytic enzyme reactions is ATP generated by substrate-level phosphorylation?",
+    "options": [
+      "2-Phosphoglycerate to Phosphoenolpyruvate (Enolase)",
+      "Glucose-6-phosphate to Fructose-6-phosphate (PGI)",
+      "Phosphoenolpyruvate (PEP) to Pyruvate (catalyzed by Pyruvate Kinase)",
+      "Glyceraldehyde-3-phosphate to 1,3-bisphosphoglycerate (GAPDH)"
+    ],
+    "correct_answer": "Phosphoenolpyruvate (PEP) to Pyruvate (catalyzed by Pyruvate Kinase)",
+    "explanation": "[CONCEPT]\nStep 1: Pyruvate kinase transfers the high-energy enol-phosphate from PEP to ADP, generating ATP and pyruvate (substrate-level phosphorylation)."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following statements regarding protein O-linked glycosylation is correct?",
+    "options": [
+      "Sugars are attached to the carboxyl groups of Asp and Glu.",
+      "Pre-formed 14-sugar lipid-linked oligosaccharides are transferred en bloc.",
+      "N-acetylgalactosamine (GalNAc) is transferred to the –OH groups of Serine or Threonine residues in the Golgi apparatus, followed by stepwise sequential sugar addition.",
+      "O-linked glycosylation occurs exclusively in the endoplasmic reticulum lumen."
+    ],
+    "correct_answer": "N-acetylgalactosamine (GalNAc) is transferred to the –OH groups of Serine or Threonine residues in the Golgi apparatus, followed by stepwise sequential sugar addition.",
+    "explanation": "[CONCEPT]\nStep 1: O-glycosylation is a post-translational Golgi process where individual monosaccharides are added sequentially to Ser/Thr by specific glycosyltransferases."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following statements is not true with regard to plant photosynthesis?",
+    "options": [
+      "The dark reactions use NADPH and ATP to drive carbohydrate synthesis in the Calvin cycle.",
+      "Chlorophyll is biosynthetically derived from protoporphyrin IX.",
+      "Photosystem II generates a strong reductant capable of reducing NADP⁺ (False; PS I produces the strong reductant to reduce NADP⁺, while PS II generates a strong oxidant to split water).",
+      "Components of the Z-scheme electron transport chain are organized in thylakoid membranes."
+    ],
+    "correct_answer": "Photosystem II generates a strong reductant capable of reducing NADP⁺ (False; PS I produces the strong reductant to reduce NADP⁺, while PS II generates a strong oxidant to split water).",
+    "explanation": "[CONCEPT]\nStep 1: PS I (P700*) generates a powerful reducing potential (−0.43 V) capable of reducing ferredoxin-NADP⁺ reductase, whereas PS II (P680⁺, +1.25 V) is a strong oxidant."
+  },
+  {
+    "id": 34,
+    "question": "In the catalytic mechanism of Bovine Pancreatic Ribonuclease A (RNase A), in the first transphosphorylation step:",
+    "options": [
+      "His12 acts as a general base to abstract a proton from the RNA 2′-OH group, while His119 acts as a general acid to protonate the 5′-alkoxide leaving group.",
+      "His119 acts as a general base.",
+      "His12 acts as an acid catalyst.",
+      "Lys41 deprotonates water."
+    ],
+    "correct_answer": "His12 acts as a general base to abstract a proton from the RNA 2′-OH group, while His119 acts as a general acid to protonate the 5′-alkoxide leaving group.",
+    "explanation": "[CONCEPT]\nStep 1: His12 deprotonates the 2′-OH to promote nucleophilic attack on the phosphate, forming a 2′,3′-cyclic phosphate, while His119 protonates the leaving group."
+  },
+  {
+    "id": 35,
+    "question": "If [4-¹⁴C] oxaloacetate is fed into the citric acid cycle, in which carbon of the symmetrical succinate molecule will radioactivity be located after one turn?",
+    "options": [
+      "Equally distributed between C-1 and C-4 (50% at C-1 and 50% at C-4 due to randomization by succinate dehydrogenase)",
+      "None",
+      "Equally distributed between C-2 and C-3",
+      "C-4 only"
+    ],
+    "correct_answer": "Equally distributed between C-1 and C-4 (50% at C-1 and 50% at C-4 due to randomization by succinate dehydrogenase)",
+    "explanation": "[CONCEPT]\nStep 1: [4-¹⁴C] oxaloacetate condenses with acetyl-CoA into [1-¹⁴C] citrate, forming [1-¹⁴C] succinyl-CoA.\nStep 2: Symmetrical succinate has identical terminal carboxyls, randomizing label equally between C-1 and C-4."
+  },
+  {
+    "id": 36,
+    "question": "In a Lineweaver-Burk double reciprocal plot, an enzyme shows an uninhibited y-intercept of 0.5 (min/mmol) and x-intercept of −0.5 mM⁻¹. In the presence of a competitive inhibitor, what happens to V_max and K_M?",
+    "options": [
+      "V_max decreases and K_M decreases.",
+      "V_max increases and K_M remains unchanged.",
+      "Both K_M and V_max decrease.",
+      "K_M increases (apparent K_M increases) while V_max remains unchanged (same y-intercept = 1/V_max)."
+    ],
+    "correct_answer": "K_M increases (apparent K_M increases) while V_max remains unchanged (same y-intercept = 1/V_max).",
+    "explanation": "[CONCEPT]\nStep 1: Competitive inhibitors compete with substrate for the active site; high [S] outcompetes the inhibitor, leaving V_max unchanged while increasing apparent K_M."
+  },
+  {
+    "id": 37,
+    "question": "For the enzymatic phosphorylation: Fructose-6-phosphate + Pi ⇌ Fructose-1,6-bisphosphate + H₂O with equilibrium constant K_eq = 10⁻³ at 300 K (R = 2.0 cal K⁻¹ mol⁻¹), the standard free energy change ΔG° is",
+    "options": [
+      "+4.14 kcal mol⁻¹",
+      "−4.14 kcal mol⁻¹",
+      "+2.2 kcal mol⁻¹",
+      "−2.2 kcal mol⁻¹"
+    ],
+    "correct_answer": "+4.14 kcal mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: ΔG° = −RT ln(K_eq) = −(2 cal/mol·K)(300 K) ln(10⁻³) = −600 × (−6.908) = +4145 cal/mol = +4.14 kcal/mol."
+  },
+  {
+    "id": 38,
+    "question": "The coenzyme specifically involved in ATP-dependent biological carboxylation reactions (e.g. Pyruvate carboxylase, Acetyl-CoA carboxylase) as an activated CO₂ carrier is",
+    "options": [
+      "NADH",
+      "Coenzyme A",
+      "S-Adenosylmethionine (SAM)",
+      "Biotin (Vitamin B₇)"
+    ],
+    "correct_answer": "Biotin (Vitamin B₇)",
+    "explanation": "[CONCEPT]\nStep 1: Biotin forms N-carboxybiotin using ATP and bicarbonate, transferring the carboxyl group to substrate carbons."
+  },
+  {
+    "id": 39,
+    "question": "Terminal electron transfer from Cytochrome c to molecular oxygen catalyzed by Cytochrome c Oxidase (Complex IV) in the mitochondrial respiratory chain is blocked by",
+    "options": [
+      "Rotenone (Complex I)",
+      "Amytal (Complex I)",
+      "Cyanide (CN⁻, Carbon monoxide, and Azide)",
+      "Cycloheximide"
+    ],
+    "correct_answer": "Cyanide (CN⁻, Carbon monoxide, and Azide)",
+    "explanation": "[CONCEPT]\nStep 1: Cyanide, CO, and azide bind the Fe–Cu binuclear active center of Cytochrome a₃-Cu_B, arresting mitochondrial respiration."
+  },
+  {
+    "id": 40,
+    "question": "In the preparatory phase of glycolysis, how many molecules of ATP are consumed per molecule of glucose converted into two molecules of glyceraldehyde-3-phosphate?",
+    "options": [
+      "2 (1 in Hexokinase + 1 in Phosphofructokinase-1)",
+      "1",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2 (1 in Hexokinase + 1 in Phosphofructokinase-1)",
+    "explanation": "[CONCEPT]\nStep 1: Glucose ⎯(Hexokinase, −1 ATP)→ G6P; F6P ⎯(PFK-1, −1 ATP)→ F1,6BP. Total consumed = 2 ATP."
+  },
+  {
+    "id": 41,
+    "question": "The balanced net stoichiometric reaction for one turn of the mitochondrial Citric Acid Cycle is",
+    "options": [
+      "Acetyl-CoA + 2NAD⁺ + FAD + GDP + Pi + 2H₂O → 2CO₂ + 2NADH + FADH₂ + GTP + 2H⁺ + CoA",
+      "Acetyl-CoA + 3NAD⁺ + FAD + GDP + Pi + 2H₂O → 2CO₂ + 3NADH + FADH₂ + GTP + 2H⁺ + CoA-SH",
+      "Acetyl-CoA + 2NAD⁺ + 2FAD + 2GDP + 2Pi + 2H₂O → 2CO₂ + 2NADH + 2FADH₂ + 2GTP + CoA",
+      "Acetyl-CoA + NAD⁺ + FAD + GDP + Pi + H₂O → 2CO₂ + NADH + FADH₂ + GTP + CoA"
+    ],
+    "correct_answer": "Acetyl-CoA + 3NAD⁺ + FAD + GDP + Pi + 2H₂O → 2CO₂ + 3NADH + FADH₂ + GTP + 2H⁺ + CoA-SH",
+    "explanation": "[CONCEPT]\nStep 1: One acetyl group (2C) is oxidized to 2 CO₂, reducing 3 NAD⁺ to 3 NADH, 1 FAD to 1 FADH₂, and generating 1 GTP."
+  },
+  {
+    "id": 42,
+    "question": "Match the enzymes / proteins of fatty acid synthase complex in Column I with their reactions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>β-Ketoacyl-ACP synthase (KS)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>β-Ketoacyl-ACP reductase (KR)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Enoyl-ACP reductase (ER)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Acyl Carrier Protein (ACP)\n\nColumn II:\n1. Reduces trans-Δ²-enoyl-ACP to saturated acyl-ACP\n2. Reduces β-keto group to β-hydroxyacyl-ACP using NADPH\n3. Catalyzes Claisen condensation between malonyl-ACP and growing acyl chain\n4. Carries growing fatty acyl intermediates via a 4′-phosphopantetheine prosthetic arm</span></div></div>",
+    "options": [
+      "P – 2; Q – 1; R – 3; S – 4",
+      "P – 3; Q – 2; R – 1; S – 4",
+      "P – 4; Q – 1; R – 2; S – 3",
+      "P – 3; Q – 1; R – 2; S – 4"
+    ],
+    "correct_answer": "P – 3; Q – 2; R – 1; S – 4",
+    "explanation": "[CONCEPT]\nStep 1: KS = Condensation (P–3).\nStep 2: KR = First reduction (P–2).\nStep 3: ER = Second reduction (R–1).\nStep 4: ACP = Phosphopantetheine carrier (S–4)."
+  },
+  {
+    "id": 43,
+    "question": "During N-linked glycoprotein synthesis in the rough ER lumen, oligosaccharyltransferase transfers the core oligosaccharide to an Asparagine (Asn) residue occurring in the consensus sequence (where X is any amino acid except Proline):",
+    "options": [
+      "Asn – X – Asp",
+      "Asn – X – Ser / Asn – X – Thr",
+      "Asn – X – Ile",
+      "Asn – X – Gly"
+    ],
+    "correct_answer": "Asn – X – Ser / Asn – X – Thr",
+    "explanation": "[CONCEPT]\nStep 1: The consensus sequon for N-glycosylation is Asn–X–Ser or Asn–X–Thr (where X ≠ Pro)."
+  },
+  {
+    "id": 44,
+    "question": "Which of the following statements is not true regarding Photosystem II (PS II) in chloroplast thylakoids?",
+    "options": [
+      "PS II is localized predominantly in stacked grana thylakoid membranes.",
+      "The P680 reaction center chlorophyll is bound to D1/D2 core proteins.",
+      "The Cytochrome b₆f complex transfers electrons from PS II (via plastoquinol) to PS I (via plastocyanin).",
+      "The Oxygen-Evolving Complex (OEC) contains only two Mn²⁺ ions (False; OEC contains a catalytic Mn₄CaO₅ cluster with four manganese ions)."
+    ],
+    "correct_answer": "The Oxygen-Evolving Complex (OEC) contains only two Mn²⁺ ions (False; OEC contains a catalytic Mn₄CaO₅ cluster with four manganese ions).",
+    "explanation": "[CONCEPT]\nStep 1: The water-splitting catalyst in PS II is a cuboidal Mn₄CaO₅ cluster containing 4 manganese ions."
+  },
+  {
+    "id": 45,
+    "question": "Which of the following statements is incorrect regarding classical Protein Kinase C (PKC)?",
+    "options": [
+      "Activated PKC phosphorylates tryptophan residues on target proteins (False; PKC is a Serine/Threonine kinase).",
+      "PKC requires Ca²⁺ for full activation.",
+      "PKC is allosterically activated by membrane diacylglycerol (DAG).",
+      "PKC activation can trigger downstream MAPK pathway activation."
+    ],
+    "correct_answer": "Activated PKC phosphorylates tryptophan residues on target proteins (False; PKC is a Serine/Threonine kinase).",
+    "explanation": "[CONCEPT]\nStep 1: PKC is a Serine/Threonine protein kinase and cannot phosphorylate tryptophan residues."
+  },
+  {
+    "id": 46,
+    "question": "Long-chain fatty acyl-CoA molecules are transported across the impermeable inner mitochondrial membrane into the matrix via the",
+    "options": [
+      "Citrate shuttle",
+      "Glycerol-3-phosphate shuttle",
+      "Carnitine palmitoyltransferase (CPT-I / CPT-II) carnitine shuttle system",
+      "Malate-aspartate shuttle"
+    ],
+    "correct_answer": "Carnitine palmitoyltransferase (CPT-I / CPT-II) carnitine shuttle system",
+    "explanation": "[CONCEPT]\nStep 1: CPT-I converts fatty acyl-CoA to acylcarnitine, which traverses the inner membrane via CACT and is reconverted to acyl-CoA by CPT-II."
+  },
+  {
+    "id": 47,
+    "question": "Which of the following fatty acids will have a higher melting point than palmitic acid (16:0)?",
+    "options": [
+      "Myristic acid (14:0)",
+      "Palmitoleic acid (16:1, cis-Δ⁹)",
+      "Oleic acid (18:1, cis-Δ⁹)",
+      "Stearic acid (18:0, longer saturated carbon chain)"
+    ],
+    "correct_answer": "Stearic acid (18:0, longer saturated carbon chain)",
+    "explanation": "[CONCEPT]\nStep 1: Saturated fatty acid melting points increase with chain length: Stearic acid (18:0, Tm = 69.6°C) > Palmitic acid (16:0, Tm = 63.1°C)."
+  },
+  {
+    "id": 48,
+    "question": "A bacterial genome has molecular weight 2.64 × 10⁹ Da (average base pair MW = 660 Da, total 4 × 10⁶ bp). Assuming an average protein contains 400 amino acid residues (1200 bp per gene), what is the maximum number of proteins that can be encoded?",
+    "options": [
+      "20,000",
+      "3333 proteins",
+      "6667",
+      "10,000"
+    ],
+    "correct_answer": "3333 proteins",
+    "explanation": "[CONCEPT]\nStep 1: Total base pairs = (2.64 × 10⁹) / 660 = 4 × 10⁶ bp.\nStep 2: Max proteins = (4 × 10⁶ bp) / (400 × 3 bp/protein) = 4,000,000 / 1200 ≈ 3333.33."
+  },
+  {
+    "id": 49,
+    "question": "The five essential cofactors/coenzymes required by the mitochondrial Pyruvate Dehydrogenase Complex (PDC) are",
+    "options": [
+      "Thiamine pyrophosphate (TPP), Lipoamide, Coenzyme A, FAD, and NAD⁺",
+      "Pyridoxal phosphate, Biotin, and FAD",
+      "Vitamin B₁₂, Folic acid, and Ascorbate",
+      "NADH, Lipoic acid, and Vitamin E"
+    ],
+    "correct_answer": "Thiamine pyrophosphate (TPP), Lipoamide, Coenzyme A, FAD, and NAD⁺",
+    "explanation": "[CONCEPT]\nStep 1: PDC requires TPP (E1 decarboxylation), Lipoamide (E2 acyl transfer), CoA-SH (acyl acceptor), FAD (E3 electron carrier), and NAD⁺ (terminal oxidant)."
+  },
+  {
+    "id": 50,
+    "question": "In a family of Lineweaver-Burk plots (1/V vs 1/[S]), the line representing uninhibited enzyme kinetics is the one with the",
+    "options": [
+      "lowest slope and lowest y-intercept (highest V_max and highest 1/K_M)",
+      "highest slope",
+      "highest y-intercept",
+      "vertical intercept"
+    ],
+    "correct_answer": "lowest slope and lowest y-intercept (highest V_max and highest 1/K_M)",
+    "explanation": "[CONCEPT]\nStep 1: The uninhibited enzyme has the highest catalytic velocity (lowest 1/V_max y-intercept) and lowest slope (K_M / V_max)."
+  },
+  {
+    "id": 51,
+    "question": "In pure non-competitive inhibition, the Lineweaver-Burk double reciprocal plot shows a series of lines that",
+    "options": [
+      "intersect on the y-axis (same V_max).",
+      "are parallel to each other (uncompetitive).",
+      "intersect on the negative x-axis at the same point (−1/K_M), with increasing slope and higher y-intercept (reduced V_max).",
+      "diverge without intersection."
+    ],
+    "correct_answer": "intersect on the negative x-axis at the same point (−1/K_M), with increasing slope and higher y-intercept (reduced V_max).",
+    "explanation": "[CONCEPT]\nStep 1: Non-competitive inhibitors bind free enzyme and ES complex with equal affinity, leaving K_M unchanged (same x-intercept) while reducing V_max."
+  },
+  {
+    "id": 52,
+    "question": "Partial hydrolysis of a nonapeptide X yielded fragments: Val–Arg–Pro–Gly, Lys–Phe–Val–Arg, and Ala–Gly–Ser–Lys. What is the full sequence of nonapeptide X?",
+    "options": [
+      "Ala–Gly–Ser–Lys–Ala–Pro–Val–Arg–Gly",
+      "Val–Arg–Gly–Lys–Phe–Val–Arg–Ala–Pro",
+      "Lys–Phe–Val–Arg–Ala–Gly–Ser–Pro–Gly",
+      "Ala–Gly–Ser–Lys–Phe–Val–Arg–Pro–Gly"
+    ],
+    "correct_answer": "Ala–Gly–Ser–Lys–Phe–Val–Arg–Pro–Gly",
+    "explanation": "[CONCEPT]\nStep 1: Overlapping fragments:\nAla–Gly–Ser–Lys\n            Lys–Phe–Val–Arg\n                        Val–Arg–Pro–Gly\nSequence = Ala–Gly–Ser–Lys–Phe–Val–Arg–Pro–Gly."
+  },
+  {
+    "id": 53,
+    "question": "How many peptide fragments will be produced when the nonapeptide ‘Ala–Gly–Ser–Lys–Phe–Val–Arg–Pro–Gly’ is digested with trypsin?",
+    "options": [
+      "0",
+      "2",
+      "3 fragments (Ala–Gly–Ser–Lys, Phe–Val–Arg, and Pro–Gly; note that Arg–Pro is cleaved under exhaustive conditions or gives 2–3 fragments)",
+      "4"
+    ],
+    "correct_answer": "3 fragments (Ala–Gly–Ser–Lys, Phe–Val–Arg, and Pro–Gly; note that Arg–Pro is cleaved under exhaustive conditions or gives 2–3 fragments)",
+    "explanation": "[CONCEPT]\nStep 1: Trypsin cleaves after Lys4 (yielding Ala-Gly-Ser-Lys) and after Arg7 (yielding Phe-Val-Arg and Pro-Gly), generating 3 fragments."
+  },
+  {
+    "id": 54,
+    "question": "The primary physiological functions of the Pentose Phosphate Pathway (Hexose Monophosphate Shunt) are to generate",
+    "options": [
+      "NADPH (for reductive biosyntheses and antioxidant defense) and Ribose-5-phosphate (for nucleotide synthesis).",
+      "NADH and ATP.",
+      "FADH₂ and acetyl-CoA.",
+      "Lactate and pyruvate."
+    ],
+    "correct_answer": "NADPH (for reductive biosyntheses and antioxidant defense) and Ribose-5-phosphate (for nucleotide synthesis).",
+    "explanation": "[CONCEPT]\nStep 1: The oxidative branch generates 2 NADPH per G6P, and the non-oxidative branch yields ribose-5-phosphate."
+  },
+  {
+    "id": 55,
+    "question": "T4 Polynucleotide Kinase (PNK) is standardly used in molecular biology to",
+    "options": [
+      "add a terminal dideoxynucleotide.",
+      "remove terminal phosphates.",
+      "transfer a [³²P] phosphate group from [γ-³²P] ATP to the free 5′-OH terminus of DNA/RNA.",
+      "synthesize poly-A tails."
+    ],
+    "correct_answer": "transfer a [³²P] phosphate group from [γ-³²P] ATP to the free 5′-OH terminus of DNA/RNA.",
+    "explanation": "[CONCEPT]\nStep 1: T4 PNK catalyzes the forward phosphorylation of 5′-hydroxyl ends of oligonucleotides using [γ-³²P] ATP."
+  },
+  {
+    "id": 56,
+    "question": "A polynucleotide polymer containing alternating ribose sugars with 2′-OH groups, phosphodiester bonds, and nitrogenous bases is a",
+    "options": [
+      "polysaccharide.",
+      "polyribonucleotide (RNA).",
+      "polyketide.",
+      "polydeoxyribonucleotide (DNA)."
+    ],
+    "correct_answer": "polyribonucleotide (RNA).",
+    "explanation": "[CONCEPT]\nStep 1: The presence of 2′-OH on the furanose ring defines ribonucleotides."
+  },
+  {
+    "id": 57,
+    "question": "In a Lineweaver-Burk plot (1/V vs 1/[S]), the Michaelis constant (K_M) is calculated by",
+    "options": [
+      "taking the reciprocal of the y-intercept.",
+      "taking the reciprocal of the x-intercept directly.",
+      "taking the negative reciprocal of the x-axis intercept (K_M = −1 / x-intercept).",
+      "multiplying the slope by V_max."
+    ],
+    "correct_answer": "taking the negative reciprocal of the x-axis intercept (K_M = −1 / x-intercept).",
+    "explanation": "[CONCEPT]\nStep 1: At 1/V = 0, 1/[S] = −1/K_M. Therefore, K_M = −1 / (x-intercept)."
+  },
+  {
+    "id": 58,
+    "question": "Incubation of a glycolytic extract with [γ-³²P] ATP and unlabeled Pi (with pyruvate kinase inactivated) will produce which ³²P-labeled glycolytic intermediates?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Glucose-6-[³²P] phosphate</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>[3-³²P] Phosphoglycerate</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>1,3-Bisphosphoglycerate</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Fructose-1,6-[³²P] bisphosphate</span></div></div>",
+    "options": [
+      "P and R",
+      "P, Q, and S (Hexokinase labels C6 of G6P, PFK-1 labels C1 of F1,6BP, and reversible PGK labels C3-PGA)",
+      "Q and S",
+      "S only"
+    ],
+    "correct_answer": "P, Q, and S (Hexokinase labels C6 of G6P, PFK-1 labels C1 of F1,6BP, and reversible PGK labels C3-PGA)",
+    "explanation": "[CONCEPT]\nStep 1: [γ-³²P] ATP transfers label to Glucose (G6-³²P) by hexokinase, to F6P (F1,6-bis-³²P) by PFK-1, and to PGA via reversible phosphoglycerate kinase."
+  },
+  {
+    "id": 59,
+    "question": "Match the enzyme classes in Column I with their catalytic mechanisms in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Kinases</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Lyases</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Synthases</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Phosphatases\n\nColumn II:\n1. Cleave chemical bonds by elimination (generating double bonds or rings)\n2. Form molecules by condensation without ATP hydrolysis\n3. Transfer terminal phosphate from ATP to substrate\n4. Hydrolytically remove phosphate groups</span></div></div>",
+    "options": [
+      "P – 4; Q – 2; R – 3; S – 1",
+      "P – 3; Q – 1; R – 2; S – 4",
+      "P – 4; Q – 1; R – 2; S – 3",
+      "P – 3; Q – 2; R – 1; S – 4"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 2; S – 4",
+    "explanation": "[CONCEPT]\nStep 1: Kinases = ATP phosphate transfer (P–3).\nStep 2: Lyases = Non-hydrolytic elimination (Q–1).\nStep 3: Synthases = Condensation without ATP (R–2).\nStep 4: Phosphatases = Hydrolytic phosphate removal (S–4)."
+  },
+  {
+    "id": 60,
+    "question": "A glycerophospholipid composed of a glycerol backbone, two fatty acyl chains, a phosphate group, and L-serine is",
+    "options": [
+      "Phosphatidylserine",
+      "Phosphatidylcholine",
+      "Phosphatidylethanolamine",
+      "Phosphatidylinositol"
+    ],
+    "correct_answer": "Phosphatidylserine",
+    "explanation": "[CONCEPT]\nStep 1: Phosphatidylserine has a negatively charged serine head group (–CH₂–CH(NH₃⁺)–COO⁻)."
+  },
+  {
+    "id": 61,
+    "question": "In amino acid catabolism, transamination transfers an α-amino group to α-ketoglutarate (X) to generate L-glutamate (Y), which then undergoes oxidative deamination via glutamate dehydrogenase to release NH₄⁺ and regenerate",
+    "options": [
+      "X: L-Glutamate; Y: α-Ketoglutarate",
+      "X: α-Ketoglutarate; Y: L-Glutamate",
+      "X: α-Ketoglutarate; Y: L-Glutamine",
+      "X: Pyruvate; Y: Alanine"
+    ],
+    "correct_answer": "X: α-Ketoglutarate; Y: L-Glutamate",
+    "explanation": "[CONCEPT]\nStep 1: Amino acid + α-Ketoglutarate (X) ⇌ α-Keto acid + L-Glutamate (Y).\nStep 2: L-Glutamate + NAD⁺ + H₂O ⇌ α-Ketoglutarate (X) + NADH + NH₄⁺."
+  },
+  {
+    "id": 62,
+    "question": "Spontaneous or hydrolytic deamination of cytosine in DNA/RNA converts it into",
+    "options": [
+      "Uracil",
+      "Pseudouracil",
+      "Hypoxanthine",
+      "Thymine"
+    ],
+    "correct_answer": "Uracil",
+    "explanation": "[CONCEPT]\nStep 1: Cytosine deamination yields Uracil; Adenine deamination yields Hypoxanthine; Guanine deamination yields Xanthine."
+  },
+  {
+    "id": 63,
+    "question": "If D-glucose labeled with [¹⁴C] at carbon C-3 or C-4 is metabolized via glycolysis and pyruvate dehydrogenase, where will the ¹⁴C label appear?",
+    "options": [
+      "Released completely as ¹⁴CO₂ by the pyruvate dehydrogenase reaction",
+      "In the methyl carbon of Acetyl-CoA",
+      "In the carbonyl carbon of Acetyl-CoA",
+      "In lactate only"
+    ],
+    "correct_answer": "Released completely as ¹⁴CO₂ by the pyruvate dehydrogenase reaction",
+    "explanation": "[CONCEPT]\nStep 1: Aldolase cleaves glucose such that C-3 and C-4 become the carboxyl carbon (C-1) of pyruvate.\nStep 2: Pyruvate dehydrogenase decarboxylates C-1 of pyruvate into ¹⁴CO₂."
+  },
+  {
+    "id": 64,
+    "question": "Which of the following cytosolic enzyme activities will be present in the soluble supernatant after ultracentrifugation of a liver homogenate at 100,000 × g for 1 hour?",
+    "options": [
+      "Succinate dehydrogenase (Inner mitochondrial membrane)",
+      "Cytochrome oxidase",
+      "Glyceraldehyde-3-phosphate dehydrogenase (and Glycogen phosphorylase / cytosolic enzymes)",
+      "Aconitase"
+    ],
+    "correct_answer": "Glyceraldehyde-3-phosphate dehydrogenase (and Glycogen phosphorylase / cytosolic enzymes)",
+    "explanation": "[CONCEPT]\nStep 1: 100,000g pellets all organelles and microsomes; the soluble supernatant contains soluble cytosolic glycolytic enzymes (GAPDH, LDH)."
+  },
+  {
+    "id": 65,
+    "question": "Tetrahydrofolate (THF) one-carbon carrier coenzymes (N⁵,N¹⁰-methylene-THF and N¹⁰-formyl-THF) are required for the de novo biosynthesis of which deoxynucleotides?",
+    "options": [
+      "dAMP and dGMP only",
+      "dCMP and dTMP",
+      "dAMP, dGMP, and dTMP (Thymidylate synthase requires N⁵,N¹⁰-methylene-THF; purine ring C-2 and C-8 require N¹⁰-formyl-THF)",
+      "dCMP only"
+    ],
+    "correct_answer": "dAMP, dGMP, and dTMP (Thymidylate synthase requires N⁵,N¹⁰-methylene-THF; purine ring C-2 and C-8 require N¹⁰-formyl-THF)",
+    "explanation": "[CONCEPT]\nStep 1: Purine ring atoms C2 and C8 come from 10-formyl-THF (dAMP/dGMP), and dUMP → dTMP methylation requires N⁵,N¹⁰-methylene-THF."
+  },
+  {
+    "id": 66,
+    "question": "In the mitochondrial Q-cycle catalyzed by Cytochrome bc₁ complex (Complex III), the oxidation of two molecules of ubiquinol (QH₂) leads to the net",
+    "options": [
+      "reduction of two molecules of Cytochrome c (Fe³⁺ → Fe²⁺), regeneration of one ubiquinone (Q), and translocation of 4 H⁺ into the intermembrane space.",
+      "reduction of one Cytochrome c.",
+      "oxidation of one ubiquinol only.",
+      "release of 2 protons."
+    ],
+    "correct_answer": "reduction of two molecules of Cytochrome c (Fe³⁺ → Fe²⁺), regeneration of one ubiquinone (Q), and translocation of 4 H⁺ into the intermembrane space.",
+    "explanation": "[CONCEPT]\nStep 1: The Q-cycle stoichiometry: 2 QH₂ + Q + 2 Cyt c(ox) + 2 H⁺_matrix → Q + QH₂ + 2 Cyt c(red) + 4 H⁺_IMS."
+  },
+  {
+    "id": 67,
+    "question": "Which statement regarding the respiratory electron transport chain complexes (I, II, III, IV) in the inner mitochondrial membrane is correct?",
+    "options": [
+      "They interact and transfer electrons via mobile, lipid-soluble (Ubiquinone) and water-soluble (Cytochrome c) electron carriers.",
+      "They are freely soluble in the matrix.",
+      "They cannot be resolved functionally.",
+      "All complexes contain heme cytochromes."
+    ],
+    "correct_answer": "They interact and transfer electrons via mobile, lipid-soluble (Ubiquinone) and water-soluble (Cytochrome c) electron carriers.",
+    "explanation": "[CONCEPT]\nStep 1: Complexes I and II pass electrons to mobile coenzyme Q (ubiquinone), which diffuses through the lipid bilayer to Complex III; Complex III reduces mobile Cytochrome c in the intermembrane space."
+  },
+  {
+    "id": 68,
+    "question": "In chloroplast thylakoid membranes, the catalytic F₁ head of the CF₀CF₁-ATP synthase is oriented facing the",
+    "options": [
+      "thylakoid lumen.",
+      "intermembrane space.",
+      "chloroplast stroma (where light-driven ATP is synthesized for the Calvin cycle).",
+      "outer chloroplast membrane."
+    ],
+    "correct_answer": "chloroplast stroma (where light-driven ATP is synthesized for the Calvin cycle).",
+    "explanation": "[CONCEPT]\nStep 1: Protons are pumped from the stroma into the thylakoid lumen; ATP synthase passes H⁺ back out into the stroma, synthesizing ATP on the stromal CF₁ head."
+  },
+  {
+    "id": 69,
+    "question": "If 10 protons are translocated per NADH oxidized (4 by Complex I, 2 by Complex III, 4 by Complex IV) and ATP synthase requires 3 H⁺ for synthesis plus 1 H⁺ for Pi import (4 H⁺ total per ATP), how many ATP molecules are produced per NADH?",
+    "options": [
+      "0",
+      "5 (10 H⁺ / 4 H⁺ = 2.5 ATP)",
+      "0",
+      "3"
+    ],
+    "correct_answer": "5 (10 H⁺ / 4 H⁺ = 2.5 ATP)",
+    "explanation": "[CONCEPT]\nStep 1: P/O ratio for NADH = 10 H⁺ translocated / 4 H⁺ per ATP synthesized and imported = 2.5 ATP."
+  },
+  {
+    "id": 70,
+    "question": "When cytosolic NADH is transported into mitochondria via the glycerol-3-phosphate shuttle, it bypasses Complex I and delivers electrons directly to FAD/Complex II (translocating only 6 H⁺). The ATP yield per cytosolic NADH is",
+    "options": [
+      "5 ATP (6 H⁺ / 4 H⁺ = 1.5 ATP)",
+      "0 ATP",
+      "5 ATP",
+      "0 ATP"
+    ],
+    "correct_answer": "5 ATP (6 H⁺ / 4 H⁺ = 1.5 ATP)",
+    "explanation": "[CONCEPT]\nStep 1: The glycerol-3-phosphate shuttle reduces mitochondrial FAD to FADH₂, yielding ~1.5 ATP per electron pair."
+  },
+  {
+    "id": 71,
+    "question": "For the biochemical reaction A + B ⇌ C + H⁺ at standard state (pH 7.0, [H⁺] = 10⁻⁷ M), if the reaction is carried out at pH 5.0 ([H⁺] = 10⁻⁵ M), what is the relationship between ΔG and ΔG°′?",
+    "options": [
+      "ΔG = ΔG°′",
+      "ΔG = ΔG°′ + RT ln(10⁵/10⁷) = ΔG°′ + 4.6 RT (or ΔG°′ + 11.5 RT depending on standard convention)",
+      "ΔG = ΔG°′ − 11.5 RT",
+      "ΔG = ΔG°′ + 16.1 RT"
+    ],
+    "correct_answer": "ΔG = ΔG°′ + RT ln(10⁵/10⁷) = ΔG°′ + 4.6 RT (or ΔG°′ + 11.5 RT depending on standard convention)",
+    "explanation": "[CONCEPT]\nStep 1: Higher [H⁺] at pH 5.0 shifts product concentration, increasing ΔG by +RT ln([H⁺]_pH5 / [H⁺]_pH7)."
+  },
+  {
+    "id": 72,
+    "question": "If ΔG°′ for a biochemical reaction is −11.7 kJ mol⁻¹ at 25°C, the reaction is",
+    "options": [
+      "exergonic at both 25°C and 37°C.",
+      "endergonic at 37°C and exergonic at 25°C.",
+      "endergonic at both temperatures.",
+      "at equilibrium."
+    ],
+    "correct_answer": "exergonic at both 25°C and 37°C.",
+    "explanation": "[CONCEPT]\nStep 1: A negative free energy change (ΔG < 0) indicates a thermodynamically favorable, exergonic reaction."
+  },
+  {
+    "id": 73,
+    "question": "Which of the following compounds acts as an uncoupler of oxidative phosphorylation by dissipating the inner mitochondrial proton gradient?",
+    "options": [
+      "Sodium azide",
+      "2,4-Dinitrophenol (DNP)",
+      "Oligomycin",
+      "Rotenone"
+    ],
+    "correct_answer": "2,4-Dinitrophenol (DNP)",
+    "explanation": "[CONCEPT]\nStep 1: DNP, FCCP, and CCCP are classical protonophoric uncouplers."
+  },
+  {
+    "id": 74,
+    "question": "The overall catalytic efficiency (specificity constant) of an enzyme for a substrate under physiological subsaturating conditions is best represented by",
+    "options": [
+      "V_max",
+      "K_M",
+      "k_cat",
+      "k_cat / K_M"
+    ],
+    "correct_answer": "k_cat / K_M",
+    "explanation": "[CONCEPT]\nStep 1: The ratio k_cat / K_M (apparent second-order rate constant, up to diffusion limit ~10⁸–10⁹ M⁻¹ s⁻¹) defines enzyme catalytic efficiency."
+  },
+  {
+    "id": 75,
+    "question": "Match the enzyme cofactors in Column I with their metabolic transfer functions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Thiamine pyrophosphate (TPP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Coenzyme A (CoA-SH)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pyridoxal phosphate (PLP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tetrahydrofolate (THF)\n\nColumn II:\n1. Acyl group transfer\n2. One-carbon group transfer (methyl, formyl, methylene)\n3. Amino group transfer / Transamination\n4. Hydroxyalkyl / Aldehyde transfer (Decarboxylation)</span></div></div>",
+    "options": [
+      "P − 4; Q − 3; R − 1; S − 2",
+      "P − 4; Q − 3; R − 2; S − 1",
+      "P − 4; Q − 1; R − 3; S − 2",
+      "P − 3; Q − 1; R − 4; S − 2"
+    ],
+    "correct_answer": "P − 4; Q − 1; R − 3; S − 2",
+    "explanation": "[CONCEPT]\nStep 1: TPP = Aldehyde transfer (P–4).\nStep 2: CoA = Acyl transfer (Q–1).\nStep 3: PLP = Amino transfer (R–3).\nStep 4: THF = One-carbon transfer (S–2)."
+  },
+  {
+    "id": 76,
+    "question": "Match the metabolic enzymes in Column I with their pathways in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Succinyl-CoA synthetase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Acyl-CoA dehydrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Transketolase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ribulose-1,5-bisphosphate carboxylase\n\nColumn II:\n1. β-Oxidation of fatty acids\n2. Calvin cycle\n3. Citric acid cycle (TCA)\n4. Pentose phosphate pathway</span></div></div>",
+    "options": [
+      "P − 1; Q − 2; R − 3; S − 4",
+      "P − 3; Q − 1; R − 2; S − 4",
+      "P − 2; Q − 4; R − 1; S − 3",
+      "P − 3; Q − 1; R − 4; S − 2"
+    ],
+    "correct_answer": "P − 3; Q − 1; R − 4; S − 2",
+    "explanation": "[CONCEPT]\nStep 1: Succinyl-CoA synthetase: TCA cycle (P–3).\nStep 2: Acyl-CoA dehydrogenase: β-Oxidation (Q–1).\nStep 3: Transketolase: Pentose phosphate pathway (R–4).\nStep 4: RuBisCO: Calvin cycle (S–2)."
+  },
+  {
+    "id": 77,
+    "question": "Glycolysis and gluconeogenesis are reciprocally regulated. Which of the following allosteric effectors activates pyruvate carboxylase to stimulate gluconeogenesis when mitochondrial acetyl-CoA is abundant?",
+    "options": [
+      "Acetyl-CoA (obligate allosteric activator)",
+      "Fructose 2,6-bisphosphate",
+      "ADP",
+      "AMP"
+    ],
+    "correct_answer": "Acetyl-CoA (obligate allosteric activator)",
+    "explanation": "[CONCEPT]\nStep 1: High levels of acetyl-CoA (from β-oxidation) allosterically activate pyruvate carboxylase and inhibit pyruvate dehydrogenase, directing pyruvate into gluconeogenesis."
+  },
+  {
+    "id": 78,
+    "question": "The six atoms of the pyrimidine nitrogenous ring (uracil, cytosine, thymine) are biosynthetically derived from",
+    "options": [
+      "Carbamoyl phosphate and Inosine monophosphate",
+      "Carbamoyl phosphate (provides C-2, N-3) and L-Aspartate (provides N-1, C-4, C-5, C-6)",
+      "Glutamate and Glycine",
+      "Inosine monophosphate and Aspartate"
+    ],
+    "correct_answer": "Carbamoyl phosphate (provides C-2, N-3) and L-Aspartate (provides N-1, C-4, C-5, C-6)",
+    "explanation": "[CONCEPT]\nStep 1: Aspartate transcarbamoylase (ATCase) condenses carbamoyl phosphate with aspartate to form the pyrimidine ring precursor N-carbamoylaspartate."
+  },
+  {
+    "id": 79,
+    "question": "Which of the following mixtures of respiratory components will result in a net transfer of electrons to reduce Cytochrome c?",
+    "options": [
+      "Reduced ubiquinone + Reduced cytochrome c",
+      "Reduced ubiquinone + Cytochrome bc₁ complex + Reduced cytochrome c",
+      "Oxidized ubiquinone + Oxidized cytochrome c",
+      "Reduced ubiquinone (QH₂) + Cytochrome bc₁ complex (Complex III) + Oxidized cytochrome c (Fe³⁺)"
+    ],
+    "correct_answer": "Reduced ubiquinone (QH₂) + Cytochrome bc₁ complex (Complex III) + Oxidized cytochrome c (Fe³⁺)",
+    "explanation": "[CONCEPT]\nStep 1: QH₂ donates electrons to Complex III (cytochrome bc₁), which transfers electrons to oxidized Cytochrome c, reducing it to Fe²⁺."
+  },
+  {
+    "id": 80,
+    "question": "Pernicious anemia is caused by autoimmune destruction of gastric parietal cells leading to severe deficiency of Intrinsic Factor, which is required for the intestinal absorption of",
+    "options": [
+      "Vitamin B₁₂ (Cobalamin)",
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin B₂ (Riboflavin)"
+    ],
+    "correct_answer": "Vitamin B₁₂ (Cobalamin)",
+    "explanation": "[CONCEPT]\nStep 1: Intrinsic factor binds vitamin B₁₂ in the duodenum, enabling receptor-mediated endocytosis in the terminal ileum."
+  },
+  {
+    "id": 81,
+    "question": "In mammalian endothelial cells, the second messenger and vasodilator nitric oxide (•NO) is enzymatically synthesized from",
+    "options": [
+      "Ammonium nitrate",
+      "L-Arginine (via Nitric Oxide Synthase, requiring NADPH and O₂)",
+      "Urea",
+      "Nitrous acid"
+    ],
+    "correct_answer": "L-Arginine (via Nitric Oxide Synthase, requiring NADPH and O₂)",
+    "explanation": "[CONCEPT]\nStep 1: NOS catalyzes: L-Arginine + NADPH + O₂ → L-Citrulline + •NO."
+  },
+  {
+    "id": 82,
+    "question": "The committed, rate-limiting step of a major metabolic pathway is typically a reaction that is",
+    "options": [
+      "near equilibrium.",
+      "readily reversible.",
+      "irreversible (large negative ΔG) and catalyzed by an allosteric regulatory enzyme.",
+      "catalyzed by an enzyme with very low K_M."
+    ],
+    "correct_answer": "irreversible (large negative ΔG) and catalyzed by an allosteric regulatory enzyme.",
+    "explanation": "[CONCEPT]\nStep 1: Rate-limiting steps (e.g. PFK-1 in glycolysis, ACC in fatty acid synthesis) are highly exergonic, irreversible, and subjected to allosteric/hormonal control."
+  },
+  {
+    "id": 83,
+    "question": "Phospholipase A₁ and Phospholipase A₂ hydrolytically remove fatty acyl chains from which specific positions of membrane glycerophospholipids?",
+    "options": [
+      "Neither",
+      "Only the polar head group",
+      "PLA₁ cleaves the sn-1 ester bond; PLA₂ cleaves the sn-2 ester bond (releasing arachidonic acid).",
+      "Phosphodiester linkage"
+    ],
+    "correct_answer": "PLA₁ cleaves the sn-1 ester bond; PLA₂ cleaves the sn-2 ester bond (releasing arachidonic acid).",
+    "explanation": "[CONCEPT]\nStep 1: Phospholipase A₁ cleaves at C-1 (sn-1); Phospholipase A₂ cleaves at C-2 (sn-2)."
+  },
+  {
+    "id": 84,
+    "question": "The synthesis of ATP from ADP and inorganic phosphate (Pi) is thermodynamically endergonic (ΔG°′ = +30.5 kJ/mol) primarily because",
+    "options": [
+      "ATP readily ionizes.",
+      "ADP has lower resonance stabilization.",
+      "hydration of ATP is higher.",
+      "inorganic phosphate (Pi) and ADP possess greater resonance stabilization, higher hydration stabilization, and less electrostatic repulsion than ATP."
+    ],
+    "correct_answer": "inorganic phosphate (Pi) and ADP possess greater resonance stabilization, higher hydration stabilization, and less electrostatic repulsion than ATP.",
+    "explanation": "[CONCEPT]\nStep 1: Hydrolysis of ATP relieves charge repulsion among the 4 negative charges of the triphosphate group, and the resulting Pi has exceptional resonance stabilization."
+  },
+  {
+    "id": 85,
+    "question": "Match the regulatory enzymes in Column I with their features in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Isocitrate lyase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>PEP carboxykinase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pyruvate dehydrogenase complex</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Phosphofructokinase-1\nT. Pyruvate carboxylase\n\nColumn II:\n1. Rate-limiting gluconeogenic enzyme\n2. Biotin-dependent mitochondrial carboxylase\n3. Anaplerotic glyoxylate cycle enzyme (acetate utilization)\n4. Lipoic acid cofactor (E2 subunit)\n5. Master allosteric glycolytic pacemaker</span></div></div>",
+    "options": [
+      "P – 1; Q – 2; R – 4; S – 5; T – 3",
+      "P – 3; Q – 1; R – 4; S – 5; T – 2",
+      "P – 3; Q – 1; R – 4; S – 2; T – 5",
+      "P – 2; Q – 5; R – 1; S – 4; T – 3"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 4; S – 5; T – 2",
+    "explanation": "[CONCEPT]\nStep 1: Isocitrate lyase: Glyoxylate cycle (P–3).\nStep 2: PEPCK: Gluconeogenesis (Q–1).\nStep 3: PDC: Lipoic acid (R–4).\nStep 4: PFK-1: Allosteric glycolytic control (S–5).\nStep 5: Pyruvate carboxylase: Biotin (T–2)."
+  },
+  {
+    "id": 86,
+    "question": "The amino acid residues responsible for N-linked and O-linked glycosylation of proteins, respectively, are",
+    "options": [
+      "Asparagine and Aspartate",
+      "Glutamine and Serine",
+      "Glutamate and Serine",
+      "Asparagine (N-linked) and Serine / Threonine (O-linked)"
+    ],
+    "correct_answer": "Asparagine (N-linked) and Serine / Threonine (O-linked)",
+    "explanation": "[CONCEPT]\nStep 1: N-glycosylation: amide nitrogen of Asn.\nStep 2: O-glycosylation: hydroxyl oxygen of Ser or Thr."
+  },
+  {
+    "id": 87,
+    "question": "A Lineweaver-Burk double reciprocal plot is a linear transformation graphing",
+    "options": [
+      "1 / V₀ versus 1 / [S]",
+      "V₀ versus [S]",
+      "V₀ / [S] versus V₀",
+      "1 / V₀ versus [S]"
+    ],
+    "correct_answer": "1 / V₀ versus 1 / [S]",
+    "explanation": "[CONCEPT]\nStep 1: The Lineweaver-Burk plot linearizes the Michaelis-Menten hyperbolic curve: 1/V₀ = (K_M/V_max)(1/[S]) + 1/V_max."
+  },
+  {
+    "id": 88,
+    "question": "Match the enzyme kinetic parameters in Column I with their definitions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>K_M</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>k_cat / K_M</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>pKa</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>K_I\n\nColumn II:\n1. Catalytic efficiency / Specificity constant\n2. Dissociation constant of enzyme-inhibitor complex (potency)\n3. Substrate concentration giving half-maximal velocity (inverse measure of affinity)\n4. pH of maximum buffering capacity</span></div></div>",
+    "options": [
+      "P – 3; Q – 1; R – 2; S – 4",
+      "P – 3; Q – 1; R – 4; S – 2",
+      "P – 1; Q – 2; R – 4; S – 3",
+      "P – 1; Q – 4; R – 2; S – 3"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 4; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: K_M: Half-saturation [S] (P–3).\nStep 2: k_cat/K_M: Catalytic efficiency (Q–1).\nStep 3: pKa: Buffer capacity midpoint (R–4).\nStep 4: K_I: Inhibitor constant (S–2)."
+  },
+  {
+    "id": 89,
+    "question": "Match the metabolic pathways in Column I with their key regulatory enzymes in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>β-Oxidation of fatty acids</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Glycolysis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Gluconeogenesis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Calvin Cycle\n\nColumn II:\n1. Ribulose-1,5-bisphosphate carboxylase\n2. Phosphofructokinase-1\n3. Phosphoenolpyruvate carboxykinase\n4. Thiolase (β-Ketothiolase)\n5. Phosphofructokinase-2</span></div></div>",
+    "options": [
+      "P – 4; Q – 2; R – 3; S – 5",
+      "P – 3; Q – 2; R – 4; S – 1",
+      "P – 3; Q – 1; R – 5; S – 2",
+      "P – 4; Q – 2; R – 3; S – 1"
+    ],
+    "correct_answer": "P – 4; Q – 2; R – 3; S – 1",
+    "explanation": "[CONCEPT]\nStep 1: β-Oxidation: Thiolase (P–4).\nStep 2: Glycolysis: PFK-1 (Q–2).\nStep 3: Gluconeogenesis: PEPCK (R–3).\nStep 4: Calvin cycle: RuBisCO (S–1)."
+  },
+  {
+    "id": 90,
+    "question": "Given the reduction potentials:\n- Acetaldehyde + 2H⁺ + 2e⁻ → Ethanol (E°′ = −0.16 V)\n- NAD⁺ + 2H⁺ + 2e⁻ → NADH + H⁺ (E°′ = −0.32 V)\n(F = 23,063 cal V⁻¹ mol⁻¹)\n\nCalculate the standard free energy change ΔG°′ for the coupled oxidation: NADH + Acetaldehyde + H⁺ → NAD⁺ + Ethanol:",
+    "options": [
+      "+7,400 cal",
+      "−7,400 cal",
+      "−22,200 cal",
+      "+22,140 cal (or −7,380 cal for spontaneous forward reduction)"
+    ],
+    "correct_answer": "+22,140 cal (or −7,380 cal for spontaneous forward reduction)",
+    "explanation": "[CONCEPT]\nStep 1: ΔE°′ = E°′(cathode) − E°′(anode) = −0.16 V − (−0.32 V) = +0.16 V.\nStep 2: ΔG°′ = −nFΔE°′ = −2 × (23,063) × (+0.16) = −7,380 cal/mol."
+  },
+  {
+    "id": 91,
+    "question": "Which of the following enzymes fixes inorganic carbon dioxide (CO₂) directly into an organic 5-carbon sugar phosphate during the dark reactions of photosynthesis?",
+    "options": [
+      "Ribulose 5-phosphate kinase",
+      "Ribulose 1,5-bisphosphate carboxylase/oxygenase (RuBisCO)",
+      "Pyruvate dehydrogenase",
+      "Carbonic anhydrase"
+    ],
+    "correct_answer": "Ribulose 1,5-bisphosphate carboxylase/oxygenase (RuBisCO)",
+    "explanation": "[CONCEPT]\nStep 1: RuBisCO catalyzes: RuBP (5C) + CO₂ + H₂O → 2 molecules of 3-phosphoglycerate (3C)."
+  },
+  {
+    "id": 92,
+    "question": "The acute toxicity of cyanide poisoning is due to its direct, irreversible binding to ferric heme in",
+    "options": [
+      "Cytochrome c oxidase (Complex IV) of the mitochondrial electron transport chain.",
+      "Fatty acid synthase.",
+      "Pyruvate carboxylase.",
+      "DNA Polymerase."
+    ],
+    "correct_answer": "Cytochrome c oxidase (Complex IV) of the mitochondrial electron transport chain.",
+    "explanation": "[CONCEPT]\nStep 1: Cyanide (CN⁻) blocks Complex IV (Cyt a/a₃), arresting aerobic respiration."
+  },
+  {
+    "id": 93,
+    "question": "In humans, the largest quantitative metabolic energy reserve stored in the body is",
+    "options": [
+      "Liver glycogen",
+      "Muscle glycogen",
+      "Blood glucose",
+      "Adipose tissue triacylglycerol (Triglycerides)"
+    ],
+    "correct_answer": "Adipose tissue triacylglycerol (Triglycerides)",
+    "explanation": "[CONCEPT]\nStep 1: Adipose triglycerides store ~85% of total body energy reserves."
+  },
+  {
+    "id": 94,
+    "question": "In standard Michaelis-Menten kinetics (E + S ⇌ ES ⎯(k₂)→ E + P with k₁ forward, k₋₁ reverse):",
+    "options": [
+      "K_M = k₋₁ / (k₁ + k₂)",
+      "K_M = (k₁ + k₂) / k₋₁",
+      "K_M = k₁ / (k₂ + k₋₁)",
+      "K_M = (k₋₁ + k₂) / k₁"
+    ],
+    "correct_answer": "K_M = (k₋₁ + k₂) / k₁",
+    "explanation": "[CONCEPT]\nStep 1: Briggs-Haldane steady-state definition: K_M = (k₋₁ + k₂) / k₁."
+  },
+  {
+    "id": 95,
+    "question": "Which of the following compounds does not block electron transport chain complexes directly, but inhibits ATP synthesis by blocking the proton channel?",
+    "options": [
+      "Cyanide (Complex IV inhibitor)",
+      "Rotenone (Complex I inhibitor)",
+      "Oligomycin (blocks F₀ subunit of ATP synthase)",
+      "Antimycin A (Complex III inhibitor)"
+    ],
+    "correct_answer": "Oligomycin (blocks F₀ subunit of ATP synthase)",
+    "explanation": "[CONCEPT]\nStep 1: Oligomycin binds the c-ring subunit of F₀, mechanically blocking proton translocation."
+  },
+  {
+    "id": 96,
+    "question": "Leguminous root nodules maintain a nanomolar concentration of free dissolved oxygen to protect oxygen-sensitive nitrogenase through the high-affinity buffering of",
+    "options": [
+      "Myoglobin",
+      "Leghemoglobin",
+      "Cytochrome P450",
+      "Hemocyanin"
+    ],
+    "correct_answer": "Leghemoglobin",
+    "explanation": "[CONCEPT]\nStep 1: Leghemoglobin binds O₂ with extremely high affinity (K_d ~ 10 nM), scavenging free O₂ while delivering it to bacteroid terminal oxidases."
+  },
+  {
+    "id": 97,
+    "question": "The canonical tripeptide peroxisomal targeting signal 1 (PTS1) located at the extreme C-terminus of matrix peroxisomal proteins is",
+    "options": [
+      "KDEL (ER retrieval)",
+      "KKXX (ER membrane)",
+      "SKL (Ser–Lys–Leu)",
+      "NPVY (Endocytosis)"
+    ],
+    "correct_answer": "SKL (Ser–Lys–Leu)",
+    "explanation": "[CONCEPT]\nStep 1: PTS1 is a C-terminal tripeptide (Ser–Lys–Leu, SKL) recognized by cytosolic receptor Pex5."
+  },
+  {
+    "id": 98,
+    "question": "Complete β-oxidation of a 16-carbon saturated fatty acid (Palmitate) and an odd-chain 17-carbon fatty acid (Heptadecanoate) yields, respectively:",
+    "options": [
+      "8 Acetyl-CoA and 8 Acetyl-CoA + CO₂",
+      "5 Propionyl-CoA and 5 Propionyl-CoA + 1 Acetyl-CoA",
+      "5 Propionyl-CoA and 5 Propionyl-CoA + 2 CO₂",
+      "8 Acetyl-CoA and (7 Acetyl-CoA + 1 Propionyl-CoA)"
+    ],
+    "correct_answer": "8 Acetyl-CoA and (7 Acetyl-CoA + 1 Propionyl-CoA)",
+    "explanation": "[CONCEPT]\nStep 1: C16 (even) → 7 cycles → 8 Acetyl-CoA.\nStep 2: C17 (odd) → 7 cycles → 7 Acetyl-CoA + 1 Propionyl-CoA (3C)."
+  },
+  {
+    "id": 99,
+    "question": "The actual free energy change (ΔG) of a chemical reaction carried out under standard state conditions where all reactants and products are initially present at 1.0 M concentration is",
+    "options": [
+      "equal to zero.",
+      "equal to the standard free energy change (ΔG°′).",
+      "less than standard free energy change.",
+      "greater than standard free energy change."
+    ],
+    "correct_answer": "equal to the standard free energy change (ΔG°′).",
+    "explanation": "[CONCEPT]\nStep 1: ΔG = ΔG°′ + RT ln(Q). When all [Products] = [Reactants] = 1 M, Q = 1 and ln(1) = 0, so ΔG = ΔG°′."
+  },
+  {
+    "id": 100,
+    "question": "If an enzyme reaction is inhibited by a reversible inhibitor at [I] = 3.0 × 10⁻³ M, and the Lineweaver-Burk plot shows a 2-fold increase in apparent K_M (α = 1 + [I]/K_I = 2), what is the inhibitor dissociation constant K_I?",
+    "options": [
+      "1 × 10⁻³ M",
+      "2 × 10⁻³ M",
+      "0 × 10⁻³ M (K_I = [I] = 3.0 mM)",
+      "4 × 10⁻³ M"
+    ],
+    "correct_answer": "0 × 10⁻³ M (K_I = [I] = 3.0 mM)",
+    "explanation": "[CONCEPT]\nStep 1: α = 1 + [I]/K_I = 2 → [I]/K_I = 1 → K_I = [I] = 3.0 × 10⁻³ M."
+  },
+  {
+    "id": 101,
+    "question": "The reaction order (n) with respect to substrate concentration in an enzyme-catalyzed reaction obeying Michaelis-Menten kinetics over a broad range from low [S] to high [S] is",
+    "options": [
+      "n = 1 only",
+      "n = 0 only",
+      "undefined",
+      "0 < n < 1 (First-order at low [S], transitioning to Zero-order at saturating [S])"
+    ],
+    "correct_answer": "0 < n < 1 (First-order at low [S], transitioning to Zero-order at saturating [S])",
+    "explanation": "[CONCEPT]\nStep 1: At [S] << K_M, rate is first order (n = 1); at [S] >> K_M, rate is zero order (n = 0); at intermediate [S], apparent order is fractional (0 < n < 1)."
+  },
+  {
+    "id": 102,
+    "question": "The terminal electron acceptor in aerobic mitochondrial oxidative phosphorylation is",
+    "options": [
+      "Molecular Oxygen (O₂, reduced to 2 H₂O by Complex IV)",
+      "FAD⁺",
+      "NAD⁺",
+      "ATP"
+    ],
+    "correct_answer": "Molecular Oxygen (O₂, reduced to 2 H₂O by Complex IV)",
+    "explanation": "[CONCEPT]\nStep 1: Complex IV transfers 4 electrons to O₂: O₂ + 4 e⁻ + 4 H⁺ → 2 H₂O."
+  },
+  {
+    "id": 103,
+    "question": "During the hepatic urea cycle, the two nitrogen atoms of the synthesized urea molecule (H₂N–CO–NH₂) are derived from",
+    "options": [
+      "two free ammonium ions.",
+      "one free ammonium ion (via Carbamoyl phosphate in mitochondria) and one nitrogen from L-Aspartate (in cytosol).",
+      "arginine alone.",
+      "glutamate alone."
+    ],
+    "correct_answer": "one free ammonium ion (via Carbamoyl phosphate in mitochondria) and one nitrogen from L-Aspartate (in cytosol).",
+    "explanation": "[CONCEPT]\nStep 1: Nitrogen 1 comes from mitochondrial NH₄⁺ via carbamoyl phosphate synthetase I.\nStep 2: Nitrogen 2 comes from aspartate via argininosuccinate synthetase."
+  },
+  {
+    "id": 104,
+    "question": "When an allosteric enzyme displays negative cooperativity upon inhibitor binding (binding of the first ligand molecule decreases the affinity for subsequent molecules), the Hill coefficient (n_H) is",
+    "options": [
+      "n_H = 1",
+      "n_H > 1",
+      "n_H < 1 (less than 1, but greater than 0)",
+      "n_H < 0"
+    ],
+    "correct_answer": "n_H < 1 (less than 1, but greater than 0)",
+    "explanation": "[CONCEPT]\nStep 1: Positive cooperativity: n_H > 1.\nStep 2: Non-cooperative: n_H = 1.\nStep 3: Negative cooperativity: n_H < 1."
+  },
+  {
+    "id": 105,
+    "question": "Match the enzyme inhibition / kinetic profiles:\n- Curve 1: Hyperbolic standard Michaelis-Menten saturation\n- Curve 2: Bell-shaped curve descending at high [S] (Substrate Inhibition)\n- Curve 3: Hyperbolic curve with higher apparent K_M and same V_max (Competitive Inhibition)\n- Curve 4: Reduced V_max with unchanged K_M (Non-competitive Inhibition)",
+    "options": [
+      "P – 1, Q – 3, R – 2, S – 4",
+      "P – 3 (Competitive), Q – 2 (Substrate inhibition), R – 1 (Michaelis-Menten), S – 4 (Non-competitive)",
+      "P – 3, Q – 4, R – 1, S – 2",
+      "P – 4, Q – 2, R – 1, S – 3"
+    ],
+    "correct_answer": "P – 3 (Competitive), Q – 2 (Substrate inhibition), R – 1 (Michaelis-Menten), S – 4 (Non-competitive)",
+    "explanation": "[CONCEPT]\nStep 1: Competitive = 3.\nStep 2: Substrate inhibition = 2.\nStep 3: Standard MM = 1.\nStep 4: Non-competitive = 4."
+  },
+  {
+    "id": 106,
+    "question": "Arrange the following catabolic processes in increasing order of ATP generated per molecule of substrate:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Anaerobic catabolism of starch (300 glucose units → 600 ATP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Aerobic complete oxidation of glucose (30–32 ATP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Aerobic oxidation of acetate via TCA cycle (10–12 ATP)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Complete β-oxidation of palmitate (106 ATP)</span></div></div>",
+    "options": [
+      "Q, S, R, P",
+      "R, Q, P, S",
+      "S, Q, P, R",
+      "R (10 ATP) < Q (32 ATP) < S (106 ATP) < P (600 ATP)"
+    ],
+    "correct_answer": "R (10 ATP) < Q (32 ATP) < S (106 ATP) < P (600 ATP)",
+    "explanation": "[CONCEPT]\nStep 1: Acetate (TCA) = ~10 ATP.\nStep 2: Glucose (aerobic) = 30–32 ATP.\nStep 3: Palmitate (C16) = 106 ATP.\nStep 4: Starch (300 units anaerobic) = 300 × 2 = 600 ATP.\nOrder: R < Q < S < P."
+  },
+  {
+    "id": 107,
+    "question": "Match the enzymes in Column I with their primary regulatory mechanisms in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Phosphofructokinase-1</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Glycogen synthase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>β-Galactosidase (Lac operon)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Lactate dehydrogenase\n\nColumn II:\n1. Product inhibition\n2. Transcriptional control of enzyme synthesis (Induction)\n3. Allosteric interaction (AMP, F-2,6-BP)\n4. Covalent modification (Phosphorylation / Dephosphorylation)</span></div></div>",
+    "options": [
+      "P – 3; Q – 2; R – 1; S – 4",
+      "P – 3; Q – 4; R – 2; S – 1",
+      "P – 4; Q – 3; R – 1; S – 4",
+      "P – 4; Q – 1; R – 2; S – 3"
+    ],
+    "correct_answer": "P – 3; Q – 4; R – 2; S – 1",
+    "explanation": "[CONCEPT]\nStep 1: PFK-1 = Allosteric (P–3).\nStep 2: Glycogen synthase = Covalent phosphorylation (Q–4).\nStep 3: β-Galactosidase = Transcriptional induction (R–2).\nStep 4: LDH = Product inhibition (S–1)."
+  },
+  {
+    "id": 108,
+    "question": "An enzyme of MW 40 kDa is present at 12 mg/mL (0.3 mM). If the molar ratio of enzyme to substrate in the mixture is 1 : 3, what is the substrate concentration?",
+    "options": [
+      "0.4 mM",
+      "0.12 mM",
+      "0.9 mM (0.3 mM × 3 = 0.9 mM)",
+      "0.3 mM"
+    ],
+    "correct_answer": "0.9 mM (0.3 mM × 3 = 0.9 mM)",
+    "explanation": "[CONCEPT]\nStep 1: [Enzyme] = 12 g/L / 40,000 g/mol = 0.0003 M = 0.3 mM.\nStep 2: [Substrate] = 3 × [Enzyme] = 3 × 0.3 mM = 0.9 mM."
+  },
+  {
+    "id": 109,
+    "question": "During an enzyme-catalyzed reaction, the thermodynamic equilibrium constant (K_eq)",
+    "options": [
+      "increases.",
+      "decreases.",
+      "remains completely unchanged (catalysts accelerate forward and reverse rates equally without altering equilibrium).",
+      "increases or decreases depending on temperature."
+    ],
+    "correct_answer": "remains completely unchanged (catalysts accelerate forward and reverse rates equally without altering equilibrium).",
+    "explanation": "[CONCEPT]\nStep 1: Catalysts lower activation energy for both directions equally, leaving K_eq and ΔG° unchanged."
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is the most potent physiological allosteric activator of liver Phosphofructokinase-1 (PFK-1)?",
+    "options": [
+      "Fructose 1,6-bisphosphate",
+      "Fructose 2,6-bisphosphate (synthesized by PFK-2)",
+      "Glucose 6-phosphate",
+      "Citrate"
+    ],
+    "correct_answer": "Fructose 2,6-bisphosphate (synthesized by PFK-2)",
+    "explanation": "[CONCEPT]\nStep 1: Fructose 2,6-bisphosphate overrides ATP inhibition, potently activating PFK-1 to stimulate glycolysis."
+  },
+  {
+    "id": 111,
+    "question": "For an enzyme following Michaelis-Menten kinetics, when the substrate concentration is four times the K_M ([S] = 4 K_M), the initial velocity V is what percentage of V_max?",
+    "options": [
+      "50%",
+      "75%",
+      "80% (V = (4/5) V_max = 80%)",
+      "90%"
+    ],
+    "correct_answer": "80% (V = (4/5) V_max = 80%)",
+    "explanation": "[CONCEPT]\nStep 1: V = V_max[S] / (K_M + [S]) = V_max(4K_M) / (5K_M) = 4/5 V_max = 0.80 = 80%."
+  },
+  {
+    "id": 112,
+    "question": "For the reaction: Fructose-6-P + ATP ⇌ Fructose-1,6-BP + ADP with standard biochemical equilibrium constant K′_eq = 254 at 298 K (R = 8.315 J K⁻¹ mol⁻¹), the standard free energy change ΔG°′ is",
+    "options": [
+      "−13.71 kJ mol⁻¹",
+      "+13.71 kJ mol⁻¹",
+      "−25.4 kJ mol⁻¹",
+      "+25.4 kJ mol⁻¹"
+    ],
+    "correct_answer": "−13.71 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: ΔG°′ = −RT ln(K′_eq) = −(8.315 J/mol·K)(298 K) ln(254) = −2477.87 × 5.537 = −13,720 J/mol = −13.71 kJ/mol."
+  },
+  {
+    "id": 113,
+    "question": "In the presence of a competitive inhibitor at concentration [I] = K_I, an enzyme with uninhibited K_M = 2 × 10⁻⁵ M displays an apparent K_M (K_M,app = α K_M = (1 + [I]/K_I)K_M) equal to",
+    "options": [
+      "2 × 10⁻⁵ M",
+      "4 × 10⁻⁵ M (4 × 10⁻⁵ M)",
+      "8 × 10⁻⁵ M",
+      "1 × 10⁻⁵ M"
+    ],
+    "correct_answer": "4 × 10⁻⁵ M (4 × 10⁻⁵ M)",
+    "explanation": "[CONCEPT]\nStep 1: α = 1 + [I]/K_I = 1 + 1 = 2.\nStep 2: K_M,app = 2 × (2 × 10⁻⁵ M) = 4 × 10⁻⁵ M."
+  },
+  {
+    "id": 114,
+    "question": "Which of the following small zwitterionic carrier molecules is an obligate prerequisite for long-chain fatty acid entry into the mitochondrial matrix for β-oxidation?",
+    "options": [
+      "Inositol",
+      "Choline",
+      "L-Carnitine",
+      "Glycerol"
+    ],
+    "correct_answer": "L-Carnitine",
+    "explanation": "[CONCEPT]\nStep 1: Carnitine acyltransferases (CPT-I/II) conjugate long-chain fatty acyl groups to carnitine to cross the inner mitochondrial membrane."
+  },
+  {
+    "id": 115,
+    "question": "Complete aerobic oxidation of 1 molecule of glucose via glycolysis and TCA cycle utilizing the skeletal muscle glycerol-3-phosphate shuttle yields",
+    "options": [
+      "32 ATP",
+      "32 NADPH",
+      "30 ATP (since 2 cytosolic NADH yield 2 × 1.5 = 3 ATP via FADH₂)",
+      "38 ATP"
+    ],
+    "correct_answer": "30 ATP (since 2 cytosolic NADH yield 2 × 1.5 = 3 ATP via FADH₂)",
+    "explanation": "[CONCEPT]\nStep 1: With the glycerol-P shuttle, 2 cytosolic NADH yield 3 ATP (instead of 5 in malate-aspartate), giving 30 ATP total per glucose."
+  },
+  {
+    "id": 116,
+    "question": "The enzyme Ribulose-5-phosphate 3-epimerase interconverts ribulose-5-phosphate and xylulose-5-phosphate during the non-oxidative phase of the",
+    "options": [
+      "Glycolytic pathway",
+      "TCA cycle",
+      "Glycosylation",
+      "Pentose Phosphate Pathway"
+    ],
+    "correct_answer": "Pentose Phosphate Pathway",
+    "explanation": "[CONCEPT]\nStep 1: Ribulose-5-P is converted to Xylulose-5-P (epimerase) and Ribose-5-P (isomerase) for transketolase carbon shuffling."
+  },
+  {
+    "id": 117,
+    "question": "Which amino acid substitution is most likely to produce a severe conformational alteration and pathological polymerization of hemoglobin in sickle cell disease?",
+    "options": [
+      "Phe → Ile",
+      "Ser → Thr",
+      "Gln → Tyr",
+      "Glu → Val (polar charged Glutamate replaced by hydrophobic Valine at position β6)"
+    ],
+    "correct_answer": "Glu → Val (polar charged Glutamate replaced by hydrophobic Valine at position β6)",
+    "explanation": "[CONCEPT]\nStep 1: Glu6Val creates a hydrophobic contact patch in deoxy-HbS, driving polymer fiber assembly."
+  },
+  {
+    "id": 118,
+    "question": "Match the biochemical entities in Column I with\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Vitamin B₁</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Carboxypeptidase A</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>TCA Cycle enzyme</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Disaccharide reducing sugar\n\nColumn II:\n1. Thiamine pyrophosphate\n2. Aconitase (contains Fe-S cluster)\n3. Sucrose (non-reducing)\n4. Zn²⁺ metalloenzyme\n5. Riboflavin\n6. Lactose</span></div></div>",
+    "options": [
+      "P – 1; Q – 4; R – 2; S – 6",
+      "P – 5; Q – 1; R – 2; S – 3",
+      "P – 1; Q – 4; R – 5; S – 6",
+      "P – 5; Q – 2; R – 1; S – 6"
+    ],
+    "correct_answer": "P – 1; Q – 4; R – 2; S – 6",
+    "explanation": "[CONCEPT]\nStep 1: Vitamin B₁ = TPP (P–1).\nStep 2: Carboxypeptidase = Zn²⁺ (Q–4).\nStep 3: Aconitase = TCA cycle (R–2).\nStep 4: Lactose = Reducing sugar (S–6)."
+  },
+  {
+    "id": 119,
+    "question": "Phosphoglucoisomerase reaches equilibrium when 55% of glucose-6-phosphate is converted into fructose-6-phosphate (G6P ⇌ F6P). The equilibrium constant K_eq is",
+    "options": [
+      "0.55",
+      "22 (55 / 45 = 1.22)",
+      "22",
+      "0.82"
+    ],
+    "correct_answer": "22 (55 / 45 = 1.22)",
+    "explanation": "[CONCEPT]\nStep 1: [F6P] = 55%; [G6P] = 100 − 55 = 45%.\nStep 2: K_eq = [F6P] / [G6P] = 55 / 45 = 1.222."
+  },
+  {
+    "id": 120,
+    "question": "Proteolytic enzymatic hydrolysis of a peptide bond involves cleavage of the covalent bond between which two atoms?",
+    "options": [
+      "N and Cα",
+      "C and O",
+      "Cα and C(=O)",
+      "Carbonyl Carbon and Amide Nitrogen (–C(=O)–N–)"
+    ],
+    "correct_answer": "Carbonyl Carbon and Amide Nitrogen (–C(=O)–N–)",
+    "explanation": "[CONCEPT]\nStep 1: Peptide hydrolysis cleaves the central amide –C(=O)–NH– linkage."
+  },
+  {
+    "id": 121,
+    "question": "The enzymatic interconversion of UDP-glucose and UDP-galactose in galactose metabolism is catalyzed by",
+    "options": [
+      "an oxidase.",
+      "a kinase.",
+      "UDP-galactose 4-epimerase (GALE, an isomerase inverting C-4 configuration).",
+      "a mutase."
+    ],
+    "correct_answer": "UDP-galactose 4-epimerase (GALE, an isomerase inverting C-4 configuration).",
+    "explanation": "[CONCEPT]\nStep 1: GALE uses NAD⁺ to oxidize and invert configuration at C-4 of the hexose."
+  },
+  {
+    "id": 122,
+    "question": "In which group do all three metabolites contain at least one high-energy bond with standard free energy of hydrolysis ΔG°′ < −7.0 kcal mol⁻¹ (−29.3 kJ/mol)?",
+    "options": [
+      "Glucose 1-P, ATP, Fructose 1,6-BP",
+      "Creatine phosphate (−10.3 kcal/mol), Acetyl phosphate (−10.3 kcal/mol), and Succinyl-CoA (−8.0 kcal/mol)",
+      "Glycerol 3-P, Acetyl-CoA, 1,3-BPG",
+      "Glucose 6-P, PEP, ADP"
+    ],
+    "correct_answer": "Creatine phosphate (−10.3 kcal/mol), Acetyl phosphate (−10.3 kcal/mol), and Succinyl-CoA (−8.0 kcal/mol)",
+    "explanation": "[CONCEPT]\nStep 1: Phosphagens (Creatine-P), acyl phosphates (Acetyl-P), and thioesters (Succinyl-CoA) all have ΔG°′ < −7.0 kcal/mol."
+  },
+  {
+    "id": 123,
+    "question": "The malate dehydrogenase step in the TCA cycle has an unfavorable standard free energy (ΔG°′ = +7.1 kcal mol⁻¹). Malate oxidation to oxaloacetate proceeds spontaneously in vivo because",
+    "options": [
+      "oxaloacetate is kept at extremely low steady-state concentration (<1 μM) by the highly exergonic citrate synthase reaction (ΔG°′ = −7.7 kcal mol⁻¹).",
+      "malate is at 100 mM.",
+      "NADH is rapidly consumed.",
+      "ATP is generated."
+    ],
+    "correct_answer": "oxaloacetate is kept at extremely low steady-state concentration (<1 μM) by the highly exergonic citrate synthase reaction (ΔG°′ = −7.7 kcal mol⁻¹).",
+    "explanation": "[CONCEPT]\nStep 1: Coupling to the exergonic condensation with acetyl-CoA (ΔG°′ = −7.7 kcal/mol) pulls the equilibrium forward."
+  },
+  {
+    "id": 124,
+    "question": "Freshly isolated intact mitochondria incubated with ADP and Pi consume oxygen and synthesize ATP upon addition of succinate. Subsequent addition of cyanide to this suspension will cause",
+    "options": [
+      "complete inhibition of both oxygen consumption and ATP synthesis.",
+      "oxygen consumption to continue without ATP.",
+      "ATP synthesis without oxygen.",
+      "no effect."
+    ],
+    "correct_answer": "complete inhibition of both oxygen consumption and ATP synthesis.",
+    "explanation": "[CONCEPT]\nStep 1: Cyanide blocks Complex IV, stopping all electron flow and abolishing the proton gradient for ATP synthesis."
+  },
+  {
+    "id": 125,
+    "question": "Given the kinetic constants for fumarase with three substrates:\n- Fluorofumarate: K_M = 27 μM, k_cat = 2700 s⁻¹ (k_cat/K_M = 100 s⁻¹ μM⁻¹)\n- Fumarate: K_M = 5 μM, k_cat = 800 s⁻¹ (k_cat/K_M = 160 s⁻¹ μM⁻¹)\n- Chlorofumarate: K_M = 111 μM, k_cat = 20 s⁻¹ (k_cat/K_M = 0.18 s⁻¹ μM⁻¹)\n\nIn what order does the substrate specificity (k_cat/K_M) decrease?",
+    "options": [
+      "Fluorofumarate > Fumarate > Chlorofumarate",
+      "Chlorofumarate > Fluorofumarate > Fumarate",
+      "Fumarate (160) > Fluorofumarate (100) > Chlorofumarate (0.18)",
+      "Fumarate > Chlorofumarate > Fluorofumarate"
+    ],
+    "correct_answer": "Fumarate (160) > Fluorofumarate (100) > Chlorofumarate (0.18)",
+    "explanation": "[CONCEPT]\nStep 1: Specificity constant = k_cat / K_M.\n- Fumarate = 800 / 5 = 160.\n- Fluorofumarate = 2700 / 27 = 100.\n- Chlorofumarate = 20 / 111 = 0.18.\nOrder: Fumarate > Fluorofumarate > Chlorofumarate."
+  },
+  {
+    "id": 126,
+    "question": "How many peptide fragments are generated when the peptide ‘ANDCQEGKFMLKPDTWRYVSFMRPA’ is completely digested with trypsin (which cleaves at Lys and Arg except when followed by Proline)?",
+    "options": [
+      "1",
+      "2",
+      "3 fragments (Cleavage occurs after Lys8 and Arg18; Lys12–Pro13 and Arg24–Pro25 are protected by proline)",
+      "5"
+    ],
+    "correct_answer": "3 fragments (Cleavage occurs after Lys8 and Arg18; Lys12–Pro13 and Arg24–Pro25 are protected by proline)",
+    "explanation": "[CONCEPT]\nStep 1: Cleavage site 1: after Lys8 (ANDCQEGK).\nStep 2: Site 2: Lys12-Pro13 (NO cleavage).\nStep 3: Site 3: after Arg18 (FMLKPDTWR).\nStep 4: Site 4: Arg24-Pro25 (NO cleavage).\nResult = 3 fragments."
+  },
+  {
+    "id": 127,
+    "question": "Arsenic toxicity (arsenite, AsO₂⁻) in humans is primarily caused by its high-affinity bidentate coordination to lipoamide sulfhydryls, inhibiting which multi-enzyme complex?",
+    "options": [
+      "Pyruvate kinase",
+      "Aldolase",
+      "Phosphofructokinase",
+      "Pyruvate Dehydrogenase Complex (and α-Ketoglutarate Dehydrogenase)"
+    ],
+    "correct_answer": "Pyruvate Dehydrogenase Complex (and α-Ketoglutarate Dehydrogenase)",
+    "explanation": "[CONCEPT]\nStep 1: Arsenite reacts with the two adjacent sulfhydryls of reduced lipoic acid in E2 (dihydrolipoyl transacetylase), forming a stable cyclic chelate that arrests the TCA cycle."
+  },
+  {
+    "id": 128,
+    "question": "Which of the following statements is true regarding the Calvin cycle in photosynthetic chloroplasts?",
+    "options": [
+      "Glycerol-3-phosphate is generated.",
+      "CO₂ is not consumed.",
+      "It is a reductive pentose phosphate cycle that fixes CO₂ into 3-carbon carbohydrates using ATP and NADPH.",
+      "Ribose-5-phosphate is the primary carboxylation substrate."
+    ],
+    "correct_answer": "It is a reductive pentose phosphate cycle that fixes CO₂ into 3-carbon carbohydrates using ATP and NADPH.",
+    "explanation": "[CONCEPT]\nStep 1: The Calvin-Benson cycle operates via carboxylation of RuBP, reduction of 3-PGA to GAP, and regeneration of RuBP."
+  },
+  {
+    "id": 129,
+    "question": "Administration of the antimalarial drug primaquine triggers severe acute hemolytic anemia in individuals with Glucose-6-Phosphate Dehydrogenase (G6PD) deficiency because it",
+    "options": [
+      "generates severe oxidative stress requiring NADPH from the pentose phosphate pathway to regenerate reduced glutathione (GSH) in red blood cells.",
+      "decreases NADPH demand.",
+      "inactivates catalase.",
+      "inhibits hemoglobin synthesis."
+    ],
+    "correct_answer": "generates severe oxidative stress requiring NADPH from the pentose phosphate pathway to regenerate reduced glutathione (GSH) in red blood cells.",
+    "explanation": "[CONCEPT]\nStep 1: Erythrocytes depend entirely on G6PD to produce NADPH for glutathione reductase; primaquine oxidation overwhelms antioxidant defense, causing Heinz bodies and hemolysis."
+  },
+  {
+    "id": 130,
+    "question": "In an enzyme reaction obeying Michaelis-Menten kinetics, the initial velocity is one-fourth of maximum velocity (V = V_max / 4) when the substrate concentration is 3.0 × 10⁻³ mM (3.0 μM). What is the K_M value in micromolar (μM)?",
+    "options": [
+      "0 μM",
+      "0 μM",
+      "9.0 μM (K_M = 3 [S] = 9.0 μM)",
+      "12.0 μM"
+    ],
+    "correct_answer": "9.0 μM (K_M = 3 [S] = 9.0 μM)",
+    "explanation": "[CONCEPT]\nStep 1: V_max / 4 = V_max[S] / (K_M + [S]) → K_M + [S] = 4[S] → K_M = 3[S].\nStep 2: K_M = 3 × (3.0 μM) = 9.0 μM."
+  },
+  {
+    "id": 131,
+    "question": "Match the enzymes in Column I with their essential cofactors in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Pyruvate decarboxylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Glyceraldehyde-3-phosphate dehydrogenase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pyruvate carboxylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Glucose-6-phosphate dehydrogenase\n\nColumn II:\n1. Biotin (Biocytin)\n2. NADP⁺\n3. NAD⁺\n4. Thiamine pyrophosphate (TPP)</span></div></div>",
+    "options": [
+      "P – 2; Q – 1; R – 1; S – 3",
+      "P – 4; Q – 3; R – 1; S – 2",
+      "P – 1; Q – 2; R – 3; S – 4",
+      "P – 3; Q – 1; R – 4; S – 2"
+    ],
+    "correct_answer": "P – 4; Q – 3; R – 1; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: Pyruvate decarboxylase = TPP (P–4).\nStep 2: GAPDH = NAD⁺ (Q–3).\nStep 3: Pyruvate carboxylase = Biotin (R–1).\nStep 4: G6PD = NADP⁺ (S–2)."
+  },
+  {
+    "id": 132,
+    "question": "When malonate (a classical competitive inhibitor) is added to an in vitro dehydrogenation of succinate catalyzed by succinate dehydrogenase, the Lineweaver-Burk double reciprocal plot displays",
+    "options": [
+      "a steeper slope with the same y-axis intercept (1/V_max unchanged) and x-intercept shifted closer to origin (−1/K_M,app increased).",
+      "parallel lines",
+      "lower y-intercept",
+      "vertical curve"
+    ],
+    "correct_answer": "a steeper slope with the same y-axis intercept (1/V_max unchanged) and x-intercept shifted closer to origin (−1/K_M,app increased).",
+    "explanation": "[CONCEPT]\nStep 1: Competitive inhibition maintains V_max (same 1/V_max intercept) while increasing K_M (steeper slope)."
+  },
+  {
+    "id": 133,
+    "question": "In a Michaelis-Menten substrate saturation curve (V vs [S]), what is the kinetic order of the reaction in the high substrate concentration plateau region (0.8–1.4 M where [S] >> K_M)?",
+    "options": [
+      "Zero-order (Rate is independent of [S], V ≈ V_max)",
+      "Fractional-order",
+      "First-order",
+      "Second-order"
+    ],
+    "correct_answer": "Zero-order (Rate is independent of [S], V ≈ V_max)",
+    "explanation": "[CONCEPT]\nStep 1: At saturating substrate concentrations, all active sites are occupied as [ES], and reaction rate is independent of [S] (zero-order)."
+  },
+  {
+    "id": 134,
+    "question": "According to the binding change mechanism of Boyer, the primary role of the proton flux through the F₀ rotor of ATP synthase during oxidative phosphorylation is to",
+    "options": [
+      "increase matrix pH.",
+      "drive conformational rotation of the γ-subunit to induce release (expulsion) of tightly bound synthesized ATP from the β-catalytic site.",
+      "import Pi.",
+      "reduce ADP affinity."
+    ],
+    "correct_answer": "drive conformational rotation of the γ-subunit to induce release (expulsion) of tightly bound synthesized ATP from the β-catalytic site.",
+    "explanation": "[CONCEPT]\nStep 1: ATP is synthesized spontaneously at the catalytic site; proton flow rotates the γ subunit, causing the β subunit to adopt the Open (O) conformation to release ATP."
+  },
+  {
+    "id": 135,
+    "question": "How many molecules of NADP⁺ are required to completely oxidize one molecule of glucose to six molecules of CO₂ through cyclic operation of the Pentose Phosphate Pathway?",
+    "options": [
+      "2",
+      "6",
+      "12 NADP⁺ (Glucose-6-P + 12 NADP⁺ + 7 H₂O → 6 CO₂ + 12 NADPH + 12 H⁺ + Pi)",
+      "24"
+    ],
+    "correct_answer": "12 NADP⁺ (Glucose-6-P + 12 NADP⁺ + 7 H₂O → 6 CO₂ + 12 NADPH + 12 H⁺ + Pi)",
+    "explanation": "[CONCEPT]\nStep 1: Complete oxidation of one 6-carbon hexose to 6 CO₂ requires 12 hydride transfers, consuming 12 NADP⁺ to form 12 NADPH."
+  },
+  {
+    "id": 136,
+    "question": "The enzymatic mechanism converting glyceraldehyde-3-phosphate into 1,3-bisphosphoglycerate catalyzed by GAPDH in glycolysis is driven by",
+    "options": [
+      "Oxidation without anhydride bond formation",
+      "Substrate oxidation coupled to thioester intermediate formation and subsequent phosphorolysis to form a high-energy mixed acyl-phosphate anhydride bond.",
+      "Direct ATP phosphorylation",
+      "Decarboxylation"
+    ],
+    "correct_answer": "Substrate oxidation coupled to thioester intermediate formation and subsequent phosphorolysis to form a high-energy mixed acyl-phosphate anhydride bond.",
+    "explanation": "[CONCEPT]\nStep 1: Oxidation of the aldehyde reduces NAD⁺ and forms a high-energy thioester with active-site Cys149, which is attacked by Pi to form 1,3-BPG."
+  },
+  {
+    "id": 137,
+    "question": "An enzyme obeys Michaelis-Menten kinetics. What fraction of the maximal velocity (V_max) is observed at substrate concentration [S] = 4 K_M?",
+    "options": [
+      "0.5",
+      "0.8 (V = 4/5 V_max = 0.8 V_max)",
+      "0.75",
+      "0.9"
+    ],
+    "correct_answer": "0.8 (V = 4/5 V_max = 0.8 V_max)",
+    "explanation": "[CONCEPT]\nStep 1: V / V_max = [S] / (K_M + [S]) = 4K_M / 5K_M = 0.8."
+  },
+  {
+    "id": 138,
+    "question": "Given the standard free energy changes:\n- Citrate ⇌ Acetate + Oxaloacetate (ΔG₁°′ = −670 cal mol⁻¹)\n- Acetyl-CoA + Oxaloacetate + H₂O ⇌ Citrate + CoA-SH (ΔG₂°′ = −8192 cal mol⁻¹)\n\nCalculate the standard free energy of hydrolysis of Acetyl-CoA (Acetyl-CoA + H₂O ⇌ Acetate + CoA-SH):",
+    "options": [
+      "−7,522 cal mol⁻¹",
+      "−8,862 cal mol⁻¹ (ΔG°′ = −670 + (−8192) = −8862 cal mol⁻¹)",
+      "+8,862 cal mol⁻¹",
+      "−9,532 cal mol⁻¹"
+    ],
+    "correct_answer": "−8,862 cal mol⁻¹ (ΔG°′ = −670 + (−8192) = −8862 cal mol⁻¹)",
+    "explanation": "[CONCEPT]\nStep 1: Adding the two reactions cancels Citrate and Oxaloacetate, yielding Acetyl-CoA + H₂O → Acetate + CoA.\nStep 2: Total ΔG°′ = −670 + (−8192) = −8862 cal mol⁻¹."
+  },
+  {
+    "id": 139,
+    "question": "The antioxidant enzyme catalase (2 H₂O₂ → 2 H₂O + O₂) is localized exclusively in which subcellular organelle?",
+    "options": [
+      "Lysosomes",
+      "Golgi apparatus",
+      "Peroxisomes",
+      "Mitochondrial matrix"
+    ],
+    "correct_answer": "Peroxisomes",
+    "explanation": "[CONCEPT]\nStep 1: Peroxisomes contain flavin oxidases that produce H₂O₂ and high concentrations of catalase to detoxify it."
+  },
+  {
+    "id": 140,
+    "question": "Which of the following glycolytic reactions is a substrate-level phosphorylation producing ATP?",
+    "options": [
+      "Glucose → Glucose-6-phosphate",
+      "Glyceraldehyde-3-phosphate → 1,3-bisphosphoglycerate",
+      "1,3-Bisphosphoglycerate + ADP → 3-Phosphoglycerate + ATP (catalyzed by Phosphoglycerate Kinase)",
+      "DHAP → GAP"
+    ],
+    "correct_answer": "1,3-Bisphosphoglycerate + ADP → 3-Phosphoglycerate + ATP (catalyzed by Phosphoglycerate Kinase)",
+    "explanation": "[CONCEPT]\nStep 1: Phosphoglycerate kinase transfers the 1-phosphate of 1,3-BPG to ADP, synthesizing ATP."
+  },
+  {
+    "id": 141,
+    "question": "Which of the following photosynthetic / light-sensitive pigments is not present in photosynthetic cyanobacteria?",
+    "options": [
+      "Rhodopsin (Visual / sensory pigment found in animal retina and haloarchaea, not cyanobacterial photosynthesis)",
+      "Phycobilin",
+      "Phycoerythrobilin",
+      "Phycocyanobilin"
+    ],
+    "correct_answer": "Rhodopsin (Visual / sensory pigment found in animal retina and haloarchaea, not cyanobacterial photosynthesis)",
+    "explanation": "[CONCEPT]\nStep 1: Cyanobacteria utilize phycobiliproteins (phycocyanin, phycoerythrin, allophycocyanin) and Chlorophyll a, not rhodopsin."
+  },
+  {
+    "id": 142,
+    "question": "Intravenous ethanol infusion is used to treat accidental methanol poisoning because ethanol competitively inhibits alcohol dehydrogenase, preventing conversion of methanol into toxic formaldehyde. This is a classic therapeutic application of",
+    "options": [
+      "Competitive inhibition",
+      "Non-competitive inhibition",
+      "Uncompetitive inhibition",
+      "Allosteric activation"
+    ],
+    "correct_answer": "Competitive inhibition",
+    "explanation": "[CONCEPT]\nStep 1: Ethanol has much higher affinity for alcohol dehydrogenase and competes with methanol for the active site, allowing methanol to be excreted safely."
+  },
+  {
+    "id": 143,
+    "question": "The physiological substrate from which Nitric Oxide Synthase (NOS) synthesizes nitric oxide (•NO) and L-citrulline is",
+    "options": [
+      "Glycine",
+      "Lysine",
+      "Histidine",
+      "L-Arginine"
+    ],
+    "correct_answer": "L-Arginine",
+    "explanation": "[CONCEPT]\nStep 1: NOS oxidizes the guanidino nitrogen of L-Arginine to produce nitric oxide."
+  },
+  {
+    "id": 144,
+    "question": "Which of the following enzymes is not involved in the mitochondrial β-oxidation of a straight-chain even-carbon saturated fatty acid?",
+    "options": [
+      "Δ³,Δ²-Enoyl-CoA isomerase",
+      "Propionyl-CoA carboxylase (involved exclusively in odd-chain fatty acid metabolism)",
+      "Acyl-CoA dehydrogenase",
+      "Enoyl-CoA hydratase"
+    ],
+    "correct_answer": "Propionyl-CoA carboxylase (involved exclusively in odd-chain fatty acid metabolism)",
+    "explanation": "[CONCEPT]\nStep 1: Propionyl-CoA carboxylase metabolizes the 3-carbon propionyl-CoA produced at the terminal cleavage of odd-chain fatty acids."
+  },
+  {
+    "id": 145,
+    "question": "Which of the following covalent chemical bonds is not present in the structure of Adenosine Triphosphate (ATP)?",
+    "options": [
+      "Phosphoester bond (between ribose 5′-OH and α-phosphate)",
+      "Phosphoanhydride bonds (between α-β and β-γ phosphates)",
+      "N-β-Glycosidic bond (between adenine N-9 and ribose C-1′)",
+      "α-Glycosidic bond (Absent in ATP)"
+    ],
+    "correct_answer": "α-Glycosidic bond (Absent in ATP)",
+    "explanation": "[CONCEPT]\nStep 1: ATP contains a β-N-glycosidic bond, one phosphoester bond, and two phosphoanhydride bonds (no α-glycosidic bond)."
+  },
+  {
+    "id": 146,
+    "question": "The direct enzymatic conversion of essential amino acid L-phenylalanine into L-tyrosine catalyzed by phenylalanine hydroxylase is a",
+    "options": [
+      "Hydroxylation reaction (requiring tetrahydrobiopterin, BH₄, and O₂)",
+      "Decarboxylation",
+      "Transamination",
+      "Reduction"
+    ],
+    "correct_answer": "Hydroxylation reaction (requiring tetrahydrobiopterin, BH₄, and O₂)",
+    "explanation": "[CONCEPT]\nStep 1: Phenylalanine hydroxylase adds a hydroxyl group to the para position of the phenyl ring: Phe + O₂ + BH₄ → Tyr + H₂O + BH₂."
+  },
+  {
+    "id": 147,
+    "question": "When one glucosyl unit derived from intracellular muscle glycogen breakdown (via glycogen phosphorylase) undergoes anaerobic glycolysis to 2 lactate, what is the net yield of ATP?",
+    "options": [
+      "2 ATP",
+      "3 ATP (Phosphorylation by Pi saves 1 ATP in the hexokinase step, yielding 4 ATP produced − 1 ATP invested = 3 ATP)",
+      "4 ATP",
+      "1 ATP"
+    ],
+    "correct_answer": "3 ATP (Phosphorylation by Pi saves 1 ATP in the hexokinase step, yielding 4 ATP produced − 1 ATP invested = 3 ATP)",
+    "explanation": "[CONCEPT]\nStep 1: Glycogen phosphorolysis yields Glucose-1-phosphate without ATP expenditure.\nStep 2: Conversion of G1P to 2 lactate consumes 1 ATP (PFK-1) and generates 4 ATP (PGK + PK), yielding net 3 ATP."
+  },
+  {
+    "id": 148,
+    "question": "Which prosthetic groups / cofactors in the mitochondrial electron transport chain are capable of accepting two electrons and two protons and transferring them as both 1-electron and 2-electron carriers?",
+    "options": [
+      "NAD⁺ and NADP⁺",
+      "NAD⁺ and FAD",
+      "Heme and FMN",
+      "Coenzyme Q (Ubiquinone) and FMN / FAD (Flavins, forming stable semiquinone radical intermediates)"
+    ],
+    "correct_answer": "Coenzyme Q (Ubiquinone) and FMN / FAD (Flavins, forming stable semiquinone radical intermediates)",
+    "explanation": "[CONCEPT]\nStep 1: Quinones (CoQ) and Flavins (FMN, FAD) form stable neutral or anionic semiquinone radical intermediates, bridging 2-electron donors (NADH) and 1-electron acceptors (Fe-S, Cytochromes)."
+  },
+  {
+    "id": 149,
+    "question": "An enzyme following Michaelis-Menten kinetics displays a reaction velocity V = 10 μmol min⁻¹ when the substrate concentration equals its K_M ([S] = K_M). What is the maximum velocity (V_max) of this enzyme in μmol min⁻¹?",
+    "options": [
+      "10 μmol min⁻¹",
+      "20 μmol min⁻¹ (Since V = V_max / 2 when [S] = K_M, V_max = 2 × 10 = 20)",
+      "40 μmol min⁻¹",
+      "5 μmol min⁻¹"
+    ],
+    "correct_answer": "20 μmol min⁻¹ (Since V = V_max / 2 when [S] = K_M, V_max = 2 × 10 = 20)",
+    "explanation": "[CONCEPT]\nStep 1: When [S] = K_M, V = V_max / 2.\nStep 2: V_max = 2 × V = 2 × 10 = 20 μmol min⁻¹."
+  },
+  {
+    "id": 150,
+    "question": "Glucose isomerase catalyzes the reversible isomerization: Glucose ⇌ Fructose with standard free energy ΔG°′ = 0 kcal mol⁻¹ (K_eq = 1.0). If glucose isomerase is added to a 0.12 M (120 mM) glucose solution and allowed to reach equilibrium, what is the final concentration of fructose in mM?",
+    "options": [
+      "30 mM",
+      "60 mM (At K_eq = 1.0, [Fructose] = [Glucose] = 120 mM / 2 = 60 mM)",
+      "90 mM",
+      "120 mM"
+    ],
+    "correct_answer": "60 mM (At K_eq = 1.0, [Fructose] = [Glucose] = 120 mM / 2 = 60 mM)",
+    "explanation": "[CONCEPT]\nStep 1: ΔG°′ = 0 → K_eq = 1.0.\nStep 2: [Fructose]_eq = [Glucose]_eq = 0.12 M / 2 = 0.06 M = 60 mM."
+  }
+]

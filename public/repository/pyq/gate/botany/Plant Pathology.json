@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Red rot of sugarcane is caused by",
+    "options": [
+      "Claviceps purpurea.",
+      "Cochliobolus miyabeanus.",
+      "Colletotrichum falcatum.",
+      "Cercospora personata."
+    ],
+    "correct_answer": "Colletotrichum falcatum.",
+    "explanation": "[CONCEPT]\nStep 1: Red rot of sugarcane is caused by the fungal pathogen Colletotrichum falcatum (Glomerella tucumanensis).\nStep 2: It causes reddening of the internal stalk tissues with white transverse patches."
+  },
+  {
+    "id": 2,
+    "question": "Koch’s postulates pertain to",
+    "options": [
+      "disease and causal organism.",
+      "bacterial metabolism.",
+      "viral replication.",
+      "fungal disease resistance."
+    ],
+    "correct_answer": "disease and causal organism.",
+    "explanation": "[CONCEPT]\nStep 1: Robert Koch formulated four criteria (Koch's postulates) to establish a causative relationship between a microbe and a specific disease.\nStep 2: They are the foundational rules in medical and plant pathology for identifying causal pathogens."
+  },
+  {
+    "id": 3,
+    "question": "Aflatoxins are toxic chemicals produced by",
+    "options": [
+      "Aspergillus flavus.",
+      "Alternaria alternata.",
+      "Fusarium oxysporum.",
+      "Clostridium tetani."
+    ],
+    "correct_answer": "Aspergillus flavus.",
+    "explanation": "[CONCEPT]\nStep 1: Aflatoxins are potent hepatotoxic and carcinogenic mycotoxins.\nStep 2: They are produced primarily by Aspergillus flavus and Aspergillus parasiticus on stored grains, peanuts, and maize."
+  },
+  {
+    "id": 4,
+    "question": "Late blight of potato is caused by",
+    "options": [
+      "Potato virus Y.",
+      "Alternaria solani.",
+      "Phytophthora infestans.",
+      "Phytophthora megasperma."
+    ],
+    "correct_answer": "Phytophthora infestans.",
+    "explanation": "[CONCEPT]\nStep 1: Late blight of potato is caused by the oomycete Phytophthora infestans.\nStep 2: It caused the catastrophic Irish Potato Famine in the 1840s."
+  },
+  {
+    "id": 5,
+    "question": "Which one of the following is an essential ingredient in bordeaux mixture?",
+    "options": [
+      "Mercuric chloride",
+      "Arsenic oxide",
+      "Lead nitrate",
+      "Copper sulfate"
+    ],
+    "correct_answer": "Copper sulfate",
+    "explanation": "[CONCEPT]\nStep 1: Bordeaux mixture is a classical broad-spectrum fungicide developed by Millardet (1885).\nStep 2: It is composed of copper sulfate (CuSO₄) and slaked lime (Ca(OH)₂) in water (typically in a 4:4:50 ratio)."
+  },
+  {
+    "id": 6,
+    "question": "Symbiotic association between fungi and roots of higher plants is known as",
+    "options": [
+      "mycorrhiza.",
+      "lichen.",
+      "coralloid roots.",
+      "epiphytic roots"
+    ],
+    "correct_answer": "mycorrhiza.",
+    "explanation": "[CONCEPT]\nStep 1: Mycorrhiza is a mutualistic symbiotic association between fungal hyphae and plant root systems.\nStep 2: The fungus enhances absorption of phosphorus, water, and minerals, while the plant provides carbohydrates."
+  },
+  {
+    "id": 7,
+    "question": "Ergot of rye is caused by",
+    "options": [
+      "Fusarium oxysporum.",
+      "Claviceps purpurea.",
+      "Aspergillus niger.",
+      "Alternaria solani."
+    ],
+    "correct_answer": "Claviceps purpurea.",
+    "explanation": "[CONCEPT]\nStep 1: Ergot of rye is caused by the ascomycete fungus Claviceps purpurea.\nStep 2: It replaces the grains with dark purple, toxic resting sclerotia containing ergot alkaloids."
+  },
+  {
+    "id": 8,
+    "question": "A form of disease reaction with complete resistance to some races and complete susceptibility to other races is termed as",
+    "options": [
+      "vertical resistance.",
+      "polygenic resistance.",
+      "horizontal resistance.",
+      "partial resistance."
+    ],
+    "correct_answer": "vertical resistance.",
+    "explanation": "[CONCEPT]\nStep 1: Vertical (race-specific / monogenic) resistance provides complete immunity against specific pathogen races but complete susceptibility to other virulent races.\nStep 2: Horizontal (race-non-specific / polygenic) resistance provides partial, durable protection against all races."
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct one from among the alternatives A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Early blight of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Panama disease of banana</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tikka disease of groundnut</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Club root disease of cabbage\n\nGroup II:\n1. Cercospora personata\n2. Alternaria solani\n3. Plasmodiophora brassicae\n4. Fusarium oxysporum\n5. Helminthosporium oryzae\n6. Macrophomina phaseolina</span></div></div>",
+    "options": [
+      "P–1; Q–3; R–2; S–4",
+      "P–2; Q–4; R–1; S–3",
+      "P–4; Q–2; R–5; S–6",
+      "P–6; Q–5; R–2; S–3"
+    ],
+    "correct_answer": "P–2; Q–4; R–1; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Early blight of potato is caused by Alternaria solani (P–2).\nStep 2: Panama disease of banana is caused by Fusarium oxysporum f. sp. cubense (Q–4).\nStep 3: Tikka disease of groundnut is caused by Cercospora personata (R–1).\nStep 4: Club root of cabbage is caused by Plasmodiophora brassicae (S–3)."
+  },
+  {
+    "id": 10,
+    "question": "Following are the symptoms of a disease in wheat:\n- Spikelets transformed into a mass of black or olive-green powdery spores.\n- Spores in young spikelets are covered by a delicate silvery membrane.\n- After liberation of spores, rachis of the spikelet is left behind as a naked stalk.\n\nIdentify the disease, which manifests these symptoms.",
+    "options": [
+      "Stem rust of wheat",
+      "Loose smut of wheat",
+      "Bunt of wheat",
+      "Ear rot of wheat"
+    ],
+    "correct_answer": "Loose smut of wheat",
+    "explanation": "[CONCEPT]\nStep 1: Loose smut of wheat (caused by Ustilago tritici) converts flower spikelets into dark black teliospore masses.\nStep 2: The delicate membrane ruptures during flowering, leaving a bare, naked rachis."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following pair of compounds involved in pathogenicity represents phytoalexin and toxin?",
+    "options": [
+      "Ipomeamarone and Rishitin",
+      "Piricularin and Victorin",
+      "Lycomarasmine and Pisatin",
+      "Medicarpin and Abrin"
+    ],
+    "correct_answer": "Piricularin and Victorin",
+    "explanation": "[CONCEPT]\nStep 1: Phytoalexins (e.g., Pisatin, Medicarpin, Rishitin) are antimicrobial secondary metabolites produced by plants in response to pathogen attack.\nStep 2: Victorin and Piricularin/Lycomarasmine are host-selective/phytopathogenic toxins produced by pathogens."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct one from among the alternatives A, B, C and D.\n\nGroup I (Pathogen):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Puccinia graminis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ustilago hordei</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Trichothecium roseum</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ustilago nuda\n\nGroup II (Infection site):\n1. Blossom infection\n2. Seedling infection\n3. Fruit infection\n4. Root infection\n5. Leaf infection\n6. Grain infection</span></div></div>",
+    "options": [
+      "P–5; Q–2; R–4; S–6",
+      "P–5; Q–2; R–3; S–1",
+      "P–6; Q–5; R–3; S–1",
+      "P–1; Q–2; R–3; S–4"
+    ],
+    "correct_answer": "P–5; Q–2; R–4; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Puccinia graminis causes aerial foliar/stem/leaf infection (P–5).\nStep 2: Ustilago hordei (covered smut) infects at the seedling stage (Q–2).\nStep 3: Trichothecium roseum infects plant roots / decaying matter (R–4).\nStep 4: Ustilago nuda causes loose smut in grains/spikelets (S–6)."
+  },
+  {
+    "id": 13,
+    "question": "Following are the symptoms of a disease in potato:\n- Small, isolated scattered, pale brown spots on the leaflets.\n- The lowest leaves are attacked first and the disease progresses upwards.\n- In the necrotic spots, concentric rings appear on the older leaves and darkened areas on the stem (target-board appearance).\n- There is usually a narrow chlorotic zone around the spots.\n\nIdentify the disease, which manifests these symptoms.",
+    "options": [
+      "Early blight of potato",
+      "Wart disease of potato",
+      "Brown rot of potato",
+      "Late blight of potato"
+    ],
+    "correct_answer": "Early blight of potato",
+    "explanation": "[CONCEPT]\nStep 1: Alternaria solani causes Early Blight of potato characterized by distinctive concentric rings (target-board or bullseye effect) on necrotic brown leaf spots.\nStep 2: Symptoms start on older lower leaves and progress upwards."
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct one from among the alternatives A, B, C and D.\n\nGroup I (Plant disease):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Bunt of rice</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Stem rot of jute</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Ergot of rye</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ring rot of potato\n\nGroup II (Causal organism):\n1. Macrophomina phaseolina\n2. Cercospora personata\n3. Tilletia barclayana\n4. Xanthomonas oryzicola\n5. Claviceps purpurea\n6. Corynebacterium sepedonicum</span></div></div>",
+    "options": [
+      "P–1; Q–4; R–4; S–3",
+      "P–3; Q–4; R–5; S–6",
+      "P–2; Q–5; R–3; S–5",
+      "P–4; Q–3; R–2; S–1"
+    ],
+    "correct_answer": "P–3; Q–4; R–5; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Bunt / kernel smut of rice is caused by Tilletia barclayana (P–3).\nStep 2: Stem rot of jute can be caused by Xanthomonas oryzicola / Macrophomina (Q–4).\nStep 3: Ergot of rye is caused by Claviceps purpurea (R–5).\nStep 4: Ring rot of potato is caused by Corynebacterium (Clavibacter) sepedonicum (S–6)."
+  },
+  {
+    "id": 15,
+    "question": "Penicillin functions as antibiotic mainly by inhibiting the ability of some bacteria to",
+    "options": [
+      "form spores.",
+      "replicate DNA.",
+      "synthesize normal cell wall.",
+      "produce functional ribosome."
+    ],
+    "correct_answer": "synthesize normal cell wall.",
+    "explanation": "[CONCEPT]\nStep 1: Penicillin acts as a β-lactam antibiotic that binds to penicillin-binding proteins (PBPs).\nStep 2: It inhibits the transpeptidase cross-linking of bacterial peptidoglycan cell walls, causing osmotic lysis."
+  },
+  {
+    "id": 16,
+    "question": "Choose the correct one among the alternatives A, B, C and D.\n\nGroup I (Plant disease):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Nigrospora disease of rice</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Loose smut of wheat</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Ring spot of sugarcane</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Leaf blotch of wheat\n\nGroup II (Causal organism):\n1. Ustilago nuda\n2. Cercospora concors\n3. Septoria tritici\n4. Pyricularia oryzae\n5. Leptosphaeria sacchari\n6. Nigrospora oryzae</span></div></div>",
+    "options": [
+      "P–6; Q–1; R–3; S–2",
+      "P–6; Q–1; R–4; S–3",
+      "P–6; Q–1; R–5; S–3",
+      "P–6; Q–4; R–3; S–2"
+    ],
+    "correct_answer": "P–6; Q–1; R–5; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Nigrospora disease of rice is caused by Nigrospora oryzae (P–6).\nStep 2: Loose smut of wheat is caused by Ustilago nuda / U. tritici (Q–1).\nStep 3: Ring spot of sugarcane is caused by Leptosphaeria sacchari (R–5).\nStep 4: Leaf blotch (Septoria blotch) of wheat is caused by Septoria tritici (S–3)."
+  },
+  {
+    "id": 17,
+    "question": "Choose the correct one among the alternatives A, B, C and D.\n\nGroup I (Fungal/Bacterial toxin):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tabtoxin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Phaseolotoxin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tentotoxin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>HV-toxin\n\nGroup II (Causal disease):\n1. Canker\n2. Leaf blight\n3. Chlorosis\n4. Halo blight\n5. Wildfire\n6. Wheat rust</span></div></div>",
+    "options": [
+      "P–1; Q–2; R–3; S–6",
+      "P–5; Q–4; R–3; S–2",
+      "P–2; Q–4; R–6; S–3",
+      "P–4; Q–5; R–6; S–1"
+    ],
+    "correct_answer": "P–5; Q–4; R–3; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Tabtoxin (from Pseudomonas syringae pv. tabaci) causes wildfire disease of tobacco (P–5).\nStep 2: Phaseolotoxin (from Pseudomonas syringae pv. phaseolicola) causes halo blight of bean (Q–4).\nStep 3: Tentotoxin (from Alternaria alternata) inhibits chloroplast coupling factor causing chlorosis (R–3).\nStep 4: HV-toxin / Victorin (from Helminthosporium victoriae) causes Victoria leaf blight of oat (S–2)."
+  },
+  {
+    "id": 18,
+    "question": "Identify the wheat disease based on the following given symptoms:\n- The disease appears when the ears emerge in plants.\n- Diseased ears emerge out of the boot leaf a little earlier than the healthy ones.\n- Black powdery mass of spores replaces the flowers.\n- The growth of the plant and its general appearance is not affected.",
+    "options": [
+      "Loose smut of wheat",
+      "Flag smut of wheat",
+      "Black rust of wheat",
+      "Powdery mildew of wheat"
+    ],
+    "correct_answer": "Loose smut of wheat",
+    "explanation": "[CONCEPT]\nStep 1: Loose smut of wheat (caused by Ustilago tritici) displays infected floral heads emerging earlier from the boot leaf.\nStep 2: Flowers are completely replaced by olive-black teliospores."
+  },
+  {
+    "id": 19,
+    "question": "Choose the correct one among the alternatives A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Late blight of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Early blight of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Black scurf of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Wart disease of potato\n\nGroup II:\n1. Synchytrium endobioticum\n2. Rhizoctonia solani\n3. Alternaria solani\n4. Phytophthora colocasiae\n5. Phytophthora arecaeceae\n6. Phytophthora infestans</span></div></div>",
+    "options": [
+      "P−6; Q−3; R−2; S−1",
+      "P−6; Q−3; R−1; S−2",
+      "P−5; Q−3; R−2; S−1",
+      "P−4; Q−3; R−2; S−1"
+    ],
+    "correct_answer": "P−6; Q−3; R−2; S−1",
+    "explanation": "[CONCEPT]\nStep 1: Late blight of potato is caused by Phytophthora infestans (P–6).\nStep 2: Early blight of potato is caused by Alternaria solani (Q–3).\nStep 3: Black scurf of potato is caused by Rhizoctonia solani (R–2).\nStep 4: Wart disease of potato is caused by Synchytrium endobioticum (S–1)."
+  },
+  {
+    "id": 20,
+    "question": "Choose the correct one among the alternatives A, B, C and D.\n\nGroup I (Virus):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tobacco leaf curl bigeminivirus</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cauliflower mosaic caulimovirus</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Rice tungro bacilliform badnavirus</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Wheat yellow leaf closterovirus\n\nGroup II (Vector):\n1. Culex tarsalis\n2. Rhopalosiphum maidis\n3. Bemisia tabaci\n4. Periplaneta americana\n5. Nephotettix sp.\n6. Brevicoryne brassicae</span></div></div>",
+    "options": [
+      "P−2; Q−3; R−6; S−4",
+      "P−3; Q−6; R−5; S−2",
+      "P−3; Q−4; R−6; S−5",
+      "P−2; Q−4; R−5; S−6"
+    ],
+    "correct_answer": "P−3; Q−6; R−5; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Tobacco leaf curl virus is transmitted by whitefly Bemisia tabaci (P–3).\nStep 2: Cauliflower mosaic virus is transmitted by aphids like Brevicoryne brassicae (Q–6).\nStep 3: Rice tungro virus is transmitted by green leafhopper Nephotettix virescens (R–5).\nStep 4: Wheat yellow leaf virus is transmitted by aphid Rhopalosiphum maidis (S–2)."
+  },
+  {
+    "id": 21,
+    "question": "Identify which of the following statements are incorrect?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Rhizoctonia solani causes seedling blight of wheat.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Gibberella zeae causes root rot of wheat.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Phytophthora infestans causes late blight of potato.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tilletia caries causes bunt of wheat.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "P, S",
+      "Q, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Rhizoctonia solani causes damping off and root/stem rot, while Gibberella zeae causes Fusarium head blight / scab.\nStep 2: Phytophthora infestans causes late blight of potato and Tilletia caries causes stinking smut/bunt of wheat (R and S are correct; P and Q are incorrect)."
+  },
+  {
+    "id": 22,
+    "question": "Match the name of the disease with the causal organism:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>False smut of rice</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ring rot of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Red rot of sugarcane</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Downy mildew of grape\n\nCausal organism:\n1. Plasmopara viticola\n2. Colletotrichum falcatum\n3. Corynebacterium sepedonicum\n4. Ustilaginoidea virens\n5. Erwinia amylovora\n6. Synchytrium endobioticum</span></div></div>",
+    "options": [
+      "P–1; Q–5; R–2; S–4",
+      "P–4; Q–3; R–2; S–1",
+      "P–6; Q–2; R–4; S–1",
+      "P–5; Q–3; R–2; S–4"
+    ],
+    "correct_answer": "P–4; Q–3; R–2; S–1",
+    "explanation": "[CONCEPT]\nStep 1: False smut of rice is caused by Ustilaginoidea virens (P–4).\nStep 2: Ring rot of potato is caused by Corynebacterium sepedonicum (Q–3).\nStep 3: Red rot of sugarcane is caused by Colletotrichum falcatum (R–2).\nStep 4: Downy mildew of grape is caused by Plasmopara viticola (S–1)."
+  },
+  {
+    "id": 23,
+    "question": "Match the name of the disease with the causal organism:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Black rot of sugarcane</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Stem rot of jute</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tikka disease of groundnut</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Crown gall of grapes\n\nCausal organism:\n1. Cercospora personata\n2. Macrophomina phaseolina\n3. Ceratocystis adiposa\n4. Synchytrium endobioticum\n5. Agrobacterium tumefaciens (A. vitis)\n6. Colletotrichum corchorum</span></div></div>",
+    "options": [
+      "P–1; Q–3; R–6; S–5",
+      "P–2; Q–3; R–1; S–5",
+      "P–3; Q–2; R–1; S–5",
+      "P–2; Q–6; R–3; S–4"
+    ],
+    "correct_answer": "P–3; Q–2; R–1; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Black rot of sugarcane is caused by Ceratocystis adiposa (P–3).\nStep 2: Stem rot of jute is caused by Macrophomina phaseolina (Q–2).\nStep 3: Tikka disease of groundnut is caused by Cercospora personata (R–1).\nStep 4: Crown gall of grape is caused by Agrobacterium vitis (A. tumefaciens) (S–5)."
+  },
+  {
+    "id": 24,
+    "question": "Transmission Electron Micrograph (TEM) of a fungal cell can usually be distinguished from a plant cell due to lack of P and having less abundant Q. Find the correct combination of P and Q.",
+    "options": [
+      "P−Plastid; Q−Vacuoles",
+      "P−Plastid; Q−Mitochondria",
+      "P−Plastid; Q−Endoplasmic reticulum",
+      "P−Mitochondria; Q−Plastid"
+    ],
+    "correct_answer": "P−Plastid; Q−Vacuoles",
+    "explanation": "[CONCEPT]\nStep 1: Fungal cells are heterotrophic and completely lack plastids / chloroplasts (P = Plastid).\nStep 2: Fungi also typically have smaller, less dominant vacuoles compared to large central plant vacuoles (Q = Vacuoles)."
+  },
+  {
+    "id": 25,
+    "question": "Match the name of the diseases with their causal organisms:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Loose smut of wheat</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Wart disease of potato</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Panama disease of banana</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tikka disease of groundnut\n\nCausal Organism:\n1. Cercospora personata\n2. Alternaria solani\n3. Synchytrium endobioticum\n4. Ustilago tritici\n5. Fusarium oxysporum f. sp. cubense\n6. Erwinia amylovora</span></div></div>",
+    "options": [
+      "P−6; Q−4; R−3; S−2",
+      "P−4; Q−6; R−1; S−3",
+      "P−4; Q−3; R−5; S−1",
+      "P−2; Q−3; R−2; S−6"
+    ],
+    "correct_answer": "P−4; Q−3; R−5; S−1",
+    "explanation": "[CONCEPT]\nStep 1: Loose smut of wheat is caused by Ustilago tritici (P–4).\nStep 2: Wart disease of potato is caused by Synchytrium endobioticum (Q–3).\nStep 3: Panama disease of banana is caused by Fusarium oxysporum f. sp. cubense (R–5).\nStep 4: Tikka disease of groundnut is caused by Cercospora personata (S–1)."
+  },
+  {
+    "id": 26,
+    "question": "When a plant is infected by a pathogen at one site, the distal parts of the plant and neighboring plants develop increased resistance to subsequent pathogen attack. Which of the following molecules mediates this long-distance signal?",
+    "options": [
+      "Nitric oxide",
+      "Ethylene",
+      "Jasmonic acid and its derivatives",
+      "Salicylic acid and its derivatives"
+    ],
+    "correct_answer": "Salicylic acid and its derivatives",
+    "explanation": "[CONCEPT]\nStep 1: Systemic Acquired Resistance (SAR) provides whole-plant systemic defense following localized pathogen attack.\nStep 2: Salicylic acid (SA) and its volatile derivative methyl salicylate (MeSA) act as the mobile long-distance signaling molecules for SAR."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following fungi is an example of obligate biotrophic plant pathogen?",
+    "options": [
+      "Alternaria brassicicola",
+      "Botrytis cinerea",
+      "Puccinia triticina",
+      "Sclerotinia sclerotiorum"
+    ],
+    "correct_answer": "Puccinia triticina",
+    "explanation": "[CONCEPT]\nStep 1: Obligate biotrophs can only survive and reproduce on living host tissues and form specialized haustoria.\nStep 2: Rust fungi such as Puccinia triticina (wheat leaf rust) and powdery mildews are obligate biotrophs, whereas Botrytis and Sclerotinia are necrotrophs."
+  },
+  {
+    "id": 28,
+    "question": "Match the pathogen, disease and the affected plant in the correct combination:\n\nPathogen:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Blumeria graminis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Magnaporthe grisea</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Venturia inaequalis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cercospora personata\n\nDisease:\ni. Blast disease\nii. Powdery mildew\niii. Tikka disease\niv. Scab disease\n\nPlant:\n1. Groundnut\n2. Apple\n3. Barley\n4. Rice</span></div></div>",
+    "options": [
+      "P−i−1; Q–ii−2; R−iii−3; S−iv−4",
+      "P−i−2; Q−ii−1; R−iii−4; S−iv−3",
+      "P−ii−3; Q−i−4; R−iv−2; S−iii−1",
+      "P−ii−3; Q−i−4; R−iii−2; S−iv−1"
+    ],
+    "correct_answer": "P−ii−3; Q−i−4; R−iv−2; S−iii−1",
+    "explanation": "[CONCEPT]\nStep 1: Blumeria graminis causes Powdery mildew on Barley (P–ii–3).\nStep 2: Magnaporthe grisea causes Blast disease on Rice (Q–i–4).\nStep 3: Venturia inaequalis causes Apple Scab (R–iv–2).\nStep 4: Cercospora personata causes Tikka disease on Groundnut (S–iii–1)."
+  },
+  {
+    "id": 29,
+    "question": "Select the correct combination by matching the disease, affected plant and the causal organism:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Black rot</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Loose smut</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Panama wilt</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Bacterial fruit blotch\n\nAffected plant:\n1. Corn\n2. Banana\n3. Watermelon\n4. Apple\n\nCausal organism:\ni. Fusarium oxysporum f.sp. cubense\nii. Acidovorax avenae subsp. citrulli\niii. Botryosphaeria obtusa\niv. Ustilago maydis\nv. Plasmopara viticola\nvi. Venturia inaequalis</span></div></div>",
+    "options": [
+      "P−2−v; Q−1−iv; R−3−iii; S−4−vi",
+      "P−2−ii; Q−1−i; R−4−iii; S−3−i",
+      "P−4−iii; Q−1−iv; R−2−i; S−3−ii",
+      "P−4−vi; Q−1−iii; R−3−ii; S−2−v"
+    ],
+    "correct_answer": "P−4−iii; Q−1−iv; R−2−i; S−3−ii",
+    "explanation": "[CONCEPT]\nStep 1: Black rot of Apple is caused by Botryosphaeria obtusa (P–4–iii).\nStep 2: Loose smut of Corn (maize) is caused by Ustilago maydis (Q–1–iv).\nStep 3: Panama wilt of Banana is caused by Fusarium oxysporum f. sp. cubense (R–2–i).\nStep 4: Bacterial fruit blotch of Watermelon is caused by Acidovorax avenae subsp. citrulli (S–3–ii)."
+  },
+  {
+    "id": 30,
+    "question": "Identify the correct combination of statements with respect to chemical defense in plants:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Pisatin, a phytoalexin produced by Ricinus communis is a constitutive defense compound.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Phaseolus vulgaris produces Phaseolus agglutinin I, which is toxic to the cowpea weevil.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>A single step non-enzymatic hydrolysis of cyanogenic glycoside releases the toxic hydrocyanic acid (HCN) to protect plant against herbivores and pathogens.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Avenacin, a triterpenoid saponin from oat prevents infection by Gaeumannomyces graminis, a major pathogen of cereal roots.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, S",
+      "R, S",
+      "P, S"
+    ],
+    "correct_answer": "Q, S",
+    "explanation": "[CONCEPT]\nStep 1: Phaseolus vulgaris produces PHA/arcelin which confers toxicity against bean bruchids (Q is correct).\nStep 2: Avenacin is an antimicrobial triterpenoid saponin in oat roots that protects against take-all fungus (Gaeumannomyces graminis) (S is correct).\nStep 3: Pisatin is an inducible phytoalexin in Pisum sativum (not Ricinus); cyanogenic glycoside hydrolysis requires two enzymatic steps (β-glucosidase and hydroxynitrile lyase)."
+  },
+  {
+    "id": 31,
+    "question": "Match the disease with causative organism and affected crop:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Powdery mildew</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>White rust</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Downy mildew</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Late blight\n\nCausative organism:\n1. Albugo candida\n2. Phytophthora infestans\n3. Erysiphe orontii\n4. Peronosclerospora philippinensis\n\nCrop:\ni. Corn\nii. Tomato\niii. Potato\niv. Mustard</span></div></div>",
+    "options": [
+      "P−3−i; Q−1−iv; R−2−iii; S−4−ii",
+      "P−3−ii; Q−1−iv; R−4−i; S−2−iii",
+      "P−4−ii; Q−1−i; R−3−iv; S−2−iii",
+      "P−2−iii; Q−3−ii; R−1−iv; S−4−i"
+    ],
+    "correct_answer": "P−3−ii; Q−1−iv; R−4−i; S−2−iii",
+    "explanation": "[CONCEPT]\nStep 1: Powdery mildew of Tomato is caused by Erysiphe orontii (P–3–ii).\nStep 2: White rust of Mustard is caused by Albugo candida (Q–1–iv).\nStep 3: Downy mildew of Corn is caused by Peronosclerospora philippinensis (R–4–i).\nStep 4: Late blight of Potato is caused by Phytophthora infestans (S–2–iii)."
+  },
+  {
+    "id": 32,
+    "question": "Among the following, which best describes an organism that lives at the expense of other organisms, harmful but usually not killing?",
+    "options": [
+      "Predator",
+      "Symbiotic",
+      "Prey",
+      "Parasite"
+    ],
+    "correct_answer": "Parasite",
+    "explanation": "[CONCEPT]\nStep 1: A parasite is an organism that lives on or in a host organism and gets its food from or at the expense of its host, harming but typically not immediately killing it.\nStep 2: A predator kills and consumes its prey."
+  },
+  {
+    "id": 33,
+    "question": "‘Bakanae’ disease or ‘foolish seedling’ disease is caused by",
+    "options": [
+      "Fungus.",
+      "Bacterium.",
+      "Virus.",
+      "Mycoplasma."
+    ],
+    "correct_answer": "Fungus.",
+    "explanation": "[CONCEPT]\nStep 1: Bakanae (foolish seedling) disease in rice is caused by the ascomycete fungus Gibberella fujikuroi (Fusarium fujikuroi).\nStep 2: E. Kurosawa discovered gibberellins from the secretions of this fungus, which caused extreme stem elongation in infected rice seedlings."
+  },
+  {
+    "id": 34,
+    "question": "Select the correct combination by matching the disease, causal organism and the affected plant:\n\nDisease:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Stem rust</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Wart disease</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tikka/leaf spot</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Downy mildew\n\nCausal organism:\ni. Cercospora personata\nii. Plasmopara viticola\niii. Synchytrium endobioticum\niv. Puccinia graminis\n\nAffected plant:\n1. Wheat\n2. Groundnut\n3. Potato\n4. Grape\n5. Apple\n6. Rice</span></div></div>",
+    "options": [
+      "P–iv–1; Q–iii–3; R–i–2; S–ii–4",
+      "P–ii–1; Q–i–6; R–iv–4; S–iii–2",
+      "P–iii–1; Q–iv–3; R–i–5; S–ii–4",
+      "P–iv–1; Q–ii–3; R–iii–2; S–i–5"
+    ],
+    "correct_answer": "P–iv–1; Q–iii–3; R–i–2; S–ii–4",
+    "explanation": "[CONCEPT]\nStep 1: Stem rust of Wheat is caused by Puccinia graminis (P–iv–1).\nStep 2: Wart disease of Potato is caused by Synchytrium endobioticum (Q–iii–3).\nStep 3: Tikka leaf spot of Groundnut is caused by Cercospora personata (R–i–2).\nStep 4: Downy mildew of Grape is caused by Plasmopara viticola (S–ii–4)."
+  }
+]

@@ -4,7 +4,7 @@ import { DailyMiniQuiz, WeeklyRevision, FullMockTest, UnitMockTest } from "@/com
 import { ALL_UNITS } from "@/lib/questions";
 import Link from "next/link";
 import { useAuth } from "@/lib/AuthContext";
-import { ArrowRight, Lock, PlayCircle } from "lucide-react";
+import { ArrowRight, Lock, PlayCircle, Download } from "lucide-react";
 import { useEffect, useState } from "react";
 import { getAllTestProgress, getCompletedUserTests, TestProgress, TestAttempt } from "@/lib/testEngine";
 
@@ -62,6 +62,55 @@ export default function Home() {
           }
         </p>
       </div>
+
+      {/* Android App Promotion Banner */}
+      <section className="px-2">
+        <div className="relative overflow-hidden bg-gradient-to-r from-teal-500/10 via-slate-900/5 to-blue-500/10 dark:from-teal-900/30 dark:via-slate-900/40 dark:to-blue-950/30 border border-teal-500/30 hover:border-teal-500/50 rounded-3xl p-6 md:p-8 backdrop-blur-md shadow-xl flex flex-col md:flex-row items-center justify-between gap-6 group transition-all">
+          <div className="flex items-center space-x-5">
+            <div className="w-16 h-16 md:w-20 md:h-20 rounded-2xl bg-gradient-to-tr from-teal-400 to-blue-500 flex items-center justify-center text-slate-950 flex-shrink-0 shadow-lg shadow-teal-500/25 group-hover:scale-105 transition-transform p-3.5">
+              <svg className="w-full h-full fill-current" viewBox="0 0 24 24">
+                <path d="M17.523 15.3414c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.551 0 .9993.4482.9993.9993s-.4483.9997-.9993.9997m-11.046 0c-.5511 0-.9993-.4486-.9993-.9997s.4482-.9993.9993-.9993c.5511 0 .9993.4482.9993.9993s-.4482.9997-.9993.9997m11.4045-6.02l1.9973-3.4592a.416.416 0 00-.1521-.5676.416.416 0 00-.5676.1521l-2.0223 3.503C15.5847 8.351 13.847 8 12 8s-3.5847.351-5.1373.9507L4.8404 5.4477a.416.416 0 00-.5676-.1521.416.416 0 00-.1521.5676l1.9973 3.4592C2.6889 11.1867.3333 14.8872.3333 19.1667h23.3334c0-4.2795-2.3556-7.98-5.7867-9.8453"/>
+              </svg>
+            </div>
+            <div>
+              <div className="flex items-center space-x-2 mb-1">
+                <span className="text-[10px] uppercase font-black px-2 py-0.5 rounded-full bg-teal-500/20 text-teal-600 dark:text-teal-400 border border-teal-500/30">
+                  Android App • v1.0
+                </span>
+                <span className="text-xs font-bold text-slate-500 dark:text-slate-400">8.7 MB (APK)</span>
+              </div>
+              <h2 className="text-xl md:text-2xl font-black text-slate-900 dark:text-slate-100 tracking-tight">
+                Practice Anywhere with Android App
+              </h2>
+              <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 font-medium mt-1 max-w-md">
+                Fast mobile test runner, offline practice mode, and full CSIR NET Life Sciences prep right on your phone.
+              </p>
+            </div>
+          </div>
+
+          <div className="flex items-center space-x-3 w-full md:w-auto">
+            <a
+              href="/lifesci-prep.apk"
+              download="lifesci-prep.apk"
+              className="flex-1 md:flex-initial py-3.5 px-6 bg-gradient-to-r from-teal-500 to-blue-600 hover:from-teal-600 hover:to-blue-700 text-white font-black text-sm uppercase tracking-wider rounded-2xl shadow-lg shadow-teal-500/20 flex items-center justify-center space-x-2 group-hover:scale-105 active:scale-95 transition-all"
+            >
+              <Download className="w-4 h-4" />
+              <span>Download APK</span>
+            </a>
+            <button
+              onClick={() => {
+                if (typeof window !== "undefined") {
+                  window.dispatchEvent(new CustomEvent("open-apk-modal", { detail: { showGuide: true } }));
+                }
+              }}
+              className="py-3.5 px-4 bg-bg-card hover:bg-bg-main border border-border-subtle rounded-2xl text-text-primary text-xs font-bold uppercase tracking-wider transition-all"
+              title="Installation Guide & Details"
+            >
+              Guide
+            </button>
+          </div>
+        </div>
+      </section>
       
       {/* Ongoing Tests */}
       {!isGuest && ongoingTests.length > 0 && (

@@ -15,7 +15,7 @@
   {
     "id": 2,
     "section": "A",
-    "question": "Every element in the central column of the matrix has a simple arithmetic relationship with the pairs\non the left and right in the corresponding row.\nThe numbers in the middle column has the following relation:\n(difference between the elements on the left) + (difference between the elements on the right)\nFor ex- 1st row: (17-12) + (19-23) = 1\nTherefore, 2nd row: (23-21) + (18-20) = 0\n1. 2 2. 1\n3. 0 4. -1\nWhat would be the value of X?",
+    "question": "Every element in the central column of the matrix has a simple arithmetic relationship with the pairs\non the left and right in the corresponding row.\nThe numbers in the middle column has the following relation:\n(difference between the elements on the left) + (difference between the elements on the right)\nFor ex- 1st row: (17-12) + (19-23) = 1\nTherefore, 2nd row: (23-21) + (18-20) = 0\n1. 2\n2. 1\n3. 0\n4. -1\nWhat would be the value of X?",
     "options": [
       "A",
       "B",
@@ -93,7 +93,7 @@
   {
     "id": 8,
     "section": "A",
-    "question": "Suppose liars always lie and truthful persons never. In a group of 4 people A, B, C and D, A says, \"We're\nall liars\", B says, \"Only one of us is a liar\", C says, \"No, exactly two of us are liars\" and D says, \"I'm\ntruthful\". Which among the following is definitely FALSE?\nTo solve this problem, we need to analyse each person's statement\nA says, \"We're all liars.\"\nIf A is telling the truth, then all four people are liars, which creates a contradiction because a liar cannot tell the truth. Hence,\nA must be lying.\nB says, \"Only one of us is a liar.\"\nIf B is telling the truth, then there is only one liar in the group. If B is truthful, then B would be correct, and A would be the\nonly liar. But if A is a liar and B is truthful, this contradicts C ’sstatement that two person are liars. Thus, B must be lying.\nC says, \"No, exactly two of us are liars.\"\nIf C is telling the truth, then there are exactly two liars. If A and B are liars then C ’sstatement is consistent with this scenario,\nmeaning C could be telling the truth.\nD says, \"I'm truthful.\"\nIf D were truthful, then B's statement would be false, which we have identified. However, if D is lying, then D cannot be\ntruthful, creating a contradiction with C. Therefore, D is truthful.\n1. A is a liar 2. B is a liar\n3. C is a liar 4. D is a liar",
+    "question": "Suppose liars always lie and truthful persons never. In a group of 4 people A, B, C and D, A says, \"We're\nall liars\", B says, \"Only one of us is a liar\", C says, \"No, exactly two of us are liars\" and D says, \"I'm\ntruthful\". Which among the following is definitely FALSE?\nTo solve this problem, we need to analyse each person's statement\nA says, \"We're all liars.\"\nIf A is telling the truth, then all four people are liars, which creates a contradiction because a liar cannot tell the truth. Hence,\nA must be lying.\nB says, \"Only one of us is a liar.\"\nIf B is telling the truth, then there is only one liar in the group. If B is truthful, then B would be correct, and A would be the\nonly liar. But if A is a liar and B is truthful, this contradicts C ’sstatement that two person are liars. Thus, B must be lying.\nC says, \"No, exactly two of us are liars.\"\nIf C is telling the truth, then there are exactly two liars. If A and B are liars then C ’sstatement is consistent with this scenario,\nmeaning C could be telling the truth.\nD says, \"I'm truthful.\"\nIf D were truthful, then B's statement would be false, which we have identified. However, if D is lying, then D cannot be\ntruthful, creating a contradiction with C. Therefore, D is truthful.\n1. A is a liar\n2. B is a liar\n3. C is a liar\n4. D is a liar",
     "options": [
       "A",
       "B",
@@ -652,7 +652,7 @@
   {
     "id": 51,
     "section": "B",
-    "question": "Given below are Ramachandran plots for four different proteins.\nSource: Fundamental and Practice, Life Sciences - 1\nChoose the correct pair of proteins, both of which are predominantly alpha helical in nature.\n1. A and B 2. A and C\n3. B and D 4. C and D",
+    "question": "Given below are Ramachandran plots for four different proteins.\nSource: Fundamental and Practice, Life Sciences - 1\nChoose the correct pair of proteins, both of which are predominantly alpha helical in nature.\n1. A and B\n2. A and C\n3. B and D\n4. C and D",
     "options": [
       "A",
       "B",
@@ -743,7 +743,7 @@
   {
     "id": 58,
     "section": "B",
-    "question": "The following are sketches of wild-type and mutant (I - Ill) embryos of Drosophila melanogaster.\nThe gurken gene plays a crucial role in the development of the Drosophila (fruit fly) embryo, particularly in\nestablishing the anterior-posterior and dorsal-ventral axes.\nWhich one of the following options represents a correct match between the gene and its loss of\nfunction phenotype?\n1. dorsal: I 2. torpedo: Ill\n3. gurken: III 4. cactus: Ill",
+    "question": "The following are sketches of wild-type and mutant (I - Ill) embryos of Drosophila melanogaster.\nThe gurken gene plays a crucial role in the development of the Drosophila (fruit fly) embryo, particularly in\nestablishing the anterior-posterior and dorsal-ventral axes.\nWhich one of the following options represents a correct match between the gene and its loss of\nfunction phenotype?\n1. dorsal: I\n2. torpedo: Ill\n3. gurken: III\n4. cactus: Ill",
     "options": [
       "A",
       "B",
@@ -901,12 +901,12 @@
     "section": "B",
     "question": "Which one of the following pairs correctly matches the enzyme with its allosteric activator?",
     "options": [
-      "(a) Phosphofructokinase : Citrate",
-      "(b) Pyruvate dehydrogenase : NADH",
-      "(c) Pyruvate carboxylase : ADP",
-      "(d) Pyruvate kinase : Fructose 1,6-bisphosphate"
+      "Phosphofructokinase : Citrate",
+      "Pyruvate dehydrogenase : NADH",
+      "Pyruvate carboxylase : ADP",
+      "Pyruvate kinase : Fructose 1,6-bisphosphate"
     ],
-    "correct_answer": "(d) Pyruvate kinase : Fructose 1,6-bisphosphate",
+    "correct_answer": "Pyruvate kinase : Fructose 1,6-bisphosphate",
     "explanation": "[CONCEPT]\nSource: Fundamental and Practice, Life Sciences - 1",
     "type": "match_following_mcq",
     "list_1": [],
@@ -931,7 +931,7 @@
     "question": "Cystic fibrosis is caused by a recessive allele. Roughly one out of every 500 individuals (0.20%) have\nthis disease. Using the Hardy-Weinberg equation, the percentage of individuals who are carriers of\nthe recessive allele for the disease is",
     "options": [
       "10.2",
-      "1.0",
+      "0",
       "15.2",
       "7.6"
     ],
@@ -1206,7 +1206,7 @@
     "section": "C",
     "question": "Some features mentioned below are important for the segregation of homologous chromosomes in meiosis",
     "options": [
-      "A. Synaptonemal complex formation between homologous chromosomes.\nB. Degradation of cohesins at the chromosome arms.\nC. Retention of cohesins at the centromeres.\nD. Bi-orientation of kinetochores of sister chromatids.\nWhich one of the following options has all correct features?\n1. A and B only",
+      "Synaptonemal complex formation between homologous chromosomes.\nB. Degradation of cohesins at the chromosome arms.\nC. Retention of cohesins at the centromeres.\nD. Bi-orientation of kinetochores of sister chromatids.\nWhich one of the following options has all correct features?\n1. A and B only",
       "A and Conly",
       "A, B and C only",
       "A, B, C and D"
@@ -1331,10 +1331,10 @@
     "options": [
       "All four are of different folds.",
       "All four are of the same fold.",
-      "(A), (C) and (D) are of the same fold.",
-      "(A) and (C) are of the same fold."
+      ", (C) and (D) are of the same fold.",
+      "and (C) are of the same fold."
     ],
-    "correct_answer": "(A) and (C) are of the same fold.",
+    "correct_answer": "and (C) are of the same fold.",
     "explanation": ""
   },
   {
@@ -1524,12 +1524,12 @@
     "section": "C",
     "question": "Given below are figures representing four different situations/examples of genetic and environmental\n(temperature) effects on plant height in two varieties of a plant species. In figures A, C and D, solid and\ndashed lines represent the mean values of plant height for the two varieties G1 and G2, respectively. In figure\nB, the solid and dashed lines overlap.\nGiven below are four statements explaining the four figures.\ni. Plant height is influenced primarily by the genotype of the two varieties.\nii. Variation in plant height is influenced only by the temperature and genotype has no effect.\niii. Genotype and temperature collectively have an additive effect on plant height.\niv. Both genotype and environment have an effect on plant height with the two varieties responding\ndifferently to the environment.\nWhich one of the following options correctly matches the figures and their corresponding explanations?",
     "options": [
-      "(a) A - I, B - ii, C - iii, D - iv",
-      "(b) A - I, B - iii, C - ii, D - iv",
-      "(c) A - iii, B - ii, C - iv, D - i",
-      "(d) A - iv, B - I, C - iii D - ii"
+      "A - I, B - ii, C - iii, D - iv",
+      "A - I, B - iii, C - ii, D - iv",
+      "A - iii, B - ii, C - iv, D - i",
+      "A - iv, B - I, C - iii D - ii"
     ],
-    "correct_answer": "(a) A - I, B - ii, C - iii, D - iv",
+    "correct_answer": "A - I, B - ii, C - iii, D - iv",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1699,12 +1699,12 @@
     "section": "C",
     "question": "Here is some data for a cohort of 400 individuals of a species whose abundance was tracked for 6 years (its\nmaximum lifespan ). For one-year age intervals from birth to 6 years, you have the following numbers of\nsurvivors, 400, 200, 100, 40, 20, 10, and 0. The corresponding per capita birth rates are 0.1 , 2.0, 3.0, 4.0, 4.0,\n3.0, and 0.0. What is the basic reproductive rate R0?",
     "options": [
-      "2.52",
-      "2.92",
-      "2.36",
-      "3.20"
+      "52",
+      "92",
+      "36",
+      "20"
     ],
-    "correct_answer": "2.52",
+    "correct_answer": "52",
     "explanation": "[STEPS]\nStep 1: Contributions\n= (400×0.1)+(200×2)+(100×3)+(40×4)+(20×4)+(10×3)+(0×0)\n\nStep 2: Calculation step\n= 40 + 400 + 300 + 160 + 80 + 30 + 0 = 1010\n\nStep 3: R\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">0 = 1010</span><span>400 = 2.525</span></div></div>"
   },
   {
@@ -1836,7 +1836,7 @@
   {
     "id": 140,
     "section": "C",
-    "question": "The following gel patterns are that of DNA markers observed in parents (P1 and P2), F1 from a cross between\nthem and doubled haploid progeny (panel A) or F2 progeny, derived from selfing of F1 (panels B and C).\nA doubled haploid (DH) is a genotype formed when plants are developed from haploid cells which have\nundergone chromosome doubling.\nBased on the pattern observed in the DH or F2 progeny identify which of the patterns (A to C) are based on DNA\nmarkers that are allelic?\n1. A only 2. B only\n3. A and C 4. A and B",
+    "question": "The following gel patterns are that of DNA markers observed in parents (P1 and P2), F1 from a cross between\nthem and doubled haploid progeny (panel A) or F2 progeny, derived from selfing of F1 (panels B and C).\nA doubled haploid (DH) is a genotype formed when plants are developed from haploid cells which have\nundergone chromosome doubling.\nBased on the pattern observed in the DH or F2 progeny identify which of the patterns (A to C) are based on DNA\nmarkers that are allelic?\n1. A only\n2. B only\n3. A and C\n4. A and B",
     "options": [
       "A",
       "B",
@@ -1862,7 +1862,7 @@
   {
     "id": 142,
     "section": "C",
-    "question": "For the coupled reaction given below, the equilibrium constants (K'eq) for equation [1] and equation [2]\nare 270 and 890, respectively.\n∆G° = -RT ln Keq\n= -5.7 log Keq\nAdding equation [1] and [2], the final equation will be ATP → ADP + Pi\nWe have done so, as the free energy change is additive\n∆G1° = -5.7 log 270 = - 13.85 kJ/mol\n∆G2° = -5.7 log 890 = - 16.81 kJ/mol\nTherefore, ∆G° ATP hydrolysis = (-13.85) + (-16.81) = -(30 to 32) kJ/mol\nThe standard free energy of hydrolysis of ATP at 25°C is\n1. - (24 to 26) kJ/mol 2. - (18 to 20) kJ/mol\n3. - (30 to 32) kJ/mol 4. - (60 to 62) kJ/mol",
+    "question": "For the coupled reaction given below, the equilibrium constants (K'eq) for equation [1] and equation [2]\nare 270 and 890, respectively.\n∆G° = -RT ln Keq\n= -5.7 log Keq\nAdding equation [1] and [2], the final equation will be ATP → ADP + Pi\nWe have done so, as the free energy change is additive\n∆G1° = -5.7 log 270 = - 13.85 kJ/mol\n∆G2° = -5.7 log 890 = - 16.81 kJ/mol\nTherefore, ∆G° ATP hydrolysis = (-13.85) + (-16.81) = -(30 to 32) kJ/mol\nThe standard free energy of hydrolysis of ATP at 25°C is\n1. - (24 to 26) kJ/mol\n2. - (18 to 20) kJ/mol\n3. - (30 to 32) kJ/mol\n4. - (60 to 62) kJ/mol",
     "options": [
       "A",
       "B",

@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "question": "DMSO (Dimethylsulfoxide) is used as",
+    "options": [
+      "osmoticum.",
+      "cryoprotectant.",
+      "gelling agent.",
+      "chelating agent."
+    ],
+    "correct_answer": "cryoprotectant.",
+    "explanation": "[CONCEPT]\nStep 1: Dimethylsulfoxide (DMSO) is a penetrating cryoprotective agent.\nStep 2: It lowers the freezing point of water and prevents intracellular ice crystal formation during cryopreservation."
+  },
+  {
+    "id": 2,
+    "question": "Random change in gene and genotype frequencies in small population is termed as",
+    "options": [
+      "genetic load.",
+      "genetic advance.",
+      "genetic equilibrium.",
+      "genetic drift."
+    ],
+    "correct_answer": "genetic drift.",
+    "explanation": "[CONCEPT]\nStep 1: Genetic drift (Sewall Wright effect) refers to stochastic fluctuations in allele frequencies from generation to generation due to sampling error in small finite populations.\nStep 2: It can lead to fixation or loss of alleles regardless of their adaptive value."
+  },
+  {
+    "id": 3,
+    "question": "Indicates the theory among the following that relates to “ontogeny repeats phylogeny”.",
+    "options": [
+      "Theory of clonal selection",
+      "Theory of natural selection",
+      "Theory of recapitulation",
+      "Theory of speciation"
+    ],
+    "correct_answer": "Theory of recapitulation",
+    "explanation": "[CONCEPT]\nStep 1: Ernst Haeckel's Biogenetic Law / Recapitulation Theory states that 'Ontogeny recapitulates Phylogeny'.\nStep 2: That is, an individual organism's embryonic development (ontogeny) reflects the evolutionary history of its species (phylogeny)."
+  },
+  {
+    "id": 4,
+    "question": "Food web is",
+    "options": [
+      "a series of producers.",
+      "a series of consumers.",
+      "a collection of producers and decomposers.",
+      "a matrix of food chain."
+    ],
+    "correct_answer": "a matrix of food chain.",
+    "explanation": "[CONCEPT]\nStep 1: A food web is an interconnected, complex network or matrix of multiple interlocking food chains in an ecosystem.\nStep 2: It provides alternative pathways for energy flow and stability to the community."
+  },
+  {
+    "id": 5,
+    "question": "The best definition of biodiversity is variability",
+    "options": [
+      "within species only.",
+      "between species only.",
+      "both within and between species.",
+      "within species, between species and of ecosystem."
+    ],
+    "correct_answer": "within species, between species and of ecosystem.",
+    "explanation": "[CONCEPT]\nStep 1: Biological diversity (biodiversity) encompasses three fundamental hierarchical levels: Genetic diversity (within species), Species diversity (between species), and Ecosystem/Community diversity."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following plants is a member of evergreen coniferous forest?",
+    "options": [
+      "Acacia",
+      "Shorea",
+      "Cryptomeria",
+      "Rhizophora"
+    ],
+    "correct_answer": "Cryptomeria",
+    "explanation": "[CONCEPT]\nStep 1: Cryptomeria (Japanese cedar, Cupressaceae) is a gymnospermic evergreen coniferous tree.\nStep 2: Acacia is xerophytic/deciduous, Shorea is moist-deciduous/sal, and Rhizophora is a mangrove."
+  },
+  {
+    "id": 7,
+    "question": "Plants occurring on saline soils are called",
+    "options": [
+      "hydrophytes.",
+      "epiphytes.",
+      "mesophytes.",
+      "halophytes."
+    ],
+    "correct_answer": "halophytes.",
+    "explanation": "[CONCEPT]\nStep 1: Halophytes are salt-tolerant plants adapted to thrive in high-salinity soils and coastal tidal environments through salt exclusion, excretion (salt glands), or succulence."
+  },
+  {
+    "id": 8,
+    "question": "A group of interconnected food chains is called",
+    "options": [
+      "pyramid of energy.",
+      "complex food chain.",
+      "food web.",
+      "food cycle."
+    ],
+    "correct_answer": "food web.",
+    "explanation": "[CONCEPT]\nStep 1: An interconnected network of several linear food chains in an ecosystem forms a Food Web."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a logical sequence of carbon cycle?",
+    "options": [
+      "Producer → Decomposer → Consumer",
+      "Consumer → Producer → Decomposer",
+      "Producer → Consumer → Decomposer",
+      "Decomposer → Consumer → Producer"
+    ],
+    "correct_answer": "Producer → Consumer → Decomposer",
+    "explanation": "[CONCEPT]\nStep 1: Carbon dioxide is fixed from the atmosphere by photoautotrophs (Producers).\nStep 2: Carbon is transferred to heterotrophs (Consumers) via feeding.\nStep 3: Dead biomass and wastes are mineralized back to the environment by Decomposers."
+  },
+  {
+    "id": 10,
+    "question": "Acid rain is due to the emission of:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Oxides of sulphur.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Oxides of nitrogen.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Chlorofluorocarbons.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Carbon monoxide.</span></div></div>\nChoose the right combination.",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "D, Q, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Acid rain (pH < 5.6) is formed when gaseous sulfur dioxide (SO₂) and nitrogen oxides (NOₓ) react with water vapor in the atmosphere to form sulfuric acid (H₂SO₄) and nitric acid (HNO₃)."
+  },
+  {
+    "id": 11,
+    "question": "Phytoremediation is",
+    "options": [
+      "remedial measure in deforestation.",
+      "removal of pollutants by plants.",
+      "remedial measure in soil erosion using plants.",
+      "curing of disease by photochemical."
+    ],
+    "correct_answer": "removal of pollutants by plants.",
+    "explanation": "[CONCEPT]\nStep 1: Phytoremediation is the direct use of green plants and associated soil microbes to clean up, degrade, or contain contaminants (heavy metals, organic pollutants, pesticides) in soil, water, or air."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct alternatives from A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Photochemical smog</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Ozone hole</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Global warming</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Metal pollution\n\nGroup II:\n1. Carbon dioxide\n2. Ozone\n3. Formaldehyde\n4. Chlorofluorocarbons\n5. Phytochelatins\n6. Radon</span></div></div>",
+    "options": [
+      "P–6; Q–4; R–1; S–3",
+      "P–2; Q–4; R–1; S–5",
+      "P–3; Q–4; R–1; S–5",
+      "P–2; Q–4; R–1; S–6"
+    ],
+    "correct_answer": "P–2; Q–4; R–1; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Photochemical smog contains tropospheric ozone (O₃) and PAN as key secondary pollutants (P–2).\nStep 2: Stratospheric ozone hole depletion is driven by Chlorofluorocarbons (CFCs) (Q–4).\nStep 3: Global warming is primarily driven by Carbon dioxide (CO₂) greenhouse gas (R–1).\nStep 4: Heavy metal detoxification in plants utilizes Phytochelatins (S–5)."
+  },
+  {
+    "id": 13,
+    "question": "For cryopreservation of plant cells/tissues, maintaining viability over longest period of time, select the best possible combination of cryoprotectants (List I) and temperature (List II):\n\nList I:\nP. Glycerol, DMSO and proline\nQ. Glycerol, acetic acid and ethanol\n\nList II:\n1. (−) 80°C\n2. (−) 4°C\n3. (−) 196°C\n4. 0°C",
+    "options": [
+      "Q−3",
+      "P−1",
+      "P−2",
+      "Q−4"
+    ],
+    "correct_answer": "P−1",
+    "explanation": "[CONCEPT]\nStep 1: Non-toxic cryoprotectants include penetrating DMSO and glycerol supplemented with proline (P).\nStep 2: Ultralow temperatures (-80°C to -196°C in liquid nitrogen) arrest all metabolic and biochemical degradation."
+  },
+  {
+    "id": 14,
+    "question": "The floristic region of the world is determined on the basis of geographical distribution of plant genera. Identify the correct reason for this speciation.",
+    "options": [
+      "Climate change",
+      "Genetic variation",
+      "Population distribution",
+      "Ecotypic variation"
+    ],
+    "correct_answer": "Population distribution",
+    "explanation": "[CONCEPT]\nStep 1: Phytogeographical floristic realms and regions are established by spatial dispersion and population distribution of floral genera over geological timescales."
+  },
+  {
+    "id": 15,
+    "question": "Global warming is due to excessive emission of:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Carbon dioxide.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Oxides of nitrogen.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Oxides of Sulphur.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Hydrogen sulphide.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "P, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Major greenhouse gases contributing to anthropogenic global warming include CO₂, methane (CH₄), nitrous oxide (N₂O), and tropospheric ozone."
+  },
+  {
+    "id": 16,
+    "question": "Availability of free energy is maximum in which of the following trophic levels?",
+    "options": [
+      "Producers",
+      "Decomposers",
+      "Herbivores",
+      "Secondary consumers"
+    ],
+    "correct_answer": "Producers",
+    "explanation": "[CONCEPT]\nStep 1: According to Lindeman's 10% law of energy transfer and the Second Law of Thermodynamics, energy is lost at each trophic step.\nStep 2: Therefore, primary producers (first trophic level) contain the maximum amount of usable free energy."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following statements are true on ecological point of view?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>‘Pyramid of numbers’ can sometimes be inverted.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Standing crop is not a reliable measure of productivity.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Primary productivity should always be calculated on dry matter rather than on fresh biomass.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The total solar energy trapped in the food material by photosynthesis is referred to as net primary production.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "R, S",
+      "P, R"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Inverted pyramids of numbers occur in tree ecosystems supporting numerous parasitic insects/birds (P is correct).\nStep 2: Dry weight avoids moisture fluctuations and provides true biomass/caloric energy measurement (R is correct).\nStep 3: Total solar energy trapped is Gross Primary Production (GPP), whereas NPP is GPP minus respiratory losses."
+  },
+  {
+    "id": 18,
+    "question": "Identify the correct statements from the following with respect to improvement of shelf-life of fruits and vegetables:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>It should be cooled immediately to slow down the respiration process.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The air of the store chamber should pass through charcoal to absorb the ethylene produced during the ripening process.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>It should be treated immediately with silver nitrate and cobalt chloride.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>It should be treated with the low concentration of biotin and nicotinic acid for prolonged preservation.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, Q",
+      "Q, R",
+      "P, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Rapid post-harvest precooling lowers metabolic respiration rate (P is correct).\nStep 2: Scrubbing/absorbing ethylene with activated charcoal or KMnO₄ prevents autocatalytic climacteric ripening (Q is correct)."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following statements are true on phytoremediation point of view?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>An effective technology that uses plants to tolerate and accumulate metals from the environment.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Detoxification of soil phenolic pollutants by plant secretory enzymes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Using RT-PCR to quantify gene expression in plants.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Studies on plant phylogeny and exploiting the biodiversity.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "R, S",
+      "P, S"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Phytoextraction/hyperaccumulation of toxic heavy metals by plants is a central mechanism of phytoremediation (P is correct).\nStep 2: Rhizodegradation using plant-secreted enzymes (peroxidases, laccases) detoxifies phenolic xenobiotics (Q is correct)."
+  },
+  {
+    "id": 20,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The second law of thermodynamics is also known as the law of conservation of energy.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Entropy is a measure of the unavailable energy / randomness resulting from transformations.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The transfer of energy through the food chain of an ecosystem is termed as ‘energy flow’.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The second law of thermodynamics deals with the transfer of energy towards more available state.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Entropy measures disorder / unavailable energy in closed thermodynamic systems (Q is correct).\nStep 2: Unidirectional transfer of radiant solar energy through trophic levels is defined as ecosystem energy flow (R is correct).\nStep 3: The first law (not second) is conservation of energy."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following statements are true on ecological point of view?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Biodiversity is affected by environmental pollution.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Alternative agriculture is designed to sustain crop yield while enhancing inputs of fossil fuel, pesticides, etc.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Global climate change is caused by human activities.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Acid rain is caused by excessive CO₂ in the air.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, R",
+      "R, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Pollution, habitat destruction, and climate change are major drivers of biodiversity loss (P is correct).\nStep 2: Anthropogenic greenhouse gas emissions drive global climate change (R is correct).\nStep 3: Acid rain is caused by SO₂ and NOₓ, not CO₂."
+  },
+  {
+    "id": 22,
+    "question": "Kyoto Protocol is related to",
+    "options": [
+      "acid rain.",
+      "photochemical smog.",
+      "ozone hole.",
+      "global warming."
+    ],
+    "correct_answer": "global warming.",
+    "explanation": "[CONCEPT]\nStep 1: The Kyoto Protocol (adopted in 1997, entered into force in 2005) is an international treaty extending the 1992 UNFCCC.\nStep 2: It commits state parties to reduce greenhouse gas emissions based on scientific consensus on global warming."
+  },
+  {
+    "id": 23,
+    "question": "Phagotrophs are",
+    "options": [
+      "organisms that feed on dead organic matter.",
+      "organisms that absorb dissolved organic matter.",
+      "organisms that ingest other organisms or particulate organic matter.",
+      "organisms that manufacture food from simple inorganic substances."
+    ],
+    "correct_answer": "organisms that ingest other organisms or particulate organic matter.",
+    "explanation": "[CONCEPT]\nStep 1: Phagotrophs (macroconsumers) are heterotrophic organisms that ingest solid particulate food or live prey via holozoic nutrition (phagocytosis).\nStep 2: Osmotrophs absorb dissolved nutrients."
+  },
+  {
+    "id": 24,
+    "question": "A population growing exponentially can be described by the differential equation dN/dt = rN, where dN/dt represents the rate at which the whole population grows, N is the size of the population, r is the intrinsic rate of increase, and t is time. According to this equation, the population growth rate (dN/dt) is",
+    "options": [
+      "highest at large N.",
+      "constant.",
+      "lowest at large N.",
+      "highest at small N."
+    ],
+    "correct_answer": "highest at large N.",
+    "explanation": "[CONCEPT]\nStep 1: In exponential growth (dN/dt = rN), the total population growth rate is directly proportional to population size N.\nStep 2: Thus, absolute growth rate (dN/dt) is highest at large N (while per capita growth rate (dN/dt)/N = r remains constant)."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements is correct regarding membrane lipid adaptation?",
+    "options": [
+      "Plants adapted to cold environment have higher ratio of “unsaturated to saturated” fatty acids in their membrane compared to those adapted to hot environment.",
+      "Plants adapted to cold environment have lower ratio of “unsaturated to saturated” fatty acids in their membrane compared to those adapted to hot environment.",
+      "Plants adapted to cold environment have same ratio of “unsaturated to saturated” fatty acids in their membrane compared to those adapted to hot environment.",
+      "Plants do not have any unsaturated fatty acids in the membrane."
+    ],
+    "correct_answer": "Plants adapted to cold environment have higher ratio of “unsaturated to saturated” fatty acids in their membrane compared to those adapted to hot environment.",
+    "explanation": "[CONCEPT]\nStep 1: Cis-unsaturated fatty acids have kinks that prevent tight lipid packing, lowering the phase transition temperature.\nStep 2: Higher unsaturated fatty acid content preserves membrane fluidity at low chilling temperatures."
+  },
+  {
+    "id": 26,
+    "question": "The amount of chemical energy available to consumers in an ecosystem is best represented by",
+    "options": [
+      "gross primary production.",
+      "net primary production.",
+      "respiration.",
+      "photosynthesis."
+    ],
+    "correct_answer": "net primary production.",
+    "explanation": "[CONCEPT]\nStep 1: Net Primary Production (NPP = GPP − Autotrophic Respiration) represents the net biomass accumulated by autotrophs.\nStep 2: This is the actual usable energy available to primary consumers and higher trophic levels."
+  },
+  {
+    "id": 27,
+    "question": "One of the defense mechanisms adopted by plants for detoxification of heavy metals is the synthesis of",
+    "options": [
+      "phytochelatin.",
+      "calmodulin.",
+      "tubulin.",
+      "systemin."
+    ],
+    "correct_answer": "phytochelatin.",
+    "explanation": "[CONCEPT]\nStep 1: Phytochelatins are glutathione-derived oligopeptides (γ-Glu-Cys)ₙ-Gly synthesized by phytochelatin synthase in response to heavy metals (Cd, Pb, As).\nStep 2: They chelate metal ions and sequester them into the central vacuole."
+  },
+  {
+    "id": 28,
+    "question": "The transition of water molecule from liquid to glassy state during cryopreservation is termed as",
+    "options": [
+      "vitrification.",
+      "hyperhydricity.",
+      "cryoprotectant.",
+      "habituation."
+    ],
+    "correct_answer": "vitrification.",
+    "explanation": "[CONCEPT]\nStep 1: Vitrification is the non-crystalline, amorphous glass-like solidification of a liquid without ice crystal formation upon rapid cooling."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following statements are incorrect on ecological point of view?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Primary succession involving xerosere is initiated in a wet habitat.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Halons commonly found in electronic equipment are active forces destroying stratospheric ozone.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Sympatric speciation occurs when the new species evolves in geographic isolation from the parent species.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>α-Diversity is the diversity of species within a habitat or community.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "Q, R",
+      "Q, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Xerosere succession begins on dry, bare rock/sand (not wet habitat; hydrosere begins in water) (P is incorrect).\nStep 2: Sympatric speciation occurs within the same geographic area without physical isolation (allopatric speciation involves geographic isolation) (R is incorrect)."
+  },
+  {
+    "id": 30,
+    "question": "Carbon dioxide and other ‘greenhouse gases’ act by",
+    "options": [
+      "destroying ozone in the stratosphere.",
+      "trapping heat in the earth’s atmosphere.",
+      "allowing more visible light to reach the earth’s surface.",
+      "reducing the amount of radiant energy which reaches the surface of the earth."
+    ],
+    "correct_answer": "trapping heat in the earth’s atmosphere.",
+    "explanation": "[CONCEPT]\nStep 1: Greenhouse gases are transparent to incoming shortwave solar radiation but absorb and re-emit outgoing longwave infrared (thermal) radiation back to the Earth's surface."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following best represents the flow of energy through an ecosystem?",
+    "options": [
+      "Producers → Primary consumers → Secondary consumers",
+      "Sun → Producers → Secondary consumers → Primary consumers",
+      "Sun → Producers → Primary consumers → Secondary consumers",
+      "Secondary consumers → Primary consumers → Producers → Sun"
+    ],
+    "correct_answer": "Sun → Producers → Primary consumers → Secondary consumers",
+    "explanation": "[CONCEPT]\nStep 1: Radiant energy from the Sun is captured by photoautotrophic Producers.\nStep 2: Energy flows unidirectionally from Producers to Primary Consumers (herbivores) and then to Secondary Consumers (carnivores)."
+  },
+  {
+    "id": 32,
+    "question": "Considering environment and ecosystem, identify the incorrect statement.",
+    "options": [
+      "In detrital food chain, it is very difficult to measure the energy flow although the use of radioactive tracers gives some idea about the energy flow.",
+      "The change in species composition, community structure and function over time is ecological succession.",
+      "The slower rise of environmental temperature may be attributed to the increase in pollution in environment which reflects enough solar energy back to space to slow down global warming.",
+      "Photoperiodism has no relation with the environment and ecosystem; rather it is a biological event taking place in every plant."
+    ],
+    "correct_answer": "Photoperiodism has no relation with the environment and ecosystem; rather it is a biological event taking place in every plant.",
+    "explanation": "[CONCEPT]\nStep 1: Photoperiodism is intimately linked to the physical environment (day/night seasonal light cycles) and ecosystem timing (flowering, seed germination, migration).\nStep 2: Stating that photoperiodism has no relation with the environment is scientifically incorrect."
+  },
+  {
+    "id": 33,
+    "question": "Plant which grows attached to another plant species but is not a parasitic is known as",
+    "options": [
+      "endophyte.",
+      "halophyte.",
+      "epiphyte.",
+      "lithophyte."
+    ],
+    "correct_answer": "epiphyte.",
+    "explanation": "[CONCEPT]\nStep 1: Epiphytes (e.g., orchids, bromeliads) grow harmlessly upon other plants for mechanical support without extracting nutrition from host vascular tissues."
+  },
+  {
+    "id": 34,
+    "question": "Match the definition (Column I) with the type of plant community (Column II):\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The process of occupation of a particular area by different plant communities from their birth to maturity</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>A major ecological unit of vegetation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>A smaller unit of plant association</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>A subdivision of plant association</span></div></div>\nwhich is related to minor differences in temperature and moisture relations\n\nColumn II:\n1. Formation\n2. Consociation\n3. Fasciation\n4. Plant succession",
+    "options": [
+      "P−1; Q−3; R−4; S−2",
+      "P−3; Q−2; R−1; S−4",
+      "P−4; Q−1; R−2; S−3",
+      "P–2; Q−4; R−3; S−1"
+    ],
+    "correct_answer": "P−4; Q−1; R−2; S−3",
+    "explanation": "[CONCEPT]\nStep 1: Progressive community colonization over time is Plant succession (P–4).\nStep 2: Major vegetational climax unit is a Formation (Q–1).\nStep 3: Single-dominant sub-unit is a Consociation (R–2).\nStep 4: Association subdivision based on local microclimate is Fasciation (S–3)."
+  },
+  {
+    "id": 35,
+    "question": "Which one of the followings is not a cryoprotectant for plant tissue?",
+    "options": [
+      "Dimethyl sulfoxide",
+      "Glycerol",
+      "Ethylene glycol",
+      "Liquid nitrogen"
+    ],
+    "correct_answer": "Liquid nitrogen",
+    "explanation": "[CONCEPT]\nStep 1: DMSO, glycerol, and ethylene glycol are chemical cryoprotective solutes added to protect cells against chilling/freezing damage.\nStep 2: Liquid nitrogen (-196°C) is the physical refrigerant / cooling medium, not a chemical cryoprotectant agent."
+  },
+  {
+    "id": 36,
+    "question": "Two similar holotypes are called",
+    "options": [
+      "monotype.",
+      "neotype.",
+      "isotype.",
+      "syntype."
+    ],
+    "correct_answer": "syntype.",
+    "explanation": "[CONCEPT]\nStep 1: An Isotype is an exact duplicate specimen of the holotype from the same collection.\nStep 2: Syntypes are any of two or more specimens cited by the author when no single holotype was designated."
+  },
+  {
+    "id": 37,
+    "question": "Identify the correct statements with respect to functioning of ecosystem:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>A food chain is a series of organisms, each one feeding on the organism succeeding it.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Food web presents a complete picture of the feeding relationships in any given ecosystem.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>In ecosystem, energy flows in unidirectional way, whereas nutrients flow in cyclic fashion.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>In biogeochemical cycles, nutrients do not alternate between organisms and environment.</span></div></div>",
+    "options": [
+      "P, Q",
+      "P, R",
+      "R, S",
+      "Q, R"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Food webs depict complex trophic interactions in communities (Q is correct).\nStep 2: Energy flow is non-cyclic and unidirectional, while mineral nutrients circulate in closed biogeochemical cycles (R is correct)."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a neutral phenomenon?",
+    "options": [
+      "Natural selection",
+      "Sexual selection",
+      "Genetic drift",
+      "Population bottleneck"
+    ],
+    "correct_answer": "Genetic drift",
+    "explanation": "[CONCEPT]\nStep 1: Genetic drift acts randomly on neutral alleles with respect to fitness and reproductive success, representing a non-Darwinian neutral evolutionary mechanism."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is true for K-strategist species?",
+    "options": [
+      "Produce relatively large number of offspring",
+      "Population often grow exponentially",
+      "Provide relatively little or no parental care to offspring",
+      "Occur in stable and predictable habitats"
+    ],
+    "correct_answer": "Occur in stable and predictable habitats",
+    "explanation": "[CONCEPT]\nStep 1: K-selected species are adapted to stable, crowded, predictable climax environments near carrying capacity (K).\nStep 2: They have large body size, long life spans, produce few offspring, and invest heavy parental care."
+  },
+  {
+    "id": 40,
+    "question": "Identify the correct matching between group I and II in relation to ecology:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The physical environment of an organism</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>The totality of the needs of a population for survival and its resource utilization</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The position of a species in a food chain</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Basic functional unit comprising living community and its physical environment\n\nGroup II:\n1. Trophic level\n2. Habitat\n3. Ecosystem\n4. Niche\n5. Ecological pyramid</span></div></div>",
+    "options": [
+      "P− 2; Q−5; R−4; S−1",
+      "P−2; Q−4; R−1; S−3",
+      "P−5; Q−2; R−3; S−1",
+      "P−1; Q−3; R−4; S−2"
+    ],
+    "correct_answer": "P−2; Q−4; R−1; S−3",
+    "explanation": "[CONCEPT]\nStep 1: Physical environment / dwelling address = Habitat (P–2).\nStep 2: Functional role and resource utilization = Ecological Niche (Q–4).\nStep 3: Feeding level in food chain = Trophic level (R–1).\nStep 4: Integrated community + physical environment = Ecosystem (S–3)."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following statement is true for an ecotone?",
+    "options": [
+      "An ecotone is the synonym of an ecosystem.",
+      "An ecotone is an interface zone of two or more ecosystems.",
+      "An ecotone is a special feature of land biomes.",
+      "An ecotone is exclusively characterized by decreased biodiversity."
+    ],
+    "correct_answer": "An ecotone is an interface zone of two or more ecosystems.",
+    "explanation": "[CONCEPT]\nStep 1: An ecotone is a transitional zone / boundary where two or more distinct ecological communities or biomes meet and integrate (e.g., marshland between river and land).\nStep 2: It frequently exhibits the 'edge effect' with increased species richness."
+  },
+  {
+    "id": 42,
+    "question": "Acid rain with a pH of 4.0 is more acidic than the rain with a pH of 6.0 by",
+    "options": [
+      "2 times.",
+      "10 times.",
+      "100 times.",
+      "1000 times."
+    ],
+    "correct_answer": "100 times.",
+    "explanation": "[CONCEPT]\nStep 1: pH is a logarithmic scale: [H⁺] = 10^(-pH).\nStep 2: At pH 4.0, [H⁺] = 10⁻⁴ M. At pH 6.0, [H⁺] = 10⁻⁶ M.\nStep 3: Ratio = 10⁻⁴ / 10⁻⁶ = 10² = 100 times higher acidity."
+  },
+  {
+    "id": 43,
+    "question": "Which one of the following ecosystems is represented by an inverted pyramid of numbers?",
+    "options": [
+      "Grassland",
+      "Pond",
+      "Desert",
+      "Parasitic forest"
+    ],
+    "correct_answer": "Parasitic forest",
+    "explanation": "[CONCEPT]\nStep 1: In a parasitic food chain (e.g., Tree → Herbivorous Birds → Parasites → Hyperparasites), a single large producer supports many consumers and vastly more hyperparasites, creating an inverted pyramid of numbers."
+  },
+  {
+    "id": 44,
+    "question": "Match the following ecological terms with their appropriate definitions:\n\nTerm:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Niche</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Biotas</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Trophic level</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Habitat\n\nDefinition:\n1. Position of a species in food chain\n2. Place of a living organism in the biotic environment and its relations to food and enemies\n3. Physical environment of an organism\n4. Totality of organisms (flora and fauna) in a given place or region</span></div></div>",
+    "options": [
+      "P–1; Q–2; R–4; S–3",
+      "P–2; Q–4; R–1; S–3",
+      "P–4; Q–3; R–1; S–2",
+      "P–3; Q–1; R–2; S–4"
+    ],
+    "correct_answer": "P–2; Q–4; R–1; S–3",
+    "explanation": "[CONCEPT]\nStep 1: Niche describes the functional role and biotic relationships (P–2).\nStep 2: Biotas represents the complete flora and fauna of a region (Q–4).\nStep 3: Trophic level is the feeding position in the food chain (R–1).\nStep 4: Habitat is the physical abiotic environment (S–3)."
+  },
+  {
+    "id": 45,
+    "question": "Arrange the following ‘water reservoirs of earth’ in decreasing order of water volume:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Streams</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Groundwater</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Glaciers</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Lakes and inland seas</span></div></div>",
+    "options": [
+      "R–Q–S–P",
+      "P–Q–R–S",
+      "S–P–R–Q",
+      "R–P–Q–S"
+    ],
+    "correct_answer": "R–Q–S–P",
+    "explanation": "[CONCEPT]\nStep 1: Distribution of Earth's freshwater reservoirs:\n- Glaciers and Ice caps: ~68.7% (R)\n- Groundwater: ~30.1% (Q)\n- Lakes and inland seas: ~0.26% (S)\n- Rivers/Streams: ~0.006% (P)\nStep 2: Decreasing order: Glaciers (R) > Groundwater (Q) > Lakes (S) > Streams (P) → R–Q–S–P."
+  }
+]

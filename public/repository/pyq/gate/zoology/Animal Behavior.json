@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "Interpretation of behavioral data in terms of human experience is called",
+    "options": [
+      "anthropocentrism",
+      "anthropomorphism",
+      "teleology",
+      "ethology"
+    ],
+    "correct_answer": "ethology",
+    "explanation": "[CONCEPT]\nStep 1: Ethology is the scientific study of animal behavior.\nStep 2: Interpreting animal actions through human experience is a common (though cautious) approach within ethology."
+  },
+  {
+    "id": 2,
+    "question": "Community suckling of young ones is found in",
+    "options": [
+      "cats",
+      "dogs",
+      "lions",
+      "humans"
+    ],
+    "correct_answer": "dogs",
+    "explanation": "[CONCEPT]\nStep 1: Community (allomaternal) suckling occurs when females nurse offspring that are not their own.\nStep 2: This behavior is observed in dogs (and some other canids)."
+  },
+  {
+    "id": 3,
+    "question": "In the fish species, where internal fertilization occurs, the parental care is provided by",
+    "options": [
+      "both parents",
+      "neither parents",
+      "father",
+      "mother"
+    ],
+    "correct_answer": "father",
+    "explanation": "[CONCEPT]\nStep 1: In many fish with internal fertilization the male remains with the eggs.\nStep 2: Paternal care is therefore the most common pattern."
+  },
+  {
+    "id": 4,
+    "question": "When new male lions take over a pride, they often engage in infanticide. The reason attributed for the same is",
+    "options": [
+      "the females of the pride are thought to estrous by killing of suckling infants",
+      "the infants interfere with hunting",
+      "they hate the former males of the pride and therefore kill their infants",
+      "to prove their dominance in the pride"
+    ],
+    "correct_answer": "to prove their dominance in the pride",
+    "explanation": "[CONCEPT]\nStep 1: Infanticide by incoming males brings females back into estrus sooner.\nStep 2: The key frames the ultimate reason as establishing dominance within the pride."
+  },
+  {
+    "id": 5,
+    "question": "In three of the four types of animals listed below colonies can be initiated by a single individual. However, the fourth one would need at least a pair (a male and a female) to set up a colony. Identify which one?",
+    "options": [
+      "Sea anemones",
+      "Frogs",
+      "Tapeworms",
+      "Whiptail lizards"
+    ],
+    "correct_answer": "Frogs",
+    "explanation": "[CONCEPT]\nStep 1: Sea anemones, tapeworms and some lizards can reproduce asexually or by parthenogenesis.\nStep 2: Frogs require both sexes for sexual reproduction and colony initiation."
+  },
+  {
+    "id": 6,
+    "question": "Marsupials are naturally found in Australia. The hallmark of the marsupials is",
+    "options": [
+      "ovo-viviparity",
+      "prolonged placental development",
+      "parturition before completion of embryonic development",
+      "incomplete adaptive radiation"
+    ],
+    "correct_answer": "parturition before completion of embryonic development",
+    "explanation": "[CONCEPT]\nStep 1: Marsupials give birth to highly altricial young.\nStep 2: Most development is completed after birth inside the pouch."
+  },
+  {
+    "id": 7,
+    "question": "Every morning a research student turns on the light in a laboratory aquarium to feed the fish. After a couple of weeks of this routine, the student noticed that the fish come to the surface to feed as soon as the lights are turned on. The behavior of the fish is a result or",
+    "options": [
+      "habituation",
+      "positive phototaxis",
+      "imprinting",
+      "classical conditioning"
+    ],
+    "correct_answer": "classical conditioning",
+    "explanation": "[CONCEPT]\nStep 1: Light (conditioned stimulus) is repeatedly paired with food (unconditioned stimulus).\nStep 2: Fish learn to associate light with feeding and respond to the light alone."
+  },
+  {
+    "id": 8,
+    "question": "The British geneticist, LBS, Haldane, once jokingly said that he would lay down his life for two brothers or eight cousins. In terms of altruistic behavior, Haldane would do this because",
+    "options": [
+      "either two brothers or eight cousins would result in as much representation of Haldane’s genes as would two of his own offspring",
+      "Haldane’s death would enhance the fitness of his brothers and cousins",
+      "Haldane loved his brothers and cousins",
+      "none of the above-mentioned statements reflect altruistic behavior"
+    ],
+    "correct_answer": "either two brothers or eight cousins would result in as much representation of Haldane’s genes as would two of his own offspring",
+    "explanation": "[CONCEPT]\nStep 1: Relatedness (r) to a full sibling = 0.5; to a cousin = 0.125.\nStep 2: 2 × 0.5 = 1 and 8 × 0.125 = 1, equal to the genetic equivalent of two offspring."
+  },
+  {
+    "id": 9,
+    "question": "In animal behavior, the term “imprinting” implies",
+    "options": [
+      "innate behavior of a given animal which is genetically determined",
+      "learned behavior which the animals display during various stages of its life",
+      "a time-dependent form of learning behavior by exposure to sign stimulus",
+      "none of the above"
+    ],
+    "correct_answer": "learned behavior which the animals display during various stages of its life",
+    "explanation": "[CONCEPT]\nStep 1: Imprinting is a rapid, irreversible form of learning.\nStep 2: It occurs during a sensitive period and influences later behavior."
+  },
+  {
+    "id": 10,
+    "question": "Which combination of mechanisms best explain crosscontinental migration of animals?",
+    "options": [
+      "Orientation and navigation",
+      "Orientation and piloting",
+      "Navigation and piloting",
+      "Orientation, navigations, and piloting"
+    ],
+    "correct_answer": "Orientation, navigations, and piloting",
+    "explanation": "[CONCEPT]\nStep 1: Orientation = compass sense.\nStep 2: Navigation = map sense.\nStep 3: Piloting = use of familiar landmarks. All three are used in long-distance migration."
+  },
+  {
+    "id": 11,
+    "question": "Honeybee returning to the hive from a food source performs a “waggle dance”. It indicates the",
+    "options": [
+      "distance between the beehive and the food source",
+      "direction to the food resource",
+      "the type of food available in the source",
+      "all of the above"
+    ],
+    "correct_answer": "all of the above",
+    "explanation": "[CONCEPT]\nStep 1: Duration of the waggle run encodes distance.\nStep 2: Angle of the run relative to vertical encodes direction.\nStep 3: Odor cues on the dancer also convey food type."
+  },
+  {
+    "id": 12,
+    "question": "During hibernation in a hibernating mammal, its body temperature would be",
+    "options": [
+      "lower than normal state",
+      "same as normal state",
+      "higher than normal state",
+      "fluctuate between high and low points"
+    ],
+    "correct_answer": "lower than normal state",
+    "explanation": "[CONCEPT]\nStep 1: Hibernation is a state of regulated hypothermia.\nStep 2: Body temperature drops close to ambient temperature to conserve energy."
+  },
+  {
+    "id": 13,
+    "question": "Which one of the following examples represents an adaptation or a physiological activity that does not minimize the loss of body temperature of animals?",
+    "options": [
+      "Feathers or fur",
+      "Fat layers in the adipose tissue",
+      "Shivering",
+      "Vasodilation"
+    ],
+    "correct_answer": "Vasodilation",
+    "explanation": "[CONCEPT]\nStep 1: Feathers, fur, fat and shivering all reduce heat loss or generate heat.\nStep 2: Vasodilation increases blood flow to the skin and therefore increases heat loss."
+  },
+  {
+    "id": 14,
+    "question": "The term innate behavior refers to an animal behavior",
+    "options": [
+      "that is triggered by an environmental change",
+      "that is taught by the parent",
+      "that is developmentally fixed",
+      "that an organism learns on its own by “a hit-and trial” approach"
+    ],
+    "correct_answer": "that is developmentally fixed",
+    "explanation": "[CONCEPT]\nStep 1: Innate behaviors are genetically programmed.\nStep 2: They appear fully formed without the need for learning (developmentally fixed)."
+  },
+  {
+    "id": 15,
+    "question": "Behavioral studies on animals have shown that there is relationship between mechanism of reproduction and male parental care (protecting eggs or the young ones). In aquatic invertebrates, fishes and while a majority of species that practice external fertilization tend to exhibit male parental care. This is likely due to amphibians for example; the species that practice internal fertilization rarely show male parental care",
+    "options": [
+      "the male sex in species that practice internal fertilization are unable to defend against the predators",
+      "the male sex in species that practice internal fertilization live on female as parasite",
+      "the fact that the females of species that practice external fertilization die soon after laying the eggs",
+      "the certainty of paternity in species that practice external fertilization and this behavior is reinforced over generation by natural selection"
+    ],
+    "correct_answer": "the certainty of paternity in species that practice external fertilization and this behavior is reinforced over generation by natural selection",
+    "explanation": "[CONCEPT]\nStep 1: External fertilization gives males high certainty of paternity.\nStep 2: Natural selection therefore favors males that invest in parental care."
+  },
+  {
+    "id": 16,
+    "question": "Increasing estradiol (E2) hormone from ovarian follicles prior to ovulation has been hypothesized to play a critical role for induction of pheromones. These pheromones render females sexually receptive to males to facilitate mating. An investigator performs experiments in sheep in which females are gonadectomized, then treated with E2 or vehicle alone and allowed to breed. Which one of the findings listed below will validate the hypothesis that pheromones are induced by E2?",
+    "options": [
+      "Sexual receptivity is regained only in vehicle treated females",
+      "Sexual receptivity is regained only in E2 treated females",
+      "Sexual receptivity was regained irrespective of E2 treatment",
+      "Sexual receptivity is not regained by any treatment"
+    ],
+    "correct_answer": "Sexual receptivity is regained only in E2 treated females",
+    "explanation": "[CONCEPT]\nStep 1: Gonadectomy removes the natural source of E2.\nStep 2: Only E2 replacement restores pheromone production and sexual receptivity, supporting the hypothesis."
+  },
+  {
+    "id": 17,
+    "question": "Which one of the following options provide example for the term “habituation” in behavioral ecology?",
+    "options": [
+      "A fish transferred to a fish tank startles initially for a hand clap, but not later",
+      "Migratory birds from the temperate zone migrating towards the tropical part during the winters",
+      "Adult kingfisher birds are more successful in catching fishes than their younger siblings",
+      "Female lizard getting used to a new male lizard during the courtship period"
+    ],
+    "correct_answer": "A fish transferred to a fish tank startles initially for a hand clap, but not later",
+    "explanation": "[CONCEPT]\nStep 1: Habituation is the waning of a response to a repeated, harmless stimulus.\nStep 2: The fish stops startling to the hand clap after repeated exposure."
+  },
+  {
+    "id": 18,
+    "question": "The behavior of young ducks following their mother is known as",
+    "options": [
+      "imprinting",
+      "innate behavior",
+      "habituation",
+      "mimicry"
+    ],
+    "correct_answer": "imprinting",
+    "explanation": "[CONCEPT]\nStep 1: Ducklings form a strong attachment to the first moving object they see.\nStep 2: This rapid learning during a sensitive period is called imprinting."
+  },
+  {
+    "id": 19,
+    "question": "Which one of the following statements does not explain altruism?",
+    "options": [
+      "Altruism reduces the fitness of the individual that displays this behavior",
+      "Altruism increases the fitness of other individuals in the population",
+      "Altruism reduces the fitness of the individual that displays this behavior and at the same time increases the fitness of other individuals in the population",
+      "Altruistic behavior helps the individual escape from predators"
+    ],
+    "correct_answer": "Altruistic behavior helps the individual escape from predators",
+    "explanation": "[CONCEPT]\nStep 1: Altruism is defined by a cost to the actor and a benefit to the recipient.\nStep 2: Helping oneself escape a predator is selfish, not altruistic."
+  },
+  {
+    "id": 20,
+    "question": "The migratory desert locust, Schistocerca gregaria, exists in two mutually exclusive forms: a short-winged uniformly colored, solitary insect and a long-winged, brightly colored, gregarious morph. These phenotypes depend on crowding. Such phenotypic is called",
+    "options": [
+      "reaction norm",
+      "polyphenism",
+      "Batesian mimicry",
+      "polymorphism"
+    ],
+    "correct_answer": "polyphenism",
+    "explanation": "[CONCEPT]\nStep 1: Polyphenism is the production of discrete alternative phenotypes by the same genotype.\nStep 2: The solitary and gregarious forms of the locust are classic examples triggered by density."
+  },
+  {
+    "id": 21,
+    "question": "A female “spotted sand piper’’ court males repeatedly, this behavior can be explained by the term",
+    "options": [
+      "polyandry",
+      "human RBCs",
+      "monogamy",
+      "sexual cannibalism"
+    ],
+    "correct_answer": "polyandry",
+    "explanation": "[CONCEPT]\nStep 1: Polyandry is a mating system in which one female mates with multiple males.\nStep 2: Female spotted sandpipers actively court and compete for males."
+  },
+  {
+    "id": 22,
+    "question": "An animal’s ability to escape from a predator by using the explored knowledge of home area is an example of",
+    "options": [
+      "latent learning",
+      "insight learning",
+      "mimicry",
+      "imprinting"
+    ],
+    "correct_answer": "latent learning",
+    "explanation": "[CONCEPT]\nStep 1: Latent learning occurs without immediate reinforcement.\nStep 2: Knowledge of the home range is acquired and later used to escape predators."
+  },
+  {
+    "id": 23,
+    "question": "Match the respective behavior given in Column I with the appropriate explanation in Column II.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Agonistic behavior,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hierarchical behavior,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Altruistic behavior,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cooperative behavior.\n\nColumn II:\n1. Individual behavior where fitness of other increases at the expense of self,\n2. Individuals contribute towards enhancement of mutual fitness,\n3. Aggressive behavior of individuals within a population,\n4. Existence of different levels of dominance within a population</span></div></div>",
+    "options": [
+      "P–4; Q–1; R–2; S–3",
+      "P–3; Q–4; R–1; S–2",
+      "P–4; Q–2; R–1; S–3",
+      "P–3; Q–4; R–2; S–1"
+    ],
+    "correct_answer": "P–3; Q–4; R–1; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Agonistic = aggressive interactions.\nStep 2: Hierarchical = dominance ranks.\nStep 3: Altruistic = cost to self, benefit to others.\nStep 4: Cooperative = mutual fitness gain."
+  },
+  {
+    "id": 24,
+    "question": "“Round dance” is performed by forager bees to indicate the distance between a food source and their colony. Which one of the following best represents this distance?",
+    "options": [
+      "45 meters",
+      "450 meters",
+      "1000 meters",
+      "More than 2000 meters"
+    ],
+    "correct_answer": "45 meters",
+    "explanation": "[CONCEPT]\nStep 1: Round dance is used for nearby food sources.\nStep 2: Distances less than about 50–100 m are typically communicated by the round dance."
+  }
+]

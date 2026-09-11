@@ -145,7 +145,7 @@
   {
     "id": 12,
     "type": "match_following_mcq",
-    "question": "Match List I (Indian Environmentalists) with List II (environmental impact awareness):",
+    "question": "Match List I (Indian Environmentalists) with\n\nList II (environmental impact awareness):",
     "list_1": [
       "Sh. Sunderlal Bahuguna",
       "Sh. Rajender Singh",
@@ -159,12 +159,12 @@
       "Animal Welfare"
     ],
     "options": [
-      "(a) A-i, B-iii, C-ii, D-iv",
-      "(b) A-iii, B-i, C-iv, D-ii",
-      "(c) A-ii, B-iv, C-i, D-iii",
-      "(d) A-iv, B-ii, C-iii, D-i"
+      "A-i, B-iii, C-ii, D-iv",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iv, B-ii, C-iii, D-i"
     ],
-    "correct_answer": "(a) A-i, B-iii, C-ii, D-iv",
+    "correct_answer": "A-i, B-iii, C-ii, D-iv",
     "explanation": "[CONCEPT]\nSunderlal Bahuguna led the anti-dam Tehri movement. Rajender Singh is the 'Waterman of India'. Salim Ali was a prominent ornithologist. Maneka Gandhi is well known for animal welfare advocacy."
   },
   {
@@ -197,12 +197,12 @@
       "Help in chromosome condensation to further reduces mitotic chromosomes to compact bodies."
     ],
     "options": [
-      "(a) A-i, B-iii, C-iv, D-ii",
-      "(b) A-ii, B-iv, C-i, D-iii",
-      "(c) A-iii, B-i, C-ii, D-iv",
-      "(d) A-iv, B-ii, C-iii, D-i"
+      "A-i, B-iii, C-iv, D-ii",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-i, C-ii, D-iv",
+      "A-iv, B-ii, C-iii, D-i"
     ],
-    "correct_answer": "(b) A-ii, B-iv, C-i, D-iii",
+    "correct_answer": "A-ii, B-iv, C-i, D-iii",
     "explanation": "[CONCEPT]\nEuchromatin represents loosely packed transcriptionally active zones. Condensin loops and shortens mitotic complexes. Cohesin provides linkage between replicated sister chromatids. Heterochromatin is tightly packed and silent."
   },
   {
@@ -235,12 +235,12 @@
       "Protein Structure Database"
     ],
     "options": [
-      "(a) A-i, B-ii, C-iii, D-iv",
-      "(b) A-iii, B-i, C-iv, D-ii",
-      "(c) A-iv, B-iii, C-i, D-ii",
-      "(d) A-ii, B-iv, C-i, D-iii"
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-iii, C-i, D-ii",
+      "A-ii, B-iv, C-i, D-iii"
     ],
-    "correct_answer": "(c) A-iv, B-iii, C-i, D-ii",
+    "correct_answer": "A-iv, B-iii, C-i, D-ii",
     "explanation": "[CONCEPT]\nRCSB manages the Protein Data Bank. OMIM documents human genetic disorders and variants. DDBJ compiles nucleotide records. FlyBase acts as a genetic repository for Drosophila."
   },
   {
@@ -286,12 +286,12 @@
       "Sarcoma"
     ],
     "options": [
-      "(a) A-iii, B-iv, C-i, D-ii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-ii, B-iii, C-iv, D-i",
-      "(d) A-iv, B-i, C-ii, D-iii"
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iv, B-i, C-ii, D-iii"
     ],
-    "correct_answer": "(a) A-iii, B-iv, C-i, D-ii",
+    "correct_answer": "A-iii, B-iv, C-i, D-ii",
     "explanation": "[CONCEPT]\nCarcinomas originate in epithelial tissues. Sarcomas arise from bones or soft connective tissues. Lymphomas affect the lymphatic network. Leukemias involve floating blood-forming lineages."
   },
   {
@@ -338,12 +338,12 @@
     "type": "mcq",
     "question": "Imran runs at 10 miles/hour and completes a track in 151.2 minutes. His friend Nawaz completes the same track in 210 minutes. How fast was Imran running compared to his friend?",
     "options": [
-      "1.2.7 miles/hour",
-      "2.2.8 miles/hour",
-      "3.2.6 miles/hour",
-      "4. 2.9 miles/hour"
+      "2.7",
+      "2.8",
+      "2.6",
+      "2.9 miles/hour"
     ],
-    "correct_answer": "2.2.8 miles/hour",
+    "correct_answer": "2.8",
     "explanation": "[CONCEPT]\nDistance is constant. Speed ratio is inversely proportional to time ratio. Nawaz speed / Imran speed = 151.2 / 210 = 0.72. Nawaz speed = 7.2 mph. Difference in speed = 10 - 7.2 = 2.8 miles/hour."
   },
   {
@@ -650,12 +650,12 @@
     "type": "mcq",
     "question": "If the analytical expression maps balance variable constraints, find the value of n:",
     "options": [
-      "1.3",
-      "2.7",
-      "3.11",
-      "4.13"
+      "3",
+      "7",
+      "11",
+      "13"
     ],
-    "correct_answer": "2.7",
+    "correct_answer": "7",
     "explanation": "[CONCEPT]\nEvaluating the mathematical root constraints matches the designated key verification index corresponding to 2.7."
   },
   {
@@ -779,12 +779,12 @@
       "Geranylgeranyl diphosphate"
     ],
     "options": [
-      "(a) A-iii, B-iv, C-ii and D-i",
-      "(b) A-iv, B-iii, C-i and D-ii",
-      "(c) A-ii, B-iv, C-i and D-iii",
-      "(d) A-ii, B-i, C-iii and D-iv"
+      "A-iii, B-iv, C-ii and D-i",
+      "A-iv, B-iii, C-i and D-ii",
+      "A-ii, B-iv, C-i and D-iii",
+      "A-ii, B-i, C-iii and D-iv"
     ],
-    "correct_answer": "(b) A-iv, B-iii, C-i and D-ii",
+    "correct_answer": "A-iv, B-iii, C-i and D-ii",
     "explanation": "[CONCEPT]\nGibberellins derive from GGPP, cytokinins from IPP, ABA from carotenoid pathway, and brassinosteroids from squalene."
   },
   {
@@ -1037,7 +1037,7 @@
   {
     "id": 76,
     "type": "match_following_mcq",
-    "question": "Match the cell cycle phases in List I with their descriptions in List II:",
+    "question": "Match the cell cycle phases in List I with their descriptions in\n\nList II:",
     "list_1": [
       "S-Phase of cell division",
       "G2 Phase",
@@ -1051,18 +1051,18 @@
       "Two daughter cells are produced."
     ],
     "options": [
-      "(a) A-ii, B-iii, C-iv, D-i",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-i, C-ii, D-iii",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-ii, B-iii, C-iv, D-i",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-i, C-ii, D-iii",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-iii, C-iv, D-i",
+    "correct_answer": "A-ii, B-iii, C-iv, D-i",
     "explanation": "[CONCEPT]\nDNA replication occurs in S-phase. G2 involves active preparation and growth. Cell division finishes during M-phase. Cells exit active cycling to enter the quiescent G0 phase."
   },
   {
     "id": 77,
     "type": "match_following_mcq",
-    "question": "Match the cryptographic/chromatographic interaction types in List I with the targeted properties in List II:",
+    "question": "Match the cryptographic/chromatographic interaction types in List I with the targeted properties in\n\nList II:",
     "list_1": [
       "Dye affinity",
       "Chromato focussing",
@@ -1076,18 +1076,18 @@
       "Thiol groups"
     ],
     "options": [
-      "(a) A-i, B-ii, C-iii, D-iv",
-      "(b) A-ii, B-iv, C-i, D-iii",
-      "(c) A-iii, B-i, C-iv, D-ii",
-      "(d) A-iv, B-iii, C-ii, D-i"
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-iii, C-ii, D-i"
     ],
-    "correct_answer": "(c) A-iii, B-i, C-iv, D-ii",
+    "correct_answer": "A-iii, B-i, C-iv, D-ii",
     "explanation": "[CONCEPT]\nChromatofocusing separates molecules based on their isoelectric point (pI). Covalent affinity setups often isolate targeted thiol groups. Gel filtration sorts macromolecular components based on hydrodynamic molecular size."
   },
   {
     "id": 78,
     "type": "match_following_mcq",
-    "question": "Match the phenolic secondary metabolites in List I with their plant sources in List II:",
+    "question": "Match the phenolic secondary metabolites in List I with their plant sources in\n\nList II:",
     "list_1": [
       "Podophyllotoxin",
       "Curcumin",
@@ -1101,12 +1101,12 @@
       "Grapes"
     ],
     "options": [
-      "(a) A-i, B-iii, C-ii, D-iv",
-      "(b) A-ii, B-i, C-iv, D-iii",
-      "(c) A-iii, B-iv, C-i, D-ii",
-      "(d) A-iv, B-ii, C-iii, D-i"
+      "A-i, B-iii, C-ii, D-iv",
+      "A-ii, B-i, C-iv, D-iii",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-ii, C-iii, D-i"
     ],
-    "correct_answer": "(a) A-i, B-iii, C-ii, D-iv",
+    "correct_answer": "A-i, B-iii, C-ii, D-iv",
     "explanation": "[CONCEPT]\nPodophyllotoxin is isolated from the Mayapple plant. Curcumin is the active ingredient in turmeric rhizomes. Methyl-eugenol is found in star anise. Resveratrol is famously found in grapes."
   },
   {
@@ -1190,7 +1190,7 @@
   {
     "id": 85,
     "type": "match_following_mcq",
-    "question": "Match the products in List I with their applications in List II:",
+    "question": "Match the products in List I with their applications in\n\nList II:",
     "list_1": [
       "Nisin",
       "Superoxide dis-mutases",
@@ -1204,12 +1204,12 @@
       "Gums and thickeners, culture viscosity stabilizers"
     ],
     "options": [
-      "(a) A-ii, B-i, C-iv, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-ii, B-i, C-iv, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-i, C-iv, D-iii",
+    "correct_answer": "A-ii, B-i, C-iv, D-iii",
     "explanation": "[CONCEPT]\nNisin is a bacteriocin used as a food preservative. SOD acts as an antioxidant. Microbial polysaccharides are used as thickening agents. Probiotics support lactose digestion and a healthy gut microbiome."
   },
   {
@@ -1332,7 +1332,7 @@
   {
     "id": 95,
     "type": "match_following_mcq",
-    "question": "Match the replication enzymes in List I with their functions in List II:",
+    "question": "Match the replication enzymes in List I with their functions in\n\nList II:",
     "list_1": [
       "DnaA",
       "DnaB",
@@ -1346,12 +1346,12 @@
       "Relieves torsional strain generated by DNA unwinding"
     ],
     "options": [
-      "(a) A-i, B-ii, C-iii, D-iv",
-      "(b) A-ii, B-i, C-iv, D-iii",
-      "(c) A-iii, B-iv, C-i, D-ii",
-      "(d) A-iv, B-iii, C-ii, D-i"
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-i, C-iv, D-iii",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-iii, C-ii, D-i"
     ],
-    "correct_answer": "(a) A-i, B-ii, C-iii, D-iv",
+    "correct_answer": "A-i, B-ii, C-iii, D-iv",
     "explanation": "[CONCEPT]\nDnaA initiates origin opening. DnaB functions as the replicative helicase to unwind strands. DnaG lays down RNA primers. DNA gyrase removes downstream positive supercoiling."
   },
   {
@@ -1461,7 +1461,7 @@
   {
     "id": 104,
     "type": "match_following_mcq",
-    "question": "Match the algal genuses in List I with their taxonomic groups in List II:",
+    "question": "Match the algal genuses in List I with their taxonomic groups in\n\nList II:",
     "list_1": [
       "Fucus serratus",
       "Gelidium sp.",
@@ -1475,12 +1475,12 @@
       "Blue green algae"
     ],
     "options": [
-      "(a) A-i, B-ii, C-iii, D-iv",
-      "(b) A-ii, B-iii, C-iv, D-i",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-i, B-ii, C-iii, D-iv",
+    "correct_answer": "A-i, B-ii, C-iii, D-iv",
     "explanation": "[CONCEPT]\nFucus is a brown alga (Phaeophyceae). Gelidium yields agar and is a red alga (Rhodophyceae). Chlorella is a green alga (Chlorophyceae). Cyanophyceae represents blue-green algae (Cyanobacteria)."
   },
   {
@@ -1572,12 +1572,12 @@
       ]
     },
     "options": [
-      "(a) KA = KB",
-      "(b) KA > KB",
-      "(c) KA < KB",
-      "(d) K cannot be determined with the given information"
+      "KA = KB",
+      "KA > KB",
+      "KA < KB",
+      "K cannot be determined with the given information"
     ],
-    "correct_answer": "(b) KA > KB",
+    "correct_answer": "KA > KB",
     "explanation": "[STEPS]\nStep 1: Partition coefficient K\n= C_extract / C_raffinate. For solute A, KA = 50 / 1 = 50. For solute B, KB = 1 / 50 = 0.02. Thus, KA > KB."
   },
   {
@@ -1622,7 +1622,7 @@
   {
     "id": 114,
     "type": "match_following_mcq",
-    "question": "Match the precursors in List I with their fermentation products in List II:",
+    "question": "Match the precursors in List I with their fermentation products in\n\nList II:",
     "list_1": [
       "Phenylacetic-acid related compounds",
       "Phenoxy acetic acid",
@@ -1636,12 +1636,12 @@
       "Cyclosporin C"
     ],
     "options": [
-      "(a) A-i, B-ii, C-iii, D-iv",
-      "(b) A-ii, B-iv, C-i, D-iii",
-      "(c) A-iii, B-i, C-iv, D-ii",
-      "(d) A-iv, B-iii, C-ii, D-i"
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-iii, C-ii, D-i"
     ],
-    "correct_answer": "(a) A-i, B-ii, C-iii, D-iv",
+    "correct_answer": "A-i, B-ii, C-iii, D-iv",
     "explanation": "[CONCEPT]\nAdding phenylacetic acid yields Penicillin G, while phenoxyacetic acid yields Penicillin V. Cyanide elements are incorporated during cobalamin production steps. Threonine is an intermediate in cyclosporin biosynthesis paths."
   },
   {
@@ -1699,7 +1699,7 @@
   {
     "id": 119,
     "type": "match_following_mcq",
-    "question": "Match the protein processing cellular elements in List I with their descriptors in List II:",
+    "question": "Match the protein processing cellular elements in List I with their descriptors in\n\nList II:",
     "list_1": [
       "A lipid anchor for proteins attached with the membrane",
       "Ribonucleoprotein complex to bind to the signal peptide",
@@ -1713,12 +1713,12 @@
       "GPI"
     ],
     "options": [
-      "(a) A-iv, B-i, C-ii, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-ii, B-iii, C-iv, D-i",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-iv, B-i, C-ii, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iii, C-iv, D-i",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-iv, B-i, C-ii, D-iii",
+    "correct_answer": "A-iv, B-i, C-ii, D-iii",
     "explanation": "[CONCEPT]\nGPI acts as a lipid anchor. SRP is a ribonucleoprotein complex that binds the signal peptide. PDI shuffles disulfide bonds to support proper folding. BiP is an Hsp70 chaperone localized to the ER lumen."
   },
   {
@@ -1763,7 +1763,7 @@
   {
     "id": 123,
     "type": "mcq",
-    "question": "Following are certain statements regarding FLOWERING LOCUS C (FLC) gene in Arabidopsis:\nA. FLC is a strong repressor of flowering.\nB. Higher expression of FLC induces early flowering.\nC. FLC is activated by FRIGIDA (FRI).\nD. Vernalisation represses FLC.\nWhich of the following sets of statements is CORRECT?",
+    "question": "Following are certain statements regarding FLOWERING LOCUS C (FLC) gene in Arabidopsis:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>FLC is a strong repressor of flowering.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Higher expression of FLC induces early flowering.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>FLC is activated by FRIGIDA (FRI).</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Vernalisation represses FLC.</span></div></div>\nWhich of the following sets of statements is CORRECT?",
     "options": [
       "A, B and C",
       "A, B and D",
@@ -1792,11 +1792,11 @@
     "question": "Intake of total folic acid should not exceed ____ in the diet for adults:",
     "options": [
       "0.8 mg/day",
-      "1.6 mg/day",
+      "6 mg/day",
       "0.4 mg/day",
-      "4.0 mg/day"
+      "0 mg/day"
     ],
-    "correct_answer": "1.6 mg/day",
+    "correct_answer": "6 mg/day",
     "explanation": "[CONCEPT]\nDietary guidelines set standard upper limits for folate supplementation to prevent masking vitamin B12 deficiencies. The designated answer option is 1.6 mg/day."
   },
   {
@@ -1854,7 +1854,7 @@
   {
     "id": 130,
     "type": "mcq",
-    "question": "Signal propagation at a chemical synapse is characterized by:\nA. Delay and bidirectional signal propagation.\nB. Delay and unidirectional signal propagation.\nC. Efflux of Ca++ ions leading to release of neurotransmitter at the pre-synaptic terminal.\nD. Significant influx of Ca++ ions at the post-synaptic neuron leading to neurotransmitter release and generation of action potential.\nChoose the CORRECT answer:",
+    "question": "Signal propagation at a chemical synapse is characterized by:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Delay and bidirectional signal propagation.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Delay and unidirectional signal propagation.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Efflux of Ca++ ions leading to release of neurotransmitter at the pre-synaptic terminal.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Significant influx of Ca++ ions at the post-synaptic neuron leading to neurotransmitter release and generation of action potential.</span></div></div>\nChoose the CORRECT answer:",
     "options": [
       "A and C only",
       "B only",
@@ -1919,7 +1919,7 @@
   {
     "id": 135,
     "type": "mcq",
-    "question": "Following are certain statements regarding Gibberellin (GA) signal transduction in Arabidopsis plants:\nA. DELLA is a negative regulator of growth.\nB. GA is not required for the interaction of DELLA with GID1 protein.\nC. GID is a receptor of GA.\nD. DELLA is ubiquitinated only after GID1 perceives GA and binds to DELLA.\nE. Proteasomal degradation of DELLA is required for the growth of plant.\nWhich of the following sets of statements is CORRECT?",
+    "question": "Following are certain statements regarding Gibberellin (GA) signal transduction in Arabidopsis plants:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>DELLA is a negative regulator of growth.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>GA is not required for the interaction of DELLA with GID1 protein.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>GID is a receptor of GA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>DELLA is ubiquitinated only after GID1 perceives GA and binds to DELLA.\nE. Proteasomal degradation of DELLA is required for the growth of plant.</span></div></div>\nWhich of the following sets of statements is CORRECT?",
     "options": [
       "A, B, C and D",
       "A, B, C and E",
@@ -1932,7 +1932,7 @@
   {
     "id": 136,
     "type": "match_following_mcq",
-    "question": "Match the photosystem proteins in List I with their encoding genes in List II:",
+    "question": "Match the photosystem proteins in List I with their encoding genes in\n\nList II:",
     "list_1": [
       "D1",
       "D2",
@@ -1946,12 +1946,12 @@
       "psbA"
     ],
     "options": [
-      "(a) A-iv, B-ii, C-iii, D-i",
-      "(b) A-i, B-iii, C-ii, D-iv",
-      "(c) A-ii, B-iv, C-i, D-iii",
-      "(d) A-iii, B-i, C-iv, D-ii"
+      "A-iv, B-ii, C-iii, D-i",
+      "A-i, B-iii, C-ii, D-iv",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-i, C-iv, D-ii"
     ],
-    "correct_answer": "(a) A-iv, B-ii, C-iii, D-i",
+    "correct_answer": "A-iv, B-ii, C-iii, D-i",
     "explanation": "[CONCEPT]\nThe D1 reaction center protein is encoded by the chloroplast psbA gene, while D2 is encoded by psbD. Gene tracking maps P47 to psbC and CP43 to psbB."
   },
   {
@@ -2009,7 +2009,7 @@
   {
     "id": 141,
     "type": "match_following_mcq",
-    "question": "Match the plant secondary metabolites in List I with their botanical sources in List II:",
+    "question": "Match the plant secondary metabolites in List I with their botanical sources in\n\nList II:",
     "list_1": [
       "Ajmalicine",
       "Anethole",
@@ -2023,12 +2023,12 @@
       "Catharanthus roseus"
     ],
     "options": [
-      "(a) A-iii, B-i, C-ii, D-iv",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-ii, B-iv, C-i, D-iii"
+      "A-iii, B-i, C-ii, D-iv",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-ii, B-iv, C-i, D-iii"
     ],
-    "correct_answer": "(a) A-iii, B-i, C-ii, D-iv",
+    "correct_answer": "A-iii, B-i, C-ii, D-iv",
     "explanation": "[CONCEPT]\nAjmalicine is an indole alkaloid isolated from Rauwolfia. Anethole provides the characteristic flavor of star anise. Codeine is an opiate harvested from poppy pods. Vincristine is an anticancer alkaloid derived from periwinkle."
   },
   {
@@ -2062,12 +2062,12 @@
     "type": "mcq",
     "question": "In a single stage continuous extraction system, solvent is added to cell-free culture filtrate containing the product. If the partition coefficient of the product is 5, then to extract 90% of the product, assuming ideal single stage, the flow rate of solvent should be how many times the flow rate of the culture filtrate:",
     "options": [
-      "1.5 times",
-      "1.8 times",
-      "2.1 times",
-      "2.4 times"
+      "5 times",
+      "8 times",
+      "1 times",
+      "4 times"
     ],
-    "correct_answer": "1.8 times",
+    "correct_answer": "8 times",
     "explanation": "[CONCEPT]\nExtraction efficiency E = (K * R) / (1 + K * R), where R is the ratio of flow rates. 0.90 = 5R / (1 + 5R) => 0.90 + 4.5R = 5R => 0.90 = 0.5R => R = 1.8. Thus, the solvent flow rate must be 1.8 times the filtrate flow rate."
   },
   {
@@ -2385,7 +2385,7 @@
   {
     "id": 169,
     "type": "match_following_mcq",
-    "question": "Match the interleukins/cytokines in List I with their immunological properties in List II:",
+    "question": "Match the interleukins/cytokines in List I with their immunological properties in\n\nList II:",
     "list_1": [
       "Interleukin-2 (IL-2)",
       "Interferon-y (IFN-y)",
@@ -2399,12 +2399,12 @@
       "Major growth factor for T and B cells; enhances cytolytic activity of natural killer cells"
     ],
     "options": [
-      "(a) A-iv, B-iii, C-ii, D-i",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-iv, C-i, D-ii",
-      "(d) A-ii, B-i, C-iv, D-iii"
+      "A-iv, B-iii, C-ii, D-i",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-ii, B-i, C-iv, D-iii"
     ],
-    "correct_answer": "(a) A-iv, B-iii, C-ii, D-i",
+    "correct_answer": "A-iv, B-iii, C-ii, D-i",
     "explanation": "[CONCEPT]\nIL-2 is a primary T-cell growth factor. IFN-γ activates macrophages and increases MHC presentation. TNF drives inflammation pathways. IL-12 promotes TH1 differentiation and activates NK loops."
   },
   {
@@ -2423,7 +2423,7 @@
   {
     "id": 171,
     "type": "mcq",
-    "question": "The function of sieve tube in plants includes transmission of:\nA. Chemical signals\nB. mRNAs\nC. Electrical signals\nD. Spheroplasts",
+    "question": "The function of sieve tube in plants includes transmission of:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Chemical signals</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>mRNAs</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Electrical signals</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Spheroplasts</span></div></div>",
     "options": [
       "b, c and d only",
       "a, b and c only",
@@ -2475,7 +2475,7 @@
   {
     "id": 175,
     "type": "match_following_mcq",
-    "question": "Match the plant sources in List I with their secondary metabolites in List II:",
+    "question": "Match the plant sources in List I with their secondary metabolites in\n\nList II:",
     "list_1": [
       "Belladonna",
       "Foxglove",
@@ -2489,12 +2489,12 @@
       "Taxol"
     ],
     "options": [
-      "(a) A-ii, B-iii, C-iv, D-i",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-iv, C-i, D-ii",
-      "(d) A-iv, B-i, C-ii, D-iii"
+      "A-ii, B-iii, C-iv, D-i",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-iv, C-i, D-ii",
+      "A-iv, B-i, C-ii, D-iii"
     ],
-    "correct_answer": "(a) A-ii, B-iii, C-iv, D-i",
+    "correct_answer": "A-ii, B-iii, C-iv, D-i",
     "explanation": "[CONCEPT]\nAtropa belladonna produces atropine. Foxglove (Digitalis) produces cardiac glycosides like digitalin. Taxol is harvested from the Pacific Yew tree (Taxus). Eucalyptus leaves yield volatile essential oils."
   },
   {
@@ -2562,12 +2562,12 @@
       ]
     },
     "options": [
-      "(a) Plant A and Plant D",
-      "(b) Plant C only",
-      "(c) Plant B only",
-      "(d) Plant C and Plant D"
+      "Plant A and Plant D",
+      "Plant C only",
+      "Plant B only",
+      "Plant C and Plant D"
     ],
-    "correct_answer": "(b) Plant C only",
+    "correct_answer": "Plant C only",
     "explanation": "[CONCEPT]\nCO2 capture is facilitated by higher partial pressures. Plant C has the highest absolute partial pressure (60 atm) and a high concentration (40%), making it the easiest candidate for capture operations."
   },
   {
@@ -2703,7 +2703,7 @@
   {
     "id": 189,
     "type": "match_following_mcq",
-    "question": "Match the animal cell lines in List I with their primary vaccine/biomedical applications in List II:",
+    "question": "Match the animal cell lines in List I with their primary vaccine/biomedical applications in\n\nList II:",
     "list_1": [
       "Baby hamster kidney cells",
       "Myeloma cell lines",
@@ -2717,12 +2717,12 @@
       "Foot and mouth vaccine"
     ],
     "options": [
-      "(a) A-iv, B-i, C-iii, D-ii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-ii, B-iv, C-i, D-iii",
-      "(d) A-iii, B-ii, C-iv, D-i"
+      "A-iv, B-i, C-iii, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-ii, C-iv, D-i"
     ],
-    "correct_answer": "(a) A-iv, B-i, C-iii, D-ii",
+    "correct_answer": "A-iv, B-i, C-iii, D-ii",
     "explanation": "[CONCEPT]\nBHK cells are used to produce the foot-and-mouth disease vaccine. Myeloma lines fuse to produce monoclonal antibodies. Vero simian cells are used for polio vaccine production. Porcine lines are used in urokinase extraction."
   },
   {

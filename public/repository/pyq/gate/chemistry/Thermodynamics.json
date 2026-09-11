@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "The most widely applicable condition for spontaneity of process is",
+    "options": [
+      "(ΔE)_S,V ≤ 0",
+      "(ΔS)_E,V ≥ 0",
+      "(ΔA)_T,V ≤ 0",
+      "(ΔG)_T,p ≤ 0"
+    ],
+    "correct_answer": "(ΔG)_T,p ≤ 0",
+    "explanation": "[CONCEPT]\nStep 1: Most chemical processes and biological reactions occur at constant temperature and pressure (isothermal and isobaric).\nStep 2: The criterion for spontaneity under these conditions is (ΔG)_T,p ≤ 0."
+  },
+  {
+    "id": 2,
+    "question": "If q is the amount of heat supplied by the system and w is the magnitude of the work done on the system, the change in internal energy of the system equals",
+    "options": [
+      "−q + w",
+      "q − w",
+      "q + w",
+      "−q − w"
+    ],
+    "correct_answer": "−q + w",
+    "explanation": "[CONCEPT]\nStep 1: By the First Law of Thermodynamics: ΔU = Q + W.\nStep 2: Heat supplied BY the system means heat is lost: Q = −q.\nStep 3: Work done ON the system means work is positive: W = +w.\nStep 4: ΔU = −q + w."
+  },
+  {
+    "id": 3,
+    "question": "A drop of ink put in glass of water mixes uniformly with the passage of time. This is due to",
+    "options": [
+      "gravitational force.",
+      "minimization of potential energy.",
+      "maximization of entropy.",
+      "osmotic pressure of pure water."
+    ],
+    "correct_answer": "maximization of entropy.",
+    "explanation": "[CONCEPT]\nStep 1: Spontaneous diffusion of ink in water increases molecular randomness and dispersion.\nStep 2: According to the Second Law of Thermodynamics, spontaneous processes proceed toward maximum entropy (ΔS_total > 0)."
+  },
+  {
+    "id": 4,
+    "question": "That the specific heat of a stable solid is positive, can be derived from",
+    "options": [
+      "Gibbs-Helmholtz equation.",
+      "Kirchhoff's equation.",
+      "the first law of thermodynamics.",
+      "the second law of thermodynamics."
+    ],
+    "correct_answer": "the second law of thermodynamics.",
+    "explanation": "[CONCEPT]\nStep 1: Thermodynamic stability criteria derived from the Second Law require that entropy must be a concave function of internal energy.\nStep 2: This imposes (∂²S/∂U²)_V ≤ 0, which directly requires heat capacity Cv = (∂U/∂T)_V > 0."
+  },
+  {
+    "id": 5,
+    "question": "Among the following the one that is an extensive variable is",
+    "options": [
+      "density.",
+      "volume.",
+      "specific heat.",
+      "temperature."
+    ],
+    "correct_answer": "volume.",
+    "explanation": "[CONCEPT]\nStep 1: Extensive properties depend on the mass or quantity of matter in the system (e.g., volume, mass, internal energy, entropy).\nStep 2: Intensive properties (density, temperature, specific heat) are independent of system size."
+  },
+  {
+    "id": 6,
+    "question": "For an adiabatic irreversible expansion of one mole of an ideal gas",
+    "options": [
+      "ΔS_system > 0 and ΔS_surroundings = 0",
+      "ΔS_system = 0 and ΔS_surroundings = 0",
+      "ΔS_system < 0 and ΔS_surroundings > 0",
+      "ΔS_system > 0 and ΔS_surroundings < 0"
+    ],
+    "correct_answer": "ΔS_system > 0 and ΔS_surroundings = 0",
+    "explanation": "[CONCEPT]\nStep 1: In an adiabatic process, q_surroundings = 0 ⟹ ΔS_surroundings = 0.\nStep 2: For any spontaneous/irreversible process: ΔS_total = ΔS_system + ΔS_surroundings > 0.\nStep 3: Hence, ΔS_system > 0."
+  },
+  {
+    "id": 7,
+    "question": "In a liquid vapor phase boundary, a plot of ln (vapor pressure) against the reciprocal of temperature would yield as slope",
+    "options": [
+      "ΔvapH / R",
+      "−ΔvapH / R",
+      "ΔvapH / ΔvapV",
+      "ΔvapH / R²"
+    ],
+    "correct_answer": "−ΔvapH / R",
+    "explanation": "[CONCEPT]\nStep 1: Clausius-Clapeyron equation: ln P = −(ΔvapH / R) · (1/T) + C.\nStep 2: Plotting ln P vs 1/T gives a straight line with slope = −ΔvapH / R."
+  },
+  {
+    "id": 8,
+    "question": "If the molar enthalpy and entropy of fusion of water are 6.01 kJ mol⁻¹ and 22.0 J mol⁻¹ K⁻¹, respectively, the ΔG for the melting of ice at 10°C is",
+    "options": [
+      "−6220 kJ mol⁻¹",
+      "−214 kJ mol⁻¹",
+      "−5.79 kJ mol⁻¹",
+      "−0.22 kJ mol⁻¹"
+    ],
+    "correct_answer": "−0.22 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: T = 10°C = 283.15 K.\nStep 2: ΔG = ΔH − TΔS = 6.01 kJ mol⁻¹ − (283.15 K × 0.0220 kJ mol⁻¹ K⁻¹).\nStep 3: ΔG = 6.01 − 6.229 = −0.219 kJ mol⁻¹ ≈ −0.22 kJ mol⁻¹."
+  },
+  {
+    "id": 9,
+    "question": "If the heats of reaction of the following transformations: C + O₂ → CO₂ (Q), C + ½ O₂ → CO (11.5 J), and CO + ½ O₂ → CO₂ (10.5 J), then Q in Joules is equal to",
+    "options": [
+      "120.75",
+      "1",
+      "−1",
+      "22"
+    ],
+    "correct_answer": "22",
+    "explanation": "[CONCEPT]\nStep 1: By Hess's Law: Heat of overall reaction = sum of individual steps.\nStep 2: Reaction 1 + Reaction 2 = C + O₂ → CO₂.\nStep 3: Q = 11.5 J + 10.5 J = 22.0 J."
+  },
+  {
+    "id": 10,
+    "question": "The spontaneity of a reaction can be judged from the sign of the emf (E) and the free energy (ΔG) of the cell. The criteria are",
+    "options": [
+      "ΔG = +ve, E = −ve",
+      "ΔG = 0, E = 0",
+      "ΔG = −ve; E = +ve",
+      "ΔG = −ve; E = −ve"
+    ],
+    "correct_answer": "ΔG = −ve; E = +ve",
+    "explanation": "[CONCEPT]\nStep 1: Spontaneity requires standard free energy change ΔG < 0 (negative).\nStep 2: Since ΔG = −nFE, a negative ΔG corresponds directly to a positive cell emf (E > 0)."
+  },
+  {
+    "id": 11,
+    "question": "A system undergoes a change in state by path I (q₁ = 10 kcal mol⁻¹, w₁ = 0). The respective quantities for path II are q₂ = 11 kcal mol⁻¹ and w₂ = 0.5 wmax. The magnitude of wmax in kJ mol⁻¹ (1 cal = 4.2 J) is",
+    "options": [
+      "2",
+      "2",
+      "1",
+      "8.4"
+    ],
+    "correct_answer": "8.4",
+    "explanation": "[CONCEPT]\nStep 1: Internal energy ΔU is a state function: ΔU_I = ΔU_II ⟹ q₁ + w₁ = q₂ + w₂.\nStep 2: 10 + 0 = 11 + (−0.5 wmax) ⟹ 0.5 wmax = 1 kcal mol⁻¹ ⟹ wmax = 2 kcal mol⁻¹.\nStep 3: 2 kcal mol⁻¹ × 4.2 kJ kcal⁻¹ = 8.4 kJ mol⁻¹."
+  },
+  {
+    "id": 12,
+    "question": "For the reaction C₆H₁₂O₆(s) + 6 O₂(g) → 6 CO₂(g) + 6 H₂O(l), ΔU = −2810 kJ mol⁻¹. ΔH in kJ mol⁻¹ is",
+    "options": [
+      "845",
+      "−890",
+      "−2810",
+      "−2864"
+    ],
+    "correct_answer": "−2810",
+    "explanation": "[CONCEPT]\nStep 1: ΔH = ΔU + Δn_g RT.\nStep 2: Δn_g = moles of gaseous products − moles of gaseous reactants = 6 (CO₂) − 6 (O₂) = 0.\nStep 3: Therefore, ΔH = ΔU = −2810 kJ mol⁻¹."
+  },
+  {
+    "id": 13,
+    "question": "0.050 mol of Ar initially at 25°C, expands adiabatically and reversibly from 0.50 L to 1.00 L (Cv,m for Ar is 12.48 J K⁻¹ mol⁻¹). The work done in this process is",
+    "options": [
+      "117 J",
+      "−69 J",
+      "−138 J",
+      "−1378 J"
+    ],
+    "correct_answer": "−69 J",
+    "explanation": "[CONCEPT]\nStep 1: Cp,m = Cv,m + R = 12.48 + 8.314 = 20.794 J K⁻¹ mol⁻¹ ⟹ γ = 20.794 / 12.48 = 1.666.\nStep 2: T₂ = T₁ (V₁/V₂)^(γ−1) = 298 × (0.50/1.00)^0.666 = 298 × 0.630 = 187.8 K.\nStep 3: w = n Cv,m (T₂ − T₁) = 0.050 × 12.48 × (187.8 − 298) = 0.624 × (−110.2) ≈ −68.8 J ≈ −69 J."
+  },
+  {
+    "id": 14,
+    "question": "Efficiency of a reversible cyclic heat engine working between Tc and Th is",
+    "options": [
+      "−Tc/Th",
+      "(Tc − Th)/Th",
+      "(Th − Tc)/Th",
+      "Tc/Th"
+    ],
+    "correct_answer": "(Th − Tc)/Th",
+    "explanation": "[CONCEPT]\nStep 1: Carnot efficiency η = W / Q_h = (Q_h − Q_c) / Q_h = (Th − Tc) / Th."
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following is not a state function?",
+    "options": [
+      "Enthalpy (H)",
+      "Internal energy (U)",
+      "Work done (w)",
+      "Entropy (S)"
+    ],
+    "correct_answer": "Work done (w)",
+    "explanation": "[CONCEPT]\nStep 1: State functions depend only on the initial and final states of a system (H, U, S, G, T, P, V).\nStep 2: Work (w) and heat (q) are path functions whose values depend on the specific pathway taken."
+  },
+  {
+    "id": 16,
+    "question": "Statement for Linked Questions: The equilibrium constant (K) for the reaction Ag₂CO₃(s) ⇌ Ag₂O(s) + CO₂(g) varies with temperature as: T = 400 K, K = 1.41 × 10⁻²; T = 500 K, K = 1.41. The standard free energy change (ΔG°) for the reaction at 500 K is (R = 8.314 J K⁻¹ mol⁻¹)",
+    "options": [
+      "−0.62 kJ mol⁻¹",
+      "−1.43 kJ mol⁻¹",
+      "0.62 kJ mol⁻¹",
+      "43 kJ mol⁻¹"
+    ],
+    "correct_answer": "−1.43 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: ΔG° = −RT ln K.\nStep 2: At 500 K, K = 1.41.\nStep 3: ΔG° = −(8.314 J K⁻¹ mol⁻¹) × (500 K) × ln(1.41) = −4157 × 0.3436 = −1428.3 J mol⁻¹ = −1.43 kJ mol⁻¹."
+  },
+  {
+    "id": 17,
+    "question": "Assuming that the standard enthalpy change (ΔH°) for the above reaction is constant in this temperature range, its value is",
+    "options": [
+      "33.3 kJ mol⁻¹",
+      "76.6 kJ mol⁻¹",
+      "−33.3 kJ mol⁻¹",
+      "−76.6 kJ mol⁻¹"
+    ],
+    "correct_answer": "76.6 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: van't Hoff equation: ln(K₂/K₁) = (ΔH° / R) × [(T₂ − T₁) / (T₁ T₂)].\nStep 2: ln(1.41 / 0.0141) = ln(100) = 4.605 = (ΔH° / 8.314) × [100 / (400 × 500)].\nStep 3: ΔH° = [4.605 × 8.314 × 200000] / 100 = 76572 J mol⁻¹ = 76.6 kJ mol⁻¹."
+  },
+  {
+    "id": 18,
+    "question": "Liquid bromine boils at 59°C. Assuming it to be a normal liquid, which of the following gives its standard molar enthalpy of vaporization?",
+    "options": [
+      "(8.314 × 332) J mol⁻¹",
+      "(85 × 332) J mol⁻¹",
+      "(332 / 85) J mol⁻¹",
+      "(332 / 8.314) J mol⁻¹"
+    ],
+    "correct_answer": "(85 × 332) J mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: According to Trouton's rule, for normal unassociated liquids: ΔvapS = ΔvapH / Tb ≈ 85–88 J K⁻¹ mol⁻¹.\nStep 2: Normal boiling point Tb = 59 + 273 = 332 K.\nStep 3: ΔvapH = Tb × ΔvapS = 332 K × 85 J K⁻¹ mol⁻¹ = (85 × 332) J mol⁻¹."
+  },
+  {
+    "id": 19,
+    "question": "The reversible and irreversible entropy changes of a system on going from state '1' to state '2' are ΔS₁₂^rev and ΔS₁₂^irrev respectively. The correct relationship between the two entropy changes is",
+    "options": [
+      "ΔS₁₂^irrev > ΔS₁₂^rev",
+      "ΔS₁₂^irrev < ΔS₁₂^rev",
+      "ΔS₁₂^irrev = ΔS₁₂^rev",
+      "ΔS₁₂^irrev = −ΔS₁₂^rev"
+    ],
+    "correct_answer": "ΔS₁₂^irrev = ΔS₁₂^rev",
+    "explanation": "[CONCEPT]\nStep 1: Entropy (S) of a system is a state function.\nStep 2: The change in entropy of the system (ΔS_system) between two fixed equilibrium states 1 and 2 is independent of the path (reversible or irreversible).\nStep 3: Thus, ΔS₁₂^irrev = ΔS₁₂^rev."
+  },
+  {
+    "id": 20,
+    "question": "For a spontaneous process, the total entropy change (ΔS_system + ΔS_surroundings) is",
+    "options": [
+      "equal to zero.",
+      "greater than zero.",
+      "less than zero for endothermic process.",
+      "less than zero for exothermic process."
+    ],
+    "correct_answer": "greater than zero.",
+    "explanation": "[CONCEPT]\nStep 1: The Second Law of Thermodynamics states that for any spontaneous/irreversible process in an isolated universe: ΔS_total = ΔS_system + ΔS_surroundings > 0."
+  },
+  {
+    "id": 21,
+    "question": "Trouton's rule is obeyed by",
+    "options": [
+      "hydrogen.",
+      "methanol.",
+      "benzene.",
+      "acetic acid."
+    ],
+    "correct_answer": "benzene.",
+    "explanation": "[CONCEPT]\nStep 1: Trouton's rule (ΔvapS ≈ 88 J K⁻¹ mol⁻¹) is obeyed by normal, non-polar, unassociated liquids with no hydrogen bonding (e.g., benzene).\nStep 2: Methanol and acetic acid form hydrogen-bonded networks, and hydrogen has quantum effects, deviating strongly from Trouton's rule."
+  },
+  {
+    "id": 22,
+    "question": "Consider the equilibrium SO₂(g) + ½ O₂(g) ⇌ SO₃(g), ΔH = −23.5 kcal mol⁻¹. The formation of SO₃ is favored by",
+    "options": [
+      "compression and decreasing the temperature.",
+      "compression and increasing the temperature.",
+      "expansion and increasing the temperature.",
+      "expansion and decreasing the temperature."
+    ],
+    "correct_answer": "compression and decreasing the temperature.",
+    "explanation": "[CONCEPT]\nStep 1: Forward reaction is exothermic (ΔH < 0), so decreasing temperature shifts equilibrium forward by Le Chatelier's principle.\nStep 2: Forward reaction decreases moles of gas (1.5 mol → 1.0 mol), so increasing pressure (compression) shifts equilibrium forward toward fewer gas molecules."
+  },
+  {
+    "id": 23,
+    "question": "The value of ionic product of water changes with temperature. It is 1 × 10⁻¹⁴ at 25°C and 1 × 10⁻¹³ at 60°C. The correct statement with respect to ΔH and ΔS is",
+    "options": [
+      "ΔH is negative and ΔS is negative.",
+      "ΔH is positive and ΔS is zero.",
+      "ΔH is positive and ΔS is negative.",
+      "ΔH is negative and ΔS is positive."
+    ],
+    "correct_answer": "ΔH is positive and ΔS is negative.",
+    "explanation": "[CONCEPT]\nStep 1: Since Kw increases with temperature (from 10⁻¹⁴ to 10⁻¹³), autoionization of water is endothermic: ΔH > 0 (positive).\nStep 2: Ionization of neutral water molecules into separated hydrated ions (H⁺ and OH⁻) organizes water solvent shells, causing negative entropy of hydration: ΔS < 0."
+  },
+  {
+    "id": 24,
+    "question": "The given equation [∂(ΔH)/∂T]_p = ΔCp where H, T and Cp are enthalpy, temperature and heat capacity at constant pressure respectively, is called",
+    "options": [
+      "Clausius-Clapeyron equation.",
+      "Hess's law.",
+      "Kirchhoff's equation.",
+      "Trouton's rule."
+    ],
+    "correct_answer": "Kirchhoff's equation.",
+    "explanation": "[CONCEPT]\nStep 1: Kirchhoff's law describes the variation of the enthalpy of a chemical reaction with temperature at constant pressure: [d(ΔH)/dT]_p = ΔCp."
+  },
+  {
+    "id": 25,
+    "question": "At 298 K, the bond dissociation energies of C–H, C–C and C=C are 415, 344 and 615 kJ mol⁻¹, respectively. The enthalpy of atomization of carbon is 717 kJ mol⁻¹ and that of hydrogen is 218 kJ mol⁻¹. The heat of formation of naphthalene (C₁₀H₈) at 298 K is __________ kJ mol⁻¹.",
+    "options": [
+      "455",
+      "320",
+      "180",
+      "560"
+    ],
+    "correct_answer": "455",
+    "explanation": "[CONCEPT]\nStep 1: 10 C(s) + 4 H₂(g) → C₁₀H₈(g).\nStep 2: Energy to atomize reactants = 10(717) + 8(218) = 7170 + 1744 = 8914 kJ.\nStep 3: Energy released forming naphthalene bonds (8 C–H, 6 C–C, 5 C=C) = 8(415) + 6(344) + 5(615) = 3320 + 2064 + 3075 = 8459 kJ.\nStep 4: ΔfH = 8914 − 8459 = +455 kJ mol⁻¹."
+  },
+  {
+    "id": 26,
+    "question": "The molar enthalpy of vaporization for a liquid (normal boiling point = 78.3°C) is 39 kJ mol⁻¹. If the liquid has to boil at 25°C, the pressure must be reduced to __________ Torr (up to one decimal place). (R = 8.314 J K⁻¹ mol⁻¹, 1 atm = 760 Torr)",
+    "options": [
+      "69.8",
+      "55.4",
+      "82.1",
+      "120.0"
+    ],
+    "correct_answer": "69.8",
+    "explanation": "[CONCEPT]\nStep 1: T₁ = 78.3 + 273.15 = 351.45 K, P₁ = 760 Torr; T₂ = 25 + 273.15 = 298.15 K.\nStep 2: ln(P₁/P₂) = (ΔvapH / R) × [(T₁ − T₂) / (T₁ T₂)] = (39000 / 8.314) × [53.3 / (351.45 × 298.15)] = 4690.88 × 0.00050867 = 2.386.\nStep 3: P₁/P₂ = e^2.386 = 10.87 ⟹ P₂ = 760 / 10.87 ≈ 69.8 Torr."
+  },
+  {
+    "id": 27,
+    "question": "For the process H₂O(l) ⇌ H₂O(s) at 0°C and 1 atm, the correct statement is",
+    "options": [
+      "ΔS_system = 0",
+      "ΔS_total > 0",
+      "ΔS_total = 0",
+      "ΔS_total < 0"
+    ],
+    "correct_answer": "ΔS_total = 0",
+    "explanation": "[CONCEPT]\nStep 1: At 0°C (273.15 K) and 1 atm, liquid water and ice are in true thermodynamic phase equilibrium.\nStep 2: For any reversible equilibrium process, total entropy change of universe is zero: ΔS_total = ΔS_system + ΔS_surroundings = 0."
+  },
+  {
+    "id": 28,
+    "question": "Combination of a process and equation are given below. The incorrect combination is",
+    "options": [
+      "constant pressure heating with no phase change; w = −∫ p dV",
+      "reversible adiabatic process in a perfect gas; ΔU = ∫ Cp(T) dV",
+      "reversible isothermal process in a perfect gas; w_rev = −∫ p dV",
+      "constant volume heating with no phase change; ΔU = ∫ Cv dT"
+    ],
+    "correct_answer": "reversible adiabatic process in a perfect gas; ΔU = ∫ Cp(T) dV",
+    "explanation": "[CONCEPT]\nStep 1: For any process in an ideal gas, change in internal energy is given by ΔU = ∫ Cv dT.\nStep 2: The expression ΔU = ∫ Cp(T) dV is dimensionally and physically incorrect."
+  },
+  {
+    "id": 29,
+    "question": "For propene at 298 K, the molar enthalpy of hydrogenation is −124.27 kJ mol⁻¹ and the standard enthalpy of formation is 20.42 kJ mol⁻¹. For propane at 298 K, the standard enthalpy of formation in kJ mol⁻¹ is __________.",
+    "options": [
+      "−103.85",
+      "−144.69",
+      "−124.27",
+      "103.85"
+    ],
+    "correct_answer": "−103.85",
+    "explanation": "[CONCEPT]\nStep 1: C₃H₆(g) + H₂(g) → C₃H₈(g); ΔrH° = ΔfH°(propane) − [ΔfH°(propene) + ΔfH°(H₂)].\nStep 2: −124.27 = ΔfH°(propane) − (20.42 + 0).\nStep 3: ΔfH°(propane) = −124.27 + 20.42 = −103.85 kJ mol⁻¹."
+  },
+  {
+    "id": 30,
+    "question": "The extensive quantity among the following is",
+    "options": [
+      "pressure.",
+      "temperature.",
+      "chemical potential.",
+      "volume."
+    ],
+    "correct_answer": "volume.",
+    "explanation": "[CONCEPT]\nStep 1: Volume depends on the extent (mass/amount) of the system and is an extensive property.\nStep 2: Pressure, temperature, and chemical potential are intensive variables."
+  },
+  {
+    "id": 31,
+    "question": "For the complete combustion of graphite and diamond in oxygen individually, the standard enthalpy change values are −393.5 kJ mol⁻¹ and −395.4 kJ mol⁻¹, respectively. Then, the ΔH°₂₉₈ for the conversion of graphite into diamond is",
+    "options": [
+      "+1.9 kJ mol⁻¹",
+      "−1.9 kJ mol⁻¹",
+      "+3.8 kJ mol⁻¹",
+      "−3.8 kJ mol⁻¹"
+    ],
+    "correct_answer": "+1.9 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: C(graphite) + O₂ → CO₂; ΔH₁ = −393.5 kJ mol⁻¹.\nStep 2: C(diamond) + O₂ → CO₂; ΔH₂ = −395.4 kJ mol⁻¹.\nStep 3: Subtracting: C(graphite) → C(diamond); ΔH = ΔH₁ − ΔH₂ = −393.5 − (−395.4) = +1.9 kJ mol⁻¹."
+  },
+  {
+    "id": 32,
+    "question": "One mole of helium gas in an isolated system undergoes a reversible isothermal expansion at 25°C from an initial volume of 2.0 L to a final volume of 10.0 L. The change in entropy (ΔS) of the surroundings is __________ J K⁻¹ (up to two decimal places). (R = 8.314 J K⁻¹ mol⁻¹)",
+    "options": [
+      "−13.38",
+      "+13.38",
+      "0.00",
+      "−26.76"
+    ],
+    "correct_answer": "−13.38",
+    "explanation": "[CONCEPT]\nStep 1: For reversible isothermal expansion: ΔS_system = n R ln(V₂/V₁) = 1 × 8.314 × ln(10.0/2.0) = 8.314 × ln(5) = 8.314 × 1.6094 = +13.38 J K⁻¹.\nStep 2: Since the process is reversible, ΔS_total = 0 ⟹ ΔS_surroundings = −ΔS_system = −13.38 J K⁻¹."
+  },
+  {
+    "id": 33,
+    "question": "A protein in denatured state (D) is in equilibrium with native state (N): D ⇌ N. At 360 K, both N and D states are equally populated. If the standard entropy change for the reaction at this temperature is ΔS° = −139 J K⁻¹ mol⁻¹, then the corresponding standard enthalpy change ΔH° for the reaction in kJ mol⁻¹ is __________.",
+    "options": [
+      "−50.0",
+      "+50.0",
+      "−25.0",
+      "−75.0"
+    ],
+    "correct_answer": "−50.0",
+    "explanation": "[CONCEPT]\nStep 1: Equal population means [N] = [D] ⟹ K_eq = 1.\nStep 2: ΔG° = −RT ln(K_eq) = −RT ln(1) = 0.\nStep 3: ΔG° = ΔH° − TΔS° = 0 ⟹ ΔH° = TΔS° = 360 K × (−139 J K⁻¹ mol⁻¹) = −50040 J mol⁻¹ = −50.04 kJ mol⁻¹ ≈ −50.0 kJ mol⁻¹."
+  },
+  {
+    "id": 34,
+    "question": "The standard enthalpy of reaction (in kJ mol⁻¹) for obtaining three moles of H₂(g) from atomic hydrogen in gas phase is __________. (Given: Standard enthalpy of formation of atomic hydrogen in gas phase is 218 kJ mol⁻¹)",
+    "options": [
+      "−1308",
+      "+1308",
+      "−654",
+      "+654"
+    ],
+    "correct_answer": "−1308",
+    "explanation": "[CONCEPT]\nStep 1: Reaction: 6 H(g) → 3 H₂(g).\nStep 2: ΔrH° = 3 × ΔfH°(H₂) − 6 × ΔfH°(H) = 3(0) − 6(218 kJ mol⁻¹) = −1308 kJ mol⁻¹."
+  },
+  {
+    "id": 35,
+    "question": "At a given pressure, a substance is heated from 2000 K to 2600 K. If the entropy of the substance is 60 J K⁻¹ mol⁻¹, and is assumed to be constant over the given temperature range, then the change in the chemical potential (in kJ mol⁻¹) of the substance is __________.",
+    "options": [
+      "−36",
+      "+36",
+      "−60",
+      "+60"
+    ],
+    "correct_answer": "−36",
+    "explanation": "[CONCEPT]\nStep 1: Fundamental relation: (∂μ/∂T)_p = −S_m.\nStep 2: Δμ = −S_m ΔT = −(60 J K⁻¹ mol⁻¹) × (2600 − 2000 K) = −60 × 600 = −36000 J mol⁻¹ = −36 kJ mol⁻¹."
+  }
+]

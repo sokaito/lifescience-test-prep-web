@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "question": "The phosphorous atom in the molecule PF₃ is in the __________ state of hybridization.",
+    "options": [
+      "sp²",
+      "sp³",
+      "p³",
+      "dsp"
+    ],
+    "correct_answer": "sp³",
+    "explanation": "[CONCEPT]\nStep 1: Phosphorus has 5 valence electrons.\nStep 2: In PF₃, P forms 3 single bonds with F and has 1 lone pair.\nStep 3: Steric number = 3 + 1 = 4 ⟹ sp³ hybridization (trigonal pyramidal shape)."
+  },
+  {
+    "id": 2,
+    "question": "The ionic compounds MgO and CaO have the same crystal structure except that the interionic distances are 2.10 Å and 2.40 Å respectively. The ratio of the lattice energies, u(MgO)/u(CaO), is",
+    "options": [
+      "0.766",
+      "0.875",
+      "143",
+      "306"
+    ],
+    "correct_answer": "143",
+    "explanation": "[CONCEPT]\nStep 1: Lattice energy U is inversely proportional to the interionic distance r (U ∝ 1/r).\nStep 2: u(MgO) / u(CaO) = r(CaO) / r(MgO) = 2.40 Å / 2.10 Å = 1.143."
+  },
+  {
+    "id": 3,
+    "question": "In CsCl crystal structure, each Cs⁺ ion is surrounded by",
+    "options": [
+      "4 Cl⁻",
+      "6 Cl⁻",
+      "8 Cl⁻",
+      "12 Cl⁻"
+    ],
+    "correct_answer": "8 Cl⁻",
+    "explanation": "[CONCEPT]\nStep 1: CsCl possesses a body-centered cubic (bcc-like) lattice where Cs⁺ occupies the body center.\nStep 2: Each Cs⁺ is coordinated to 8 Cl⁻ ions situated at the eight corners of the unit cube (8:8 coordination)."
+  },
+  {
+    "id": 4,
+    "question": "The hybridization of oxygen in the molecule OF₂ is",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "dsp²"
+    ],
+    "correct_answer": "sp³",
+    "explanation": "[CONCEPT]\nStep 1: Oxygen has 6 valence electrons.\nStep 2: In OF₂, oxygen forms 2 bond pairs with F and retains 2 lone pairs.\nStep 3: Steric number = 2 + 2 = 4, which corresponds to sp³ hybridization (bent shape with angle ~103°)."
+  },
+  {
+    "id": 5,
+    "question": "In ice, each oxygen atom of water molecule is",
+    "options": [
+      "bonded only covalently to two hydrogen atoms.",
+      "bonded covalently to two hydrogen atoms and hydrogen-bonded to two other hydrogen atoms.",
+      "hydrogen-bonded to four hydrogen atoms.",
+      "bonded only covalently to four hydrogen atoms."
+    ],
+    "correct_answer": "bonded covalently to two hydrogen atoms and hydrogen-bonded to two other hydrogen atoms.",
+    "explanation": "[CONCEPT]\nStep 1: In the crystalline lattice of ice, each water molecule forms a tetrahedral arrangement.\nStep 2: The central oxygen atom is covalently bonded to 2 hydrogen atoms within its molecule and forms 2 hydrogen bonds with hydrogens of neighbouring water molecules."
+  },
+  {
+    "id": 6,
+    "question": "I₂ exists in the solid form under normal temperature and pressure. The principal intermolecular force holding together iodine molecules in solid is",
+    "options": [
+      "covalent.",
+      "metallic.",
+      "ionic.",
+      "van der Waals."
+    ],
+    "correct_answer": "van der Waals.",
+    "explanation": "[CONCEPT]\nStep 1: I₂ is a non-polar homonuclear diatomic molecular solid.\nStep 2: Individual I₂ molecules are held together in the crystal lattice by weak London dispersion / van der Waals forces."
+  },
+  {
+    "id": 7,
+    "question": "The single-bond length between carbon and elements viz. Carbon, nitrogen, oxygen and fluorine follow the order C–C > C–N > C–O > C–F. This trend is due to",
+    "options": [
+      "increase in electronegativity.",
+      "increase in bond polarity.",
+      "increase in atomic weight.",
+      "decrease in atomic weight."
+    ],
+    "correct_answer": "increase in electronegativity.",
+    "explanation": "[CONCEPT]\nStep 1: From C to F across the second period, electronegativity increases and atomic radius decreases.\nStep 2: The increasing electronegativity difference increases ionic character and orbital overlap, shortening the single bond length."
+  },
+  {
+    "id": 8,
+    "question": "By applying the VSEPR model on the XeF₄ molecule, which one of the following statements is true?",
+    "options": [
+      "Has four bonding pairs and a lone pair.",
+      "Has octahedral geometry and square planar shape.",
+      "Has square planar geometry and octahedral shape.",
+      "Has tetrahedral geometry and tetrahedral shape."
+    ],
+    "correct_answer": "Has octahedral geometry and square planar shape.",
+    "explanation": "[CONCEPT]\nStep 1: Xe has 8 valence electrons. In XeF₄, it has 4 bond pairs and 2 lone pairs (AX₄E₂).\nStep 2: Steric number = 6 ⟹ octahedral electron geometry.\nStep 3: The 2 lone pairs occupy axial positions, yielding a square planar molecular shape."
+  },
+  {
+    "id": 9,
+    "question": "The bond order in Be₂ molecule can be expected to be",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_answer": "0",
+    "explanation": "[CONCEPT]\nStep 1: Be (Z=4) has 8 electrons in Be₂: σ1s² σ*1s² σ2s² σ*2s².\nStep 2: Bonding electrons N_b = 4, Antibonding electrons N_a = 4.\nStep 3: Bond Order = (N_b − N_a)/2 = (4 − 4)/2 = 0 (Be₂ does not exist stably)."
+  },
+  {
+    "id": 10,
+    "question": "The hybridization of the atoms indicated by an asterisk in the following compounds in a sequence (from 1 to 4) is given by: (1) Pyridine (*N), (2) Cyclopentadienyl cation (*C⁺), (3) Bu₄N⁺Cl⁻ (*N⁺), (4) H₂C=*C=CH₂",
+    "options": [
+      "sp³, sp², sp³, sp",
+      "sp², sp², sp³, sp²",
+      "sp², sp², sp³, sp",
+      "sp², sp³, sp³, sp"
+    ],
+    "correct_answer": "sp², sp², sp³, sp",
+    "explanation": "[CONCEPT]\nStep 1: Pyridine N has 2 single bonds + 1 double bond + 1 lone pair in sp² orbital ⟹ sp².\nStep 2: Cyclopentadienyl cation (*C⁺) is sp² hybridized.\nStep 3: Tetraalkylammonium ion (Bu₄N⁺) has 4 single bonds ⟹ sp³.\nStep 4: Allene central carbon (*C) forms two double bonds ⟹ sp."
+  },
+  {
+    "id": 11,
+    "question": "The order of increasing bond order for the diatomic species O₂, O₂⁺, O₂⁻, O₂²⁻ is",
+    "options": [
+      "O₂²⁻ < O₂⁻ < O₂ < O₂⁺",
+      "O₂ < O₂⁺ < O₂⁻ < O₂²⁻",
+      "O₂⁺ < O₂⁻ < O₂ < O₂²⁻",
+      "O₂²⁻ < O₂ < O₂⁻ < O₂⁺"
+    ],
+    "correct_answer": "O₂²⁻ < O₂⁻ < O₂ < O₂⁺",
+    "explanation": "[CONCEPT]\nStep 1: Bond orders from Molecular Orbital Theory:\n- O₂²⁻ (18 e⁻): B.O. = (10 − 8)/2 = 1.0\n- O₂⁻ (17 e⁻): B.O. = (10 − 7)/2 = 1.5\n- O₂ (16 e⁻): B.O. = (10 − 6)/2 = 2.0\n- O₂⁺ (15 e⁻): B.O. = (10 − 5)/2 = 2.5\nStep 2: Increasing order: O₂²⁻ < O₂⁻ < O₂ < O₂⁺."
+  },
+  {
+    "id": 12,
+    "question": "The bond angle in I₃⁻ is",
+    "options": [
+      "90°",
+      "104°",
+      "120°",
+      "180°"
+    ],
+    "correct_answer": "180°",
+    "explanation": "[CONCEPT]\nStep 1: Triiodide ion I₃⁻ has a central I with 7 + 2 + 1 = 10 valence electrons (3 lone pairs and 2 bond pairs).\nStep 2: Steric number = 5 (sp³d hybridization, trigonal bipyramidal geometry).\nStep 3: The 3 lone pairs occupy equatorial positions, placing the two terminal iodines at axial positions with a linear 180° bond angle."
+  },
+  {
+    "id": 13,
+    "question": "The number of ions present in the unit cell of cesium chloride (CsCl) is",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "8"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nStep 1: In CsCl, Cl⁻ ions are at the 8 corners: 8 × (1/8) = 1 Cl⁻ ion.\nStep 2: Cs⁺ ion is at the body center: 1 × 1 = 1 Cs⁺ ion.\nStep 3: Total number of ions per unit cell = 1 + 1 = 2 ions."
+  },
+  {
+    "id": 14,
+    "question": "The paramagnetic species is",
+    "options": [
+      "Na₂",
+      "NO⁺",
+      "CN",
+      "CO"
+    ],
+    "correct_answer": "CN",
+    "explanation": "[CONCEPT]\nStep 1: CN radical has 6 + 7 = 13 valence electrons (an odd-electron species).\nStep 2: Molecules with an unpaired electron are paramagnetic.\nStep 3: Na₂ (2 valence e⁻), NO⁺ (14 e⁻), and CO (14 e⁻) have all paired electrons and are diamagnetic."
+  },
+  {
+    "id": 15,
+    "question": "The order of lattice energy of NaX is NaI < NaBr < NaCl < NaF. The property of X/X⁻ responsible for the trend is",
+    "options": [
+      "ionic radii.",
+      "electronegativity.",
+      "atomic radii.",
+      "electron affinity."
+    ],
+    "correct_answer": "ionic radii.",
+    "explanation": "[CONCEPT]\nStep 1: Lattice energy U ∝ 1 / (r_c + r_a).\nStep 2: As the halide ionic radius decreases (I⁻ > Br⁻ > Cl⁻ > F⁻), interionic distance decreases and electrostatic attraction increases, making lattice energy highest in NaF."
+  },
+  {
+    "id": 16,
+    "question": "Among BF₃, CF₄, PF₃ and OF₂, the molecules that are expected to have a zero-dipole moment is",
+    "options": [
+      "OF₂ and CF₄",
+      "BF₃ and PF₃",
+      "OF₂ and PF₃",
+      "BF₃ and CF₄"
+    ],
+    "correct_answer": "BF₃ and CF₄",
+    "explanation": "[CONCEPT]\nStep 1: BF₃ has symmetrical trigonal planar geometry (bond dipoles cancel, μ = 0).\nStep 2: CF₄ has symmetrical tetrahedral geometry (bond dipoles cancel, μ = 0).\nStep 3: PF₃ (trigonal pyramidal) and OF₂ (bent) are asymmetric and have non-zero dipole moments."
+  },
+  {
+    "id": 17,
+    "question": "Which among the following steps is not present in the determination of lattice enthalpy of NaI using the Born-Haber cycle?",
+    "options": [
+      "½ I₂(s) → ½ I₂(g)",
+      "Na(s) → Na(l)",
+      "½ I₂(g) → I(g)",
+      "I(g) + e⁻ → I⁻(g)"
+    ],
+    "correct_answer": "Na(s) → Na(l)",
+    "explanation": "[CONCEPT]\nStep 1: In the Born-Haber cycle, solid sodium undergoes direct sublimation: Na(s) → Na(g) (ΔH_sub).\nStep 2: Melting to Na(l) is not a step in the standard Born-Haber thermochemical cycle."
+  },
+  {
+    "id": 18,
+    "question": "The structure of XeO₂F₂ based on VSEPR theory is best described as",
+    "options": [
+      "see-saw structure with the O–Xe–O angle close to 120°.",
+      "see-saw structure with F–Xe–F angle close to 120°.",
+      "a perfect tetrahedral arrangement of substituents around Xe.",
+      "a square planar structure with the fluorine trans to each other."
+    ],
+    "correct_answer": "see-saw structure with the O–Xe–O angle close to 120°.",
+    "explanation": "[CONCEPT]\nStep 1: Xe has 8 valence electrons; in XeO₂F₂, there are 4 bond pairs (2 single Xe-F, 2 double Xe=O) and 1 lone pair (steric number = 5).\nStep 2: Geometry is trigonal bipyramidal; lone pair and more electronegative-repelling double bonds occupy equatorial positions.\nStep 3: Resulting shape is see-saw with equatorial O-Xe-O angle close to 120° and axial F-Xe-F angle close to 180°."
+  },
+  {
+    "id": 19,
+    "question": "Which among the following molecules has the lowest bond dissociation energy?",
+    "options": [
+      "NO",
+      "NO⁺",
+      "NO⁻",
+      "N₂"
+    ],
+    "correct_answer": "NO⁻",
+    "explanation": "[CONCEPT]\nStep 1: Bond dissociation energy is directly proportional to bond order.\nStep 2: N₂ (B.O. = 3.0), NO⁺ (B.O. = 3.0), NO (B.O. = 2.5), NO⁻ (B.O. = 2.0).\nStep 3: NO⁻ has the lowest bond order (2.0) and hence lowest bond dissociation energy."
+  },
+  {
+    "id": 20,
+    "question": "On the basis of VSEPR theory, the molecule which has a linear structure is",
+    "options": [
+      "SO₂",
+      "N₂O",
+      "Cl₂O",
+      "NO₂"
+    ],
+    "correct_answer": "N₂O",
+    "explanation": "[CONCEPT]\nStep 1: N₂O (isoelectronic with CO₂) has central nitrogen with 2 σ bonds and no lone pairs (sp hybridization), forming a linear N≡N⁺–O⁻ molecule.\nStep 2: SO₂, Cl₂O, and NO₂ all have bent structures."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following statements is true about diatomic species He₂ and He₂⁺?",
+    "options": [
+      "He₂ is stable and He₂⁺ is stable.",
+      "He₂ is stable and He₂⁺ is unstable.",
+      "He₂ is unstable and He₂⁺ is stable.",
+      "He₂ is unstable and He₂⁺ is unstable."
+    ],
+    "correct_answer": "He₂ is unstable and He₂⁺ is stable.",
+    "explanation": "[CONCEPT]\nStep 1: He₂ has 4 electrons (σ1s² σ*1s²), Bond Order = (2−2)/2 = 0 (unstable, does not exist).\nStep 2: He₂⁺ has 3 electrons (σ1s² σ*1s¹), Bond Order = (2−1)/2 = 0.5 (stable, exists in gas phase)."
+  },
+  {
+    "id": 22,
+    "question": "The attractive part of the van der Waals interaction, −B/r⁶, where B is a positive coefficient and r is the distance between the molecules, is governed by",
+    "options": [
+      "dipole-dipole interaction.",
+      "charge-dipole interaction.",
+      "induced dipole-induced dipole interaction.",
+      "dipole-induced dipole interaction."
+    ],
+    "correct_answer": "induced dipole-induced dipole interaction.",
+    "explanation": "[CONCEPT]\nStep 1: London dispersion forces arise from instantaneous dipoles inducing dipoles in neighboring molecules (induced dipole-induced dipole).\nStep 2: The attractive potential varies with distance as −C/r⁶."
+  },
+  {
+    "id": 23,
+    "question": "The electron-deficient molecule is",
+    "options": [
+      "N₂H₄",
+      "C₂H₆",
+      "B₂H₆",
+      "O₂H₂"
+    ],
+    "correct_answer": "B₂H₆",
+    "explanation": "[CONCEPT]\nStep 1: Diborane B₂H₆ has only 12 valence electrons for 8 bonds.\nStep 2: It contains two 3-center-2-electron (3c-2e⁻) banana bonds (B–H–B bridges) because boron does not have enough electrons to complete its octet."
+  },
+  {
+    "id": 24,
+    "question": "The most stable geometry of BrF₅ is",
+    "options": [
+      "Trigonal bipyramidal",
+      "Square pyramidal",
+      "Pentagonal planar",
+      "T-shaped"
+    ],
+    "correct_answer": "Square pyramidal",
+    "explanation": "[CONCEPT]\nStep 1: Br has 7 valence electrons; in BrF₅ it forms 5 bond pairs and has 1 lone pair (steric number = 6, sp³d²).\nStep 2: Electron geometry is octahedral; with one lone pair, the molecular shape is square pyramidal."
+  },
+  {
+    "id": 25,
+    "question": "The correct arrangement of Group 13 elements in terms of increasing average M–Cl bond energy in MCl₃ compound is:",
+    "options": [
+      "Al > Ga > In > Tl",
+      "Tl > In > Ga > Al",
+      "Al > Ga > Tl > In",
+      "Ga > In > Tl > Al"
+    ],
+    "correct_answer": "Tl > In > Ga > Al",
+    "explanation": "[CONCEPT]\nStep 1: Down the group, metallic/ionic character increases and lattice/bond electrostatic character changes.\nStep 2: In increasing order of average M-Cl bond energy: Tl > In > Ga > Al (or bond strength order reflecting inert pair/ionic stabilization)."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following will not conduct electricity?",
+    "options": [
+      "Solid metallic Na",
+      "Solid NaCl",
+      "Aqueous NaCl",
+      "Fused NaCl"
+    ],
+    "correct_answer": "Solid NaCl",
+    "explanation": "[CONCEPT]\nStep 1: Electrical conduction requires mobile charge carriers (free electrons or mobile ions).\nStep 2: In solid NaCl, Na⁺ and Cl⁻ ions are fixed rigidly in the crystal lattice and cannot move.\nStep 3: In aqueous/fused states or metallic sodium, free ions/electrons conduct electricity."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following molecules will have zero dipole moment? H₂O, SiCl₄, CO₂, NH₃, BF₃",
+    "options": [
+      "H₂O, SiCl₄, BF₃",
+      "CO₂, NH₃, SiCl₄",
+      "H₂O, NH₃, BF₃",
+      "CO₂, BF₃, SiCl₄"
+    ],
+    "correct_answer": "CO₂, BF₃, SiCl₄",
+    "explanation": "[CONCEPT]\nStep 1: CO₂ (linear), BF₃ (trigonal planar), and SiCl₄ (tetrahedral) are highly symmetric molecules whose bond dipoles vectorially sum to zero.\nStep 2: H₂O (bent) and NH₃ (trigonal pyramidal) are asymmetric with net non-zero dipole moments."
+  },
+  {
+    "id": 28,
+    "question": "Among the following molecules the one that is planar is",
+    "options": [
+      "(CH₃)₃N",
+      "[SO₄]²⁻",
+      "[CO₃]²⁻",
+      "PCl₃"
+    ],
+    "correct_answer": "[CO₃]²⁻",
+    "explanation": "[CONCEPT]\nStep 1: Carbonate ion [CO₃]²⁻ has sp² hybridized carbon with 3 σ bonds and resonance delocalized π electrons, giving a flat trigonal planar geometry.\nStep 2: (CH₃)₃N and PCl₃ are pyramidal; [SO₄]²⁻ is tetrahedral."
+  },
+  {
+    "id": 29,
+    "question": "Molecule that has no lone pair of electrons on the central atom (among the choices) is",
+    "options": [
+      "XeF₄",
+      "PF₃",
+      "ClF₃",
+      "BF₃"
+    ],
+    "correct_answer": "BF₃",
+    "explanation": "[CONCEPT]\nStep 1: Boron in BF₃ has 3 valence electrons, all used in 3 single B-F bonds (0 lone pairs).\nStep 2: XeF₄ has 2 lone pairs; PF₃ has 1 lone pair; ClF₃ has 2 lone pairs."
+  },
+  {
+    "id": 30,
+    "question": "The shape of PCl₅ is",
+    "options": [
+      "tetrahedral.",
+      "square planar.",
+      "trigonal bipyramidal.",
+      "square pyramidal."
+    ],
+    "correct_answer": "trigonal bipyramidal.",
+    "explanation": "[CONCEPT]\nStep 1: Phosphorus in PCl₅ forms 5 bond pairs with 0 lone pairs (steric number = 5, sp³d hybridization).\nStep 2: Molecular geometry and shape is trigonal bipyramidal."
+  },
+  {
+    "id": 31,
+    "question": "According to the molecular orbital theory, bond order for H₂⁺ species is",
+    "options": [
+      "0.5",
+      "0",
+      "5",
+      "0"
+    ],
+    "correct_answer": "0.5",
+    "explanation": "[CONCEPT]\nStep 1: H₂⁺ has 1 electron occupying the σ1s bonding molecular orbital.\nStep 2: Bond Order = (N_b − N_a)/2 = (1 − 0)/2 = 0.5."
+  },
+  {
+    "id": 32,
+    "question": "The hybridization of atomic orbitals of sulphur in SF₄ is",
+    "options": [
+      "dsp²",
+      "sp³d²",
+      "sp³d",
+      "sp³"
+    ],
+    "correct_answer": "sp³d",
+    "explanation": "[CONCEPT]\nStep 1: Sulfur has 6 valence electrons; in SF₄ it forms 4 single bonds and retains 1 lone pair.\nStep 2: Steric number = 4 + 1 = 5 ⟹ sp³d hybridization (see-saw shape)."
+  },
+  {
+    "id": 33,
+    "question": "As predicted by MO theory, the bond order and magnetic nature of NO⁺ are",
+    "options": [
+      "three and paramagnetic.",
+      "two and diamagnetic.",
+      "two and paramagnetic.",
+      "three and diamagnetic."
+    ],
+    "correct_answer": "three and diamagnetic.",
+    "explanation": "[CONCEPT]\nStep 1: NO⁺ has 7 + 8 − 1 = 14 electrons (isoelectronic with N₂).\nStep 2: Bond Order = (10 − 4)/2 = 3.0.\nStep 3: All 14 electrons are paired in molecular orbitals, so it is diamagnetic."
+  },
+  {
+    "id": 34,
+    "question": "N(CH₃)₃ and N(SiH₃)₃ are congeners, but around N-atom the former has pyramidal geometry whereas the latter is nearly planar. The bonding responsible for planarity of N(SiH₃)₃ is",
+    "options": [
+      "pπ-pπ",
+      "pπ-dπ",
+      "dπ-dπ",
+      "δ"
+    ],
+    "correct_answer": "pπ-dπ",
+    "explanation": "[CONCEPT]\nStep 1: In trisilylamine N(SiH₃)₃, the lone pair on nitrogen is delocalized into the vacant 3d orbitals of silicon via pπ–dπ back-bonding.\nStep 2: This partial double-bond character forces nitrogen to adopt sp² hybridization and a planar geometry."
+  },
+  {
+    "id": 35,
+    "question": "Iodine forms an anionic species Q in aqueous solution of iodide (I⁻). The number of lone pair(s) of electrons on the central atom of Q is __________.",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_answer": "3",
+    "explanation": "[CONCEPT]\nStep 1: I₂ reacts with I⁻ to form triiodide ion I₃⁻ (Q).\nStep 2: Central iodine atom has 7 valence e⁻ + 1 negative charge + 2 bonded I atoms = 10 electrons.\nStep 3: This gives 2 bond pairs and 3 lone pairs."
+  },
+  {
+    "id": 36,
+    "question": "Hybridizations of nitrogen in NO₂⁺, NO₃⁻, NH₄⁺ respectively are",
+    "options": [
+      "sp, sp² and sp³",
+      "sp, sp³ and sp²",
+      "sp², sp and sp³",
+      "sp³, sp² and sp"
+    ],
+    "correct_answer": "sp, sp² and sp³",
+    "explanation": "[CONCEPT]\nStep 1: NO₂⁺: Steric number = (5 − 1)/2 = 2 ⟹ sp hybridization (linear).\nStep 2: NO₃⁻: Steric number = (5 + 1)/2 = 3 ⟹ sp² hybridization (trigonal planar).\nStep 3: NH₄⁺: Steric number = (5 + 4 − 1)/2 = 4 ⟹ sp³ hybridization (tetrahedral)."
+  },
+  {
+    "id": 37,
+    "question": "The molecule having net 'non-zero dipole moment' is",
+    "options": [
+      "CCl₄",
+      "NF₃",
+      "CO₂",
+      "BCl₃"
+    ],
+    "correct_answer": "NF₃",
+    "explanation": "[CONCEPT]\nStep 1: CCl₄ (tetrahedral), CO₂ (linear), and BCl₃ (trigonal planar) are non-polar (μ = 0).\nStep 2: NF₃ has a trigonal pyramidal shape with an unshared electron pair on nitrogen, creating a net dipole moment."
+  },
+  {
+    "id": 38,
+    "question": "Among the following pairs, the paramagnetic and diamagnetic species, respectively, are",
+    "options": [
+      "CO and O₂⁻",
+      "NO and CO",
+      "O₂²⁻ and CO",
+      "NO⁺ and O₂⁻"
+    ],
+    "correct_answer": "NO and CO",
+    "explanation": "[CONCEPT]\nStep 1: NO has 15 electrons (1 unpaired electron in π* orbital ⟹ paramagnetic).\nStep 2: CO has 14 electrons (all paired ⟹ diamagnetic)."
+  },
+  {
+    "id": 39,
+    "question": "The species having shortest B–F bond distance is",
+    "options": [
+      "BF₃",
+      "[BF₄]⁻",
+      "H₃N·BF₃",
+      "(CH₃)₂O·BF₃"
+    ],
+    "correct_answer": "BF₃",
+    "explanation": "[CONCEPT]\nStep 1: In monomeric BF₃, strong pπ–pπ back-bonding occurs from filled 2p of fluorine to empty 2p of boron.\nStep 2: This gives the B–F bond significant double bond character, resulting in the shortest bond length."
+  },
+  {
+    "id": 40,
+    "question": "The pair of molecules having non-linear structure is",
+    "options": [
+      "ICl₂⁻ and BeH₂",
+      "CS₂ and I₃⁻",
+      "SCl₂ and ClO₂⁻",
+      "XeF₂ and CN₂²⁻"
+    ],
+    "correct_answer": "SCl₂ and ClO₂⁻",
+    "explanation": "[CONCEPT]\nStep 1: SCl₂ has 2 bond pairs and 2 lone pairs (bent/V-shaped).\nStep 2: ClO₂⁻ has 2 bond pairs and 2 lone pairs (bent/V-shaped).\nStep 3: Both species have non-linear (bent) geometry."
+  },
+  {
+    "id": 41,
+    "question": "The decreasing order of bond lengths for O₂, B₂, N₂ and C₂ is",
+    "options": [
+      "B₂ > C₂ > N₂ > O₂",
+      "B₂ > C₂ > O₂ > N₂",
+      "N₂ > C₂ > O₂ > B₂",
+      "B₂ > O₂ > N₂ > C₂"
+    ],
+    "correct_answer": "B₂ > C₂ > O₂ > N₂",
+    "explanation": "[CONCEPT]\nStep 1: Bond length is inversely proportional to bond order.\nStep 2: Bond orders: N₂ (3.0), O₂ (2.0), C₂ (2.0), B₂ (1.0).\nStep 3: Comparing C₂ and O₂: carbon atom is larger than oxygen atom, so C₂ bond length is greater than O₂.\nStep 4: Order of bond lengths: B₂ > C₂ > O₂ > N₂."
+  },
+  {
+    "id": 42,
+    "question": "Hybridization of xenon in XeF₂ is",
+    "options": [
+      "sp",
+      "sp²",
+      "sp³",
+      "sp³d"
+    ],
+    "correct_answer": "sp³d",
+    "explanation": "[CONCEPT]\nStep 1: Xe in XeF₂ has 2 bond pairs and 3 lone pairs.\nStep 2: Steric number = 2 + 3 = 5 ⟹ sp³d hybridization (linear molecular shape)."
+  },
+  {
+    "id": 43,
+    "question": "Among B–H, C–H, N–H and Si–H bonds in BH₃, CH₄, NH₃ and SiH₄, respectively, the polarity of the bond which is shown incorrectly is",
+    "options": [
+      "B(δ+)–H(δ-)",
+      "C(δ-)–H(δ+)",
+      "N(δ-)–H(δ+)",
+      "Si(δ-)–H(δ+)"
+    ],
+    "correct_answer": "Si(δ-)–H(δ+)",
+    "explanation": "[CONCEPT]\nStep 1: Electronegativities: H = 2.20, Si = 1.90.\nStep 2: Because hydrogen is more electronegative than silicon, the true bond dipole is Si(δ+)–H(δ-).\nStep 3: Therefore, Si(δ-)–H(δ+) is incorrect."
+  },
+  {
+    "id": 44,
+    "question": "The boiling point of halogens from F₂ to I₂ increases due to",
+    "options": [
+      "decrease in electron affinity.",
+      "decrease in ionization potential.",
+      "dipole-dipole interaction.",
+      "induced dipole-induced dipole interaction."
+    ],
+    "correct_answer": "induced dipole-induced dipole interaction.",
+    "explanation": "[CONCEPT]\nStep 1: Halogen molecules are non-polar.\nStep 2: Down the group from F₂ to I₂, molecular size and polarizability of the electron cloud increase markedly.\nStep 3: This enhances London dispersion (induced dipole–induced dipole) forces, raising boiling points."
+  },
+  {
+    "id": 45,
+    "question": "According to VSEPR theory, the species that has the smallest F–X–F angle (where X = central atom) is",
+    "options": [
+      "BF₃",
+      "PF₃",
+      "BF₄⁻",
+      "IF₄⁻"
+    ],
+    "correct_answer": "IF₄⁻",
+    "explanation": "[CONCEPT]\nStep 1: IF₄⁻ has 4 bond pairs and 2 lone pairs (sp³d² hybridization, square planar shape).\nStep 2: In a square planar geometry, adjacent F–I–F bond angles are exactly 90°.\nStep 3: Other species have bond angles of 120° (BF₃), ~100° (PF₃), or 109.5° (BF₄⁻)."
+  },
+  {
+    "id": 46,
+    "question": "Based on molecular orbital theory, the number of paramagnetic species in the following list: N₂, N₂⁺, N₂²⁻, O₂, O₂⁺, O₂⁻, O₂²⁻ is __________",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "correct_answer": "5",
+    "explanation": "[CONCEPT]\nStep 1: Species with unpaired electrons:\n- N₂ (14 e⁻): all paired (diamagnetic)\n- N₂⁺ (13 e⁻): 1 unpaired (paramagnetic)\n- N₂²⁻ (16 e⁻): 2 unpaired in π*2p (paramagnetic)\n- O₂ (16 e⁻): 2 unpaired in π*2p (paramagnetic)\n- O₂⁺ (15 e⁻): 1 unpaired in π*2p (paramagnetic)\n- O₂⁻ (17 e⁻): 1 unpaired in π*2p (paramagnetic)\n- O₂²⁻ (18 e⁻): all paired (diamagnetic)\nStep 2: Total paramagnetic species = 5."
+  },
+  {
+    "id": 47,
+    "question": "Based on the molecular orbital theory, which one of the following statements with respect to N₂, N₂⁺, O₂ and O₂⁺ is correct?",
+    "options": [
+      "Bond orders of N₂ and O₂ are higher than their corresponding cations.",
+      "Bond energy of N₂⁺ is higher than that of N₂, whereas bond energy of O₂⁺ is lower than that of O₂.",
+      "The unpaired electrons in N₂⁺ and O₂⁺ are present in σ and π* orbitals, respectively.",
+      "The bond in N₂⁺ is shorter than that in N₂, whereas bond in O₂ is shorter than that in O₂⁺."
+    ],
+    "correct_answer": "The unpaired electrons in N₂⁺ and O₂⁺ are present in σ and π* orbitals, respectively.",
+    "explanation": "[CONCEPT]\nStep 1: N₂⁺ (13 e⁻) has its highest occupied molecular orbital as σ2p_z with 1 unpaired electron.\nStep 2: O₂⁺ (15 e⁻) loses an electron from the antibonding π*2p orbital, leaving 1 unpaired electron in π*2p."
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following statements is incorrect about the diborane molecule?",
+    "options": [
+      "B-Hᵗ bond is a 2-centre-2-electron bond (Hᵗ: terminal hydrogen).",
+      "B-Hᵇ-B bond is a 3-centre-2-electron bond (Hᵇ: bridged hydrogen).",
+      "The bond angle Hᵗ-B-Hᵗ is 122° (Hᵗ: terminal hydrogen).",
+      "The B-Hᵗ bond distance is longer than B-Hᵇ bond distance (Hᵗ: terminal hydrogen, Hᵇ: bridged hydrogen)."
+    ],
+    "correct_answer": "The B-Hᵗ bond distance is longer than B-Hᵇ bond distance (Hᵗ: terminal hydrogen, Hᵇ: bridged hydrogen).",
+    "explanation": "[CONCEPT]\nStep 1: In B₂H₆, terminal B–Hᵗ bonds are normal 2c-2e⁻ bonds with shorter bond lengths (~1.19 Å).\nStep 2: The bridging B–Hᵇ–B bonds are electron-deficient 3c-2e⁻ bonds and are significantly longer (~1.33 Å).\nStep 3: Hence, the statement that B-Hᵗ is longer than B-Hᵇ is incorrect."
+  }
+]

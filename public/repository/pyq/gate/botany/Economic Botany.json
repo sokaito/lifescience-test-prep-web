@@ -1,0 +1,554 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following correctly pairs the economic product with its botanical source plant?\n\nProducts:\n1. Reserpine\n2. Menthol\n3. Quinine\n4. Vincristine\n5. Opium",
+    "options": [
+      "Reserpine - Rauwolfia; Menthol - Mentha; Quinine - Cinchona; Vincristine - Catharanthus; Opium - Papaver",
+      "Reserpine - Cinchona; Menthol - Papaver; Quinine - Rauwolfia; Vincristine - Mentha; Opium - Catharanthus",
+      "Reserpine - Catharanthus; Menthol - Cinchona; Quinine - Mentha; Vincristine - Rauwolfia; Opium - Papaver",
+      "Reserpine - Papaver; Menthol - Catharanthus; Quinine - Cinchona; Vincristine - Mentha; Opium - Rauwolfia"
+    ],
+    "correct_answer": "Reserpine - Rauwolfia; Menthol - Mentha; Quinine - Cinchona; Vincristine - Catharanthus; Opium - Papaver",
+    "explanation": "[CONCEPT]\nStep 1: Reserpine is extracted from Rauwolfia serpentina / R. vomitoria.\nStep 2: Menthol is from Mentha spicata / M. arvensis.\nStep 3: Quinine is from Cinchona officinalis.\nStep 4: Vincristine is from Catharanthus roseus.\nStep 5: Opium is from Papaver somniferum."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following correctly pairs the active pharmaceutical product with its botanical source plant?\n\nProducts: Ephedrine, Caffeine, Azadirachtin, Atropine, Theophylline",
+    "options": [
+      "Ephedrine - Ephedra; Caffeine - Coffea arabica; Azadirachtin - Azadirachta indica; Atropine - Atropa belladonna / Datura; Theophylline - Camellia sinensis",
+      "Ephedrine - Coffea; Caffeine - Ephedra; Azadirachtin - Atropa; Atropine - Azadirachta; Theophylline - Datura",
+      "Ephedrine - Camellia; Caffeine - Datura; Azadirachtin - Coffea; Atropine - Ephedra; Theophylline - Azadirachta",
+      "Ephedrine - Atropa; Caffeine - Camellia; Azadirachtin - Ephedra; Atropine - Coffea; Theophylline - Datura"
+    ],
+    "correct_answer": "Ephedrine - Ephedra; Caffeine - Coffea arabica; Azadirachtin - Azadirachta indica; Atropine - Atropa belladonna / Datura; Theophylline - Camellia sinensis",
+    "explanation": "[CONCEPT]\nStep 1: Ephedrine is from Ephedra gerardiana/sinica.\nStep 2: Caffeine is from Coffea arabica / C. canephora.\nStep 3: Azadirachtin is from Azadirachta indica (Neem).\nStep 4: Atropine is from Atropa belladonna / Datura.\nStep 5: Theophylline is from Camellia sinensis (Tea)."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following correctly pairs the commercial compound with its botanical source plant?\n\nProducts: Menthol, Nicotine, Papain, Taxol, Vanillin",
+    "options": [
+      "Menthol - Mentha spicata; Nicotine - Nicotiana tabacum; Papain - Carica papaya; Taxol - Taxus baccata; Vanillin - Vanilla planifolia",
+      "Menthol - Vanilla; Nicotine - Taxus; Papain - Mentha; Taxol - Carica; Vanillin - Nicotiana",
+      "Menthol - Carica; Nicotine - Mentha; Papain - Vanilla; Taxol - Nicotiana; Vanillin - Taxus",
+      "Menthol - Taxus; Nicotine - Carica; Papain - Nicotiana; Taxol - Vanilla; Vanillin - Mentha"
+    ],
+    "correct_answer": "Menthol - Mentha spicata; Nicotine - Nicotiana tabacum; Papain - Carica papaya; Taxol - Taxus baccata; Vanillin - Vanilla planifolia",
+    "explanation": "[CONCEPT]\nStep 1: Menthol is from Mentha.\nStep 2: Nicotine is from Nicotiana tabacum.\nStep 3: Papain (proteolytic enzyme) is from Carica papaya latex.\nStep 4: Taxol (anticancer paclitaxel) is from Taxus baccata / T. brevifolia bark.\nStep 5: Vanillin is from Vanilla planifolia pods."
+  },
+  {
+    "id": 4,
+    "question": "Which plant part of Crocus sativus yields saffron, a food colorant?",
+    "options": [
+      "Root",
+      "Leaf",
+      "Stigma",
+      "Seed"
+    ],
+    "correct_answer": "Stigma",
+    "explanation": "[CONCEPT]\nStep 1: Saffron (Crocus sativus, Iridaceae) is obtained from the dried trifid orange-red stigmas (and style tips) of the flower.\nStep 2: Crocin, crocetin, and safranal are the primary bioactive color and aroma principles."
+  },
+  {
+    "id": 5,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Reserpine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Camphor</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pyrethrin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Catechin\n\nColumn II:\n1. Thea sinensis (Camellia sinensis)\n2. Taxus brevifolia\n3. Rauwolfia serpentina\n4. Ocimum americanum\n5. Chrysanthemum cinerariifolium\n6. Gloriosa superba</span></div></div>",
+    "options": [
+      "P–2; Q–3; R–6; S–2",
+      "P–4; Q–2; R–6; S–3",
+      "P–3; Q–4; R–5; S–1",
+      "P–1; Q–6; R–3; S–5"
+    ],
+    "correct_answer": "P–3; Q–4; R–5; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Reserpine is an indole alkaloid from Rauwolfia serpentina (P–3).\nStep 2: Camphor can be obtained from Ocimum americanum / Cinnamomum camphora (Q–4).\nStep 3: Pyrethrins are natural botanical insecticides from Chrysanthemum cinerariifolium (R–5).\nStep 4: Catechin is a polyphenol/antioxidant from Thea sinensis (Camellia sinensis) (S–1)."
+  },
+  {
+    "id": 6,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Characteristics):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Edible fungi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Deadly poisonous fungi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Alkaloid producing fungi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Fungi pathogenic to human\n\nGroup II (Species):\n1. Mucor mucedo\n2. Candida albicans\n3. Claviceps purpurea\n4. Amanita verna\n5. Morchella conica\n6. Aspergillus flavus</span></div></div>",
+    "options": [
+      "P–5; Q–3; R–4; S–1",
+      "P–5; Q–4; R–1; S–2",
+      "P–5; Q–4; R–3; S–2",
+      "P–4; Q–1; R–3; S–6"
+    ],
+    "correct_answer": "P–5; Q–4; R–3; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Morchella conica (morel) is a prized edible ascomycete fungus (P–5).\nStep 2: Amanita verna (destroying angel) is a deadly poisonous mushroom containing amatoxins (Q–4).\nStep 3: Claviceps purpurea produces ergot alkaloids (R–3).\nStep 4: Candida albicans causes opportunistic candidiasis infections in humans (S–2)."
+  },
+  {
+    "id": 7,
+    "question": "The drug morphine is obtained from which plant part of Papaver somniferum?",
+    "options": [
+      "Leaf",
+      "Stem",
+      "Capsule",
+      "Root"
+    ],
+    "correct_answer": "Capsule",
+    "explanation": "[CONCEPT]\nStep 1: Morphine is an opiate alkaloid obtained by lancing the unripe seed capsule of the opium poppy (Papaver somniferum) to collect dried latex."
+  },
+  {
+    "id": 8,
+    "question": "Identify the mismatched compound.",
+    "options": [
+      "Pectin",
+      "Gum",
+      "Cutin",
+      "Agar"
+    ],
+    "correct_answer": "Cutin",
+    "explanation": "[CONCEPT]\nStep 1: Pectin, natural gums, and agar are complex structural or storage polysaccharides.\nStep 2: Cutin is a complex hydrophobic lipid/waxy biopolyester of hydroxylated fatty acids."
+  },
+  {
+    "id": 9,
+    "question": "Agar-agar is produced by",
+    "options": [
+      "Gelidium, Gracilaria and Gigartina.",
+      "Laminaria, Lessonia and Eisenia.",
+      "Gelidium, Batrachospermum and Polysiphonia.",
+      "Polysiphonia, Batrachospermum and Sargassum."
+    ],
+    "correct_answer": "Gelidium, Gracilaria and Gigartina.",
+    "explanation": "[CONCEPT]\nStep 1: Agar-agar is a sulfated galactan polysaccharide extracted from the cell walls of rhodophycean red algae (Gelidium, Gracilaria, and Gigartina)."
+  },
+  {
+    "id": 10,
+    "question": "Identify the alkaloid compounds from the given descriptions:\n- Compound P: Natural opiate alkaloid C₁₇H₁₉NO₃ containing phenolic and alcoholic –OH groups.\n- Compound Q: Diacetyl derivative (diacetylmorphine) semisynthetic opioid.",
+    "options": [
+      "P–Morphine; Q–Vincristine",
+      "P–Cocaine; Q–Heroin",
+      "P–Heroin; Q–Morphine",
+      "P–Morphine; Q–Heroin"
+    ],
+    "correct_answer": "P–Morphine; Q–Heroin",
+    "explanation": "[CONCEPT]\nStep 1: Structure P is Morphine (C₁₇H₁₉NO₃), the principal natural alkaloid of opium.\nStep 2: Structure Q is Heroin (diacetylmorphine), synthesized by acetylation of morphine."
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Filamentous fungi</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Gram staining of bacteria</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Agarose gel DNA visualization</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Amino acid detection\n\nGroup II:\n1. Malachite green\n2. Silver staining\n3. Lactophenol-cotton blue\n4. Crystal violet-safranin\n5. Ethidium bromide\n6. Ninhydrin reagent</span></div></div>",
+    "options": [
+      "P–2; Q–4; R–5; S–1",
+      "P–3; Q–6; R–2; S–5",
+      "P–6; Q–1; R–3; S–2",
+      "P–3; Q–4; R–5; S–6"
+    ],
+    "correct_answer": "P–3; Q–4; R–5; S–6",
+    "explanation": "[CONCEPT]\nStep 1: Lactophenol-cotton blue stains fungal chitin walls (P–3).\nStep 2: Gram stain uses crystal violet followed by safranin counterstain (Q–4).\nStep 3: Ethidium bromide intercalates DNA in agarose gels under UV light (R–5).\nStep 4: Ninhydrin reagent reacts with free amino groups to yield Ruhemann's purple (S–6)."
+  },
+  {
+    "id": 12,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Polysymbiosis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Helotism</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Mycobiont</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Crustose lichen\n\nGroup II:\n1. Algal component of a lichen\n2. Fungal component of a lichen\n3. Pendant forms\n4. A combination of algae, fungi and nitrogen fixing bacteria in a lichen thallus\n5. Lichen</span></div></div>\nwhich form a crust closely attached to the substrate\n6. A master-slave partnership in which association is dominated by the fungus",
+    "options": [
+      "P–1; Q–2; R–3; S–4",
+      "P–4; Q–6; R–2; S–5",
+      "P–2; Q–6; R–3; S–4",
+      "P–6; Q–5; R–1; S–3"
+    ],
+    "correct_answer": "P–4; Q–6; R–2; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Polysymbiosis: tripartite lichen thallus of fungus + green alga + cyanobacteria (P–4).\nStep 2: Helotism: controlled parasitism where fungus acts as dominant master (Q–6).\nStep 3: Mycobiont: fungal partner in lichen (R–2).\nStep 4: Crustose lichen: dorsiventrally flattened crust tightly adpressed to rock/bark (S–5)."
+  },
+  {
+    "id": 13,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Name of the Fungus):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Agaricus sp.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Pilobolus sp.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Neurospora sp.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Rhizoctonia sp.\n\nGroup II (Class):\n1. Ascomycetes\n2. Deuteromycetes\n3. Phycomycetes / Zygomycetes\n4. Actinomycetes\n5. Basidiomycetes\n6. Myxomycetes</span></div></div>",
+    "options": [
+      "P−5; Q−4; R−3; S−1",
+      "P−4; Q−1; R−2; S−6",
+      "P−5; Q−3; R−1; S−2",
+      "P−6; Q−1; R−3; S−5"
+    ],
+    "correct_answer": "P−5; Q−3; R−1; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Agaricus (mushroom) is a Basidiomycete (P–5).\nStep 2: Pilobolus (shotgun fungus) is a Zygomycete/Phycomycete (Q–3).\nStep 3: Neurospora crassa (red bread mold) is an Ascomycete (R–1).\nStep 4: Rhizoctonia is a Deuteromycete (Fungi Imperfecti) (S–2)."
+  },
+  {
+    "id": 14,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Biological activity):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Antibacterial and antifungal</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Antibacterial not antifungal</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Antifungal not antibacterial</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Antiviral\n\nGroup II (Chemical compound):\n1. Hypericin\n2. Aspergillic acid\n3. Fulvic acid\n4. Ustilagic acid\n5. Abscisic acid\n6. Terramycin (Oxytetracycline)</span></div></div>",
+    "options": [
+      "P−1; Q−2; R−3; S−4",
+      "P−2; Q−6; R−4; S−1",
+      "P−2; Q−1; R−5; S−6",
+      "P−5; Q−6; R−1; S−2"
+    ],
+    "correct_answer": "P−2; Q−6; R−4; S−1",
+    "explanation": "[CONCEPT]\nStep 1: Aspergillic acid has broad antibacterial and antifungal activity (P–2).\nStep 2: Terramycin (oxytetracycline) is antibacterial against prokaryotic ribosomes (Q–6).\nStep 3: Ustilagic acid exhibits antifungal action (R–4).\nStep 4: Hypericin possesses prominent antiviral and antiretroviral properties (S–1)."
+  },
+  {
+    "id": 15,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I (Common name):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Garden bean</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Oat</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Cashew nut</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Carrot\n\nGroup II (Scientific name):\n1. Raphanus sativus\n2. Phaseolus vulgaris\n3. Brassica oleracea\n4. Anacardium occidentale\n5. Daucus carota\n6. Avena sativa</span></div></div>",
+    "options": [
+      "P−2; Q−6; R−4; S−5",
+      "P−6; Q−2; R−4; S−5",
+      "P−1; Q−3; R−6; S−4",
+      "P−2; Q−1; R−6; S−4"
+    ],
+    "correct_answer": "P−2; Q−6; R−4; S−5",
+    "explanation": "[CONCEPT]\nStep 1: Garden bean = Phaseolus vulgaris (P–2).\nStep 2: Oat = Avena sativa (Q–6).\nStep 3: Cashew nut = Anacardium occidentale (R–4).\nStep 4: Carrot = Daucus carota (S–5)."
+  },
+  {
+    "id": 16,
+    "question": "Statement for Linked Questions 16 and 17:\nEconomically important plants are known for their commercial products and recognized with scientific names.\n\nFrom the given common names, identify sequentially the scientific names of the following plants:\nCommon names: Cotton, Peanut, Sarpagandha and Tea.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Camellia sinensis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Arachis hypogaea</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Rauwolfia serpentina</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Gossypium arboreum</span></div></div>",
+    "options": [
+      "P, Q, R, S",
+      "S, R, Q, P",
+      "S, Q, R, P",
+      "S, P, Q, R"
+    ],
+    "correct_answer": "S, Q, R, P",
+    "explanation": "[CONCEPT]\nStep 1: Cotton = Gossypium arboreum (S).\nStep 2: Peanut = Arachis hypogaea (Q).\nStep 3: Sarpagandha = Rauwolfia serpentina (R).\nStep 4: Tea = Camellia sinensis (P).\nStep 5: Sequence: S, Q, R, P."
+  },
+  {
+    "id": 17,
+    "question": "Statement for Linked Questions 16 and 17:\nIdentify the most important commercial products from the above-mentioned plants (Cotton, Peanut, Sarpagandha, Tea) in matching sequential order:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Vegetable oil</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Fiber</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Alkaloid</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Beverage</span></div></div>",
+    "options": [
+      "Q, P, R, S",
+      "S, Q, R, P",
+      "Q, R, P, S",
+      "R, Q, P, S"
+    ],
+    "correct_answer": "Q, P, R, S",
+    "explanation": "[CONCEPT]\nStep 1: Cotton yields Fiber (Q).\nStep 2: Peanut yields Vegetable oil (P).\nStep 3: Sarpagandha yields reserpine Alkaloid (R).\nStep 4: Tea yields caffeine Beverage (S).\nStep 5: Sequence: Q, P, R, S."
+  },
+  {
+    "id": 18,
+    "question": "Oryza sativa and Michelia champaca belong to the following families, respectively:",
+    "options": [
+      "Gramineae and Chenopodiaceae.",
+      "Brassicaceae and Malvaceae.",
+      "Gramineae (Poaceae) and Magnoliaceae.",
+      "Cyperaceae and Myristicaceae."
+    ],
+    "correct_answer": "Gramineae (Poaceae) and Magnoliaceae.",
+    "explanation": "[CONCEPT]\nStep 1: Oryza sativa (Rice) belongs to the monocot family Gramineae (Poaceae).\nStep 2: Michelia champaca (Champak) belongs to the primitive angiosperm family Magnoliaceae."
+  },
+  {
+    "id": 19,
+    "question": "Identify the correct statements:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Agar is manufactured from Gelidium of Rhodophyceae and alginic acid from Laminaria of Phaeophyceae.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>All mushrooms are edible and colored mushrooms are poisonous.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Dioscorea sp. produces diosgenin used in antifertility / steroid synthesis drugs.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Gossypium produces high quality jute fiber.</span></div></div>",
+    "options": [
+      "P, R",
+      "P, Q",
+      "Q, R",
+      "D, R, S"
+    ],
+    "correct_answer": "P, R",
+    "explanation": "[CONCEPT]\nStep 1: Agar is from red algae (Gelidium/Gracilaria) and alginate from brown algae (Laminaria) (P is correct).\nStep 2: Diosgenin from Dioscorea tubers is a saponin precursor for synthesizing steroid oral contraceptives (R is correct).\nStep 3: Jute fiber is obtained from Corchorus (Tiliaceae), not Gossypium (cotton, Malvaceae)."
+  },
+  {
+    "id": 20,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Atropine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cocaine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Digitalis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Hops\n\nGroup II:\n1. Digitalis purpurea\n2. Triticum aestivum\n3. Erythroxylum coca\n4. Humulus lupulus\n5. Atropa belladonna\n6. Datura stramonium</span></div></div>",
+    "options": [
+      "P−6; Q−5; R−4; S−2",
+      "P−3; Q−2; R−4; S−1",
+      "P−5; Q−3; R−1; S−4",
+      "P−6; Q−5; R−3; S−1"
+    ],
+    "correct_answer": "P−5; Q−3; R−1; S−4",
+    "explanation": "[CONCEPT]\nStep 1: Atropine is from Atropa belladonna (P–5).\nStep 2: Cocaine is from Erythroxylum coca (Q–3).\nStep 3: Digitalis (digitoxin) is from Digitalis purpurea (R–1).\nStep 4: Hops is from Humulus lupulus (Cannabaceae) used in beer brewing (S–4)."
+  },
+  {
+    "id": 21,
+    "question": "Choose the correct one from among the alternatives A, B, C and D:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Ricinus communis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Jatropha curcas</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pongamia pinnata</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Madhuca indica\n\nGroup II:\n1. Rice bran oil\n2. Mahua oil\n3. Sunflower oil\n4. Castor oil\n5. Karanja oil\n6. Jatropha biodiesel oil</span></div></div>",
+    "options": [
+      "P−4; Q−6; R−5; S−2",
+      "P−1; Q−6; R−4; S−5",
+      "P−3; Q−6; R−5; S−2",
+      "P−1; Q−6; R−5; S−2"
+    ],
+    "correct_answer": "P−4; Q−6; R−5; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Ricinus communis yields Castor oil (P–4).\nStep 2: Jatropha curcas yields Jatropha biodiesel (Q–6).\nStep 3: Pongamia pinnata yields Karanja oil (R–5).\nStep 4: Madhuca indica yields Mahua oil (S–2)."
+  },
+  {
+    "id": 22,
+    "question": "Free radical scavenging activity of a medicinally important plant extract can be quantified by",
+    "options": [
+      "ABTS (2,2′-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid)) method.",
+      "Bradford method.",
+      "Walkley and Black method.",
+      "Kjeldahl method."
+    ],
+    "correct_answer": "ABTS (2,2′-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid)) method.",
+    "explanation": "[CONCEPT]\nStep 1: ABTS and DPPH assays quantify total antioxidant / free radical scavenging capacity of phytochemical extracts.\nStep 2: Bradford is for protein, Walkley-Black for soil carbon, and Kjeldahl for total nitrogen."
+  },
+  {
+    "id": 23,
+    "question": "Match the following:\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Sorghum</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Castor</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Mushroom (Amanita)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cotton\n\nGroup II:\n1. Gossypol\n2. Strychnine\n3. Dhurrin\n4. Bungarotoxin\n5. Ricin\n6. α-Amanitin\n\nGroup III:\ni. Protein (Lectin)\nii. Glycosidic conjugate (Cyanogenic)\niii. Alkaloid\niv. Polyphenol / Phenolic aldehyde\nv. Lipid\nvi. Cyclic peptide</span></div></div>",
+    "options": [
+      "P−3−ii; Q−5−i; R−6−vi; S−1−iv",
+      "P−2−iii; Q−4−iv; R−1−ii; S−6−v",
+      "P−2−vi; Q−5−v; R−1−iv; S−6−ii",
+      "P−2−i; Q−3−iii; R−4−iv; S−1−v"
+    ],
+    "correct_answer": "P−3−ii; Q−5−i; R−6−vi; S−1−iv",
+    "explanation": "[CONCEPT]\nStep 1: Sorghum contains Dhurrin, a cyanogenic glycoside (P–3–ii).\nStep 2: Castor contains Ricin, a ribosome-inactivating toxic protein/lectin (Q–5–i).\nStep 3: Amanita mushroom contains α-Amanitin, a toxic octapeptide cyclic peptide (R–6–vi).\nStep 4: Cotton contains Gossypol, a polyphenolic aldehyde (S–1–iv)."
+  },
+  {
+    "id": 24,
+    "question": "Regarding the relationships between two organisms in an ecosystem, match the following:\n\nGroup I (Relationship):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Commensalism</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mutualism</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Parasitism</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Amensalism\n\nGroup II (Definition):\n1. Both organisms are benefitted (+/+)\n2. One organism is inhibited/harmed while the other is unaffected (-/0)\n3. One organism benefits while the other is unaffected (+/0)\n4. One organism benefits at the expense/harm of the host (+/-)</span></div></div>",
+    "options": [
+      "P−1; Q−2; R−3; S−4",
+      "P−2; Q−3; R−4; S−1",
+      "P−3; Q−1; R−4; S−2",
+      "P−1; Q−4; R−3; S−2"
+    ],
+    "correct_answer": "P−3; Q−1; R−4; S−2",
+    "explanation": "[CONCEPT]\nStep 1: Commensalism: (+/0) → P–3.\nStep 2: Mutualism: (+/+) → Q–1.\nStep 3: Parasitism: (+/-) → R–4.\nStep 4: Amensalism: (-/0) → S–2."
+  },
+  {
+    "id": 25,
+    "question": "Match the following plant secondary compounds with their uses and source plants:\n\nCompounds:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Guggulsterone</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Shikonin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Ajmalicine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Glycyrrhizin\n\nUses:\n1. Anti-hypertensive\n2. Anti-rheumatic\n3. Dye\n4. Sweetener\n\nPlant species:\ni. Lithospermum erythrorhizon\nii. Catharanthus roseus\niii. Glycyrrhiza glabra\niv. Commiphora wightii</span></div></div>",
+    "options": [
+      "P−2−iv; Q−3−i; R−1−ii; S−4−iii",
+      "P−3−iv; Q−1−i; R−5−ii; S−6−iii",
+      "P−4−iv; Q−3−i; R−1−v; S−2−vi",
+      "P−4−iii; Q−2−ii; R−5−i; S−6−iv"
+    ],
+    "correct_answer": "P−2−iv; Q−3−i; R−1−ii; S−4−iii",
+    "explanation": "[CONCEPT]\nStep 1: Guggulsterone is an anti-rheumatic/hypolipidemic steroid from Commiphora wightii (P–2–iv).\nStep 2: Shikonin is a red naphthoquinone dye from Lithospermum erythrorhizon (Q–3–i).\nStep 3: Ajmalicine is an antihypertensive alkaloid from Catharanthus roseus / Rauwolfia (R–1–ii).\nStep 4: Glycyrrhizin is a natural sweet saponin from Glycyrrhiza glabra (liquorice) (S–4–iii)."
+  },
+  {
+    "id": 26,
+    "question": "Which one of the following drugs is obtained from the capsule of Papaver somniferum?",
+    "options": [
+      "Papain",
+      "Codeine",
+      "Digoxin",
+      "Bromelain"
+    ],
+    "correct_answer": "Codeine",
+    "explanation": "[CONCEPT]\nStep 1: Opium poppy latex (from Papaver somniferum capsules) yields natural morphinan alkaloids including morphine, codeine, and thebaine."
+  },
+  {
+    "id": 27,
+    "question": "Identify the correct statements in plant secondary metabolism:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tropane alkaloids in Atropa belladonna are synthesized from tyrosine.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Antioxidative food ingredient rosmarinic acid is obtained from cell suspension cultures of Coleus blumei.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Thiophenes are produced from hairy root cultures of Tagetes patula.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Cyanidin, the principal anthocyanin responsible for red color in Rosa hybrida is produced from cinnamaldehyde.</span></div></div>",
+    "options": [
+      "P, S",
+      "B, R, S",
+      "P, Q",
+      "Q, R"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Rosmarinic acid is produced in high yields by Coleus blumei cell suspension cultures (Q is correct).\nStep 2: Nematicidal thiophenes are synthesized in Tagetes patula (marigold) hairy root cultures (R is correct).\nStep 3: Tropane alkaloids are synthesized from ornithine (not tyrosine); anthocyanins arise from the phenylpropanoid/flavonoid pathway via 4-coumaroyl-CoA."
+  },
+  {
+    "id": 28,
+    "question": "Match the recombinant proteins produced through molecular farming with their applications:\n\nRecombinant proteins:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Hirudin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Trichosanthin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Somatotrophin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>β-Interferon\n\nApplications:\n1. HIV therapy\n2. Anticoagulant\n3. Growth hormone\n4. Hypertension\n5. Cystic fibrosis\n6. Treatment for hepatitis B</span></div></div>",
+    "options": [
+      "P−2; Q−3; R−4; S−1",
+      "P−4; Q−1; R−5; S−2",
+      "P−1; Q−5; R−3; S−2",
+      "P−2; Q−1; R−3; S−6"
+    ],
+    "correct_answer": "P−2; Q−1; R−3; S−6",
+    "explanation": "[CONCEPT]\nStep 1: Hirudin is a thrombin-inhibitor Anticoagulant (P–2).\nStep 2: Trichosanthin (type I RIP) exhibits anti-HIV activity (Q–1).\nStep 3: Somatotrophin is Human Growth Hormone (R–3).\nStep 4: β-Interferon is used in viral hepatitis and antiviral immunotherapies (S–6)."
+  },
+  {
+    "id": 29,
+    "question": "The aflatoxin found in post-harvested grains is injurious to health due to",
+    "options": [
+      "Aspergillus.",
+      "Alternaria.",
+      "Fusarium.",
+      "Phytophthora."
+    ],
+    "correct_answer": "Aspergillus.",
+    "explanation": "[CONCEPT]\nStep 1: Aflatoxins are produced by fungal molds Aspergillus flavus and Aspergillus parasiticus on stored warm, humid grains."
+  },
+  {
+    "id": 30,
+    "question": "Identify the correct matching by taking one item from each column:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Morphine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Nicotine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Atropine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Vinblastine\n\nColumn II:\n1. Cinchona officinalis\n2. Hyoscyamus niger\n3. Papaver somniferum\n4. Nicotiana tabacum\n5. Coffea arabica\n6. Catharanthus roseus\n\nColumn III:\ni. Antineoplastic\nii. Respiratory paralysis / insecticide\niii. Antibacterial\niv. Narcotic analgesic\nv. Anticholinergic\nvi. Antifungal</span></div></div>",
+    "options": [
+      "P−1−i; Q−2−ii; R−3−iii; S−4−iv",
+      "P−2−iii; Q−3−i; R−1−iv; S−5−v",
+      "P−3−iv; Q−4−ii; R−2−v; S−6−i",
+      "P−4−iii; Q−1−v; R−5−i; S−2−vi"
+    ],
+    "correct_answer": "P−3−iv; Q−4−ii; R−2−v; S−6−i",
+    "explanation": "[CONCEPT]\nStep 1: Morphine is from Papaver somniferum, acting as a Narcotic analgesic (P–3–iv).\nStep 2: Nicotine is from Nicotiana tabacum, causing depolarizing block / respiratory effects (Q–4–ii).\nStep 3: Atropine is from Hyoscyamus niger / Atropa, acting as an Anticholinergic (R–2–v).\nStep 4: Vinblastine is from Catharanthus roseus, acting as an Antineoplastic mitotic spindle poison (S–6–i)."
+  },
+  {
+    "id": 31,
+    "question": "In a typical oil-seed crop, the matured seeds are enriched with",
+    "options": [
+      "phospholipid.",
+      "galactolipid.",
+      "neutral lipid (Triacylglycerol).",
+      "sphingolipid."
+    ],
+    "correct_answer": "neutral lipid (Triacylglycerol).",
+    "explanation": "[CONCEPT]\nStep 1: In mature storage oilseeds (e.g., canola, soybean, sunflower), over 95% of stored lipids are neutral lipids (triacylglycerols / triglycerides) stored in oleosomes."
+  },
+  {
+    "id": 32,
+    "question": "Match the following products (Column I) with the corresponding plant species (Column II):\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Saffron</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Gamboge</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Litmus</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Turmeric\n\nColumn II:\n1. Garcinia sp.\n2. Roccella tinctoria\n3. Crocus sativus\n4. Curcuma sp.</span></div></div>",
+    "options": [
+      "P−4; Q–2; R–1; S–3",
+      "P−3; Q–4; R–1; S–2",
+      "P−2; Q–3; R–2; S–1",
+      "P−3; Q–1; R–2; S–4"
+    ],
+    "correct_answer": "P−3; Q–1; R–2; S–4",
+    "explanation": "[CONCEPT]\nStep 1: Saffron is from Crocus sativus (P–3).\nStep 2: Gamboge (gum resin) is from Garcinia hanburyi / Garcinia morella (Q–1).\nStep 3: Litmus pH indicator dye is extracted from lichen Roccella tinctoria (R–2).\nStep 4: Turmeric is from Curcuma longa (S–4)."
+  },
+  {
+    "id": 33,
+    "question": "Match the plant products with their sources and the plant parts from which they are obtained:\n\nProduct:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Annatto</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cutch</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Henna</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Alizarin\n\nSource:\n1. Acacia catechu\n2. Rubia tinctorum\n3. Bixa orellana\n4. Lawsonia inermis\n\nPlant part:\ni. Seed\nii. Leaf\niii. Root\niv. Stem / Heartwood</span></div></div>",
+    "options": [
+      "P−3−ii; Q−4−i; R−2−iii; S−1−iv",
+      "P−3−i; Q−1−iv; R−4−ii; S−2−iii",
+      "P−2−i; Q−1−iii; R−4−iv; S−3−i",
+      "P−4−ii; Q−3−iv; R−1−iii; S−2−i"
+    ],
+    "correct_answer": "P−3−i; Q−1−iv; R−4−ii; S−2−iii",
+    "explanation": "[CONCEPT]\nStep 1: Annatto dye (bixin) is obtained from the seeds of Bixa orellana (P–3–i).\nStep 2: Cutch tannin is extracted from the heartwood/stem of Acacia catechu (Q–1–iv).\nStep 3: Henna (lawsone) is obtained from the dried leaves of Lawsonia inermis (R–4–ii).\nStep 4: Alizarin red dye is obtained from the roots of madder, Rubia tinctorum (S–2–iii)."
+  },
+  {
+    "id": 34,
+    "question": "The uptake of nitrogen (N) and phosphorus (P) by plant roots often involves interaction between root and symbiotic organisms. Which of the following associations is most commonly found for the uptake of these two nutrients?",
+    "options": [
+      "Bacteria for N; algae for P",
+      "Bacteria for N; nematodes for P",
+      "Nematodes for N; fungi for P",
+      "Bacteria for N; mycorrhizae (fungi) for P"
+    ],
+    "correct_answer": "Bacteria for N; mycorrhizae (fungi) for P",
+    "explanation": "[CONCEPT]\nStep 1: Biological nitrogen fixation is performed exclusively by diazotrophic bacteria (e.g., Rhizobium, Frankia).\nStep 2: Insoluble soil phosphorus mobilization and uptake is mediated primarily by mycorrhizal fungi (AM fungi)."
+  },
+  {
+    "id": 35,
+    "question": "Atropine is a drug used in the management of organophosphate pesticide poisoning. Which of the following plants can serve as a commercial source of this anticholinergic drug?",
+    "options": [
+      "Datura metel",
+      "Medicago truncatula",
+      "Mangifera indica",
+      "Arachis hypogaea"
+    ],
+    "correct_answer": "Datura metel",
+    "explanation": "[CONCEPT]\nStep 1: Atropine (dl-hyoscyamine) is an anticholinergic muscarinic receptor antagonist.\nStep 2: It is extracted commercially from Solanaceous plants like Atropa belladonna, Datura metel, and Datura stramonium."
+  },
+  {
+    "id": 36,
+    "question": "A cavity, lysigenous in origin and possessing volatile oil is found in the pericarp of one of the following plants. Identify the correct answer.",
+    "options": [
+      "Litchi",
+      "Citrus",
+      "Mango",
+      "Coconut"
+    ],
+    "correct_answer": "Citrus",
+    "explanation": "[CONCEPT]\nStep 1: Lysigenous oil glands in Citrus fruit peels (rind/flavedo) are formed by the breakdown and lysis of entire oil-synthesizing cells, forming volatile essential oil reservoirs."
+  },
+  {
+    "id": 37,
+    "question": "Identify the incorrect statement with relation to plant secondary metabolites.",
+    "options": [
+      "Atropine is a member of indole alkaloids.",
+      "Limonene is a cyclic terpene found in citrus plants.",
+      "Green tea is rich in polyphenols (catechins).",
+      "Cyanidin contributes to the red color in rose petals."
+    ],
+    "correct_answer": "Atropine is a member of indole alkaloids.",
+    "explanation": "[CONCEPT]\nStep 1: Atropine is a Tropane alkaloid derived from ornithine (lacking an indole ring).\nStep 2: True indole alkaloids include vinblastine, vincristine, reserpine, and strychnine."
+  },
+  {
+    "id": 38,
+    "question": "The phenomenon where an organism lives at the expense of another organism by harming it but not killing is called",
+    "options": [
+      "commensalism.",
+      "predation.",
+      "symbiosis.",
+      "parasitism."
+    ],
+    "correct_answer": "parasitism.",
+    "explanation": "[CONCEPT]\nStep 1: Parasitism (+/- interaction) involves a parasite deriving sustenance and shelter from a host organism, reducing host fitness without intentionally killing the host immediately."
+  },
+  {
+    "id": 39,
+    "question": "Choose the plant part, its use and the source species in correct combination:\n\nPlant Part:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Bark</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Leaf</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Capsule</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Stigma\n\nUse:\ni. Insecticide\nii. Food colorant\niii. Flavoring agent / Spice\niv. Analgesic\n\nSpecies:\n1. Crocus sativus\n2. Papaver somniferum\n3. Azadirachta indica\n4. Cinnamomum zeylanicum</span></div></div>",
+    "options": [
+      "P−i−1; Q−ii−2; R−iii−3; S−iv−4",
+      "P−iii−4; Q−ii−1; R−iv−2; S−i−3",
+      "P−iii−1; Q−i−3; R−iv−2; S−iii−4",
+      "P−iii−4; Q−i−3; R−iv−2; S−ii−1"
+    ],
+    "correct_answer": "P−iii−4; Q−i−3; R−iv−2; S−ii−1",
+    "explanation": "[CONCEPT]\nStep 1: Bark of Cinnamomum zeylanicum is used as a spice/flavoring agent (P–iii–4).\nStep 2: Leaves of Azadirachta indica (neem) contain insecticidal azadirachtin (Q–i–3).\nStep 3: Capsule latex of Papaver somniferum yields analgesic morphine/codeine (R–iv–2).\nStep 4: Stigmas of Crocus sativus yield saffron food colorant (S–ii–1)."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following plants produces Ylang-ylang essential oil?",
+    "options": [
+      "Cananga odorata",
+      "Carum copticum",
+      "Pandanus odoratissimus",
+      "Pimenta racemosa"
+    ],
+    "correct_answer": "Cananga odorata",
+    "explanation": "[CONCEPT]\nStep 1: Ylang-ylang high-value perfumery essential oil is steam-distilled from the flowers of Cananga odorata (Annonaceae)."
+  },
+  {
+    "id": 41,
+    "question": "Which of the following stains is used to visualize callose under the microscope?",
+    "options": [
+      "Alcian blue",
+      "Aniline blue",
+      "Toluidine blue",
+      "Thymol blue"
+    ],
+    "correct_answer": "Aniline blue",
+    "explanation": "[CONCEPT]\nStep 1: Decolorized Aniline Blue (or Aniline Blue fluorochrome) binds specifically to β-1,3-glucan (callose) in pollen tubes and sieve plates, producing brilliant yellow-green fluorescence under UV excitation."
+  },
+  {
+    "id": 42,
+    "question": "Arbuscules are highly branched structures formed by",
+    "options": [
+      "ectomycorrhizae.",
+      "endomycorrhizae (Arbuscular mycorrhizae).",
+      "arbutoid mycorrhizae.",
+      "monotropoid mycorrhizae."
+    ],
+    "correct_answer": "endomycorrhizae (Arbuscular mycorrhizae).",
+    "explanation": "[CONCEPT]\nStep 1: Arbuscules are intracellular, dichotomously branched haustorial-like structures formed inside cortical cells by endomycorrhizal fungi (Glomeromycota) for high-surface nutrient exchange."
+  },
+  {
+    "id": 43,
+    "question": "Match the plant species and their corresponding families with their economically important products:\n\nPlant species:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cannabis sativa</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Corchorus olitorius</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Ocimum sanctum</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ricinus communis\n\nFamily:\n1. Lamiaceae\n2. Cannabaceae\n3. Euphorbiaceae\n4. Tiliaceae / Malvaceae\n\nPlant product:\ni. Oil from seeds\nii. Eugenol from leaves\niii. Fibre from stem\niv. Marijuana / THC from floral leaves</span></div></div>",
+    "options": [
+      "P−2−iv; Q−3−ii; R−4−iii; S−1−i",
+      "P−3−iv; Q−2−i; R−1−ii; S−4−iii",
+      "P−1−iii; Q−4−iii; R−2−i; S−3−ii",
+      "P−2−iv; Q−4−iii; R−1−ii; S−3−i"
+    ],
+    "correct_answer": "P−2−iv; Q−4−iii; R−1−ii; S−3−i",
+    "explanation": "[CONCEPT]\nStep 1: Cannabis sativa (Cannabaceae) yields THC/cannabinoids (P–2–iv).\nStep 2: Corchorus olitorius (Tiliaceae/Malvaceae) yields Jute bast fiber (Q–4–iii).\nStep 3: Ocimum sanctum (Lamiaceae) yields Eugenol (R–1–ii).\nStep 4: Ricinus communis (Euphorbiaceae) yields Castor seed oil (S–3–i)."
+  },
+  {
+    "id": 44,
+    "question": "The oleo-gum resin asafoetida (hing) is obtained from the cut surface of",
+    "options": [
+      "stem.",
+      "root / rhizome.",
+      "leaf.",
+      "fruit."
+    ],
+    "correct_answer": "root / rhizome.",
+    "explanation": "[CONCEPT]\nStep 1: Asafoetida (Hing) is an oleo-gum-resin exuded from incisions made in the living taproots and rhizomes of Ferula foetida / F. assa-foetida (Apiaceae)."
+  },
+  {
+    "id": 45,
+    "question": "Match the plant part (Group I) with the product obtained (Group II) and the representative plant species (Group III) in correct combination:\n\nGroup I (Plant part):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Bark</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Leaf</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Flower / Stigma</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Fruit\n\nGroup II (Product):\ni. Tannins\nii. Saffron\niii. Codeine\niv. Aromatic oil / Cinnamon spice\n\nGroup III (Species):\n1. Papaver somniferum\n2. Camellia sinensis\n3. Cinnamomum zeylanicum\n4. Crocus sativus</span></div></div>",
+    "options": [
+      "P–ii–1; Q–i–3; R–iv–2; S–iii–4",
+      "P–ii–1; Q–i–2; R–iv–4; S–iii–3",
+      "P–ii–2; Q–iv–3; R–i–4; S–iii–1",
+      "P–iv–3; Q–i–2; R–ii–4; S–iii–1"
+    ],
+    "correct_answer": "P–iv–3; Q–i–2; R–ii–4; S–iii–1",
+    "explanation": "[CONCEPT]\nStep 1: Bark of Cinnamomum zeylanicum yields Cinnamon spice / aromatic oil (P–iv–3).\nStep 2: Leaf of Camellia sinensis yields Tea rich in Tannins (Q–i–2).\nStep 3: Flower/Stigma of Crocus sativus yields Saffron (R–ii–4).\nStep 4: Fruit capsule of Papaver somniferum yields Codeine/Morphine (S–iii–1)."
+  },
+  {
+    "id": 46,
+    "question": "Match the following alkaloids with their uses and source plants in correct combination:\n\nAlkaloid:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Morphine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Quinine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Atropine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Vinblastine\n\nUse:\ni. Anti-cancer\nii. Analgesic\niii. Anti-cholinergic\niv. Anti-malarial\n\nSource plant:\n1. Cinchona officinalis\n2. Catharanthus roseus\n3. Papaver somniferum\n4. Hyoscyamus niger</span></div></div>",
+    "options": [
+      "P–ii–3; Q–iv–1; R–iii–4; S–i–2",
+      "P–ii–1; Q–i–3; R–iv–4; S–iii–2",
+      "P–ii–2; Q–iv–1; R–i–4; S–iii–3",
+      "P–iii–4; Q–ii–1; R–iv–3; S–i–2"
+    ],
+    "correct_answer": "P–ii–3; Q–iv–1; R–iii–4; S–i–2",
+    "explanation": "[CONCEPT]\nStep 1: Morphine is an Analgesic from Papaver somniferum (P–ii–3).\nStep 2: Quinine is an Anti-malarial from Cinchona officinalis (Q–iv–1).\nStep 3: Atropine is an Anti-cholinergic from Hyoscyamus niger / Atropa (R–iii–4).\nStep 4: Vinblastine is an Anti-cancer mitotic inhibitor from Catharanthus roseus (S–i–2)."
+  }
+]

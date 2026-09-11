@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "question": "The taxa in danger of extinction is termed",
+    "options": [
+      "extinct",
+      "rare",
+      "vulnerable",
+      "endangered"
+    ],
+    "correct_answer": "endangered",
+    "explanation": "[CONCEPT]\nStep 1: IUCN categories rank threat levels.\nStep 2: ‘Endangered’ means a taxon faces a very high risk of extinction in the wild."
+  },
+  {
+    "id": 2,
+    "question": "Choose the correct statement about phylogenetic system of classification.",
+    "options": [
+      "Proposed by John Hutchinson",
+      "Evolutionary sequence is not considered",
+      "One or a few superficial character(s) is fare considered",
+      "Proposed by Linnaeus"
+    ],
+    "correct_answer": "Proposed by John Hutchinson",
+    "explanation": "[CONCEPT]\nStep 1: Phylogenetic systems try to reflect evolutionary relationships.\nStep 2: John Hutchinson proposed one of the well-known phylogenetic systems for flowering plants."
+  },
+  {
+    "id": 3,
+    "question": "Hutchinson’s phylogenetic system of classification appeared in the volume",
+    "options": [
+      "General Plantarum",
+      "Hortus Uplandicus",
+      "Die Naturlichen Pflanzenfamilen",
+      "Families of Flowering Plants"
+    ],
+    "correct_answer": "Families of Flowering Plants",
+    "explanation": "[CONCEPT]\nStep 1: Hutchinson published his system in the book “The Families of Flowering Plants”.\nStep 2: It is a phylogenetic classification emphasizing evolutionary trends."
+  },
+  {
+    "id": 4,
+    "question": "The following statements outline the major features of a system of classification: (i) Monophyletic origin of angiosperm. (ii) Dicotyledons are the primitive over monocotyledons. (iii) Division of dicotyledonae into Lignosae and Herbaceae. Which of the following system of classifications represent above features?",
+    "options": [
+      "Linnaeus",
+      "Bentham and Hooker",
+      "Engler and Prantl",
+      "Hutchinson"
+    ],
+    "correct_answer": "Hutchinson",
+    "explanation": "[CONCEPT]\nStep 1: Hutchinson regarded angiosperms as monophyletic.\nStep 2: He considered dicots more primitive and divided them into woody (Lignosae) and herbaceous (Herbaceae) groups."
+  },
+  {
+    "id": 5,
+    "question": "The synonym of the families Labiatae, Umbelliferae, Compositae and Gramineae are",
+    "options": [
+      "Leguminaceae, Acantheceae, Asteraccae, Lamiaceae",
+      "Solanaceae, Aricaceae, Apiaceac, Poaceae",
+      "Lamiaceae, Apiaceac, Asteraccae, Poaceae",
+      "Lilliaceae, Cucerbitaceae, poaceae, Aseraceac"
+    ],
+    "correct_answer": "Lamiaceae, Apiaceac, Asteraccae, Poaceae",
+    "explanation": "[CONCEPT]\nStep 1: Labiatae = Lamiaceae.\nStep 2: Umbelliferae = Apiaceae.\nStep 3: Compositae = Asteraceae.\nStep 4: Gramineae = Poaceae."
+  },
+  {
+    "id": 6,
+    "question": "The following features outline a system of plant classification. (i) Unisexual flowers are the most primitive within the angiosperms. (ii) Polyphyletic origin of angiosperms. (iii) Monocotyledons have been considered more primitive than dicotyledons. Which one of the following systems of classification represents above feature?",
+    "options": [
+      "Linnaeus",
+      "Engler and Prantl",
+      "Rendle",
+      "Hutchinson"
+    ],
+    "correct_answer": "Engler and Prantl",
+    "explanation": "[CONCEPT]\nStep 1: Engler & Prantl regarded unisexual flowers as primitive.\nStep 2: They considered angiosperms polyphyletic and monocots more primitive than dicots."
+  },
+  {
+    "id": 7,
+    "question": "Achyranthus aspera and Delphinium staphisagria belong to the following families:",
+    "options": [
+      "Amarantheceae and Rutaceae",
+      "Amarantheceae and Ranunculaceae",
+      "Amarantheceae and Tiliaceae",
+      "Tiliaceae and Ranunculaceae"
+    ],
+    "correct_answer": "Amarantheceae and Ranunculaceae",
+    "explanation": "[CONCEPT]\nStep 1: Achyranthes aspera belongs to Amaranthaceae.\nStep 2: Delphinium staphisagria belongs to Ranunculaceae."
+  },
+  {
+    "id": 8,
+    "question": "Find out the correct statements for Linnaeus system of classification.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>It is also known as artificial-sexual system of classification.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>It was published in the name of “Genera Plantarum”.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>In this system plants belonging to widely distant natural groups are placed under one order of a class.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>In this system Gymnospermae and Angiospermae are placed in two taxa of equal ranks.</span></div></div>",
+    "options": [
+      "P, Q",
+      "Q, R",
+      "R, S",
+      "P, R"
+    ],
+    "correct_answer": "P, Q",
+    "explanation": "[CONCEPT]\nStep 1: Linnaeus’ system is artificial and based mainly on sexual characters (number of stamens).\nStep 2: His major work was Genera Plantarum."
+  },
+  {
+    "id": 9,
+    "question": "Choose the correct one from among the alternates A, B, C and D.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Linnaeus,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>William Roxburgh,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Bentham-Hooker,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Engler.\n\nGroup II:\n1. Flora Indica,\n2. Genera Plantarum,\n3. Artificial-sexual system,\n4. Sero diagnostic system,\n5. Phylogenetic system,\n6. The Families of Flowering Plants</span></div></div>",
+    "options": [
+      "P–2; Q–4; R–3; S–5",
+      "P–1; Q–6; R–5; S–2",
+      "P–3; Q–1; R–5; S–6",
+      "P–3; Q–1; R–2; S–5"
+    ],
+    "correct_answer": "P–3; Q–1; R–2; S–5",
+    "explanation": "[CONCEPT]\nStep 1: Linnaeus → Artificial sexual system.\nStep 2: William Roxburgh → Flora Indica.\nStep 3: Bentham & Hooker → Genera Plantarum.\nStep 4: Engler → Phylogenetic system."
+  },
+  {
+    "id": 10,
+    "question": "Identify the correct statements for phylogenetic systems of classification.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>The most popular phylogenetic systems of classification is that of George Bentham and Joseph Dalton Hooker and was published in ‘Genera Plantarum’.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>A true phylogenetic system of classification was proposed by Adlof Engler and was published in ‘Die Naturlichen Pflanzenfamilien’.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>The phylogenetic system of classification proposed by John Hutchinson was appeared in ‘The Families of Flowering Plants’.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>The origin of dicot from primitive monocot was proposed by Arthur Cronquist in his book ‘Systema Naturae’.</span></div></div>",
+    "options": [
+      "Q, R",
+      "P, Q",
+      "R, S",
+      "P, S"
+    ],
+    "correct_answer": "Q, R",
+    "explanation": "[CONCEPT]\nStep 1: Engler’s system (Die Natürlichen Pflanzenfamilien) is truly phylogenetic.\nStep 2: Hutchinson’s system appeared in The Families of Flowering Plants."
+  },
+  {
+    "id": 11,
+    "question": "An estimate of phylogenetic relationships among the taxa is commonly represented in the form of a",
+    "options": [
+      "cladogram",
+      "idiogram",
+      "phenogram",
+      "dendrogram"
+    ],
+    "correct_answer": "cladogram",
+    "explanation": "[CONCEPT]\nStep 1: A cladogram shows branching relationships based on shared derived characters.\nStep 2: It is the standard way to depict phylogenetic hypotheses."
+  },
+  {
+    "id": 12,
+    "question": "Identify the correct family possessing the following characters: presence of glucosinolates, tetradynamous stamens, superior ovary with parietal placentation and siliqua type fruit.",
+    "options": [
+      "Brassicaceae",
+      "Capparidaceae",
+      "Fumariaceae",
+      "Papavaraceae"
+    ],
+    "correct_answer": "Brassicaceae",
+    "explanation": "[CONCEPT]\nStep 1: Glucosinolates + tetradynamous stamens are diagnostic of Brassicaceae.\nStep 2: Superior ovary with parietal placentation and siliqua fruit confirm the family."
+  },
+  {
+    "id": 13,
+    "question": "Match the floral structures with the families and representative plant species. Floral Structure:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Gynostegium,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Gynostemium,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Gynobasic style,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Gynophore. Family: 1. Orchidaceae, 2. Lamiaceae, 3. Capparidaceae, 4. Asclepiadaceae. Plant: i. Ocimum sanctum, ii. Cleome gynandra, iii. Calotropis procera, iv. Vanilla planifolia</span></div></div>",
+    "options": [
+      "P–2–i; Q–3–iii; R–4–ii; S–1–iv",
+      "P–3–ii; Q–4–i; R–2–iii; S–1–iv",
+      "P–4–iii; Q–1–iv; R–2–i; S–3–ii",
+      "P–4–ii; Q–2–iii; R–1–iv; S–3–i"
+    ],
+    "correct_answer": "P–4–iii; Q–1–iv; R–2–i; S–3–ii",
+    "explanation": "[CONCEPT]\nStep 1: Gynostegium → Asclepiadaceae (Calotropis).\nStep 2: Gynostemium → Orchidaceae (Vanilla).\nStep 3: Gynobasic style → Lamiaceae (Ocimum).\nStep 4: Gynophore → Capparidaceae (Cleome)."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is the closest ancestor of all land plants?",
+    "options": [
+      "Blue green algae",
+      "Red algae",
+      "Chara",
+      "Coleochaeteae"
+    ],
+    "correct_answer": "Chara",
+    "explanation": "[CONCEPT]\nStep 1: Land plants (embryophytes) evolved from charophycean green algae.\nStep 2: Chara is one of the closest living relatives of land plants."
+  },
+  {
+    "id": 15,
+    "question": "As per the Angiosperm Phylogeny Group (APG II, 2003) classification, which of the following plant families comprises of only single genus with single species?",
+    "options": [
+      "Lauraceae",
+      "Aristolochiaceae",
+      "Amborellaceae",
+      "Typhacene"
+    ],
+    "correct_answer": "Amborellaceae",
+    "explanation": "[CONCEPT]\nStep 1: Amborellaceae is a monotypic family.\nStep 2: It contains only Amborella trichopoda, the sister group to all other living angiosperms."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following genera produces dimorphic seeds that help to broaden the time of germination in a variable habitat?",
+    "options": [
+      "Xanthium",
+      "Pisum",
+      "Mangifera",
+      "Linum"
+    ],
+    "correct_answer": "Xanthium",
+    "explanation": "[CONCEPT]\nStep 1: Xanthium produces two seeds of different sizes/dormancy in each fruit.\nStep 2: This dimorphism spreads germination over time, an adaptation to unpredictable habitats."
+  },
+  {
+    "id": 17,
+    "question": "Match the fruit characters with their families and representative plant species. Fruit Character:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Syconus,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Capsule, opening by apical pores or valves,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Legume,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>An etaerio of drupe. Family: 1. Moraceae, 2. Fabaceae, 3. Papaveraceae, 4. Annonaceae. Plant Species: i. Canavalia ensiformis, ii. Artabotrys odoratissimus, iii. Ficus religiosa, iv. Papaver somniferum, v. Pistacia vera, vi. Citrus aurantinum</span></div></div>",
+    "options": [
+      "P–2–iv; Q–3–ii; R–1–vi; S–4–v",
+      "P–1–iii; Q–3–iv; R–2–i; S–4–ii",
+      "P–3–i; Q–2–iii; R–4–ii; S–1–vi",
+      "P–4–v; Q–1–ii; R–2–v; S–3–i"
+    ],
+    "correct_answer": "P–1–iii; Q–3–iv; R–2–i; S–4–ii",
+    "explanation": "[CONCEPT]\nStep 1: Syconus → Moraceae (Ficus).\nStep 2: Capsule with apical pores → Papaveraceae (Papaver).\nStep 3: Legume → Fabaceae (Canavalia).\nStep 4: Etaerio of drupes → Annonaceae (Artabotrys)."
+  },
+  {
+    "id": 18,
+    "question": "Indefinite stamen is a characteristic feature of which of the following plant families?",
+    "options": [
+      "Malvaceae",
+      "Apocynaceae",
+      "Poaceae",
+      "Brassicaceae"
+    ],
+    "correct_answer": "Malvaceae",
+    "explanation": "[CONCEPT]\nStep 1: Indefinite (numerous) stamens are typical of Malvaceae.\nStep 2: The stamens are often monadelphous (filaments united into a tube)."
+  }
+]

@@ -27,7 +27,8 @@ interface PYQQuestion {
 }
 
 const formatYearName = (y: string) => {
-  return y
+  const lastPart = y.split('/').pop() || y;
+  return lastPart
     .split('_')
     .map(part => {
       const match = part.match(/^shift(\d+)$/i);
@@ -43,7 +44,10 @@ export default function PYQTestEngine() {
   const params = useParams();
   const router = useRouter();
   const exam = params.exam as string;
-  const year = params.year as string;
+  
+  const yearParam = params.year;
+  const yearArray = Array.isArray(yearParam) ? yearParam : (yearParam ? [yearParam] : []);
+  const year = yearArray.map(p => decodeURIComponent(p)).join('/');
 
   const [questions, setQuestions] = useState<PYQQuestion[]>([]);
   const [loading, setLoading] = useState(true);
@@ -348,7 +352,7 @@ export default function PYQTestEngine() {
                       {question.id}
                     </div>
                     <div 
-                      className="text-lg md:text-xl font-bold text-text-primary leading-relaxed mt-1 w-full"
+                      className="text-lg md:text-xl font-bold text-text-primary leading-relaxed mt-1 w-full whitespace-pre-line"
                       dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : question.question }}
                     />
                   </div>
@@ -390,8 +394,8 @@ export default function PYQTestEngine() {
                       disabled={isAnswered}
                       isReview={isAnswered}
                       correctAnswer={question.correct_answer}
-                      col1Header="Column I"
-                      col2Header="Column II"
+                      col1Header={parsedColumnMatch.col1Header || "List I"}
+                      col2Header={parsedColumnMatch.col2Header || "List II"}
                     />
                   );
                 }

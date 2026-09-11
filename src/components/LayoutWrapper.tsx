@@ -4,15 +4,18 @@ import { useState, useEffect } from "react";
 import Sidebar from "./Sidebar";
 import Header from "./Header";
 import AuthSidebar from "./AuthSidebar";
+import DownloadApkModal from "./DownloadApkModal";
 import { useAuth } from "@/lib/AuthContext";
 import { usePathname, useRouter } from "next/navigation";
 import { useTheme } from "@/lib/ThemeContext";
-import { Menu, X, User, Bell, Sun, Moon, CheckCircle2 } from "lucide-react";
+import { Menu, X, User, Bell, Sun, Moon, CheckCircle2, Download } from "lucide-react";
 import TokenFloatButton from "./TokenFloatButton";
 
 export default function LayoutWrapper({ children }: { children: React.ReactNode }) {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [isAuthSidebarOpen, setIsAuthSidebarOpen] = useState(false);
+  const [isApkModalOpen, setIsApkModalOpen] = useState(false);
+  const [showGuideInModal, setShowGuideInModal] = useState(false);
   const { user, userData, isGuest } = useAuth();
   const { theme, toggleTheme } = useTheme();
   const pathname = usePathname();
@@ -32,10 +35,19 @@ export default function LayoutWrapper({ children }: { children: React.ReactNode 
     } else if (user && pathname === "/welcome") {
       router.push("/");
     }
-    // Listen for toggle events from Welcome page
+    // Listen for toggle events
     const handleToggleAuth = () => setIsAuthSidebarOpen(true);
+    const handleOpenApk = (e: Event) => {
+      const customEvent = e as CustomEvent<{ showGuide?: boolean }>;
+      setShowGuideInModal(Boolean(customEvent?.detail?.showGuide));
+      setIsApkModalOpen(true);
+    };
     window.addEventListener("toggle-auth-sidebar", handleToggleAuth);
-    return () => window.removeEventListener("toggle-auth-sidebar", handleToggleAuth);
+    window.addEventListener("open-apk-modal", handleOpenApk);
+    return () => {
+      window.removeEventListener("toggle-auth-sidebar", handleToggleAuth);
+      window.removeEventListener("open-apk-modal", handleOpenApk);
+    };
   }, [user, isGuest, pathname, router]);
 
 
@@ -59,6 +71,11 @@ export default function LayoutWrapper({ children }: { children: React.ReactNode 
         <AuthSidebar 
           isOpen={isAuthSidebarOpen} 
           onClose={() => setIsAuthSidebarOpen(false)} 
+        />
+        <DownloadApkModal 
+          isOpen={isApkModalOpen} 
+          onClose={() => setIsApkModalOpen(false)} 
+          defaultShowGuide={showGuideInModal}
         />
       </div>
     );
@@ -86,9 +103,24 @@ export default function LayoutWrapper({ children }: { children: React.ReactNode 
           </button>
         </div>
 
-        {/* Floating User + Notification + Theme (Top Right) */}
+        {/* Floating User + Notification + Theme + APK (Top Right) */}
         <div className="fixed top-16 right-4 md:right-8 z-40 flex items-center space-x-2 md:space-x-3 animate-float">
           <TokenFloatButton />
+
+          {/* APK Download Button */}
+          <button 
+            onClick={() => setIsApkModalOpen(true)}
+            className="flex items-center space-x-1.5 px-3 md:px-3.5 py-1.5 md:py-2 bg-float-btn-bg border border-teal-500/40 shadow-[var(--float-btn-glow)] text-teal-600 dark:text-teal-400 backdrop-blur-md rounded-full hover:scale-105 active:scale-95 transition-all group"
+            title="Download Android APK (v1.0)"
+          >
+            <Download className="w-3.5 h-3.5 md:w-4 md:h-4 group-hover:translate-y-0.5 transition-transform text-accent-main" />
+            <span className="text-[10px] md:text-xs font-black uppercase tracking-wider hidden sm:inline">
+              Get App
+            </span>
+            <span className="text-[9px] font-black uppercase px-1 py-0.2 rounded bg-teal-500/20 text-teal-600 dark:text-teal-400">
+              APK
+            </span>
+          </button>
           
           {/* Theme Toggle Button */}
           <button 
@@ -143,6 +175,11 @@ export default function LayoutWrapper({ children }: { children: React.ReactNode 
       <AuthSidebar 
         isOpen={isAuthSidebarOpen} 
         onClose={() => setIsAuthSidebarOpen(false)} 
+      />
+      <DownloadApkModal 
+        isOpen={isApkModalOpen} 
+        onClose={() => setIsApkModalOpen(false)} 
+        defaultShowGuide={showGuideInModal}
       />
       {showToast && (
         <div className="fixed inset-0 flex items-center justify-center z-[100] px-4">

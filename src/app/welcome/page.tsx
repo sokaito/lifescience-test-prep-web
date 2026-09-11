@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect } from "react";
-import { LayoutDashboard, LogIn, UserPlus } from "lucide-react";
+import { LayoutDashboard, LogIn, UserPlus, Download } from "lucide-react";
 
 import { useAuth } from "@/lib/AuthContext";
 import { useRouter } from "next/navigation";
@@ -28,6 +28,12 @@ export default function WelcomePage() {
     // For now, we'll store a flag or use a shared state in LayoutWrapper
     if (typeof window !== "undefined") {
       window.dispatchEvent(new CustomEvent("toggle-auth-sidebar"));
+    }
+  };
+
+  const handleOpenApkModal = () => {
+    if (typeof window !== "undefined") {
+      window.dispatchEvent(new CustomEvent("open-apk-modal"));
     }
   };
 
@@ -59,6 +65,15 @@ export default function WelcomePage() {
         >
           <LogIn className="w-5 h-5 mr-3 group-hover:translate-x-1 transition-transform" />
           Login / Sign In
+        </button>
+
+        <button
+          onClick={handleOpenApkModal}
+          className="w-full py-3.5 px-8 bg-teal-500/10 hover:bg-teal-500/20 border border-teal-500/30 rounded-2xl text-teal-600 dark:text-teal-400 font-bold text-base transition-all flex items-center justify-center shadow-md group"
+        >
+          <Download className="w-5 h-5 mr-3 group-hover:translate-y-0.5 transition-transform text-accent-main" />
+          <span>Download Android App</span>
+          <span className="ml-2 text-[10px] uppercase font-black px-1.5 py-0.5 rounded bg-teal-500/20">8.7 MB</span>
         </button>
       </div>
 

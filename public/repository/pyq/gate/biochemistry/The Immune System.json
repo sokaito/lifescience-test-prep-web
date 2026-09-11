@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "question": "Antigenic peptides derived from processed protein antigens are presented to T-cells by",
+    "options": [
+      "TCR/CD3 complex",
+      "CD28 costimulatory receptor",
+      "CTLA-4",
+      "Major Histocompatibility Complex (MHC Class I and Class II) molecules"
+    ],
+    "correct_answer": "Major Histocompatibility Complex (MHC Class I and Class II) molecules",
+    "explanation": "[CONCEPT]\nStep 1: Endogenous peptides are presented on MHC Class I to CD8⁺ cytotoxic T cells.\nStep 2: Exogenous peptides are presented on MHC Class II to CD4⁺ helper T cells."
+  },
+  {
+    "id": 2,
+    "question": "Surgical removal of the thymus (thymectomy) in a newborn animal not only impairs cell-mediated immunity (loss of CD8⁺ CTLs) but also severely reduces T-dependent antibody production by B-cells because",
+    "options": [
+      "B-cells mature exclusively in the thymus.",
+      "CD4⁺ T helper cells (which mature in the thymus) are essential for providing cytokine and CD40L costimulatory help for B-cell activation and class switching.",
+      "the thymus produces all circulating immunoglobulins.",
+      "complement components are synthesized in the thymus."
+    ],
+    "correct_answer": "CD4⁺ T helper cells (which mature in the thymus) are essential for providing cytokine and CD40L costimulatory help for B-cell activation and class switching.",
+    "explanation": "[CONCEPT]\nStep 1: T-dependent humoral immunity requires CD4⁺ helper T (Th) cells to provide IL-4, IL-21, and CD40–CD40L contact signals for B-cell affinity maturation and isotype switching."
+  },
+  {
+    "id": 3,
+    "question": "Enzymes utilized in Enzyme-Linked Immunosorbent Assays (ELISA, e.g. Horseradish peroxidase, Alkaline phosphatase) should ideally have",
+    "options": [
+      "a high catalytic turnover number (k_cat).",
+      "the ability to produce a stable, quantifiable colored/fluorescent product.",
+      "high chemical stability upon covalent conjugation to antibodies.",
+      "all of the above."
+    ],
+    "correct_answer": "all of the above.",
+    "explanation": "[CONCEPT]\nStep 1: ELISA reporter enzymes must have high specific turnover, high conjugation stability, and generate intensely colored soluble chromophores."
+  },
+  {
+    "id": 4,
+    "question": "Secretory/serum pentameric IgM is much more potent than monomeric IgG in activating the classical complement cascade because",
+    "options": [
+      "IgM has higher intrinsic affinity for monovalent antigens.",
+      "IgM has higher molecular flexibility.",
+      "IgM is a pentamer with multiple Fc domains that undergo a planar-to-staple conformational shift upon antigen binding, readily presenting multiple adjacent C1q binding sites.",
+      "IgM is present at much higher concentrations in serum."
+    ],
+    "correct_answer": "IgM is a pentamer with multiple Fc domains that undergo a planar-to-staple conformational shift upon antigen binding, readily presenting multiple adjacent C1q binding sites.",
+    "explanation": "[CONCEPT]\nStep 1: A single antigen-bound pentameric IgM in the 'staple' conformation provides multiple adjacent Cμ3 domains required to engage the multivalent globular heads of C1q."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following statements regarding Major Histocompatibility Complex (MHC) molecules is false?",
+    "options": [
+      "MHC Class II molecules are expressed constitutively on all nucleated cells in the body.",
+      "MHC Class II molecules are heterodimers composed of non-covalently associated α and β transmembrane chains.",
+      "MHC Class I molecules are expressed on virtually all nucleated cells.",
+      "T-cell antigen recognition is strictly MHC-restricted."
+    ],
+    "correct_answer": "MHC Class II molecules are expressed constitutively on all nucleated cells in the body.",
+    "explanation": "[CONCEPT]\nStep 1: MHC Class II is restricted to professional Antigen-Presenting Cells (APCs: dendritic cells, macrophages, B cells).\nStep 2: MHC Class I is expressed on all nucleated cells."
+  },
+  {
+    "id": 6,
+    "question": "The primary immunoglobulin isotype capable of undergoing receptor-mediated transcytosis across mucosal epithelial barriers into external secretions (tears, saliva, colostrum, gut lumen) is",
+    "options": [
+      "IgG",
+      "IgM",
+      "Dimeric Secretory IgA (sIgA bound to secretory component)",
+      "All of these equally"
+    ],
+    "correct_answer": "Dimeric Secretory IgA (sIgA bound to secretory component)",
+    "explanation": "[CONCEPT]\nStep 1: Dimeric IgA containing a J-chain binds the polymeric immunoglobulin receptor (pIgR) on the basolateral surface of epithelial cells and is transcytosed to the apical mucosal surface."
+  },
+  {
+    "id": 7,
+    "question": "The simultaneous expression of membrane IgM (mIgM) and membrane IgD (mIgD) with identical antigen-binding specificity on the surface of mature naïve B-lymphocytes is regulated by",
+    "options": [
+      "somatic hypermutation.",
+      "V(D)J class switch recombination.",
+      "alternative polyadenylation and alternative RNA splicing of a single primary long pre-mRNA transcript.",
+      "two completely separate gene loci on different chromosomes."
+    ],
+    "correct_answer": "alternative polyadenylation and alternative RNA splicing of a single primary long pre-mRNA transcript.",
+    "explanation": "[CONCEPT]\nStep 1: The primary transcript includes VDJ exons followed by Cμ and Cδ constant regions. Alternative splicing to Cμ or Cδ poly-A sites yields mIgM or mIgD with identical variable domains."
+  },
+  {
+    "id": 8,
+    "question": "Type 1 (insulin-dependent) diabetes mellitus is an organ-specific autoimmune disorder characterized by",
+    "options": [
+      "overproduction of insulin by pancreatic islets.",
+      "severe obesity and insulin resistance.",
+      "autoimmune T-cell mediated destruction of insulin-producing β-cells of the pancreatic islets of Langerhans.",
+      "point mutations in the insulin receptor gene."
+    ],
+    "correct_answer": "autoimmune T-cell mediated destruction of insulin-producing β-cells of the pancreatic islets of Langerhans.",
+    "explanation": "[CONCEPT]\nStep 1: Autoreactive CD4⁺ Th1 and CD8⁺ CTLs infiltrate pancreatic islets (insulitis), selectively killing β-cells."
+  },
+  {
+    "id": 9,
+    "question": "In the three-dimensional crystallographic structure of Immunoglobulin G (IgG):",
+    "options": [
+      "the flexible hinge region containing interchain disulfide bonds connects the two Fab arms to the Fc stem.",
+      "free SH-groups are conserved to function in antigen binding.",
+      "the predominant secondary structure is an α-helix.",
+      "CH and VH association forms the complementary antigen-binding site."
+    ],
+    "correct_answer": "the flexible hinge region containing interchain disulfide bonds connects the two Fab arms to the Fc stem.",
+    "explanation": "[CONCEPT]\nStep 1: IgG consists of two Fab arms (VH+CH1 and VL+CL) connected via a flexible proline-rich hinge region containing interchain disulfide bonds to the Fc stem (CH2+CH3)."
+  },
+  {
+    "id": 10,
+    "question": "The predominant and most abundant immunoglobulin isotype present in normal human blood serum (~75% of total serum Ig, 10–14 mg/mL) is",
+    "options": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgE"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\nStep 1: IgG has the highest serum concentration (10–14 mg/mL) and longest half-life (~21–23 days)."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following circulating leukocyte cell types is a professional phagocyte that rapidly migrates to infection sites to engulf and destroy opsonized bacteria?",
+    "options": [
+      "T-lymphocytes",
+      "Neutrophils (Polymorphonuclear leukocytes)",
+      "Mast cells",
+      "Thrombocytes (Platelets)"
+    ],
+    "correct_answer": "Neutrophils (Polymorphonuclear leukocytes)",
+    "explanation": "[CONCEPT]\nStep 1: Neutrophils and Macrophages are professional phagocytes armed with reactive oxygen species (respiratory burst) and lysosomal proteases."
+  },
+  {
+    "id": 12,
+    "question": "The human ABO blood group system antigens are carbohydrate oligosaccharides whose terminal antigenic determinants are synthesized by specific glycosyltransferases. The immunodominant terminal sugar defining the A-antigen and B-antigen, respectively, are",
+    "options": [
+      "N-Acetylgalactosamine (GalNAc) for A-antigen, and D-Galactose for B-antigen",
+      "D-Glucose for A, D-Mannose for B",
+      "L-Fucose for A, Sialic acid for B",
+      "N-Acetylglucosamine for A, D-Galactose for B"
+    ],
+    "correct_answer": "N-Acetylgalactosamine (GalNAc) for A-antigen, and D-Galactose for B-antigen",
+    "explanation": "[CONCEPT]\nStep 1: The precursor H-antigen terminates in α(1,2)-L-fucose. Enzyme A adds α(1,3)-N-acetylgalactosamine (A antigen); Enzyme B adds α(1,3)-D-galactose (B antigen)."
+  },
+  {
+    "id": 13,
+    "question": "In avian species, the Bursa of Fabricius is the primary lymphoid organ responsible for the development and maturation of",
+    "options": [
+      "T-lymphocytes",
+      "B-lymphocytes (Antibody-producing cells)",
+      "Macrophage progenitor cells",
+      "Erythrocytes"
+    ],
+    "correct_answer": "B-lymphocytes (Antibody-producing cells)",
+    "explanation": "[CONCEPT]\nStep 1: The Bursa of Fabricius in birds is the site of B-cell lymphopoiesis (hence the name 'B'-cell)."
+  },
+  {
+    "id": 14,
+    "question": "In an antigen-antibody precipitation reaction at the zone of equivalence, the isolated antigen–IgG immune complex had a molar ratio of Antigen : IgG = 2 : 1. How many identical epitopes are present per antigen molecule?",
+    "options": [
+      "1 (Monovalent antigen yielding Ag₂–Ab complexes at antibody saturation)",
+      "2",
+      "4",
+      "10"
+    ],
+    "correct_answer": "1 (Monovalent antigen yielding Ag₂–Ab complexes at antibody saturation)",
+    "explanation": "[CONCEPT]\nStep 1: Each bivalent IgG has 2 antigen-binding Fab arms.\nStep 2: If each antigen has exactly 1 epitope (monovalent), 1 IgG binds 2 antigen molecules, producing a 2:1 Antigen:IgG ratio."
+  },
+  {
+    "id": 15,
+    "question": "When an activated B-cell undergoes class switch recombination (CSR) from IgM to IgG:",
+    "options": [
+      "the antigenic specificity of the variable region changes.",
+      "the antigenic specificity remains unchanged because the V_H-D-J_H variable domain is preserved while only the constant region (C_H) gene is exchanged.",
+      "the molecular weight of the antibody increases.",
+      "the valency changes from 2 to 10."
+    ],
+    "correct_answer": "the antigenic specificity remains unchanged because the V_H-D-J_H variable domain is preserved while only the constant region (C_H) gene is exchanged.",
+    "explanation": "[CONCEPT]\nStep 1: Class switching loops out Cμ/Cδ and ligates the rearranged VDJ unit to a downstream Cγ, Cα, or Cε constant gene. The antigen-binding specificity is identical."
+  },
+  {
+    "id": 16,
+    "question": "A single mature B-cell clone produces two forms of IgM: a membrane-bound receptor (mIgM) and a secreted pentameric antibody (sIgM). These two protein forms are generated by",
+    "options": [
+      "two completely different gene loci on separate chromosomes.",
+      "post-translational lipidation adding transmembrane anchors.",
+      "association with a separate membrane adapter protein.",
+      "alternative RNA polyadenylation and differential splicing of the Cμ heavy chain transcript (using either the secretor-specific tailpiece or M1/M2 transmembrane exons)."
+    ],
+    "correct_answer": "alternative RNA polyadenylation and differential splicing of the Cμ heavy chain transcript (using either the secretor-specific tailpiece or M1/M2 transmembrane exons).",
+    "explanation": "[CONCEPT]\nStep 1: Polyadenylation at Site 1 (Cμ4-S) gives secreted IgM with a hydrophilic tailpiece.\nStep 2: Polyadenylation at Site 2 (downstream of M1/M2) splices transmembrane and cytosolic anchor exons, producing membrane-bound IgM."
+  },
+  {
+    "id": 17,
+    "question": "Natural passive immunity acquired by a human newborn infant before birth is mediated by the selective transplacental transport of which maternal immunoglobulin isotype?",
+    "options": [
+      "IgD",
+      "IgE",
+      "IgM",
+      "IgG (via neonatal Fc receptor, FcRn)"
+    ],
+    "correct_answer": "IgG (via neonatal Fc receptor, FcRn)",
+    "explanation": "[CONCEPT]\nStep 1: Maternal IgG (subclasses IgG1, IgG3, IgG4) binds the syncytiotrophoblast FcRn receptor at acidic pH and is transcytosed across the placenta into fetal circulation."
+  },
+  {
+    "id": 18,
+    "question": "Three monoclonal antibodies were raised against three distinct non-overlapping protein antigens. All three monoclonal antibodies were mixed in one well of an Ouchterlony double immunodiffusion plate, and the three antigens were mixed in the adjacent well. How many distinct precipitin lines will form after diffusion?",
+    "options": [
+      "3 (independent precipitin lines crossing one another in a pattern of non-identity)",
+      "2",
+      "1",
+      "0"
+    ],
+    "correct_answer": "3 (independent precipitin lines crossing one another in a pattern of non-identity)",
+    "explanation": "[CONCEPT]\nStep 1: Each monoclonal antibody reacts independently with its specific antigen, forming 3 separate precipitin lines that cross each other without interference (reaction of non-identity)."
+  },
+  {
+    "id": 19,
+    "question": "In an antigen-antibody binding assay, the molecular weight of an IgG–antigen complex formed in extreme antigen excess is 300 kDa. Given that monomeric IgG is 150 kDa and binds two antigen molecules (Ag₂–IgG), what is the molecular weight of the antigen?",
+    "options": [
+      "75 kDa",
+      "50 kDa",
+      "100 kDa",
+      "75 kDa (or 150 kDa / 2 = 75 kDa per antigen)"
+    ],
+    "correct_answer": "75 kDa (or 150 kDa / 2 = 75 kDa per antigen)",
+    "explanation": "[CONCEPT]\nStep 1: In antigen excess, both Fab arms are saturated: 1 IgG (150 kDa) + 2 Antigens = 300 kDa.\nStep 2: 2 × MW_antigen = 300 − 150 = 150 kDa → MW_antigen = 75 kDa."
+  },
+  {
+    "id": 20,
+    "question": "Genetic variation in immunoglobulin constant region genes between different individuals within the same species (e.g. Gm and Km markers) is termed",
+    "options": [
+      "Isotypic variation",
+      "Idiotypic variation",
+      "Allotypic variation",
+      "Haplotypic variation"
+    ],
+    "correct_answer": "Allotypic variation",
+    "explanation": "[CONCEPT]\nStep 1: Isotype: Constant regions shared by all healthy individuals of a species.\nStep 2: Allotype: Polymorphic amino acid differences between alleles within a species.\nStep 3: Idiotype: Unique antigen-binding site CDR variations."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following elution buffers is standardly used to dissociate and elute high-affinity bound anti-albumin IgG from an immobilized Protein A / antigen affinity column?",
+    "options": [
+      "0.1 M Glycine-HCl, pH 2.7–3.0 (Low-pH elution)",
+      "0.1 M Sodium acetate, pH 6.0",
+      "0.1 M Sodium phosphate, pH 7.0",
+      "0.1 M Tris-HCl, pH 8.0"
+    ],
+    "correct_answer": "0.1 M Glycine-HCl, pH 2.7–3.0 (Low-pH elution)",
+    "explanation": "[CONCEPT]\nStep 1: Acidic glycine-HCl buffer (pH 2.5–3.0) protonates carboxylate and imidazole groups, disrupting salt bridges and hydrogen bonds to release bound antibody."
+  },
+  {
+    "id": 22,
+    "question": "The ultimate sensitivity and lower limit of detection in a competitive Radioimmunoassay (RIA) is primarily determined by the",
+    "options": [
+      "volume of the sample.",
+      "affinity constant (K_a) and specificity of the antibody.",
+      "specific activity of the radiolabeled tracer ligand.",
+      "purity of the blocking agent."
+    ],
+    "correct_answer": "affinity constant (K_a) and specificity of the antibody.",
+    "explanation": "[CONCEPT]\nStep 1: Higher antibody affinity allows detection of smaller concentrations of competing unlabeled antigen at lower displacement thresholds."
+  },
+  {
+    "id": 23,
+    "question": "The choice of the reporter enzyme (e.g. HRP, Alkaline Phosphatase) used in ELISA assays is critically dependent on its",
+    "options": [
+      "high molecular weight.",
+      "intrinsic color in native state.",
+      "absence from the endogenous biological sample being analyzed to prevent background false-positive signals.",
+      "commercial availability in large crystalline forms."
+    ],
+    "correct_answer": "absence from the endogenous biological sample being analyzed to prevent background false-positive signals.",
+    "explanation": "[CONCEPT]\nStep 1: Endogenous enzyme activity in tissue/serum samples would generate unspecific chromogenic signal; hence, enzymes with low/no endogenous background are selected."
+  },
+  {
+    "id": 24,
+    "question": "The T-cell antigen receptor (TCR) expressed on CD4⁺ and CD8⁺ T-lymphocytes recognizes",
+    "options": [
+      "native, 3D conformational epitopes on intact soluble proteins.",
+      "polysaccharide capsules directly.",
+      "lipids without protein carriers.",
+      "linear peptide fragments (8–15 amino acids) displayed within the peptide-binding groove of self MHC Class I or Class II molecules."
+    ],
+    "correct_answer": "linear peptide fragments (8–15 amino acids) displayed within the peptide-binding groove of self MHC Class I or Class II molecules.",
+    "explanation": "[CONCEPT]\nStep 1: TCR recognizes processed short linear peptides embedded in the peptide-binding cleft of self MHC molecules (MHC restriction)."
+  },
+  {
+    "id": 25,
+    "question": "Immunological memory (rapid, high-affinity, high-titer IgG response upon re-exposure to an antigen) is the defining feature of",
+    "options": [
+      "primary immune responses.",
+      "non-specific inflammation.",
+      "innate immunity.",
+      "secondary (anamnestic) adaptive immune responses."
+    ],
+    "correct_answer": "secondary (anamnestic) adaptive immune responses.",
+    "explanation": "[CONCEPT]\nStep 1: Long-lived memory B and T cells generated during primary immunization respond with faster kinetics, higher antibody titers, and affinity-matured IgG upon secondary challenge."
+  },
+  {
+    "id": 26,
+    "question": "Limited enzymatic cleavage of an intact IgG molecule with the endopeptidase pepsin produces",
+    "options": [
+      "one F(ab′)₂ bivalent fragment and extensively degraded small peptide fragments of the Fc region.",
+      "two separate univalent Fab fragments and one intact Fc fragment.",
+      "one Fab fragment and one Fc fragment.",
+      "intact light chains only."
+    ],
+    "correct_answer": "one F(ab′)₂ bivalent fragment and extensively degraded small peptide fragments of the Fc region.",
+    "explanation": "[CONCEPT]\nStep 1: Pepsin cleaves below the hinge disulfide bonds, generating one bivalent F(ab′)₂ (110 kDa) and multiple small pFc′ peptides.\nStep 2: Papain cleaves above the hinge, yielding two monovalent Fab (50 kDa each) and one intact Fc (50 kDa)."
+  },
+  {
+    "id": 27,
+    "question": "Fill in the blanks:\n_______ are responsible for humoral antibody secretion against extracellular pathogens, while ________ directly destroy virally infected cells and abnormal tumor cells.",
+    "options": [
+      "Cytotoxic T-cells, B-cells",
+      "Macrophages, T-cells",
+      "B-cells, Helper T-cells",
+      "B-cells (Plasma cells), Cytotoxic T-lymphocytes (CD8⁺ CTLs)"
+    ],
+    "correct_answer": "B-cells (Plasma cells), Cytotoxic T-lymphocytes (CD8⁺ CTLs)",
+    "explanation": "[CONCEPT]\nStep 1: B-cells differentiate into antibody-secreting plasma cells (humoral immunity).\nStep 2: CD8⁺ Cytotoxic T-cells induce perforin/granzyme-mediated apoptosis in virally infected and neoplastic target cells."
+  },
+  {
+    "id": 28,
+    "question": "Systemic Lupus Erythematosus (SLE), a prototypical systemic autoimmune disease, is characterized by pathogenic autoantibodies directed against",
+    "options": [
+      "double-stranded DNA (anti-dsDNA) and nuclear ribonucleoproteins (anti-Sm).",
+      "thyroglobulin.",
+      "insulin receptors.",
+      "collagen Type II."
+    ],
+    "correct_answer": "double-stranded DNA (anti-dsDNA) and nuclear ribonucleoproteins (anti-Sm).",
+    "explanation": "[CONCEPT]\nStep 1: High-affinity anti-nuclear antibodies (ANAs), especially anti-dsDNA and anti-Smith (Sm), form circulating immune complexes that deposit in kidneys and blood vessels."
+  },
+  {
+    "id": 29,
+    "question": "To generate high-affinity neutralizing antibodies against a small non-immunogenic hapten (e.g. DNP, steroid, drug), the hapten must be injected into an animal",
+    "options": [
+      "alone without any carrier.",
+      "as an unlinked simple mixture with a carrier protein.",
+      "covalently conjugated to a large, immunogenic carrier protein (e.g. BSA or Keyhole Limpet Hemocyanin, KLH) along with an adjuvant.",
+      "dissolved in mineral oil alone."
+    ],
+    "correct_answer": "covalently conjugated to a large, immunogenic carrier protein (e.g. BSA or Keyhole Limpet Hemocyanin, KLH) along with an adjuvant.",
+    "explanation": "[CONCEPT]\nStep 1: Haptens are antigenic but non-immunogenic.\nStep 2: Covalent linkage to a foreign carrier protein enables carrier-derived peptide presentation to CD4⁺ T helper cells, providing T help for anti-hapten B-cell activation."
+  },
+  {
+    "id": 30,
+    "question": "A fundamental feature shared between B-lymphocyte and T-lymphocyte antigen receptors (BCR and TCR) is that",
+    "options": [
+      "both receptors are secreted as soluble pentamers into body fluids.",
+      "both receptors possess intrinsic MHC Class II domains.",
+      "both BCR and TCR variable domains are generated by RAG-1/RAG-2 mediated somatic V(D)J gene rearrangement.",
+      "both cells perform phagocytosis."
+    ],
+    "correct_answer": "both BCR and TCR variable domains are generated by RAG-1/RAG-2 mediated somatic V(D)J gene rearrangement.",
+    "explanation": "[CONCEPT]\nStep 1: Diverse primary repertoires of both BCR (immunoglobulin heavy/light chains) and TCR (α/β or γ/δ chains) are generated by combinatorial RAG1/2 V(D)J recombination and junctional diversity."
+  },
+  {
+    "id": 31,
+    "question": "In Kohler and Milstein's hybridoma technology for monoclonal antibody production, the parental myeloma cell line selected for fusion is defective in",
+    "options": [
+      "thymidylate synthase.",
+      "RNA polymerase II.",
+      "hypoxanthine-guanine phosphoribosyltransferase (HGPRT⁻) and lacks intrinsic immunoglobulin secretion (Ig⁻).",
+      "dihydrofolate reductase."
+    ],
+    "correct_answer": "hypoxanthine-guanine phosphoribosyltransferase (HGPRT⁻) and lacks intrinsic immunoglobulin secretion (Ig⁻).",
+    "explanation": "[CONCEPT]\nStep 1: HGPRT⁻ myeloma cells cannot utilize the purine salvage pathway and die in HAT selection medium (aminopterin blocks de novo purine synthesis).\nStep 2: Only hybridomas fused with HGPRT⁺ spleen B-cells survive in HAT medium."
+  },
+  {
+    "id": 32,
+    "question": "Nucleated host mammalian cells are significantly more resistant to complement Membrane Attack Complex (MAC, C5b-9) mediated lysis than non-nucleated erythrocytes because",
+    "options": [
+      "nucleated cells can rapidly endocytose or shed inserted MAC complexes and express membrane complement regulators (CD59/Protectin, DAF).",
+      "MAC cannot insert into nucleated membrane bilayers.",
+      "nucleated cells degrade C3 convertase instantaneously.",
+      "MAC does not bind to mammalian membranes."
+    ],
+    "correct_answer": "nucleated cells can rapidly endocytose or shed inserted MAC complexes and express membrane complement regulators (CD59/Protectin, DAF).",
+    "explanation": "[CONCEPT]\nStep 1: Nucleated cells resist sub-lytic MAC damage via active membrane repair, endocytic removal/shedding of C5b-9 pores, and cell-surface CD59 inhibition."
+  },
+  {
+    "id": 33,
+    "question": "In early B-cell development in bone marrow, progenitor B-cells (Pro-B cells undergoing D_H→J_H rearrangement) will show which staining pattern with anti-μ and anti-δ heavy-chain antibodies?",
+    "options": [
+      "Cytoplasmic μ staining and surface δ staining",
+      "Surface μ staining and cytoplasmic δ staining",
+      "No cytoplasmic or cell-surface staining for either μ or δ heavy chains (heavy chain is not yet synthesized).",
+      "Surface μ staining only"
+    ],
+    "correct_answer": "No cytoplasmic or cell-surface staining for either μ or δ heavy chains (heavy chain is not yet synthesized).",
+    "explanation": "[CONCEPT]\nStep 1: In Pro-B cells, heavy chain gene rearrangement is ongoing. μ-heavy chain protein is first expressed only in the cytoplasm of Pre-B cells, and surface mIgM appears at the Immature B-cell stage."
+  },
+  {
+    "id": 34,
+    "question": "Free circulating monomeric serum IgM (or uncomplexed planar IgM) cannot activate the classical complement cascade because",
+    "options": [
+      "it lacks complement-binding domains.",
+      "uncomplexed planar IgM holds its Cμ3 complement-binding sites in an inaccessible, unexposed planar orientation; only upon binding multivalent antigen does it undergo a conformational shift into the 'staple' form.",
+      "it is degraded by serum proteases.",
+      "it lacks a J-chain."
+    ],
+    "correct_answer": "uncomplexed planar IgM holds its Cμ3 complement-binding sites in an inaccessible, unexposed planar orientation; only upon binding multivalent antigen does it undergo a conformational shift into the 'staple' form.",
+    "explanation": "[CONCEPT]\nStep 1: In solution, planar pentameric IgM cannot bind C1q.\nStep 2: Multivalent antigen binding bends the Fab arms into a 'staple' (crab-like) geometry, exposing multiple Cμ3 domains to activate C1q."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following molecules can function as an antigen (binding specifically to pre-formed antibodies) but cannot by itself induce an immune response (non-immunogenic hapten)?",
+    "options": [
+      "Keyhole Limpet Hemocyanin (KLH)",
+      "Influenza viral hemagglutinin",
+      "Azobenzene arsonate (a small chemical hapten)",
+      "Corynebacterium diphtheriae toxin"
+    ],
+    "correct_answer": "Azobenzene arsonate (a small chemical hapten)",
+    "explanation": "[CONCEPT]\nStep 1: Azobenzene arsonate is a classic low-molecular-weight hapten (<1000 Da) that binds antibodies but cannot stimulate T-cell help or B-cell activation on its own."
+  },
+  {
+    "id": 36,
+    "question": "Cells expressing EGFR were either treated with EGF (T) or untreated (U), lysed, immunoprecipitated with anti-EGFR, and analyzed by Western blotting using anti-phosphotyrosine (1) or anti-EGFR protein kinase (3) antibodies. Which antibodies will detect a band in T and U?",
+    "options": [
+      "T – Antibodies 1 and 3; U – Antibody 3 only",
+      "T – Antibodies 2 and 4; U – Antibody 4",
+      "T – Antibodies 1 and 2; U – Antibody 1",
+      "T – Antibodies 1 and 3; U – Antibody 2"
+    ],
+    "correct_answer": "T – Antibodies 1 and 3; U – Antibody 3 only",
+    "explanation": "[CONCEPT]\nStep 1: EGFR protein kinase (3) is present in both treated (T) and untreated (U) cells.\nStep 2: Phosphotyrosine (1) is generated only upon ligand-induced autophosphorylation in EGF-treated (T) cells."
+  },
+  {
+    "id": 37,
+    "question": "Positive selection of immature thymocytes (CD4⁺CD8⁺ double-positive T cells) in the thymic cortex ensures",
+    "options": [
+      "MHC restriction (survival of T cells whose TCRs recognize self-peptide–self-MHC complexes with moderate affinity).",
+      "elimination of self-reactive T cells (Negative selection).",
+      "production of monoclonal antibodies.",
+      "isotype switching."
+    ],
+    "correct_answer": "MHC restriction (survival of T cells whose TCRs recognize self-peptide–self-MHC complexes with moderate affinity).",
+    "explanation": "[CONCEPT]\nStep 1: Cortical thymic epithelial cells present self-MHC Class I and II; thymocytes with functional TCRs recognizing self-MHC receive survival signals (Positive Selection / MHC restriction)."
+  },
+  {
+    "id": 38,
+    "question": "Match the immunological terms in Column I with their definitions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Isotype switching</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Clonal anergy</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Class II MHC</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Central self-tolerance\n\nColumn II:\n1. C_H constant gene segment recombination\n2. Deletion of self-reactive lymphocyte clones in primary lymphoid organs\n3. Functional unresponsiveness induced in T cells due to lack of costimulatory signal\n4. Heterodimer of α and β chains expressed on APCs</span></div></div>",
+    "options": [
+      "P – 1; Q – 4; R – 3; S – 2",
+      "P – 2; Q – 4; R – 1; S – 3",
+      "P – 1; Q – 3; R – 4; S – 2",
+      "P – 2; Q – 1; R – 3; S – 4"
+    ],
+    "correct_answer": "P – 1; Q – 3; R – 4; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: Isotype switching: C_H recombination (P–1).\nStep 2: Clonal anergy: Costimulation-deficient unresponsiveness (Q–3).\nStep 3: Class II MHC: α/β heterodimer on APCs (R–4).\nStep 4: Central self-tolerance: Negative selection of autoreactive clones (S–2)."
+  },
+  {
+    "id": 39,
+    "question": "The alternative pathway of complement activation is uniquely initiated and amplified by",
+    "options": [
+      "Factor B, Factor D, and spontaneous tick-over hydrolysis of C3 into C3(H₂O).",
+      "Mannose-binding lectin (MBL) and MASP-1/2.",
+      "C1qrs recognition of antigen-antibody complexes.",
+      "C2 and C4 cleavage alone."
+    ],
+    "correct_answer": "Factor B, Factor D, and spontaneous tick-over hydrolysis of C3 into C3(H₂O).",
+    "explanation": "[CONCEPT]\nStep 1: The alternative pathway utilizes Factors B and D to form the C3bBb convertase on microbial cell surfaces without requiring antibodies."
+  },
+  {
+    "id": 40,
+    "question": "Horseradish peroxidase (HRP) and Calf Intestinal Alkaline Phosphatase (AP) are the two most widely utilized reporter enzymes in ELISA and Western blotting because",
+    "options": [
+      "they are intensely colored in their native states.",
+      "they are small inorganic catalysts.",
+      "they possess very high catalytic turnover numbers (k_cat) and high stability, converting soluble chromogenic/chemiluminescent substrates into intense signals.",
+      "they bind spontaneously to polystyrene plates."
+    ],
+    "correct_answer": "they possess very high catalytic turnover numbers (k_cat) and high stability, converting soluble chromogenic/chemiluminescent substrates into intense signals.",
+    "explanation": "[CONCEPT]\nStep 1: HRP and AP offer high amplification power (1 enzyme molecule hydrolyzes thousands of substrate molecules per second), providing picogram-level assay sensitivity."
+  },
+  {
+    "id": 41,
+    "question": "Match the immune cell types in Column I with their effector molecules / functions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Basophils / Mast cells</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Cytotoxic T-lymphocytes (CTLs)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Activated B-lymphocytes</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Neutrophils\n\nColumn II:\n1. Perforin and granzymes\n2. Phagocytosis and NETosis\n3. Albumin\n4. Macroglobulin\n5. High-affinity FcεRI receptors for IgE (Histamine degranulation)\n6. Differentiation into antibody-secreting plasma cells</span></div></div>",
+    "options": [
+      "P – 5; Q – 1; R – 6; S – 2",
+      "P – 1; Q – 2; R – 3; S – 4",
+      "P – 3; Q – 4; R – 5; S – 1",
+      "P – 2; Q – 6; R – 1; S – 3"
+    ],
+    "correct_answer": "P – 5; Q – 1; R – 6; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: Basophils/Mast cells express FcεRI for IgE (P–5).\nStep 2: CTLs release perforin/granzymes (Q–1).\nStep 3: B-cells differentiate into plasma cells (R–6).\nStep 4: Neutrophils carry out phagocytosis (S–2)."
+  },
+  {
+    "id": 42,
+    "question": "The cell surface membrane of a mature, antigen-inexperienced naïve B-lymphocyte simultaneously displays which two immunoglobulin isotypes?",
+    "options": [
+      "IgG and IgM",
+      "IgG and IgD",
+      "IgM and IgE",
+      "Monodimeric IgM and IgD (co-expressed via alternative RNA splicing)"
+    ],
+    "correct_answer": "Monodimeric IgM and IgD (co-expressed via alternative RNA splicing)",
+    "explanation": "[CONCEPT]\nStep 1: Mature naïve B-cells leaving the bone marrow express both mIgM and mIgD on their surface with identical antigen specificity."
+  },
+  {
+    "id": 43,
+    "question": "Pick the correctly matched developmental stages and immunological events during B-cell lymphopoiesis:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Immature B-cells — Terminal deoxynucleotidyl transferase (TdT)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Activated B-cells — Isotype class switching and somatic hypermutation</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Pre-B-cells — Surrogate light chain (VpreB / λ5)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Mature B-cells — Ongoing RAG-1 / RAG-2 V(D)J rearrangement</span></div></div>",
+    "options": [
+      "P and R",
+      "Q and R",
+      "Q and S",
+      "Q and P"
+    ],
+    "correct_answer": "Q and R",
+    "explanation": "[CONCEPT]\nStep 1: Activated B-cells undergo AID-mediated somatic hypermutation and class switching in germinal centers (Q is correct).\nStep 2: Pre-B cells assemble the pre-BCR using rearranged μ-heavy chains paired with surrogate light chains (VpreB + λ5) (R is correct)."
+  },
+  {
+    "id": 44,
+    "question": "In clinical organ and tissue transplantation, arrange the graft types in decreasing order of speed and severity of allograft/xenograft rejection:",
+    "options": [
+      "Isograft > Xenograft > Allograft",
+      "Allograft > Isograft > Xenograft",
+      "Xenograft > Autograft > Allograft",
+      "Xenograft (between different species) > Allograft (between non-identical individuals of same species) > Isograft (between identical twins) / Autograft (no rejection)"
+    ],
+    "correct_answer": "Xenograft (between different species) > Allograft (between non-identical individuals of same species) > Isograft (between identical twins) / Autograft (no rejection)",
+    "explanation": "[CONCEPT]\nStep 1: Xenografts trigger hyperacute rejection due to pre-existing natural antibodies and divergent MHC/complement regulators.\nStep 2: Allografts undergo acute T-cell mediated rejection over days/weeks.\nStep 3: Syngeneic Isografts and Autografts are genetically identical and accepted."
+  },
+  {
+    "id": 45,
+    "question": "A patient suffering from recurrent opportunistic Pneumocystis pneumonia and disseminated tuberculosis presents with a severe, selective depletion of CD4⁺ T-helper lymphocytes. The primary causative pathogen is a member of the",
+    "options": [
+      "Klebsiella family",
+      "Mycobacteriaceae",
+      "Retroviridae family (Human Immunodeficiency Virus, HIV-1)",
+      "Streptococcaceae"
+    ],
+    "correct_answer": "Retroviridae family (Human Immunodeficiency Virus, HIV-1)",
+    "explanation": "[CONCEPT]\nStep 1: HIV-1 (Retroviridae) uses viral envelope glycoprotein gp120 to bind CD4 and chemokine co-receptors (CCR5/CXCR4), selectively destroying CD4⁺ T helper cells."
+  },
+  {
+    "id": 46,
+    "question": "The intrinsic thermodynamic binding affinity constant (K_a) and antibody valency for a small hapten can be quantitatively determined by",
+    "options": [
+      "MALDI-TOF mass spectrometry",
+      "Isoelectric focusing",
+      "Denaturing SDS-PAGE",
+      "Equilibrium dialysis (analyzed by Scatchard plot)"
+    ],
+    "correct_answer": "Equilibrium dialysis (analyzed by Scatchard plot)",
+    "explanation": "[CONCEPT]\nStep 1: In equilibrium dialysis, free hapten diffuses across a semipermeable membrane into an antibody chamber; measuring free vs bound hapten at equilibrium yields K_a and valency via Scatchard analysis."
+  },
+  {
+    "id": 47,
+    "question": "Match the immune proteins in Column I with their molecular descriptions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>J (Joining) chain</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Serpins (e.g. C1 inhibitor)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>β₂-Microglobulin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Artemis endonuclease\n\nColumn II:\n1. Hairpin-opening nuclease in V(D)J recombination\n2. Invariant non-polymorphic light chain of MHC Class I\n3. B-cell co-receptor\n4. Irreversible suicide serine protease inhibitor (traps C1r/C1s)\n5. Component of MHC Class II\n6. Polypeptide linking monomeric subunits in polymeric IgA and IgM</span></div></div>",
+    "options": [
+      "P – 3; Q – 4; R – 5; S – 1",
+      "P – 6; Q – 5; R – 2; S – 3",
+      "P – 6; Q – 4; R – 2; S – 1",
+      "P – 3; Q – 4; R – 1; S – 6"
+    ],
+    "correct_answer": "P – 6; Q – 4; R – 2; S – 1",
+    "explanation": "[CONCEPT]\nStep 1: J-chain: Multimerizes IgA/IgM (P–6).\nStep 2: Serpin (C1-INH): Protease inhibitor (Q–4).\nStep 3: β₂-Microglobulin: Invariant subunit of MHC Class I (R–2).\nStep 4: Artemis: Hairpin opening in V(D)J joining (S–1)."
+  },
+  {
+    "id": 48,
+    "question": "Match the complement / immune components in Column I with their binding partners in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Complement C1q</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>L-Selectin (CD62L)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Membrane Attack Complex (MAC)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Activated CD4⁺ T-helper cells\n\nColumn II:\n1. Peripheral node addressin (PNAd / CD34 on High Endothelial Venules)\n2. Assembly of C5b, C6, C7, C8, and poly-C9 transmembrane pore\n3. C_H2 domain of IgG / C_H3 domain of IgM Fc region\n4. C5a anaphylatoxin\n5. CD40 Ligand (CD40L / CD154)</span></div></div>",
+    "options": [
+      "P – 3; Q – 5; R – 4; S – 1",
+      "P – 1; Q – 2; R – 4; S – 5",
+      "P – 3; Q – 1; R – 2; S – 5",
+      "P – 4; Q – 5; R – 2; S – 1"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 2; S – 5",
+    "explanation": "[CONCEPT]\nStep 1: C1q binds antibody Fc (P–3).\nStep 2: L-Selectin binds HEV sialomucins (Q–1).\nStep 3: MAC is C5b-9 pore complex (R–2).\nStep 4: Th cells express CD40L to engage B-cell CD40 (S–5)."
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is not a property of the Fab (Fragment antigen-binding) fragment generated by papain digestion of IgG?",
+    "options": [
+      "Contains one complete antigen-binding site (CDR paratope).",
+      "Contains an intact light chain (V_L + C_L) and V_H + C_H1 domains.",
+      "Two univalent Fab fragments are generated per IgG molecule.",
+      "Mediates classical complement C1q fixation and Fcγ-receptor binding (mediated exclusively by the Fc fragment)."
+    ],
+    "correct_answer": "Mediates classical complement C1q fixation and Fcγ-receptor binding (mediated exclusively by the Fc fragment).",
+    "explanation": "[CONCEPT]\nStep 1: Effector functions (C1q complement binding, FcγR binding, transplacental transfer via FcRn) reside entirely in the Fc fragment (C_H2 and C_H3 domains), not in Fab."
+  },
+  {
+    "id": 50,
+    "question": "Which of the following statements is not true regarding classical MHC Class I proteins?",
+    "options": [
+      "MHC Class I α-chain genes (HLA-A, HLA-B, HLA-C) are highly polymorphic.",
+      "CD8⁺ Cytotoxic T-lymphocytes recognize peptides presented on MHC Class I.",
+      "MHC Class I molecules are expressed on virtually all nucleated vertebrate cells.",
+      "β₂-Microglobulin is covalently attached to the α-chain by an interchain disulfide bond."
+    ],
+    "correct_answer": "β₂-Microglobulin is covalently attached to the α-chain by an interchain disulfide bond.",
+    "explanation": "[CONCEPT]\nStep 1: β₂-Microglobulin (encoded on chromosome 15) is non-covalently associated with the polymorphic α-chain (encoded on chromosome 6) via hydrophobic and electrostatic interactions (no disulfide bond)."
+  },
+  {
+    "id": 51,
+    "question": "Which enzyme defect engineered in parental myeloma cells allows selective survival of hybridomas in HAT (Hypoxanthine-Aminopterin-Thymidine) culture medium?",
+    "options": [
+      "Deficiency of thymidylate synthase",
+      "Overexpression of ribonucleotide reductase",
+      "Deficiency of adenosine deaminase",
+      "Deficiency of Hypoxanthine-Guanine Phosphoribosyltransferase (HGPRT⁻)"
+    ],
+    "correct_answer": "Deficiency of Hypoxanthine-Guanine Phosphoribosyltransferase (HGPRT⁻)",
+    "explanation": "[CONCEPT]\nStep 1: HGPRT⁻ myeloma cells cannot use the purine salvage pathway. In HAT medium, aminopterin blocks de novo synthesis, killing unfused myeloma cells."
+  },
+  {
+    "id": 52,
+    "question": "Which combination of reagents will not cleave or reduce interchain disulfide bonds in immunoglobulin molecules?",
+    "options": [
+      "Sodium dodecyl sulfate (SDS) and Methionine (an amino acid without free thiol reducing activity)",
+      "Reduced glutathione (GSH) and Dithiothreitol (DTT)",
+      "β-Mercaptoethanol and DTT",
+      "DTT and Tris(2-carboxyethyl)phosphine (TCEP)"
+    ],
+    "correct_answer": "Sodium dodecyl sulfate (SDS) and Methionine (an amino acid without free thiol reducing activity)",
+    "explanation": "[CONCEPT]\nStep 1: Disulfide reduction requires active sulfhydryl reducing agents (DTT, β-ME, GSH, TCEP).\nStep 2: SDS is an ionic detergent that denatures non-covalent interactions but cannot cleave covalent S–S bonds; Methionine thioether is non-reducing."
+  },
+  {
+    "id": 53,
+    "question": "Type II (antibody-mediated cytotoxic) hypersensitivity reactions (e.g. hemolytic disease of the newborn, autoimmune hemolytic anemia, Goodpasture syndrome) are mediated primarily by",
+    "options": [
+      "IgE antibodies bound to mast cells (Type I)",
+      "IgM and IgG autoantibodies directed against cell surface or tissue matrix antigens, causing complement lysis or ADCC",
+      "Secretory IgA",
+      "Sensitized CD4⁺ Th1 / CD8⁺ T-lymphocytes (Type IV / DTH)"
+    ],
+    "correct_answer": "IgM and IgG autoantibodies directed against cell surface or tissue matrix antigens, causing complement lysis or ADCC",
+    "explanation": "[CONCEPT]\nStep 1: Type II hypersensitivity involves IgG/IgM binding surface antigens, activating classical complement (MAC) or recruiting FcγR-bearing NK cells/macrophages (ADCC)."
+  },
+  {
+    "id": 54,
+    "question": "The lymphocyte-specific RAG-1 and RAG-2 recombinases responsible for somatic V(D)J recombination of antigen receptor genes are actively expressed in",
+    "options": [
+      "developing precursor T-cells (thymocytes) and precursor B-cells in bone marrow.",
+      "mature Natural Killer (NK) cells.",
+      "activated Macrophages.",
+      "circulating Neutrophils."
+    ],
+    "correct_answer": "developing precursor T-cells (thymocytes) and precursor B-cells in bone marrow.",
+    "explanation": "[CONCEPT]\nStep 1: RAG1/RAG2 recognize conserved Recombination Signal Sequences (RSS) only during pro/pre stages of B-cell and T-cell development."
+  },
+  {
+    "id": 55,
+    "question": "In Type I immediate hypersensitivity (allergic rhinitis, asthma, anaphylaxis), antihistamine pharmacotherapies specifically target and block the action of",
+    "options": [
+      "Glycine",
+      "Histamine (by competitively antagonizing H₁ receptors)",
+      "Insulin",
+      "Major basic protein"
+    ],
+    "correct_answer": "Histamine (by competitively antagonizing H₁ receptors)",
+    "explanation": "[CONCEPT]\nStep 1: Cross-linking of FcεRI-bound IgE on mast cells triggers rapid degranulation of histamine, which binds H₁ receptors to cause vasodilation, vascular permeability, and smooth muscle bronchoconstriction."
+  },
+  {
+    "id": 56,
+    "question": "The human Major Histocompatibility Complex (HLA system on chromosome 6p21) is described genetically as being",
+    "options": [
+      "Polygenic and monomorphic",
+      "Polygenic (multiple distinct gene loci: HLA-A, B, C, DP, DQ, DR) and highly polymorphic (thousands of distinct alleles in the human population)",
+      "Monogenic and polymorphic",
+      "Monogenic and monomorphic"
+    ],
+    "correct_answer": "Polygenic (multiple distinct gene loci: HLA-A, B, C, DP, DQ, DR) and highly polymorphic (thousands of distinct alleles in the human population)",
+    "explanation": "[CONCEPT]\nStep 1: Polygenic: Each individual expresses multiple class I (A, B, C) and class II (DP, DQ, DR) loci.\nStep 2: Highly polymorphic: Hundreds to thousands of different functional alleles exist at each locus across the population."
+  },
+  {
+    "id": 57,
+    "question": "The specific non-covalent binding between an antibody paratope (hypervariable CDR loops) and its cognate antigen epitope does not involve",
+    "options": [
+      "Covalent peptide or disulfide bonds between antigen and antibody.",
+      "Electrostatic salt bridges.",
+      "Van der Waals dispersion forces.",
+      "Hydrogen bonds and hydrophobic interactions."
+    ],
+    "correct_answer": "Covalent peptide or disulfide bonds between antigen and antibody.",
+    "explanation": "[CONCEPT]\nStep 1: Antigen-antibody binding is completely reversible and mediated entirely by weak non-covalent interactions (electrostatic, hydrogen bonding, van der Waals, hydrophobic effect)."
+  },
+  {
+    "id": 58,
+    "question": "Match the immune receptor / cell in Column I with its physiological function in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Integrins (e.g. LFA-1 / αLβ2)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Microglial cells</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Toll-Like Receptor 7 (TLR-7)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Conventional Dendritic cells (cDCs)\n\nColumn II:\n1. Resident phagocytes and immune sentinels of the central nervous system\n2. Professional cross-presentation of exogenous antigens on MHC Class I to naive CD8⁺ T cells\n3. Endosomal pattern recognition receptor for viral single-stranded RNA (ssRNA)\n4. Leukocyte adhesion to endothelial ICAM-1 during diapedesis and extravasation</span></div></div>",
+    "options": [
+      "P − 2; Q − 1; R − 3; S − 4",
+      "P − 4; Q − 1; R − 3; S − 2",
+      "P − 1; Q − 2; R − 3; S − 4",
+      "P − 4; Q − 1; R − 2; S − 3"
+    ],
+    "correct_answer": "P − 4; Q − 1; R − 3; S − 2",
+    "explanation": "[CONCEPT]\nStep 1: Integrins: Extravasation & ICAM adhesion (P–4).\nStep 2: Microglia: CNS resident phagocytes (Q–1).\nStep 3: TLR-7: Endosomal ssRNA sensor (R–3).\nStep 4: Dendritic cells: Professional antigen cross-presentation (S–2)."
+  }
+]

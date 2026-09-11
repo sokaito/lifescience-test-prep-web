@@ -112,7 +112,7 @@
       "7,200",
       "76",
       "40",
-      "1.4 x 10^6"
+      "4 x 10^6"
     ],
     "correct_answer": "7,200",
     "explanation": "[STEPS]\nStep 1: Calculation step\n40 * 30 * 6 = 7200."
@@ -138,7 +138,7 @@
       "1/254",
       "1/64",
       "1/256",
-      "4.1/4096"
+      "1/4096"
     ],
     "correct_answer": "1/256",
     "explanation": "[STEPS]\nStep 1: Calculation step\nFor a 4 bp cutter, probability is 1/4^4 = 1/256."
@@ -239,7 +239,7 @@
     "type": "mcq",
     "question": "A student made 0.15 M solution of copper sulphate. The absorbance of the solution was found to be 0.3 when using cuvette with a path length of 1 cm. Copper sulphate solution made by a second student gave an absorbance of 0.45 using the same cuvette at the same wavelength. What is the concentration of the copper sulphate solution made by the second student?",
     "options": [
-      "1.0.425 M",
+      "0.425",
       "0.125 M",
       "0.225 M",
       "0.325 M"
@@ -253,12 +253,12 @@
     "image_context": "series_completion_figure.png",
     "question": "Choose the CORRECT alternative from the series on the right to complete the missing figure in the series on the left:",
     "options": [
-      "(4)",
-      "(2)",
-      "(3)",
-      "(1)"
+      "",
+      "",
+      "",
+      ""
     ],
-    "correct_answer": "(2)",
+    "correct_answer": "",
     "explanation": "[CONCEPT]\nPattern matching in the figures."
   },
   {
@@ -397,12 +397,12 @@
     "type": "mcq",
     "question": "What will be the generation time of a culture with a specific growth rate constant of 0.01 min⁻¹?",
     "options": [
-      "1.155 h",
+      "155 h",
       "11.55 h",
       "0.693 min",
       "6.93 min"
     ],
-    "correct_answer": "1.155 h",
+    "correct_answer": "155 h",
     "explanation": "[STEPS]\nStep 1: g\n= ln(2)/μ ≈ 0.693/0.01 per min = 69.3 min ≈ 1.155 h."
   },
   {
@@ -514,10 +514,10 @@
     "type": "mcq",
     "question": "Eight 3rd year students can finish an experiment in 15 days and eighteen 1st year students can complete the same experiment in 10 days. If all these students work together, in how many days will the experiment get completed?",
     "options": [
-      "1.6.67",
-      "2.7.67",
-      "3.6.33",
-      "4.6.00"
+      "6.67",
+      "7.67",
+      "6.33",
+      "6.00"
     ],
     "correct_answer": "6.00",
     "explanation": "[CONCEPT]\nWork rate calculation."
@@ -605,12 +605,12 @@
     "type": "mcq",
     "question": "How many peptide fragments can be generated from the complete digestion of the polypeptide AGRCDKCQANRSLMNF with trypsin?",
     "options": [
-      "1.6",
-      "2.4",
-      "3.3",
-      "4.2"
+      "6",
+      "4",
+      "3",
+      "2"
     ],
-    "correct_answer": "4.2",
+    "correct_answer": "2",
     "explanation": "[CONCEPT]\nTrypsin cuts after R/K; count cleavage sites."
   },
   {
@@ -644,10 +644,10 @@
     "type": "mcq",
     "question": "In the first semester course work at the Biotech Institute, 50 students signed up for both Genetics and Statistics, and 90 students signed up for either Genetics or Statistics. If 25 students are taking Genetics but are NOT taking Statistics, how many students are taking Statistics but not taking Genetics?",
     "options": [
-      "1.65",
-      "2.25",
-      "3.15",
-      "4.35"
+      "65",
+      "25",
+      "15",
+      "35"
     ],
     "correct_answer": "15",
     "explanation": "[STEPS]\nStep 1: Calculation step\nSet theory: |S only| = 90 - 50 - 25 = 15."
@@ -826,10 +826,10 @@
     "type": "mcq",
     "question": "For a microbial culture, if the doubling time is 0.231 h, the specific growth rate (in h⁻¹) will be (assume that the endogenous metabolism is negligible)",
     "options": [
-      "1.1.0",
-      "2.2.5",
-      "3.0.3",
-      "4.3.0"
+      "1.0",
+      "2.5",
+      "0.3",
+      "3.0"
     ],
     "correct_answer": "3.0",
     "explanation": "[STEPS]\nStep 1: Calculation step\nμ = ln(2)/td ≈ 0.693/0.231 ≈ 3 h⁻¹."
@@ -956,12 +956,12 @@
     "type": "mcq",
     "question": "Wetlands are very rich and diverse ecosystems and must be preserved. Which convention signed in Iran protects this specific ecosystem (wetlands) on a global basis?",
     "options": [
-      "1. Ramsar Convention",
-      "2. Vienna Convention",
+      "Ramsar Convention",
+      "Vienna Convention",
       "Geneva Convention",
       "Basel Convention"
     ],
-    "correct_answer": "1. Ramsar Convention",
+    "correct_answer": "Ramsar Convention",
     "explanation": "[CONCEPT]\nRamsar Convention on Wetlands."
   },
   {
@@ -1154,7 +1154,7 @@
       "0.50",
       "0.32",
       "0.45",
-      "0.67"
+      "0.22"
     ],
     "correct_answer": "0.22",
     "explanation": ""
@@ -1596,7 +1596,7 @@
       "8.5",
       "17.3",
       "12.6",
-      "4.8"
+      "8"
     ],
     "correct_answer": "12.6",
     "explanation": "[CONCEPT]\nLMTD calculation."
@@ -1863,22 +1863,28 @@
   },
   {
     "id": 144,
-    "type": "match_following",
+    "type": "match_following_mcq",
     "question": "Match the polysaccharides (L.H.S.) with the microbial cultures (R.H.S.) associated with their industrial production:",
     "options": [
+      "(a) A-iii, B-i, C-ii, D-iv",
+      "(b) A-iv, B-ii, C-iii, D-i",
+      "(c) A-i, B-iii, C-iv, D-ii",
+      "(d) A-ii, B-iv, C-i, D-iii"
+    ],
+    "correct_answer": "(a) A-iii, B-i, C-ii, D-iv",
+    "explanation": "[CONCEPT]\nStandard microbial producers.",
+    "list_1": [
+      "Cellulose",
+      "alginate",
+      "curdalan",
+      "Poly-hydroxy butyrate"
+    ],
+    "list_2": [
       "Pseudomonas aeroginosa",
       "Alcaligenes faecalis",
       "Gluconacetobacterhansenii",
       "Ralstoniaeutropha"
-    ],
-    "match_pairs": {
-      "Cellulose": "Gluconacetobacterhansenii",
-      "alginate": "Pseudomonas aeroginosa",
-      "curdalan": "Alcaligenes faecalis",
-      "Poly-hydroxy butyrate": "Ralstoniaeutropha"
-    },
-    "correct_answer": "A-iii, B-i, C-ii, D-iv",
-    "explanation": "[CONCEPT]\nStandard microbial producers."
+    ]
   },
   {
     "id": 145,
@@ -1940,7 +1946,7 @@
       "7500",
       "75000",
       "750",
-      "4.75"
+      "75"
     ],
     "correct_answer": "75000",
     "explanation": "[CONCEPT]\nDilution factor and colony count."
@@ -2171,9 +2177,9 @@
     "type": "mcq",
     "question": "Two proteins of molecular weights 1.0 × 10⁴ and 1.0 × 10⁴ Daltons were eluted from a gelfiltration column at 220 ml and 300 ml respectively. The molecular weight of an unknown protein that elutes at 140 ml under the same conditions, will be:",
     "options": [
-      "1.1.00× 10⁶",
+      "1.00",
       "5.00 x 10⁵",
-      "1.00 x 10⁵",
+      "00 x 10⁵",
       "5.00 x 10⁶"
     ],
     "correct_answer": "5.00 x 10⁵",
@@ -2340,12 +2346,12 @@
     "type": "mcq",
     "question": "A set of closely linked genetic markers present on a single chromosome, which are NOT easily separable by recombination and tend to be inherited together are termed as:",
     "options": [
-      "1.Haplotypes",
-      "2.Allotypes",
+      "Haplotypes",
+      "Allotypes",
       "Isotypes",
       "Alleles"
     ],
-    "correct_answer": "1.Haplotypes",
+    "correct_answer": "Haplotypes",
     "explanation": "[CONCEPT]\nHaplotype blocks."
   },
   {
@@ -2431,12 +2437,12 @@
     "type": "mcq",
     "question": "What will be the molarity of a 4 mg/ml solution of NaOH?",
     "options": [
-      "1.1M",
-      "2.0.1 M",
-      "3.4 M.",
-      "4.0.0844 M"
+      "1M",
+      "0.1",
+      "4 M.",
+      "0.0844"
     ],
-    "correct_answer": "0.1 M",
+    "correct_answer": "0.1",
     "explanation": "[STEPS]\nStep 1: MW\n<div class=\"inline-flex items-center align-middle mx-1\"><div class=\"flex flex-col items-center\"><span class=\"border-b border-slate-700 dark:border-slate-300 pb-0.5 px-2\">40, 4</span><span>40 = 0.1 M.</span></div></div>"
   },
   {
@@ -2527,7 +2533,7 @@
       "Water > DMSO < DMF >CH3CN",
       "Water DMSO >DMF >CH3CN"
     ],
-    "correct_answer": "Water > DMSO > DMF >CH3CN",
+    "correct_answer": "Water < DMSO > DMF <CH3CN",
     "explanation": "[CONCEPT]\nPolarity order."
   },
   {

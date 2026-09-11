@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "A baby born to which one of these couples is most likely to suffer from hemolytic disease of the newborn?",
+    "options": [
+      "Rh+ mother and Rh+ father",
+      "Rh+ mother and Rh− father",
+      "Rh− mother and Rh− father",
+      "Rh− mother and Rh+ father"
+    ],
+    "correct_answer": "Rh− mother and Rh+ father",
+    "explanation": "[CONCEPT]\nStep 1: Hemolytic disease occurs when an Rh− mother carries an Rh+ fetus.\nStep 2: Mother produces anti-Rh antibodies that attack fetal RBCs in subsequent pregnancies."
+  },
+  {
+    "id": 2,
+    "question": "In humans, the implantation of blastocyst occurs at",
+    "options": [
+      "immediately after ovulation",
+      "1–2 days after ovulation",
+      "6–8 days after ovulation",
+      "2–5 days after ovulation"
+    ],
+    "correct_answer": "6–8 days after ovulation",
+    "explanation": "[CONCEPT]\nStep 1: Fertilization occurs in the fallopian tube.\nStep 2: The embryo reaches the uterus and implants as a blastocyst about 6–8 days after ovulation."
+  },
+  {
+    "id": 3,
+    "question": "If you were asked to clone a man from a single cell and you are provided with the following cells, which one you would choose?",
+    "options": [
+      "Sperm",
+      "Erythrocyte",
+      "Lymphocyte",
+      "Kidney fibroblasts"
+    ],
+    "correct_answer": "Lymphocyte",
+    "explanation": "[CONCEPT]\nStep 1: Cloning requires a diploid nucleus with complete genome.\nStep 2: Lymphocytes are nucleated somatic cells; sperm is haploid and erythrocytes lack nuclei."
+  },
+  {
+    "id": 4,
+    "question": "All your cells contain proto-oncogene, which can change into cancer-causing genes. Why do cells possess such potential time bombs?",
+    "options": [
+      "Proto-oncogene protect cells from infection by cancer-causing viruses",
+      "Proto-oncogene is genetic junk that has not yet been eliminated by natural selection",
+      "Proto-oncogene is unavoidable environmental carcinogens",
+      "Proto-oncogene is necessary for normal control of cell division"
+    ],
+    "correct_answer": "Proto-oncogene is necessary for normal control of cell division",
+    "explanation": "[CONCEPT]\nStep 1: Proto-oncogenes encode proteins that promote normal cell growth and division.\nStep 2: When mutated they become oncogenes that drive uncontrolled proliferation."
+  },
+  {
+    "id": 5,
+    "question": "Which one of the following is a true statement?",
+    "options": [
+      "The embryos of higher organisms resemble the adults of lower organisms",
+      "Intestine develops from the germ layer called endoderm",
+      "Blood vessels develop from somites",
+      "All the brain cells develop from mesoderm"
+    ],
+    "correct_answer": "Intestine develops from the germ layer called endoderm",
+    "explanation": "[CONCEPT]\nStep 1: Endoderm gives rise to the lining of the gut and associated organs.\nStep 2: Intestine is therefore an endodermal derivative."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following gives rise to bone?",
+    "options": [
+      "Somites",
+      "Osteoclasts",
+      "Chondrocytes",
+      "Osteocytes"
+    ],
+    "correct_answer": "Osteocytes",
+    "explanation": "[CONCEPT]\nStep 1: Osteoblasts secrete bone matrix and become trapped as osteocytes.\nStep 2: Osteocytes are the mature bone cells that maintain bone tissue."
+  },
+  {
+    "id": 7,
+    "question": "The following paired terms are not correctly paired. Which one of the four options is the correct pairing?\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Hedgehog signaling,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Wnt signaling,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Notch signaling,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Hox genes.\n\nGroup II:\n1. Anterior-posterior axis duplication,\n2. Cycloptic eye of lambs,\n3. Vertebrate limb development,\n4. Nematode germ cell proliferation</span></div></div>",
+    "options": [
+      "P-1, Q-2, R-3, S-4",
+      "P-3, Q-4, R-1, S-2",
+      "P-4, Q-1, R-2, S-3",
+      "P-2, Q-1, R-4, S-3"
+    ],
+    "correct_answer": "P-2, Q-1, R-4, S-3",
+    "explanation": "[CONCEPT]\nStep 1: Hedgehog mutation causes cyclopia.\nStep 2: Wnt signaling can cause axis duplication.\nStep 3: Notch regulates nematode germ-cell proliferation.\nStep 4: Hox genes pattern vertebrate limbs."
+  },
+  {
+    "id": 8,
+    "question": "Blastomeres derived from early stages of cleavage divisions (say second cleavage division) of frog embryo, when separated, can give rise to viable tadpoles. The blastomeres derived from late cleavage stages, however, fail to develop into normal tadpoles when separated from each other. Which is the most correct statement that explains the phenomenon?",
+    "options": [
+      "Each early blastomere carries the entire genetic information for the development of a tadpole",
+      "Each early blastomere carries the entire cytoplasmic constituents necessary for development",
+      "Early blastomeres are mirror images of each other",
+      "None of the above"
+    ],
+    "correct_answer": "Each early blastomere carries the entire cytoplasmic constituents necessary for development",
+    "explanation": "[CONCEPT]\nStep 1: Early blastomeres are totipotent because they inherit complete cytoplasmic determinants.\nStep 2: Later blastomeres have already segregated determinants and lose full developmental potential."
+  },
+  {
+    "id": 9,
+    "question": "Dolly was a replica of one of its parents because",
+    "options": [
+      "she received mitochondrial DNA from the foster mother",
+      "she was born out of asexual reproduction",
+      "she received entire genetic complement from one of her parents",
+      "she completely resembled one of her parents"
+    ],
+    "correct_answer": "she received entire genetic complement from one of her parents",
+    "explanation": "[CONCEPT]\nStep 1: Dolly was created by somatic-cell nuclear transfer.\nStep 2: The nucleus (entire nuclear genome) came from a single donor parent."
+  },
+  {
+    "id": 10,
+    "question": "Dolly, however, was distinct from her cousin, a transgenic sheep, due to one of the following reasons:",
+    "options": [
+      "Dolly received stem cells from her parents while her transgenic cousin received only specific gene(s)",
+      "Dolly was genetically identical to the donor parent while her transgenic cousin was not",
+      "Dolly phenotypically resembled her donor parent while her transgenic cousin did not",
+      "None of the above"
+    ],
+    "correct_answer": "Dolly was genetically identical to the donor parent while her transgenic cousin was not",
+    "explanation": "[CONCEPT]\nStep 1: Dolly is a true clone (genetically identical nuclear genome).\nStep 2: A transgenic animal carries only one or a few foreign genes and is otherwise different."
+  },
+  {
+    "id": 11,
+    "question": "The first site of hematopoiesis in the mouse embryo is",
+    "options": [
+      "liver",
+      "bone marrow",
+      "spleen",
+      "yolk sac"
+    ],
+    "correct_answer": "yolk sac",
+    "explanation": "[CONCEPT]\nStep 1: Primitive hematopoiesis begins in the yolk-sac blood islands.\nStep 2: Later sites are fetal liver and then bone marrow."
+  },
+  {
+    "id": 12,
+    "question": "For cloning an animal, which of the following somatic cells would not be suitable?",
+    "options": [
+      "Lymphocytes",
+      "Fibroblasts",
+      "Epidermal cell",
+      "Neutrophils"
+    ],
+    "correct_answer": "Lymphocytes",
+    "explanation": "[CONCEPT]\nStep 1: Successful cloning requires a diploid nucleus with intact genome.\nStep 2: Mature lymphocytes rearrange antigen-receptor genes and therefore have altered DNA."
+  },
+  {
+    "id": 13,
+    "question": "During development of the red blood cells from the stem cells of most mammals, the phenomenon of enucleation is observed during the last stage of differentiation. However, the red blood cells of some animals are nucleated. Identify in which one of the following?",
+    "options": [
+      "Cow",
+      "Rhinoceros",
+      "Camel",
+      "Polar bear"
+    ],
+    "correct_answer": "Camel",
+    "explanation": "[CONCEPT]\nStep 1: Most mammals enucleate their RBCs.\nStep 2: Camels (and some other desert mammals) retain nucleated RBCs."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is correctly paired?",
+    "options": [
+      "Blastopore – Organizer",
+      "Regulative development – Syncytial specification",
+      "Vegetal pole – Mesoderm",
+      "Spiral cleavage – Chick embryo"
+    ],
+    "correct_answer": "Blastopore – Organizer",
+    "explanation": "[CONCEPT]\nStep 1: The dorsal lip of the blastopore is Spemann’s organizer.\nStep 2: It induces the formation of the embryonic axis."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is seen in an adult frog?",
+    "options": [
+      "Somite",
+      "Notochord",
+      "Branchial arches",
+      "None of the above"
+    ],
+    "correct_answer": "None of the above",
+    "explanation": "[CONCEPT]\nStep 1: Somites, notochord and branchial arches are embryonic structures.\nStep 2: They are replaced or remodeled and are not present as such in the adult frog."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following has all the pairs correct?\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Ectoderm,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mesoderm,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Endoderm,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Ectoderm,\nT. Mesoderm.\n\nColumn II:\n1. Heart,\n2. Stomach,\n3. Enteric neuron,\n4. Skull,\n5. Kidney</span></div></div>",
+    "options": [
+      "P–3; Q–2; R–1; S–4; T–5",
+      "P–3; Q–1; R–2; S–4; T–5",
+      "P–2; Q–4; R–5; S–1; T–3",
+      "P–2; Q–1; R–5; S–3; T–4"
+    ],
+    "correct_answer": "P–3; Q–1; R–2; S–4; T–5",
+    "explanation": "[CONCEPT]\nStep 1: Enteric neurons arise from neural crest (ectoderm).\nStep 2: Heart and kidney are mesodermal.\nStep 3: Stomach lining is endodermal.\nStep 4: Skull (cranial bones) has ectodermal (neural-crest) contribution."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is not a somite derivative?",
+    "options": [
+      "Cardiac muscle",
+      "Skeletal muscle",
+      "Cartilage",
+      "Tendons"
+    ],
+    "correct_answer": "Tendons",
+    "explanation": "[CONCEPT]\nStep 1: Somites give rise to skeletal muscle, axial cartilage/bone and dermis.\nStep 2: Cardiac muscle arises from lateral-plate mesoderm; tendons are also not classic somite derivatives in this context."
+  },
+  {
+    "id": 18,
+    "question": "Match the embryonic cleavage patterns with the corresponding organisms.\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Isolecithal,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Mesolecithal,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Telolecithal,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Centrolecithal.\n\nColumn II:\n1. Chick,\n2. Drosophila,\n3. Human,\n4. Frog</span></div></div>",
+    "options": [
+      "P–1; Q–2; R–3; S–4",
+      "P–2; Q–1; R–3; S–4",
+      "P–3; Q–4; R–1; S–2",
+      "P–2; Q–4; R–1; S–3"
+    ],
+    "correct_answer": "P–3; Q–4; R–1; S–2",
+    "explanation": "[CONCEPT]\nStep 1: Isolecithal (sparse yolk) → mammals (human).\nStep 2: Mesolecithal (moderate yolk) → amphibians (frog).\nStep 3: Telolecithal (large yolk) → birds (chick).\nStep 4: Centrolecithal → insects (Drosophila)."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following combination of statements regarding Maturation Promoting Factor (MPF) is true?\n1. MPF in amphibians regulates cell cycle.\n2. MPF in amphibians is composed of cyclins and CDKs.\n3. MPF in amphibians undergoes periodic degradation.\n4. MPF in amphibians undergoes periodic phosphorylation.",
+    "options": [
+      "1, 2 and 3 only",
+      "1 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_answer": "1, 2, 3 and 4",
+    "explanation": "[CONCEPT]\nStep 1: MPF = cyclin B + CDK1.\nStep 2: It drives the cell cycle, is periodically degraded and is regulated by phosphorylation."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following combination of statements regarding gastrulation is true?\n1. It is marked by coordinated mass cell movement.\n2. It results in the formation of organizer.\n3. It results in the formation of three germ layers.\n4. It marks the end of neurulation.",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_answer": "2 and 3 only",
+    "explanation": "[CONCEPT]\nStep 1: Gastrulation produces the three germ layers and establishes the organizer.\nStep 2: Neurulation follows gastrulation; statement 4 is therefore false."
+  },
+  {
+    "id": 21,
+    "question": "From the perspective of developmental origin, which of the following structures is homologous to a tortoise shell?",
+    "options": [
+      "Exoskeleton of a lobster",
+      "Bones of a fish",
+      "Skull of humans",
+      "Feathers of birds"
+    ],
+    "correct_answer": "Bones of a fish",
+    "explanation": "[CONCEPT]\nStep 1: Homologous structures share common developmental origin.\nStep 2: Both tortoise shell and fish bones are dermal skeletal elements derived from mesoderm."
+  },
+  {
+    "id": 22,
+    "question": "In the context of cell differentiation, lateral inhibition is referred to as the",
+    "options": [
+      "formation of two distinct cell types within a uniform field",
+      "inhibition of formation of a distinct cell type next to an existing cell type",
+      "inhibition of stem cells towards self-renewal",
+      "inhibition of erythropoiesis in the lateral plate mesoderm"
+    ],
+    "correct_answer": "inhibition of formation of a distinct cell type next to an existing cell type",
+    "explanation": "[CONCEPT]\nStep 1: Lateral inhibition (e.g., Notch signaling) prevents neighboring cells from adopting the same fate.\nStep 2: Once a cell differentiates, it inhibits its neighbors from doing the same."
+  },
+  {
+    "id": 23,
+    "question": "Neurogen (Ngn) a newly discovered protein in chicken, is produced by the notochord and the floor plate (FP). Ngn induces cells of the neural tube (NT) to become neurons. It is known that from ventral to dorsal direction cells at different levels give rise to distinct types of neuronal cells. Which of the following observations will cast a doubt in the claim that Ngn is a morphogen?",
+    "options": [
+      "Ngn is a cytosolic protein",
+      "Artificial mis-expression of Ngn at identical level throughout NT does not affect the neuronal cell types formed in the NT",
+      "Ngn is an integral membrane protein",
+      "All of the above"
+    ],
+    "correct_answer": "Artificial mis-expression of Ngn at identical level throughout NT does not affect the neuronal cell types formed in the NT",
+    "explanation": "[CONCEPT]\nStep 1: A morphogen acts in a concentration-dependent manner.\nStep 2: If uniform high levels do not change cell fates, Ngn cannot be acting as a morphogen."
+  },
+  {
+    "id": 24,
+    "question": "Extraembryonic tissues are derived from which one of the following?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Trophoectoderm",
+      "Mesoderm"
+    ],
+    "correct_answer": "Trophoectoderm",
+    "explanation": "[CONCEPT]\nStep 1: The outer trophectoderm of the blastocyst gives rise to extra-embryonic membranes (placenta, chorion).\nStep 2: Inner cell mass forms the embryo proper."
+  },
+  {
+    "id": 25,
+    "question": "In a newly discovered organism, normal development was unaffected when a few blastomeres were removed from 100-cell stage embryo. However, removal of five cells at the 1000-cell stage abolished the formation of kidney. Which one of the following options most accurately describes the type(s) of specification operating in the development of this organism?",
+    "options": [
+      "Conditional specification only",
+      "Autonomous specification only",
+      "Conditional and autonomous specifications",
+      "Specification does not occur in this organism"
+    ],
+    "correct_answer": "Conditional specification only",
+    "explanation": "[CONCEPT]\nStep 1: Early regulative (conditional) development allows compensation for lost cells.\nStep 2: Later stages become more mosaic, but the key selects conditional specification."
+  },
+  {
+    "id": 26,
+    "question": "Zygotic genes required for the formation of a group of adjacent segments in the developing Drosophila embryo is called",
+    "options": [
+      "maternal gene",
+      "pair rule gene",
+      "homeotic gene",
+      "gap gene"
+    ],
+    "correct_answer": "gap gene",
+    "explanation": "[CONCEPT]\nStep 1: Gap genes are the first zygotic genes activated.\nStep 2: Mutations delete large contiguous blocks (groups) of segments."
+  },
+  {
+    "id": 27,
+    "question": "Which one of the following defects do you expect to see if you were able to specifically block apoptosis in the developing limb bud of a frog embryo?",
+    "options": [
+      "The digits will remain connected through a weblike extension",
+      "The bones will not form, and the limb would look like a paddle",
+      "The limb would look normal but would be larger in size",
+      "The anterior-posterior polarity of the limb will be lost"
+    ],
+    "correct_answer": "The digits will remain connected through a weblike extension",
+    "explanation": "[CONCEPT]\nStep 1: Interdigital apoptosis sculpts free digits.\nStep 2: Blocking apoptosis leaves webbing between the digits."
+  },
+  {
+    "id": 28,
+    "question": "In Drosophila, mutations in homeotic genes result in which one of the following developmental defects?",
+    "options": [
+      "The anterior portion of the embryo will not develop",
+      "Several segments in the anterior region of the embryo will be lost",
+      "Segmentation will be lost, and the embryo will have only one segment",
+      "Segment-specific identities will be lost"
+    ],
+    "correct_answer": "Segment-specific identities will be lost",
+    "explanation": "[CONCEPT]\nStep 1: Homeotic (Hox) genes assign identity to each segment.\nStep 2: Mutations transform one segment into another (homeotic transformation)."
+  },
+  {
+    "id": 29,
+    "question": "During development of which one of the following organisms, bilateral meroblastic cleavage is found?",
+    "options": [
+      "Mollusc",
+      "Fish",
+      "Bird",
+      "Amphibian"
+    ],
+    "correct_answer": "Mollusc",
+    "explanation": "[CONCEPT]\nStep 1: Meroblastic cleavage occurs in yolky eggs.\nStep 2: Bilateral meroblastic cleavage is characteristic of some molluscs (e.g., cephalopods)."
+  },
+  {
+    "id": 30,
+    "question": "Theoretically, it is possible to resurrect the extinct woolly mammoth by which one of the following methods?",
+    "options": [
+      "Transferring cell nuclei from the frozen tissue into enucleated unfertilized eggs of a suitable mammal",
+      "Introducing sequenced mammoth genome into donor eggs of a suitable mammal",
+      "Transferring mammoth nuclear material into stem cells",
+      "Collection of oocytes from ovaries of the frozen mammoth for in vitro fertilization and transfer of fertilized eggs into animals such as elephants"
+    ],
+    "correct_answer": "Transferring cell nuclei from the frozen tissue into enucleated unfertilized eggs of a suitable mammal",
+    "explanation": "[CONCEPT]\nStep 1: Somatic-cell nuclear transfer (cloning) can in principle revive an extinct species.\nStep 2: Nuclei from well-preserved tissue are placed into enucleated eggs of a related living species."
+  },
+  {
+    "id": 31,
+    "question": "What is the role of the notochord during organogenesis in a vertebrate embryo?",
+    "options": [
+      "Signaling the development of placenta",
+      "Induction of neural plate formation",
+      "Stimulation of the umbilical cord formation",
+      "Suppression of the development of extra-embryonic membranes"
+    ],
+    "correct_answer": "Induction of neural plate formation",
+    "explanation": "[CONCEPT]\nStep 1: The notochord secretes inducing signals (e.g., Sonic hedgehog).\nStep 2: These signals cause the overlying ectoderm to form the neural plate."
+  },
+  {
+    "id": 32,
+    "question": "Which one of the following is consistent with the germplasm theory of August Weismann?",
+    "options": [
+      "Regulative development observed in frog embryos",
+      "Mosaic development observed in tunicates",
+      "Normal embryonic development of embryos formed by somatic nuclear transfer",
+      "Ability of differentiated cells to form pluripotent stem cells under certain conditions"
+    ],
+    "correct_answer": "Mosaic development observed in tunicates",
+    "explanation": "[CONCEPT]\nStep 1: Weismann’s germplasm theory postulated early segregation of germ-line and soma.\nStep 2: Mosaic (determinative) development, as in tunicates, fits this idea of early segregation of determinants."
+  },
+  {
+    "id": 33,
+    "question": "During the gastrulation stage of amphibian development, ectoderm formation takes place by the expansion of epithelial cell sheet over mesodermal cells. This type of cell movement is termed as",
+    "options": [
+      "ingression",
+      "epiboly",
+      "involution",
+      "delamination"
+    ],
+    "correct_answer": "epiboly",
+    "explanation": "[CONCEPT]\nStep 1: Epiboly is the spreading and thinning of an epithelial sheet.\nStep 2: In amphibians the animal-pole ectoderm expands by epiboly to cover the embryo."
+  },
+  {
+    "id": 34,
+    "question": "In an experiment involving development of 64-cell stage sea urchin, an isolated animal hemisphere was combined with isolated micromeres. Which one of the following will be the resulting structure?",
+    "options": [
+      "A ball of ectomesodermal cells",
+      "A ciliated ball of ectodermal cells",
+      "A recognizable pluteus larva",
+      "A ball of endodermal cells"
+    ],
+    "correct_answer": "A recognizable pluteus larva",
+    "explanation": "[CONCEPT]\nStep 1: Micromeres induce animal-hemisphere cells to form endoderm and mesoderm.\nStep 2: The combination therefore develops into a complete, albeit small, pluteus larva."
+  },
+  {
+    "id": 35,
+    "question": "In an experiment involving Drosophila development, a large amount of purified bicoid mRNA was injected into the posterior end of a wild-type embryo, the resulting developing embryo will have",
+    "options": [
+      "normal development with one each of head, thorax and abdomen",
+      "head in the middle with two thoraces and two abdomens",
+      "a head with two thoraces and an abdomen",
+      "two heads and two thoraces with an abdomen segment in the middle"
+    ],
+    "correct_answer": "two heads and two thoraces with an abdomen segment in the middle",
+    "explanation": "[CONCEPT]\nStep 1: Bicoid is an anterior morphogen.\nStep 2: High bicoid at both poles produces anterior structures (head/thorax) at both ends."
+  },
+  {
+    "id": 36,
+    "question": "The characteristic feature of deuterostomes is depicted by",
+    "options": [
+      "coelom formed by the hollowing out of a previously solid cord of mesodermal cells",
+      "spiral and determinate cleavage",
+      "formation of mouth from blastopore",
+      "formation of anus from blastopore"
+    ],
+    "correct_answer": "formation of anus from blastopore",
+    "explanation": "[CONCEPT]\nStep 1: In deuterostomes the blastopore becomes the anus.\nStep 2: The mouth forms secondarily at the opposite end."
+  },
+  {
+    "id": 37,
+    "question": "Match the signaling pathways in Group I with their functions in Group II, during the process of development.\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Hedgehog signaling,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Hox proteins,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Wnt signaling,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Notch signaling.\n\nGroup II:\n1. Involved in signaling at 4-cell embryo stage in C. elegans through glp I expression,\n2. Involves frizzled receptor on target cell membrane and establish polarity in insects,\n3. Plays critical role in facial morphogenesis in vertebrates and its mutation causes cyclopia,\n4. Required for Tbx transcription factor expression for vertebrate limb development</span></div></div>",
+    "options": [
+      "P–3; Q–2; R–4; S–1",
+      "P–3; Q–4; R–2; S–1",
+      "P–4; Q–3; R–2; S–1",
+      "P–3; Q–4; R–1; S–2"
+    ],
+    "correct_answer": "P–3; Q–4; R–2; S–1",
+    "explanation": "[CONCEPT]\nStep 1: Hedgehog mutation causes cyclopia.\nStep 2: Hox proteins regulate limb-development transcription factors.\nStep 3: Wnt acts through Frizzled and patterns polarity.\nStep 4: Notch signaling acts early in C. elegans."
+  },
+  {
+    "id": 38,
+    "question": "Cardiac and cerebral tissues are derived from the following germ layers respectively",
+    "options": [
+      "ectoderm and mesoderm",
+      "mesoderm and ectoderm",
+      "mesoderm and endoderm",
+      "endoderm and ectoderm"
+    ],
+    "correct_answer": "mesoderm and ectoderm",
+    "explanation": "[CONCEPT]\nStep 1: Heart is a mesodermal organ.\nStep 2: Brain (cerebral tissue) is derived from ectoderm (neural tube)."
+  },
+  {
+    "id": 39,
+    "question": "In an experiment, nucleus from a Drosophila oocyte was transplanted into the anterior part of another oocyte, at a region opposite to the existing nucleus. Which one of the following phenotypes will the developing egg show?",
+    "options": [
+      "A ventralized egg with no dorsal appendages",
+      "A dorsalized egg with two dorsal appendages",
+      "A ventralized egg with two dorsal appendages",
+      "A dorsalized egg with four dorsal appendages"
+    ],
+    "correct_answer": "A dorsalized egg with four dorsal appendages",
+    "explanation": "[CONCEPT]\nStep 1: The oocyte nucleus is the source of dorsalizing signals.\nStep 2: Two nuclei produce dorsal structures (appendages) at both poles."
+  },
+  {
+    "id": 40,
+    "question": "Which one of the following glial cells is not derived from the ectoderm?",
+    "options": [
+      "Astrocytes",
+      "Microglial cells",
+      "Oligodendrocytes",
+      "Ependyma"
+    ],
+    "correct_answer": "Microglial cells",
+    "explanation": "[CONCEPT]\nStep 1: Most CNS glia (astrocytes, oligodendrocytes, ependyma) arise from neuroectoderm.\nStep 2: Microglia are mesodermal (hematopoietic) in origin and invade the CNS."
+  }
+]

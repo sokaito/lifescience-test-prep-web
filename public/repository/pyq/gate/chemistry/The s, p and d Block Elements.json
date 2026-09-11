@@ -1,0 +1,758 @@
+[
+  {
+    "id": 1,
+    "question": "One of the given elements combines with hydrogen to yield an electron-deficient hydride. Identify it.",
+    "options": [
+      "Be",
+      "C",
+      "N",
+      "O"
+    ],
+    "correct_answer": "Be",
+    "explanation": "[CONCEPT]\nStep 1: Beryllium forms BeH₂ where Be has only 4 valence electrons (incomplete octet).\nStep 2: C forms CH₄ (8e⁻), N forms NH₃ (8e⁻), O forms H₂O (8e⁻).\nStep 3: Hence, Be forms an electron-deficient hydride."
+  },
+  {
+    "id": 2,
+    "question": "The oxidation state of Ba in BaO₂ is",
+    "options": [
+      "Zero",
+      "+1",
+      "+2",
+      "+4"
+    ],
+    "correct_answer": "+2",
+    "explanation": "[CONCEPT]\nStep 1: BaO₂ is barium peroxide containing the peroxide ion (O₂²⁻).\nStep 2: Barium is an alkaline earth metal and always exhibits an oxidation state of +2 in its compounds."
+  },
+  {
+    "id": 3,
+    "question": "Identify the most stable species from the following divalent halides.",
+    "options": [
+      "CCl₂",
+      "GeCl₂",
+      "SnCl₂",
+      "PbCl₂"
+    ],
+    "correct_answer": "PbCl₂",
+    "explanation": "[CONCEPT]\nStep 1: In Group 14, stability of the +2 oxidation state increases down the group due to the inert pair effect.\nStep 2: Pb exhibits the strongest inert pair effect, making PbCl₂ exceptionally stable compared to PbCl₄ and other group dihalides."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following ligands causes the maximum crystal field splitting while forming a complex with Fe²⁺ ion?",
+    "options": [
+      "H₂O",
+      "NH₃",
+      "CN⁻",
+      "Cl⁻"
+    ],
+    "correct_answer": "CN⁻",
+    "explanation": "[CONCEPT]\nStep 1: According to the spectrochemical series: Cl⁻ < H₂O < NH₃ < CN⁻.\nStep 2: Cyanide (CN⁻) is a strong-field ligand with strong σ-donor and π-acceptor properties, producing the highest crystal field splitting (Δ)."
+  },
+  {
+    "id": 5,
+    "question": "The formal oxidation state of Ni in Ni(CO)₄ is",
+    "options": [
+      "Zero",
+      "+1",
+      "+2",
+      "+4"
+    ],
+    "correct_answer": "Zero",
+    "explanation": "[CONCEPT]\nStep 1: Carbon monoxide (CO) is a neutral ligand.\nStep 2: Since the overall complex Ni(CO)₄ is neutral, the oxidation state of Ni is 0."
+  },
+  {
+    "id": 6,
+    "question": "Cr(NH₃)₅Cl₃ [written as [Cr(NH₃)₅Cl]Cl₂] reacts with AgNO₃ solution quantitatively. The number of moles of AgNO₃ consumed by one mole of the metal complex is",
+    "options": [
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    "correct_answer": "0",
+    "explanation": "[CONCEPT]\nStep 1: The Werner formulation is [Cr(NH₃)₅Cl]Cl₂.\nStep 2: Only the two ionizable chloride ions present outside the coordination sphere precipitate with Ag⁺.\nStep 3: [Cr(NH₃)₅Cl]Cl₂ + 2 AgNO₃ → [Cr(NH₃)₅Cl](NO₃)₂ + 2 AgCl↓ (2 moles consumed)."
+  },
+  {
+    "id": 7,
+    "question": "The correct increasing order of electronegativity of the following elements is",
+    "options": [
+      "F < O < N < S",
+      "S < N < O < F",
+      "N < S < O < F",
+      "O < N < S < F"
+    ],
+    "correct_answer": "S < N < O < F",
+    "explanation": "[CONCEPT]\nStep 1: Pauling electronegativity values: S (2.58) < N (3.04) < O (3.44) < F (3.98).\nStep 2: Correct order is S < N < O < F."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following trihalides of nitrogen is least basic?",
+    "options": [
+      "NF₃",
+      "NCl₃",
+      "NBr₃",
+      "NI₃"
+    ],
+    "correct_answer": "NF₃",
+    "explanation": "[CONCEPT]\nStep 1: Fluorine is the most electronegative halogen and strongly withdraws electron density from nitrogen via −I effect.\nStep 2: This reduces the electron density of the nitrogen lone pair, making NF₃ the least basic."
+  },
+  {
+    "id": 9,
+    "question": "Nickel forms a stable complex with cyanide ion having the composition [Ni(CN)₄]²⁻. The atomic number of nickel is 28. The magnetic moment of the complex in Bohr magneton is",
+    "options": [
+      "0",
+      "73",
+      "83",
+      "87"
+    ],
+    "correct_answer": "0",
+    "explanation": "[CONCEPT]\nStep 1: Ni²⁺ has a 3d⁸ configuration.\nStep 2: CN⁻ is a strong field ligand, forcing electron pairing in 3d orbitals to give dsp² hybridization (square planar geometry).\nStep 3: With 0 unpaired electrons, the complex is diamagnetic with μ = 0 BM."
+  },
+  {
+    "id": 10,
+    "question": "The complex [Co(NH₃)₅Cl]Cl₂ reacts with an aqueous solution of AgNO₃ quantitatively. The number of moles of AgCl formed per mol of the complex is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\nStep 1: [Co(NH₃)₅Cl]Cl₂ has 2 chloride ions outside the coordination sphere.\nStep 2: 1 mole of complex produces 2 moles of Cl⁻ ions in solution, yielding 2 moles of AgCl precipitate."
+  },
+  {
+    "id": 11,
+    "question": "The formula of peroxodisulphuric acid is",
+    "options": [
+      "H₂SO₅",
+      "H₂S₂O₃",
+      "H₂S₂O₄",
+      "H₂S₂O₈"
+    ],
+    "correct_answer": "H₂S₂O₈",
+    "explanation": "[CONCEPT]\nStep 1: Peroxodisulphuric acid (Marshall's acid) has the formula H₂S₂O₈ (HO–SO₂–O–O–SO₂–OH).\nStep 2: H₂SO₅ is peroxomonosulphuric acid (Caro's acid)."
+  },
+  {
+    "id": 12,
+    "question": "The oxidation states of sulphur atoms in Na₂S₂O₃ are",
+    "options": [
+      "+2, −6",
+      "+2, +2",
+      "+2, +6",
+      "−2, +6"
+    ],
+    "correct_answer": "−2, +6",
+    "explanation": "[CONCEPT]\nStep 1: Sodium thiosulphate Na₂S₂O₃ has structure with a central sulfur atom bonded to three oxygens and one terminal sulfur atom (S=S).\nStep 2: Terminal sulfur has oxidation state −2, and central sulfur has oxidation state +6."
+  },
+  {
+    "id": 13,
+    "question": "Burning of phosphorus in the presence of air produces a highly hygroscopic white compound which reacts with water to yield",
+    "options": [
+      "H₃PO₄",
+      "H₃PO₂",
+      "H₄P₂O₇",
+      "H₄P₂O₅"
+    ],
+    "correct_answer": "H₃PO₄",
+    "explanation": "[CONCEPT]\nStep 1: Burning phosphorus in excess air gives phosphorus pentoxide: P₄ + 5 O₂ → P₄O₁₀.\nStep 2: P₄O₁₀ is a strong dehydrating agent and reacts vigorously with water to form orthophosphoric acid: P₄O₁₀ + 6 H₂O → 4 H₃PO₄."
+  },
+  {
+    "id": 14,
+    "question": "The action of NH₃ and S₂Cl₂ produces a thermochromic crystalline compound, whose chemical formula is",
+    "options": [
+      "S₃N₃Cl",
+      "S₄N₃Cl",
+      "S₂N₂",
+      "S₄N₄"
+    ],
+    "correct_answer": "S₄N₄",
+    "explanation": "[CONCEPT]\nStep 1: 6 S₂Cl₂ + 16 NH₃ → S₄N₄ + S₈ + 12 NH₄Cl.\nStep 2: Tetrasulfur tetranitride (S₄N₄) is an orange-yellow crystalline compound exhibiting thermochromism (turns red at higher temp)."
+  },
+  {
+    "id": 15,
+    "question": "The oxidation state of Fe and S in Na₂[Fe(CO)₄Cl₂] and K₂S₂O₈ respectively are",
+    "options": [
+      "0 and +5",
+      "+2 and +7",
+      "+4 and +5",
+      "0 and +6"
+    ],
+    "correct_answer": "0 and +6",
+    "explanation": "[CONCEPT]\nStep 1: In Na₂[Fe(CO)₄Cl₂]: 2(+1) + Fe + 4(0) + 2(−1) = 0 ⟹ Fe = 0.\nStep 2: In K₂S₂O₈ (peroxydisulfate, contains –O–O– linkage): 2(+1) + 2S + 6(−2) + 2(−1) = 0 ⟹ 2S = +12 ⟹ S = +6."
+  },
+  {
+    "id": 16,
+    "question": "The reaction of CuCO₃ with acetic acid produces a blue crystalline compound with its magnetic moment (μeff) being ~1.4 BM/Cu. The compound is",
+    "options": [
+      "Cu(CH₃COO)₂·2H₂O",
+      "Cu₂CO₃(CH₃COO)₂·2H₂O",
+      "Cu(CH₃COO)₂",
+      "Cu₂(CH₃COO)₄·2H₂O"
+    ],
+    "correct_answer": "Cu(CH₃COO)₂",
+    "explanation": "[CONCEPT]\nStep 1: CuCO₃ + 2 CH₃COOH → Cu(CH₃COO)₂ + CO₂ + H₂O.\nStep 2: Copper(II) acetate forms a paddle-wheel dimer [Cu₂(CH₃COO)₄·2H₂O] where antiferromagnetic coupling reduces the magnetic moment to ~1.4 BM per Cu atom."
+  },
+  {
+    "id": 17,
+    "question": "The intense color of KMnO₄ is due to",
+    "options": [
+      "electronic transition from one energy level to another in Mn.",
+      "electronic transition from one energy level to another in O.",
+      "charge transfer from Mn to O.",
+      "charge transfer from O to Mn."
+    ],
+    "correct_answer": "charge transfer from O to Mn.",
+    "explanation": "[CONCEPT]\nStep 1: In MnO₄⁻, manganese is in +7 oxidation state (d⁰ configuration), so d-d transitions are impossible.\nStep 2: The deep purple color arises from Ligand-to-Metal Charge Transfer (LMCT), where an electron is transferred from oxygen 2p orbitals to empty manganese 3d orbitals."
+  },
+  {
+    "id": 18,
+    "question": "The crystal field energy and the spin-only magnetic moment of [CoF₆]³⁻ are respectively:",
+    "options": [
+      "0.4 Δo and 4.9 BM",
+      "0.8 Δo and 3.8 BM",
+      "8 Δo and 1.7 BM",
+      "4 Δo and 0 BM"
+    ],
+    "correct_answer": "0.4 Δo and 4.9 BM",
+    "explanation": "[CONCEPT]\nStep 1: Co³⁺ is 3d⁶; F⁻ is a weak field ligand forming a high-spin complex (t₂g⁴ eg²).\nStep 2: CFSE = [4(−0.4) + 2(+0.6)] Δo = (−1.6 + 1.2) Δo = −0.4 Δo (magnitude 0.4 Δo).\nStep 3: Unpaired electrons n = 4 ⟹ μ = √(4 × 6) = √24 ≈ 4.90 BM."
+  },
+  {
+    "id": 19,
+    "question": "Graphite sublimes at a very high temperature (3700°C) this is due to",
+    "options": [
+      "weak covalent interactions in the solid and stronger or more covalent interactions in the gas phase.",
+      "strong covalent interactions in the solid and weaker or fewer covalent interactions in the gas phase.",
+      "strong covalent interactions in the solid and strong covalent interactions in the gas phase.",
+      "weak covalent interactions in the solid and stronger ionic covalent interactions in the gas phase."
+    ],
+    "correct_answer": "strong covalent interactions in the solid and weaker or fewer covalent interactions in the gas phase.",
+    "explanation": "[CONCEPT]\nStep 1: Graphite has an extensive 2D giant covalent network of sp² hybridized carbon atoms with delocalized π electrons within layers.\nStep 2: Sublimation requires breaking enormous numbers of these strong covalent bonds."
+  },
+  {
+    "id": 20,
+    "question": "Hydride that readily liberates hydrogen gas on reaction with water is",
+    "options": [
+      "NaBH₄",
+      "CaH₂",
+      "SiH₄",
+      "NH₃"
+    ],
+    "correct_answer": "CaH₂",
+    "explanation": "[CONCEPT]\nStep 1: Calcium hydride (CaH₂, hydrolith) is an ionic hydride containing H⁻.\nStep 2: It reacts vigorously with water: CaH₂ + 2 H₂O → Ca(OH)₂ + 2 H₂↑, releasing hydrogen gas."
+  },
+  {
+    "id": 21,
+    "question": "Which one of the following is a repeating unit of silicone?",
+    "options": [
+      "Si(CH₃)₄",
+      "[Si(CH₃)₂O]",
+      "SiO₂",
+      "Si(OCH₃)₄"
+    ],
+    "correct_answer": "[Si(CH₃)₂O]",
+    "explanation": "[CONCEPT]\nStep 1: Silicones (polysiloxanes) are organosilicon polymers with the general formula [R₂SiO]_n.\nStep 2: For polydimethylsiloxane, the repeating unit is [Si(CH₃)₂O]."
+  },
+  {
+    "id": 22,
+    "question": "Air oxidation of sodium metal produces a hygroscopic compound 'X', which reacts with CO₂ to produce 'Y'. X and Y respectively are",
+    "options": [
+      "Na₂O₂ and Na₂CO₃",
+      "Na₂O and NaHCO₃",
+      "NaOH and Na₂CO₃",
+      "Na₂O and Na₂CO₃"
+    ],
+    "correct_answer": "NaOH and Na₂CO₃",
+    "explanation": "[CONCEPT]\nStep 1: Na reacts with moist air to form NaOH (X), which is highly hygroscopic.\nStep 2: NaOH absorbs CO₂ from air to form sodium carbonate Na₂CO₃ (Y): 2 NaOH + CO₂ → Na₂CO₃ + H₂O."
+  },
+  {
+    "id": 23,
+    "question": "The product of reaction of HNO₃ with P₄ and P₄O₁₀ respectively are",
+    "options": [
+      "N₂O₃ and N₂O₅",
+      "N₂O₅ and NO₂",
+      "NO₂ and N₂O₅",
+      "NO and NO₂"
+    ],
+    "correct_answer": "NO₂ and N₂O₅",
+    "explanation": "[CONCEPT]\nStep 1: P₄ + 20 HNO₃ → 4 H₃PO₄ + 20 NO₂ + 4 H₂O (redox reaction producing NO₂).\nStep 2: P₄O₁₀ + 4 HNO₃ → 4 HPO₃ + 2 N₂O₅ (dehydration of HNO₃ producing N₂O₅)."
+  },
+  {
+    "id": 24,
+    "question": "Statement for Linked Questions: A pink colored aqueous solution of CoCl₂ changes immediately to blue on adding excess of Cl⁻ ion. The blue colored species is",
+    "options": [
+      "[CoCl₆]³⁻",
+      "[CoCl₄]²⁻",
+      "[Co(H₂O)₆]²⁻",
+      "[CoCl₄]¹⁻"
+    ],
+    "correct_answer": "[CoCl₄]²⁻",
+    "explanation": "[CONCEPT]\nStep 1: In aqueous solution, Co²⁺ exists as pink octahedral [Co(H₂O)₆]²⁺.\nStep 2: Adding excess Cl⁻ establishes equilibrium: [Co(H₂O)₆]²⁺ + 4 Cl⁻ ⇌ [CoCl₄]²⁻ (blue, tetrahedral) + 6 H₂O."
+  },
+  {
+    "id": 25,
+    "question": "The d-electron configuration for the blue complex ion [CoCl₄]²⁻ is",
+    "options": [
+      "e³ t₂³",
+      "t₂g⁵ eg²",
+      "t₂g⁴ eg²",
+      "e⁴ t₂³"
+    ],
+    "correct_answer": "e⁴ t₂³",
+    "explanation": "[CONCEPT]\nStep 1: [CoCl₄]²⁻ is a tetrahedral complex of Co²⁺ (3d⁷).\nStep 2: In tetrahedral crystal field splitting, the lower energy level is 'e' and the higher is 't₂'.\nStep 3: Tetrahedral complexes are always high spin: configuration is e⁴ t₂³."
+  },
+  {
+    "id": 26,
+    "question": "Among the given compounds, the most stable halogen containing compound of sulfur is",
+    "options": [
+      "SF₆",
+      "S₂Cl₂",
+      "SF₄",
+      "SOCl₂"
+    ],
+    "correct_answer": "SF₆",
+    "explanation": "[CONCEPT]\nStep 1: SF₆ has an octahedral geometry with sulfur completely shielded by 6 compact fluorine atoms.\nStep 2: This provides extreme steric hindrance preventing nucleophilic attack, making SF₆ thermodynamically and kinetically inert and exceptionally stable."
+  },
+  {
+    "id": 27,
+    "question": "The hydrolysis of which of the following compounds would yield phosphorus acid (H₃PO₃)?",
+    "options": [
+      "PCl₅",
+      "POCl₃",
+      "P₄O₁₀",
+      "PCl₃"
+    ],
+    "correct_answer": "PCl₃",
+    "explanation": "[CONCEPT]\nStep 1: Hydrolysis preserves the oxidation state of the central phosphorus atom.\nStep 2: In PCl₃, phosphorus is in the +3 oxidation state.\nStep 3: PCl₃ + 3 H₂O → H₃PO₃ (+3 oxidation state) + 3 HCl."
+  },
+  {
+    "id": 28,
+    "question": "The type of hybridization that chromium shows in Cr(CO)₆ and [CrF₆]³⁻ are respectively (atomic number of chromium is 24).",
+    "options": [
+      "sp³d² and d²sp³",
+      "sp³d² and sp³d²",
+      "d²sp³ and d²sp³",
+      "d²sp³ and sp³d²"
+    ],
+    "correct_answer": "d²sp³ and d²sp³",
+    "explanation": "[CONCEPT]\nStep 1: In Cr(CO)₆, Cr(0) is 3d⁶; strong field CO pairs electrons into 3d t₂g⁶, leaving two vacant 3d orbitals ⟹ d²sp³.\nStep 2: In [CrF₆]³⁻, Cr³⁺ is 3d³ (t₂g³); two 3d orbitals are vacant naturally and available for inner orbital hybridization ⟹ d²sp³."
+  },
+  {
+    "id": 29,
+    "question": "A transition metal ion in its +3 oxidation state forms complexes with excess of F⁻ as well as Cl⁻. Given that the ionic radii of the metal ion, F⁻ and Cl⁻ are 0.64, 1.34 and 1.81 Å respectively, the geometries of the metal complexes formed will be",
+    "options": [
+      "[MF₆]³⁻, octahedral and [MCl₄]⁻, tetrahedral",
+      "[MF₆]³⁻, octahedral and [MCl₆]³⁻, octahedral",
+      "[MF₄]³⁻, tetrahedral and [MCl₄]⁻, tetrahedral",
+      "[MF₄]³⁻, tetrahedral and [MCl₆]³⁻, octahedral"
+    ],
+    "correct_answer": "[MF₆]³⁻, octahedral and [MCl₄]⁻, tetrahedral",
+    "explanation": "[CONCEPT]\nStep 1: Radius ratio for fluoride complex: r+/r− = 0.64 / 1.34 = 0.477. This falls in the range 0.414–0.732 (octahedral, [MF₆]³⁻).\nStep 2: Radius ratio for chloride complex: r+/r− = 0.64 / 1.81 = 0.354. This falls in the range 0.225–0.414 (tetrahedral, [MCl₄]⁻)."
+  },
+  {
+    "id": 30,
+    "question": "In the reaction 2 SO₃(g) ⇌ 2 SO₂(g) + O₂(g) taking place at 27°C, Kp is 3.0 × 10⁻²³ atm. The value of Kc (in mol dm⁻³) for the reaction is [Given: R = 0.0821 dm³ atm K⁻¹ mol⁻¹]",
+    "options": [
+      "7.4 × 10⁻²³",
+      "2 × 10⁻²⁵",
+      "5 × 10⁻²⁶",
+      "2 × 10⁻²⁷"
+    ],
+    "correct_answer": "2 × 10⁻²⁵",
+    "explanation": "[CONCEPT]\nStep 1: Δn_g = (2 + 1) − 2 = +1.\nStep 2: Kp = Kc (RT)^Δn_g ⟹ Kc = Kp / (RT).\nStep 3: Kc = (3.0 × 10⁻²³) / (0.0821 × 300) = (3.0 × 10⁻²³) / 24.63 = 1.218 × 10⁻²⁵ mol dm⁻³."
+  },
+  {
+    "id": 31,
+    "question": "Statement for Linked Questions: KMnO₄ reacts with oxalic acid in the presence of excess H₂SO₄ to yield a manganese complex X which is colorless in dilute solutions and pale pink in crystalline form (atomic number of Mn is 25). The number of unpaired electrons present in the complex X is",
+    "options": [
+      "1",
+      "3",
+      "4",
+      "5"
+    ],
+    "correct_answer": "5",
+    "explanation": "[CONCEPT]\nStep 1: 2 MnO₄⁻ + 5 C₂O₄²⁻ + 16 H⁺ → 2 Mn²⁺ + 10 CO₂ + 8 H₂O.\nStep 2: Mn²⁺ has configuration [Ar] 3d⁵.\nStep 3: With weak field ligands, high-spin d⁵ (t₂g³ eg²) has 5 unpaired electrons."
+  },
+  {
+    "id": 32,
+    "question": "The calculated spin only magnetic moment of the complex X (Mn²⁺) is",
+    "options": [
+      "5.92 BM",
+      "90 BM",
+      "87 BM",
+      "73 BM"
+    ],
+    "correct_answer": "5.92 BM",
+    "explanation": "[CONCEPT]\nStep 1: Number of unpaired electrons n = 5.\nStep 2: μ_spin = √(n(n+2)) = √(5 × 7) = √35 ≈ 5.92 BM."
+  },
+  {
+    "id": 33,
+    "question": "The geometries of [NiCl₄]²⁻ and [PdCl₄]²⁻ respectively are",
+    "options": [
+      "tetrahedral and square planar.",
+      "both tetrahedral.",
+      "both square planar.",
+      "square planar and tetrahedral."
+    ],
+    "correct_answer": "tetrahedral and square planar.",
+    "explanation": "[CONCEPT]\nStep 1: Ni²⁺ (3d⁸) with weak ligand Cl⁻ forms sp³ hybridized high-spin tetrahedral complex.\nStep 2: Pd²⁺ (4d⁸) has much higher crystal field splitting (Δ > P) and forms low-spin dsp² square planar complex even with weak ligands."
+  },
+  {
+    "id": 34,
+    "question": "The complex with crystal field stabilization energy (CFSE) of −0.4 Δt is",
+    "options": [
+      "[TiCl₄]",
+      "[MnCl₄]²⁻",
+      "[CoCl₄]²⁻",
+      "[CuCl₄]²⁻"
+    ],
+    "correct_answer": "[CuCl₄]²⁻",
+    "explanation": "[CONCEPT]\nStep 1: In tetrahedral field: CFSE = [−0.6 n(e) + 0.4 n(t₂)] Δt.\nStep 2: For [CuCl₄]²⁻, Cu²⁺ is 3d⁹ (e⁴ t₂⁵).\nStep 3: CFSE = [−0.6(4) + 0.4(5)] Δt = (−2.4 + 2.0) Δt = −0.4 Δt."
+  },
+  {
+    "id": 35,
+    "question": "The species having three unpaired electrons and tetrahedral geometry is",
+    "options": [
+      "[Co(CN)₆]⁴⁻",
+      "[CoCl₄]²⁻",
+      "[Ni(CN)₄]²⁻",
+      "[NiCl₄]²⁻"
+    ],
+    "correct_answer": "[CoCl₄]²⁻",
+    "explanation": "[CONCEPT]\nStep 1: [CoCl₄]²⁻ has Co²⁺ (3d⁷) in a tetrahedral geometry (sp³).\nStep 2: Configuration is e⁴ t₂³, giving 3 unpaired electrons in t₂ orbitals."
+  },
+  {
+    "id": 36,
+    "question": "Statement for Linked Questions: A solid compound X on heating produces a new solid P and a gas Q. The gas Q is absorbed by KOH. The gas Q is",
+    "options": [
+      "CO₂",
+      "O₂",
+      "N₂",
+      "NH₃"
+    ],
+    "correct_answer": "CO₂",
+    "explanation": "[CONCEPT]\nStep 1: KOH is an alkaline solution that absorbs acidic gases.\nStep 2: Among the choices, CO₂ is an acidic gas that reacts with KOH to form K₂CO₃: 2 KOH + CO₂ → K₂CO₃ + H₂O."
+  },
+  {
+    "id": 37,
+    "question": "The reaction between P and water forms a new compound R. Compound R gives bleaching powder on reaction with Cl₂. The compound X is",
+    "options": [
+      "NH₄NO₂",
+      "KClO₃",
+      "CaCO₃",
+      "CuFeS₂"
+    ],
+    "correct_answer": "CaCO₃",
+    "explanation": "[CONCEPT]\nStep 1: Thermal decomposition: CaCO₃(s) (X) → CaO(s) (P) + CO₂(g) (Q).\nStep 2: Slaking: CaO + H₂O → Ca(OH)₂ (R).\nStep 3: Chlorination: 2 Ca(OH)₂ + 2 Cl₂ → Ca(OCl)₂·CaCl₂·2H₂O (bleaching powder)."
+  },
+  {
+    "id": 38,
+    "question": "Ammonia gas can be dried over",
+    "options": [
+      "conc. H₂SO₄",
+      "anhydrous P₂O₅",
+      "anhydrous CaO",
+      "anhydrous CaCl₂"
+    ],
+    "correct_answer": "anhydrous CaO",
+    "explanation": "[CONCEPT]\nStep 1: NH₃ is a basic gas.\nStep 2: It reacts chemically with acidic drying agents (H₂SO₄ forms (NH₄)₂SO₄, P₂O₅ forms (NH₄)₃PO₄) and forms adducts with CaCl₂ (CaCl₂·8NH₃).\nStep 3: Quicklime (anhydrous CaO) is basic and does not react with NH₃, making it the ideal drying agent."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following pairs of complexes will not show any ligand field d-d transitions?",
+    "options": [
+      "K₄[Fe(CN)₆], [Ni(H₂O)₂(NH₃)₄]SO₄",
+      "[Cu(CH₃CN)₄]Cl, Na₃[CoCl₂(CN)₄]",
+      "[Cu(CH₃CN)₄]Cl, [Zn(NH₃)₄]Cl₂",
+      "[Cu(H₂O)₂(NH₃)₄]Cl₂, [Zn(H₂O)₂(NH₃)₄]SO₄"
+    ],
+    "correct_answer": "[Cu(CH₃CN)₄]Cl, [Zn(NH₃)₄]Cl₂",
+    "explanation": "[CONCEPT]\nStep 1: d-d transitions require partially filled d-orbitals (d¹ to d⁹).\nStep 2: In [Cu(CH₃CN)₄]Cl, Cu(I) has 3d¹⁰; in [Zn(NH₃)₄]Cl₂, Zn(II) has 3d¹⁰.\nStep 3: With completely filled 3d¹⁰ shells, no d-d transitions can occur in either complex."
+  },
+  {
+    "id": 40,
+    "question": "Among the following molecules the one that exhibits only one isomer is",
+    "options": [
+      "[Fe(H₂O)₅OH]²⁺",
+      "Pt(NH₃)₂Cl₂",
+      "[Pt(NH₃)₃Cl₃]⁺",
+      "[CoCl₃(NH₃)₃]"
+    ],
+    "correct_answer": "[Fe(H₂O)₅OH]²⁺",
+    "explanation": "[CONCEPT]\nStep 1: [Fe(H₂O)₅OH]²⁺ is an [MA₅B] octahedral complex, which has all 5 A positions equivalent and thus exists as only 1 single geometric isomer (no stereoisomers).\nStep 2: Pt(NH₃)₂Cl₂ (cis/trans), [Pt(NH₃)₃Cl₃]⁺ (fac/mer), and [CoCl₃(NH₃)₃] (fac/mer) all exhibit geometrical isomerism."
+  },
+  {
+    "id": 41,
+    "question": "The reaction of AgNO₃ with KCl in an aqueous environment leads to an insoluble product P. Treatment of P with an excess of KCl leads to its dissolution because of the formation of Q. P and Q respectively are",
+    "options": [
+      "AgCl and [AgCl₂]⁻",
+      "[AgCl₂]⁻ and AgCl",
+      "AgCl and [AgCl₃]²⁻",
+      "[AgCl₂]⁻ and [AgCl₃]²⁻"
+    ],
+    "correct_answer": "AgCl and [AgCl₂]⁻",
+    "explanation": "[CONCEPT]\nStep 1: AgNO₃ + KCl → AgCl↓ (white precipitate P) + KNO₃.\nStep 2: AgCl(s) dissolves in excess Cl⁻ by forming the soluble dichloroargentate(I) complex ion: AgCl + Cl⁻ ⇌ [AgCl₂]⁻ (Q)."
+  },
+  {
+    "id": 42,
+    "question": "Match the following:\nP. [CoCl₄]²⁻\nQ. [Fe(H₂O)₆]³⁺\nR. [Fe(CN)₆]⁴⁻\nValues:\n1. √15 BM\n2. 0 BM\n3. √35 BM",
+    "options": [
+      "P–2; Q–3; R–1",
+      "P–2; Q–1; R–3",
+      "P–1; Q–3; R–2",
+      "P–3; Q–2; R–1"
+    ],
+    "correct_answer": "P–1; Q–3; R–2",
+    "explanation": "[CONCEPT]\nStep 1: P. [CoCl₄]²⁻ (Co²⁺, d⁷ high spin tetrahedral): 3 unpaired electrons ⟹ μ = √(3×5) = √15 BM (Match 1).\nStep 2: Q. [Fe(H₂O)₆]³⁺ (Fe³⁺, d⁵ high spin): 5 unpaired electrons ⟹ μ = √(5×7) = √35 BM (Match 3).\nStep 3: R. [Fe(CN)₆]⁴⁻ (Fe²⁺, d⁶ low spin): 0 unpaired electrons ⟹ μ = 0 BM (Match 2)."
+  },
+  {
+    "id": 43,
+    "question": "Statement for Linked Questions: The reaction of BF₃ with NaBH₄ leads to the formation of a stable gaseous boron compound P. The compound P reacts with Me₃N to give Q. Identify P among the following.",
+    "options": [
+      "BH₃",
+      "Na[B₃H₈]",
+      "B₂H₆",
+      "B₄H₁₀"
+    ],
+    "correct_answer": "B₂H₆",
+    "explanation": "[CONCEPT]\nStep 1: 3 NaBH₄ + 4 BF₃ → 2 B₂H₆(g) (P) + 3 NaBF₄.\nStep 2: The stable gaseous boron hydride produced is diborane (B₂H₆)."
+  },
+  {
+    "id": 44,
+    "question": "The compound Q is",
+    "options": [
+      "BH₃·NMe₃",
+      "B₂H₅·NMe₃",
+      "B₄H₉·NMe₃",
+      "BH₃·2NMe₃"
+    ],
+    "correct_answer": "BH₃·NMe₃",
+    "explanation": "[CONCEPT]\nStep 1: Diborane acts as a Lewis acid and undergoes symmetrical cleavage with small Lewis bases like Me₃N.\nStep 2: B₂H₆ + 2 NMe₃ → 2 BH₃·NMe₃ (Q)."
+  },
+  {
+    "id": 45,
+    "question": "The oxidation state of nickel atom in the coordination compound [Ni(NH₃)₃Cl]Cl is",
+    "options": [
+      "−1",
+      "0",
+      "+1",
+      "+2"
+    ],
+    "correct_answer": "+2",
+    "explanation": "[CONCEPT]\nStep 1: NH₃ is a neutral ligand (0 charge); each chloride has a charge of −1.\nStep 2: Total charge: x + 3(0) + (−1) + (−1) = 0 ⟹ x = +2."
+  },
+  {
+    "id": 46,
+    "question": "Reaction of Na₂SO₃ with 2 equivalents of HCl produces a gas X. Solution of X in water is acidic in nature. X is",
+    "options": [
+      "O₂",
+      "Cl₂",
+      "SO₂",
+      "H₂S"
+    ],
+    "correct_answer": "SO₂",
+    "explanation": "[CONCEPT]\nStep 1: Na₂SO₃ + 2 HCl → 2 NaCl + H₂O + SO₂↑.\nStep 2: Sulfur dioxide (SO₂) gas dissolves in water to form sulfurous acid (H₂SO₃), which is acidic."
+  },
+  {
+    "id": 47,
+    "question": "The ionization constants of phosphorous acid (H₃PO₃) are Ka₁ = 3 × 10⁻²; Ka₂ = 1.7 × 10⁻⁷. The structure of phosphorous acid is",
+    "options": [
+      "P(=O)(H)(OH)₂",
+      "P(H)(OH)(OOH)",
+      "P(H)₂(OH)(O)₂",
+      "P(H)₂(O)(OOH)"
+    ],
+    "correct_answer": "P(=O)(H)(OH)₂",
+    "explanation": "[CONCEPT]\nStep 1: H₃PO₃ has two replaceable acidic protons (diprotic acid with two Ka values).\nStep 2: This corresponds to two –OH groups attached to phosphorus, one phosphoryl P=O bond, and one non-ionizable P–H bond: P(=O)(H)(OH)₂."
+  },
+  {
+    "id": 48,
+    "question": "Which one of the following compounds is known as silanes?",
+    "options": [
+      "Silicon hydrides",
+      "Silicon halides",
+      "Silicon hydroxides",
+      "Silicon oxides"
+    ],
+    "correct_answer": "Silicon hydrides",
+    "explanation": "[CONCEPT]\nStep 1: Silanes are binary saturated silicon-hydrogen compounds with the general formula Si_n H_{2n+2} (analogous to alkanes)."
+  },
+  {
+    "id": 49,
+    "question": "According to crystal field theory, the electronic configuration of [Ti(H₂O)₆]³⁺ in the ground state is",
+    "options": [
+      "eg¹ t₂g⁰",
+      "t₂g⁰ eg¹",
+      "eg⁰ t₂g¹",
+      "t₂g¹ eg⁰"
+    ],
+    "correct_answer": "t₂g¹ eg⁰",
+    "explanation": "[CONCEPT]\nStep 1: Titanium (Z=22) has ground state [Ar] 3d² 4s².\nStep 2: Ti³⁺ has one d electron (3d¹).\nStep 3: In an octahedral crystal field, the lower set of orbitals is t₂g, so the ground state configuration is t₂g¹ eg⁰."
+  },
+  {
+    "id": 50,
+    "question": "[FeCl₄]²⁻ (I), [CoCl₄]²⁻ (II) and [NiCl₄]²⁻ (III) are paramagnetic tetrahedral complexes. The order of values of crystal field stabilization energy is",
+    "options": [
+      "I > III > II",
+      "III > I > II",
+      "I > II > III",
+      "II > III > I"
+    ],
+    "correct_answer": "II > III > I",
+    "explanation": "[CONCEPT]\nStep 1: CFSE for tetrahedral = [−0.6 n(e) + 0.4 n(t₂)] Δt:\n- I: [FeCl₄]²⁻ (d⁶: e³ t₂³): CFSE = [−0.6(3) + 0.4(3)] Δt = −0.6 Δt\n- II: [CoCl₄]²⁻ (d⁷: e⁴ t₂³): CFSE = [−0.6(4) + 0.4(3)] Δt = −1.2 Δt\n- III: [NiCl₄]²⁻ (d⁸: e⁴ t₂⁴): CFSE = [−0.6(4) + 0.4(4)] Δt = −0.8 Δt\nStep 2: In magnitude of CFSE: II (1.2) > III (0.8) > I (0.6)."
+  },
+  {
+    "id": 51,
+    "question": "[FeCl₄]²⁻ (I), [CoCl₄]²⁻ (II) and [NiCl₄]²⁻ (III) are paramagnetic tetrahedral complexes. The order of values of spin only magnetic moment is",
+    "options": [
+      "III > II > I",
+      "III > I > II",
+      "II > I > III",
+      "I > II > III"
+    ],
+    "correct_answer": "I > II > III",
+    "explanation": "[CONCEPT]\nStep 1: Unpaired electrons:\n- I. Fe²⁺ (d⁶): 4 unpaired electrons (μ = √24 BM ≈ 4.90 BM)\n- II. Co²⁺ (d⁷): 3 unpaired electrons (μ = √15 BM ≈ 3.87 BM)\n- III. Ni²⁺ (d⁸): 2 unpaired electrons (μ = √8 BM ≈ 2.83 BM)\nStep 2: Order of magnetic moment: I > II > III."
+  },
+  {
+    "id": 52,
+    "question": "The number of 2-center-2-electron bonds in anhydrous AlCl₃ (exists as Al₂Cl₆ dimer) is __________.",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "2"
+    ],
+    "correct_answer": "8",
+    "explanation": "[CONCEPT]\nStep 1: Anhydrous aluminum chloride forms a dimer Al₂Cl₆.\nStep 2: Each Al forms 2 terminal Al–Cl covalent bonds (4 bonds total) and 2 bridging Al–Cl coordinate/covalent bonds (4 bonds total).\nStep 3: All 8 Al–Cl bonds in the dimer are normal 2-center-2-electron (2c-2e⁻) bonds."
+  },
+  {
+    "id": 53,
+    "question": "Diphosphonic acid (H₄P₂O₅) has no P–P bond. This acid is",
+    "options": [
+      "tetrabasic.",
+      "tribasic.",
+      "dibasic.",
+      "monobasic."
+    ],
+    "correct_answer": "dibasic.",
+    "explanation": "[CONCEPT]\nStep 1: Structure of pyrophosphorous / diphosphonic acid is (HO)(H)P(=O)–O–P(=O)(H)(OH).\nStep 2: It contains two ionizable P–OH groups and two non-ionizable P–H bonds.\nStep 3: Hence, its basicity is 2 (dibasic acid)."
+  },
+  {
+    "id": 54,
+    "question": "The magnetic moment of an octahedral Co(II) complex is approximately 4.0 μB (atomic number of Co is 27). The CFSE for this complex, in Δo units, is __________.",
+    "options": [
+      "−0.8",
+      "−1.2",
+      "−0.4",
+      "0"
+    ],
+    "correct_answer": "−0.8",
+    "explanation": "[CONCEPT]\nStep 1: Co(II) is a 3d⁷ system. μ ≈ 4.0 μB indicates 3 unpaired electrons, characteristic of a high-spin octahedral complex (t₂g⁵ eg²).\nStep 2: CFSE = [5(−0.4) + 2(+0.6)] Δo = (−2.0 + 1.2) Δo = −0.8 Δo."
+  },
+  {
+    "id": 55,
+    "question": "The complex ion [Cr(H₂O)₆]³⁺ (atomic number of Cr is 24) exhibits",
+    "options": [
+      "slightly distorted octahedral geometry.",
+      "tetragonally elongated octahedral geometry.",
+      "tetragonally compressed octahedral geometry.",
+      "perfect octahedral geometry."
+    ],
+    "correct_answer": "perfect octahedral geometry.",
+    "explanation": "[CONCEPT]\nStep 1: Cr³⁺ is a 3d³ system with electronic configuration t₂g³ eg⁰.\nStep 2: Both t₂g (symmetrically half-filled) and eg (completely empty) orbitals are symmetrically occupied.\nStep 3: With no degenerate ground state, there is no Jahn-Teller distortion, resulting in a perfect octahedral geometry."
+  },
+  {
+    "id": 56,
+    "question": "The crystal field stabilization energy (excluding pairing energy, if any) of [CoCl₄]²⁻ in Δo units is __________.",
+    "options": [
+      "−0.53",
+      "−1.2",
+      "−0.8",
+      "−0.4"
+    ],
+    "correct_answer": "−0.53",
+    "explanation": "[CONCEPT]\nStep 1: [CoCl₄]²⁻ has Co²⁺ (d⁷ tetrahedral, e⁴ t₂³).\nStep 2: CFSE in Δt = [4(−0.6) + 3(0.4)] Δt = −1.2 Δt.\nStep 3: Since Δt = (4/9) Δo: CFSE = −1.2 × (4/9) Δo = −0.533 Δo ≈ −0.53 Δo."
+  },
+  {
+    "id": 57,
+    "question": "CO reacts readily with",
+    "options": [
+      "Fe",
+      "Fe²⁺",
+      "Fe⁴⁺",
+      "Fe³⁺"
+    ],
+    "correct_answer": "Fe",
+    "explanation": "[CONCEPT]\nStep 1: Fe(0) has maximum electron density in 3d orbitals to participate in strong synergic π-backbonding into the empty π* orbitals of CO.\nStep 2: Hence, neutral Fe atom readily reacts with CO to form stable iron pentacarbonyl Fe(CO)₅."
+  },
+  {
+    "id": 58,
+    "question": "The octahedral metal oxide with the highest CFSE value is",
+    "options": [
+      "ZnO",
+      "MnO",
+      "VO",
+      "TiO"
+    ],
+    "correct_answer": "VO",
+    "explanation": "[CONCEPT]\nStep 1: Configurations in octahedral MO:\n- ZnO (Zn²⁺, d¹⁰): CFSE = 0\n- MnO (Mn²⁺, d⁵ high spin): CFSE = 0\n- TiO (Ti²⁺, d²: t₂g²): CFSE = −0.8 Δo\n- VO (V²⁺, d³: t₂g³): CFSE = 3(−0.4 Δo) = −1.2 Δo\nStep 2: VO has the maximum CFSE (−1.2 Δo)."
+  },
+  {
+    "id": 59,
+    "question": "Among the following statements, the correct one is",
+    "options": [
+      "[NiCl₄]²⁻ (atomic number of Ni = 28) is diamagnetic.",
+      "Ethylamine is a weaker Lewis base compared to pyridine.",
+      "[NiCl₂{P(C₆H₅)₃}₂] has two geometrical isomers.",
+      "Bond angle in H₂O is greater than that in H₂S."
+    ],
+    "correct_answer": "Bond angle in H₂O is greater than that in H₂S.",
+    "explanation": "[CONCEPT]\nStep 1: In H₂O (104.5°), hybridization is sp³.\nStep 2: In H₂S (92°), bonding follows Drago's rule with nearly pure unhybridized p orbitals.\nStep 3: Hence, bond angle in H₂O is significantly greater than in H₂S."
+  },
+  {
+    "id": 60,
+    "question": "In [Mn(H₂O)₆]²⁺ (atomic number of Mn = 25), the d-d transitions according to crystal field theory (CFT) are",
+    "options": [
+      "Laporte forbidden and spin forbidden.",
+      "Laporte allowed and spin allowed.",
+      "Laporte forbidden and spin allowed.",
+      "Laporte allowed and spin forbidden."
+    ],
+    "correct_answer": "Laporte forbidden and spin forbidden.",
+    "explanation": "[CONCEPT]\nStep 1: High-spin Mn²⁺ (3d⁵) has ground state ⁶A₁g with all 5 electrons having parallel spins.\nStep 2: Any d-d transition involves a change in spin multiplicity (ΔS ≠ 0), making it spin-forbidden.\nStep 3: In centrosymmetric octahedral complexes, all d-d transitions (g → g) are Laporte forbidden (Δl = 0)."
+  },
+  {
+    "id": 61,
+    "question": "The most stable coordination complexes P and Q formed in the reaction Fe³⁺ + Hg²⁺ + SCN⁻ → P + Q are",
+    "options": [
+      "[Fe(NCS)₆]³⁻ and [Hg(SCN)₆]⁴⁻",
+      "[Fe(NCS)₆]³⁻ and [Hg(SCN)₄]²⁻",
+      "[Fe(SCN)₆]³⁻ and [Hg(NCS)₄]²⁻",
+      "[Fe(NCS)₆]³⁻ and [Hg(NCS)₄]²⁻"
+    ],
+    "correct_answer": "[Fe(NCS)₆]³⁻ and [Hg(SCN)₄]²⁻",
+    "explanation": "[CONCEPT]\nStep 1: By Pearson's HSAB principle, hard acids prefer hard bases and soft acids prefer soft bases.\nStep 2: Fe³⁺ is a hard acid and preferentially coordinates to the harder N atom of SCN⁻, forming [Fe(NCS)₆]³⁻.\nStep 3: Hg²⁺ is a soft acid and preferentially coordinates to the softer S atom, forming [Hg(SCN)₄]²⁻."
+  },
+  {
+    "id": 62,
+    "question": "A coordination complex Y upon reaction with AgNO₃ solution does not give any precipitation. Complex Y possesses two isomers, of which one has zero dipole moment. The crystal field stabilization energy of Y is either −0.8 Δo or −0.8 Δt. The magnetic moment for Y is found to be 3.9 Bohr Magneton. The coordination complex Y is",
+    "options": [
+      "[Ti(NH₃)₄(Cl)₂]",
+      "[Co(NH₃)₄(H₂O)₂]Cl₂",
+      "[Co(NH₃)₂(Cl)₂]",
+      "[Co(NH₃)₄(Cl)₂]"
+    ],
+    "correct_answer": "[Co(NH₃)₄(Cl)₂]",
+    "explanation": "[CONCEPT]\nStep 1: No AgCl ppt means no Cl⁻ ions outside the coordination sphere.\nStep 2: μ = 3.9 BM corresponds to 3 unpaired electrons (high-spin Co²⁺, d⁷).\nStep 3: [Co(NH₃)₄Cl₂] has cis and trans isomers; the trans isomer has zero dipole moment and CFSE = −0.8 Δo."
+  },
+  {
+    "id": 63,
+    "question": "The coordination complex which has a distorted octahedral structure is (Given atomic numbers: V: 23, Mn: 25, Ni: 28, Cu: 29)",
+    "options": [
+      "[Ni(H₂O)₆]²⁺",
+      "[Mn(H₂O)₆]²⁺",
+      "[V(H₂O)₆]²⁺",
+      "[Cu(H₂O)₆]²⁺"
+    ],
+    "correct_answer": "[Cu(H₂O)₆]²⁺",
+    "explanation": "[CONCEPT]\nStep 1: Cu²⁺ is 3d⁹ with electronic configuration t₂g⁶ eg³ in an octahedral field.\nStep 2: The degenerate eg³ state causes strong tetragonal Jahn-Teller distortion (elongation along z-axis).\nStep 3: Hence, [Cu(H₂O)₆]²⁺ has a distorted octahedral structure."
+  }
+]

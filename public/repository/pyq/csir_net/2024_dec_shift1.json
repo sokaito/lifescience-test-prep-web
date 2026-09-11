@@ -226,7 +226,7 @@
     "question": "A cylinder has two concentric identical metal plates placed on each other that\nhave identical circular holes as shown in the figure (shaded area). The plate A\nrotates in clockwise direction at 15° per second. The plate B rotates in anti­\nclockwise direction at 5° per second. If the starting positions of the plates as\nseen from the top of the cylinder are as shown below, the first instance when\nboth the shaded regions compl.etely coincide happens at:\nB A\nA\nB",
     "options": [
       "11.25 seconds",
-      "3.25 seconds",
+      "25 seconds",
       "6. 75 seconds",
       "8.35 seconds"
     ],
@@ -303,12 +303,12 @@
     "section": "B",
     "question": "Match the columns:\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A (i) B (ii) C (iii) D (iv)\n(iii)",
-      "(b) A (iv) B (i) C (ii} D",
-      "(c) A (iv) B (ii) C (iii) D (i)",
-      "(d) A (ii) B (iv) C (iii) D (i)"
+      "A (i) B (ii) C (iii) D (iv)\n(iii)",
+      "A (iv) B (i) C (ii} D",
+      "A (iv) B (ii) C (iii) D (i)",
+      "A (ii) B (iv) C (iii) D (i)"
     ],
-    "correct_answer": "(c) A (iv) B (ii) C (iii) D (i)",
+    "correct_answer": "A (iv) B (ii) C (iii) D (i)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -675,12 +675,12 @@
     "section": "B",
     "question": "As per the India State of Forest Report 2021 , the percentage cover of 'very dense\nforests ' as a component of the country 's tota l geographical area is:",
     "options": [
-      "3.04",
+      "04",
       "9.33",
       "9.44",
       "21 .71"
     ],
-    "correct_answer": "3.04",
+    "correct_answer": "04",
     "explanation": ""
   },
   {
@@ -922,12 +922,12 @@
     "section": "C",
     "question": "The table be low shows types of chem ical mutagens and names of mutagens.\nA Base analogs i Nitrous acid\nB Intercalating agents ii E thyl Methane Sulphonate\nC Deam inating agents iii Ethidium Bromide\nD A lkylating agents iv 5-Bromouracil\nWhich one of the following options shows the correct match between Column X and\nColumn Y?",
     "options": [
-      "(a) A: iv B : iii C: i D:",
-      "(b) A: i B : iv C: iii D :",
-      "(c) A: ii B : iii C : iv D:\nB : ii",
-      "(d) A: iii C: i D:v"
+      "A: iv B : iii C: i D:",
+      "A: i B : iv C: iii D :",
+      "A: ii B : iii C : iv D:\nB : ii",
+      "A: iii C: i D:v"
     ],
-    "correct_answer": "(a) A: iv B : iii C: i D:",
+    "correct_answer": "A: iv B : iii C: i D:",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -941,7 +941,7 @@
       "At what range of substrate concentrat ion will an enzyme with a k cat of 30 s- and a\nKm of 0.005 M show one-quarter of its maximum rate?\n3 1 . 3. 0 x 1 0- M to 3. 1 x 1 Q-3 M\n3 3",
       "0.65 x10- M to 0.75 x10- M",
       "3 X 10- M to 1. 75 X 10- M 3. 1.65\n3 3",
-      "2.7 x1 o- M to 2.8 x10- M"
+      "7 x1 o- M to 2.8 x10- M"
     ],
     "correct_answer": "3 X 10- M to 1. 75 X 10- M 3. 1.65\n3 3",
     "explanation": ""
@@ -990,12 +990,12 @@
     "section": "C",
     "question": "Given below are components that facilitate transfer of molecules across\nY).\nA ATP powered pumps I Movement of molecules against\nconcentrat ion gradient coupled to another\nmolecule moving down the concentration\ngradient\nB Uniporter II Free diffusion of hydrophilic molecules\nC Channels Ill Movement of molecules against a\nconcentration gradient and/or electric\npotential\nD Symporter IV Transport of hydrophilic molecules down their\nconcentration gradients\nChoose the option that correctly matches the components with their properties.",
     "options": [
-      "(a) A (IV) B (II) C (I) D (Ill)",
-      "(b) A (II) B (Ill) C (IV) D (I)",
-      "(c) A (Ill) B (IV) C (I) D (II)",
-      "(d) A (Ill) B (IV) C (II) D (I)"
+      "A (IV) B (II) C (I) D (Ill)",
+      "A (II) B (Ill) C (IV) D (I)",
+      "A (Ill) B (IV) C (I) D (II)",
+      "A (Ill) B (IV) C (II) D (I)"
     ],
-    "correct_answer": "(d) A (Ill) B (IV) C (II) D (I)",
+    "correct_answer": "A (Ill) B (IV) C (II) D (I)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1058,12 +1058,12 @@
     "section": "C",
     "question": "Match the animal in Column X with its characteristic in Column Y.\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A-II B-IV C-1 D-111",
-      "(b) A-I B -11 C-111 D-IV",
-      "(c) A-Ill B-1 C -11 D-IV",
-      "(d) A-II B-111 C-IV D-1"
+      "A-II B-IV C-1 D-111",
+      "A-I B -11 C-111 D-IV",
+      "A-Ill B-1 C -11 D-IV",
+      "A-II B-111 C-IV D-1"
     ],
-    "correct_answer": "(a) A-II B-IV C-1 D-111",
+    "correct_answer": "A-II B-IV C-1 D-111",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1199,7 +1199,7 @@
     "section": "C",
     "question": "0\nThe helicase activity of E. coli DnaB was investigated using the following two\nsubstrates (I and II) under various conditions , followed by gel electropho resis and\nautoradiography . The results of these experiments are depicted below:\nSubstrate II Substrate I\nSSB +- - +++\nSubstra.te I 0MB + •• + + -\nONA . , Radiolabeled\n~p + - - + - + ~~ 11111111111 11 I 111111 ~\nUnlabeled DNA Boiling - - - - - -\nDirection of I\nmi11ration\n- - -- - l\n-\nThe following statements are made purely from the results shown above :\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>DnaB can unwind only a partially unwound DNA.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>SSB inhibits the unwinding activity of DnaB.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>DnaB unwinds DNA in the 5' to 3' direction .</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>DnaB requires ATP for DNA unwinding.</span></div></div>\nWhich one of the following options represents the combination of all correct\nstatements?",
     "options": [
-      "A.Band D",
+      "Band D",
       "A, C and D",
       "C and D only",
       "A and D only"
@@ -1238,12 +1238,12 @@
     "section": "C",
     "question": "https://narm28csir12ugc54hdb.onlineregistrationform.org/NMCSIRUGC/01Mar2025/09001200/241620079662.html[11-03-2025 20:59:49]\n0\nThe table given below provides a comprehensive list of selected plant diseases\n(Column X) and possible causal pathogens (Column Y).\nPlant Disease Pathogen\nMeloidogyne spp. C. Fire bliight 111.\nVenturia inaequalis D. Root-Knot IV.\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A-IV B-11 C-111 D-1",
-      "(b) A-II B-1 C-IV D-111",
-      "(c) A-I B -IV C-111 D-11",
-      "(d) A-IV B-1 C-11 D-111"
+      "A-IV B-11 C-111 D-1",
+      "A-II B-1 C-IV D-111",
+      "A-I B -IV C-111 D-11",
+      "A-IV B-1 C-11 D-111"
     ],
-    "correct_answer": "(d) A-IV B-1 C-11 D-111",
+    "correct_answer": "A-IV B-1 C-11 D-111",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1299,12 +1299,12 @@
     "section": "C",
     "question": "0\nGiven below are different types of genetic manipulations of E. coli trp operon\n(Column X) and their consequences on its transcription (Column Y) under high\ntryptopha n concentration.\nLeader (trpL) trp operon\nA\np trpR trpE trpD trpC trpB trpA\nSequence 1 2 3 4 attenuator\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A (i) B (ii) C (iii) D (iv)",
-      "(b) A (i) B (iii) C (ii) D (iv)",
-      "(c) A(iv) B (ii) C (iii) D (i)",
-      "(d) A (ii) B (iiii) C (iv) D (i)"
+      "A (i) B (ii) C (iii) D (iv)",
+      "A (i) B (iii) C (ii) D (iv)",
+      "A(iv) B (ii) C (iii) D (i)",
+      "A (ii) B (iiii) C (iv) D (i)"
     ],
-    "correct_answer": "(d) A (ii) B (iiii) C (iv) D (i)",
+    "correct_answer": "A (ii) B (iiii) C (iv) D (i)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1390,12 +1390,12 @@
     "section": "C",
     "question": "- I = = -\nThe table below lists selected bird species (Column X) and their possible habitats\n(Column Y).\n(Uocichla bugunorum) I. High altitude Western Himalayas A. Bugun liocichla\n111. Western Ghats\n(Phyl/oscopus\nWhich one of the following options represents all correct matches between Column\nX and Column Y?\nC-111",
     "options": [
-      "(a) A-I B-II",
-      "(b) A-Ill B-I C-IV",
-      "(c) A-IV B-II C-11 1",
-      "(d) A-II B-111 C-I"
+      "A-I B-II",
+      "A-Ill B-I C-IV",
+      "A-IV B-II C-11 1",
+      "A-II B-111 C-I"
     ],
-    "correct_answer": "(d) A-II B-111 C-I",
+    "correct_answer": "A-II B-111 C-I",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1406,12 +1406,12 @@
     "section": "C",
     "question": "0\n0\nShown in the table below are the enzymes (Column X) involved in the biosynthesis\nB ER localized cytochrome ii. Strigolactone\nP450 monoxygenase\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A (ii) B (i) C (iii) D (iv)",
-      "(b) A (i) B (ii) C (iv) D (iii)",
-      "(c) A (iv) B (ii) C (iii) D (i)",
-      "(d) A (ii) B (i) C {iv) D (iii)"
+      "A (ii) B (i) C (iii) D (iv)",
+      "A (i) B (ii) C (iv) D (iii)",
+      "A (iv) B (ii) C (iii) D (i)",
+      "A (ii) B (i) C {iv) D (iii)"
     ],
-    "correct_answer": "(d) A (ii) B (i) C {iv) D (iii)",
+    "correct_answer": "A (ii) B (i) C {iv) D (iii)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [
@@ -1569,12 +1569,12 @@
     "section": "C",
     "question": "repressor _______ _\nActin dynamics in cells is dependent on several actin-binding proteins. Given below\nare actin-binding proteins in Column X and their typica l function in Column Y.\nA Formin I nucleates assembly to form a branched\nnetwork\nB Arp2/3 complex II stabilizes filament, modulates binding of\nother accessory proteins\nC Cofilin Ill nucleates assembly and remains\nassociated with the growing plus end\nD Tropomyosin IV binds ADP-actin filaments , accelerates\ndisassembly\nWhich one of the following options represents all correct matches between Column\nX and Column Y?",
     "options": [
-      "(a) A-(I) B-(II) C-(IV) D-(III)",
-      "(b) A-(III) B-(I) C-(IV) D-(I1)",
-      "(c) A-(III) B-(II) C-(IV) D-(I)",
-      "(d) A-(11) B-(I) C-{IV) D-(III)"
+      "A-(I) B-(II) C-(IV) D-(III)",
+      "A-(III) B-(I) C-(IV) D-(I1)",
+      "A-(III) B-(II) C-(IV) D-(I)",
+      "A-(11) B-(I) C-{IV) D-(III)"
     ],
-    "correct_answer": "(b) A-(III) B-(I) C-(IV) D-(I1)",
+    "correct_answer": "A-(III) B-(I) C-(IV) D-(I1)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1611,12 +1611,12 @@
     "section": "C",
     "question": "Given below are different types of bacterial growth curves.\n8 A\n.!!! .!:!l\nw ai u\nu\n0 0\n0 0\nz z\nTime\nD\nC\n<ll\n'83 u\n0\n0\nz\nWhich one of the following options represents all correct matches between the\ngrowth curves and the type of culture?",
     "options": [
-      "(a) A: Continuous; B: Asynchronous; C: Synchronous; D: Diauxic",
-      "(b) A: Synchronous; B: Continuous; C: Asynchronous; D: DiauXic",
-      "(c) A: Continuous; B: Asynchronous; C: Diauxic; D: Synchronous",
-      "(d) A: Synchronous; B: Asynchronous; C: Continuous; D: Diauxic"
+      "A: Continuous; B: Asynchronous; C: Synchronous; D: Diauxic",
+      "A: Synchronous; B: Continuous; C: Asynchronous; D: DiauXic",
+      "A: Continuous; B: Asynchronous; C: Diauxic; D: Synchronous",
+      "A: Synchronous; B: Asynchronous; C: Continuous; D: Diauxic"
     ],
-    "correct_answer": "(d) A: Synchronous; B: Asynchronous; C: Continuous; D: Diauxic",
+    "correct_answer": "A: Synchronous; B: Asynchronous; C: Continuous; D: Diauxic",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [],
@@ -1692,12 +1692,12 @@
     "section": "C",
     "question": "A student studying tree species diversity uses a large number of sampling quadrats\n(each of 1-hectare area) to cover >50% of the area of a 200-hectare tropical forest\npatch. Consider the statements in the options below:\nA. Species numbers increase with sampling area following a power-law relationship with exponent >0 and <",
     "options": [
-      "B. The log of species numbers increases linearly with the log of the sampling\narea.\nC. Species numbers increase with sampling area following a power-law\nrelationship with exponent >1.\nD. Species numbers increase linearly with the log of the sampling area.\nWhich combination of the statements above describes the expected pattern?\n1. A and B",
+      "The log of species numbers increases linearly with the log of the sampling\narea.\nC. Species numbers increase with sampling area following a power-law\nrelationship with exponent >1.\nD. Species numbers increase linearly with the log of the sampling area.\nWhich combination of the statements above describes the expected pattern?\n1. A and B",
       "Conly",
       "Band C",
       "A and D"
     ],
-    "correct_answer": "B. The log of species numbers increases linearly with the log of the sampling\narea.\nC. Species numbers increase with sampling area following a power-law\nrelationship with exponent >1.\nD. Species numbers increase linearly with the log of the sampling area.\nWhich combination of the statements above describes the expected pattern?\n1. A and B",
+    "correct_answer": "The log of species numbers increases linearly with the log of the sampling\narea.\nC. Species numbers increase with sampling area following a power-law\nrelationship with exponent >1.\nD. Species numbers increase linearly with the log of the sampling area.\nWhich combination of the statements above describes the expected pattern?\n1. A and B",
     "explanation": ""
   },
   {
@@ -1729,7 +1729,7 @@
   {
     "id": 129,
     "section": "C",
-    "question": "The following statements were made regarding the roles of histone modifications\nin transcriptional regulation.\nA. Acetylation of histones is generally associated with transcriptional repression\nby making the chromatin more compact.\nB. Methylation of histones can either activate or repress transcription depending\non the specific residue modified.\nC. Phosphorylation of histones occurs in response to DNA damage and can\ninfluence gene expression.\nD. Histone modifications influence the recruitment of RNA polymerase complex but not transcription factors.\nWhich one of the following options represents the combination of all correct\nstatements?",
+    "question": "The following statements were made regarding the roles of histone modifications\nin transcriptional regulation.\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Acetylation of histones is generally associated with transcriptional repression\nby making the chromatin more compact.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Methylation of histones can either activate or repress transcription depending\non the specific residue modified.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>Phosphorylation of histones occurs in response to DNA damage and can\ninfluence gene expression.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Histone modifications influence the recruitment of RNA polymerase complex but not transcription factors.</span></div></div>\nWhich one of the following options represents the combination of all correct\nstatements?",
     "options": [
       "A and D only",
       "B and C only",
@@ -1757,12 +1757,12 @@
     "section": "C",
     "question": "https://narm28csir12ugc54hdb.onlineregistrationform.org/NMCSIRUGC/01Mar2025/09001200/241620079662.html[11-03-2025 20:59:49]\nStructural features DNA/RNA conformat ion\nB Number of base pairs per turn is 1 O ii. B form\nD.RNA double helix\nWhich one of the following options represents all correct matches between Column\nX and Column Y?\nC (i)",
     "options": [
-      "(a) A (iii) B (ii) D (i)\nB (iii)",
-      "(b) A(i) C (ii) D (i)\nB (ii) D (iii)",
-      "(c) A(i i) C (i)\nB (i)",
-      "(d) A (iii) C (iii) D (ii)"
+      "A (iii) B (ii) D (i)\nB (iii)",
+      "A(i) C (ii) D (i)\nB (ii) D (iii)",
+      "A(i i) C (i)\nB (i)",
+      "A (iii) C (iii) D (ii)"
     ],
-    "correct_answer": "(a) A (iii) B (ii) D (i)\nB (iii)",
+    "correct_answer": "A (iii) B (ii) D (i)\nB (iii)",
     "explanation": "",
     "type": "match_following_mcq",
     "list_1": [

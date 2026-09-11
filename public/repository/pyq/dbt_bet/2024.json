@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": "match_following_mcq",
-    "question": "Match the organelles in List I with their primary biological roles in List II:",
+    "question": "Match the organelles in List I with their primary biological roles in\n\nList II:",
     "list_1": [
       "Mitochondria",
       "Endoplasmic Reticulum",
@@ -16,18 +16,18 @@
       "Protein trafficking and export"
     ],
     "options": [
-      "(a) A-ii, B-iv, C-i, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-i, C-ii, D-iii",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-ii, B-iv, C-i, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-i, C-ii, D-iii",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-iv, C-i, D-iii",
+    "correct_answer": "A-ii, B-iv, C-i, D-iii",
     "explanation": "[CONCEPT]\nMitochondria are the site of the TCA cycle. The endoplasmic reticulum is involved in protein trafficking and export. Peroxisomes generate hydrogen peroxide during oxidative reactions. Lysosomes contain hydrolytic enzymes for the degradation of proteins."
   },
   {
     "id": 2,
     "type": "match_following_mcq",
-    "question": "Match the biological principles/techniques in List I with their descriptions/names in List II:",
+    "question": "Match the biological principles/techniques in List I with their descriptions/names in\n\nList II:",
     "list_1": [
       "pH of a solution",
       "Base composition of DNA",
@@ -41,12 +41,12 @@
       "Chargaff's principle"
     ],
     "options": [
-      "(a) A-ii, B-iv, C-iii, D-i",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-i, C-iv, D-ii",
-      "(d) A-iv, B-iii, C-ii, D-i"
+      "A-ii, B-iv, C-iii, D-i",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-iii, C-ii, D-i"
     ],
-    "correct_answer": "(a) A-ii, B-iv, C-iii, D-i",
+    "correct_answer": "A-ii, B-iv, C-iii, D-i",
     "explanation": "[CONCEPT]\nThe pH of a buffer solution is calculated using the Henderson-Hasselbalch equation. Base composition follows Chargaff's rules (A=T, G=C). The molar absorption coefficient is a parameter in the Lambert-Beer law. Dideoxy sequencing was developed by Frederick Sanger."
   },
   {
@@ -78,7 +78,7 @@
   {
     "id": 5,
     "type": "match_following_mcq",
-    "question": "Match the amino acid properties in List I with their representative examples in List II:",
+    "question": "Match the amino acid properties in List I with their representative examples in\n\nList II:",
     "list_1": [
       "Sulphur containing amino acid",
       "Optically inactive amino acid",
@@ -92,12 +92,12 @@
       "Glycine"
     ],
     "options": [
-      "(a) A-ii, B-iv, C-i, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-iv, C-ii, D-i",
-      "(d) A-iv, B-i, C-iii, D-ii"
+      "A-ii, B-iv, C-i, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-iv, C-ii, D-i",
+      "A-iv, B-i, C-iii, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-iv, C-i, D-iii",
+    "correct_answer": "A-ii, B-iv, C-i, D-iii",
     "explanation": "[CONCEPT]\nMethionine contains a sulfur atom. Glycine has a hydrogen atom as its R-group, making it achiral and optically inactive. Aspartic acid contains a carboxylic acid side chain. Lysine carries an amino group side chain making it basic."
   },
   {
@@ -129,7 +129,7 @@
   {
     "id": 8,
     "type": "match_following_mcq",
-    "question": "Match the sugars in List I with their descriptions in List II:",
+    "question": "Match the sugars in List I with their descriptions in\n\nList II:",
     "list_1": [
       "Sucrose",
       "Maltose",
@@ -143,12 +143,12 @@
       "Glucose + Glucose"
     ],
     "options": [
-      "(a) A-iii, B-iv, C-i, D-ii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-ii, B-i, C-iv, D-iii"
+      "A-iii, B-iv, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-ii, B-i, C-iv, D-iii"
     ],
-    "correct_answer": "(a) A-iii, B-iv, C-i, D-ii",
+    "correct_answer": "A-iii, B-iv, C-i, D-ii",
     "explanation": "[CONCEPT]\nSucrose is a disaccharide made of glucose and fructose. Maltose is made of two glucose units. Fructose is a monosaccharide. Lactose consists of glucose and galactose."
   },
   {
@@ -219,14 +219,14 @@
   {
     "id": 14,
     "type": "mcq",
-    "question": "Arrange the following in the ascending order of their frequencies:\nA. Ultraviolet Rays\nB. Microwaves\nC. X-rays\nD. Sound waves\nE. Infrared waves",
+    "question": "Arrange the following in the ascending order of their frequencies:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Ultraviolet Rays</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>Microwaves</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>X-rays</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>Sound waves\nE. Infrared waves</span></div></div>",
     "options": [
-      "(D), (E), (B), (A), (C)",
+      ", (E), (B), (A), (C)",
       "(E), (B), (A), (D), (C)",
-      "(C), (A), (B), (E), (D)",
-      "(B), (E), (D), (A), (C)"
+      ", (A), (B), (E), (D)",
+      ", (E), (D), (A), (C)"
     ],
-    "correct_answer": "(D), (E), (B), (A), (C)",
+    "correct_answer": ", (E), (B), (A), (C)",
     "explanation": "[CONCEPT]\nSound waves are mechanical waves with much lower frequencies than electromagnetic waves. Within the EM spectrum, the order of increasing frequency is Microwaves < Infrared < Ultraviolet < X-rays. Based on the official answer key option layout, (D), (E), (B), (A), (C) is marked correct."
   },
   {
@@ -260,7 +260,7 @@
     "type": "mcq",
     "question": "The velocity of light in vacuum is 3 x 10^8 m/s. If the refractive index of glass is 1.5, what will be the velocity of light in glass?",
     "options": [
-      "4.5 x 10^8 m/s",
+      "5 x 10^8 m/s",
       "2 x 10^8 m/s",
       "3 x 10^8 m/s",
       "0 m/s"
@@ -327,7 +327,7 @@
     "options": [
       "1",
       "7",
-      "4.57",
+      "57",
       "32"
     ],
     "correct_answer": "32",
@@ -719,8 +719,8 @@
     "options": [
       "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
       "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
-      "(A) is correct but (R) is not correct.",
-      "(A) is not correct but (R) is correct."
+      "is correct but (R) is not correct.",
+      "is not correct but (R) is correct."
     ],
     "correct_answer": "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
     "explanation": "[CONCEPT]\nExpression vectors require the foundational replication properties of cloning vectors to propagate in host cells, in addition to transcription elements."
@@ -758,10 +758,10 @@
     "options": [
       "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
       "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
-      "(A) is correct but (R) is not correct.",
-      "(A) is not correct but (R) is correct."
+      "is correct but (R) is not correct.",
+      "is not correct but (R) is correct."
     ],
-    "correct_answer": "(A) is correct but (R) is not correct.",
+    "correct_answer": "is correct but (R) is not correct.",
     "explanation": "[CONCEPT]\nSpectrophotometry is governed by the Beer-Lambert Law, not Bragg's Law (which describes X-ray diffraction)."
   },
   {
@@ -806,7 +806,7 @@
   {
     "id": 59,
     "type": "match_following_mcq",
-    "question": "Match the analytical techniques in List I with their biological applications in List II:",
+    "question": "Match the analytical techniques in List I with their biological applications in\n\nList II:",
     "list_1": [
       "Surface Plasmon Resonance",
       "Iso-electric Focusing",
@@ -820,12 +820,12 @@
       "Protein-protein interaction"
     ],
     "options": [
-      "(a) A-iv, B-iii, C-i, D-ii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-ii, B-iv, C-i, D-iii",
-      "(d) A-iii, B-i, C-iv, D-ii"
+      "A-iv, B-iii, C-i, D-ii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-ii, B-iv, C-i, D-iii",
+      "A-iii, B-i, C-iv, D-ii"
     ],
-    "correct_answer": "(a) A-iv, B-iii, C-i, D-ii",
+    "correct_answer": "A-iv, B-iii, C-i, D-ii",
     "explanation": "[CONCEPT]\nSurface Plasmon Resonance detects molecular interactions in real-time. Isoelectric focusing sorts components of protein mixtures by charge. SSCP analyzes mobility variations due to single-stranded conformational differences. DGGE analyzes differential denaturing behaviors based on sequence stability."
   },
   {
@@ -834,7 +834,7 @@
     "question": "How much calcium chloride is required to make 40 mL of 0.02 M solution? Assume molecular weight of calcium chloride is 219:",
     "options": [
       "17.52 gm",
-      "1.752 mg",
+      "752 mg",
       "0.1752 gm",
       "0.1752 mg"
     ],
@@ -968,7 +968,7 @@
       "A sparger for mixing the contents.",
       "Differential densities for mixing purposes."
     ],
-    "correct_answer": "Both options 'Air bubbles for mixing the contents' and 'Differential densities for mixing purposes' are indicated as core features.",
+    "correct_answer": "Air bubbles for mixing the contents.",
     "explanation": "[CONCEPT]\nThe key principle relies on hydrostatic pressure/fluid density differentials between the riser and downcomer zones driven by gas introduction."
   },
   {
@@ -1029,8 +1029,8 @@
     "question": "A bioreactor of volume 1 m^3 is operated continuously under steady state with inlet substrate concentration of 10 Kg m^-3. The organism being cultivated has μm = 0.30 h^-1 and saturation constant (K_S) = 0.5 g l^-1. The feed flow rate required to achieve 90% conversion of the substrate will be:",
     "options": [
       "0.2 m^3.h^-1",
-      "2.0 m.h^-1",
-      "1.0 m^3.h^-1",
+      "0 m.h^-1",
+      "0 m^3.h^-1",
       "0.3 m^3.h^-1"
     ],
     "correct_answer": "0.2 m^3.h^-1",
@@ -1054,12 +1054,12 @@
     "type": "mcq",
     "question": "What is the mutation rate per generation for humans?",
     "options": [
-      "1.3 x 10^-36 per base pair",
-      "1.3 x 10^-4 per million base pair",
-      "1.3 x 10^-8 per base pair",
-      "1.3 x 10^-6 per base pair"
+      "3 x 10^-36 per base pair",
+      "3 x 10^-4 per million base pair",
+      "3 x 10^-8 per base pair",
+      "3 x 10^-6 per base pair"
     ],
-    "correct_answer": "1.3 x 10^-8 per base pair",
+    "correct_answer": "3 x 10^-8 per base pair",
     "explanation": "[CONCEPT]\nEmpirical genetic tracking confirms that the human germline point mutation rate falls around 1.1 to 1.3 x 10^-8 substitutions per site per generation."
   },
   {
@@ -1078,7 +1078,7 @@
   {
     "id": 79,
     "type": "match_following_mcq",
-    "question": "Match the genomic databases in List I with their descriptions in List II:",
+    "question": "Match the genomic databases in List I with their descriptions in\n\nList II:",
     "list_1": [
       "1000 Genomes",
       "GenBank",
@@ -1092,12 +1092,12 @@
       "Nucleic Acid sequence database"
     ],
     "options": [
-      "(a) A-ii, B-iv, C-i, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iii, B-i, C-iv, D-ii",
-      "(d) A-iv, B-iii, C-ii, D-i"
+      "A-ii, B-iv, C-i, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-iii, C-ii, D-i"
     ],
-    "correct_answer": "(a) A-ii, B-iv, C-i, D-iii",
+    "correct_answer": "A-ii, B-iv, C-i, D-iii",
     "explanation": "[CONCEPT]\nThe 1000 Genomes project tracks structural and nucleotide variations. GenBank is NCBI's primary genetic sequence ledger. Online Mendelian Inheritance in Man houses human genetic syndromes. UK Biobank combines massive population-scale phenotypic and genotyping metrics."
   },
   {
@@ -1129,14 +1129,14 @@
   {
     "id": 82,
     "type": "mcq",
-    "question": "While analyzing a multiple sequence alignment of homologous protease sequences the following was observed:\nThe 14th position was variable but always encoded by a hydrophobic amino acid.\nThe 17th position was conserved and was Serine in all the sequences.\nThe 29th position was variable but always encoded by an Aspartate or a Glutamate.\nThe 50th position was conserved and always encoded by a Phenylalanine.\nWhich statements do you think are consistent with the above observations?\nA. Residue 14th is a buried amino acid.\nB. 17th position may be part of the active site of the protein.\nC. 29th residue is a buried amino acid.\nD. 50th position is an exposed amino acid.",
+    "question": "While analyzing a multiple sequence alignment of homologous protease sequences the following was observed:\nThe 14th position was variable but always encoded by a hydrophobic amino acid.\nThe 17th position was conserved and was Serine in all the sequences.\nThe 29th position was variable but always encoded by an Aspartate or a Glutamate.\nThe 50th position was conserved and always encoded by a Phenylalanine.\nWhich statements do you think are consistent with the above observations?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>Residue 14th is a buried amino acid.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>17th position may be part of the active site of the protein.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>29th residue is a buried amino acid.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>50th position is an exposed amino acid.</span></div></div>",
     "options": [
-      "(A) and (B) only",
-      "(B) and (D) only",
-      "(A) and (D) only",
-      "(B) and (D) only"
+      "and (B) only",
+      "and (D) only",
+      "and (D) only",
+      "and (D) only"
     ],
-    "correct_answer": "(A) and (B) only",
+    "correct_answer": "and (B) only",
     "explanation": "[CONCEPT]\nHydrophobic constraints usually require a position to remain buried inside the core core to prevent solvent interaction. Serine conservation is indicative of a catalytic function or structural active-site configuration."
   },
   {
@@ -1168,14 +1168,14 @@
   {
     "id": 85,
     "type": "mcq",
-    "question": "Sometimes phi and psi angles can be used to construct the 3D structure of a protein. Which one of the following statements are true with respect to this process?\nA. The omega angle is required to model the final 3D structure.\nB. phi and psi are not sufficient to model the 3D positions of the side chain atoms.\nC. The allowed regions of Ramachandran Map is sufficient to model the 3D structure ab initio.\nD. phi and psi are sufficient to fix all main chain atoms except for Glycine which is achiral.",
+    "question": "Sometimes phi and psi angles can be used to construct the 3D structure of a protein. Which one of the following statements are true with respect to this process?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>The omega angle is required to model the final 3D structure.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>phi and psi are not sufficient to model the 3D positions of the side chain atoms.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The allowed regions of Ramachandran Map is sufficient to model the 3D structure ab initio.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>phi and psi are sufficient to fix all main chain atoms except for Glycine</span></div></div>\nwhich is achiral.",
     "options": [
-      "(A) and (B) only.",
-      "(B) and (C) only.",
-      "(B) and (D) only.",
-      "(C) and (D) only."
+      "and (B) only.",
+      "and (C) only.",
+      "and (D) only.",
+      "and (D) only."
     ],
-    "correct_answer": "(A) and (B) only.",
+    "correct_answer": "and (B) only.",
     "explanation": "[CONCEPT]\nThe omega angle defines the trans/cis peptide bond profile essential for chain reconstruction. Phi and psi specify backbone paths but leave side-chain rotamers unaddressed."
   },
   {
@@ -1220,14 +1220,14 @@
   {
     "id": 89,
     "type": "mcq",
-    "question": "After solving a protein structure by X-ray crystallography you found that a few residues are in the disallowed region of the Ramachandran Map. Which one of the following are plausible explanations for this observation?\nA. There may be errors in the structure of these residues.\nB. There may be side-chain interactions in those residues that off-set the disallowed cost.\nC. The protein may have a lot of Proline residues.\nD. The protein may NOT be in a proper folded state when it was crystallized.",
+    "question": "After solving a protein structure by X-ray crystallography you found that a few residues are in the disallowed region of the Ramachandran Map. Which one of the following are plausible explanations for this observation?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">A.</span><span>There may be errors in the structure of these residues.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">B.</span><span>There may be side-chain interactions in those residues that off-set the disallowed cost.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">C.</span><span>The protein may have a lot of Proline residues.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">D.</span><span>The protein may NOT be in a proper folded state when it was crystallized.</span></div></div>",
     "options": [
-      "(A) and (B) Only",
-      "(B) and (C) Only",
-      "(A) and (D) Only",
-      "(C) and (D) only"
+      "and (B) Only",
+      "and (C) Only",
+      "and (D) Only",
+      "and (D) only"
     ],
-    "correct_answer": "(A) and (B) Only",
+    "correct_answer": "and (B) Only",
     "explanation": "[CONCEPT]\nLocal steric strain can be stabilized by surrounding structural interactions, although unexpected values often suggest local refinement fitting errors."
   },
   {
@@ -1493,7 +1493,7 @@
   {
     "id": 110,
     "type": "match_following_mcq",
-    "question": "Match the medical conditions in List I with their causative protein defects in List II:",
+    "question": "Match the medical conditions in List I with their causative protein defects in\n\nList II:",
     "list_1": [
       "Cystic Fibrosis",
       "Lesch-Nyhan syndrome",
@@ -1507,12 +1507,12 @@
       "Adenosine Deaminase"
     ],
     "options": [
-      "(a) A-ii, B-i, C-iv, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-ii, B-i, C-iv, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-i, C-iv, D-iii",
+    "correct_answer": "A-ii, B-i, C-iv, D-iii",
     "explanation": "[CONCEPT]\nCystic fibrosis stems from defects in the CFTR chloride channel. Lesch-Nyhan syndrome is caused by an HGPRT deficiency. A primary form of SCID is caused by a lack of adenosine deaminase (ADA). Spinal muscular atrophy is caused by mutations in the SMN1 gene."
   },
   {
@@ -1574,8 +1574,8 @@
     "options": [
       "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
       "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
-      "(A) is correct but (R) is not correct.",
-      "(A) is not correct but (R) is correct."
+      "is correct but (R) is not correct.",
+      "is not correct but (R) is correct."
     ],
     "correct_answer": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A).",
     "explanation": "[CONCEPT]\nMycoplasma stains Gram-negative because it lacks a peptidoglycan cell wall entirely, meaning it cannot retain the crystal violet stain. The lack of teichoic acid is a secondary consequence of lacking a cell wall."
@@ -1834,10 +1834,10 @@
     "options": [
       "Both (A) and (R) are correct and (R) is the correct explanation of (A).",
       "Both (A) and (R) are correct (R) is NOT the correct explanation of (A).",
-      "(A) is correct but (R) is not correct.",
-      "(A) is not correct but (R) is correct."
+      "is correct but (R) is not correct.",
+      "is not correct but (R) is correct."
     ],
-    "correct_answer": "(A) is correct but (R) is not correct.",
+    "correct_answer": "is correct but (R) is not correct.",
     "explanation": "[CONCEPT]\nAssertion A is true (Ψ = Ψs + Ψp + Ψg). Reason R is false because xylem experiences negative pressure (tension) rather than positive turgor pressure to drive water uptake via transpiration pull."
   },
   {
@@ -1921,7 +1921,7 @@
   {
     "id": 142,
     "type": "match_following_mcq",
-    "question": "Match the enzymes in List I with their products in List II:",
+    "question": "Match the enzymes in List I with their products in\n\nList II:",
     "list_1": [
       "Penicillin Acylase",
       "Alkalase",
@@ -1935,12 +1935,12 @@
       "Aspartame"
     ],
     "options": [
-      "(a) A-ii, B-i, C-iv, D-iii",
-      "(b) A-i, B-ii, C-iii, D-iv",
-      "(c) A-iv, B-iii, C-ii, D-i",
-      "(d) A-iii, B-iv, C-i, D-ii"
+      "A-ii, B-i, C-iv, D-iii",
+      "A-i, B-ii, C-iii, D-iv",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-iv, C-i, D-ii"
     ],
-    "correct_answer": "(a) A-ii, B-i, C-iv, D-iii",
+    "correct_answer": "A-ii, B-i, C-iv, D-iii",
     "explanation": "[CONCEPT]\nPenicillin acylase hydrolyzes penicillin to form 6-aminopenicillanic acid (6-APA). Alkalase is a protease used to generate bioactive protein hydrolysates/peptides. Thermolysin synthesizes aspartame precursors. β-galactosidase hydrolyzes lactose to produce lactose-free dairy options."
   },
   {
@@ -1966,7 +1966,7 @@
       "Statement I is correct but Statement II is incorrect",
       "Statement I is incorrect but Statement II is correct"
     ],
-    "correct_answer": "Statement I is correct but Statement II is incorrect.",
+    "correct_answer": "Statement I is correct but Statement II is incorrect",
     "explanation": "[CONCEPT]\nStatement I is correct. Statement II is false because the mRNA is encapsulated inside lipid nanoparticles (LNPs) to prevent rapid degradation by extracellular RNAses, rather than being injected 'naked'."
   },
   {
@@ -2053,7 +2053,7 @@
     "question": "Which one of the following is the Del factor value for sterilizing a culture medium containing viable bacterial cells?",
     "options": [
       "14.1",
-      "4.2",
+      "2",
       "32.2",
       "16.1"
     ],
@@ -2148,7 +2148,7 @@
       "50",
       "100"
     ],
-    "correct_answer": "Based on official numerical key constraints, 10 is the mapped answer alternative.",
+    "correct_answer": "10",
     "explanation": "[CONCEPT]\nProductivity is 5 g/L/h over 10 hours, which yields 50 g/L of product. Given the substrate consumed is 10 g/L, the relative scaled metric yields 10."
   },
   {
@@ -2157,7 +2157,7 @@
     "question": "If the partitioning coefficient (K) of a solute is 20 when it is extracted by an organic solvent from a culture medium, what is the amount of solvent required per litre of culture medium to extract 90% of the solute in a single equilibrium stage?",
     "options": [
       "0.45 litre",
-      "4.5 litre",
+      "5 litre",
       "0.043 litre",
       "45 litre"
     ],

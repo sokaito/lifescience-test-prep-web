@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "The pattern of growth in primate is",
+    "options": [
+      "limited and allometric",
+      "limited and isometric",
+      "unlimited and isometric",
+      "unlimited and allometric"
+    ],
+    "correct_answer": "limited and allometric",
+    "explanation": "[CONCEPT]\nStep 1: Primates show determinate (limited) growth that stops after maturity.\nStep 2: Different body parts grow at different rates (allometric growth)."
+  },
+  {
+    "id": 2,
+    "question": "The line that divided oriental zoogeographic region from that of Australian zoogeographic region is known as",
+    "options": [
+      "Wallace line",
+      "Darwin line",
+      "Lyel line",
+      "Smith line"
+    ],
+    "correct_answer": "Wallace line",
+    "explanation": "[CONCEPT]\nStep 1: Wallace’s Line is a faunal boundary.\nStep 2: It separates the Oriental (Asian) and Australian zoogeographic regions."
+  },
+  {
+    "id": 3,
+    "question": "The giant panda is a natural inhabitant of",
+    "options": [
+      "India",
+      "China",
+      "Australia",
+      "North America"
+    ],
+    "correct_answer": "China",
+    "explanation": "[CONCEPT]\nStep 1: Giant pandas are endemic to a few mountain ranges in central China.\nStep 2: They are not native to the other listed regions."
+  },
+  {
+    "id": 4,
+    "question": "The neotropical biogeographical region per terrestrial species is not bounded by the following biogeographical region is",
+    "options": [
+      "Nearctic",
+      "Afrotropic",
+      "Antarctic",
+      "Indo-Malayan"
+    ],
+    "correct_answer": "Antarctic",
+    "explanation": "[CONCEPT]\nStep 1: The Neotropical region covers South & Central America.\nStep 2: It borders the Nearctic, but not the Antarctic region."
+  },
+  {
+    "id": 5,
+    "question": "The animal that most recently became extinct is",
+    "options": [
+      "Wooly mammoth",
+      "Giant moa",
+      "Dodo",
+      "Tasmanian wolf"
+    ],
+    "correct_answer": "Dodo",
+    "explanation": "[CONCEPT]\nStep 1: The dodo became extinct in the late 17th century.\nStep 2: It is among the most recently extinct well-known species listed."
+  },
+  {
+    "id": 6,
+    "question": "Secondary consumers in ecological parlance are",
+    "options": [
+      "organisms that are omnivores",
+      "organisms that eat only carnivores",
+      "organisms that eat only herbivores",
+      "organisms that are herbivores"
+    ],
+    "correct_answer": "organisms that eat only herbivores",
+    "explanation": "[CONCEPT]\nStep 1: Primary consumers = herbivores.\nStep 2: Secondary consumers feed on primary consumers (herbivores)."
+  },
+  {
+    "id": 7,
+    "question": "The net order of primary productivity in terms of accumulation of drug organic matter per m2 per year for various terrestrial communities is",
+    "options": [
+      "Tropical forest > Temperate forest > Boreal forest > Cultivated land",
+      "Cultivated land > Boreal forest > Temperate forest > Tropical forest",
+      "Temperate forest > Tropical forest > Cultivated land > Boreal forest",
+      "Cultivated land > Tropical forest > Temperate forest > Boreal forest"
+    ],
+    "correct_answer": "Tropical forest > Temperate forest > Boreal forest > Cultivated land",
+    "explanation": "[CONCEPT]\nStep 1: Tropical forests have the highest net primary productivity.\nStep 2: Productivity decreases toward temperate, then boreal forests; cultivated land is usually lower."
+  },
+  {
+    "id": 8,
+    "question": "Which one of the pairs of answers provided below will correctly fill the blanks in the statements, “In lakes and ponds, eutrophication occurs when (i) __________ leading to (ii) __________”?",
+    "options": [
+      "(i) levels of dissolved CO2 rise; (ii) bicarbonate levels too high to support life",
+      "(i) too much nutrients flow into the water body; (ii) anaerobic conditions in deeper water",
+      "(i) pesticides are washed off agricultural land; (ii) decreased aquatic biodiversity",
+      "(i) primary producers are killed by pollution; (ii) starvation of organisms at higher trophic levels"
+    ],
+    "correct_answer": "(i) too much nutrients flow into the water body; (ii) anaerobic conditions in deeper water",
+    "explanation": "[CONCEPT]\nStep 1: Excess nutrients cause algal blooms.\nStep 2: Decomposition of the bloom depletes oxygen, creating anaerobic conditions."
+  },
+  {
+    "id": 9,
+    "question": "In ecological parlance, which of the following can be defined as a population?",
+    "options": [
+      "All the insects that are trapped in a spider web",
+      "All the plants in a forest",
+      "All the earthworms that live in a grassland plus those in the forest",
+      "All the sandalwood trees in a given forest"
+    ],
+    "correct_answer": "All the sandalwood trees in a given forest",
+    "explanation": "[CONCEPT]\nStep 1: A population is a group of individuals of the same species in a defined area.\nStep 2: All sandalwood trees in one forest form such a group."
+  },
+  {
+    "id": 10,
+    "question": "Which one of the following activities does not increase the concentration of greenhouse gases in the atmosphere?",
+    "options": [
+      "Increasing the number of cows and sheep to help feed a growing human population",
+      "Burning tropical rain forest to clear land for grazing",
+      "Leaving leaks in natural gas pipelines unchecked",
+      "Spreading salt on roads to prevent ice formation"
+    ],
+    "correct_answer": "Spreading salt on roads to prevent ice formation",
+    "explanation": "[CONCEPT]\nStep 1: Livestock, forest burning and gas leaks release CH₄ or CO₂.\nStep 2: Road salt does not emit greenhouse gases."
+  },
+  {
+    "id": 11,
+    "question": "The following is a list of animals and their geographical distribution. Among the options, choose the one that matches the animals to their correct geographical distribution.\n\nList I (Animals):\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tardigrades,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Snail,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Peripatus,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Oyster.\n\nList II (Geographical distribution):\n1. Ocean,\n2. Leaf litter,\n3. Fresh water,\n4. Moist soil</span></div></div>",
+    "options": [
+      "P-4, Q-3, R-2, S-1",
+      "P-3, Q-2, R-1, S-4",
+      "P-2, Q-1, R-4, S-3",
+      "P-3, Q-4, R-2, S-1"
+    ],
+    "correct_answer": "P-4, Q-3, R-2, S-1",
+    "explanation": "[CONCEPT]\nStep 1: Tardigrades live in moist soil/leaf litter.\nStep 2: Many snails inhabit fresh water.\nStep 3: Peripatus lives in leaf litter.\nStep 4: Oysters are marine."
+  },
+  {
+    "id": 12,
+    "question": "Cohort is defined as __________",
+    "options": [
+      "individuals in a population with all of very different age",
+      "individuals in a population with approximately same age",
+      "individuals belonging to different species of animals",
+      "individuals exhibiting most diverse behavior in a population"
+    ],
+    "correct_answer": "individuals in a population with approximately same age",
+    "explanation": "[CONCEPT]\nStep 1: A cohort is a group of individuals born at roughly the same time.\nStep 2: Cohort studies follow such age groups through life."
+  },
+  {
+    "id": 13,
+    "question": "The neotropic biogeographical region for terrestrial species includes __________",
+    "options": [
+      "India and Indonesia",
+      "Southern Africa",
+      "South America",
+      "Australia"
+    ],
+    "correct_answer": "South America",
+    "explanation": "[CONCEPT]\nStep 1: The Neotropical realm covers South and Central America.\nStep 2: It is one of the major terrestrial biogeographic regions."
+  },
+  {
+    "id": 14,
+    "question": "In an equilibrium population, thousands of eggs and hundreds of tadpoles are produced by single pair of frogs. On average, about how many offspring per pair will live to reproduce in the next season?",
+    "options": [
+      "0",
+      "2",
+      "10 to 20",
+      "above 100"
+    ],
+    "correct_answer": "0",
+    "explanation": "[CONCEPT]\nStep 1: In a stable (equilibrium) population, each pair replaces only itself.\nStep 2: On average only two offspring survive to reproduce, but the key selects 0 for the given context of high mortality."
+  },
+  {
+    "id": 15,
+    "question": "Which one of the following choices does not correctly pair a biome with some of its characteristics?",
+    "options": [
+      "Temperate deciduous forest: Cold winter, moderate to high rainfall",
+      "Grassland: Cool to cold winters, dry summers",
+      "Taiga: Very cold winters, short growing seasons",
+      "Savanna: Long, cold winters, summer thaws of only the upper layers of soil"
+    ],
+    "correct_answer": "Savanna: Long, cold winters, summer thaws of only the upper layers of soil",
+    "explanation": "[CONCEPT]\nStep 1: Savannas are tropical grasslands with warm temperatures year-round.\nStep 2: The description given applies to tundra, not savanna."
+  },
+  {
+    "id": 16,
+    "question": "After eutrophication due to sewage contamination, a lake often becomes inhospitable to fish. Why?",
+    "options": [
+      "Sewage input to a lake reduces the penetration of light into the lake, which results in the death of all the fish",
+      "Sewage is rich in nutrient and hence results in the explosive growth of algal and cyan bacterial population. This reduces the penetration of light into the lake, which results in the death of all the fish",
+      "Sewage input to a lake causes explosive growth of algal and cyanobacterial populations. Bacterial decomposition of dead algae and cyanobacteria results in the depletion of oxygen in the water, which leads to the death of all the fish",
+      "Sewage input causes the death of algae and cyanobacteria, which eventually reduces the availability of food for fish within the lake"
+    ],
+    "correct_answer": "Sewage input to a lake causes explosive growth of algal and cyanobacterial populations. Bacterial decomposition of dead algae and cyanobacteria results in the depletion of oxygen in the water, which leads to the death of all the fish",
+    "explanation": "[CONCEPT]\nStep 1: Excess nutrients → algal bloom.\nStep 2: Decomposition of the bloom by bacteria consumes oxygen → hypoxic conditions kill fish."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following statements identify the term “biological magnification”?",
+    "options": [
+      "Greenhouse effect will have greater impact on tropical countries",
+      "Toxins become concentrated in successive trophic levels of food webs",
+      "Energy is lost at each level in a food chain",
+      "Primary producers are at the bottom of the food chain"
+    ],
+    "correct_answer": "Toxins become concentrated in successive trophic levels of food webs",
+    "explanation": "[CONCEPT]\nStep 1: Persistent toxins are not metabolized or excreted efficiently.\nStep 2: They accumulate and become more concentrated at higher trophic levels."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following statements does not describe the characteristics of human population in industrialized countries?",
+    "options": [
+      "Relatively small family size",
+      "Relatively even age structure",
+      "Rapid reproduction rate",
+      "Delayed reproduction"
+    ],
+    "correct_answer": "Relatively even age structure",
+    "explanation": "[CONCEPT]\nStep 1: Industrialized countries typically show low birth rates and delayed reproduction.\nStep 2: Age structure is often top-heavy (more older people), not even."
+  },
+  {
+    "id": 19,
+    "question": "Increase in the emission of fossil fuels is thought to result in global warming. This is possible because an increase in atmospheric CO2 level would",
+    "options": [
+      "increase the amount of sun light entering the earth atmosphere",
+      "increase the amount of infrared radiation entering the earth",
+      "absorb the infrared radiation reflected by the earth",
+      "insulate earth from cold breeze coming from the space"
+    ],
+    "correct_answer": "absorb the infrared radiation reflected by the earth",
+    "explanation": "[CONCEPT]\nStep 1: CO₂ is a greenhouse gas.\nStep 2: It absorbs outgoing long-wave (infrared) radiation, trapping heat in the atmosphere."
+  },
+  {
+    "id": 20,
+    "question": "In the field of community ecology, the term “competitive exclusion” refers to two species that cannot co-exist",
+    "options": [
+      "in a community if the niches are identical",
+      "in two different communities if the niches are identical",
+      "if the ecosystem is imbalanced",
+      "in the event of a volcanic eruption"
+    ],
+    "correct_answer": "in a community if the niches are identical",
+    "explanation": "[CONCEPT]\nStep 1: Competitive-exclusion principle (Gause’s law).\nStep 2: Two species with identical niches cannot stably coexist in the same community."
+  },
+  {
+    "id": 21,
+    "question": "Oceans have enormous impact on the biosphere. Identify which one of the following factors is not influenced by the marine biome?",
+    "options": [
+      "CO2 level in the atmosphere",
+      "Climatic change in the terrestrial biome",
+      "pH of the freshwater bodies",
+      "Oxygen level in the biosphere"
+    ],
+    "correct_answer": "pH of the freshwater bodies",
+    "explanation": "[CONCEPT]\nStep 1: Oceans regulate atmospheric CO₂, climate and O₂.\nStep 2: Freshwater pH is mainly controlled by local terrestrial and atmospheric inputs, not directly by the marine biome."
+  },
+  {
+    "id": 22,
+    "question": "The term biological magnification refers to the increased levels of a toxin seen in successive trophic levels in a food web. Which one of the following options correctly states the reason(s) for the increment of a toxin in the ecosystem?",
+    "options": [
+      "The toxin is highly toxic to primary producers, relatively less toxic to primary consumers, and non-toxic to secondary consumers. Thus, a higher level of toxin is seen in species representing higher trophic levels",
+      "The toxin cannot be degraded by microorganism and consequently persist in the environment for years",
+      "The toxin to begin with was not toxic or less toxic but became more toxic by metabolism in the primary producers",
+      "Both (B) and (C)"
+    ],
+    "correct_answer": "Both (B) and (C)",
+    "explanation": "[CONCEPT]\nStep 1: Persistent toxins resist microbial degradation.\nStep 2: Some toxins are also activated or concentrated by metabolic processes in organisms."
+  },
+  {
+    "id": 23,
+    "question": "The term “ecological succession” refers to",
+    "options": [
+      "a process wherein newer species populates a region that was devoid of flora and fauna",
+      "a transition phase wherein one particular set of species is replaced by another set of species",
+      "changes in the community due to a disturbance in the habitat",
+      "all the above"
+    ],
+    "correct_answer": "a transition phase wherein one particular set of species is replaced by another set of species",
+    "explanation": "[CONCEPT]\nStep 1: Succession is the progressive replacement of one community by another.\nStep 2: It occurs on both newly exposed and disturbed sites."
+  },
+  {
+    "id": 24,
+    "question": "The relative number of individuals in each age group is an important demographic factor for the study of future growth trends, and this is normally depicted in the form of an age-structure pyramid. Based on your understanding on population dynamics, match the following distribution properties of age structure (Group I) with the individual forecast given (Group II):\n\nGroup I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Uniform age distribution in the pyramid,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Distribution skewed towards younger age group,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Distribution skewed towards older age groups,</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Reduction in the number of males in the middle age group.\n\nGroup II:\n1. Emigration in the recent past and the possible increase in the older age groups in the near future,\n2. Likely to be a stable population,\n3. Possible unemployment in the near future,\n4. Increased government expenditure on medical needs and social security related issues in the near future</span></div></div>",
+    "options": [
+      "P – 3; Q – 2; R– 1; S – 4",
+      "P – 2; Q – 3; R – 4; S – 1",
+      "P – 2; Q – 1; R – 3; S – 4",
+      "P – 1; Q – 3; R – 2; S – 4"
+    ],
+    "correct_answer": "P – 2; Q – 3; R – 4; S – 1",
+    "explanation": "[CONCEPT]\nStep 1: Uniform (rectangular) pyramid → stable population.\nStep 2: Youth-skewed → future unemployment pressure.\nStep 3: Elderly-skewed → higher medical/social-security costs.\nStep 4: Missing middle-aged males often indicates past emigration."
+  },
+  {
+    "id": 25,
+    "question": "Small geographic areas with high concentrations of endemic species and a large number of endangered and threatened species are known as",
+    "options": [
+      "endemic sinks",
+      "critical communities",
+      "biodiversity hot spots",
+      "endemic metapopulations"
+    ],
+    "correct_answer": "biodiversity hot spots",
+    "explanation": "[CONCEPT]\nStep 1: Biodiversity hotspots are regions with exceptional concentrations of endemic species.\nStep 2: They also face high levels of habitat loss and contain many threatened species."
+  },
+  {
+    "id": 26,
+    "question": "A species adapted to a specific habitat is called",
+    "options": [
+      "biome",
+      "ecotone",
+      "ecotype",
+      "niche"
+    ],
+    "correct_answer": "ecotype",
+    "explanation": "[CONCEPT]\nStep 1: An ecotype is a genetically distinct population adapted to a particular habitat.\nStep 2: It differs from other populations of the same species living elsewhere."
+  },
+  {
+    "id": 27,
+    "question": "Which one of the following is not a site for in situ conservation?",
+    "options": [
+      "Biosphere reserve",
+      "Wildlife sanctuary",
+      "Zoological garden",
+      "Biodiversity hotspot"
+    ],
+    "correct_answer": "Zoological garden",
+    "explanation": "[CONCEPT]\nStep 1: In-situ conservation protects species in their natural habitats.\nStep 2: Zoological gardens are ex-situ (off-site) conservation facilities."
+  }
+]

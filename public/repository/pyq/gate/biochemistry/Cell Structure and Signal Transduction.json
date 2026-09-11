@@ -1,0 +1,878 @@
+[
+  {
+    "id": 1,
+    "question": "The photo-isomerization of which chromophore from 11-cis to all-trans conformation triggered by light is the primary photochemical event in vertebrate visual excitation?",
+    "options": [
+      "Retinol",
+      "All-trans retinal",
+      "11-cis retinal (bound to opsin as rhodopsin)",
+      "Retinoic acid"
+    ],
+    "correct_answer": "11-cis retinal (bound to opsin as rhodopsin)",
+    "explanation": "[CONCEPT]\nStep 1: In retinal rod cells, 11-cis retinal is covalently linked via a Schiff base to Lys296 of opsin.\nStep 2: Absorption of a photon isomerizes 11-cis retinal to all-trans retinal, triggering activating conformational changes in rhodopsin (Metarhodopsin II)."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following statements regarding biological membranes is not true?",
+    "options": [
+      "They contain carbohydrates covalently linked to glycoproteins and glycolipids.",
+      "They are large sheet-like structures with closed boundaries forming vesicular compartments.",
+      "They are completely symmetric because of the symmetric nature of lipid bilayers.",
+      "They contain specific integral and peripheral proteins that mediate distinctive transport and signaling functions."
+    ],
+    "correct_answer": "They are completely symmetric because of the symmetric nature of lipid bilayers.",
+    "explanation": "[CONCEPT]\nStep 1: Biological membranes are fundamentally asymmetric; phospholipids (e.g. phosphatidylserine and phosphatidylethanolamine on inner leaflet vs phosphatidylcholine and sphingomyelin on outer leaflet), glycolipids, and glycoproteins are distributed unevenly."
+  },
+  {
+    "id": 3,
+    "question": "In the peptidoglycan (murein) polymer of bacterial cell walls, the alternating glycan strands of N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM) are linked by",
+    "options": [
+      "α(1→4) glycosidic bonds",
+      "β(1→4) glycosidic bonds",
+      "α(1→6) glycosidic bonds",
+      "β(1→3) glycosidic bonds"
+    ],
+    "correct_answer": "β(1→4) glycosidic bonds",
+    "explanation": "[CONCEPT]\nStep 1: Bacterial peptidoglycan backbone consists of repeating disaccharide units of NAM and NAG connected by lysozyme-sensitive β(1→4) glycosidic bonds."
+  },
+  {
+    "id": 4,
+    "question": "In which of the following cellular membrane trafficking processes does the inner (luminal) surface of a transport vesicle become the outer (extracellular) surface of the plasma membrane?",
+    "options": [
+      "Fusion of two intracellular lysosomes",
+      "Transfer of ER membrane into Golgi via COPII vesicles",
+      "Exocytosis of a secretory vesicle",
+      "Binary fission of a bacterial cell"
+    ],
+    "correct_answer": "Exocytosis of a secretory vesicle",
+    "explanation": "[CONCEPT]\nStep 1: During exocytosis, the vesicle membrane fuses with the plasma membrane such that the vesicle's luminal surface faces the extracellular space."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following hormones utilizes cyclic AMP (cAMP) as its intracellular second messenger upon binding its cell surface G-protein coupled receptor?",
+    "options": [
+      "Follicle stimulating hormone (FSH)",
+      "Insulin (Receptor Tyrosine Kinase)",
+      "Progesterone (Nuclear Receptor)",
+      "Gonadotropin releasing hormone (GnRH / IP₃-DAG)"
+    ],
+    "correct_answer": "Follicle stimulating hormone (FSH)",
+    "explanation": "[CONCEPT]\nStep 1: FSH binds Gs-coupled receptors, stimulating adenylate cyclase to elevate intracellular cAMP and activate PKA."
+  },
+  {
+    "id": 6,
+    "question": "In liver and muscle metabolic regulation, an elevation in intracellular cyclic AMP (cAMP) activates all except which one of the following enzymes?",
+    "options": [
+      "Glycogen phosphorylase (via Phosphorylase kinase)",
+      "Hexokinase (activated by Mg²⁺ / glucose)",
+      "Protein kinase A (PKA)",
+      "Hormone-sensitive lipase"
+    ],
+    "correct_answer": "Hexokinase (activated by Mg²⁺ / glucose)",
+    "explanation": "[CONCEPT]\nStep 1: cAMP directly activates Protein Kinase A (PKA), which in turn activates phosphorylase kinase and glycogen phosphorylase.\nStep 2: Hexokinase is not regulated by cAMP cascades."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statements is correct regarding glycoproteins?",
+    "options": [
+      "They always contain 95% or more carbohydrate by mass.",
+      "The carbohydrate moieties are linked to the polypeptide backbone via either N-glycosidic (to Asn) or O-glycosidic (to Ser/Thr) bonds.",
+      "They are found exclusively on plasma membranes.",
+      "They always contain serially repeating identical disaccharide units."
+    ],
+    "correct_answer": "The carbohydrate moieties are linked to the polypeptide backbone via either N-glycosidic (to Asn) or O-glycosidic (to Ser/Thr) bonds.",
+    "explanation": "[CONCEPT]\nStep 1: Glycoproteins feature branched heterooligosaccharides attached via N-glycosidic bonds (Asn-X-Ser/Thr) or O-glycosidic bonds (Ser/Thr)."
+  },
+  {
+    "id": 8,
+    "question": "Membrane phospholipids are involved in all of the following biological functions except",
+    "options": [
+      "Genetic replication and transcription catalysis",
+      "Signal transduction (PIP₂ → IP₃ + DAG)",
+      "Pulmonary surfactant function (Dipalmitoylphosphatidylcholine)",
+      "Mediator of hypersensitivity and platelet activation (PAF)"
+    ],
+    "correct_answer": "Genetic replication and transcription catalysis",
+    "explanation": "[CONCEPT]\nStep 1: Genetic replication and transcription are carried out by protein polymerases and nucleic acids, not structural/signaling phospholipids."
+  },
+  {
+    "id": 9,
+    "question": "Receptors for lipophilic steroid hormones (e.g. estrogen, progesterone, cortisol) are primarily located",
+    "options": [
+      "on the extracellular plasma membrane surface.",
+      "in the cytoplasm and nucleus (Intracellular nuclear receptors).",
+      "inside the inner mitochondrial matrix.",
+      "on ribosomal 60S subunits."
+    ],
+    "correct_answer": "in the cytoplasm and nucleus (Intracellular nuclear receptors).",
+    "explanation": "[CONCEPT]\nStep 1: Hydrophobic steroid hormones readily diffuse across lipid bilayers to bind soluble cytoplasmic or nuclear receptors, which dimerize and translocate to DNA to regulate transcription."
+  },
+  {
+    "id": 10,
+    "question": "Match the biological process / molecule in Column I with its counterpart in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Apoptosis</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>T-cell receptor complex</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>5-Hydroxytryptamine (Serotonin)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>β-Adrenergic receptor\nT. Colchicine\n\nColumn II:\n1. CD3 complex\n2. Caspases\n3. Adenylate cyclase activation (Gs)\n4. Mitotic spindle / Tubulin inhibitor\n5. Monoamine neurotransmitter</span></div></div>",
+    "options": [
+      "P – 1; Q – 5; R – 6; S – 7; T – 2",
+      "P – 2; Q – 1; R – 5; S – 3; T – 4",
+      "P – 3; Q – 2; R – 5; S – 6; T – 7",
+      "P – 2; Q – 5; R – 1; S – 4; T – 3"
+    ],
+    "correct_answer": "P – 2; Q – 1; R – 5; S – 3; T – 4",
+    "explanation": "[CONCEPT]\nStep 1: Apoptosis: Executed by Caspases (P–2).\nStep 2: TCR: Associated with CD3 complex (Q–1).\nStep 3: 5-HT: Neurotransmitter (R–5).\nStep 4: β-Adrenergic: Couples to Adenylate cyclase (S–3).\nStep 5: Colchicine: Microtubule polymerization inhibitor (T–4)."
+  },
+  {
+    "id": 11,
+    "question": "The correct decreasing order of permeability coefficient (P_m) across a pure synthetic protein-free lipid bilayer for O₂, Isoleucine, Tyrosine, and Na⁺ is",
+    "options": [
+      "O₂ > Na⁺ > Isoleucine > Tyrosine",
+      "O₂ > Isoleucine > Tyrosine > Na⁺",
+      "Isoleucine > Tyrosine > O₂ > Na⁺",
+      "Isoleucine > Tyrosine > Na⁺ > O₂"
+    ],
+    "correct_answer": "O₂ > Isoleucine > Tyrosine > Na⁺",
+    "explanation": "[CONCEPT]\nStep 1: Small non-polar gases (O₂) permeate fastest (~10⁻¹ cm/s).\nStep 2: Hydrophobic amino acids (Isoleucine) permeate faster than polar aromatic (Tyrosine).\nStep 3: Hydrated inorganic ions (Na⁺) have the lowest permeability (~10⁻¹² cm/s) due to their high charge density."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following statements correctly describes progesterone?",
+    "options": [
+      "Progesterone is synthesized in the corpus luteum and placenta; it prepares and maintains the uterine endometrium for pregnancy.",
+      "Progesterone is synthesized in the ovary and is responsible for female secondary sex characters.",
+      "Progesterone is synthesized in the adrenal cortex and promotes gluconeogenesis.",
+      "Progesterone is synthesized in testis and is responsible for male secondary sex characters."
+    ],
+    "correct_answer": "Progesterone is synthesized in the corpus luteum and placenta; it prepares and maintains the uterine endometrium for pregnancy.",
+    "explanation": "[CONCEPT]\nStep 1: Progesterone is a C21 progestogen secreted by the corpus luteum (and placenta) to transform proliferative endometrium into secretory state and suppress uterine contractions."
+  },
+  {
+    "id": 13,
+    "question": "Which statement regarding plasma lipoproteins (Chylomicrons, VLDL, IDL, LDL, HDL) is true?",
+    "options": [
+      "Molecular mass of lipoproteins is directly proportional to their density.",
+      "Percent protein content increases with increasing molecular size.",
+      "Density of a lipoprotein decreases as protein content increases.",
+      "Molecular mass of lipoproteins is inversely proportional to their density (HDL is smallest and densest; Chylomicrons are largest and least dense)."
+    ],
+    "correct_answer": "Molecular mass of lipoproteins is inversely proportional to their density (HDL is smallest and densest; Chylomicrons are largest and least dense).",
+    "explanation": "[CONCEPT]\nStep 1: Lipids (density < 1.0 g/cm³) lower density; proteins (density ~ 1.35 g/cm³) increase density.\nStep 2: Chylomicrons (largest mass, 98% lipid) have lowest density (<0.95 g/mL), while HDL (smallest, 50% protein) has highest density (1.06–1.21 g/mL)."
+  },
+  {
+    "id": 14,
+    "question": "The most abundant chemical element by percentage of total body mass in living mammalian organisms is",
+    "options": [
+      "Hydrogen",
+      "Oxygen (~65% of body weight)",
+      "Nitrogen",
+      "Carbon (~18%)"
+    ],
+    "correct_answer": "Oxygen (~65% of body weight)",
+    "explanation": "[CONCEPT]\nStep 1: Because water (H₂O, 88.8% oxygen by mass) makes up ~60–70% of mammalian body weight, Oxygen comprises approximately 65% of total human body mass."
+  },
+  {
+    "id": 15,
+    "question": "Mammalian erythrocytes withstand extreme mechanical shearing stress during microcapillary transit due to a flexible 2D hexagonal sub-membrane cytoskeletal meshwork composed primarily of",
+    "options": [
+      "glycophorin A.",
+      "spectrin (forming tetrameric filaments crosslinked by actin and protein 4.1).",
+      "hemoglobin.",
+      "myoglobin."
+    ],
+    "correct_answer": "spectrin (forming tetrameric filaments crosslinked by actin and protein 4.1).",
+    "explanation": "[CONCEPT]\nStep 1: Erythrocyte membrane elasticity relies on the (αβ)₂ spectrin tetramer network anchored to transmembrane proteins via ankyrin (Band 3) and protein 4.1 (Glycophorin)."
+  },
+  {
+    "id": 16,
+    "question": "Tetrodotoxin (TTX), a lethal neurotoxin found in puffer fish and blue-ringed octopus, blocks nerve action potential propagation by specifically occluding",
+    "options": [
+      "voltage-gated Na⁺ channels.",
+      "voltage-gated K⁺ channels.",
+      "voltage-gated Cl⁻ channels.",
+      "voltage-gated Ca²⁺ channels."
+    ],
+    "correct_answer": "voltage-gated Na⁺ channels.",
+    "explanation": "[CONCEPT]\nStep 1: Tetrodotoxin binds with nanomolar affinity to the outer vestibule pore of voltage-gated Na⁺ channels (Nav), preventing inward Na⁺ current and firing of action potentials."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following treatments will fail to extract integral transmembrane proteins from isolated plasma membranes?",
+    "options": [
+      "High concentration of Sodium chloride (1.0 M NaCl) or high pH buffer",
+      "Triton X-100 (Non-ionic detergent)",
+      "Sodium dodecyl sulfate (SDS, Ionic detergent)",
+      "Nonidet P-40 (NP-40)"
+    ],
+    "correct_answer": "High concentration of Sodium chloride (1.0 M NaCl) or high pH buffer",
+    "explanation": "[CONCEPT]\nStep 1: High salt or high pH disrupts electrostatic bonds, eluting only peripheral membrane proteins.\nStep 2: Integral proteins are embedded in the hydrophobic core and require amphipathic detergents (Triton X-100, SDS, NP-40) to solubilize."
+  },
+  {
+    "id": 18,
+    "question": "Oncogenic Ras mutants (e.g. Ras G12V or Q61L) found in human cancers transform normal cells by locking Ras in a constitutively active GTP-bound state due to",
+    "options": [
+      "diminished intrinsic and GAP-stimulated GTPase catalytic activity.",
+      "increased GTPase activity.",
+      "diminished ATPase activity.",
+      "increased ATPase activity."
+    ],
+    "correct_answer": "diminished intrinsic and GAP-stimulated GTPase catalytic activity.",
+    "explanation": "[CONCEPT]\nStep 1: Oncogenic point mutations impair GTP hydrolysis, preventing Ras from converting back to the inactive GDP-bound state and causing relentless downstream MAPK proliferation signaling."
+  },
+  {
+    "id": 19,
+    "question": "Choose the group containing exclusively peptide / polypeptide hormones:",
+    "options": [
+      "Vasopressin, Oxytocin, Epinephrine",
+      "Vasopressin, Testosterone, Glucagon",
+      "Oxytocin, Vasopressin, Thyroxine",
+      "Oxytocin, Vasopressin, Somatostatin (and Glucagon, Insulin)"
+    ],
+    "correct_answer": "Oxytocin, Vasopressin, Somatostatin (and Glucagon, Insulin)",
+    "explanation": "[CONCEPT]\nStep 1: Oxytocin (9 aa), Vasopressin (9 aa), and Somatostatin (14 aa) are pure peptide hormones.\nStep 2: Epinephrine and Thyroxine are amino acid derivatives; Testosterone is a steroid."
+  },
+  {
+    "id": 20,
+    "question": "The biosynthesis of membrane phospholipids, cholesterol, and steroid hormones in eukaryotic cells occurs predominantly in the",
+    "options": [
+      "mitochondrial matrix.",
+      "lysosomes.",
+      "smooth endoplasmic reticulum (SER).",
+      "Golgi apparatus."
+    ],
+    "correct_answer": "smooth endoplasmic reticulum (SER).",
+    "explanation": "[CONCEPT]\nStep 1: The Smooth ER contains membrane-bound enzymes for fatty acid elongation, phospholipid synthesis, and cytochrome P450 steroidogenesis."
+  },
+  {
+    "id": 21,
+    "question": "The most potent, biologically active androgen in target tissues (e.g. prostate gland, hair follicles) formed by 5α-reduction of testosterone is",
+    "options": [
+      "5α-Dihydrotestosterone (DHT)",
+      "Dehydro-testosterone",
+      "Dihydroxy testosterone",
+      "Dehydroepiandrosterone (DHEA)"
+    ],
+    "correct_answer": "5α-Dihydrotestosterone (DHT)",
+    "explanation": "[CONCEPT]\nStep 1: 5α-Reductase converts testosterone into 5α-dihydrotestosterone (DHT), which binds androgen receptors with 2- to 5-fold higher affinity."
+  },
+  {
+    "id": 22,
+    "question": "An untreated type 1 diabetes mellitus patient excretes large quantities of glucose in the urine (glucosuria) even when kept on a strict carbohydrate-free diet. This is because",
+    "options": [
+      "fatty acids are converted into glucose.",
+      "glucogenic amino acids derived from muscle proteolysis are catabolized in the liver to synthesize glucose via uninhibited gluconeogenesis.",
+      "increased cellular uptake of glucose occurs.",
+      "glycogen synthesis is accelerated."
+    ],
+    "correct_answer": "glucogenic amino acids derived from muscle proteolysis are catabolized in the liver to synthesize glucose via uninhibited gluconeogenesis.",
+    "explanation": "[CONCEPT]\nStep 1: Lack of insulin and elevated glucagon trigger massive muscle protein breakdown, providing glucogenic amino acids (alanine, glutamine) for hepatic gluconeogenesis."
+  },
+  {
+    "id": 23,
+    "question": "Although the electrochemical gradient favors spontaneous entry of Na⁺ ([Na⁺]_out = 143 mM, [Na⁺]_in = 15 mM, V_m = −70 mV), Na⁺ cannot cross the hydrophobic lipid bilayer directly. Inward passive transport of Na⁺ is mediated by",
+    "options": [
+      "facilitated diffusion through selective Na⁺ channels / uniporters.",
+      "exocytosis.",
+      "active transport via Na⁺-K⁺ pump.",
+      "simple non-specific diffusion."
+    ],
+    "correct_answer": "facilitated diffusion through selective Na⁺ channels / uniporters.",
+    "explanation": "[CONCEPT]\nStep 1: Selective ion channels (voltage-gated or epithelial Na⁺ channels) allow rapid downhill movement of Na⁺ down its electrochemical gradient without metabolic energy consumption (Facilitated Diffusion)."
+  },
+  {
+    "id": 24,
+    "question": "Diisopropylfluorophosphate (DIPF / DFP), an irreversible organophosphorus inhibitor of acetylcholinesterase and serine proteases, acts by",
+    "options": [
+      "modifying a catalytic histidine residue.",
+      "covalently phosphorylating the active-site catalytic serine hydroxyl (–OH) group.",
+      "inducing allosteric subunit dissociation.",
+      "chelating active-site zinc."
+    ],
+    "correct_answer": "covalently phosphorylating the active-site catalytic serine hydroxyl (–OH) group.",
+    "explanation": "[CONCEPT]\nStep 1: DIPF reacts specifically with the nucleophilic catalytic Ser residue of acetylcholinesterase, forming a stable covalent diisopropylphosphate ester and irreversibly inactivating the enzyme."
+  },
+  {
+    "id": 25,
+    "question": "Based on its potent, irreversible inhibition of acetylcholinesterase leading to acetylcholine accumulation, persistent muscle depolarization, and respiratory paralysis, DIPF is classified as a",
+    "options": [
+      "therapeutic agent to treat Alzheimer's.",
+      "potent organophosphate nerve gas / neurotoxin.",
+      "nicotinic acetylcholine agonist.",
+      "reagent to determine C-terminal residues."
+    ],
+    "correct_answer": "potent organophosphate nerve gas / neurotoxin.",
+    "explanation": "[CONCEPT]\nStep 1: DIPF (and related sarin/tabun compounds) are chemical warfare nerve agents that cause lethal cholinergic toxidrome by blocking ACh degradation."
+  },
+  {
+    "id": 26,
+    "question": "According to Mitchell's chemiosmotic hypothesis, what drives the synthesis of ATP by mitochondrial F₀F₁-ATP synthase?",
+    "options": [
+      "The electrical membrane potential (Δψ) alone.",
+      "The total proton motive force (pmf = Δψ − 59ΔpH) comprising both the electrical potential and transmembrane pH gradient across the inner membrane.",
+      "Direct substrate-level transfer of phosphate.",
+      "Conformational relaxation without ion movement."
+    ],
+    "correct_answer": "The total proton motive force (pmf = Δψ − 59ΔpH) comprising both the electrical potential and transmembrane pH gradient across the inner membrane.",
+    "explanation": "[CONCEPT]\nStep 1: The proton motive force across the mitochondrial inner membrane consists of two thermodynamic components: the electrical membrane potential (Δψ ≈ 160–180 mV, inside negative) and chemical proton gradient (ΔpH ≈ 0.5–1.0 unit)."
+  },
+  {
+    "id": 27,
+    "question": "Binding of glucagon or epinephrine to their cell surface 7-transmembrane G-protein coupled receptors activates Gsα, stimulating adenylate cyclase to generate which second messenger?",
+    "options": [
+      "Calcium (Ca²⁺)",
+      "cGMP",
+      "Phosphatidylinositol",
+      "cAMP (cyclic 3′,5′-adenosine monophosphate)"
+    ],
+    "correct_answer": "cAMP (cyclic 3′,5′-adenosine monophosphate)",
+    "explanation": "[CONCEPT]\nStep 1: Gsα-GTP activates adenylate cyclase: ATP → cAMP + PPi.\nStep 2: cAMP acts as the intracellular second messenger."
+  },
+  {
+    "id": 28,
+    "question": "Intracellular cyclic AMP (cAMP) directly binds to the regulatory subunits of which downstream protein kinase, releasing its active catalytic subunits?",
+    "options": [
+      "Protein kinase A (PKA / cAMP-dependent protein kinase)",
+      "Protein kinase C (PKC)",
+      "Phospholipase C",
+      "Protein phosphatase 2A"
+    ],
+    "correct_answer": "Protein kinase A (PKA / cAMP-dependent protein kinase)",
+    "explanation": "[CONCEPT]\nStep 1: PKA is an inactive R₂C₂ tetramer. Binding of 4 cAMP molecules to the two R regulatory subunits induces conformational dissociation, releasing two active catalytic (C) kinase subunits."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following hormones binds to an extracellular cell surface receptor (Receptor Tyrosine Kinase) rather than an intracellular nuclear receptor?",
+    "options": [
+      "Estrogen",
+      "Thyroid hormone (T₃/T₄)",
+      "Insulin",
+      "Aldosterone"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "[CONCEPT]\nStep 1: Insulin is a hydrophilic peptide hormone that binds the extracellular α-subunits of the cell-surface insulin receptor tyrosine kinase.\nStep 2: Estrogen, thyroid hormone, and aldosterone bind intracellular nuclear receptors."
+  },
+  {
+    "id": 30,
+    "question": "Match the biological function in Column I with the signaling enzyme in\n\nColumn II:\n\nColumn I:\nP. Diacylglycerol (DAG) and IP₃ synthesis\nQ. CREB transcription factor phosphorylation\nR. Intrinsic GTP hydrolysis\n\nColumn II:\n1. Protein kinase A (PKA)\n2. Ras / Small G-protein\n3. Phospholipase C (PLC)\n4. Phospholipase D",
+    "options": [
+      "P – 3; Q – 1; R – 5",
+      "P – 4; Q – 1; R – 2",
+      "P – 3; Q – 1; R – 2",
+      "P – 3; Q – 5; R – 2"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 2",
+    "explanation": "[CONCEPT]\nStep 1: Phospholipase C cleaves PIP₂ into DAG and IP₃ (P–3).\nStep 2: PKA phosphorylates CREB at Ser133 (Q–1).\nStep 3: Ras hydrolyzes GTP to GDP (R–2)."
+  },
+  {
+    "id": 31,
+    "question": "In mammalian cell lines expressing either EGFR alone (Line A) or EGFR + Ras (Line B) stimulated with EGF, EGF-dependent tyrosine phosphorylation will be detected in",
+    "options": [
+      "membrane and cytosolic fractions of both cell lines.",
+      "only the membrane fraction of cell line A.",
+      "only the membrane fraction of both cell lines (Line A and Line B).",
+      "only the cytosolic fractions of both cell lines."
+    ],
+    "correct_answer": "only the membrane fraction of both cell lines (Line A and Line B).",
+    "explanation": "[CONCEPT]\nStep 1: EGFR is a plasma membrane receptor tyrosine kinase that undergoes ligand-induced dimerization and autophosphorylation on its cytoplasmic tyrosine residues in the membrane fraction of both cell lines."
+  },
+  {
+    "id": 32,
+    "question": "In the same experiment, EGF-dependent downstream serine/threonine phosphorylation (activation of membrane-recruited Raf kinase) will be detected in",
+    "options": [
+      "membrane and cytosolic fractions of both cell lines.",
+      "only the membrane fraction of cell line A.",
+      "only the membrane fraction of cell line B (which expresses membrane-anchored Ras to recruit and activate Raf).",
+      "only the cytosolic fraction of cell line A."
+    ],
+    "correct_answer": "only the membrane fraction of cell line B (which expresses membrane-anchored Ras to recruit and activate Raf).",
+    "explanation": "[CONCEPT]\nStep 1: Ras is farnesylated and anchored to the plasma membrane. It recruits cytoplasmic Raf-1 serine/threonine kinase to the membrane of Cell Line B for activation."
+  },
+  {
+    "id": 33,
+    "question": "Match the DNA-binding structural motifs in Column I with the representative regulatory proteins in\n\nColumn II:\n\nColumn I:\nP. Zinc finger\nQ. Leucine zipper (bZIP)\nR. Helix-turn-helix (HTH)\n\nColumn II:\n1. c-Jun / c-Fos (AP-1)\n2. Glucocorticoid receptor (Nuclear receptor)\n3. Histone H1\n4. Lambda repressor (cI / Cro)",
+    "options": [
+      "P – 4; Q – 5; R – 1",
+      "P – 2; Q – 5; R – 4",
+      "P – 2; Q – 1; R – 5",
+      "P – 2; Q – 1; R – 4 (or P–3, Q–1, R–5)"
+    ],
+    "correct_answer": "P – 2; Q – 1; R – 4 (or P–3, Q–1, R–5)",
+    "explanation": "[CONCEPT]\nStep 1: Glucocorticoid receptor contains C₄ zinc fingers (P–2).\nStep 2: c-Jun possesses a basic leucine zipper motif (Q–1).\nStep 3: Lambda repressor utilizes a classical Helix-Turn-Helix motif (R–4/5)."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following secondary lipid messengers directly binds to and activates classical Protein Kinase C (PKC) in the presence of membrane phosphatidylserine and Ca²⁺?",
+    "options": [
+      "Inositol 1,4,5-trisphosphate (IP₃)",
+      "Cyclic AMP",
+      "Inositol",
+      "Diacylglycerol (DAG)"
+    ],
+    "correct_answer": "Diacylglycerol (DAG)",
+    "explanation": "[CONCEPT]\nStep 1: Diacylglycerol (DAG) binds to the C1 regulatory domain of PKC, recruiting it to the plasma membrane where Ca²⁺ binding to the C2 domain triggers full catalytic activation."
+  },
+  {
+    "id": 35,
+    "question": "Match the cellular organelle in Column II with its primary function in\n\nColumn I:\n\nColumn I:\nP. Protein synthesis and initial folding\nQ. Protein degradation (Autophagy / Heterophagy)\nR. O-linked and N-linked core glycan processing\n\nColumn II:\n1. Endoplasmic reticulum (Rough ER)\n2. Golgi apparatus\n3. Lysosome\n4. Peroxisome",
+    "options": [
+      "P – 3; Q – 2; R – 1",
+      "P – 1; Q – 3; R – 2",
+      "P – 1; Q – 4; R – 3",
+      "P – 4; Q – 1; R – 2"
+    ],
+    "correct_answer": "P – 1; Q – 3; R – 2",
+    "explanation": "[CONCEPT]\nStep 1: Rough ER: Secretory protein translation and initial N-glycosylation (P–1).\nStep 2: Lysosomes: Acid hydrolase-mediated degradation (Q–3).\nStep 3: Golgi apparatus: Glycan processing and sorting (R–2)."
+  },
+  {
+    "id": 36,
+    "question": "The phase transition melting temperature (T_m) of phosphatidylcholine lipid bilayer A is higher than that of bilayer B because",
+    "options": [
+      "A has shorter chain fatty acids and more polyunsaturated bonds.",
+      "A has longer fatty acyl chains and a higher degree of saturation (fewer cis double bonds).",
+      "A has shorter chains than B.",
+      "A has more cis-unsaturated fatty acids."
+    ],
+    "correct_answer": "A has longer fatty acyl chains and a higher degree of saturation (fewer cis double bonds).",
+    "explanation": "[CONCEPT]\nStep 1: Longer saturated fatty acyl chains pack tightly with extensive van der Waals contacts, increasing the melting transition temperature (T_m)."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following statements are true for lipophilic steroid hormones?\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Directly increase the catalytic V_max of pre-existing cytoplasmic enzymes.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Act at the cell nucleus to modulate gene expression.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Interact with cell surface G-protein receptors.</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Form hormone-receptor complexes that bind to Hormone Response Elements (HREs) on chromatin as transcriptional regulators.</span></div></div>",
+    "options": [
+      "P and R",
+      "Q and S",
+      "P and Q",
+      "R and S"
+    ],
+    "correct_answer": "Q and S",
+    "explanation": "[CONCEPT]\nStep 1: Steroid hormones diffuse into cells to bind nuclear receptors (Q), which recognize specific HRE DNA sequences to activate or repress transcription (S)."
+  },
+  {
+    "id": 38,
+    "question": "In resting animal cells, the steep electrochemical Na⁺ gradient (145 mM extracellular vs 12 mM intracellular) is actively maintained by",
+    "options": [
+      "simple passive diffusion.",
+      "passive transport via Na⁺-K⁺ uniporter.",
+      "primary active transport via the electrogenic Na⁺/K⁺-ATPase pump (3 Na⁺ out for 2 K⁺ in per ATP).",
+      "calcium exchange."
+    ],
+    "correct_answer": "primary active transport via the electrogenic Na⁺/K⁺-ATPase pump (3 Na⁺ out for 2 K⁺ in per ATP).",
+    "explanation": "[CONCEPT]\nStep 1: The P-type Na⁺/K⁺-ATPase consumes ~30% of cellular ATP to pump 3 Na⁺ out and 2 K⁺ into the cell against their respective concentration gradients."
+  },
+  {
+    "id": 39,
+    "question": "Cardiotonic steroids (e.g. Ouabain, Digitoxigenin, Digoxin) strengthen heart muscle contraction by",
+    "options": [
+      "activating the Na⁺/K⁺ pump.",
+      "inhibiting the extracellular face of the Na⁺/K⁺-ATPase, elevating intracellular [Na⁺], which inhibits the Na⁺/Ca²⁺ antiporter and increases cytoplasmic [Ca²⁺].",
+      "having no effect on Na⁺-K⁺ pump.",
+      "increasing passive K⁺ permeability."
+    ],
+    "correct_answer": "inhibiting the extracellular face of the Na⁺/K⁺-ATPase, elevating intracellular [Na⁺], which inhibits the Na⁺/Ca²⁺ antiporter and increases cytoplasmic [Ca²⁺].",
+    "explanation": "[CONCEPT]\nStep 1: Cardiac glycosides block the Na⁺/K⁺-ATPase, raising cytosolic Na⁺.\nStep 2: This reduces the driving force for the 3Na⁺/1Ca²⁺ exchanger (NCX), leading to Ca²⁺ accumulation in sarcoplasmic reticulum and enhanced contractility (inotropic effect)."
+  },
+  {
+    "id": 40,
+    "question": "Lactose uptake against its concentration gradient into E. coli cells mediated by lactose permease (LacY) is a classic example of",
+    "options": [
+      "passive facilitated diffusion.",
+      "primary active transport.",
+      "secondary active transport (H⁺/lactose symport powered by the proton motive force).",
+      "simple diffusion."
+    ],
+    "correct_answer": "secondary active transport (H⁺/lactose symport powered by the proton motive force).",
+    "explanation": "[CONCEPT]\nStep 1: Lactose permease couples the downhill movement of 1 H⁺ with the uphill accumulation of 1 lactose molecule (secondary active symport)."
+  },
+  {
+    "id": 41,
+    "question": "During clathrin-mediated receptor-mediated endocytosis of plasma low-density lipoprotein (LDL) particles bound to LDL receptors in hepatocytes:",
+    "options": [
+      "both receptor and LDL ligand are degraded in lysosomes.",
+      "the receptor is degraded and LDL is recycled to the surface.",
+      "both receptor and LDL are recycled to the plasma membrane.",
+      "the LDL ligand is degraded in lysosomes to release cholesterol, while the LDL receptor dissociates in endosomes and is recycled back to the cell surface."
+    ],
+    "correct_answer": "the LDL ligand is degraded in lysosomes to release cholesterol, while the LDL receptor dissociates in endosomes and is recycled back to the cell surface.",
+    "explanation": "[CONCEPT]\nStep 1: At acidic endosomal pH (~5.0), LDL dissociates from its receptor.\nStep 2: The receptor is recycled via tubular vesicles to the plasma membrane (~100 trips), while LDL is delivered to lysosomes for hydrolysis."
+  },
+  {
+    "id": 42,
+    "question": "What fundamental thermodynamic property of lipid bilayers is responsible for the spontaneous self-sealing of biological membranes upon physical puncture?",
+    "options": [
+      "Hydrophilicity of phospholipid zwitterionic head groups",
+      "Presence of integral membrane proteins",
+      "Presence of cholesterol esters",
+      "The hydrophobic effect driving non-polar fatty acyl hydrocarbon tails away from contact with surrounding aqueous solvent"
+    ],
+    "correct_answer": "The hydrophobic effect driving non-polar fatty acyl hydrocarbon tails away from contact with surrounding aqueous solvent",
+    "explanation": "[CONCEPT]\nStep 1: Exposure of hydrophobic acyl tails to water is thermodynamically unfavorable (ΔG > 0), driving spontaneous rearrangement into a continuous closed bilayer."
+  },
+  {
+    "id": 43,
+    "question": "In neuroendocrine negative feedback control, a long feedback loop refers to the inhibitory action of",
+    "options": [
+      "hypothalamic releasing hormones on pituitary gonadotrophs.",
+      "target peripheral gland hormones (e.g. reproductive steroids, cortisol) acting back on hypothalamic neurosecretory neurons.",
+      "anterior pituitary hormones on hypothalamic neurons.",
+      "pituitary hormones on target tissues."
+    ],
+    "correct_answer": "target peripheral gland hormones (e.g. reproductive steroids, cortisol) acting back on hypothalamic neurosecretory neurons.",
+    "explanation": "[CONCEPT]\nStep 1: Long-loop feedback: Peripheral target organ hormone (e.g. estrogen, testosterone) inhibits hypothalamic releasing factors.\nStep 2: Short-loop feedback: Pituitary hormone inhibits hypothalamic release."
+  },
+  {
+    "id": 44,
+    "question": "In the autoimmune neuromuscular disease Myasthenia Gravis, severe muscle weakness occurs because",
+    "options": [
+      "the acetylcholine receptor gene is mutated.",
+      "pathogenic autoantibodies bind to nicotinic acetylcholine receptors (nAChR) at the neuromuscular post-synaptic motor endplate, blocking transmission and causing receptor internalization.",
+      "choline acetyltransferase is deficient.",
+      "acetylcholinesterase is overexpressed."
+    ],
+    "correct_answer": "pathogenic autoantibodies bind to nicotinic acetylcholine receptors (nAChR) at the neuromuscular post-synaptic motor endplate, blocking transmission and causing receptor internalization.",
+    "explanation": "[CONCEPT]\nStep 1: Autoantibodies against muscle nicotinic ACh receptors cross-link receptors, promoting endocytosis and complement-mediated destruction of post-synaptic folds."
+  },
+  {
+    "id": 45,
+    "question": "Which one of the following chemical compounds is not a physiological neurotransmitter?",
+    "options": [
+      "Dopamine",
+      "Glutamate",
+      "Histidine (an amino acid precursor of histamine)",
+      "Glycine"
+    ],
+    "correct_answer": "Histidine (an amino acid precursor of histamine)",
+    "explanation": "[CONCEPT]\nStep 1: Histamine (the decarboxylated product of histidine), Dopamine, Glutamate, and Glycine are active neurotransmitters.\nStep 2: Histidine itself is not a neurotransmitter."
+  },
+  {
+    "id": 46,
+    "question": "The direct 20-carbon polyunsaturated fatty acid precursor for the biosynthesis of all series-2 prostaglandins and thromboxanes via cyclooxygenase (COX) is",
+    "options": [
+      "Oleic acid (18:1)",
+      "Arachidonic acid (20:4, Δ⁵,⁸,¹¹,¹⁴)",
+      "Palmitic acid (16:0)",
+      "α-Linolenic acid (18:3)"
+    ],
+    "correct_answer": "Arachidonic acid (20:4, Δ⁵,⁸,¹¹,¹⁴)",
+    "explanation": "[CONCEPT]\nStep 1: Arachidonic acid (all-cis-5,8,11,14-eicosatetraenoic acid) is cleaved from membrane phospholipids by Phospholipase A₂ and converted by COX-1/COX-2 into PGH₂."
+  },
+  {
+    "id": 47,
+    "question": "The nucleolus in eukaryotic nuclei is the dedicated specialized non-membrane-bound subnuclear compartment for the synthesis and assembly of",
+    "options": [
+      "Ribosomal RNA (45S pre-rRNA transcription and ribosome subunit assembly).",
+      "Interfering RNA (iRNA).",
+      "Genomic DNA replication.",
+      "Messenger RNA (mRNA) translation."
+    ],
+    "correct_answer": "Ribosomal RNA (45S pre-rRNA transcription and ribosome subunit assembly).",
+    "explanation": "[CONCEPT]\nStep 1: RNA Polymerase I transcribes 45S pre-rRNA in the nucleolus, where rRNA processing and ribosome ribonucleoprotein assembly take place."
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a classic sequence-specific DNA-binding motif found in bacterial repressors (e.g. Cro, cI, LacI) and homeodomain transcription factors?",
+    "options": [
+      "Helix-loop-helix",
+      "Helix-turn-helix (HTH)",
+      "Helical wheel",
+      "Loop-helix-loop"
+    ],
+    "correct_answer": "Helix-turn-helix (HTH)",
+    "explanation": "[CONCEPT]\nStep 1: The Helix-Turn-Helix (HTH) motif contains a recognition α-helix that fits into the DNA major groove and a second α-helix separated by a short β-turn."
+  },
+  {
+    "id": 49,
+    "question": "Match the membrane proteins in Column I with their molecular structures / functions in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Shaker K⁺ channel</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Bacteriorhodopsin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Bacterial Outer Membrane Porin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>ABC Transporter\n\nColumn II:\n1. Inner membrane receptor\n2. Primary ATP-driven active transport\n3. Tetrameric voltage-gated K⁺ channel\n4. 7-transmembrane light-driven H⁺ pump\n5. Membrane fusion SNARE\n6. 16-stranded β-barrel passive diffusion channel</span></div></div>",
+    "options": [
+      "P – 4; Q – 2; R – 3; S – 5",
+      "P – 5; Q – 3; R – 4; S – 6",
+      "P – 6; Q – 1; R – 5; S – 4",
+      "P – 3; Q – 4; R – 6; S – 2"
+    ],
+    "correct_answer": "P – 3; Q – 4; R – 6; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: Shaker: Tetrameric voltage-gated K⁺ channel (P–3).\nStep 2: Bacteriorhodopsin: Retinal-dependent light-driven H⁺ pump (Q–4).\nStep 3: Porin: Trimeric 16-stranded anti-parallel β-barrel (R–6).\nStep 4: ABC Transporter: ATP-dependent active cassette transporter (S–2)."
+  },
+  {
+    "id": 50,
+    "question": "Cytochrome c is normally localized in the mitochondrial intermembrane space. Its release into the cytosol through BAX/BAK pore channels triggers",
+    "options": [
+      "Intrinsic apoptosis (formation of the APAF-1 apoptosome and caspase-9 activation).",
+      "Necrosis.",
+      "Cell differentiation.",
+      "Cell proliferation."
+    ],
+    "correct_answer": "Intrinsic apoptosis (formation of the APAF-1 apoptosome and caspase-9 activation).",
+    "explanation": "[CONCEPT]\nStep 1: Mitochondrial outer membrane permeabilization releases Cytochrome c into the cytosol, where it binds APAF-1 to assemble the apoptosome, activating Caspase-9 and executioner caspases (3/7)."
+  },
+  {
+    "id": 51,
+    "question": "Valinomycin, a cyclic dodecadepsipeptide antibiotic from Streptomyces, acts as a mobile carrier ionophore specifically transporting",
+    "options": [
+      "Potassium ions (K⁺, 10,000-fold selective over Na⁺) down its electrochemical gradient.",
+      "Calcium ions (Ca²⁺).",
+      "Sodium ions (Na⁺).",
+      "Protons (H⁺)."
+    ],
+    "correct_answer": "Potassium ions (K⁺, 10,000-fold selective over Na⁺) down its electrochemical gradient.",
+    "explanation": "[CONCEPT]\nStep 1: Valinomycin has an interior cavity with 6 carbonyl oxygens coordinating dehydrated K⁺ (radius 1.33 Å), dissipating the mitochondrial membrane electrical potential (Δψ)."
+  },
+  {
+    "id": 52,
+    "question": "Match the biological molecules in Column I with their chemical classification in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Progesterone</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Dopamine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Vasopressin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Prostaglandin E₂\n\nColumn II:\n1. Nonapeptide hormone\n2. Fatty acid\n3. Carbohydrate\n4. Catecholamine neurotransmitter\n5. Eicosanoid signaling lipid\n6. Steroid hormone</span></div></div>",
+    "options": [
+      "P – 3; Q – 4; R – 1; S – 2",
+      "P – 6; Q – 4; R – 1; S – 5",
+      "P – 3; Q – 5; R – 4; S – 1",
+      "P – 6; Q – 5; R – 1; S – 4"
+    ],
+    "correct_answer": "P – 6; Q – 4; R – 1; S – 5",
+    "explanation": "[CONCEPT]\nStep 1: Progesterone = Steroid (P–6).\nStep 2: Dopamine = Catecholamine (Q–4).\nStep 3: Vasopressin = Peptide (R–1).\nStep 4: Prostaglandin = Eicosanoid (S–5)."
+  },
+  {
+    "id": 53,
+    "question": "Match the biochemical modifications of L-tyrosine in Column I with the products in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Tyrosine ring hydroxylation by tyrosine hydroxylase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Tyrosine iodination and coupling in thyroglobulin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Tyrosine phosphorylation by receptor kinases</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Tyrosine oxidation and polymerization by tyrosinase\n\nColumn II:\n1. Thyroxine (T₄)\n2. Phosphorylated ITAMs on CD3 / TCR\n3. L-DOPA (precursor of catecholamines)\n4. Estradiol\n5. Epinephrine\n6. Melanin pigment</span></div></div>",
+    "options": [
+      "P – 1; Q – 6; R – 5; S – 4",
+      "P – 5; Q – 7; R – 4; S – 8",
+      "P – 2; Q – 5; R – 3; S – 4",
+      "P – 3; Q – 1; R – 2; S – 6"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 2; S – 6",
+    "explanation": "[CONCEPT]\nStep 1: Tyrosine hydroxylation → L-DOPA (P–3).\nStep 2: Tyrosine iodination → Thyroxine (Q–1).\nStep 3: Tyrosine phosphorylation → Phosphorylated TCR ITAMs (R–2).\nStep 4: Tyrosine oxidation → Melanin (S–6)."
+  },
+  {
+    "id": 54,
+    "question": "In a Scatchard plot analysis of receptor-ligand equilibrium binding ([Bound]/[Free] vs [Bound]):\n\n<div class=\"my-4 p-4 bg-slate-900 text-white rounded-2xl flex flex-col items-center justify-center shadow-md\">\n  <svg viewBox=\"0 0 320 180\" class=\"w-full max-w-xs\">\n    <line x1=\"40\" y1=\"150\" x2=\"280\" y2=\"150\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <line x1=\"40\" y1=\"20\" x2=\"40\" y2=\"150\" stroke=\"#94a3b8\" stroke-width=\"2\" />\n    <text x=\"20\" y=\"85\" fill=\"#cbd5e1\" font-size=\"10\" transform=\"rotate(-90 20,85)\" text-anchor=\"middle\">[Bound] / [Free]</text>\n    <text x=\"160\" y=\"170\" fill=\"#cbd5e1\" font-size=\"10\" text-anchor=\"middle\">[Bound] (Molar)</text>\n    <line x1=\"40\" y1=\"40\" x2=\"250\" y2=\"150\" stroke=\"#f43f5e\" stroke-width=\"2.5\" />\n    <text x=\"255\" y=\"145\" fill=\"#38bdf8\" font-size=\"10\" font-weight=\"bold\">B_max</text>\n    <text x=\"45\" y=\"35\" fill=\"#38bdf8\" font-size=\"10\" font-weight=\"bold\">B_max / K_d</text>\n  </svg>\n</div>\n\nThe equilibrium affinity constant (K_a = 1/K_d) is directly obtained from the",
+    "options": [
+      "Y-intercept (B_max / K_d)",
+      "X-intercept (B_max = total binding capacity)",
+      "negative slope of the linear regression line (−1/K_d = −K_a)",
+      "product of X-intercept and Y-intercept"
+    ],
+    "correct_answer": "negative slope of the linear regression line (−1/K_d = −K_a)",
+    "explanation": "[CONCEPT]\nStep 1: Scatchard equation: [Bound]/[Free] = −(1/K_d)[Bound] + (B_max/K_d).\nStep 2: The slope of the line is −1/K_d = −K_a (affinity constant)."
+  },
+  {
+    "id": 55,
+    "question": "Match each lipid hormone in Column I with its biosynthetic precursor in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>17-β Estradiol</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Thromboxane A₂</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Epinephrine</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Retinoic acid\n\nColumn II:\n1. Arachidonic acid\n2. L-Tyrosine\n3. β-Carotene / Retinal\n4. Cholesterol</span></div></div>",
+    "options": [
+      "P – 4; Q – 2; R – 3; S – 1",
+      "P – 1; Q – 3; R – 2; S – 4",
+      "P – 4; Q – 1; R – 2; S – 3",
+      "P – 1; Q – 2; R – 4; S – 3"
+    ],
+    "correct_answer": "P – 4; Q – 1; R – 2; S – 3",
+    "explanation": "[CONCEPT]\nStep 1: Estradiol from Cholesterol (P–4).\nStep 2: Thromboxane from Arachidonic acid (Q–1).\nStep 3: Epinephrine from Tyrosine (R–2).\nStep 4: Retinoic acid from β-Carotene (S–3)."
+  },
+  {
+    "id": 56,
+    "question": "Upon agonist stimulation of a eukaryotic cell generating IP₃, the primary intracellular storage organelle from which Ca²⁺ ions are rapidly released into the cytosol is the",
+    "options": [
+      "Endoplasmic Reticulum (or Sarcoplasmic Reticulum via IP₃ receptor channels).",
+      "Nucleus.",
+      "Peroxisome.",
+      "Mitochondria."
+    ],
+    "correct_answer": "Endoplasmic Reticulum (or Sarcoplasmic Reticulum via IP₃ receptor channels).",
+    "explanation": "[CONCEPT]\nStep 1: The lumen of the ER has high [Ca²⁺] (~1 mM maintained by SERCA pumps). IP₃ binds ligand-gated IP₃ receptors on the ER membrane, releasing Ca²⁺ into the cytosol."
+  },
+  {
+    "id": 57,
+    "question": "Which of the following bacterial toxins does not function via covalent mono-ADP-ribosylation of target host proteins?",
+    "options": [
+      "Pertussis toxin (ADP-ribosylates Gαi)",
+      "Diphtheria toxin (ADP-ribosylates EF-2)",
+      "Pseudomonas exotoxin A (ADP-ribosylates EF-2)",
+      "Staphylococcus aureus α-toxin (forms heptameric transmembrane pores)"
+    ],
+    "correct_answer": "Staphylococcus aureus α-toxin (forms heptameric transmembrane pores)",
+    "explanation": "[CONCEPT]\nStep 1: S. aureus α-hemolysin is a pore-forming toxin that oligomerizes into a β-barrel pore across host cell membranes (not an ADP-ribosyltransferase enzyme)."
+  },
+  {
+    "id": 58,
+    "question": "Match the membrane lipid translocators in Column I with their mechanisms in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Flippase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Floppase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Lipase</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Scramblase\n\nColumn II:\n1. Bidirectional, ATP-independent, Ca²⁺-activated non-specific translocator\n2. P-type ATPase moving aminophospholipids (PS, PE) from outer to cytosolic inner leaflet\n3. ABC transporter moving phospholipids from cytosolic to extracellular outer leaflet\n4. Esterase hydrolyzing triacylglycerols into fatty acids and glycerol</span></div></div>",
+    "options": [
+      "P – 2; Q – 3; R – 4; S – 1",
+      "P – 1; Q – 2; R – 3; S – 4",
+      "P – 4; Q – 1; R – 2; S – 3",
+      "P – 3; Q – 2; R – 4; S – 1"
+    ],
+    "correct_answer": "P – 2; Q – 3; R – 4; S – 1",
+    "explanation": "[CONCEPT]\nStep 1: Flippase: P-type ATPase, outer → inner (P–2).\nStep 2: Floppase: ABC transporter, inner → outer (Q–3).\nStep 3: Lipase: Ester hydrolysis (R–4).\nStep 4: Scramblase: ATP-independent bidirectional mixing (S–1)."
+  },
+  {
+    "id": 59,
+    "question": "When a living animal cell is placed in a hypotonic extracellular solution (lower solute concentration / higher water potential):",
+    "options": [
+      "Water leaves the cell and it shrinks.",
+      "The volume of the cell remains unchanged.",
+      "No net water flux occurs.",
+      "Water osmotically enters the cell, causing it to swell and potentially lyse."
+    ],
+    "correct_answer": "Water osmotically enters the cell, causing it to swell and potentially lyse.",
+    "explanation": "[CONCEPT]\nStep 1: In a hypotonic medium, water flows along its chemical potential gradient into the hypertonic cytoplasm, causing cell swelling."
+  },
+  {
+    "id": 60,
+    "question": "Arrange the following molecules/ions in the correct decreasing order of their permeability coefficients across a protein-free phospholipid bilayer:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Urea</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Glucose</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>H₂O</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Na⁺\nT. Tryptophan</span></div></div>",
+    "options": [
+      "P > R > T > Q > S",
+      "R > T > Q > S > P",
+      "R (H₂O) > P (Urea) > T (Tryptophan) > Q (Glucose) > S (Na⁺)",
+      "P > R > S > T > Q"
+    ],
+    "correct_answer": "R (H₂O) > P (Urea) > T (Tryptophan) > Q (Glucose) > S (Na⁺)",
+    "explanation": "[CONCEPT]\nStep 1: Water (small polar uncharged, ~10⁻² cm/s) > Urea (~10⁻⁶ cm/s) > Tryptophan (~10⁻⁷ cm/s) > Glucose (larger polar uncharged, ~10⁻⁸ cm/s) > Na⁺ (charged ion, ~10⁻¹² cm/s)."
+  },
+  {
+    "id": 61,
+    "question": "The physiological cell-surface receptor for epinephrine (adrenaline) belongs to which family of receptors?",
+    "options": [
+      "Receptor Tyrosine Kinase",
+      "Receptor Serine/Threonine Kinase",
+      "G-protein coupled receptor (GPCR / 7-transmembrane serpentine receptor)",
+      "Ligand-gated ion channel"
+    ],
+    "correct_answer": "G-protein coupled receptor (GPCR / 7-transmembrane serpentine receptor)",
+    "explanation": "[CONCEPT]\nStep 1: Adrenergic receptors (α₁, α₂, β₁, β₂, β₃) are classical 7-transmembrane heptahelical GPCRs coupling to Gs, Gi, or Gq."
+  },
+  {
+    "id": 62,
+    "question": "In a hydropathy index plot (Kyte-Doolittle) of a monomeric integral membrane protein across residues 1–140, a single prominent hydrophobic peak spanning 20–25 contiguous residues with positive free energy >80 kJ/mol is observed. How many transmembrane α-helices are present?",
+    "options": [
+      "1 (Single-pass bitopic transmembrane protein)",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct_answer": "1 (Single-pass bitopic transmembrane protein)",
+    "explanation": "[CONCEPT]\nStep 1: Each transmembrane α-helix requires ~20–25 hydrophobic residues to span a 30–40 Å bilayer.\nStep 2: A single high-hydropathy peak indicates a single-pass (bitopic) membrane protein (e.g. Glycophorin A)."
+  },
+  {
+    "id": 63,
+    "question": "The concentration of Mg²⁺ outside a mammalian cell is twice that inside ([Mg²⁺]_out / [Mg²⁺]_in = 2). If the membrane potential is −60 mV (inside negative), calculate the total electrochemical free energy change (ΔG in kJ mol⁻¹) for moving Mg²⁺ ions across the membrane against the concentration gradient (from inside to outside) at 37°C (310 K) [F = 96.5 kJ V⁻¹ mol⁻¹, R = 8.314 J K⁻¹ mol⁻¹]:",
+    "options": [
+      "78 kJ mol⁻¹",
+      "11.58 kJ mol⁻¹",
+      "13.34 kJ mol⁻¹",
+      "24.92 kJ mol⁻¹"
+    ],
+    "correct_answer": "13.34 kJ mol⁻¹",
+    "explanation": "[CONCEPT]\nStep 1: ΔG = RT ln([Mg²⁺]_out / [Mg²⁺]_in) + zFΔV.\nStep 2: Chemical work = (8.314 × 10⁻³ kJ/K·mol)(310 K) ln(2) = 2.577 × 0.693 = 1.786 kJ/mol.\nStep 3: Electrical work = (+2)(96.5 kJ/V·mol)(+0.060 V) = +11.580 kJ/mol.\nStep 4: Total ΔG = 1.786 + 11.580 = 13.366 ≈ 13.34 kJ mol⁻¹."
+  },
+  {
+    "id": 64,
+    "question": "Which of the following growth factor receptors is not a Receptor Tyrosine Kinase (RTK)?",
+    "options": [
+      "Platelet-derived growth factor receptor (PDGFR)",
+      "Insulin-like growth factor-1 receptor (IGF-1R)",
+      "Macrophage colony-stimulating factor receptor (M-CSFR / c-Fms)",
+      "Transforming growth factor-β receptor (TGF-βR, which is a Serine/Threonine kinase receptor)"
+    ],
+    "correct_answer": "Transforming growth factor-β receptor (TGF-βR, which is a Serine/Threonine kinase receptor)",
+    "explanation": "[CONCEPT]\nStep 1: TGF-β receptors (Type I and Type II) are transmembrane Serine/Threonine kinase receptors that phosphorylate Smad transcription factors."
+  },
+  {
+    "id": 65,
+    "question": "Calculate the electrochemical free energy change (ΔG in kJ mol⁻¹) at 37°C (310 K) for the passive movement of Ca²⁺ (z = +2) from the ER lumen ([Ca²⁺] = 1.0 mM) to the cytosol ([Ca²⁺] = 0.1 μM = 10⁻⁴ mM) across an ER membrane potential of −50 mV (cytosol negative relative to lumen) [R = 8.314 J K⁻¹ mol⁻¹, F = 96.5 kJ V⁻¹ mol⁻¹]:",
+    "options": [
+      "−9.65 kJ mol⁻¹",
+      "−23.75 kJ mol⁻¹",
+      "−33.4 kJ mol⁻¹ (highly spontaneous downhill release)",
+      "+33.4 kJ mol⁻¹"
+    ],
+    "correct_answer": "−33.4 kJ mol⁻¹ (highly spontaneous downhill release)",
+    "explanation": "[CONCEPT]\nStep 1: Chemical component = RT ln([Ca²⁺]_cytosol / [Ca²⁺]_ER) = (8.314 × 10⁻³ × 310) ln(10⁻⁴ / 1) = 2.577 × (−9.210) = −23.73 kJ/mol.\nStep 2: Electrical component = zFΔV = (+2)(96.5 kJ/V·mol)(−0.050 V) = −9.65 kJ/mol.\nStep 3: Total ΔG = −23.73 + (−9.65) = −33.38 ≈ −33.4 kJ mol⁻¹."
+  },
+  {
+    "id": 66,
+    "question": "The dynamic homeoviscous fluidity of a biological membrane increases when its phospholipid acyl chains have",
+    "options": [
+      "longer chain length and fewer double bonds.",
+      "shorter chain length and higher degree of cis-unsaturation.",
+      "longer chain length and higher saturation.",
+      "trans-unsaturated fatty acids."
+    ],
+    "correct_answer": "shorter chain length and higher degree of cis-unsaturation.",
+    "explanation": "[CONCEPT]\nStep 1: Short chains have smaller surface areas for van der Waals attraction, and cis double bonds introduce rigid 30° kinks that prevent tight packing, lowering melting point and increasing fluidity."
+  },
+  {
+    "id": 67,
+    "question": "Given the polypeptide sequence: TGERVQLAHH(1–10) FSEPEITLLI(11–20) FGVMAGVIGT(21–30) ILLASYGIRR(31–40) LIKKSP(41–46). Which 20-residue segment is most hydrophobic and thermodynamically suited to form a single transmembrane α-helix spanning a lipid bilayer?",
+    "options": [
+      "E3 – G22 (contains 9 charged/polar residues)",
+      "V5 – A25",
+      "E15 – A34 (EITLLIFGVMAGVIGTILLA, 17 hydrophobic non-polar residues)",
+      "F21 – R40"
+    ],
+    "correct_answer": "E15 – A34 (EITLLIFGVMAGVIGTILLA, 17 hydrophobic non-polar residues)",
+    "explanation": "[CONCEPT]\nStep 1: Segment E15–A34 consists of a contiguous 20-residue sequence composed almost entirely of hydrophobic amino acids (Ile, Leu, Phe, Gly, Val, Met, Ala), ideal for spanning a 30 Å hydrophobic core."
+  },
+  {
+    "id": 68,
+    "question": "Match each signaling modulator in Column I with its molecular target / mechanism in\n\nColumn II:\n\nColumn I:\n<div class=\"my-4 space-y-2 pl-4 border-l-2 border-slate-200 dark:border-slate-700\"><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">P.</span><span>Cholera toxin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">Q.</span><span>Pertussis toxin</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">R.</span><span>Inositol 1,4,5-trisphosphate (IP₃)</span></div><div class=\"flex items-start gap-2\"><span class=\"font-bold shrink-0 text-teal-600 dark:text-teal-400\">S.</span><span>Caffeine\n\nColumn II:\n1. ADP-ribosylates Gαi, locking it in inactive GDP state\n2. Inhibits cAMP phosphodiesterase, elevating cAMP\n3. ADP-ribosylates Gαs, abolishing GTPase activity and locking Gs active\n4. Opens ligand-gated Ca²⁺ release channels on ER</span></div></div>",
+    "options": [
+      "P – 3; Q – 1; R – 4; S – 2",
+      "P – 4; Q – 1; R – 3; S – 2",
+      "P – 2; Q – 4; R – 1; S – 3",
+      "P – 3; Q – 1; R – 2; S – 4"
+    ],
+    "correct_answer": "P – 3; Q – 1; R – 4; S – 2",
+    "explanation": "[CONCEPT]\nStep 1: Cholera toxin: ADP-ribosylates Gαs (P–3).\nStep 2: Pertussis toxin: ADP-ribosylates Gαi (Q–1).\nStep 3: IP₃: Triggers ER Ca²⁺ release (R–4).\nStep 4: Caffeine: Inhibits cAMP phosphodiesterase (S–2)."
+  },
+  {
+    "id": 69,
+    "question": "Cardiotonic steroids (Digitalis, Ouabain) enhance cardiac myocyte contractility by inhibiting the dephosphorylation step of",
+    "options": [
+      "the Na⁺/K⁺-ATPase (E₂-P state).",
+      "the sarcoplasmic Ca²⁺-ATPase (SERCA).",
+      "myosin light chain kinase.",
+      "voltage-gated Ca²⁺ channels."
+    ],
+    "correct_answer": "the Na⁺/K⁺-ATPase (E₂-P state).",
+    "explanation": "[CONCEPT]\nStep 1: Ouabain locks the phosphorylated E₂-P conformation of Na⁺/K⁺-ATPase from the extracellular side, preventing K⁺-stimulated dephosphorylation."
+  },
+  {
+    "id": 70,
+    "question": "The enzymatic post-translational N-glycosylation and O-glycosylation of secretory and membrane proteins occur sequentially in the",
+    "options": [
+      "Glyoxysomes",
+      "Lysosomes",
+      "Endoplasmic Reticulum and Golgi Apparatus",
+      "Plasma membrane"
+    ],
+    "correct_answer": "Endoplasmic Reticulum and Golgi Apparatus",
+    "explanation": "[CONCEPT]\nStep 1: Core 14-sugar N-glycan transfer occurs cotranslationally in the ER lumen; trimming, terminal elongation, and O-glycosylation occur in the cis/medial/trans Golgi cisternae."
+  },
+  {
+    "id": 71,
+    "question": "Which of the following molecules is not a physiological neurotransmitter in the vertebrate nervous system?",
+    "options": [
+      "Adrenaline (Epinephrine)",
+      "Glutamate",
+      "Histamine",
+      "Histidine (amino acid precursor)"
+    ],
+    "correct_answer": "Histidine (amino acid precursor)",
+    "explanation": "[CONCEPT]\nStep 1: Histidine is an essential amino acid converted to the neurotransmitter histamine via histidine decarboxylase."
+  },
+  {
+    "id": 72,
+    "question": "Which of the following hormones initiates a cellular signaling cascade by crossing the plasma membrane and directly binding to an intracellular nuclear receptor?",
+    "options": [
+      "Insulin",
+      "Gonadotropin (LH/FSH)",
+      "Progesterone",
+      "Epinephrine"
+    ],
+    "correct_answer": "Progesterone",
+    "explanation": "[CONCEPT]\nStep 1: Progesterone is a hydrophobic steroid that binds to the progesterone receptor (PR) in the cytoplasm/nucleus to regulate transcription."
+  },
+  {
+    "id": 73,
+    "question": "Choose the correct decreasing order of molecules according to their intrinsic rate of passive diffusion across a protein-free synthetic lipid bilayer:",
+    "options": [
+      "CO₂ > H₂O > Glucose > RNA (Large polynucleotide)",
+      "CO₂ > Glucose > H₂O > RNA",
+      "RNA > Glucose > CO₂ > H₂O",
+      "H₂O > CO₂ > RNA > Glucose"
+    ],
+    "correct_answer": "CO₂ > H₂O > Glucose > RNA (Large polynucleotide)",
+    "explanation": "[CONCEPT]\nStep 1: Small non-polar gas (CO₂) > Small uncharged polar molecule (H₂O) > Large uncharged polar hexose (Glucose) > Large highly charged polyanion (RNA, completely impermeable)."
+  }
+]

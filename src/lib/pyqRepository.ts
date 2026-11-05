@@ -23,9 +23,20 @@ export interface Paper {
 
 // These are known to exist in the repository
 export const PYQ_PAPERS: Paper[] = [
+  { exam: 'dbt_bet', year: '2009' },
+  { exam: 'dbt_bet', year: '2010' },
+  { exam: 'dbt_bet', year: '2011' },
+  { exam: 'dbt_bet', year: '2013' },
+  { exam: 'dbt_bet', year: '2014' },
+  { exam: 'dbt_bet', year: '2015' },
+  { exam: 'dbt_bet', year: '2016' },
+  { exam: 'dbt_bet', year: '2017' },
+  { exam: 'dbt_bet', year: '2018' },
+  { exam: 'dbt_bet', year: '2019' },
+  { exam: 'dbt_bet', year: '2020' },
+  { exam: 'dbt_bet', year: '2021' },
   { exam: 'dbt_bet', year: '2023' },
   { exam: 'dbt_bet', year: '2024' },
-  { exam: 'dbt_bet', year: '2025' },
   { exam: 'csir_net', year: '2023_shift1' },
   { exam: 'csir_net', year: '2023_dec_shift1' },
   { exam: 'csir_net', year: '2023_dec_shift2' },

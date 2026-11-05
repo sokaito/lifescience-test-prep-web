@@ -22,7 +22,7 @@ function getJsonFiles(dir: string, baseDir: string = dir): string[] {
 }
 
 export function generateStaticParams() {
-  const exams = ['csir_net', 'dbt_bet', 'gate'];
+  const exams = ['csir_net', 'dbt_bet', 'gate', 'icmr_jrf'];
   const params: { exam: string, year: string[] }[] = [];
   
   exams.forEach(exam => {

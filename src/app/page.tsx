@@ -75,22 +75,22 @@ export default function Home() {
             <div>
               <div className="flex items-center space-x-2 mb-1">
                 <span className="text-[10px] uppercase font-black px-2 py-0.5 rounded-full bg-teal-500/20 text-teal-600 dark:text-teal-400 border border-teal-500/30">
-                  Android App • v1.0
+                  Android App • v2.0
                 </span>
-                <span className="text-xs font-bold text-slate-500 dark:text-slate-400">8.7 MB (APK)</span>
+                <span className="text-xs font-bold text-slate-500 dark:text-slate-400">16.7 MB (APK)</span>
               </div>
               <h2 className="text-xl md:text-2xl font-black text-slate-900 dark:text-slate-100 tracking-tight">
                 Practice Anywhere with Android App
               </h2>
               <p className="text-xs md:text-sm text-slate-500 dark:text-slate-400 font-medium mt-1 max-w-md">
-                Fast mobile test runner, offline practice mode, and full CSIR NET Life Sciences prep right on your phone.
+                Fast mobile test runner, offline practice mode, and full Life Sciences prep with DBT-BET, CSIR NET & GATE right on your phone.
               </p>
             </div>
           </div>
 
           <div className="flex items-center space-x-3 w-full md:w-auto">
             <a
-              href="/lifesci-prep.apk"
+              href="/lifesci-prep.bin"
               download="lifesci-prep.apk"
               className="flex-1 md:flex-initial py-3.5 px-6 bg-gradient-to-r from-teal-500 to-blue-600 hover:from-teal-600 hover:to-blue-700 text-white font-black text-sm uppercase tracking-wider rounded-2xl shadow-lg shadow-teal-500/20 flex items-center justify-center space-x-2 group-hover:scale-105 active:scale-95 transition-all"
             >

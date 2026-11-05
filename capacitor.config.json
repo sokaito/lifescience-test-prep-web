@@ -1,0 +1,17 @@
+{
+  "appId": "com.lifesciprep.app",
+  "appName": "LifeSci Prep",
+  "webDir": "out",
+  "plugins": {
+    "GoogleAuth": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+      "clientId": "1019446850266-en7328n3v3nc7v4ndhhk36a80hhk8gs5.apps.googleusercontent.com",
+      "forceCodeForRefreshToken": true
+    }
+  }
+}
+

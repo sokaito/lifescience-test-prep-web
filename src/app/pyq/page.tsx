@@ -6,6 +6,7 @@ export default function PYQDashboard() {
     { id: "csir_net", name: "CSIR NET Life Sciences", icon: GraduationCap, color: "text-blue-500", bg: "bg-blue-50 dark:bg-blue-900/20", border: "border-blue-200 dark:border-blue-800" },
     { id: "dbt_bet", name: "DBT BET", icon: BookOpen, color: "text-teal-500", bg: "bg-teal-50 dark:bg-teal-900/20", border: "border-teal-200 dark:border-teal-800" },
     { id: "gate", name: "GATE Life Sciences", icon: Library, color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-900/20", border: "border-orange-200 dark:border-orange-800" },
+    { id: "icmr_jrf", name: "ICMR JRF Life Sciences", icon: BookOpen, color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-900/20", border: "border-purple-200 dark:border-purple-800" },
   ];
 
   return (

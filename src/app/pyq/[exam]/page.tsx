@@ -1,7 +1,8 @@
 import fs from "fs";
 import path from "path";
 import Link from "next/link";
-import { ArrowLeft, Calendar, FileText } from "lucide-react";
+import { ArrowLeft } from "lucide-react";
+import ExamYearListClient, { PaperItem } from "@/components/ExamYearListClient";
 
 interface PageProps {
   params: Promise<{ exam: string }>;
@@ -12,27 +13,8 @@ export function generateStaticParams() {
     { exam: 'csir_net' },
     { exam: 'dbt_bet' },
     { exam: 'gate' },
+    { exam: 'icmr_jrf' },
   ];
-}
-
-const formatYearName = (y: string) => {
-  const lastPart = y.split('/').pop() || y;
-  return lastPart
-    .split('_')
-    .map(part => {
-      const match = part.match(/^shift(\d+)$/i);
-      if (match) {
-        return `Shift ${match[1]}`;
-      }
-      return part.charAt(0).toUpperCase() + part.slice(1);
-    })
-    .join(' ');
-};
-
-interface PaperItem {
-  id: string;
-  name: string;
-  group: string;
 }
 
 export default async function ExamYearSelection(props: PageProps) {
@@ -41,7 +23,8 @@ export default async function ExamYearSelection(props: PageProps) {
   const examNames: Record<string, string> = {
     csir_net: "CSIR NET Life Sciences",
     dbt_bet: "DBT BET",
-    gate: "GATE Life Sciences"
+    gate: "GATE Life Sciences",
+    icmr_jrf: "ICMR JRF Life Sciences"
   };
 
   const examName = examNames[exam] || exam.toUpperCase();
@@ -57,7 +40,7 @@ export default async function ExamYearSelection(props: PageProps) {
       const stat = fs.statSync(fullPath);
       if (stat.isDirectory()) {
         scanDirectory(fullPath, baseDir);
-      } else if (item.endsWith('.json')) {
+      } else if (item.endsWith('.json') && item !== 'manifest.json') {
         const relativePath = path.relative(baseDir, fullPath);
         const normalizedPath = relativePath.replace(/\\/g, '/').replace(/\.json$/, '');
         const parts = normalizedPath.split('/');
@@ -84,16 +67,6 @@ export default async function ExamYearSelection(props: PageProps) {
     console.error("Error reading PYQ directory:", error);
   }
 
-  // Group papers by category
-  const groupedPapers: Record<string, PaperItem[]> = {};
-  papers.forEach(paper => {
-    const groupName = paper.group || "General";
-    if (!groupedPapers[groupName]) {
-      groupedPapers[groupName] = [];
-    }
-    groupedPapers[groupName].push(paper);
-  });
-
   return (
     <div className="max-w-screen-xl mx-auto space-y-10 px-4 md:px-8 py-8 md:py-12">
       <div className="flex flex-col space-y-4 md:space-y-0 md:flex-row md:items-center md:justify-between">
@@ -110,45 +83,7 @@ export default async function ExamYearSelection(props: PageProps) {
         </div>
       </div>
 
-      {papers.length === 0 ? (
-        <div className="bg-bg-card p-12 rounded-[2rem] border border-border-subtle text-center shadow-sm">
-          <FileText className="w-16 h-16 text-slate-300 mx-auto mb-4" />
-          <h3 className="text-xl font-black text-text-primary uppercase tracking-tight mb-2">No Papers Available</h3>
-          <p className="text-text-secondary font-medium">We are currently adding previous year papers for this exam. Check back soon!</p>
-        </div>
-      ) : (
-        <div className="space-y-12">
-          {Object.entries(groupedPapers).map(([groupName, groupPapers]) => (
-            <div key={groupName} className="space-y-6">
-              {groupName !== "General" && (
-                <h3 className="text-xl md:text-2xl font-black text-slate-800 dark:text-slate-200 tracking-tight uppercase border-b border-border-subtle pb-2">
-                  {groupName}
-                </h3>
-              )}
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
-                {groupPapers.map((paper) => (
-                  <Link
-                    key={paper.id}
-                    href={`/pyq/${exam}/${paper.id}`}
-                    className="group flex flex-col items-center justify-center p-6 bg-bg-card rounded-2xl border border-border-subtle shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all text-center relative overflow-hidden"
-                  >
-                    <div className="absolute top-0 right-0 p-3 opacity-5 transform translate-x-2 -translate-y-2 group-hover:scale-125 transition-transform text-accent-main">
-                      <Calendar className="w-16 h-16" />
-                    </div>
-                    <Calendar className="w-8 h-8 text-text-secondary group-hover:text-accent-main transition-colors mb-3 relative z-10" />
-                    <h2 className="text-base md:text-lg font-black text-text-primary uppercase tracking-tight relative z-10 leading-tight">
-                      {formatYearName(paper.name)}
-                    </h2>
-                    <div className="mt-2 text-[10px] font-bold text-text-secondary uppercase tracking-widest relative z-10">
-                      Start Paper
-                    </div>
-                  </Link>
-                ))}
-              </div>
-            </div>
-          ))}
-        </div>
-      )}
+      <ExamYearListClient exam={exam} initialPapers={papers} />
     </div>
   );
 }

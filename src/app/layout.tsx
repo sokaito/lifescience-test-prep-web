@@ -27,6 +27,7 @@ import { AuthProvider } from "@/lib/AuthContext";
 import { ThemeProvider } from "@/lib/ThemeContext";
 import NotificationHandler from "@/components/NotificationHandler";
 import NotificationDebug from "@/components/NotificationDebug";
+import AppUpdateChecker from "@/components/AppUpdateChecker";
 
 export default function RootLayout({
   children,
@@ -40,6 +41,7 @@ export default function RootLayout({
       >
         <ThemeProvider>
           <AuthProvider>
+            <AppUpdateChecker />
             <NotificationHandler />
             <NotificationDebug />
             <LayoutWrapper>

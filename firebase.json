@@ -1,16 +1,16 @@
 {
   "hosting": {
     "public": "out",
+    "cleanUrls": true,
     "ignore": [
       "firebase.json",
       "**/.*",
-      "**/node_modules/**"
+      "**/node_modules/**",
+      "**/*.apk"
     ],
-    "cleanUrls": true,
-    "trailingSlash": false,
     "headers": [
       {
-        "source": "**/*.apk",
+        "source": "/lifesci-prep.bin",
         "headers": [
           {
             "key": "Content-Type",
@@ -19,13 +19,10 @@
           {
             "key": "Content-Disposition",
             "value": "attachment; filename=\"lifesci-prep.apk\""
-          },
-          {
-            "key": "Cache-Control",
-            "value": "public, max-age=3600"
           }
         ]
       }
     ]
   }
 }
+

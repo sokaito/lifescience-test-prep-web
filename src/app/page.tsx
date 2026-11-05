@@ -90,7 +90,7 @@ export default function Home() {
 
           <div className="flex items-center space-x-3 w-full md:w-auto">
             <a
-              href="/lifesci-prep.bin"
+              href="https://raw.githubusercontent.com/sokaito/lifescience-test-prep-web/master/public/lifesci-prep.apk"
               download="lifesci-prep.apk"
               className="flex-1 md:flex-initial py-3.5 px-6 bg-gradient-to-r from-teal-500 to-blue-600 hover:from-teal-600 hover:to-blue-700 text-white font-black text-sm uppercase tracking-wider rounded-2xl shadow-lg shadow-teal-500/20 flex items-center justify-center space-x-2 group-hover:scale-105 active:scale-95 transition-all"
             >

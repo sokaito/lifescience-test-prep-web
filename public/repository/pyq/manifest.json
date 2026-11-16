@@ -61,5 +61,18 @@
     "zoology/Genetics",
     "zoology/Parasitology and Immunology"
   ],
-  "icmr_jrf": []
+  "icmr_jrf": [
+    "bioinformatics/Nucleotide Sequence Database",
+    "bioinformatics/Protein Sequence Database",
+    "microbiology/Agricultural, Soil, Air and Water Microbiology",
+    "microbiology/Bacterial Genetics",
+    "microbiology/Clinical Microbiology",
+    "microbiology/Industrial, Food and Dairy Microbiology",
+    "microbiology/Introduction to Microbiology",
+    "microbiology/Microbial Cultivation",
+    "microbiology/Microbial Taxonomy and Morphology",
+    "microbiology/Pharmaceutical Microbiology",
+    "veterinary_science/Breeds",
+    "veterinary_science/Ruminant Animals and Diseases"
+  ]
 }

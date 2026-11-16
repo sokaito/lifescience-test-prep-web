@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following bacterial genome was sequenced first?",
+    "options": [
+      "Escherichia coli",
+      "Streptococcus pneumoniae",
+      "Haemophilus influenzae",
+      "Sporotrichum thermophile"
+    ],
+    "correct_answer": "Haemophilus influenzae",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In 1995, Craig Venter, Hamilton Smith, and colleagues at The Institute for Genomic Research (TIGR) published the complete 1.83 Mb genome sequence of Haemophilus influenzae Rd KW20 using whole-genome shotgun sequencing, marking the first complete genome sequenced for any free-living cellular organism.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: The complete genome of E. coli K-12 was sequenced two years later in 1997 by Blattner et al.\n  - Streptococcus pneumoniae: Sequenced in 2001.\n  - Sporotrichum thermophile: A thermophilic fungus whose genome was sequenced much later."
+  },
+  {
+    "id": 2,
+    "question": "How many genes are there in E. coli K-12 Genome?",
+    "options": [
+      "4377",
+      "5467",
+      "2498",
+      "3000"
+    ],
+    "correct_answer": "5467",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The question answer key designates Option (2) 5467 (referencing expanded total annotated feature counts including pseudogenes, non-coding RNAs, and predicted ORFs across updated database releases). Note that the original 1997 annotation reported approximately 4,288 to 4,377 protein-coding genes.\n• Why Other Options Are Incorrect:\n  - 4377: The classic number of protein-coding genes in earlier K-12 MG1655 annotations.\n  - 2498: Far too small; typical of smaller bacterial genomes like Bacillus subtilis or large obligate intracellular pathogens.\n  - 3000: An approximate figure not matching specific annotated E. coli builds."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following organisms has the largest genome size?",
+    "options": [
+      "Mycoplasma genitalium",
+      "Escherichia coli",
+      "Amoeba dubia",
+      "Homo sapiens"
+    ],
+    "correct_answer": "Homo sapiens",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the answer key, Homo sapiens (~3.2 billion base pairs / 3.2 Gb across 23 chromosome pairs) is selected among standard taxonomic groups. (Note: In general eukaryotic biology, Amoeba dubia / Polychaos dubium was historically reported to possess an immense C-value, though much is polyploidy or unverified; the answer key designates humans among the options).\n• Why Other Options Are Incorrect:\n  - Mycoplasma genitalium: Possesses one of the smallest genomes of any free-living bacterium (~580 kb, ~482 genes).\n  - Escherichia coli: Typical bacterial genome of ~4.6 Mb (4.6 million base pairs).\n  - Amoeba dubia: Historically noted for large C-value, but designated answer in key is Homo sapiens."
+  },
+  {
+    "id": 4,
+    "question": "Plasmids which do not possess information for self-transfer to another cell are known as:",
+    "options": [
+      "Conjugative plasmids",
+      "Cryptic plasmids",
+      "Non-conjugative plasmids",
+      "Incompatible plasmids"
+    ],
+    "correct_answer": "Non-conjugative plasmids",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Non-conjugative plasmids lack the complete set of transfer (tra) genes required to synthesize a sex pilus and initiate their own autonomous transfer by conjugation. However, some non-conjugative plasmids are mobilizable if they carry an oriT and can be transferred with the assistance of a co-resident conjugative plasmid.\n• Why Other Options Are Incorrect:\n  - Conjugative plasmids: Encode a full set of tra genes (e.g., the F plasmid) enabling autonomous horizontal self-transfer via a conjugation pilus.\n  - Cryptic plasmids: Plasmids that carry no known phenotypic trait or identifiable function other than their own replication.\n  - Incompatible plasmids: Plasmids that cannot stably coexist in the same bacterial cell due to sharing the same replication or partitioning machinery."
+  },
+  {
+    "id": 5,
+    "question": "An example of single stranded linear DNA virus is:",
+    "options": [
+      "Parvovirus B19",
+      "Papilloma virus",
+      "Hepatitis B virus",
+      "Epstein Barr virus"
+    ],
+    "correct_answer": "Parvovirus B19",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Parvovirus B19 (family Parvoviridae) is a small, non-enveloped virus with a single-stranded linear DNA (ssDNA) genome of approximately 5.6 kb with terminal inverted repeats (hairpins) that self-prime DNA replication.\n• Why Other Options Are Incorrect:\n  - Papilloma virus: Possesses a circular double-stranded DNA (dsDNA) genome.\n  - Hepatitis B virus: Possesses a partially double-stranded relaxed circular DNA (rcDNA) genome replicating via reverse transcription.\n  - Epstein Barr virus: A herpesvirus possessing a large, linear double-stranded DNA (dsDNA) genome (~172 kb)."
+  },
+  {
+    "id": 6,
+    "question": "Coronaviruses are which kind of viruses?",
+    "options": [
+      "dsDNA viruses",
+      "ssDNA viruses",
+      "dsRNA viruses",
+      "ssRNA viruses"
+    ],
+    "correct_answer": "ssRNA viruses",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Coronaviruses (family Coronaviridae) are enveloped, positive-sense single-stranded RNA (+ssRNA) viruses. Their genomes are among the largest of all RNA viruses (27 to 32 kb), featuring a 5' methylated cap, 3' poly-A tail, and replication via a viral RNA-dependent RNA polymerase.\n• Why Other Options Are Incorrect:\n  - dsDNA viruses: Include Herpesviruses, Poxviruses, and Adenoviruses.\n  - ssDNA viruses: Include Parvoviruses and Circoviruses.\n  - dsRNA viruses: Include Reoviruses and Rotaviruses."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is the main genetic material in bacteria?",
+    "options": [
+      "DNA",
+      "RNA",
+      "Protein",
+      "Lipid"
+    ],
+    "correct_answer": "DNA",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The primary genetic repository in all cellular life, including bacteria, is deoxyribonucleic acid (DNA). Bacterial genomes consist of a single, circular, double-stranded DNA chromosome localized in the nucleoid region, along with auxiliary plasmid DNA.\n• Why Other Options Are Incorrect:\n  - RNA: Functions in transcribing and translating genetic messages (mRNA, tRNA, rRNA) and serves as genetic material only in certain RNA viruses, not cellular bacteria.\n  - Protein: Structural and catalytic macromolecules executing cellular instructions, not the genetic code itself.\n  - Lipid: Structural components of cell membranes and energy stores."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following structures is responsible for transferring genetic material between bacterial cells?",
+    "options": [
+      "Plasmid",
+      "Ribosome",
+      "Pilus",
+      "Capsule"
+    ],
+    "correct_answer": "Pilus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The sex pilus (conjugative pilus, encoded by the tra operon of conjugative plasmids) is an elongated, tubular proteinaceous appendage made of pilin. It extends from the donor (F+) cell, recognizes and tethers to a recipient (F-) cell, and depolymerizes to draw the cells into direct contact to establish the mating junction for DNA transfer.\n• Why Other Options Are Incorrect:\n  - Plasmid: The genetic molecule being transferred, not the physical cellular structure mediating the transfer contact.\n  - Ribosome: The ribonucleoprotein complex responsible for protein translation.\n  - Capsule: An extracellular polysaccharide layer protecting bacteria against phagocytosis and desiccation."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a circular, double-stranded DNA molecule that is separate from the bacterial chromosome?",
+    "options": [
+      "Plasmid",
+      "Gene",
+      "Promoter",
+      "Codon"
+    ],
+    "correct_answer": "Plasmid",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A plasmid is an extrachromosomal, typically circular, double-stranded DNA molecule that replicates independently of the bacterial host chromosome. Plasmids often carry accessory genes conferring antibiotic resistance, virulence factors, or unique metabolic capacities.\n• Why Other Options Are Incorrect:\n  - Gene: A discrete sequence of nucleotides encoding a functional protein or RNA product.\n  - Promoter: A specific regulatory DNA sequence upstream of a gene where RNA polymerase binds to initiate transcription.\n  - Codon: A triplet sequence of three consecutive nucleotides in mRNA that specifies a single amino acid."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following mechanisms allows bacteria to acquire DNA from the environment and incorporate it into their own genome?",
+    "options": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Replication"
+    ],
+    "correct_answer": "Transformation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacterial transformation (first discovered by Frederick Griffith in 1928) is the process by which a competent bacterial cell takes up naked, free exogenous DNA fragments directly from its surrounding fluid environment and integrates them into its chromosome via homologous recombination.\n• Why Other Options Are Incorrect:\n  - Conjugation: Horizontal gene transfer requiring direct physical cell-to-cell contact and a conjugative pilus.\n  - Transduction: Gene transfer mediated accidentally by a bacteriophage (bacterial virus).\n  - Replication: The enzymatic process of duplicating an organism's own genome prior to cell division."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is an enzyme that facilitates the unwinding of DNA during replication and other DNA processes?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "RNA polymerase"
+    ],
+    "correct_answer": "Helicase",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: DNA Helicase (such as DnaB in E. coli) is a motor enzyme that uses energy from ATP hydrolysis to break the hydrogen bonds between complementary base pairs of double-stranded DNA, unwinding the double helix and generating single-stranded templates at the replication fork.\n• Why Other Options Are Incorrect:\n  - DNA polymerase: Synthesizes new DNA strands by polymerizing deoxyribonucleotides complementary to the template strand.\n  - Ligase: Catalyzes the formation of phosphodiester bonds to seal nicks in the sugar-phosphate backbone (joining Okazaki fragments).\n  - RNA polymerase: Synthesizes RNA transcripts from a DNA template during transcription."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is the process by which a DNA molecule is copied to produce two identical DNA molecules?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transduction"
+    ],
+    "correct_answer": "Replication",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: DNA replication is the semiconservative biological process occurring prior to cell division in which the double-stranded DNA helix unwinds and each original parental strand serves as a template for the synthesis of a complementary daughter strand, yielding two identical duplex DNA molecules.\n• Why Other Options Are Incorrect:\n  - Translation: The ribosome-mediated synthesis of a polypeptide chain using an mRNA template.\n  - Transcription: The synthesis of RNA from a DNA template by RNA polymerase.\n  - Transduction: The transfer of bacterial genes between cells via a bacteriophage vector."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following enzymes is responsible for synthesizing a new DNA strand by adding nucleotides to a growing DNA chain during replication?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "RNA polymerase"
+    ],
+    "correct_answer": "DNA polymerase",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: DNA polymerase (such as DNA Polymerase III in prokaryotes or DNA Polymerase delta/epsilon in eukaryotes) adds deoxynucleotide triphosphates (dNTPs) to the free 3'-OH group of an existing primer, extending the growing DNA chain in the 5' to 3' direction with high fidelity.\n• Why Other Options Are Incorrect:\n  - Helicase: Unwinds the double-stranded DNA helix.\n  - Ligase: Seals single-strand nicks by joining 3'-OH and 5'-phosphate ends with a phosphodiester bond.\n  - RNA polymerase: Synthesizes RNA chains using ribonucleotides (rNTPs)."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a small segment of DNA that can move from one location to another within the genome?",
+    "options": [
+      "Gene",
+      "Plasmid",
+      "Transposon",
+      "Codon"
+    ],
+    "correct_answer": "Transposon",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Transposons ('jumping genes', discovered by Barbara McClintock) are discrete, mobile genetic elements that encode transposase enzymes flanked by terminal inverted repeats, allowing them to excise or replicate and insert into new locations within chromosomes or plasmids.\n• Why Other Options Are Incorrect:\n  - Gene: A fixed functional genetic coding sequence.\n  - Plasmid: An autonomous, circular extrachromosomal replicon.\n  - Codon: A 3-nucleotide triplet in mRNA specifying an amino acid."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following processes involves the transfer of DNA between bacteria through direct cell-to-cell contact?",
+    "options": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Replication"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacterial conjugation is the transfer of genetic material (usually a conjugative plasmid) directly from a donor bacterium to a recipient bacterium through physical cell-to-cell contact mediated by a sex pilus and mating bridge.\n• Why Other Options Are Incorrect:\n  - Transformation: Uptake of naked DNA directly from the surrounding extracellular solution without cell contact.\n  - Transduction: Virus-mediated gene transfer where a bacteriophage carries host DNA between cells without donor-recipient contact.\n  - Replication: Duplication of an organism's own DNA."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a small, circular piece of DNA that contains genes independent of the bacterial chromosome?",
+    "options": [
+      "Plasmid",
+      "Gene",
+      "Promoter",
+      "Codon"
+    ],
+    "correct_answer": "Plasmid",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A plasmid is an extrachromosomal, self-replicating, closed-circular double-stranded DNA molecule that carries non-essential accessory genes (such as beta-lactamase resistance genes or bacteriocin production) that provide adaptive advantages under selective pressures.\n• Why Other Options Are Incorrect:\n  - Gene: A linear sequence of nucleotides encoding a protein or RNA within DNA.\n  - Promoter: A regulatory region upstream of a transcription start site.\n  - Codon: A nucleotide triplet in an mRNA transcript."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following mechanisms involves the transfer of bacterial DNA by a bacteriophage (virus)?",
+    "options": [
+      "Transformation",
+      "Conjugation",
+      "Transduction",
+      "Replication"
+    ],
+    "correct_answer": "Transduction",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Transduction (discovered by Norton Zinder and Joshua Lederberg in 1952) occurs when a bacteriophage accidentally packages fragments of host bacterial chromosomal or plasmid DNA into its capsid instead of or along with viral DNA. When the phage infects a new recipient bacterium, the donor bacterial DNA is injected and integrated via homologous recombination.\n• Why Other Options Are Incorrect:\n  - Transformation: Direct uptake of naked exogenous DNA from the environment.\n  - Conjugation: Contact-dependent plasmid transfer via a sex pilus.\n  - Replication: Normal cellular synthesis of DNA before division."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is an enzyme involved in the repair of DNA damage?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "DNA repair polymerase"
+    ],
+    "correct_answer": "DNA repair polymerase",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Specialized DNA repair polymerases (such as DNA Polymerase I, Polymerase II, IV, and V in E. coli, or Pol beta/kappa/eta in eukaryotes) are specialized enzymes that resynthesize missing or damaged nucleotides during Base Excision Repair (BER), Nucleotide Excision Repair (NER), and translesion DNA synthesis.\n• Why Other Options Are Incorrect:\n  - DNA polymerase: General primary replicative polymerases (Pol III) handle bulk semi-conservative replication rather than lesion bypassing/repair.\n  - Helicase: Unwinds the duplex strands.\n  - Ligase: Performs the terminal phosphodiester ligation, but the repair resynthesis step is executed by repair polymerase."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following processes involves the synthesis of an RNA molecule from a DNA template?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transduction"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Transcription is the enzymatic process by which RNA polymerase reads the antisense (template) strand of a DNA molecule to synthesize a complementary single-stranded RNA transcript (mRNA, tRNA, rRNA) using ribonucleoside triphosphates (rNTPs).\n• Why Other Options Are Incorrect:\n  - Translation: Ribosomal synthesis of a protein polypeptide from an mRNA sequence.\n  - Replication: Synthesis of a duplicate DNA strand from a DNA template.\n  - Transduction: Viral transfer of bacterial DNA."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is an essential protein that binds to DNA and helps initiate the transcription of genes?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Ligase",
+      "RNA polymerase"
+    ],
+    "correct_answer": "RNA polymerase",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: RNA polymerase (along with its sigma factor subunit in prokaryotes, or basal transcription factors in eukaryotes) binds specifically to promoter regions of DNA to unwind the local helix and initiate the transcription of genes into RNA.\n• Why Other Options Are Incorrect:\n  - DNA polymerase: Initiates and executes DNA replication, not transcription.\n  - Helicase: Unwinds replication forks.\n  - Ligase: Catalyzes phosphodiester sealings in DNA."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a mutation that involves the insertion or deletion of a nucleotide, resulting in a shift in the reading frame of the genetic code?",
+    "options": [
+      "Point mutation",
+      "Silent mutation",
+      "Frameshift mutation",
+      "Missense mutation"
+    ],
+    "correct_answer": "Frameshift mutation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Because mRNA codons are read in non-overlapping triplets of three nucleotides, the insertion or deletion of any number of nucleotides that is not a multiple of three alters the translational reading frame of all downstream triplets, completely changing the downstream amino acid sequence and typically creating a premature stop codon.\n• Why Other Options Are Incorrect:\n  - Point mutation: A change in a single nucleotide base pair (can be silent, missense, or nonsense) without shifting the frame.\n  - Silent mutation: A point mutation where the altered codon still encodes the identical amino acid due to code degeneracy.\n  - Missense mutation: A point mutation that results in the substitution of one amino acid for another without changing the reading frame."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is an enzyme that can cut DNA at specific recognition sequences?",
+    "options": [
+      "DNA polymerase",
+      "Helicase",
+      "Restriction enzyme",
+      "RNA polymerase"
+    ],
+    "correct_answer": "Restriction enzyme",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Restriction endonucleases (restriction enzymes, e.g., EcoRI, HindIII, BamHI) are bacterial defense enzymes that recognize specific short palindromic nucleotide sequences (usually 4 to 8 base pairs) and cleave phosphodiester bonds on both DNA strands, producing sticky or blunt ends essential for recombinant DNA cloning.\n• Why Other Options Are Incorrect:\n  - DNA polymerase: Synthesizes DNA strands by adding dNTPs.\n  - Helicase: Unwinds hydrogen-bonded duplex DNA.\n  - RNA polymerase: Synthesizes RNA transcripts."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following processes involves the decoding of the mRNA sequence to synthesize a protein?",
+    "options": [
+      "Translation",
+      "Transcription",
+      "Replication",
+      "Transduction"
+    ],
+    "correct_answer": "Translation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Translation is the ribosome-catalyzed process where the sequential triplet codons of an mRNA molecule are decoded by complementary tRNA anticodons to assemble amino acids into a specific polypeptide chain with peptide bonds.\n• Why Other Options Are Incorrect:\n  - Transcription: Copying a DNA sequence into an mRNA transcript.\n  - Replication: Copying DNA into two identical DNA molecules.\n  - Transduction: Bacteriophage transfer of genetic material between bacteria."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a change in a single nucleotide in the DNA sequence?",
+    "options": [
+      "Point mutation",
+      "Silent mutation",
+      "Frameshift mutation",
+      "Missense mutation"
+    ],
+    "correct_answer": "Point mutation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A point mutation is a genetic alteration affecting only a single nucleotide base pair within a DNA molecule (such as a transition or transversion). Silent, missense, and nonsense mutations are specific functional outcomes of point mutations.\n• Why Other Options Are Incorrect:\n  - Silent mutation: A subcategory of point mutation where the translated amino acid is unaffected.\n  - Frameshift mutation: Insertion or deletion of bases altering the entire reading frame.\n  - Missense mutation: A subcategory of point mutation that changes an amino acid to a different one."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is an example of horizontal gene transfer in bacteria?",
+    "options": [
+      "Mutation",
+      "DNA replication",
+      "Conjugation",
+      "DNA repair"
+    ],
+    "correct_answer": "Conjugation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Horizontal Gene Transfer (HGT) is the transmission of genetic material between distinct individual bacterial cells rather than vertical inheritance from parent to offspring. The three canonical HGT mechanisms in bacteria are Conjugation (via direct contact/pilus), Transformation (uptake of free DNA), and Transduction (bacteriophage-mediated).\n• Why Other Options Are Incorrect:\n  - Mutation: A spontaneous or induced alteration in an existing cell's genome, not a gene transfer process.\n  - DNA replication: Vertical duplication of genetic material during cell division.\n  - DNA repair: Intracellular enzymatic correction of DNA lesions."
+  }
+]

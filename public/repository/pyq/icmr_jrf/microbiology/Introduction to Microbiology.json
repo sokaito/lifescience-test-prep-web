@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Louis Pasteur is not associated with",
+    "options": [
+      "Introduction of complex media",
+      "Discovery of rabies vaccine",
+      "Discovery of phenomenon of phagocytosis",
+      "Disproving spontaneous regression theory"
+    ],
+    "correct_answer": "Discovery of phenomenon of phagocytosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The phenomenon of phagocytosis (engulfment and destruction of foreign pathogens by cellular white blood cells) was discovered in 1882 by the Russian zoologist Élie Metchnikoff (who won the Nobel Prize in 1908), not Louis Pasteur. Louis Pasteur is celebrated for developing vaccines against rabies and anthrax, inventing pasteurization, and experimentally disproving the doctrine of spontaneous generation.\n• Why Other Options Are Incorrect:\n  - Introduction of complex media: Pasteur developed nutrient broths and complex liquid culture media for cultivating bacteria.\n  - Discovery of rabies vaccine: Pasteur successfully created the world's first attenuated rabies vaccine in 1885.\n  - Disproving spontaneous generation: Pasteur used his famous swan-neck flask experiments to prove biogenesis (life arises only from pre-existing life)."
+  },
+  {
+    "id": 2,
+    "question": "The process of killing all microorganisms along with their spores is:",
+    "options": [
+      "Disinfection",
+      "Sterilization",
+      "Antisepsis",
+      "Sanitization"
+    ],
+    "correct_answer": "Sterilization",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Sterilization is defined as the absolute physical or chemical destruction or elimination of all forms of microbial life, including vegetative bacterial cells, fungal spores, viruses, and highly resistant bacterial endospores (e.g., using autoclaving at 121°C for 15 minutes).\n• Why Other Options Are Incorrect:\n  - Disinfection: Kills most pathogenic vegetative microorganisms on inanimate surfaces, but typically fails to kill bacterial endospores.\n  - Antisepsis: Application of chemical agents to living skin or mucous membranes to inhibit microbial growth, without guaranteeing sterility.\n  - Sanitization: Cleaning process that reduces microbial counts on utensils or surfaces to levels deemed safe by public health standards."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not an example of a gram-negative bacteria?",
+    "options": [
+      "Escherichia coli",
+      "Pseudomonas aeruginosa",
+      "Staphylococcus aureus",
+      "Klebsiella pneumoniae"
+    ],
+    "correct_answer": "Staphylococcus aureus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Staphylococcus aureus is a Gram-positive bacterium. It possesses a thick, multi-layered peptidoglycan cell wall containing teichoic acids that traps the crystal violet-iodine complex, staining deep purple/blue under the Gram stain.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: A classic Gram-negative rod (bacillus) that stains pink/red with safranin.\n  - Pseudomonas aeruginosa: An opportunistic Gram-negative rod found in soil and water.\n  - Klebsiella pneumoniae: An encapsulated Gram-negative rod causing pneumonia and urinary tract infections."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not a mechanism of antibiotic resistance?",
+    "options": [
+      "Production of enzymes that inactivate antibiotics",
+      "Alteration of the target site of the antibiotic",
+      "Increased efflux of the antibiotic from the cell",
+      "Production of new antibiotics"
+    ],
+    "correct_answer": "Production of new antibiotics",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Producing new antibiotics is a human pharmaceutical drug development discovery effort, not a bacterial cellular resistance mechanism. Bacteria survive antibiotics through three major evolved biochemical mechanisms: destroying the drug, altering the binding target, or pumping the drug out.\n• Why Other Options Are Incorrect:\n  - Inactivating enzymes: Bacteria produce enzymes like beta-lactamases that chemically destroy the antibiotic.\n  - Alteration of target site: Mutating ribosomal RNA or penicillin-binding proteins (PBPs) so the drug can no longer bind.\n  - Increased efflux pumps: Membrane transport proteins actively pump antibiotic molecules out of the bacterial cytoplasm."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not a viral hemorrhagic fever?",
+    "options": [
+      "Ebola",
+      "Marburg",
+      "Lassa",
+      "Typhoid"
+    ],
+    "correct_answer": "Typhoid",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Typhoid fever is a bacterial infection caused by Salmonella enterica serotype Typhi. It is an enteric fever characterized by step-ladder fever, abdominal pain, rose spots, and hepatosplenomegaly.\n• Why Other Options Are Incorrect:\n  - Ebola: A filovirus causing severe viral hemorrhagic fever with extensive internal and external bleeding.\n  - Marburg: A filovirus closely related to Ebola causing severe hemorrhagic fever.\n  - Lassa: An arenavirus endemic to West Africa causing acute viral hemorrhagic illness."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is not a common cause of hospital-acquired infections?",
+    "options": [
+      "Staphylococcus aureus",
+      "Escherichia coli",
+      "Pseudomonas aeruginosa",
+      "Methicillin-resistant Staphylococcus aureus (MRSA)"
+    ],
+    "correct_answer": "Methicillin-resistant Staphylococcus aureus (MRSA)",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In the exam key, Option (4) is designated as the marked answer. In clinical medicine, hospital-acquired infections (nosocomial infections) are caused by standard hospital pathogens including S. aureus, E. coli, and P. aeruginosa, with MRSA representing a specific antibiotic-resistant sub-strain.\n• Why Other Options Are Incorrect:\n  - Staphylococcus aureus: Common cause of post-surgical wound infections.\n  - Escherichia coli: Common cause of catheter-associated urinary tract infections (CAUTIs).\n  - Pseudomonas aeruginosa: Leading cause of ventilator-associated pneumonia and burn wound infections in ICUs."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not a type of hepatitis virus?",
+    "options": [
+      "Hepatitis A virus",
+      "Hepatitis B virus",
+      "Hepatitis C virus",
+      "Hepatitis D virus"
+    ],
+    "correct_answer": "Hepatitis D virus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official exam key, Option (4) is designated as the answer (biologically, Hepatitis D is a defective subviral delta agent that requires the presence of Hepatitis B surface antigen to assemble and replicate, unlike standalone independent viruses A, B, and C).\n• Why Other Options Are Incorrect:\n  - Hepatitis A: A picornavirus spread fecal-orally causing acute viral hepatitis.\n  - Hepatitis B: An enveloped hepadnavirus with partially double-stranded DNA spread via blood and bodily fluids.\n  - Hepatitis C: A flavivirus with positive-sense RNA causing chronic liver hepatitis."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is not a symptom of tuberculosis?",
+    "options": [
+      "Coughing up blood",
+      "Fever and night sweats",
+      "Weight gain",
+      "Fatigue and weakness"
+    ],
+    "correct_answer": "Weight gain",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Tuberculosis causes severe anorexia, chronic cachexia, and unexplained profound weight loss (which is why the disease was historically termed \"consumption\"). Weight gain never occurs in untreated active tuberculosis.\n• Why Other Options Are Incorrect:\n  - Coughing up blood (Hemoptysis): Frequent sign caused by cavitary lung necrosis eroding pulmonary vessels.\n  - Fever and night sweats: Classic hallmark symptoms triggered by circulating pyrogenic cytokines (TNF-alpha, IL-1).\n  - Fatigue and weakness: Result of chronic infection, hypoxemia, and muscle wasting."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is not a fungal infection of the skin?",
+    "options": [
+      "Ringworm",
+      "Athlete's foot",
+      "Thrush",
+      "Blackhead disease"
+    ],
+    "correct_answer": "Blackhead disease",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Blackhead disease (histomoniasis) is a severe avian disease in turkeys and poultry caused by the flagellated protozoan parasite Histomonas meleagridis, not a fungus.\n• Why Other Options Are Incorrect:\n  - Ringworm (Tinea corporis): Superficial fungal infection of the skin caused by dermatophytes (Trichophyton, Microsporum).\n  - Athlete's foot (Tinea pedis): Fungal dermatophyte infection affecting the feet and toes.\n  - Thrush: Fungal infection of skin folds and mucous membranes caused by the yeast Candida albicans."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is not a type of sexually transmitted infection?",
+    "options": [
+      "Chlamydia",
+      "Gonorrhea",
+      "Syphilis",
+      "Tuberculosis"
+    ],
+    "correct_answer": "Tuberculosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Tuberculosis is a respiratory airborne disease transmitted through inhalation of aerosolized droplet nuclei expelled when an infected person coughs, sneezes, or speaks; it is not a sexually transmitted infection.\n• Why Other Options Are Incorrect:\n  - Chlamydia: Caused by Chlamydia trachomatis, a leading bacterial STI.\n  - Gonorrhea: Caused by Neisseria gonorrhoeae, a classic sexually transmitted infection.\n  - Syphilis: Caused by the spirochete Treponema pallidum, transmitted sexually."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not a type of malaria parasite?",
+    "options": [
+      "Plasmodium falciparum",
+      "Plasmodium vivax",
+      "Plasmodium malariae",
+      "Plasmodium brucei"
+    ],
+    "correct_answer": "Plasmodium brucei",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: There is no organism named \"Plasmodium brucei\". The specific name \"brucei\" belongs to Trypanosoma brucei, a kinetoplastid protozoan transmitted by tsetse flies that causes African trypanosomiasis (sleeping sickness).\n• Why Other Options Are Incorrect:\n  - Plasmodium falciparum: The most virulent human malaria parasite, causing malignant tertian malaria.\n  - Plasmodium vivax: Common human malaria parasite with dormant liver hypnozoites causing relapses.\n  - Plasmodium malariae: Causes quartan malaria characterized by 72-hour fever cycles."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is not a bacterial toxin?",
+    "options": [
+      "Tetanus toxin",
+      "Botulinum toxin",
+      "Cholera toxin",
+      "Influenza toxin"
+    ],
+    "correct_answer": "Influenza toxin",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Influenza is caused by an Orthomyxovirus (an RNA virus) that damages the respiratory epithelium through viral cytolysis and immune inflammation; it does not produce bacterial exotoxins.\n• Why Other Options Are Incorrect:\n  - Tetanus toxin (tetanospasmin): Neurotoxin produced by the bacterium Clostridium tetani.\n  - Botulinum toxin: The most potent biological neurotoxin known, produced by the bacterium Clostridium botulinum.\n  - Cholera toxin (choleragen): An AB enterotoxin produced by Vibrio cholerae causing massive secretory diarrhea."
+  },
+  {
+    "id": 13,
+    "question": "Who discovered penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "correct_answer": "Alexander Fleming",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Sir Alexander Fleming discovered penicillin in September 1928 at St. Mary's Hospital in London. He observed that a fungal contaminant, Penicillium notatum, produced a diffusible substance that lysed surrounding colonies of Staphylococcus aureus on a culture plate.\n• Why Other Options Are Incorrect:\n  - Louis Pasteur: Pioneered germ theory, pasteurization, and vaccines for anthrax and rabies.\n  - Robert Koch: Formulated Koch's postulates and discovered the bacterial causes of tuberculosis, anthrax, and cholera.\n  - Edward Jenner: Developed the first smallpox vaccine in 1796 using cowpox virus."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is not a bacterial shape?",
+    "options": [
+      "Cocci",
+      "Bacilli",
+      "Spirilla",
+      "Spheroids"
+    ],
+    "correct_answer": "Spheroids",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The primary morphological shapes of bacteria are Cocci (spherical), Bacilli (rod-shaped), Spirilla (rigid spirals), and Spirochetes (flexible spirals). \"Spheroids\" is an informal geometric 3D term, not a recognized microbiological bacterial classification.\n• Why Other Options Are Incorrect:\n  - Cocci: Spherical or ovoid bacterial cells (e.g., Streptococcus, Staphylococcus).\n  - Bacilli: Cylindrical, rod-shaped bacterial cells (e.g., Bacillus, E. coli).\n  - Spirilla: Rigid, helical spiral-shaped bacteria (e.g., Spirillum volutans)."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is not a viral disease?",
+    "options": [
+      "Polio",
+      "Influenza",
+      "Measles",
+      "Malaria"
+    ],
+    "correct_answer": "Malaria",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Malaria is caused by eukaryotic, unicellular protozoan parasites of the genus Plasmodium, transmitted through the bite of an infected female Anopheles mosquito.\n• Why Other Options Are Incorrect:\n  - Polio: Caused by Poliovirus (a picornavirus).\n  - Influenza: Caused by Influenza virus (an orthomyxovirus).\n  - Measles: Caused by Measles virus (a paramyxovirus)."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is not a type of immunity?",
+    "options": [
+      "Active immunity",
+      "Passive immunity",
+      "Innate immunity",
+      "Artificial immunity"
+    ],
+    "correct_answer": "Artificial immunity",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official exam key, Option (4) is designated as the answer. In classical immunology, the two fundamental operational branches of immunity are Innate Immunity and Adaptive (Acquired) Immunity, the latter functioning via Active or Passive mechanisms.\n• Why Other Options Are Incorrect:\n  - Active immunity: The host's own immune system produces antibodies and memory cells in response to an antigen.\n  - Passive immunity: Conferred by transferring pre-formed antibodies directly to an individual (e.g., maternal IgG crossing the placenta).\n  - Innate immunity: Non-specific, germline-encoded host defense mechanisms present from birth."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is not a mode of transmission of infectious diseases?",
+    "options": [
+      "Airborne transmission",
+      "Vector-borne transmission",
+      "Foodborne transmission",
+      "Thermal transmission"
+    ],
+    "correct_answer": "Thermal transmission",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: \"Thermal transmission\" is the thermodynamic transfer of heat energy (conduction, convection, radiation) between physical bodies, not a biological mode of pathogen transmission.\n• Why Other Options Are Incorrect:\n  - Airborne transmission: Inhalation of microscopic aerosolized droplet nuclei suspended in air (e.g., tuberculosis, measles).\n  - Vector-borne transmission: Transmission by arthropod vectors like mosquitoes, ticks, or fleas (e.g., malaria, dengue).\n  - Foodborne transmission: Ingestion of contaminated food containing pathogens or enterotoxins (e.g., salmonellosis, botulism)."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is not a function of the skin?",
+    "options": [
+      "Protection",
+      "Sensation",
+      "Temperature regulation",
+      "Digestion"
+    ],
+    "correct_answer": "Digestion",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Digestion is the mechanical and biochemical breakdown of food into absorbable nutrients, which takes place exclusively inside the alimentary canal (mouth, stomach, small intestine).\n• Why Other Options Are Incorrect:\n  - Protection: The stratum corneum, keratin, and melanin shield the body against physical trauma, pathogens, and UV radiation.\n  - Sensation: Cutaneous sensory receptors detect touch, pressure, pain, and temperature.\n  - Temperature regulation: Sweating and dermal blood vessel dilation/constriction regulate core body temperature."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is not a type of antibiotic?",
+    "options": [
+      "Penicillins",
+      "Tetracyclines",
+      "Macrolides",
+      "Vaccines"
+    ],
+    "correct_answer": "Vaccines",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Vaccines are preventive immunological formulations containing weakened, killed, or subunit antigens that train the host immune system to create protective antibodies before exposure. They do not directly kill bacteria or treat active bacterial infections as therapeutic antibiotics do.\n• Why Other Options Are Incorrect:\n  - Penicillins: Beta-lactam bactericidal antibiotics that inhibit bacterial cell wall peptidoglycan synthesis.\n  - Tetracyclines: Broad-spectrum bacteriostatic antibiotics that inhibit bacterial protein synthesis by binding to the 30S ribosomal subunit.\n  - Macrolides: Antibiotics (e.g., erythromycin, azithromycin) that inhibit protein synthesis by binding to the 50S ribosomal subunit."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is not a type of white blood cell?",
+    "options": [
+      "Erythrocytes",
+      "Neutrophils",
+      "Lymphocytes",
+      "Monocytes"
+    ],
+    "correct_answer": "Erythrocytes",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Erythrocytes are red blood cells (RBCs). They are biconcave, anucleated cells filled with hemoglobin whose exclusive primary function is oxygen and carbon dioxide gas transport.\n• Why Other Options Are Incorrect:\n  - Neutrophils: The most abundant white blood cell (leukocyte), specialized for phagocytosis of bacteria.\n  - Lymphocytes: Crucial white blood cells of adaptive immunity (B cells, T cells, and NK cells).\n  - Monocytes: Large circulating agranulocytic white blood cells that differentiate into macrophages and dendritic cells in tissues."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is not a fungal disease?",
+    "options": [
+      "Candidiasis",
+      "Aspergillosis",
+      "Histoplasmosis",
+      "Meningitis"
+    ],
+    "correct_answer": "Meningitis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Meningitis is a clinical anatomical diagnosis describing inflammation of the meninges (the membranes covering the brain and spinal cord). It is most commonly caused by bacteria (e.g., Neisseria meningitidis) or viruses (Enteroviruses), whereas Candidiasis, Aspergillosis, and Histoplasmosis are specific fungal mycoses.\n• Why Other Options Are Incorrect:\n  - Candidiasis: Opportunistic fungal infection caused by Candida albicans.\n  - Aspergillosis: Fungal mold infection caused by Aspergillus species.\n  - Histoplasmosis: Dimorphic fungal infection caused by Histoplasma capsulatum."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is not a method of controlling the spread of infectious diseases?",
+    "options": [
+      "Vaccination",
+      "Quarantine",
+      "Social distancing",
+      "Inducing fever"
+    ],
+    "correct_answer": "Inducing fever",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Inducing a fever in individual patients is not a public health epidemiological control measure to stop disease transmission across a community. Controlling infectious disease spread requires preventing transmission chains.\n• Why Other Options Are Incorrect:\n  - Vaccination: Generates herd immunity to block transmission.\n  - Quarantine: Restricts the movement of exposed individuals to prevent potential transmission.\n  - Social distancing: Physical distancing decreases the probability of respiratory droplet contact between infected and susceptible individuals."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is not an example of innate immunity?",
+    "options": [
+      "Inflammation",
+      "Complement system",
+      "Antibody production",
+      "Natural killer cells"
+    ],
+    "correct_answer": "Antibody production",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Antibody production is the hallmark of Adaptive (Humoral) Immunity. It is carried out by antigen-specific B lymphocytes that differentiate into antibody-secreting plasma cells, requiring clonal selection and expansion over several days.\n• Why Other Options Are Incorrect:\n  - Inflammation: Non-specific innate vascular and cellular response to tissue injury or infection.\n  - Complement system: A cascade of plasma proteins that attack pathogens immediately via the alternative and lectin innate pathways.\n  - Natural killer (NK) cells: Innate cytotoxic lymphocytes that destroy virus-infected and tumor cells without prior sensitization."
+  },
+  {
+    "id": 24,
+    "question": "Which type of T cell is responsible for recognizing and killing infected host cells?",
+    "options": [
+      "Helper T cells",
+      "Memory T cells",
+      "Cytotoxic T cells",
+      "Regulatory T cells"
+    ],
+    "correct_answer": "Cytotoxic T cells",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Cytotoxic T cells (CD8+ T cells) recognize foreign antigenic peptides displayed on MHC Class I molecules on the surface of virus-infected or cancerous host cells. Upon activation, they release perforin (which forms pores in the target membrane) and granzymes, triggering targeted apoptosis.\n• Why Other Options Are Incorrect:\n  - Helper T cells (CD4+): Coordinate the immune response by secreting cytokines that activate B cells, cytotoxic T cells, and macrophages.\n  - Memory T cells: Long-lived antigen-experienced cells that persist after an infection to provide rapid protection upon re-infection.\n  - Regulatory T cells (Tregs): Suppress immune responses and maintain self-tolerance to prevent autoimmunity."
+  },
+  {
+    "id": 25,
+    "question": "Which type of immunoglobulin is present in saliva, tears, and breast milk?",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgA",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Immunoglobulin A (IgA) is the primary antibody of mucosal surfaces. In external secretions (saliva, tears, colostrum, breast milk, and bronchial/gastrointestinal mucus), it exists as a dimer (Secretory IgA) protected by a secretory component against enzymatic degradation, preventing microbial attachment to epithelial surfaces.\n• Why Other Options Are Incorrect:\n  - IgD: Primarily acts as an antigen receptor on the surface of naive mature B lymphocytes.\n  - IgE: Binds to Fc receptors on mast cells and basophils, mediating allergic reactions and immunity against parasitic helminths.\n  - IgG: The most abundant antibody class in blood serum and the only immunoglobulin that crosses the placenta to confer passive immunity to the fetus."
+  }
+]

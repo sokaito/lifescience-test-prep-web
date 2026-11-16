@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a nucleotide sequence database?",
+    "options": [
+      "EMBL",
+      "SWISS PROT",
+      "PROSITE",
+      "TREMBL"
+    ],
+    "correct_answer": "EMBL",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: EMBL (European Molecular Biology Laboratory, now known as ENA - European Nucleotide Archive) is a primary nucleotide sequence database that collects, stores, and distributes DNA and RNA sequences. Together with GenBank (USA) and DDBJ (Japan), it forms the International Nucleotide Sequence Database Collaboration (INSDC).\n• Why Other Options Are Incorrect:\n  - SWISS PROT: This is a curated protein sequence database, not a nucleotide (DNA/RNA) database.\n  - PROSITE: This is a database of protein domains, families, and functional site patterns.\n  - TREMBL: A computer-translated supplement of EMBL that contains protein sequences, not nucleotide sequences."
+  },
+  {
+    "id": 2,
+    "question": "Taxonomy using 16S rRNA was defined by:",
+    "options": [
+      "Watson",
+      "Huckley",
+      "Woese",
+      "Crick"
+    ],
+    "correct_answer": "Woese",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Carl Woese pioneered phylogenetic taxonomy based on 16S ribosomal RNA (16S rRNA) sequencing. Because 16S rRNA is present in all bacteria and archaea and changes very slowly over millions of years, comparing its sequence acts as an evolutionary clock. This breakthrough led Woese to discover Archaea as a completely separate third domain of life.\n• Why Other Options Are Incorrect:\n  - Watson & Crick: James Watson and Francis Crick solved the double-helix structure of DNA in 1953, not 16S rRNA taxonomy.\n  - Huckley: Refers to Thomas Henry Huxley, a famous 19th-century comparative anatomist and supporter of Darwin's theory of evolution, before molecular sequencing existed."
+  },
+  {
+    "id": 3,
+    "question": "DNA Sequencing 'depth' is also known by another term:",
+    "options": [
+      "Amount",
+      "Coverage",
+      "Trend",
+      "Consensus"
+    ],
+    "correct_answer": "Coverage",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In DNA sequencing, \"depth\" is commonly referred to as \"coverage\" (e.g., 30x coverage). It represents the average number of times a single nucleotide base in the genome is independently read by sequencing instruments. High coverage ensures that sequencing mistakes are detected and corrected, giving high confidence in the final sequence.\n• Why Other Options Are Incorrect:\n  - Amount: Refers to the physical mass or volume of DNA (e.g., micrograms of DNA in a tube), not how many times a base is sequenced.\n  - Trend: A general statistical direction of change, not related to sequencing redundancy.\n  - Consensus: A consensus sequence is the single calculated sequence representing the most common base found at each position after aligning multiple reads."
+  },
+  {
+    "id": 4,
+    "question": "Two sequences are said to be homologous if:",
+    "options": [
+      "they have diverged from a common ancestor",
+      "their alignments share 30% identity or more",
+      "they belong to the same fold family",
+      "they have converged to share similar functional properties"
+    ],
+    "correct_answer": "they have diverged from a common ancestor",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Homology is a qualitative, binary evolutionary concept (two genes are either homologous or they are not). Two sequences are homologous if and only if they share a common evolutionary ancestor from which they diverged over time.\n• Why Other Options Are Incorrect:\n  - Share 30% identity or more: Percentage identity is a quantitative observation used to infer homology, but sequence identity alone does not define homology.\n  - Same fold family: Different non-homologous proteins can adopt similar 3D folds purely due to physical and thermodynamic constraints.\n  - Converged to share similar functional properties: Convergent evolution produces analogous features (structures that do similar jobs without sharing common ancestry, like bird wings and insect wings), which is the opposite of homology."
+  },
+  {
+    "id": 5,
+    "question": "The first clinical application of gene therapy over a 4-year-old girl was for:",
+    "options": [
+      "Adenosine deaminase deficiency",
+      "Adenosine deficiency",
+      "Growth deficiency",
+      "Adenine deficiency"
+    ],
+    "correct_answer": "Adenosine deaminase deficiency",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: On September 14, 1990, the first approved clinical gene therapy was performed on 4-year-old Ashanti DeSilva. She suffered from Severe Combined Immunodeficiency (SCID) caused by a genetic mutation in the Adenosine Deaminase (ADA) gene. Doctors removed her white blood cells, inserted a normal working copy of the ADA gene using a retroviral vector, and infused the cells back into her body.\n• Why Other Options Are Incorrect:\n  - Adenosine deficiency: Adenosine is a normal cellular nucleoside. The disease is caused by the lack of the enzyme that breaks it down (deaminase), causing toxic build-up of deoxyadenosine that kills immune cells.\n  - Growth deficiency: This refers to growth hormone deficiency (pituitary dwarfism), which is treated with recombinant growth hormone, not the landmark 1990 trial.\n  - Adenine deficiency: Adenine is a purine base, not the deficient enzyme causing SCID."
+  },
+  {
+    "id": 6,
+    "question": "In sequence alignment by BLAST, each word from the query sequence is typically _____ residues for protein sequences and _____ residues for DNA sequences.",
+    "options": [
+      "ten, eleven",
+      "three, three",
+      "three, eleven",
+      "three, ten"
+    ],
+    "correct_answer": "three, three",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: According to the exam answer key, the answer is given as (2) three, three. In BLAST algorithms, sequences are broken down into small overlapping fragments called \"words\" (k-mers). In standard practice, BLASTP (protein) typically uses a word size (W) of 3, while standard nucleotide BLASTN uses W = 11 (or W = 3 in specific sensitive short-seed modes). The exam key marks three, three as the designated answer.\n• Why Other Options Are Incorrect:\n  - Ten, eleven: Protein word size is never set as high as 10 for standard searches because exact 10-amino-acid matches are too rare between distant homologs.\n  - Three, eleven: While W=3 (protein) and W=11 (DNA) are standard defaults in modern NCBI BLAST tools, the specific answer designated in the official book key for this question is (2).\n  - Three, ten: Ten is not a standard BLAST word size setting."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is an example of a primary nucleotide sequence database?",
+    "options": [
+      "GenBank",
+      "UniProt",
+      "PDB",
+      "Pfam"
+    ],
+    "correct_answer": "GenBank",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: GenBank (managed by NCBI in the USA) is the world's most widely known primary nucleotide sequence database. It contains raw, experimentally derived DNA and RNA sequences submitted directly by researchers worldwide.\n• Why Other Options Are Incorrect:\n  - UniProt: A comprehensive protein sequence database, not for nucleotide sequences.\n  - PDB (Protein Data Bank): Stores 3D atomic coordinates of proteins and nucleic acid structures, not primary 1D nucleotide sequences.\n  - Pfam: A secondary database of protein families and domains based on hidden Markov models (HMMs)."
+  },
+  {
+    "id": 8,
+    "question": "What is the primary purpose of a nucleotide sequence database?",
+    "options": [
+      "To provide structural information of proteins",
+      "To store experimentally determined protein sequences",
+      "To facilitate the search and retrieval of nucleotide sequences",
+      "To perform protein sequence alignments"
+    ],
+    "correct_answer": "To facilitate the search and retrieval of nucleotide sequences",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Nucleotide sequence databases exist primarily to store, catalog, and make DNA and RNA sequence information easily searchable and downloadable for scientists across the globe, supporting biological research and discovery.\n• Why Other Options Are Incorrect:\n  - Provide structural information of proteins: This is the specific job of structural databases like PDB (Protein Data Bank).\n  - Store experimentally determined protein sequences: This is handled by protein sequence databases like UniProtKB/Swiss-Prot.\n  - Perform protein sequence alignments: Databases store the raw data; alignment software tools (like BLAST, Clustal, or MUSCLE) perform the actual alignments."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following features are typically included in a primary nucleotide sequence database entry?",
+    "options": [
+      "Sequence alignment information",
+      "Protein structure predictions",
+      "Functional annotations",
+      "Experimental methods used for sequence determination"
+    ],
+    "correct_answer": "Functional annotations",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A standard entry in GenBank, EMBL, or DDBJ contains the raw nucleotide sequence accompanied by extensive functional annotations. These include feature tables indicating the exact positions of genes, coding sequences (CDS), promoter sites, translation products, and biological functions.\n• Why Other Options Are Incorrect:\n  - Sequence alignment information: Alignments are dynamic results generated when comparing two or more sequences using alignment software, not static data stored inside a single sequence entry.\n  - Protein structure predictions: 3D model predictions belong to computational structural databases (like AlphaFold DB), not primary nucleotide archives.\n  - Experimental methods: While sequencing technology might be mentioned briefly in comments, detailed experimental laboratory protocols are found in research papers rather than standard database entry fields."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following databases is primarily focused on the analysis and annotation of human genomic sequences?",
+    "options": [
+      "GenBank",
+      "ENSEMBL",
+      "UniProt",
+      "PDB"
+    ],
+    "correct_answer": "ENSEMBL",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Ensembl is a joint scientific project between EMBL-EBI and the Wellcome Sanger Institute. It is designed specifically to provide comprehensive, automated annotation, gene prediction, and browser-based visual exploration of vertebrate and human genomes.\n• Why Other Options Are Incorrect:\n  - GenBank: A general universal archive for all organisms (bacteria, viruses, plants, animals), not specifically focused on vertebrate/human genomic annotation.\n  - UniProt: Dedicated to protein sequence cataloging and functional descriptions, not complete human chromosome genomics.\n  - PDB: Archives 3D atomic coordinates of biological molecules, not genomic maps."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following databases is dedicated to collecting and curating microbial genomes and associated data?",
+    "options": [
+      "GenBank",
+      "NCBI Genome Database",
+      "KEGG",
+      "IMG/M"
+    ],
+    "correct_answer": "IMG/M",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: IMG/M (Integrated Microbial Genomes & Microbiomes), developed by the US Department of Energy Joint Genome Institute (JGI), is a specialized platform explicitly dedicated to the curation, comparative analysis, and functional annotation of microbial genomes and complex metagenomes.\n• Why Other Options Are Incorrect:\n  - GenBank: A general repository for all forms of life, not dedicated exclusively to microbes.\n  - NCBI Genome Database: A broad genome database that includes plants, animals, and fungi alongside microbes.\n  - KEGG: A biological pathway and molecular network database, not a specialized microbial genome curation portal."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following databases is widely used for storing and retrieving nucleotide sequences from diverse organisms?",
+    "options": [
+      "GenBank",
+      "UniProt",
+      "Protein Data Bank (PDB)",
+      "Protein Information Resource (PIR)"
+    ],
+    "correct_answer": "GenBank",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: GenBank is the universal public repository of all publicly available nucleotide sequences. It contains sequences from hundreds of thousands of diverse species spanning bacteria, archaea, plants, animals, and viruses.\n• Why Other Options Are Incorrect:\n  - UniProt: Specialized database for protein sequences.\n  - Protein Data Bank (PDB): Stores 3D macromolecular structures.\n  - Protein Information Resource (PIR): A legacy protein sequence database (now part of UniProt)."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following databases focuses on collecting and integrating data related to genetic variation and polymorphisms in human populations?",
+    "options": [
+      "dbSNP",
+      "Swiss-Prot",
+      "RefSeq",
+      "Rfam"
+    ],
+    "correct_answer": "dbSNP",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: dbSNP (Database of Single Nucleotide Polymorphisms), maintained by NCBI, is the central world repository for genetic variations, including single nucleotide polymorphisms (SNPs), small insertions/deletions (indels), and microsatellites in humans and other organisms.\n• Why Other Options Are Incorrect:\n  - Swiss-Prot: Manually reviewed, high-quality protein sequence database.\n  - RefSeq: Provides non-redundant, curated reference standard sequences for normal genomes, transcripts, and proteins.\n  - Rfam: Database of non-coding RNA families and RNA secondary structure models."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following databases specializes in the collection and analysis of non-coding RNA sequences and related information?",
+    "options": [
+      "Rfam",
+      "GenBank",
+      "PDB",
+      "STRING"
+    ],
+    "correct_answer": "Rfam",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Rfam is a collection of non-coding RNA (ncRNA) families. Each family is represented by multiple sequence alignments, consensus secondary structures, and covariance models (CMs) to identify functional RNA elements (such as tRNAs, rRNAs, riboswitches, and microRNAs).\n• Why Other Options Are Incorrect:\n  - GenBank: General primary nucleotide database storing all DNA/RNA, not specialized in non-coding RNA analysis.\n  - PDB: 3D macromolecular structures.\n  - STRING: Database of known and predicted protein-protein physical and functional interaction networks."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following statements best describes the DNA Data Bank of Japan (DDBJ)?",
+    "options": [
+      "It is a database that primarily focuses on protein sequences.",
+      "It is a database that specializes in storing and curating DNA sequences.",
+      "It is a database that provides three-dimensional structures of biomolecules.",
+      "It is a database that focuses on gene expression and regulation."
+    ],
+    "correct_answer": "It is a database that specializes in storing and curating DNA sequences.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: DDBJ (located at the National Institute of Genetics in Mishima, Japan) is the official Asian nucleotide sequence database member of INSDC. Its primary mission is the collection, curation, and preservation of raw DNA and RNA sequences.\n• Why Other Options Are Incorrect:\n  - Focuses on protein sequences: Protein sequence data is managed by databases like UniProt.\n  - Provides 3D structures: Biomolecular structures are curated by wwPDB / PDBj.\n  - Focuses on gene expression: Gene expression profiles are curated in repositories like GEO and ArrayExpress."
+  },
+  {
+    "id": 16,
+    "question": "What is the role of the DNA Data Bank of Japan (DDBJ) in international collaborations?",
+    "options": [
+      "It maintains and provides access to DNA sequences from Japanese research studies only.",
+      "It collaborates with other sequence databases to share and exchange nucleotide sequence data.",
+      "It focuses on the analysis and interpretation of DNA sequence data for functional genomics.",
+      "It provides specialized tools and software for DNA sequence alignment and analysis."
+    ],
+    "correct_answer": "It collaborates with other sequence databases to share and exchange nucleotide sequence data.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Through the International Nucleotide Sequence Database Collaboration (INSDC), DDBJ, GenBank (NCBI), and ENA (EMBL) exchange newly submitted nucleotide sequence data daily so that all three centers maintain identical, synchronized worldwide genetic records.\n• Why Other Options Are Incorrect:\n  - Japanese research studies only: DDBJ accepts international submissions and distributes data from worldwide studies, not just Japan.\n  - Analysis for functional genomics: While analysis tools exist, its primary international collaboration mandate is data synchronization.\n  - Alignment tools: Although DDBJ provides BLAST and Clustal web interfaces, its defining international role is shared data stewardship through INSDC."
+  },
+  {
+    "id": 17,
+    "question": "What is the primary focus of the European Molecular Biology Laboratory (EMBL)?",
+    "options": [
+      "It is a database that specializes in protein structure determination.",
+      "It is a research organization that conducts studies on molecular biology.",
+      "It is a database that provides gene expression data for various organisms.",
+      "It is a research institute that focuses on computational biology and bioinformatics."
+    ],
+    "correct_answer": "It is a research organization that conducts studies on molecular biology.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: EMBL is Europe's flagship intergovernmental laboratory for the life sciences. Founded in 1974, it conducts basic experimental and theoretical research across molecular, cellular, and developmental biology, structural biology, and biophysics across multiple European sites.\n• Why Other Options Are Incorrect:\n  - Database for protein structure: EMBL is a research organization, not simply a structure database (PDBe is a component, but does not define EMBL as a whole).\n  - Database that provides gene expression data: ArrayExpress is an EBI database, but EMBL encompasses broad laboratory biology.\n  - Computational biology only: EMBL includes extensive wet-lab experimental facilities alongside computational biology."
+  },
+  {
+    "id": 18,
+    "question": "What is the significance of the European Molecular Biology Laboratory (EMBL) in scientific research?",
+    "options": [
+      "It provides access to a comprehensive database of genetic information.",
+      "It focuses on the development of novel drug therapies and treatments.",
+      "It offers specialized training programs for young scientists in molecular biology.",
+      "It supports collaborations between industry and academia for biotechnology advancements."
+    ],
+    "correct_answer": "It provides access to a comprehensive database of genetic information.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: One of EMBL's greatest global impacts is through its bioinformatics institute (EMBL-EBI in Hinxton, UK), which maintains comprehensive open-access databases of genetic and genomic information (including Ensembl, ENA, and UniProt) freely available to researchers worldwide.\n• Why Other Options Are Incorrect:\n  - Development of novel drug therapies: EMBL conducts fundamental basic science research rather than commercial pharmaceutical drug manufacturing.\n  - Training programs & industry collaborations: While EMBL conducts advanced training and industry engagement, its foundational global research contribution highlighted here is open access to biological data resources."
+  },
+  {
+    "id": 19,
+    "question": "What is a gene bank?",
+    "options": [
+      "A storage facility for genetically modified organisms.",
+      "A database that stores genetic information of various organisms.",
+      "A laboratory where genes are synthesized and replicated.",
+      "A facility for breeding and maintaining rare or endangered species."
+    ],
+    "correct_answer": "A database that stores genetic information of various organisms.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In the context of molecular biology and bioinformatics, a \"gene bank\" (such as GenBank) is a centralized electronic database that stores, indexes, and organizes nucleotide sequences and genetic information from a wide variety of living organisms.\n• Why Other Options Are Incorrect:\n  - Storage facility for GMOs: These are containment facilities or germplasm repositories, not digital gene banks.\n  - Laboratory where genes are synthesized: That is an oligonucleotide synthesis laboratory or molecular cloning facility.\n  - Facility for breeding endangered species: That describes a zoological conservation center or captive breeding facility."
+  },
+  {
+    "id": 20,
+    "question": "What is the main purpose of a gene bank?",
+    "options": [
+      "To store and preserve genetic material for future use.",
+      "To conduct genetic engineering experiments on various organisms.",
+      "To provide genetic testing services to individuals.",
+      "To create genetically modified organisms for commercial purposes."
+    ],
+    "correct_answer": "To store and preserve genetic material for future use.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The primary purpose of any gene bank (whether physical germplasm repositories or digital sequence archives) is the long-term conservation and preservation of genetic material and information to safeguard biodiversity, prevent genetic erosion, and support future scientific research.\n• Why Other Options Are Incorrect:\n  - Conduct genetic engineering experiments: Gene banks exist to store and preserve material, not to alter or engineer organisms.\n  - Provide genetic testing services: That is the role of clinical diagnostic genetic laboratories.\n  - Create commercial GMOs: Commercial crop development is done by biotech corporations, not gene bank preservation facilities."
+  },
+  {
+    "id": 21,
+    "question": "Which organization is responsible for maintaining the largest gene bank in the world?",
+    "options": [
+      "National Institutes of Health (NIH)",
+      "World Health Organization (WHO)",
+      "International Union for Conservation of Nature (IUCN)",
+      "Consultative Group on International Agricultural Research (CGIAR)"
+    ],
+    "correct_answer": "Consultative Group on International Agricultural Research (CGIAR)",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: CGIAR operates the largest and most widely used network of crop gene banks in the world across 11 international agricultural centers. They conserve over 760,000 distinct accessions of crop, forage, and tree seeds under the International Treaty on Plant Genetic Resources for Food and Agriculture.\n• Why Other Options Are Incorrect:\n  - NIH: The US government's biomedical agency; it funds biomedical research and NCBI (digital sequence databases), not agricultural crop gene banks.\n  - WHO: A specialized agency of the United Nations responsible for international public health, not germplasm seed banks.\n  - IUCN: Focuses on environmental conservation and species risk assessment (Red List), but does not maintain the world's largest crop gene bank collection."
+  },
+  {
+    "id": 22,
+    "question": "What is the significance of gene banks in conservation biology?",
+    "options": [
+      "They facilitate the genetic modification of endangered species.",
+      "They preserve the genetic diversity of rare and endangered species.",
+      "They provide funding for conservation projects worldwide.",
+      "They support the breeding of hybrid organisms for commercial purposes."
+    ],
+    "correct_answer": "They preserve the genetic diversity of rare and endangered species.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Gene banks play a critical role in conservation biology by safely storing seeds, pollen, tissue cultures, frozen gametes, and DNA from rare and endangered species (ex-situ conservation). This protects genetic diversity against habitat destruction, climate change, and catastrophic extinction events.\n• Why Other Options Are Incorrect:\n  - Genetic modification: Conservation gene banks preserve native, wild-type genetic diversity rather than creating artificial GMOs.\n  - Provide funding: Gene banks are scientific storage repositories, not funding grant agencies like the WWF or Global Environment Facility.\n  - Breeding commercial hybrids: Commercial hybrid breeding is performed for agriculture and livestock businesses, not for wildlife conservation."
+  },
+  {
+    "id": 23,
+    "question": "How do researchers access genetic information stored in gene banks?",
+    "options": [
+      "By physically visiting the gene bank facility.",
+      "By submitting a request for specific genetic information.",
+      "By purchasing genetic samples from the gene bank.",
+      "By downloading genetic sequences from online databases."
+    ],
+    "correct_answer": "By downloading genetic sequences from online databases.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In modern genomics and bioinformatics, sequence information stored in major gene banks (like NCBI GenBank, EMBL-EBI, and DDBJ) is freely and publicly accessible over the internet. Researchers can search, view, and download sequences directly to their computers anytime via web browsers, command-line tools, or APIs.\n• Why Other Options Are Incorrect:\n  - Physically visiting: Physical presence is completely unnecessary because all sequence data is digital.\n  - Submitting a request: Public genetic sequence databases do not require formal paperwork or manual approval to download public data.\n  - Purchasing genetic samples: Public digital sequence databases provide sequence data completely free of charge without commercial purchase."
+  },
+  {
+    "id": 24,
+    "question": "What is the Nucleic Acid Database (NDB)?",
+    "options": [
+      "A database that stores information about protein sequences.",
+      "A repository for nucleic acid samples and collections.",
+      "A database that provides structural and sequence information about nucleic acids.",
+      "A laboratory where nucleic acids are synthesized and modified."
+    ],
+    "correct_answer": "A database that provides structural and sequence information about nucleic acids.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Nucleic Acid Database (NDB) is a specialized structural bioinformatics database dedicated to assembling and distributing structural information about nucleic acids (DNA, RNA, and nucleic acid-protein/drug complexes) solved by X-ray crystallography, NMR, and Cryo-EM.\n• Why Other Options Are Incorrect:\n  - Information about protein sequences: That is the role of UniProt.\n  - Repository for nucleic acid samples: NDB is a digital informational database of 3D atomic coordinates, not a physical specimen biobank.\n  - Laboratory for synthesis: NDB is a public data repository, not an experimental synthesis lab."
+  },
+  {
+    "id": 25,
+    "question": "What is the primary purpose of the Nucleic Acid Database (NDB)?",
+    "options": [
+      "To store and preserve nucleic acid samples for future use.",
+      "To conduct experiments on nucleic acid modifications.",
+      "To facilitate the design and synthesis of nucleic acid molecules.",
+      "To provide access to nucleic acid structural data for scientific research."
+    ],
+    "correct_answer": "To provide access to nucleic acid structural data for scientific research.",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The core mission of the NDB is to serve as an open, accessible repository where scientists can search, analyze, visualize, and download 3D structural data (atomic coordinates, geometries, and conformational parameters) of nucleic acids to advance structural biology and drug discovery.\n• Why Other Options Are Incorrect:\n  - Store physical samples: NDB stores digital structural models and files (mmCIF format), not wet physical tubes of nucleic acids.\n  - Conduct experiments: NDB is an archival database; it does not perform wet-lab experimental modifications.\n  - Design and synthesis: While researchers use NDB data to inform molecular design, the database itself does not design or synthesize chemical molecules."
+  }
+]

@@ -84,6 +84,19 @@ export const PYQ_PAPERS: Paper[] = [
   { exam: 'gate', year: 'chemistry/Reaction Kinetics' },
   { exam: 'gate', year: 'chemistry/Thermodynamics' },
   { exam: 'gate', year: 'chemistry/Structure Reactivity Correlations and Organic Reaction Mechanisms' },
+  // Grouped ICMR JRF papers
+  { exam: 'icmr_jrf', year: 'bioinformatics/Nucleotide Sequence Database' },
+  { exam: 'icmr_jrf', year: 'bioinformatics/Protein Sequence Database' },
+  { exam: 'icmr_jrf', year: 'microbiology/Agricultural, Soil, Air and Water Microbiology' },
+  { exam: 'icmr_jrf', year: 'microbiology/Bacterial Genetics' },
+  { exam: 'icmr_jrf', year: 'microbiology/Clinical Microbiology' },
+  { exam: 'icmr_jrf', year: 'microbiology/Industrial, Food and Dairy Microbiology' },
+  { exam: 'icmr_jrf', year: 'microbiology/Introduction to Microbiology' },
+  { exam: 'icmr_jrf', year: 'microbiology/Microbial Cultivation' },
+  { exam: 'icmr_jrf', year: 'microbiology/Microbial Taxonomy and Morphology' },
+  { exam: 'icmr_jrf', year: 'microbiology/Pharmaceutical Microbiology' },
+  { exam: 'icmr_jrf', year: 'veterinary_science/Breeds' },
+  { exam: 'icmr_jrf', year: 'veterinary_science/Ruminant Animals and Diseases' },
 ];
 
 /**

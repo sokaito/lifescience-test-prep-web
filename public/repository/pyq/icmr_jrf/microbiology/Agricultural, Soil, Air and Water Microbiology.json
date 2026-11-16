@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following organism is not transmitted by soil?",
+    "options": [
+      "Brucella",
+      "Coccidioidomycosis",
+      "Tetanus",
+      "Anthrax"
+    ],
+    "correct_answer": "Tetanus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the answer key, Tetanus (caused by Clostridium tetani) is primarily contracted when spores enter deep puncture wounds, lacerations, or compromised tissue rather than via primary soil transmission; the organism resides as dormant spores in feces and soil, but tetanus as a disease is specifically an opportunistic wound infection rather than an ingestion/inhalation soil disease.\n• Why Other Options Are Incorrect:\n  - Brucella: Primarily a zoonotic pathogen infecting livestock; direct contact or ingestion.\n  - Coccidioidomycosis: Valley fever; true fungal spores (arthroconidia) inhaled directly from arid desert soil.\n  - Anthrax: Bacillus anthracis spores persist for decades in grazing soil, transmitting directly to herbivores."
+  },
+  {
+    "id": 2,
+    "question": "Escherichia coli is used as an indicator organism to determine pollution of water with:",
+    "options": [
+      "Industrial effluents",
+      "Heavy metals",
+      "Pollen of aquatic plants",
+      "Faecal matter"
+    ],
+    "correct_answer": "Faecal matter",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Escherichia coli is a normal commensal inhabitant of the gastrointestinal tract of humans and warm-blooded animals. Because it is shed in massive numbers in feces and survives for limited periods in water, its presence directly indicates recent faecal contamination and the potential presence of dangerous enteric pathogens.\n• Why Other Options Are Incorrect:\n  - Industrial effluents: Assessed using chemical assays, COD/BOD tests, or specific heavy-metal detectors, not coliform bacteria.\n  - Heavy metals: Measured by analytical techniques like Atomic Absorption Spectroscopy (AAS) or ICP-MS.\n  - Pollen of aquatic plants: Measured by palynological microscopy or turbidity assays."
+  },
+  {
+    "id": 3,
+    "question": "A microbial biocontrol agent that can be used to control butterfly caterpillars is:",
+    "options": [
+      "Trichoderma polysporum",
+      "Bacillus thuringiensis",
+      "Streptococcus",
+      "Mycorrhiza"
+    ],
+    "correct_answer": "Bacillus thuringiensis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacillus thuringiensis (Bt) produces crystalline proteinaceous endotoxins (Cry toxins) during sporulation. When ingested by lepidopteran larvae (such as butterfly and moth caterpillars), the alkaline gut pH activates the toxin, causing pore formation in the gut epithelial cells, lysis, starvation, and larval death.\n• Why Other Options Are Incorrect:\n  - Trichoderma polysporum: An antagonistic fungus used primarily as a soil biofungicide and source of cyclosporin A, not an insect caterpillar toxin.\n  - Streptococcus: A genus of lactic acid bacteria including human throat and skin pathogens (S. pyogenes, S. pneumoniae).\n  - Mycorrhiza: A symbiotic association between plant roots and fungi that aids mineral and water uptake."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is NOT a major role of microorganisms in agriculture?",
+    "options": [
+      "Nitrogen fixation",
+      "Pest control",
+      "Soil erosion",
+      "Decomposition of organic matter"
+    ],
+    "correct_answer": "Soil erosion",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Soil erosion is a physical, mechanical process caused by wind, water, and poor tillage where the topsoil is washed or blown away. Microorganisms actually counteract erosion by binding soil particles together through extracellular polymeric substances (EPS), microbial hyphae, and glomalin.\n• Why Other Options Are Incorrect:\n  - Nitrogen fixation: A vital beneficial microbial role performed by Rhizobium, Azotobacter, etc.\n  - Pest control: Microorganisms like Bacillus thuringiensis and Beauveria bassiana serve as biological control agents.\n  - Decomposition of organic matter: Microorganisms decompose dead organic debris into humus and recycle key nutrients."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an example of a beneficial microorganism used in biofertilizers?",
+    "options": [
+      "E. coli",
+      "Saccharomyces cerevisiae",
+      "Azotobacter",
+      "Salmonella spp."
+    ],
+    "correct_answer": "Azotobacter",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Azotobacter is a genus of free-living, aerobic, nitrogen-fixing soil bacteria. It converts atmospheric dinitrogen gas (N2) into bioavailable ammonia (NH3) in the rhizosphere and secretes growth-promoting gibberellins, auxins, and vitamins, making it a widely utilized biofertilizer.\n• Why Other Options Are Incorrect:\n  - E. coli: A commensal gut bacterium used as an indicator of fecal contamination, not a crop biofertilizer.\n  - Saccharomyces cerevisiae: Brewer's and baker's yeast used in alcohol fermentation and baking.\n  - Salmonella spp.: Pathogenic enteric bacteria causing salmonellosis and typhoid fever."
+  },
+  {
+    "id": 6,
+    "question": "What is the primary role of mycorrhizal fungi in agriculture?",
+    "options": [
+      "Decomposition of organic matter",
+      "Nitrogen fixation",
+      "Symbiotic association with plant roots for nutrient uptake",
+      "Biological control of plant pathogens"
+    ],
+    "correct_answer": "Symbiotic association with plant roots for nutrient uptake",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mycorrhizae form mutualistic symbiotic relationships between fungi and plant roots. The extensive external fungal mycelium dramatically increases the absorbing surface area of the root system, facilitating the uptake of relatively immobile soil minerals (particularly phosphorus, zinc, and copper) in exchange for plant photosynthates (carbohydrates).\n• Why Other Options Are Incorrect:\n  - Decomposition of organic matter: Performed mostly by saprophytic fungi and bacteria in soil.\n  - Nitrogen fixation: Carried out by specialized prokaryotes (bacteria and cyanobacteria), not mycorrhizal fungi.\n  - Biological control of plant pathogens: Secondary protective effect in some species, but nutrient uptake is the primary agricultural role."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following microorganisms is responsible for the production of antibiotics such as penicillin?",
+    "options": [
+      "Rhizobium",
+      "Streptomyces",
+      "Pseudomonas",
+      "Azospirillum"
+    ],
+    "correct_answer": "Streptomyces",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The question as presented in the exam book provides Streptomyces as the key answer (representing the premier antibiotic-producing genus responsible for over two-thirds of natural clinical antibiotics such as streptomycin, erythromycin, tetracycline, and chloramphenicol). Penicillin is famously produced by the mold Penicillium chrysogenum, but among the options provided, Streptomyces is the designated antibiotic producer.\n• Why Other Options Are Incorrect:\n  - Rhizobium: Symbiotic nitrogen-fixing bacteria forming root nodules on legumes.\n  - Pseudomonas: Plant-associated and environmental bacteria; some produce antifungals or bio-surfactants, but not commercial penicillin.\n  - Azospirillum: Associative nitrogen-fixing bacterium that colonizes grass roots."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is an example of a plant growth-promoting rhizobacterium (PGPR)?",
+    "options": [
+      "Fusarium",
+      "Rhizopus",
+      "Bacillus subtilis",
+      "Aspergillus"
+    ],
+    "correct_answer": "Bacillus subtilis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacillus subtilis is a well-established plant growth-promoting rhizobacterium (PGPR). It colonizes plant roots, synthesizes plant hormones (IAA, cytokinins), solubilizes bound soil phosphate, and produces lipopeptide antibiotics (surfactin, iturin) that suppress destructive fungal root pathogens.\n• Why Other Options Are Incorrect:\n  - Fusarium: A genus of soil-borne fungi containing notorious plant pathogens causing vascular wilt and root rot.\n  - Rhizopus: Common saprophytic zygomycete mold ('bread mold'), not a PGPR.\n  - Aspergillus: Fungal genus containing saprophytes and toxin-producers (e.g., A. flavus producing aflatoxins)."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following microorganisms is responsible for the formation of nodules on the roots of leguminous plants?",
+    "options": [
+      "Rhizobium",
+      "Azotobacter",
+      "Streptomyces",
+      "Pseudomonas"
+    ],
+    "correct_answer": "Rhizobium",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Rhizobium species engage in a highly specific symbiotic relationship with leguminous plants (such as peas, clover, and soybeans). Flavonoids secreted by roots attract Rhizobium, which secretes Nod factors, inducing root hair curling, infection thread formation, and the development of specialized root nodules where nitrogenase fixes N2 into ammonia.\n• Why Other Options Are Incorrect:\n  - Azotobacter: Free-living nitrogen fixer; does not establish intracellular root nodules.\n  - Streptomyces: Filamentous soil actinobacteria producing antibiotics; non-nodulating.\n  - Pseudomonas: Free-living soil/rhizosphere bacterium; non-nodulating."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of a plant pathogenic fungus?",
+    "options": [
+      "Trichoderma",
+      "Penicillium",
+      "Agrobacterium",
+      "Fusarium"
+    ],
+    "correct_answer": "Fusarium",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Fusarium is an economically devastating plant pathogenic fungal genus. Species such as Fusarium oxysporum invade xylem vascular tissues of diverse crops, blocking water transport and secreting toxins (e.g., fusaric acid), causing catastrophic wilt disease, damping-off, and root rot.\n• Why Other Options Are Incorrect:\n  - Trichoderma: A beneficial antagonistic biocontrol fungus used to combat plant pathogenic fungi.\n  - Penicillium: Saprophytic mold used for penicillin production and cheese ripening (though P. expansum causes post-harvest rot in fruit, it is not the primary agricultural wilt pathogen here).\n  - Agrobacterium: A bacterial genus (e.g., Agrobacterium tumefaciens causing crown gall), not a fungus."
+  },
+  {
+    "id": 11,
+    "question": "What is the primary function of nitrogen-fixing bacteria in agriculture?",
+    "options": [
+      "Converting atmospheric nitrogen into a form usable by plants",
+      "Decomposing organic matter in the soil",
+      "Enhancing soil structure and fertility",
+      "Controlling plant diseases"
+    ],
+    "correct_answer": "Converting atmospheric nitrogen into a form usable by plants",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Molecular nitrogen gas (N2) makes up ~78% of the atmosphere, but plants cannot absorb or metabolize it due to the exceptionally strong covalent triple bond. Nitrogen-fixing bacteria possess the nitrogenase enzyme complex that reduces inert atmospheric N2 into bioavailable ammonia (NH3/NH4+), which plants incorporate into proteins and nucleic acids.\n• Why Other Options Are Incorrect:\n  - Decomposing organic matter: A function primarily performed by saprophytic heterotrophs (fungi and actinomycetes).\n  - Enhancing soil structure: A physical and biochemical benefit of organic matter, mycorrhizae, and mucilage.\n  - Controlling plant diseases: The function of biological control agents and biocontrol inoculants."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is an example of a biocontrol agent used for pest management in agriculture?",
+    "options": [
+      "Bacillus thuringiensis",
+      "Escherichia coli",
+      "Saccharomyces cerevisiae",
+      "Staphylococcus aureus"
+    ],
+    "correct_answer": "Bacillus thuringiensis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacillus thuringiensis (Bt) is the most widely commercialized microbial bio-insecticide in global agriculture. Its parasporal crystal delta-endotoxins specifically target pest insect larvae (caterpillars, beetles, mosquitoes) without harming beneficial pollinators, mammals, or humans.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Commensal gut bacteria; not an agricultural biopesticide.\n  - Saccharomyces cerevisiae: Yeast used in fermentation and food processing.\n  - Staphylococcus aureus: Common mammalian pathogen causing skin and soft tissue infections."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a common method used to assess soil microbial activity?",
+    "options": [
+      "Soil pH measurement",
+      "Soil moisture content determination",
+      "Microbial respiration measurement",
+      "Soil nutrient analysis"
+    ],
+    "correct_answer": "Microbial respiration measurement",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Soil microbial respiration measures the rate of carbon dioxide (CO2) production or oxygen (O2) consumption by soil microbes during metabolic activity. Because all active heterotrophic microbes respire, measuring CO2 flux provides a direct, integrative index of total viable microbial metabolic activity in the soil.\n• Why Other Options Are Incorrect:\n  - Soil pH measurement: Measures soil acidity or alkalinity (chemical parameter), not biological activity.\n  - Soil moisture content: Measures physical water content (gravimetric or volumetric water content).\n  - Soil nutrient analysis: Chemical determination of total or extractable N, P, K, and micronutrients."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following factors can negatively impact soil microbial diversity?",
+    "options": [
+      "Organic matter addition",
+      "Chemical fertilizer application",
+      "Crop rotation",
+      "Soil aeration"
+    ],
+    "correct_answer": "Chemical fertilizer application",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Excessive and prolonged application of synthetic chemical fertilizers (especially high-nitrogen and acidic formulations) leads to soil acidification, salt accumulation, osmotic stress, and suppresses symbiotic relationships (such as mycorrhizae and nodule formation), significantly reducing overall microbial diversity and community resilience.\n• Why Other Options Are Incorrect:\n  - Organic matter addition: Supplies carbon and diverse substrates, greatly enriching and enhancing microbial diversity.\n  - Crop rotation: Promotes diverse root exudates, which supports balanced and diverse microbial populations.\n  - Soil aeration: Provides essential oxygen for beneficial aerobic soil bacteria and fungi."
+  },
+  {
+    "id": 15,
+    "question": "What is the primary role of arbuscular mycorrhizal fungi in plant-microbe interactions?",
+    "options": [
+      "Nitrogen fixation",
+      "Pathogen suppression",
+      "Phosphorus uptake enhancement",
+      "Nitrate assimilation"
+    ],
+    "correct_answer": "Phosphorus uptake enhancement",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Inorganic phosphorus (orthophosphate) is highly immobile in soil, rapidly forming insoluble complexes with iron, aluminum, or calcium. Arbuscular mycorrhizal fungi (AMF) penetrate root cortical cells and produce finely branched intracellular 'arbuscules' while extending extensive extraradical hyphae meters into the soil to absorb and translocate phosphate directly to the host plant.\n• Why Other Options Are Incorrect:\n  - Nitrogen fixation: Restricted exclusively to prokaryotes (bacteria and cyanobacteria) with nitrogenase enzyme.\n  - Pathogen suppression: A valuable secondary systemic benefit, but phosphorus absorption is the primary evolutionary and agricultural role.\n  - Nitrate assimilation: Plant enzymatic conversion of absorbed nitrate into ammonium via nitrate reductase."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a common method for assessing water quality in microbiology?",
+    "options": [
+      "Measurement of electrical conductivity",
+      "Turbidity measurement",
+      "DNA sequencing",
+      "Colony counting on agar plates"
+    ],
+    "correct_answer": "Colony counting on agar plates",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In regulatory water microbiology, standard quantitative assessment relies on culture-based enumeration methods such as the Membrane Filtration technique and Heterotrophic Plate Counts (HPC) by counting colony-forming units (CFUs) on selective or non-selective agar plates.\n• Why Other Options Are Incorrect:\n  - Measurement of electrical conductivity: Measures dissolved ionic salts and total dissolved solids (physical/chemical parameter).\n  - Turbidity measurement: Measures light scattering caused by suspended particles or silt.\n  - DNA sequencing: Highly specialized for metagenomic research, but colony counting remains the standard regulatory water quality microbiological test."
+  },
+  {
+    "id": 17,
+    "question": "What is the primary purpose of wastewater treatment in microbial ecology?",
+    "options": [
+      "Elimination of pathogenic microorganisms",
+      "Removal of organic pollutants",
+      "Nutrient recovery for agricultural use",
+      "Prevention of waterborne diseases"
+    ],
+    "correct_answer": "Removal of organic pollutants",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In the context of microbial ecology and wastewater engineering (such as the activated sludge process), microorganisms are cultivated primarily to digest, oxidize, and remove dissolved and suspended biodegradable organic pollutants (measured as Biological Oxygen Demand or BOD) before effluent discharge into natural water bodies.\n• Why Other Options Are Incorrect:\n  - Elimination of pathogenic microorganisms: An essential disinfection goal (via chlorination or UV), but secondary to the ecological digestion of bulk organic carbon.\n  - Nutrient recovery for agricultural use: A specialized circular economy practice, not the core function.\n  - Prevention of waterborne diseases: The overarching public health outcome, while removal of organic pollutants is the microbial biological function."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a common method for air sampling in microbial ecology studies?",
+    "options": [
+      "Sediment coring",
+      "Water filtration",
+      "Swabbing surfaces",
+      "Air impaction on agar plates"
+    ],
+    "correct_answer": "Air impaction on agar plates",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Air impaction samplers (such as the Andersen cascade impactor or slit sampler) draw known volumes of air at high velocity through perforated plates or slits, causing airborne microorganisms (bioaerosols, fungal spores, bacterial droplets) to directly collide with and adhere onto nutrient agar plates for enumeration and identification.\n• Why Other Options Are Incorrect:\n  - Sediment coring: Used to sample aquatic benthos or deep geological soil strata.\n  - Water filtration: Used for collecting suspended microbes from liquid aquatic samples.\n  - Swabbing surfaces: Used for environmental surface and fomite hygiene verification."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is an example of a plant-associated endophyte?",
+    "options": [
+      "Lactic acid bacteria in fermented foods",
+      "Yeast used in breadmaking",
+      "Bacteria residing within plant tissues",
+      "Fungi causing plant diseases"
+    ],
+    "correct_answer": "Bacteria residing within plant tissues",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Endophytes are microorganisms (bacteria or fungi) that colonize internal plant tissues (intercellular or intracellular spaces) during at least part of their life cycle without causing overt symptoms or structural disease damage to the host plant.\n• Why Other Options Are Incorrect:\n  - Lactic acid bacteria in fermented foods: Associated with food matrices (dairy, silage, fermented vegetables).\n  - Yeast used in breadmaking: Saccharomyces cerevisiae, domesticated for food fermentation.\n  - Fungi causing plant diseases: Plant pathogens, not non-pathogenic endophytes."
+  },
+  {
+    "id": 20,
+    "question": "What is the primary role of biofilms in aquatic ecosystems?",
+    "options": [
+      "Nutrient cycling",
+      "Sedimentation",
+      "Oxygen production",
+      "Attachment and colonization surfaces"
+    ],
+    "correct_answer": "Attachment and colonization surfaces",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the answer key, biofilms fundamentally provide structured micro-environments and stable attachment and colonization surfaces where microbial communities adhere to submerged rocks, sediments, and organic debris via extracellular polymeric substances (EPS), shielding cells from shear forces while concentrating resources.\n• Why Other Options Are Incorrect:\n  - Nutrient cycling: An important functional process facilitated by biofilms, but attachment and physical colonization define the biofilm structure.\n  - Sedimentation: A physical settling process governed by gravity.\n  - Oxygen production: Confined strictly to phototrophic cyanobacteria and algae within biofilms, not the general biofilm matrix."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following factors can contribute to the formation of harmful algal blooms?",
+    "options": [
+      "High nutrient concentrations",
+      "Low water temperature",
+      "Low light intensity",
+      "Low carbon dioxide levels"
+    ],
+    "correct_answer": "High nutrient concentrations",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Harmful Algal Blooms (HABs) are primarily triggered by cultural eutrophication—excessive enrichment of water bodies with nutrients, particularly inorganic phosphorus and nitrogen from agricultural runoff, sewage, and industrial waste, fueling explosive proliferation of toxigenic algae and cyanobacteria.\n• Why Other Options Are Incorrect:\n  - Low water temperature: Retards metabolic rates; algal blooms thrive in warm, calm water.\n  - Low light intensity: Limits photosynthetic energy generation; blooms require abundant sunlight.\n  - Low carbon dioxide levels: Restricts photosynthetic carbon fixation."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is NOT a major role of microorganisms in agriculture?",
+    "options": [
+      "Nitrogen fixation",
+      "Pest control",
+      "Soil erosion",
+      "Decomposition of organic matter"
+    ],
+    "correct_answer": "Soil erosion",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Soil erosion is a destructive physical weathering and transport process caused by wind and rainwater runoff. Microorganisms stabilize soil structure and aggregates through fungal hyphae and bacterial glues (polysaccharides), counteracting soil erosion.\n• Why Other Options Are Incorrect:\n  - Nitrogen fixation: Essential biological conversion of atmospheric nitrogen to ammonium for plant uptake.\n  - Pest control: Microorganisms act as bio-insecticides, bio-fungicides, and bio-nematicides.\n  - Decomposition of organic matter: Essential microbial degradation of crop residues into humus."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an example of a beneficial microorganism used in biofertilizers?",
+    "options": [
+      "E. coli",
+      "Saccharomyces cerevisiae",
+      "Azotobacter",
+      "Salmonella spp."
+    ],
+    "correct_answer": "Azotobacter",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Azotobacter is a non-symbiotic, free-living aerobic bacterium that fixes atmospheric nitrogen in the soil and produces growth-promoting phytohormones (auxins, gibberellins), making it an established commercial biofertilizer for non-leguminous crops.\n• Why Other Options Are Incorrect:\n  - E. coli: Gut bacterium, indicator of sewage contamination.\n  - Saccharomyces cerevisiae: Industrial yeast used in ethanol fermentation and breadmaking.\n  - Salmonella spp.: Foodborne enteric pathogen."
+  },
+  {
+    "id": 24,
+    "question": "What is the primary role of mycorrhizal fungi in agriculture?",
+    "options": [
+      "Decomposition of organic matter",
+      "Nitrogen fixation",
+      "Symbiotic association with plant roots for nutrient uptake",
+      "Biological control of plant pathogens"
+    ],
+    "correct_answer": "Symbiotic association with plant roots for nutrient uptake",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mycorrhizal fungi form mutualistic associations with agricultural plant roots, extending fungal hyphae deep into soil pores beyond root depletion zones to absorb water and immobile mineral nutrients (especially phosphorus) and deliver them directly to the plant.\n• Why Other Options Are Incorrect:\n  - Decomposition of organic matter: Primary domain of saprophytic soil microorganisms.\n  - Nitrogen fixation: Carried out by diazotrophic bacteria and cyanobacteria.\n  - Biological control of plant pathogens: Secondary benefit of mycorrhizal root priming, but nutrient acquisition is the primary role."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is an example of an anaerobic culture technique?",
+    "options": [
+      "Agar deeps",
+      "Shake flask culture",
+      "Air-lift bioreactor",
+      "Microbial fuel cell"
+    ],
+    "correct_answer": "Agar deeps",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Agar deeps are solid nutrient agar tubes where molten agar is poured and allowed to solidify into a vertical column. Inoculation by deep stabbing introduces organisms into the bottom depths where atmospheric oxygen cannot penetrate, creating a steep oxygen gradient that allows obligate and facultative anaerobes to grow in the lower depths.\n• Why Other Options Are Incorrect:\n  - Shake flask culture: Continuously agitated on an orbital shaker to maximize aeration and oxygen dissolution for aerobic growth.\n  - Air-lift bioreactor: Uses continuous sparging of air/oxygen gas to circulate and aerate cell cultures.\n  - Microbial fuel cell: An electrochemical bio-device converting chemical energy into electrical energy, not a standard routine laboratory culture tube method."
+  }
+]

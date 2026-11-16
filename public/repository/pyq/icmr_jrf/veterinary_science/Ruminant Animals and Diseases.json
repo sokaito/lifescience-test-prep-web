@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "question": "Rumen is present in which of the following Animals",
+    "options": [
+      "Dog",
+      "Cow",
+      "Horse",
+      "Poultry"
+    ],
+    "correct_answer": "Cow",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The cow is a true ruminant mammal possessing a complex, four-chambered stomach: Rumen (paunch), Reticulum (honeycomb), Omasum (manyplies), and Abomasum (true glandular stomach). The rumen is the largest chamber and houses billions of symbiotic anaerobic bacteria, protozoa, and fungi that ferment plant cellulose into absorbable volatile fatty acids (VFAs).\n• Why Other Options Are Incorrect:\n  - Dog: A monogastric carnivore possessing a single, simple acidic stomach.\n  - Horse: A non-ruminant herbivore that performs hindgut fermentation in its enlarged cecum and colon, possessing a simple stomach.\n  - Poultry: Possesses an avian digestive system with a crop (storage), proventriculus (enzymatic stomach), and muscular gizzard (mechanical grinding)."
+  },
+  {
+    "id": 2,
+    "question": "A sheep is called",
+    "options": [
+      "Bovine",
+      "Ovine",
+      "Canine",
+      "Swine"
+    ],
+    "correct_answer": "Ovine",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In veterinary and zoological terminology, \"ovine\" refers specifically to sheep (genus Ovis).\n• Why Other Options Are Incorrect:\n  - Bovine: Pertains to cattle, oxen, and cows (genus Bos).\n  - Canine: Pertains to dogs and related canids (genus Canis).\n  - Swine (Porcine): Pertains to pigs and boars (genus Sus)."
+  },
+  {
+    "id": 3,
+    "question": "Rumen Gas largely consist of Carbon Dioxide and methane in the proportion of",
+    "options": [
+      "50 : 50",
+      "65 : 35",
+      "40 : 30",
+      "80 : 20"
+    ],
+    "correct_answer": "65 : 35",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Microbial anaerobic fermentation of dietary carbohydrates in the rumen produces large quantities of gas (up to 30–50 liters per hour in adult cows) expelled via eructation (belching). Rumen gas is typically composed of approximately 65% Carbon Dioxide (CO2) and 35% Methane (CH4), with trace amounts of nitrogen and hydrogen.\n• Why Other Options Are Incorrect:\n  - 50:50, 40:30, 80:20: In a healthy rumen on a typical forage diet, CO2 is consistently the dominant gas at roughly two-thirds (60-65%), while methanogenic archaea produce the remaining one-third (30-35%) as methane."
+  },
+  {
+    "id": 4,
+    "question": "An example of ruminant animal is",
+    "options": [
+      "Horse",
+      "Cow",
+      "Rabbit",
+      "Rhinocer"
+    ],
+    "correct_answer": "Cow",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Cows are classic artiodactyl (even-toed) ruminants that chew the cud (regurgitate, re-masticate, and reswallow partially digested forage) to maximize cellulose breakdown in their multi-chambered stomach.\n• Why Other Options Are Incorrect:\n  - Horse: A perissodactyl (odd-toed) hindgut fermenter with a single-chambered stomach.\n  - Rabbit: A lagomorph that uses cecal fermentation and practices coprophagy (re-ingesting soft cecotropes), but does not possess a rumen.\n  - Rhinoceros: A large odd-toed ungulate that relies on hindgut microbial digestion, not a ruminant."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is not a ruminant?",
+    "options": [
+      "Cow",
+      "Goat",
+      "Giraffe",
+      "Pig"
+    ],
+    "correct_answer": "Pig",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pigs are non-ruminant, monogastric omnivores possessing a single simple stomach similar to humans. They cannot ferment and digest large quantities of fibrous cellulose as ruminants do.\n• Why Other Options Are Incorrect:\n  - Cow: Classic ruminant belonging to family Bovidae.\n  - Goat: Small domestic ruminant belonging to family Bovidae.\n  - Giraffe: Ruminant herbivore belonging to family Giraffidae that possesses a four-chambered stomach and chews the cud."
+  },
+  {
+    "id": 6,
+    "question": "Ranikhet disease is a viral disease of:",
+    "options": [
+      "Poultry",
+      "Bovine",
+      "Equine",
+      "Ovine"
+    ],
+    "correct_answer": "Poultry",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Ranikhet disease (internationally known as Newcastle Disease) is an acute, highly contagious viral infection affecting domestic chickens, turkeys, and other avian poultry species. It is caused by Avian Paramyxovirus Serotype 1 (APMV-1), producing severe respiratory distress, greenish diarrhea, and neurological signs like torticollis (twisted neck).\n• Why Other Options Are Incorrect:\n  - Bovine: Cattle viral diseases include Rinderpest, Foot-and-Mouth Disease (FMD), and Bovine Viral Diarrhea (BVD).\n  - Equine: Horse viral diseases include Equine Influenza and African Horse Sickness.\n  - Ovine: Sheep viral diseases include Bluetongue, Sheep Pox, and Orf."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following products of apiculture is used in cosmetics and polishes?",
+    "options": [
+      "Honey",
+      "Oil",
+      "Wax",
+      "Royal jelly"
+    ],
+    "correct_answer": "Wax",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Beeswax is a natural lipid mixture synthesized and secreted by the abdominal wax glands of worker honeybees (Apis mellifera). Due to its high melting point, plasticity, and emulsifying properties, beeswax is extensively used in cosmetic formulations (lip balms, lotions, creams) and industrial polishes.\n• Why Other Options Are Incorrect:\n  - Honey: Carbohydrate-rich sweet syrup used primarily as a food and natural sweetener.\n  - Oil: Not a direct product of honeybee apiculture.\n  - Royal jelly: High-protein queen bee larval food used in health supplements, not as a hardening base for polishes."
+  },
+  {
+    "id": 8,
+    "question": "The charity provides support for pet owners who cannot afford private veterinary treatment is:",
+    "options": [
+      "Red cross",
+      "Yellow cross",
+      "Blue cross",
+      "Green cross"
+    ],
+    "correct_answer": "Blue cross",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Blue Cross is a renowned registered animal welfare organization founded in the UK in 1897. It provides charitable veterinary hospital care, subsidised clinical treatment, and rehoming services to sick and injured companion animals whose owners cannot afford private veterinary bills.\n• Why Other Options Are Incorrect:\n  - Red Cross: Humanitarian organization that protects human life and health during armed conflicts and natural disasters.\n  - Yellow cross / Green cross: International symbols used for first aid or community pharmacies, not the charitable pet veterinary welfare foundation."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is a common bacterial disease affecting ruminants, characterized by inflammation of the udder?",
+    "options": [
+      "Foot-and-mouth disease",
+      "Bovine viral diarrhea",
+      "Johne's disease",
+      "Mastitis"
+    ],
+    "correct_answer": "Mastitis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mastitis is the inflammation of the mammary gland and udder parenchyma in dairy cows, sheep, and goats. It is primarily caused by bacterial invasion (most commonly Staphylococcus aureus, Streptococcus agalactiae, and E. coli) through the teat canal, leading to clotty milk, swelling, heat, and economic loss in milk production.\n• Why Other Options Are Incorrect:\n  - Foot-and-mouth disease (FMD): A viral infection caused by an Aphthovirus characterized by vesicles and blisters on the mouth and hooves.\n  - Bovine viral diarrhea (BVD): A viral disease causing mucosal ulcers, diarrhea, and immunosuppression.\n  - Johne's disease: Chronic bacterial enteritis caused by Mycobacterium avium paratuberculosis affecting the ileum."
+  },
+  {
+    "id": 10,
+    "question": "Which disease, caused by a parasitic worm, is known for causing anemia and weight loss in ruminants?",
+    "options": [
+      "Bovine spongiform encephalopathy",
+      "Fasciolosis",
+      "Bluetongue",
+      "Bovine tuberculosis"
+    ],
+    "correct_answer": "Fasciolosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Fasciolosis (liver rot) is a parasitic infection caused by digenetic liver flukes (Fasciola hepatica and Fasciola gigantica). The adult flatworms reside in the bile ducts, causing mechanical damage, chronic hemorrhage, severe normocytic normochromic anemia, hypoproteinemia (bottle jaw), and unthriftiness in sheep and cattle.\n• Why Other Options Are Incorrect:\n  - Bovine spongiform encephalopathy (BSE): A fatal neurodegenerative prion disease (\"mad cow disease\").\n  - Bluetongue: An insect-borne viral disease causing cyanosis of the tongue and coronitis.\n  - Bovine tuberculosis: A chronic bacterial infection caused by Mycobacterium bovis."
+  },
+  {
+    "id": 11,
+    "question": "Which disease, caused by a virus and transmitted by insects, primarily affects sheep and can cause fever, mouth sores, and lameness?",
+    "options": [
+      "Bovine respiratory syncytial virus",
+      "Rabies",
+      "Foot-and-mouth disease",
+      "Bluetongue"
+    ],
+    "correct_answer": "Bluetongue",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bluetongue is an arboviral disease caused by Bluetongue virus (genus Orbivirus, family Reoviridae) transmitted by hematophagous Culicoides midges. In sheep, it targets vascular endothelial cells, causing fever, mucosal ulcerations, tongue swelling with cyanosis (\"blue tongue\"), and inflammation of the hoof coronary band causing lameness.\n• Why Other Options Are Incorrect:\n  - Bovine respiratory syncytial virus (BRSV): An airborne pneumovirus causing respiratory distress in cattle, not insect-transmitted.\n  - Rabies: Neurotropic rhabdovirus transmitted by bites from infected mammals.\n  - Foot-and-mouth disease: Highly contagious direct-contact picornavirus causing oral and foot vesicular blisters, not primarily insect-transmitted."
+  },
+  {
+    "id": 12,
+    "question": "Which disease, caused by a bacteria called Mycobacterium bovis, affects multiple species of animals, including cattle, and can be transmitted to humans?",
+    "options": [
+      "Johne's disease",
+      "Brucellosis",
+      "Bovine tuberculosis",
+      "Leptospirosis"
+    ],
+    "correct_answer": "Bovine tuberculosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bovine tuberculosis is a chronic contagious bacterial disease caused by Mycobacterium bovis, an acid-fast bacillus. It causes progressive caseous granulomas (tubercles) in the lungs and lymph nodes of cattle. It is a critical zoonosis transmissible to humans via raw milk or inhalation.\n• Why Other Options Are Incorrect:\n  - Johne's disease: Chronic enteritis caused by Mycobacterium avium subspecies paratuberculosis.\n  - Brucellosis: Caused by Brucella species (e.g., Brucella abortus).\n  - Leptospirosis: Caused by spirochetes of the genus Leptospira."
+  },
+  {
+    "id": 13,
+    "question": "Which disease, caused by a spirochete bacteria and transmitted through contaminated urine, can cause reproductive issues and kidney damage in cattle and other animals?",
+    "options": [
+      "Anaplasmosis",
+      "Blackleg",
+      "Brucellosis",
+      "Leptospirosis"
+    ],
+    "correct_answer": "Leptospirosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Leptospirosis is caused by motile pathogenic spirochetes of the genus Leptospira (such as L. interrogans serovar Hardjo in cattle). The bacteria colonize the renal tubules and are excreted in urine, contaminating standing water and pasture. Infection leads to chronic interstitial nephritis, abortion, and drop in milk yield.\n• Why Other Options Are Incorrect:\n  - Anaplasmosis: Caused by Anaplasma marginale, an intraerythrocytic rickettsial organism transmitted by ticks.\n  - Blackleg: Caused by Clostridium chauvoei, an anaerobic spore-forming rod.\n  - Brucellosis: Caused by Brucella abortus, a Gram-negative coccobacillus."
+  },
+  {
+    "id": 14,
+    "question": "Which disease, caused by a protozoan parasite and transmitted by ticks, can cause anemia and tick-borne fever in cattle and other animals?",
+    "options": [
+      "Babesiosis",
+      "Foot rot",
+      "Coccidiosis",
+      "Listeriosis"
+    ],
+    "correct_answer": "Babesiosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Babesiosis (also known as Texas fever or redwater fever) is caused by intraerythrocytic protozoa of the genus Babesia (Babesia bigemina and Babesia bovis) transmitted by Rhipicephalus (Boophilus) ticks. The parasites multiply within red blood cells and rupture them, leading to hemolytic anemia, high fever, and red-colored urine (hemoglobinuria).\n• Why Other Options Are Incorrect:\n  - Foot rot: A bacterial infection of the interdigital skin and hoof caused by Fusobacterium necrophorum and Dichelobacter nodosus.\n  - Coccidiosis: Intestinal protozoan infection caused by Eimeria species transmitted fecal-orally, not by ticks.\n  - Listeriosis: Bacterial neurological infection caused by Listeria monocytogenes from spoiled silage."
+  },
+  {
+    "id": 15,
+    "question": "Which disease, caused by a bacteria called Clostridium chauvoei, can lead to severe muscle damage and sudden death in cattle?",
+    "options": [
+      "Foot rot",
+      "Blackleg",
+      "Anthrax",
+      "Johne's disease"
+    ],
+    "correct_answer": "Blackleg",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Blackleg (emphysematous gangrene) is an acute, highly fatal disease of cattle caused by the anaerobic bacterium Clostridium chauvoei. Latent spores in heavy skeletal muscles germinate after minor bruising, releasing lethal necrotizing exotoxins that destroy muscle tissue, turning it dark (black) and spongy with gas bubbles (crepitation), rapidly causing toxemic death.\n• Why Other Options Are Incorrect:\n  - Foot rot: Localized bacterial rot of the foot tissues.\n  - Anthrax: Caused by Bacillus anthracis, producing sudden fatal septicemia with dark uncoagulated blood from natural orifices, without localized muscle emphysema.\n  - Johne's disease: Chronic granulomatous enteritis of the digestive tract."
+  },
+  {
+    "id": 16,
+    "question": "Which disease, caused by a virus and characterized by fever, respiratory symptoms, and diarrhea, is commonly known as 'shipping fever' in cattle?",
+    "options": [
+      "Bovine respiratory syncytial virus",
+      "Infectious bovine rhinotracheitis",
+      "Bovine viral diarrhea",
+      "Anaplasmosis"
+    ],
+    "correct_answer": "Infectious bovine rhinotracheitis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Infectious Bovine Rhinotracheitis (IBR), caused by Bovine Alphaherpesvirus 1 (BoHV-1), is a prominent viral trigger of the Bovine Respiratory Disease Complex (commonly termed \"shipping fever\"). It causes upper respiratory inflammation, high fever, nasal discharge, and secondary pneumonia in stressed, newly transported cattle.\n• Why Other Options Are Incorrect:\n  - Bovine respiratory syncytial virus: Causes respiratory tract disease, but IBR is designated as the primary shipping fever herpesvirus trigger in this exam key.\n  - Bovine viral diarrhea: Primarily causes gastrointestinal mucosal disease and immunosuppression.\n  - Anaplasmosis: A rickettsial tick-borne blood parasite disease causing anemia."
+  },
+  {
+    "id": 17,
+    "question": "Which disease, caused by a bacteria called Clostridium perfringens, can lead to sudden death in young lambs and calves?",
+    "options": [
+      "Enterotoxemia",
+      "Tetanus",
+      "Caseous lymphadenitis",
+      "Scrapie"
+    ],
+    "correct_answer": "Enterotoxemia",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Enterotoxemia (pulpy kidney disease) is caused by Clostridium perfringens (particularly type D). When young sheep, lambs, or calves ingest high-carbohydrate lush diets, the bacteria proliferate rapidly in the intestine and produce potent epsilon toxin that enters the circulation, damaging blood vessels and causing rapid coma and death.\n• Why Other Options Are Incorrect:\n  - Tetanus: Caused by Clostridium tetani, producing rigid spastic muscular paralysis (\"lockjaw\").\n  - Caseous lymphadenitis: Caused by Corynebacterium pseudotuberculosis, forming chronic \"onion-ring\" cheese-like abscesses in lymph nodes.\n  - Scrapie: A fatal neurological prion disease in sheep and goats."
+  },
+  {
+    "id": 18,
+    "question": "Which disease, caused by a parasite called Eimeria, affects the intestinal tract of ruminants and can cause diarrhea and weight loss?",
+    "options": [
+      "Johne's disease",
+      "Coccidiosis",
+      "Listeriosis",
+      "Brucellosis"
+    ],
+    "correct_answer": "Coccidiosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Coccidiosis is caused by host-specific protozoan parasites of the genus Eimeria (such as Eimeria bovis and Eimeria zuernii in calves). The parasite invades and ruptures the epithelial cells lining the intestinal crypts, causing severe watery-to-bloody diarrhea, dehydration, tenesmus, and weight loss.\n• Why Other Options Are Incorrect:\n  - Johne's disease: Caused by bacteria (Mycobacterium avium paratuberculosis), not a protozoan.\n  - Listeriosis: Bacterial encephalitis caused by Listeria monocytogenes.\n  - Brucellosis: Bacterial reproductive infection caused by Brucella abortus."
+  },
+  {
+    "id": 19,
+    "question": "Which disease, caused by a bacteria called Mycoplasma bovis, can cause respiratory issues, mastitis, and arthritis in cattle?",
+    "options": [
+      "Bovine respiratory syncytial virus",
+      "Mycoplasma pneumonia",
+      "Bovine viral diarrhea",
+      "Mycoplasma bovine pneumonia"
+    ],
+    "correct_answer": "Mycoplasma bovine pneumonia",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mycoplasma bovis is a wall-less bacterium that causes severe chronic bronchopneumonia, purulent polyarthritis, and unresponsive clinical mastitis in cattle, designated as Mycoplasma bovine pneumonia in this curriculum.\n• Why Other Options Are Incorrect:\n  - Bovine respiratory syncytial virus & Bovine viral diarrhea: These are viral pathogens, whereas Mycoplasma is a bacterium.\n  - Mycoplasma pneumonia: Generally refers to human atypical \"walking pneumonia\" caused by Mycoplasma pneumoniae."
+  },
+  {
+    "id": 20,
+    "question": "Which disease, caused by a virus and characterized by fever, mouth sores, and lameness, primarily affects goats and can be transmitted to humans?",
+    "options": [
+      "Caprine arthritis encephalitis",
+      "Contagious ecthyma (Orf)",
+      "Caseous lymphadenitis",
+      "Blue tongue"
+    ],
+    "correct_answer": "Contagious ecthyma (Orf)",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Contagious ecthyma (Orf, sore mouth) is a viral disease caused by a Parapoxvirus affecting sheep and goats. It causes papules, pustules, and thick scabs around the lips, nostrils, and interdigital cleft of the hooves (causing lameness). It is an occupational zoonosis; humans handling infected animals develop painful solitary cutaneous nodules on their hands.\n• Why Other Options Are Incorrect:\n  - Caprine arthritis encephalitis (CAE): A lentivirus causing chronic arthritis in adult goats and leukoencephalomyelitis in kids; not zoonotic.\n  - Caseous lymphadenitis: A bacterial infection causing chronic lymph node abscesses.\n  - Blue tongue: An orbivirus affecting ruminants; not infectious to humans."
+  },
+  {
+    "id": 21,
+    "question": "Which disease, caused by a bacteria called Campylobacter fetus, can cause reproductive issues, such as infertility and abortion, in cattle and sheep?",
+    "options": [
+      "Campylobacteriosis",
+      "Blackleg",
+      "Caseous lymphadenitis",
+      "Bovine viral diarrhea"
+    ],
+    "correct_answer": "Campylobacteriosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bovine and ovine campylobacteriosis is caused by Campylobacter fetus (subspecies venerealis in cattle; subspecies fetus in sheep). In cattle, it is transmitted venereally, colonizing the vagina and uterus to cause endometritis, early embryonic mortality, repeat breeding, and late abortions.\n• Why Other Options Are Incorrect:\n  - Blackleg: Muscle necrosis caused by Clostridium chauvoei.\n  - Caseous lymphadenitis: Abscess disease caused by Corynebacterium pseudotuberculosis.\n  - Bovine viral diarrhea: Viral pestivirus infection causing mucosal disease."
+  },
+  {
+    "id": 22,
+    "question": "Which disease, caused by a bacteria called Listeria monocytogenes, can cause neurological symptoms, abortion, and septicemia in ruminants?",
+    "options": [
+      "Listeriosis",
+      "Foot-and-mouth disease",
+      "Brucellosis",
+      "Anaplasmosis"
+    ],
+    "correct_answer": "Listeriosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Listeriosis (circling disease) is caused by Listeria monocytogenes, an environmental bacterium that thrives in spoiled, poorly fermented silage with pH > 5.5. The bacteria invade through oral abrasions and migrate along cranial nerves (trigeminal nerve) into the brainstem, causing microabscesses that manifest as unilateral facial paralysis, head pressing, compulsive circling in one direction, and abortions.\n• Why Other Options Are Incorrect:\n  - Foot-and-mouth disease: Picornaviral infection causing vesicles on feet and mouth.\n  - Brucellosis: Bacterial reproductive infection causing third-trimester abortions without unilateral circling signs.\n  - Anaplasmosis: Rickettsial tick-borne hemoparasite destroying red blood cells."
+  },
+  {
+    "id": 23,
+    "question": "Which disease, caused by a parasite called Theileria annulata and transmitted by ticks, primarily affects cattle and can cause anemia and fever?",
+    "options": [
+      "East Coast fever",
+      "Bovine respiratory syncytial virus",
+      "Bluetongue",
+      "Anaplasmosis"
+    ],
+    "correct_answer": "East Coast fever",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official exam key, East Coast fever / Tropical Theileriosis is an apicomplexan hemoprotozoan disease transmitted by ixodid ticks (Hyalomma and Rhipicephalus species). The parasite infects lymphocytes and erythrocytes, causing severe lymphadenopathy, persistent high fever, progressive anemia, and pulmonary edema.\n• Why Other Options Are Incorrect:\n  - Bovine respiratory syncytial virus: Viral respiratory pathogen.\n  - Bluetongue: Orbivirus of sheep and cattle.\n  - Anaplasmosis: Intraerythrocytic bacterial rickettsia, not Theileria."
+  },
+  {
+    "id": 24,
+    "question": "Which disease, caused by a bacteria called Chlamydia abortus, can cause abortion in ruminants and is a zoonotic disease?",
+    "options": [
+      "Q fever",
+      "Anthrax",
+      "Brucellosis",
+      "Foot-and-mouth disease"
+    ],
+    "correct_answer": "Brucellosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the exam answer key, Option (3) Brucellosis is marked as the answer (in biological literature, Chlamydia abortus specifically causes Enzootic Abortion of Ewes / Ovine Chlamydiosis, a major zoonosis causing miscarriage in pregnant women, while Brucella abortus causes classic brucellosis).\n• Why Other Options Are Incorrect:\n  - Q fever: Caused by Coxiella burnetii.\n  - Anthrax: Caused by Bacillus anthracis.\n  - Foot-and-mouth disease: Caused by an Aphthovirus (viral, non-zoonotic)."
+  },
+  {
+    "id": 25,
+    "question": "Which disease, caused by a virus and characterized by respiratory symptoms, diarrhea, and fever, is commonly known as 'shipping fever' in sheep?",
+    "options": [
+      "Ovine progressive pneumonia",
+      "Contagious ecthyma (Orf)",
+      "Caseous lymphadenitis",
+      "Ovine respiratory syncytial virus"
+    ],
+    "correct_answer": "Ovine respiratory syncytial virus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Ovine Respiratory Syncytial Virus (ORSV, family Pneumoviridae) infects the ciliated epithelial cells of the respiratory tract in sheep. In feedlot or newly transported sheep (shipping fever complex), ORSV infection causes fever, coughing, serous nasal discharge, and compromises airway clearance, allowing opportunistic bacteria (Mannheimia haemolytica) to cause severe secondary pneumonia.\n• Why Other Options Are Incorrect:\n  - Ovine progressive pneumonia (Maedi-Visna): A chronic lentivirus causing slow progressive dyspnea and wasting in mature sheep.\n  - Contagious ecthyma (Orf): Poxvirus causing localized crusty scabs on the lips and teats.\n  - Caseous lymphadenitis: Bacterial infection causing encapsulated lymph node abscesses."
+  },
+  {
+    "id": 26,
+    "question": "Which disease, caused by a bacteria called Brucella abortus, can cause abortion in cattle and is a zoonotic disease?",
+    "options": [
+      "Campylobacteriosis",
+      "Anaplasmosis",
+      "Johne's disease",
+      "Brucellosis"
+    ],
+    "correct_answer": "Brucellosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bovine brucellosis (Bang's disease) is caused by the Gram-negative intracellular bacterium Brucella abortus. It has a high tropism for erythritol in placental tissue, causing severe placentitis, late-term abortion (5th to 8th month of gestation), and retained fetal membranes. It is highly zoonotic, causing debilitating \"undulant fever\" (Malta fever) in humans.\n• Why Other Options Are Incorrect:\n  - Campylobacteriosis: Caused by Campylobacter fetus.\n  - Anaplasmosis: Caused by the tick-transmitted rickettsia Anaplasma marginale.\n  - Johne's disease: Caused by Mycobacterium avium paratuberculosis."
+  }
+]

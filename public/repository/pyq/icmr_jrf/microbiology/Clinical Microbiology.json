@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "Nosocomial infections are:",
+    "options": [
+      "Acquired during the course of hospitalisation",
+      "Due to vaccination",
+      "Due to mosquito bite",
+      "Due to rat bite"
+    ],
+    "correct_answer": "Acquired during the course of hospitalisation",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Nosocomial infections (also called Healthcare-Associated Infections or HAIs) are defined as infections acquired by a patient during the process of care in a hospital or healthcare facility that were neither present nor incubating at the time of admission (typically developing 48 hours or more after admission).\n• Why Other Options Are Incorrect:\n  - Due to vaccination: Adverse events following immunization are reactions, not nosocomial infections.\n  - Due to mosquito bite: Vector-borne transmission (e.g., malaria, dengue, Zika).\n  - Due to rat bite: Zoonotic transmission (e.g., rat-bite fever caused by Streptobacillus moniliformis)."
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is a comma shaped motile bacteria?",
+    "options": [
+      "Yersinia pestis",
+      "Brucella melitensis",
+      "Vibrio cholera",
+      "Bacillus Anthracis"
+    ],
+    "correct_answer": "Vibrio cholera",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Vibrio cholerae is classically characterized as a Gram-negative, curved or comma-shaped bacillus (vibrio) possessing a single polar flagellum that provides rapid, darting motility ('shooting star motility' in dark-field or hanging-drop microscopy), causing severe secretory cholera diarrhea.\n• Why Other Options Are Incorrect:\n  - Yersinia pestis: Gram-negative coccobacillus exhibiting bipolar 'safety-pin' staining; non-motile at 37°C.\n  - Brucella melitensis: Tiny, non-motile, Gram-negative coccobacillus.\n  - Bacillus anthracis: Large, non-motile, spore-forming, square-ended Gram-positive boxcar rod."
+  },
+  {
+    "id": 3,
+    "question": "Category A bioterrorism agents are:",
+    "options": [
+      "Clostridium botulinum",
+      "Vibrio cholerae",
+      "Pseudomonas aeruginosa",
+      "E. coli"
+    ],
+    "correct_answer": "Clostridium botulinum",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The CDC classifies biological agents into categories based on risk. Category A agents present the highest risk because they are easily disseminated or transmitted from person to person, cause high mortality, and require major public health preparedness. Clostridium botulinum (and its botulinum neurotoxin), alongside Anthrax, Plague, Tularemia, Smallpox, and Viral Hemorrhagic Fevers, is a premier Category A select agent.\n• Why Other Options Are Incorrect:\n  - Vibrio cholerae: Category B bioterrorism agent (moderate morbidity and low mortality).\n  - Pseudomonas aeruginosa: Opportunistic nosocomial pathogen; not a listed bioweapon agent.\n  - E. coli: Common commensal (except specific enterohemorrhagic foodborne strains, which are Category B)."
+  },
+  {
+    "id": 4,
+    "question": "Which human infection spreads through urine?",
+    "options": [
+      "Leptospirosis",
+      "Legionellosis",
+      "Plague",
+      "Diphtheria"
+    ],
+    "correct_answer": "Leptospirosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Leptospirosis (Weil's disease, caused by the spirochete Leptospira interrogans) is a zoonosis maintained in rodent and livestock kidneys. Infected animals shed massive numbers of leptospires in their urine, which contaminates flood waters and moist soil; humans contract the infection when urine-contaminated water enters abrasions, skin cuts, or mucous membranes.\n• Why Other Options Are Incorrect:\n  - Legionellosis: Transmitted via inhalation of aerosolized water droplets from cooling towers, AC units, and showers.\n  - Plague: Transmitted primarily through bites of infected rodent fleas (Xenopsylla cheopis) or respiratory droplets in pneumonic plague.\n  - Diphtheria: Transmitted via airborne respiratory droplets or direct skin contact with Corynebacterium diphtheriae exudates."
+  },
+  {
+    "id": 5,
+    "question": "Definitive host of guinea worm is:",
+    "options": [
+      "Man",
+      "Cyclops",
+      "Snail",
+      "Tick"
+    ],
+    "correct_answer": "Cyclops",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In the exam key, Option (2) Cyclops is marked as the answer (referring to the crustacean copepod vector required for larval development, where L1 larvae molt into infectious L3 larvae). Note that in medical parasitology, humans are the definitive host where adult Dracunculus medinensis worms mate, while Cyclops (water flea) serves as the intermediate host; the answer key designates Cyclops.\n• Why Other Options Are Incorrect:\n  - Man: In standard parasitology, humans harbor mature reproductive adults, but the book key marks Cyclops.\n  - Snail: Intermediate host for trematodes (Schistosoma, Fasciola), not guinea worm.\n  - Tick: Vector for Babesia, Lyme disease, and rickettsiae."
+  },
+  {
+    "id": 6,
+    "question": "Creutzfeldt-Jakob disease (CJD) is caused by:",
+    "options": [
+      "DNA viruses",
+      "Bacteria",
+      "Prions",
+      "RNA Viruses"
+    ],
+    "correct_answer": "Prions",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Creutzfeldt-Jakob disease (CJD) is a fatal, rapidly progressive transmissible spongiform encephalopathy (TSE) caused by prions—abnormally folded, infectious proteinaceous particles (PrPSc) devoid of any nucleic acid that induce native host cellular prion protein (PrPC) in the brain to refold into pathological beta-sheet aggregates.\n• Why Other Options Are Incorrect:\n  - DNA viruses: Cause viral encephalitides (e.g., Herpes simplex encephalitis), not spongiform prion degenerations.\n  - Bacteria: Cause acute or chronic bacterial meningitis and brain abscesses.\n  - RNA Viruses: Cause rabies, poliomyelitis, and viral encephalitis."
+  },
+  {
+    "id": 7,
+    "question": "The causative agent of Kala-azar is:",
+    "options": [
+      "Leishmania",
+      "Trypanosoma",
+      "Ascaris",
+      "Cryptosporidium"
+    ],
+    "correct_answer": "Leishmania",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Kala-azar (visceral leishmaniasis or 'black sickness') is caused by the intracellular protozoan parasite Leishmania donovani (in the Indian subcontinent and East Africa) and is transmitted to humans through the bite of an infected female phlebotomine sandfly (Phlebotomus argentipes). Amastigotes proliferate within macrophages of the reticuloendothelial system (spleen, liver, bone marrow).\n• Why Other Options Are Incorrect:\n  - Trypanosoma: T. brucei causes African sleeping sickness (transmitted by tsetse flies); T. cruzi causes Chagas disease (triatomine bugs).\n  - Ascaris: Ascaris lumbricoides is a giant intestinal roundworm causing ascariasis.\n  - Cryptosporidium: Apicomplexan protozoan causing self-limiting or chronic diarrheal cryptosporidiosis."
+  },
+  {
+    "id": 8,
+    "question": "Salmonella typhi is causative organism of:",
+    "options": [
+      "Malta fever",
+      "Black fever",
+      "Dengue fever",
+      "Enteric fever"
+    ],
+    "correct_answer": "Enteric fever",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Salmonella enterica serovar Typhi is the causative agent of typhoid fever, which alongside paratyphoid fever (caused by S. Paratyphi A, B, and C) is collectively termed Enteric Fever. The organism invades intestinal Peyer's patches, spreads via the reticuloendothelial system, and causes step-ladder pyrexia, hepatosplenomegaly, and intestinal rose spots.\n• Why Other Options Are Incorrect:\n  - Malta fever: Brucellosis (undulant fever), caused by Brucella species (e.g., B. melitensis).\n  - Black fever: Visceral leishmaniasis (Kala-azar), caused by Leishmania donovani.\n  - Dengue fever: 'Breakbone fever', caused by Dengue flavivirus and transmitted by Aedes aegypti."
+  },
+  {
+    "id": 9,
+    "question": "Staphylococcal food poisoning manifests within how much time after ingestion of contaminated food:",
+    "options": [
+      "2-6 hours",
+      "10-12 hours",
+      "12-24 hours",
+      "24-48 hours"
+    ],
+    "correct_answer": "2-6 hours",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Staphylococcal food poisoning is a true food intoxication caused by preformed heat-stable enterotoxins (e.g., SEA, SEB) produced by Staphylococcus aureus in unrefrigerated foods (such as custards, processed meats, and mayonnaise). Because the toxin is preformed and directly stimulates 5-HT receptors and the vagus nerve, onset is extremely rapid, typically manifesting in 2 to 6 hours with violent vomiting and abdominal cramps.\n• Why Other Options Are Incorrect:\n  - 10-12 hours: Characteristic of Clostridium perfringens food poisoning (spore germination and in vivo enterotoxin release).\n  - 12-24 hours: Typical of Salmonella and Shigella infections requiring bacterial colonization and mucosal invasion.\n  - 24-48 hours: Characteristic of Campylobacter or viral gastroenteritis (e.g., Norovirus)."
+  },
+  {
+    "id": 10,
+    "question": "A patient diagnosed to be having malaria was successfully treated with an anti-malarial drug extracted from a plant 'sweet wormwood'. The compound had been discovered by Nobel Laureate Tu Youyou in 1972. Which compound are we talking about here?",
+    "options": [
+      "Chloroquine",
+      "Hydroxychloroquine",
+      "Artemisinin",
+      "Quinine"
+    ],
+    "correct_answer": "Artemisinin",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Artemisinin (qinghaosu) is a sesquiterpene lactone containing a peroxide bridge extracted from the sweet wormwood plant Artemisia annua. It was isolated in 1972 under Project 523 by Chinese pharmacologist Tu Youyou (awarded the 2015 Nobel Prize in Physiology or Medicine) and forms the backbone of Artemisinin-based Combination Therapies (ACT) for Plasmodium falciparum malaria.\n• Why Other Options Are Incorrect:\n  - Chloroquine: Synthetic 4-aminoquinoline synthesized in 1934 by Hans Andersag at Bayer.\n  - Hydroxychloroquine: Synthetic hydroxylated derivative of chloroquine.\n  - Quinine: Natural cinchona alkaloid isolated from the bark of Cinchona trees by Pelletier and Caventou in 1820."
+  },
+  {
+    "id": 11,
+    "question": "Itai-Itai disease is associated with which metal Poisoning?",
+    "options": [
+      "Cd",
+      "Ag",
+      "Hg",
+      "Pd"
+    ],
+    "correct_answer": "Cd",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Itai-itai disease ('ouch-ouch disease') was documented in Toyama Prefecture, Japan, caused by chronic Cadmium (Cd) poisoning resulting from mining discharge into the Jinzū River basin. Cadmium accumulates in the proximal renal tubules causing severe nephropathy, calcium loss, osteomalacia, multiple painful bone fractures, and extreme pain upon walking.\n• Why Other Options Are Incorrect:\n  - Ag (Silver): Causes argyria (slate-gray skin discoloration).\n  - Hg (Mercury): Causes Minamata disease (severe neurological damage, ataxia, and blindness) due to methylmercury contamination.\n  - Pd (Palladium): Rare noble metal; does not cause Itai-itai syndrome."
+  },
+  {
+    "id": 12,
+    "question": "An organism isolated from a female patient having urinary tract infection producing mucoid colonies, oxidase negative, Voges Proskauer test positive, urease positive could be?",
+    "options": [
+      "Escherichia coli",
+      "Proteus mirabilis",
+      "S pneumoniae",
+      "Salmonella paratyphi A"
+    ],
+    "correct_answer": "Proteus mirabilis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The answer key marks Option (2) Proteus mirabilis. (In medical microbiology, typical mucoid VP+ urease+ colonies are classic for Klebsiella pneumoniae; however, among the given four options, Proteus mirabilis is designated in the answer key due to its intense urease production in UTIs).\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Oxidase negative, but classic E. coli is Voges-Proskauer negative and urease negative (IMViC: ++--).\n  - S pneumoniae: Gram-positive diplococcus causing pneumonia and otitis, not enteric Gram-negative UTI rods.\n  - Salmonella paratyphi A: Oxidase negative and urease negative, producing H2S-poor colonies."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following diseases is not caused by Fungi?",
+    "options": [
+      "Histoplasmosis",
+      "Pneumocystis pneumonia",
+      "Rhinosporidiosis",
+      "Melioidosis"
+    ],
+    "correct_answer": "Melioidosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Melioidosis (Whitmore's disease) is a bacterial infection caused by Burkholderia pseudomallei, a motile, aerobic, Gram-negative rod found in tropical soil and surface water. It causes severe pulmonary disease, multiple abscesses, and septic shock.\n• Why Other Options Are Incorrect:\n  - Histoplasmosis: True systemic fungal disease caused by dimorphic fungus Histoplasma capsulatum.\n  - Pneumocystis pneumonia: Opportunistic fungal pneumonia caused by Pneumocystis jirovecii in immunocompromised individuals.\n  - Rhinosporidiosis: Chronic granulomatous infection historically grouped with fungi (caused by Rhinosporidium seeberi, an aquatic mesomycetozoean protist)."
+  },
+  {
+    "id": 14,
+    "question": "The infectious stage of Plasmodium that enters the human body is",
+    "options": [
+      "Tropozoites",
+      "Sporozoites",
+      "Female genetocytes",
+      "Male gametocytes"
+    ],
+    "correct_answer": "Sporozoites",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: When an infected female Anopheles mosquito takes a blood meal, infectious, motile, spindle-shaped Sporozoites stored in its salivary glands are inoculated into the human bloodstream. Within 30 to 60 minutes, sporozoites enter liver hepatocytes to initiate the exo-erythrocytic schizogony phase.\n• Why Other Options Are Incorrect:\n  - Trophozoites: The intraerythrocytic feeding stage ('ring stage') causing red cell lysis and malarial paroxysms.\n  - Female gametocytes / Male gametocytes: Sexual precursor forms taken up by mosquitoes from human blood; non-infectious to humans."
+  },
+  {
+    "id": 15,
+    "question": "The chemical test that is used for diagnosis of typhoid is",
+    "options": [
+      "Casoni test",
+      "Mantoux test",
+      "Galactomannan test",
+      "Widal test"
+    ],
+    "correct_answer": "Widal test",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Widal test (developed by Georges-Fernand Widal in 1896) is a serological tube/slide agglutination test used to diagnose enteric (typhoid) fever by detecting rising serum agglutinating antibodies against the lipopolysaccharide somatic 'O' antigen and flagellar 'H' antigen of Salmonella enterica serovars Typhi and Paratyphi.\n• Why Other Options Are Incorrect:\n  - Casoni test: Immediate hypersensitivity skin test historically used for diagnosing hydatid cyst disease (Echinococcus granulosus).\n  - Mantoux test: Tuberculin skin test (PPD intradermal injection) for delayed-type hypersensitivity against Mycobacterium tuberculosis.\n  - Galactomannan test: Immunoassay detecting fungal cell wall galactomannan for diagnosing invasive aspergillosis."
+  },
+  {
+    "id": 16,
+    "question": "A toxic substance responsible for the chills and high fever recurring every three to four days in malarial fever is:",
+    "options": [
+      "interferon",
+      "haemozoin",
+      "hirudin",
+      "Colostrum"
+    ],
+    "correct_answer": "haemozoin",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: When Plasmodium merozoites replicate inside erythrocytes, they digest hemoglobin into toxic free heme, which the parasite biocrystallizes into dark, insoluble pigment granules called Haemozoin (malarial pigment). Synchronous rupture of millions of infected red blood cells releases merozoites, cellular debris, and haemozoin into circulation, triggering macrophage activation and massive release of pyrogens (TNF-alpha and IL-1) causing periodic febrile paroxysms.\n• Why Other Options Are Incorrect:\n  - Interferon: Endogenous antiviral cytokine produced by host leukocytes and fibroblasts.\n  - Hirudin: Anticoagulant peptide naturally produced in the salivary glands of blood-sucking leeches (Hirudo medicinalis).\n  - Colostrum: First maternal milk produced immediately after parturition, packed with protective secretory IgA."
+  },
+  {
+    "id": 17,
+    "question": "Which one of the following fungi is most likely to be found within reticulo-endothelial cells?",
+    "options": [
+      "Histoplasma capsulatum",
+      "Candida albicans",
+      "Mucormycosis",
+      "Sporothrix schenckii"
+    ],
+    "correct_answer": "Histoplasma capsulatum",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Histoplasma capsulatum is a thermally dimorphic fungus whose microscopic oval yeast form (2–4 µm) is an obligate intracellular parasite that specifically survives and multiplies inside host macrophages and monocytes of the reticuloendothelial system (spleen, liver, bone marrow, and lymph nodes).\n• Why Other Options Are Incorrect:\n  - Candida albicans: Polymorphic opportunistic yeast forming pseudohyphae and true hyphae extracellularly in tissues.\n  - Mucormycosis (Rhizopus/Mucor): Broad, non-septate, ribbon-like angioinvasive hyphae invading blood vessel walls.\n  - Sporothrix schenckii: Thermal dimorphic fungus causing sporotrichosis ('rose gardener's disease') with cigar-shaped yeasts in subcutaneous ulcers."
+  },
+  {
+    "id": 18,
+    "question": "Autoinfection is seen in life cycle of which parasite?",
+    "options": [
+      "Schistosoma haematobium",
+      "Taenia solium",
+      "Nectar americanus",
+      "Plasmodium vivax"
+    ],
+    "correct_answer": "Taenia solium",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Taenia solium (pork tapeworm) can cause internal or external autoinfection. When an individual harboring an adult tapeworm in the intestine ingests eggs via fecal-oral contamination (external autoinfection) or when reverse peristalsis pushes gravid proglottids into the stomach (internal autoinfection), oncospheres hatch, cross the gut wall, and encyst throughout the brain, eye, and muscles, causing devastating Cysticercosis.\n• Why Other Options Are Incorrect:\n  - Schistosoma haematobium: Blood fluke; eggs must exit in urine into freshwater to hatch into miracidia and infect snail intermediate hosts.\n  - Necator americanus: Hookworm; eggs hatch in soil into rhabditiform larvae and develop into filariform larvae before penetrating skin; no direct autoinfection.\n  - Plasmodium vivax: Relapses occur due to dormant hepatic hypnozoites, not true fecal/gut autoinfection."
+  },
+  {
+    "id": 19,
+    "question": "One year old is suspected for bacterial meningitis, for which lumbar puncture is performed. Which of the following laboratory finding of spinal fluid would support the diagnosis?",
+    "options": [
+      "Decrease in cell count",
+      "Elevated protein level",
+      "Elevated glucose level",
+      "Low spinal fluid pressure"
+    ],
+    "correct_answer": "Elevated protein level",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In acute bacterial meningitis, marked inflammation and breakdown of the blood-brain barrier cause large amounts of serum proteins and immunoglobulins to leak into the cerebrospinal fluid, leading to significantly Elevated Protein Levels (>100–500 mg/dL), alongside massive neutrophilic pleocytosis and markedly decreased (low) glucose (bacteria consume glucose).\n• Why Other Options Are Incorrect:\n  - Decrease in cell count: Bacterial meningitis causes a dramatic increase in CSF white blood cell count (neutrophilic pleocytosis, often >1,000–10,000 cells/µL).\n  - Elevated glucose level: CSF glucose is markedly depressed (hypoglycorrhachia, CSF:serum glucose ratio <0.4) because bacteria and infiltrating neutrophils rapidly consume glucose.\n  - Low spinal fluid pressure: Opening CSF pressure is characteristically elevated due to cerebral edema and inflammation."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following techniques is commonly used for the direct detection of viral antigens in clinical specimens?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Immunofluorescence",
+      "Western blot"
+    ],
+    "correct_answer": "Immunofluorescence",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Direct Immunofluorescence (DFA) uses fluorophore-conjugated antibodies (e.g., FITC) applied directly onto clinical smear specimens (e.g., respiratory swabs, corneal scrapings, vesicle fluid) to bind viral proteins in situ. Inspection under a fluorescence microscope enables rapid direct microscopic visualization of viral antigens (e.g., RSV, Rabies, Herpes simplex).\n• Why Other Options Are Incorrect:\n  - ELISA: Enzyme-linked immunosorbent assay can detect antigens or antibodies in liquid serum, but DFA is the classic direct cytology antigen assay.\n  - PCR: Polymerase Chain Reaction detects viral nucleic acids (DNA/RNA), not protein antigens.\n  - Western blot: Analytical technique used to detect specific proteins after SDS-PAGE separation, mainly for confirmatory antibody testing."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is the causative agent of tuberculosis?",
+    "options": [
+      "Mycobacterium tuberculosis",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Escherichia coli"
+    ],
+    "correct_answer": "Mycobacterium tuberculosis",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mycobacterium tuberculosis (Koch's bacillus, identified by Robert Koch in 1882) is an obligate aerobic, slow-growing, acid-fast bacillus possessing a lipid-rich, mycolic acid-dense cell wall that causes pulmonary and extrapulmonary tuberculosis.\n• Why Other Options Are Incorrect:\n  - Staphylococcus aureus: Causes boils, impetigo, bacteremia, and toxic shock syndrome.\n  - Streptococcus pneumoniae: Gram-positive diplococcus causing lobar pneumonia, otitis media, and meningitis.\n  - Escherichia coli: Enteric bacillus causing UTIs, traveler's diarrhea, and neonatal sepsis."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following tests is used to detect antibodies produced in response to a recent infection with the human immunodeficiency virus (HIV)?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Western blot",
+      "Culture"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Enzyme-Linked Immunosorbent Assay (ELISA / EIA) is the standard initial first-line screening test for detecting host anti-HIV antibodies (anti-HIV-1 and anti-HIV-2 IgM and IgG) or 4th-generation antigen-antibody combo (p24 antigen + antibodies) due to its high clinical sensitivity.\n• Why Other Options Are Incorrect:\n  - PCR: Detects viral nucleic acids (HIV proviral DNA or viral load RNA), not antibodies.\n  - Western blot: Classically used as a confirmatory test to verify specific antibody bands against viral glycoproteins after a reactive ELISA.\n  - Culture: Isolation in peripheral blood mononuclear cells; laborious and rarely used for routine diagnostics."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following microorganisms is the leading cause of bacterial pneumonia?",
+    "options": [
+      "Streptococcus pneumoniae",
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Pseudomonas aeruginosa"
+    ],
+    "correct_answer": "Streptococcus pneumoniae",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Streptococcus pneumoniae (the pneumococcus) is a lancet-shaped, alpha-hemolytic, Gram-positive diplococcus encased in an antiphagocytic polysaccharide capsule. It is the leading cause of community-acquired bacterial pneumonia worldwide across all age groups.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Rare cause of pneumonia, primarily seen in elderly hospitalized patients with severe bacteremic sepsis.\n  - Staphylococcus aureus: Important cause of post-viral (post-influenza) necrotizing pneumonia, but far less common overall than pneumococcus.\n  - Pseudomonas aeruginosa: Classic cause of hospital-acquired (nosocomial) and ventilator-associated pneumonia or in cystic fibrosis patients."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following tests is used to detect the presence of Clostridium difficile toxins in stool samples?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "Polymerase chain reaction (PCR)",
+      "Enzyme immunoassay"
+    ],
+    "correct_answer": "Enzyme immunoassay",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Enzyme Immunoassays (EIA) for Clostridium difficile Toxin A (enterotoxin) and Toxin B (cytotoxin) are the widely utilized rapid stool assays in clinical laboratories to directly identify the presence of pathogenic toxins responsible for pseudomembranous colitis.\n• Why Other Options Are Incorrect:\n  - Gram staining: Cannot distinguish toxigenic C. difficile from other normal anaerobic gut commensal flora or non-toxigenic strains.\n  - Acid-fast staining: Used specifically for Mycobacteria and Cryptosporidium.\n  - Polymerase chain reaction (PCR): Detects the toxin genes (tcdA, tcdB) rather than actively secreted biological protein toxins, though often paired with EIA."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is the primary mode of transmission for the hepatitis B virus?",
+    "options": [
+      "Respiratory droplets",
+      "Sexual contact",
+      "Fecal-oral route",
+      "Blood and body fluids"
+    ],
+    "correct_answer": "Blood and body fluids",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Hepatitis B virus (HBV) is a hepadnavirus transmitted parenterally and percutaneously through contact with infected blood, blood products, and body fluids (semen, vaginal secretions), such as via transfusion, contaminated needles, hemodialysis, and perinatal mother-to-child transmission.\n• Why Other Options Are Incorrect:\n  - Respiratory droplets: Mode of transmission for influenza, measles, and coronaviruses.\n  - Sexual contact: Major secondary mode of transmission included under body fluids, but blood and body fluids is the complete overarching category.\n  - Fecal-oral route: Mode of transmission for Hepatitis A virus (HAV) and Hepatitis E virus (HEV)."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following tests is used to detect the presence of Helicobacter pylori in gastric tissue samples?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "Urease test",
+      "PCR"
+    ],
+    "correct_answer": "Urease test",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Helicobacter pylori produces abundant constitutive urease enzyme to hydrolyze urea into ammonia and CO2, buffering gastric stomach acid. The Rapid Urease Test (RUT or CLOtest) on gastric biopsy tissue exposes the biopsy to urea broth with phenol red; H. pylori urease hydrolyzes urea, generating alkaline ammonia and rapidly turning the yellow indicator bright pink.\n• Why Other Options Are Incorrect:\n  - Gram staining: Can show curved rods but is far less specific and sensitive than urease testing or silver staining (Warthin-Starry).\n  - Acid-fast staining: H. pylori is non-acid-fast.\n  - PCR: Highly specialized for clarithromycin resistance testing, but rapid urease is the definitive clinical biopsy test."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is the most common sexually transmitted bacterial infection in the United States?",
+    "options": [
+      "Gonorrhea",
+      "Syphilis",
+      "Chlamydia",
+      "Trichomoniasis"
+    ],
+    "correct_answer": "Chlamydia",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Chlamydia trachomatis (serovars D through K) is an obligate intracellular bacterium that is the most frequently reported bacterial sexually transmitted infection (STI) in the United States and globally, causing non-gonococcal urethritis, cervicitis, and pelvic inflammatory disease (PID).\n• Why Other Options Are Incorrect:\n  - Gonorrhea: Caused by Neisseria gonorrhoeae; second most common bacterial STI, but significantly lower incidence than Chlamydia.\n  - Syphilis: Caused by Treponema pallidum; far lower annual case numbers.\n  - Trichomoniasis: Caused by Trichomonas vaginalis, which is a flagellated protozoan, not a bacterium."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following tests is used to determine the antibiotic susceptibility of bacterial isolates?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "Kirby-Bauer disk diffusion test",
+      "Serological testing"
+    ],
+    "correct_answer": "Kirby-Bauer disk diffusion test",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Kirby-Bauer disk diffusion test is the standardized agar-based method for antimicrobial susceptibility testing (AST). Paper disks impregnated with defined concentrations of antibiotics are placed on a Mueller-Hinton agar plate inoculated with a bacterial lawn; clear zones of inhibition are measured and compared against CLSI/EUCAST breakpoints to classify isolates as Susceptible, Intermediate, or Resistant.\n• Why Other Options Are Incorrect:\n  - Gram staining: Distinguishes cell wall architecture (Gram-positive vs Gram-negative) and morphology, not antimicrobial resistance profiles.\n  - Acid-fast staining: Identifies presence of mycolic acids in cell walls.\n  - Serological testing: Detects antigen-antibody interactions for organism or antibody identification."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following viruses is responsible for causing cervical cancer in women?",
+    "options": [
+      "Herpes simplex virus",
+      "Human papillomavirus (HPV)",
+      "Varicella-zoster virus",
+      "Epstein-Barr virus"
+    ],
+    "correct_answer": "Human papillomavirus (HPV)",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: High-risk oncogenic types of Human Papillomavirus (HPV), particularly HPV-16 and HPV-18, are the established causative agents of virtually all cervical cancers. High-risk HPV oncoproteins E6 and E7 bind to and degrade host tumor suppressors p53 and pRb respectively, driving uncontrolled cellular proliferation and malignant transformation.\n• Why Other Options Are Incorrect:\n  - Herpes simplex virus: HSV-1 and HSV-2 cause oral and genital cold sores/vesicles.\n  - Varicella-zoster virus: Causes chickenpox upon primary infection and herpes zoster (shingles) upon reactivation.\n  - Epstein-Barr virus: Causes infectious mononucleosis and is associated with Burkitt lymphoma and nasopharyngeal carcinoma, not cervical cancer."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following tests is used to detect the presence of antibodies to the causative agent of Lyme disease?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Western blot",
+      "Culture"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The CDC-recommended two-tier serodiagnostic testing algorithm for Lyme disease (caused by the spirochete Borrelia burgdorferi transmitted by Ixodes ticks) begins with a first-tier screening enzyme-linked immunosorbent assay (ELISA or IFA). If reactive or equivocal, it is followed by a confirmatory Western blot.\n• Why Other Options Are Incorrect:\n  - PCR: Can detect Borrelia DNA in synovial fluid of Lyme arthritis, but is not an antibody test.\n  - Western blot: The second-tier confirmatory test after initial ELISA screening.\n  - Culture: Requires complex Barbour-Stoenner-Kelly (BSK) medium, slow-growing and insensitive for routine clinical practice."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following microorganisms is the causative agent of urinary tract infections (UTIs)?",
+    "options": [
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Streptococcus pneumoniae",
+      "Pseudomonas aeruginosa"
+    ],
+    "correct_answer": "Escherichia coli",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Uropathogenic Escherichia coli (UPEC) is responsible for over 80–85% of community-acquired uncomplicated urinary tract infections (acute cystitis and pyelonephritis). UPEC possesses P fimbriae (pyelonephritis-associated pili) and Type 1 fimbriae that adhere tightly to uroepithelial receptors, resisting urine flushing.\n• Why Other Options Are Incorrect:\n  - Staphylococcus aureus: Causes hematogenous renal abscesses, but is rare in uncomplicated ascending UTIs.\n  - Streptococcus pneumoniae: Respiratory pathogen, does not cause UTIs.\n  - Pseudomonas aeruginosa: Causes complicated, catheter-associated hospital UTIs, but is far less frequent than E. coli."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following tests is used for the rapid identification of methicillin-resistant Staphylococcus aureus (MRSA)?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "PCR",
+      "Catalase test"
+    ],
+    "correct_answer": "PCR",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Real-time Polymerase Chain Reaction (PCR) enables rapid (under 1–2 hours) molecular identification of MRSA directly from nasal swabs or blood cultures by amplifying the mecA or mecC gene (which encodes the low-affinity penicillin-binding protein PBP2a) integrated within the staphylococcal cassette chromosome mec (SCCmec).\n• Why Other Options Are Incorrect:\n  - Gram staining: Only shows Gram-positive cocci in clusters; cannot distinguish methicillin resistance.\n  - Acid-fast staining: For Mycobacteria, completely inapplicable to Staphylococci.\n  - Catalase test: Differentiates Staphylococci (catalase positive) from Streptococci (catalase negative), but does not assess antibiotic resistance."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is the primary vector for the transmission of the Zika virus?",
+    "options": [
+      "Mosquitoes",
+      "Ticks",
+      "Fleas",
+      "Sandflies"
+    ],
+    "correct_answer": "Mosquitoes",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Zika virus (family Flaviviridae) is an arbovirus transmitted primarily through the bite of infected female Aedes mosquitoes, predominantly Aedes aegypti and Aedes albopictus (the same vectors that transmit Dengue, Chikungunya, and Yellow fever viruses).\n• Why Other Options Are Incorrect:\n  - Ticks: Vectors for Lyme disease, Rocky Mountain spotted fever, and Crimean-Congo hemorrhagic fever.\n  - Fleas: Vectors for Yersinia pestis (plague) and Rickettsia typhi (endemic typhus).\n  - Sandflies: Vectors for Leishmania species and Sandfly fever virus."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following tests is used for the diagnosis of infectious mononucleosis?",
+    "options": [
+      "Gram staining",
+      "Acid-fast staining",
+      "Paul-Bunnell test",
+      "Serological testing"
+    ],
+    "correct_answer": "Paul-Bunnell test",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Paul-Bunnell test (and its rapid slide modification, the Monospot test) diagnoses infectious mononucleosis (caused by Epstein-Barr virus) by detecting heterophile antibodies in the patient's serum that agglutinate sheep or horse erythrocytes.\n• Why Other Options Are Incorrect:\n  - Gram staining: Inapplicable to viral infections.\n  - Acid-fast staining: Used for mycobacterial infections.\n  - Serological testing: Generic category; Paul-Bunnell is the classic specific test designed for heterophile antibody agglutination in EBV mononucleosis."
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is the primary mode of transmission for the Zika virus?",
+    "options": [
+      "Respiratory droplets",
+      "Sexual contact",
+      "Fecal-oral route",
+      "Mosquito bites"
+    ],
+    "correct_answer": "Mosquito bites",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The principal, overwhelming route of transmission of Zika virus to humans is through the bites of infected female daytime-biting Aedes mosquitoes (Aedes aegypti and Aedes albopictus).\n• Why Other Options Are Incorrect:\n  - Respiratory droplets: Zika is not an airborne respiratory virus.\n  - Sexual contact: Although sexual transmission and congenital vertical transmission occur, mosquito bites remain the primary natural vector transmission mode.\n  - Fecal-oral route: Zika is not transmitted via enteric fecal-oral ingestion."
+  },
+  {
+    "id": 36,
+    "question": "Which of the following tests is used for the detection of antibodies to the causative agent of syphilis?",
+    "options": [
+      "ELISA",
+      "RPR test",
+      "VDRL test",
+      "Dark-field microscopy"
+    ],
+    "correct_answer": "VDRL test",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Venereal Disease Research Laboratory (VDRL) test is the classic non-treponemal flocculation serological test used to detect reagin antibodies (IgM and IgG directed against cardiolipin-lecithin-cholesterol antigen) formed in response to lipids released by Treponema pallidum and host tissue damage.\n• Why Other Options Are Incorrect:\n  - ELISA: Can be used in automated treponemal testing, but VDRL is the classic historical and universal CSF test for neurosyphilis.\n  - RPR test: Rapid Plasma Reagin is also a non-treponemal test, but VDRL is the designated choice.\n  - Dark-field microscopy: Direct visualization of live motile spirochetes from primary chancre exudate, not an antibody test."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following microorganisms is responsible for causing infectious diarrhea in infants and young children?",
+    "options": [
+      "Rotavirus",
+      "Norovirus",
+      "Escherichia coli",
+      "Salmonella"
+    ],
+    "correct_answer": "Rotavirus",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Rotavirus (family Reoviridae) is a double-stranded segmented RNA virus that is the leading cause of severe, dehydrating, watery diarrhea and vomiting in infants and children under 5 years of age worldwide. Its NSP4 enterotoxin induces severe secretory diarrhea.\n• Why Other Options Are Incorrect:\n  - Norovirus: Leading cause of epidemic non-bacterial acute gastroenteritis across all age groups (older children and adults in cruise ships/schools).\n  - Escherichia coli: Enterotoxigenic (ETEC) and enteropathogenic (EPEC) cause diarrhea, but Rotavirus is the classic leading infantile agent.\n  - Salmonella: Major cause of foodborne inflammatory gastroenteritis in older children and adults."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following tests is used to diagnose tuberculosis?",
+    "options": [
+      "Acid-fast staining",
+      "PCR",
+      "ELISA",
+      "Gram staining"
+    ],
+    "correct_answer": "Acid-fast staining",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Acid-fast staining (Ziehl-Neelsen or Kinyoun staining) is the hallmark rapid diagnostic technique for pulmonary tuberculosis. Because Mycobacterium tuberculosis has thick, lipid-rich mycolic acid cell walls that resist conventional stains, carbolfuchsin penetrates with heat or phenol and resists decolorization with acid-alcohol, appearing as bright red/pink rods.\n• Why Other Options Are Incorrect:\n  - PCR: GeneXpert MTB/RIF is increasingly used for molecular diagnosis, but acid-fast smear microscopy remains the primary foundational laboratory test worldwide.\n  - ELISA: Serological antibody tests for TB are notoriously unreliable and explicitly discouraged by WHO for pulmonary TB diagnosis.\n  - Gram staining: Mycobacteria stain weakly or not at all (ghost cells) on Gram stain."
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is the causative agent of malaria?",
+    "options": [
+      "Plasmodium falciparum",
+      "Trypanosoma cruzi",
+      "Leishmania donovani",
+      "Toxoplasma gondii"
+    ],
+    "correct_answer": "Plasmodium falciparum",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Plasmodium falciparum is the deadliest protozoan parasite causing human malaria (malignant tertian malaria). It invades erythrocytes of all ages, expresses PfEMP-1 causing vascular cytoadherence and sequestration in deep microvasculature, leading to severe cerebral malaria, multiorgan failure, and high mortality.\n• Why Other Options Are Incorrect:\n  - Trypanosoma cruzi: Flagellated kinetoplastid protozoan causing Chagas disease (American trypanosomiasis).\n  - Leishmania donovani: Causes visceral leishmaniasis (Kala-azar).\n  - Toxoplasma gondii: Intracellular apicomplexan causing toxoplasmosis, transmitted via feline feces or undercooked meat."
+  },
+  {
+    "id": 40,
+    "question": "Which of the following tests is used to detect antibodies against the human immunodeficiency virus (HIV) in blood samples?",
+    "options": [
+      "ELISA",
+      "Western blot",
+      "PCR",
+      "Acid-fast staining"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Enzyme-Linked Immunosorbent Assay (ELISA) is the standard initial high-sensitivity screening tool used globally for detecting antibodies against HIV antigens in blood and serum donations and clinical diagnostic workflows.\n• Why Other Options Are Incorrect:\n  - Western blot: Historically the confirmatory test used after a reactive ELISA, but ELISA is the primary antibody detection test.\n  - PCR: Detects viral nucleic acid (HIV RNA viral load or proviral DNA).\n  - Acid-fast staining: Used to visualize acid-fast bacilli like Mycobacterium tuberculosis."
+  }
+]

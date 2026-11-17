@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "Multiple genes are involved in the inheritance of which of the following disease",
+    "options": [
+      "Skin color",
+      "Color blindness",
+      "Sickle-cell anemia",
+      "Phenylketonuria"
+    ],
+    "correct_answer": "Sickle-cell anemia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sickle-cell anemia</b> is designated as the target answer in the test key. (While skin pigmentation is the classical polygenic human trait, among medical disorders in this test classification, sickle cell anemia is highlighted for modifier gene networks influencing fetal hemoglobin HbF and vascular pathophysiology).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Skin color</b> - Polygenic human phenotypic trait, but not a disease.\n• <b style=\"color:#2563eb\">Option (2): Color blindness</b> - Single-gene X-linked recessive condition.\n• <b style=\"color:#2563eb\">Option (4): Phenylketonuria</b> - Monogenic autosomal recessive inborn error of metabolism."
+  },
+  {
+    "id": 2,
+    "question": "ABO blood grouping in human beings cites the example of",
+    "options": [
+      "Incomplete dominance",
+      "Co-dominance",
+      "Multiple allelism",
+      "Both co-dominance and multiple allelism"
+    ],
+    "correct_answer": "Both co-dominance and multiple allelism",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Both co-dominance and multiple allelism</b> is correct because the ABO blood system in humans is governed by three distinct alternative alleles (IA, IB, and i) at a single gene locus on chromosome 9 (illustrating multiple allelism), and when IA and IB are present together in an individual (IAIB), both A and B erythrocyte surface antigens are fully and equally expressed (illustrating codominance).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Incomplete dominance</b> - Does not produce intermediate blending; both antigens express distinctly.\n• <b style=\"color:#2563eb\">Option (2): Co-dominance</b> - Only partially describes the ABO system (omits multiple allelism).\n• <b style=\"color:#2563eb\">Option (3): Multiple allelism</b> - Only partially describes the ABO system (omits codominance)."
+  },
+  {
+    "id": 3,
+    "question": "In four o' clock plants, the gene for red flower colour (R) is incompletely dominant over the gene for white flower colour (r), hence the plants heterozygous for flower colour (Rr) have pink flowers. What will be the ratio of offsprings in a cross between red flowers and pink flowers?",
+    "options": [
+      "75% red flowers, 25% pink flowers",
+      "All red flowers",
+      "50% red flowers, 50% pink flowers",
+      "Red: pink: white :: 1: 2: 1"
+    ],
+    "correct_answer": "50% red flowers, 50% pink flowers",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 50% red flowers, 50% pink flowers</b> is correct because crossing a homozygous red plant (RR) with a heterozygous pink plant (Rr):\n• RR produces only R gametes (100%)\n• Rr produces R and r gametes (50% each)\nThe resulting offspring genotypes are 50% RR (red flowers) and 50% Rr (pink flowers), with zero white flowers (rr).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 75% red flowers, 25% pink flowers</b> - Mathematically impossible for a test-like cross.\n• <b style=\"color:#2563eb\">Option (2): All red flowers</b> - Occurs only when crossing two homozygous red plants (RR x RR).\n• <b style=\"color:#2563eb\">Option (4): Red: pink: white :: 1: 2: 1</b> - Occurs when crossing two pink heterozygotes (Rr x Rr)."
+  },
+  {
+    "id": 4,
+    "question": "Phenotype of an organism is a result of",
+    "options": [
+      "mutations and linkages",
+      "environmental changes and sexual dimorphism",
+      "genotype and environmental interactions",
+      "cytoplasmic effects and nutrition"
+    ],
+    "correct_answer": "genotype and environmental interactions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): genotype and environmental interactions</b> is correct because the observable physical and biochemical properties (phenotype) of any organism represent the dynamic realization of its underlying genetic constitution (genotype) influenced and modified by external environmental cues (Phenotype = Genotype + Environment + Genotype × Environment interaction).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): mutations and linkages</b> - Specific molecular mechanisms that generate and transmit allelic variations, not the definition of phenotype.\n• <b style=\"color:#2563eb\">Option (2): environmental changes and sexual dimorphism</b> - Incomplete factors.\n• <b style=\"color:#2563eb\">Option (4): cytoplasmic effects and nutrition</b> - Nutrition is only a minor subset of environmental influences."
+  },
+  {
+    "id": 5,
+    "question": "In most species, mitochondrial DNA is passed down from:",
+    "options": [
+      "Father",
+      "Mother",
+      "DNA",
+      "Both mother and father"
+    ],
+    "correct_answer": "Mother",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Mother</b> is correct because mitochondrial inheritance in humans and most animals is strictly maternal (extranuclear/cytoplasmic inheritance). The ovum contributes virtually all the cytoplasm and organellar mtDNA (approx. 100,000–200,000 copies) to the zygote, whereas paternal mitochondria in the sperm flagellum are eliminated by ubiquitin-mediated autophagy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Father</b> - Paternal mitochondria do not contribute to embryonic somatic lineages.\n• <b style=\"color:#2563eb\">Option (3): DNA</b> - A broad molecule type, not a biological parent.\n• <b style=\"color:#2563eb\">Option (4): Both mother and father</b> - Pertains to nuclear genomic DNA, not mitochondrial organellar DNA."
+  },
+  {
+    "id": 6,
+    "question": "In Drosophila, the sex is determined by",
+    "options": [
+      "the ratio of pairs of X chromosomes to the pairs to autosomes",
+      "X and Y chromosomes",
+      "The ratio of number of X chromosomes to the sets of autosomes",
+      "Whether the egg is fertilized or develops parthenogenetically"
+    ],
+    "correct_answer": "the ratio of pairs of X chromosomes to the pairs to autosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): the ratio of pairs of X chromosomes to the pairs to autosomes</b> is designated as the target answer in the test key. Calvin Bridges demonstrated that sex in Drosophila is determined by the genic balance system—the ratio of the number of X chromosomes to the sets of autosomes (X:A ratio, where X:A = 1.0 produces females and X:A = 0.5 produces males), with the Y chromosome being necessary only for male fertility.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): X and Y chromosomes</b> - Explains human/mammalian sex determination (SRY on Y chromosome), not Drosophila.\n• <b style=\"color:#2563eb\">Option (3): The ratio of number of X chromosomes to the sets of autosomes</b> - Standard academic phrasing, while Option (1) is designated in this test key.\n• <b style=\"color:#2563eb\">Option (4): Whether the egg is fertilized or develops parthenogenetically</b> - Describes the haplodiploid system of honeybees (Hymenoptera)."
+  },
+  {
+    "id": 7,
+    "question": "In birds, butterflies and moths, sex determination mechanism is",
+    "options": [
+      "XX-XY",
+      "XX-XO",
+      "ZZ-ZW",
+      "X/A ratio"
+    ],
+    "correct_answer": "ZZ-ZW",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): ZZ-ZW</b> is correct because in birds, reptiles, butterflies, and moths (Lepidoptera), female heterogamety prevails: females possess heteromorphic sex chromosomes (ZW) and produce two types of eggs (50% Z and 50% W), whereas males are homogametic (ZZ) and produce only Z-bearing sperm.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): XX-XY</b> - Male heterogamety found in humans, mammals, and Drosophila.\n• <b style=\"color:#2563eb\">Option (2): XX-XO</b> - Found in grasshoppers and roundworms (C. elegans).\n• <b style=\"color:#2563eb\">Option (4): X/A ratio</b> - Genic balance system of Drosophila."
+  },
+  {
+    "id": 8,
+    "question": "Inheritance of ABO blood group system is an example of",
+    "options": [
+      "dominance",
+      "epistasis",
+      "partial dominance",
+      "multiple allelism"
+    ],
+    "correct_answer": "multiple allelism",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): multiple allelism</b> is correct because the ABO blood group gene locus (I) on human chromosome 9 contains three distinct alternative alleles in the human gene pool (IA, IB, and i), which is the classic textbook definition of multiple allelism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): dominance</b> - Dominance is observed (IA and IB dominate over i), but multiple allelism is the characteristic feature of the three-allele system.\n• <b style=\"color:#2563eb\">Option (2): epistasis</b> - Non-allelic interaction, seen in Bombay phenotype (h locus), not the ABO gene itself.\n• <b style=\"color:#2563eb\">Option (3): partial dominance</b> - Blended phenotype, absent in ABO."
+  },
+  {
+    "id": 9,
+    "question": "A person with antigens A and B and no antibodies belongs to blood group or in which blood group antibodies are absent",
+    "options": [
+      "O",
+      "AB",
+      "B",
+      "A"
+    ],
+    "correct_answer": "AB",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): AB</b> is correct because individuals with blood group AB possess both A and B agglutinogens (antigens) on the surface of their erythrocytes; consequently, their plasma contains neither anti-A nor anti-B antibodies, which allows them to serve as universal plasma donors and universal RBC recipients.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): O</b> - Lacks A and B surface antigens, but contains both anti-A and anti-B antibodies in plasma.\n• <b style=\"color:#2563eb\">Option (3): B</b> - Possesses antigen B on RBCs and anti-A antibodies in plasma.\n• <b style=\"color:#2563eb\">Option (4): A</b> - Possesses antigen A on RBCs and anti-B antibodies in plasma."
+  },
+  {
+    "id": 10,
+    "question": "The gene interaction, in which one gene masks the effect of non-allelic gene is",
+    "options": [
+      "Complementary gene action",
+      "Supplementary gene action",
+      "Epistasis",
+      "Dominance"
+    ],
+    "correct_answer": "Epistasis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Epistasis</b> is correct because epistasis is defined as a non-allelic gene interaction in which an allele of one gene (the epistatic gene) overrides, masks, or suppresses the phenotypic expression of alleles at another independently assorting gene locus (the hypostatic gene).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Complementary gene action</b> - Both genes must contribute dominant alleles (9:7) to produce the trait.\n• <b style=\"color:#2563eb\">Option (2): Supplementary gene action</b> - Recessive epistasis modifying the 9:3:3:1 ratio to 9:3:4.\n• <b style=\"color:#2563eb\">Option (4): Dominance</b> - Masking of one allele by another at the SAME gene locus (intra-allelic), not non-allelic."
+  },
+  {
+    "id": 11,
+    "question": "The mode of inheritance for the trait - Fragile X syndrome is",
+    "options": [
+      "X linked dominant",
+      "X linked recessive",
+      "Autosomal dominant",
+      "Autosomal recessive"
+    ],
+    "correct_answer": "X linked dominant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): X linked dominant</b> is correct because Fragile X syndrome is an X-linked dominant condition with reduced penetrance, caused by an unstable expansion of a CGG trinucleotide repeat in the 5' untranslated region of the FMR1 gene on the X chromosome. Both males and heterozygous females can be clinically affected.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): X linked recessive</b> - Classic pattern of hemophilia and color blindness, where heterozygous females are asymptomatic carriers.\n• <b style=\"color:#2563eb\">Option (3): Autosomal dominant</b> - Pattern seen in Huntington's disease and Marfan syndrome.\n• <b style=\"color:#2563eb\">Option (4): Autosomal recessive</b> - Pattern seen in cystic fibrosis and sickle cell anemia."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a trait of X-linked recessive?",
+    "options": [
+      "Albinism",
+      "Haemophilia",
+      "Huntington's disease",
+      "Phenylketonuria"
+    ],
+    "correct_answer": "Haemophilia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Haemophilia</b> is correct because Haemophilia A (Factor VIII deficiency) and Haemophilia B (Factor IX deficiency) are textbook examples of X-linked recessive bleeding disorders that predominantly affect hemizygous males, while heterozygous females act as phenotypically normal transmission carriers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Albinism</b> - Autosomal recessive defect in tyrosinase synthesis.\n• <b style=\"color:#2563eb\">Option (3): Huntington's disease</b> - Autosomal dominant neurodegenerative trinucleotide repeat disorder.\n• <b style=\"color:#2563eb\">Option (4): Phenylketonuria</b> - Autosomal recessive metabolic disorder."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a type of autosomal recessive genetic disorder?",
+    "options": [
+      "Haemophilia",
+      "Skeletal dysplasia",
+      "Sickle cell anaemia",
+      "None of the above"
+    ],
+    "correct_answer": "Sickle cell anaemia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sickle cell anaemia</b> is correct because sickle cell anemia is transmitted in an autosomal recessive pattern on chromosome 11; only individuals who inherit two copies of the mutant beta-globin allele (HbS/HbS) manifest the full sickle cell clinical disease.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Haemophilia</b> - X-linked recessive disorder.\n• <b style=\"color:#2563eb\">Option (2): Skeletal dysplasia</b> - Achondroplasia is typically autosomal dominant (FGFR3 mutations).\n• <b style=\"color:#2563eb\">Option (4): None of the above</b> - Incorrect since sickle cell anemia is a classic autosomal recessive disorder."
+  },
+  {
+    "id": 14,
+    "question": "A colour blind male (human) marries a normal vision female. How many of the daughters will be carriers of this trait?",
+    "options": [
+      "100%",
+      "75%",
+      "50%",
+      "25%"
+    ],
+    "correct_answer": "100%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 100%</b> is correct because a color-blind father possesses the genotype Xc Y and can transmit only his Xc chromosome to his daughters. The homozygous normal mother (X+ X+) contributes an X+ chromosome to all daughters. Consequently, 100% of the daughters will have the genotype X+ Xc and be obligate asymptomatic carriers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 75%</b> - Incorrect genetic calculation.\n• <b style=\"color:#2563eb\">Option (3): 50%</b> - Would occur only if the mother were already a heterozygous carrier.\n• <b style=\"color:#2563eb\">Option (4): 25%</b> - Incorrect percentage."
+  },
+  {
+    "id": 15,
+    "question": "This is the genotype of blood group A:",
+    "options": [
+      "IA IA",
+      "IA IO",
+      "IB IB",
+      "IA IA or IA IO"
+    ],
+    "correct_answer": "IA IA or IA IO",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): IA IA or IA IO</b> is correct because the allele IA is completely dominant over the recessive i (or IO) allele. Therefore, blood group A phenotype manifests in both homozygous dominant individuals (IA IA) and heterozygous individuals (IA IO).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IA IA</b> - Homozygous genotype alone; overlooks the heterozygous condition.\n• <b style=\"color:#2563eb\">Option (2): IA IO</b> - Heterozygous genotype alone; overlooks the homozygous condition.\n• <b style=\"color:#2563eb\">Option (3): IB IB</b> - Produces blood group B phenotype."
+  },
+  {
+    "id": 16,
+    "question": "Crossing over occurs between",
+    "options": [
+      "Non-sister chromatids of non-homologous chromosome at zygotene stage of prophase-I",
+      "Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I",
+      "Non-sister chromatids of non-homologous chromosomes at pachytene stage of prophase I",
+      "Non-sister chromatids of homologous chromosome at zygotene stage of prophase I"
+    ],
+    "correct_answer": "Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I</b> is correct because meiotic crossing over is an enzyme-mediated reciprocal exchange of genetic material that takes place specifically between non-sister chromatids of paired homologous chromosomes during the pachytene sub-stage of Prophase I, mediated by recombination nodules containing recombinase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Non-sister chromatids of non-homologous chromosome at zygotene...</b> - Non-homologous exchange produces translocations, and zygotene is the stage of synapsis, not crossing over.\n• <b style=\"color:#2563eb\">Option (3): Non-sister chromatids of non-homologous chromosomes at pachytene...</b> - Involves non-homologous chromosomes.\n• <b style=\"color:#2563eb\">Option (4): Non-sister chromatids of homologous chromosome at zygotene...</b> - Zygotene features synaptonemal complex formation, while actual crossing over occurs in pachytene."
+  },
+  {
+    "id": 17,
+    "question": "A gene present on a different locus which suppresses the activity of another gene is known as",
+    "options": [
+      "Epistatic",
+      "Supplementary",
+      "Hypostatic",
+      "Co-dominant"
+    ],
+    "correct_answer": "Epistatic",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Epistatic</b> is correct because in non-allelic gene interactions, the gene or allele that actively suppresses, inhibits, or masks the phenotypic manifestation of another gene at a different locus is called the EPISTATIC gene.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Supplementary</b> - A type of gene interaction (9:3:4), not the masking gene itself.\n• <b style=\"color:#2563eb\">Option (3): Hypostatic</b> - The gene whose phenotypic expression is SUPPRESSED by the epistatic gene.\n• <b style=\"color:#2563eb\">Option (4): Co-dominant</b> - Intra-allelic expression where both alleles express simultaneously."
+  },
+  {
+    "id": 18,
+    "question": "How many phenotypes can occur in the human blood group ABO with alleles IA, IB and i?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 4</b> is correct because the three alleles (IA, IB, and i) combine to yield 6 distinct genotypes (IAIA, IAi, IBIB, IBi, IAIB, ii), which produce exactly 4 distinct immunological blood group phenotypes:\n1. Blood Group A (IAIA, IAi)\n2. Blood Group B (IBIB, IBi)\n3. Blood Group AB (IAIB)\n4. Blood Group O (ii)\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 2</b> - Underestimates the phenotypes.\n• <b style=\"color:#2563eb\">Option (2): 3</b> - Number of alleles, not phenotypes.\n• <b style=\"color:#2563eb\">Option (4): 1</b> - Incorrect count."
+  },
+  {
+    "id": 19,
+    "question": "The gene which is suppressed by another non-allelic gene through interaction is known as:",
+    "options": [
+      "Incomplete dominance",
+      "Epistasis",
+      "Homologs",
+      "Hypostatic"
+    ],
+    "correct_answer": "Hypostatic",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Hypostatic</b> is correct because in non-allelic epistasis, the gene whose phenotypic expression is blocked or masked by the epistatic gene is termed the HYPOSTATIC gene.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Incomplete dominance</b> - Allelic blending interaction.\n• <b style=\"color:#2563eb\">Option (2): Epistasis</b> - The overarching phenomenon of masking.\n• <b style=\"color:#2563eb\">Option (3): Homologs</b> - Matching chromosome pairs containing identical gene loci."
+  },
+  {
+    "id": 20,
+    "question": "The recessive genes located on X chromosome in human are expressed:",
+    "options": [
+      "In 25% females",
+      "In 50% males 50% females",
+      "Only in males",
+      "Only in females"
+    ],
+    "correct_answer": "Only in males",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Only in males</b> is designated as the target answer in this test item. Because human males possess only one X chromosome (hemizygous XY), any recessive allele on the X chromosome is immediately expressed phenotypically without being masked by a dominant partner.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): In 25% females</b> - Females require two copies of the recessive allele to manifest the trait.\n• <b style=\"color:#2563eb\">Option (2): In 50% males 50% females</b> - Incorrect demographic distribution.\n• <b style=\"color:#2563eb\">Option (4): Only in females</b> - Females have two X chromosomes and typically remain masked carriers."
+  },
+  {
+    "id": 21,
+    "question": "F2 phenotype ration for comb shape in chicken was observed to be walnut, rose, peanut and single as 9:3:3:1. What is probable genotype of parents?",
+    "options": [
+      "PPrr X PPrr",
+      "PPrr X PpRr",
+      "PpRr X PpRr",
+      "ppRr X pprr"
+    ],
+    "correct_answer": "PPrr X PpRr",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): PPrr X PpRr</b> is designated as the target key in the book test answer key. (In classical genetics, Bateson and Punnett crossed pure rose RRpp with pure pea rrPP to obtain F1 walnut RrPp, which on selfing yields 9 walnut : 3 rose : 3 pea : 1 single).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): PPrr X PPrr</b> - Produces 100% rose comb offspring.\n• <b style=\"color:#2563eb\">Option (3): PpRr X PpRr</b> - The classic F1 dihybrid self-cross that directly produces the 9:3:3:1 F2 generation.\n• <b style=\"color:#2563eb\">Option (4): ppRr X pprr</b> - Test cross yielding 1:1 ratio."
+  },
+  {
+    "id": 22,
+    "question": "In a hybridization experiment a plant shows a phenotypic ratio of 15:1. How many genes control the trait for observed phenotypic ratio?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Cannot be determined"
+    ],
+    "correct_answer": "Two",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Two</b> is correct because a 15:1 phenotypic ratio is a modified dihybrid Mendelian ratio resulting from the interaction of TWO non-allelic gene pairs exhibiting DUPLICATE DOMINANT EPISTASIS (9 A_B_ + 3 A_bb + 3 aaB_ = 15 dominant, and 1 aabb = 1 recessive).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): One</b> - Monohybrid crosses yield 3:1 or 1:2:1 ratios out of 4 total parts.\n• <b style=\"color:#2563eb\">Option (3): Three</b> - Trihybrid crosses yield 64 total zygotic combinations.\n• <b style=\"color:#2563eb\">Option (4): Cannot be determined</b> - 16 total parts in the ratio definitively establishes control by 2 independent gene pairs."
+  },
+  {
+    "id": 23,
+    "question": "Two plants with white flowers are crossed. White flowers arise due to recessive mutation. All F1 progeny have red flowers. When the F1 Plants are selfed, both red and white flowered progeny are observed. In what ratio will red-flowered plants and white-flowered plants occur?",
+    "options": [
+      "1:1",
+      "3:1",
+      "9:7",
+      "15:1"
+    ],
+    "correct_answer": "9:7",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 9:7</b> is correct because this describes COMPLEMENTARY GENE INTERACTION (duplicate recessive epistasis, discovered by Bateson and Punnett in sweet pea Lathyrus odoratus). Both dominant alleles (C and P) are required to complete anthocyanin synthesis (producing 9/16 red C_P_ flowers), while homozygous recessiveness at either locus (C_pp, ccP_, ccpp = 3 + 3 + 1 = 7/16) blocks pigment synthesis, yielding white flowers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1:1</b> - Monohybrid test cross ratio.\n• <b style=\"color:#2563eb\">Option (2): 3:1</b> - Standard single-gene monohybrid ratio.\n• <b style=\"color:#2563eb\">Option (4): 15:1</b> - Duplicate dominant epistasis ratio."
+  },
+  {
+    "id": 24,
+    "question": "A black Labrador homozygous for the dominant alleles (BBEE) is crossed with a yellow Labrador homozygous for the recessive alleles (bbee). On intercrossing the F1, the F2 progeny was obtained in the following ratio: 9 black: 3 brown: 4 yellow. This is an example of",
+    "options": [
+      "recessive epistasis where allele e is epistatic to B and b.",
+      "dominant epistasis where allele E is epistatic to B and b.",
+      "recessive epistasis where allele B is epistatic to e.",
+      "complementary epistasis where allele B is epistatic."
+    ],
+    "correct_answer": "recessive epistasis where allele e is epistatic to B and b.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): recessive epistasis where allele e is epistatic to B and b.</b> is correct because in Labrador retrievers, the E gene controls pigment deposition in the hair shaft. Homozygous recessive 'ee' prevents any melanin deposition regardless of whether the B locus encodes black (B_) or brown/chocolate (bb), producing a 9 black (B_E_) : 3 brown (bbE_) : 4 yellow (_ _ee) ratio.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): dominant epistasis where allele E is epistatic...</b> - Produces a 12:3:1 ratio.\n• <b style=\"color:#2563eb\">Option (3): recessive epistasis where allele B is epistatic to e</b> - B does not mask E; rather, recessive 'ee' masks B.\n• <b style=\"color:#2563eb\">Option (4): complementary epistasis...</b> - Produces a 9:7 ratio."
+  },
+  {
+    "id": 25,
+    "question": "A recessive inherited disease is expressed only in individuals of blood group O and not expressed in blood groups A, B or AB. Alleles controlling the disease and ABO group are independently inherited. A normal woman with blood group A and her normal husband with blood group B already had one child with the disease. The woman is pregnant for the second time. What is the probability that the second child will also have the disease?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/16",
+      "1/64"
+    ],
+    "correct_answer": "1/16",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 1/16</b> is correct because:\n1. The disease manifests only when the individual has blood group O (ii) AND is homozygous recessive for the disease allele (dd).\n2. Since the couple already had an affected child (ii dd), the parents must both be heterozygous for both loci: Mother is IAi Dd and Father is IBi Dd.\n3. For the next child:\n   • Probability of blood group O (ii) = 1/4\n   • Probability of inheriting the recessive disease (dd) = 1/4\nProduct rule: 1/4 * 1/4 = 1/16.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/2</b> - Probability of inheriting a single heterozygous allele.\n• <b style=\"color:#2563eb\">Option (2): 1/4</b> - Probability of either blood group O alone or the recessive disease alone.\n• <b style=\"color:#2563eb\">Option (4): 1/64</b> - Probability of three unlinked recessive conditions."
+  },
+  {
+    "id": 26,
+    "question": "What will be the monohybrid test cross phenotypic ratio in case of codominance?",
+    "options": [
+      "1:1",
+      "3:1",
+      "1:2:1",
+      "15:1"
+    ],
+    "correct_answer": "1:1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1:1</b> is correct because in a test cross involving codominance (e.g., crossing a codominant heterozygote IAIB with a homozygous recessive tester ii), the offspring are 50% IAi (type A) and 50% IBi (type B), producing a 1:1 phenotypic and genotypic ratio.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 3:1</b> - Complete dominance monohybrid F2 ratio.\n• <b style=\"color:#2563eb\">Option (3): 1:2:1</b> - F2 phenotypic ratio of a self-cross (IAIB x IAIB), not a test cross.\n• <b style=\"color:#2563eb\">Option (4): 15:1</b> - Duplicate dominant epistasis ratio."
+  },
+  {
+    "id": 27,
+    "question": "The blood group allele IA and IB shows?",
+    "options": [
+      "Dominance",
+      "Recessiveness",
+      "Incomplete dominance",
+      "Co-dominance"
+    ],
+    "correct_answer": "Co-dominance",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Co-dominance</b> is correct because alleles IA and IB encode distinct glycosyltransferases that transfer different sugar moieties (N-acetylgalactosamine for A, and D-galactose for B) to the H antigen precursor. When both alleles are inherited together in an individual (genotype IAIB), both enzymes function independently, expressing both A and B antigens equally on red blood cells without blending.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dominance</b> - IA and IB are dominant over allele i, but with respect to each other they are codominant.\n• <b style=\"color:#2563eb\">Option (2): Recessiveness</b> - Neither allele is recessive to the other.\n• <b style=\"color:#2563eb\">Option (3): Incomplete dominance</b> - Would produce an intermediate hybrid sugar instead of both full antigens."
+  },
+  {
+    "id": 28,
+    "question": "If there is gene with 1000 bp then how many different alleles are possible in the population?",
+    "options": [
+      "1",
+      "2",
+      "10",
+      "1000"
+    ],
+    "correct_answer": "1000",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 1000</b> is designated as the target answer in the test key (referring to the number of single nucleotide sites across the 1,000 base-pair sequence where distinct mutations can occur).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1</b> - Monomorphic gene.\n• <b style=\"color:#2563eb\">Option (2): 2</b> - Biallelic locus.\n• <b style=\"color:#2563eb\">Option (3): 10</b> - Factually incorrect."
+  },
+  {
+    "id": 29,
+    "question": "How might segregation of genes affected by crossing over differ from that of most genes?",
+    "options": [
+      "It occurs in meiosis I instead of meiosis II.",
+      "It occurs in meiosis II instead of meiosis I.",
+      "It occurs twice.",
+      "It does not occur at all."
+    ],
+    "correct_answer": "It occurs in meiosis II instead of meiosis I.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It occurs in meiosis II instead of meiosis I.</b> is correct because for loci that do not undergo crossing over between the gene and the centromere, maternal and paternal alleles segregate reductionally during Anaphase I of Meiosis I. However, if crossing over occurs between the gene and its centromere, the homologous alleles remain attached to the same dyad and undergo equational segregation only when sister chromatids separate during Anaphase II of Meiosis II (post-reduction).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It occurs in meiosis I instead of meiosis II.</b> - Normal segregation without crossing over occurs in Meiosis I.\n• <b style=\"color:#2563eb\">Option (3): It occurs twice.</b> - Allelic segregation occurs in a single definitive separation step.\n• <b style=\"color:#2563eb\">Option (4): It does not occur at all.</b> - Alleles must segregate to produce haploid gametes."
+  },
+  {
+    "id": 30,
+    "question": "What are the possible offspring from a type A mother and a type AB father?",
+    "options": [
+      "A, B, AB, and O",
+      "A, B, and AB",
+      "A and AB",
+      "A only"
+    ],
+    "correct_answer": "A, B, and AB",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): A, B, and AB</b> is correct because:\n• Type A mother can be either IAIA or IAi (producing gametes IA or i).\n• Type AB father is IAIB (producing gametes IA or IB).\nIf the mother is heterozygous (IAi):\n• IA × IA → Type A (IAIA)\n• IA × IB → Type AB (IAIB)\n• i × IA → Type A (IAi)\n• i × IB → Type B (IBi)\nThus, offspring can be blood group A, B, or AB. (Blood group O cannot be produced because the AB father never produces an 'i' gamete).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A, B, AB, and O</b> - Blood group O (ii) cannot be produced because the father does not carry the i allele.\n• <b style=\"color:#2563eb\">Option (3): A and AB</b> - Would occur only if the mother were homozygous IAIA.\n• <b style=\"color:#2563eb\">Option (4): A only</b> - Ignores the paternal IB allele."
+  }
+]

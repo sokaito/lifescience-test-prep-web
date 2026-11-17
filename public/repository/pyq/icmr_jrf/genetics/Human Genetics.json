@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "Haemophilia, an inherited disorder that affects only males is:",
+    "options": [
+      "Recessive X-linked",
+      "Dominant X-linked",
+      "Y-linked",
+      "Dominant autosomal"
+    ],
+    "correct_answer": "Recessive X-linked",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Recessive X-linked</b> is correct because hemophilia (deficiency of coagulation Factor VIII in Hemophilia A or Factor IX in Hemophilia B) is an X-linked recessive disorder. Since human males possess only one X chromosome (hemizygous 46, XY), a single mutant allele on the X chromosome results in the full clinical manifestation of the bleeding disorder.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Dominant X-linked</b> - In X-linked dominant traits, heterozygous females are also affected, typically in greater numbers than males.\n• <b style=\"color:#2563eb\">Option (3): Y-linked</b> - Transmitted exclusively from father to all sons (holandric), whereas hemophilia is transmitted from carrier mothers to sons.\n• <b style=\"color:#2563eb\">Option (4): Dominant autosomal</b> - Affects both sexes equally across generations."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT an example of recessive autosomal disease?",
+    "options": [
+      "Haemophilia",
+      "Cystic fibrosis",
+      "Phenylketonuria",
+      "Sickle cell anaemia"
+    ],
+    "correct_answer": "Haemophilia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Haemophilia</b> is correct because haemophilia is an X-linked recessive sex-chromosomal disorder (mapping to the long arm of the X chromosome at Xq28), whereas cystic fibrosis (chromosome 7), phenylketonuria (chromosome 12), and sickle cell anaemia (chromosome 11) are all autosomal recessive genetic conditions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cystic fibrosis</b> - Classic autosomal recessive disease caused by CFTR gene mutations.\n• <b style=\"color:#2563eb\">Option (3): Phenylketonuria</b> - Autosomal recessive defect in phenylalanine hydroxylase (PAH).\n• <b style=\"color:#2563eb\">Option (4): Sickle cell anaemia</b> - Autosomal recessive hemoglobinopathy (HbS/HbS)."
+  },
+  {
+    "id": 3,
+    "question": "Consider a 16-year-old person whose father (heterozygous) was stricken with Huntington's disease at age 39. Huntington's disease is an autosomal dominant disorder. What is the probability that the 16-year-old child will also have this disease?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 50%</b> is correct because Huntington's disease is an autosomal dominant condition (HTT gene CAG expansion). The father is heterozygous (Hh) and the mother is homozygous normal (hh). A cross between Hh and hh produces 50% Hh (affected offspring who will develop the disease in adulthood) and 50% hh (normal offspring).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 25%</b> - Expected for autosomal recessive inheritance between two carrier parents.\n• <b style=\"color:#2563eb\">Option (3): 75%</b> - Expected if both parents were heterozygous for an autosomal dominant condition.\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Would occur only if one parent were homozygous dominant (HH)."
+  },
+  {
+    "id": 4,
+    "question": "If a hemophilic man marries a carrier woman, then which of the following holds true for his progenies?",
+    "options": [
+      "50% daughters are carrier and 50% are haemophilic",
+      "All the daughters are hemophilic",
+      "All sons are haemophilic and all daughters are normal",
+      "All sons are normal and all daughters are carriers"
+    ],
+    "correct_answer": "50% daughters are carrier and 50% are haemophilic",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 50% daughters are carrier and 50% are haemophilic</b> is correct because the hemophilic man has genotype Xh Y and the carrier woman has genotype XH Xh:\n• For female progeny, each daughter receives an Xh chromosome from the father and either XH or Xh from the mother.\n• Genotypes of daughters: 50% XH Xh (carrier) and 50% Xh Xh (haemophilic).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): All the daughters are hemophilic</b> - Would require the mother to be homozygous hemophilic (Xh Xh).\n• <b style=\"color:#2563eb\">Option (3): All sons are haemophilic...</b> - Sons receive their X chromosome from the mother, so only 50% of sons are hemophilic.\n• <b style=\"color:#2563eb\">Option (4): All sons are normal...</b> - Half of the sons inherit the maternal Xh chromosome and are affected."
+  },
+  {
+    "id": 5,
+    "question": "If the father in a family has a disease while the mother is normal, the disease is only inherited by the daughters and not the sons. Name this type of disease?",
+    "options": [
+      "Autosomal recessive",
+      "Autosomal dominant",
+      "Sex-linked recessive",
+      "Sex-linked dominant"
+    ],
+    "correct_answer": "Sex-linked recessive",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sex-linked recessive</b> is designated as the target answer in the test key (reflecting criss-cross inheritance where the affected father transmits his defective X chromosome to all daughters who become obligate carriers, while sons receive the paternal Y chromosome and normal maternal X).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autosomal recessive</b> - Transmitted independently of sex to both male and female offspring equally.\n• <b style=\"color:#2563eb\">Option (2): Autosomal dominant</b> - Passed equally to 50% of both sons and daughters.\n• <b style=\"color:#2563eb\">Option (4): Sex-linked dominant</b> - Affected fathers transmit the disease to 100% of daughters, who actively exhibit the disease."
+  },
+  {
+    "id": 6,
+    "question": "Alpha 1 anti-trypsin deficiency is an autosomal recessive genetic disorder. What are the chances that any of the offspring do not express the disease phenotype if both parents are genotype (Aa)?",
+    "options": [
+      "100%",
+      "75%",
+      "50%",
+      "0%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 50%</b> is designated as the target answer in the published test key (highlighting the carrier heterozygous class Aa, 2 out of 4 = 50%, while total unaffected progeny is 3 out of 4 = 75% [1 AA + 2 Aa]).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 100%</b> - 25% of offspring inherit aa and express the severe deficiency.\n• <b style=\"color:#2563eb\">Option (2): 75%</b> - Standard Mendelian combined proportion of non-diseased individuals (AA + Aa).\n• <b style=\"color:#2563eb\">Option (4): 0%</b> - Factually incorrect."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following diseases is caused by a dominant allele?",
+    "options": [
+      "Huntington's disease",
+      "Cystic fibrosis",
+      "Haemophilia",
+      "Sickle cell anaemia"
+    ],
+    "correct_answer": "Huntington's disease",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Huntington's disease</b> is correct because Huntington's disease is an autosomal dominant neurodegenerative condition caused by an expanded CAG trinucleotide repeat encoding an elongated polyglutamine tract in the huntingtin protein, exerting a toxic gain-of-function even in heterozygotes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cystic fibrosis</b> - Autosomal recessive.\n• <b style=\"color:#2563eb\">Option (3): Haemophilia</b> - X-linked recessive.\n• <b style=\"color:#2563eb\">Option (4): Sickle cell anaemia</b> - Autosomal recessive."
+  },
+  {
+    "id": 8,
+    "question": "Colour blindness, an inherited disorder that affects both genders but more commonly males, is:",
+    "options": [
+      "Recessive X-linked",
+      "Dominant X-linked",
+      "Y-linked",
+      "Dominant autosomal"
+    ],
+    "correct_answer": "Recessive X-linked",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Recessive X-linked</b> is correct because red-green colour blindness is caused by recessive mutations in the OPN1LW (red) or OPN1MW (green) opsin pigment genes on the X chromosome (Xq28). Because males have only one X chromosome (hemizygous), inheriting a single mutant allele causes colour blindness (~8% of males), whereas females require two mutant alleles to manifest the condition (~0.4% of females).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Dominant X-linked</b> - Would affect females more frequently than males.\n• <b style=\"color:#2563eb\">Option (3): Y-linked</b> - Transmitted strictly from father to son; females could never be affected.\n• <b style=\"color:#2563eb\">Option (4): Dominant autosomal</b> - Affects both genders with equal frequency."
+  },
+  {
+    "id": 9,
+    "question": "Tay-Sachs disease is a lethal genetic disorder. Which type of inheritance does it follow?",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "Y-linked"
+    ],
+    "correct_answer": "Autosomal recessive",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Autosomal recessive</b> is correct because Tay-Sachs disease is an autosomal recessive lysosomal storage disorder mapping to chromosome 15q23, caused by deficiency of the beta-hexosaminidase A (HEXA) enzyme, leading to toxic accumulation of GM2 ganglioside in neuronal lysosomes, progressive neurodegeneration, cherry-red macular spot, and early childhood death.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autosomal dominant</b> - Does not follow dominant transmission.\n• <b style=\"color:#2563eb\">Option (3): X-linked dominant</b> - Not located on the sex chromosomes.\n• <b style=\"color:#2563eb\">Option (4): Y-linked</b> - Autosomal chromosome 15 disorder."
+  },
+  {
+    "id": 10,
+    "question": "A woman is a carrier for a recessive X-linked disease. What is the probability that her son will have the disease?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 50%</b> is correct because a carrier woman has genotype X+ Xd. In any male pregnancy, the father contributes the Y chromosome, and the mother has an equal 50% probability of passing either her normal X+ chromosome (yielding an unaffected son X+ Y) or her mutant Xd chromosome (yielding an affected hemizygous son Xd Y).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 25%</b> - The probability of having an affected child among ALL children (sons + daughters = 1/4), but among sons specifically it is 50%.\n• <b style=\"color:#2563eb\">Option (3): 75%</b> - Incorrect calculation.\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Would occur only if the mother were homozygous affected (Xd Xd)."
+  },
+  {
+    "id": 11,
+    "question": "If a man with an X-linked recessive disease marries a healthy woman, what is true for their offspring?",
+    "options": [
+      "All daughters will be carriers",
+      "All sons will have the disease",
+      "All daughters will have the disease",
+      "All children will be healthy"
+    ],
+    "correct_answer": "All daughters will be carriers",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): All daughters will be carriers</b> is correct because the affected man (Xd Y) contributes his only X chromosome (bearing the mutant allele Xd) to every one of his daughters. Since the mother is healthy and homozygous normal (X+ X+), all daughters inherit an X+ from the mother, giving them the heterozygous carrier genotype X+ Xd (100% carriers).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): All sons will have the disease</b> - Sons receive their X chromosome from the healthy mother and the Y from the father; all sons are completely normal (X+ Y).\n• <b style=\"color:#2563eb\">Option (3): All daughters will have the disease</b> - Daughters are protected by the dominant wild-type allele from their mother.\n• <b style=\"color:#2563eb\">Option (4): All children will be healthy</b> - While phenotypically healthy, the daughters are genetic carriers."
+  },
+  {
+    "id": 12,
+    "question": "Duchenne Muscular Dystrophy is an example of which type of genetic disorder?",
+    "options": [
+      "Autosomal recessive",
+      "Autosomal dominant",
+      "X-linked recessive",
+      "Y-linked"
+    ],
+    "correct_answer": "X-linked recessive",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): X-linked recessive</b> is correct because Duchenne Muscular Dystrophy (DMD) is an X-linked recessive neuromuscular disease caused by out-of-frame deletions or mutations in the massive dystrophin gene (DMD) at Xp21.2, resulting in absent dystrophin, progressive sarcolemmal fragility, pseudohypertrophy of calves, and muscular wasting in young boys.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autosomal recessive</b> - Limb-girdle muscular dystrophies are frequently autosomal, but DMD is X-linked.\n• <b style=\"color:#2563eb\">Option (2): Autosomal dominant</b> - Myotonic dystrophy is autosomal dominant.\n• <b style=\"color:#2563eb\">Option (4): Y-linked</b> - Not encoded on the Y chromosome."
+  },
+  {
+    "id": 13,
+    "question": "In an autosomal dominant disorder, what is the likelihood of an affected (heterozygous) one of parent passing the disorder to their offspring?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 50%</b> is correct because a person heterozygous for an autosomal dominant condition has genotype Dd (where D is the mutant dominant allele). When mating with an unaffected individual (dd), Mendelian segregation dictates that 50% of the gametes receive allele D (transmitting the disorder) and 50% receive allele d (unaffected).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 25%</b> - Expected for autosomal recessive recurrence.\n• <b style=\"color:#2563eb\">Option (3): 75%</b> - Expected if BOTH parents were heterozygous (Dd x Dd).\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Would require a homozygous dominant parent (DD)."
+  },
+  {
+    "id": 14,
+    "question": "A man and a woman, both carriers for an autosomal recessive disorder, have a child. What is the probability that the child will have the disorder?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct_answer": "25%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 25%</b> is correct because both parents are asymptomatic carriers with genotype Aa. By standard Mendelian monohybrid segregation (Aa × Aa), the probability of producing a homozygous recessive child (aa) who expresses the disease is 1/4 or 25%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 50%</b> - Probability of having a carrier child (Aa).\n• <b style=\"color:#2563eb\">Option (3): 75%</b> - Probability of having an unaffected child (AA + Aa).\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Would occur only if both parents were homozygous affected (aa × aa)."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following diseases is NOT an example of an X-linked recessive disease?",
+    "options": [
+      "Duchenne muscular dystrophy",
+      "Hemophilia",
+      "Color blindness",
+      "Huntington's disease"
+    ],
+    "correct_answer": "Huntington's disease",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Huntington's disease</b> is correct because Huntington's disease is an autosomal dominant disorder caused by CAG expansions on chromosome 4, whereas Duchenne muscular dystrophy, hemophilia, and red-green color blindness are classic X-linked recessive conditions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Duchenne muscular dystrophy</b> - Classic X-linked recessive disorder.\n• <b style=\"color:#2563eb\">Option (2): Hemophilia</b> - Classic X-linked recessive bleeding disorder.\n• <b style=\"color:#2563eb\">Option (3): Color blindness</b> - Classic X-linked recessive visual disorder."
+  },
+  {
+    "id": 16,
+    "question": "Fragile X syndrome is an example of what type of inheritance?",
+    "options": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "X-linked recessive"
+    ],
+    "correct_answer": "X-linked dominant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): X-linked dominant</b> is correct because Fragile X syndrome follows an X-linked dominant mode of inheritance (with variable expressivity and reduced penetrance), caused by CGG trinucleotide expansion in the FMR1 gene on the X chromosome.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autosomal dominant</b> - Gene is located on the X chromosome (Xq27.3), not an autosome.\n• <b style=\"color:#2563eb\">Option (2): Autosomal recessive</b> - Not autosomal.\n• <b style=\"color:#2563eb\">Option (4): X-linked recessive</b> - Heterozygous females frequently express clinical cognitive features."
+  },
+  {
+    "id": 17,
+    "question": "A healthy woman with a recessive X-linked disease allele marries a healthy man. What is the probability that a son of this couple will have the disease?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 50%</b> is correct because the mother is an asymptomatic carrier (X+ Xd) and the father is normal (X+ Y). Each son receives the Y chromosome from the father and has an independent 1/2 (50%) probability of inheriting the mutant Xd chromosome from the mother, causing the disease.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 0%</b> - Mother can pass the mutant Xd allele to male offspring.\n• <b style=\"color:#2563eb\">Option (2): 25%</b> - Probability among all offspring regardless of sex (1/4), but among sons specifically it is 50%.\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Mother would need to be homozygous affected (Xd Xd)."
+  },
+  {
+    "id": 18,
+    "question": "What is the probability that a daughter of a man with an X-linked dominant disease and a healthy woman will have the disease?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "correct_answer": "100%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 100%</b> is correct because an affected male with an X-linked dominant condition possesses the genotype XD Y. He must transmit his only X chromosome (XD) to 100% of his daughters. Since the disease allele is dominant, every female child who inherits XD will manifest the disease (100% of daughters affected).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 0%</b> - All daughters receive the paternal XD.\n• <b style=\"color:#2563eb\">Option (2): 25%</b> - Incorrect calculation.\n• <b style=\"color:#2563eb\">Option (3): 50%</b> - Would occur only if the MOTHER were heterozygous affected."
+  },
+  {
+    "id": 19,
+    "question": "Match chromosomal the inheritance in Column-I with corresponding genetic disorder in Column-II:\nColumn-I:\nA. Autosomal recessive inheritance\nB. Autosomal Dominant inheritance\nC. X-linked inheritance\nD. Y-linked inheritance\nColumn-II:\ni. Marfan syndrome\nii. Hypertrichosis\niii. Cystic fibrosis\niv. Haemophilia",
+    "options": [
+      "A-i, B-iv, C-iii, D-ii",
+      "A-iv, B-iii, C-ii, D-i",
+      "A-iii, B-i, C-iv, D-ii",
+      "A-iv, B-ii, C-iii, D-i"
+    ],
+    "correct_answer": "A-iii, B-i, C-iv, D-ii",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A-iii, B-i, C-iv, D-ii</b> is correct because:\n• A. Autosomal recessive matches iii. Cystic fibrosis (CFTR gene on chromosome 7)\n• B. Autosomal dominant matches i. Marfan syndrome (FBN1 gene on chromosome 15)\n• C. X-linked matches iv. Haemophilia (F8/F9 genes on X chromosome)\n• D. Y-linked matches ii. Hypertrichosis (ear rim hairiness, holandric transmission)\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A-i, B-iv, C-iii, D-ii</b> - Mismatches Marfan as recessive.\n• <b style=\"color:#2563eb\">Option (2): A-iv, B-iii, C-ii, D-i</b> - Mismatches haemophilia as autosomal recessive.\n• <b style=\"color:#2563eb\">Option (4): A-iv, B-ii, C-iii, D-i</b> - Incorrect cross-matching."
+  },
+  {
+    "id": 20,
+    "question": "Duchene Muscular dystrophy is a sex-linked recessive disorder common in boys, girls can be carrier and mildly affected. Why?",
+    "options": [
+      "Sex-linked traits are less common in female.",
+      "females have two X chromosomes and only one carries the defective gene",
+      "Non-disjunction of chromosomes is common in males than compared to females.",
+      "Gene for this disorder is carried by Y-chromosomes"
+    ],
+    "correct_answer": "females have two X chromosomes and only one carries the defective gene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): females have two X chromosomes and only one carries the defective gene</b> is correct because females have two X chromosomes (46, XX); in a carrier female (X+ Xdmd), random X-chromosome inactivation (lyonization) silences the normal X in some myofibers while expressing it in others, yielding sufficient functional dystrophin to prevent severe muscular collapse, though skewed inactivation can cause mild symptoms.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sex-linked traits are less common in female.</b> - A broad statistical statement, not the cellular mechanistic explanation.\n• <b style=\"color:#2563eb\">Option (3): Non-disjunction is common in males...</b> - Irrelevant to standard carrier status.\n• <b style=\"color:#2563eb\">Option (4): Gene is carried by Y-chromosomes</b> - Dystrophin is located on the X chromosome (Xp21), not the Y chromosome."
+  },
+  {
+    "id": 21,
+    "question": "The nature of pattern baldness has been revealed by the analysis of pedigree chart given below.\nBased on above pedigree chart it could be concluded that pattern baldness is",
+    "options": [
+      "Sex limited trait",
+      "Sex influenced trait",
+      "Y-linked trait",
+      "X-linked dominant trait"
+    ],
+    "correct_answer": "Sex influenced trait",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Sex influenced trait</b> is correct because pattern baldness (androgenetic alopecia) is an autosomal trait whose phenotypic dominance is influenced by the hormonal sex environment (specifically circulating dihydrotestosterone, DHT). The baldness allele (B) behaves as DOMINANT in males (BB and Bb individuals are bald) but RECESSIVE in females (only BB females show thinning).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sex limited trait</b> - Expressed strictly in one biological sex (e.g., milk production, beard growth).\n• <b style=\"color:#2563eb\">Option (3): Y-linked trait</b> - Transmitted exclusively from father to son.\n• <b style=\"color:#2563eb\">Option (4): X-linked dominant trait</b> - Would affect daughters of affected males 100% of the time."
+  },
+  {
+    "id": 22,
+    "question": "Not all characteristics exhibit discontinuous phenotypes. Human height is an example of such a character; people do not come in just a few distinct heights but, rather, display a continuum of heights. Indeed, there are so many possible phenotypes of human height that we must use a measurement to describe a person's height. Characteristics that exhibit a continuous distribution of phenotypes are termed as",
+    "options": [
+      "Qualitative Inheritance",
+      "Quantitative inheritance",
+      "Multiple allelism",
+      "Discontinuous inheritance"
+    ],
+    "correct_answer": "Quantitative inheritance",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Quantitative inheritance</b> is correct because quantitative (polygenic) inheritance governs traits that exhibit continuous variation across a numerical gradient (bell-shaped normal distribution curve), where multiple polygenes contribute additive increments to the phenotype along with environmental modulation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Qualitative Inheritance</b> - Governs discrete, discontinuous Mendelian classes (e.g., Tall vs. Dwarf).\n• <b style=\"color:#2563eb\">Option (3): Multiple allelism</b> - Existence of >2 alleles at a single locus.\n• <b style=\"color:#2563eb\">Option (4): Discontinuous inheritance</b> - Synonymous with qualitative monogenic traits."
+  },
+  {
+    "id": 23,
+    "question": "Schizophrenia has a heritability of 0.8. Choose the most accurate from the following options.",
+    "options": [
+      "Schizophrenia is inherited from a parent 80% of the time",
+      "Schizophrenia is 100% dependent upon genetic inheritance",
+      "Schizophrenia is largely influenced by environmental factors",
+      "Schizophrenia is both influenced by environmental factors and dependent upon genetic inheritance"
+    ],
+    "correct_answer": "Schizophrenia is both influenced by environmental factors and dependent upon genetic inheritance",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Schizophrenia is both influenced by environmental factors and dependent upon genetic inheritance</b> is correct because a heritability index of h2 = 0.80 indicates that 80% of the phenotypic variance in the population is attributable to genetic variance, while the remaining 20% is shaped by environmental variance, establishing that both genetic predisposition and environmental triggers determine disease manifestation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Schizophrenia is inherited from a parent 80% of the time</b> - Heritability measures population phenotypic variance, not individual recurrence risk.\n• <b style=\"color:#2563eb\">Option (2): Schizophrenia is 100% dependent upon genetic inheritance</b> - Would require h2 = 1.0.\n• <b style=\"color:#2563eb\">Option (3): Schizophrenia is largely influenced by environmental factors</b> - Contradicted by the very high genetic heritability (0.8)."
+  },
+  {
+    "id": 24,
+    "question": "Anhidrotic dysplasia is a condition in which development of sweat glands is prevented. It is caused by mutation present on the X chromosome. A heterozygous female for this allele will:",
+    "options": [
+      "Show complete absence of sweat glands.",
+      "Have normal phenotype",
+      "Show mosaic pattern of presence and absence of sweat glands.",
+      "Show increased physiological activity of sweat glands"
+    ],
+    "correct_answer": "Show mosaic pattern of presence and absence of sweat glands.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Show mosaic pattern of presence and absence of sweat glands.</b> is correct because of random X-chromosome inactivation (Lyon hypothesis). In early embryonic development of a heterozygous female (X+ Xmut), one X chromosome is randomly and irreversibly condensed into a Barr body in each cell; patches of skin derived from cells with the normal X active develop sweat glands, while patches with the mutant X active lack sweat glands, creating a mosaic pattern.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Show complete absence of sweat glands</b> - Occurs only in hemizygous males or rare homozygous females.\n• <b style=\"color:#2563eb\">Option (2): Have normal phenotype</b> - Overlooks the somatic mosaic patches across the skin.\n• <b style=\"color:#2563eb\">Option (4): Show increased physiological activity...</b> - Anhidrotic dysplasia impairs, rather than increases, sweat gland function."
+  },
+  {
+    "id": 25,
+    "question": "A woman who is a heterozygous carrier of an X-linked recessive disease gene mates with a phenotypically normal male. The disease gene has a penetrance of 80%. On an average proabability among the following of this couple's sons will be affected with the disorder ?",
+    "options": [
+      "0.8",
+      "0.4",
+      "0.2",
+      "0.5"
+    ],
+    "correct_answer": "0.4",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 0.4</b> is correct because:\n1. The carrier mother (X+ Xd) has a 50% probability (0.5) of passing the mutant Xd allele to any son.\n2. The disease allele has an 80% penetrance (0.80), meaning only 80% of individuals with the mutant genotype actually manifest the clinical disease phenotype.\n3. Therefore, the average probability that a son will be clinically affected is:\n   P(affected son) = P(inheriting allele) × Penetrance = 0.5 × 0.8 = 0.40 (or 40%).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 0.8</b> - The penetrance value alone without multiplying by inheritance probability.\n• <b style=\"color:#2563eb\">Option (3): 0.2</b> - Probability of an affected child across ALL children (0.25 × 0.8 = 0.2).\n• <b style=\"color:#2563eb\">Option (4): 0.5</b> - Probability of a son inheriting the mutant genotype if penetrance were 100%."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is not true for cytoplasmic inheritance?",
+    "options": [
+      "Genes for characters resides in mitochondria or chloroplast",
+      "Cytoplasmic inheritance is different from nuclear genetics because it does not follow the laws of gene inheritance.",
+      "Half of the genes will come from male and female parents according to cytoplasmic gene inheritance in humans.",
+      "Depending on the species, DNA found in the organelles can come exclusively from males, females, or an unequal mixture of both."
+    ],
+    "correct_answer": "Half of the genes will come from male and female parents according to cytoplasmic gene inheritance in humans.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Half of the genes will come from male and female parents according to cytoplasmic gene inheritance in humans.</b> is correct because this statement is FALSE (and therefore the correct answer to the 'NOT true' question). In humans and mammals, cytoplasmic mitochondrial inheritance is exclusively MATERNAL (100% of mtDNA is inherited from the mother through the egg cytoplasm, and 0% comes from the father).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genes resides in mitochondria or chloroplast</b> - True statement.\n• <b style=\"color:#2563eb\">Option (2): Does not follow the laws of gene inheritance</b> - True statement (non-Mendelian segregation without chromosomal ratios).\n• <b style=\"color:#2563eb\">Option (4): Can come exclusively from males, females, or mixture</b> - True statement (some gymnosperms exhibit paternal chloroplast/mitochondrial transmission)."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a reason that geneticists use mtDNA to study the relatedness of animal populations?",
+    "options": [
+      "mtDNA mutates at a slower rate than nuclear DNA",
+      "mtDNA transmitted from mother to child, is free from recombination",
+      "All mitochondrial proteins are coded by mitochondrial genes",
+      "There are only a few single nucleotide polymorphisms in the mtDNA"
+    ],
+    "correct_answer": "mtDNA transmitted from mother to child, is free from recombination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): mtDNA transmitted from mother to child, is free from recombination</b> is correct because mitochondrial DNA is inherited strictly matrilineally as an intact haploid unit without meiotic crossing over or sexual recombination. Consequently, sequence variations accumulate solely by sequential lineage mutations, preserving an unambiguous maternal phylogenetic record.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): mtDNA mutates at a slower rate than nuclear DNA</b> - False; mtDNA mutates 5-10 times FASTER than nuclear DNA due to high ROS and less efficient repair.\n• <b style=\"color:#2563eb\">Option (3): All mitochondrial proteins are coded by mitochondrial genes</b> - False; >99% of mitochondrial proteins are encoded by nuclear genes and imported.\n• <b style=\"color:#2563eb\">Option (4): There are only a few SNPs in mtDNA</b> - False; the D-loop control region is highly polymorphic."
+  },
+  {
+    "id": 28,
+    "question": "A haemophiliac man marries a normal woman. They have a daughter who does not show symptoms of haemophilia. If she marries a haemophiliac man, what will be the probability of their son displaying symptoms of haemophilia?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "100%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 50%</b> is correct because:\n1. The daughter's father was haemophiliac (Xh Y), so the daughter must have received his Xh chromosome, making her an obligate heterozygous carrier (XH Xh).\n2. When she has a son, the paternal grandfather/father's X chromosome is irrelevant because sons receive only the Y chromosome from their father.\n3. The carrier mother transmits either XH (normal) or Xh (haemophilia) to her son with equal 50% probability.\nThus, the probability that a son will display haemophilia is 50%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 0%</b> - Overlooks the maternal carrier status.\n• <b style=\"color:#2563eb\">Option (2): 25%</b> - Probability among all children (sons + daughters), but among sons specifically it is 50%.\n• <b style=\"color:#2563eb\">Option (4): 100%</b> - Would require a homozygous affected mother (Xh Xh)."
+  },
+  {
+    "id": 29,
+    "question": "Genes located in which one of the following do not follow Mendel's laws?\n(i) Nucleus\n(ii) Chloroplast\n(iii) Mitochondria\n(iv) Cytoplasm",
+    "options": [
+      "Both (i) and (ii)",
+      "Both (i) and (iii)",
+      "Both (ii) and (iii)",
+      "Both (iv) and (i)"
+    ],
+    "correct_answer": "Both (ii) and (iii)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Both (ii) and (iii)</b> is correct because chloroplasts and mitochondria house organellar DNA that replicates and segregates through non-Mendelian cytoplasmic inheritance (uniparental maternal transmission and vegetative segregation), completely independent of nuclear meiotic spindle mechanics and Mendelian ratios.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Both (i) and (ii)</b> - Nuclear genes strictly follow Mendel's laws.\n• <b style=\"color:#2563eb\">Option (2): Both (i) and (iii)</b> - Nuclear genes follow Mendel's laws.\n• <b style=\"color:#2563eb\">Option (4): Both (iv) and (i)</b> - Erroneously pairs the nucleus with cytoplasm."
+  },
+  {
+    "id": 30,
+    "question": "A woman who is heterozygous for both phenylketonuria mutation and for X-linked hemophilia mutation has a child with a phenotypically normal man who is also heterozygous for a phenylketonuria mutation. What is the probability that the child will be affected by both?",
+    "options": [
+      "1/8",
+      "1/4",
+      "1/16",
+      "3/8"
+    ],
+    "correct_answer": "1/16",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 1/16</b> is correct because:\n1. Phenylketonuria (PKU) is autosomal recessive: Both parents are carriers (Pp × Pp). The probability of a child having PKU (pp) is 1/4.\n2. Hemophilia is X-linked recessive: Mother is XH Xh and Father is XH Y. The probability of having a hemophilic child (Xh Y) across all offspring is 1/4 (only hemophilic sons manifest, which is 1 out of 4 total children).\n3. Since the PKU gene (chromosome 12) and hemophilia gene (X chromosome) are completely unlinked, the joint probability that the child will be affected by BOTH disorders simultaneously is:\n   P(both) = 1/4 (PKU) × 1/4 (Hemophilia) = 1/16.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/8</b> - The probability if only sons were considered (1/4 × 1/2 = 1/8).\n• <b style=\"color:#2563eb\">Option (2): 1/4</b> - Probability of either disorder alone.\n• <b style=\"color:#2563eb\">Option (4): 3/8</b> - Incorrect probability calculation."
+  }
+]

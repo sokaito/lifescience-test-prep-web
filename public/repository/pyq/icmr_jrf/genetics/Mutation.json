@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is non-mutagenic?",
+    "options": [
+      "UV",
+      "Acridine",
+      "IR",
+      "X-ray"
+    ],
+    "correct_answer": "IR",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): IR</b> is correct because infrared radiation (IR) has relatively long wavelengths and low photon energy, which only causes thermal molecular vibrations without sufficient energy to ionize atoms or chemically alter DNA phosphodiester and nitrogenous base bonds.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): UV</b> - Ultraviolet radiation possesses high photonic energy that induces covalent pyrimidine (thymine) dimers in DNA.\n• <b style=\"color:#2563eb\">Option (2): Acridine</b> - Acridine dyes are planar intercalating agents that slip between adjacent base pairs, inducing frameshift mutations during replication.\n• <b style=\"color:#2563eb\">Option (4): X-ray</b> - High-energy ionizing radiation that creates reactive oxygen radicals, causing single- and double-strand DNA breaks and chromosomal aberrations."
+  },
+  {
+    "id": 2,
+    "question": "The common example of point mutation is:",
+    "options": [
+      "Color blindness",
+      "Down's Syndrome",
+      "Sickle cell anaemia",
+      "Thalassemia"
+    ],
+    "correct_answer": "Sickle cell anaemia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sickle cell anaemia</b> is correct because sickle cell anemia is the classic textbook example of a single nucleotide point mutation (transversion GAG → GTG) at the 6th codon of the beta-globin gene on chromosome 11, replacing hydrophilic glutamic acid with hydrophobic valine.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Color blindness</b> - An X-linked recessive disorder commonly caused by unequal crossing over or deletions in opsin genes.\n• <b style=\"color:#2563eb\">Option (2): Down's Syndrome</b> - An aneuploidy caused by meiotic nondisjunction of chromosome 21 (chromosomal numerical abnormality, not a point mutation).\n• <b style=\"color:#2563eb\">Option (4): Thalassemia</b> - Often involves extensive deletions, splice junction mutations, or promoter defects across globin clusters."
+  },
+  {
+    "id": 3,
+    "question": "Pyrimidine dimer formation is a sign of DNA damage. They are induced by",
+    "options": [
+      "Spontaneous deamination of nucleotide bases",
+      "UV light",
+      "Alkylating agents",
+      "Depurination of nucleotide bases"
+    ],
+    "correct_answer": "UV light",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): UV light</b> is correct because non-ionizing UV light (specifically UV-B and UV-C around 260 nm) excites adjacent pyrimidine rings (thymine-thymine, thymine-cytosine), triggering a photochemical [2+2] cycloaddition that forms cyclobutane pyrimidine dimers (CPDs) or 6-4 photoproducts.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Spontaneous deamination of nucleotide bases</b> - Converts cytosine to uracil or adenine to hypoxanthine.\n• <b style=\"color:#2563eb\">Option (3): Alkylating agents</b> - Add methyl or ethyl groups to guanine (e.g., O6-methylguanine).\n• <b style=\"color:#2563eb\">Option (4): Depurination of nucleotide bases</b> - Hydrolytic cleavage of the N-glycosidic bond generating apurinic (AP) sites."
+  },
+  {
+    "id": 4,
+    "question": "A complete set of chromosomes, which is inherited as a unit from one parent is called as:",
+    "options": [
+      "Gamete",
+      "Genotype",
+      "Gene",
+      "Genome"
+    ],
+    "correct_answer": "Genome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Genome</b> is correct because in classical cytogenetics, a genome is defined as the complete haploid set of chromosomes with its total genetic complement inherited as a single integrated unit from one parent.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gamete</b> - The specialized reproductive cell (sperm or egg) that carries the genome, not the chromosome set itself.\n• <b style=\"color:#2563eb\">Option (2): Genotype</b> - The specific allelic constitution of an individual organism for specific traits.\n• <b style=\"color:#2563eb\">Option (3): Gene</b> - A single functional sequence of nucleotides encoding an RNA or protein."
+  },
+  {
+    "id": 5,
+    "question": "Which of the chromosomal abnormality is responsible for Edward's syndrome?",
+    "options": [
+      "Trisomy-18",
+      "Trisomy-21",
+      "Trisomy-8",
+      "Trisomy-13"
+    ],
+    "correct_answer": "Trisomy-18",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Trisomy-18</b> is correct because Edward's syndrome is an autosomal aneuploidy caused by the presence of three copies of chromosome 18 (47, XX,+18 or 47, XY,+18), leading to clenched fists with overlapping fingers, rocker-bottom feet, and severe cardiac defects.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Trisomy-21</b> - Causes Down syndrome.\n• <b style=\"color:#2563eb\">Option (3): Trisomy-8</b> - Causes Warkany syndrome 2.\n• <b style=\"color:#2563eb\">Option (4): Trisomy-13</b> - Causes Patau syndrome."
+  },
+  {
+    "id": 6,
+    "question": "In a female with sex chromosomes XXX, how many Barr bodies will be there:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_answer": "2",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 2</b> is correct because according to the Lyon hypothesis and dosage compensation rules, the number of Barr bodies (facultative heterochromatin condensed inactive X chromosomes) in a somatic cell is given by the formula (N - 1), where N is the total number of X chromosomes. Here, 3 - 1 = 2 Barr bodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1</b> - Seen in normal 46, XX females.\n• <b style=\"color:#2563eb\">Option (3): 3</b> - Seen in 48, XXXX females.\n• <b style=\"color:#2563eb\">Option (4): 4</b> - Seen in 49, XXXXX females."
+  },
+  {
+    "id": 7,
+    "question": "Ames test used to screen mutagenicity is based on",
+    "options": [
+      "Reversion of arginine auxotrophic mutants to prototrophic",
+      "Reversion of histidine auxotrophic mutants to prototrophic",
+      "Reversion of tyrosine auxotrophic mutants to prototrophic",
+      "No reversion of auxotrophic mutants"
+    ],
+    "correct_answer": "Reversion of histidine auxotrophic mutants to prototrophic",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Reversion of histidine auxotrophic mutants to prototrophic</b> is correct because the Ames test uses genetically altered mutant strains of Salmonella typhimurium (his-) that cannot synthesize histidine. Exposure to a mutagen causes reverse mutations (his- → his+), enabling colonies to grow on histidine-deficient minimal media.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reversion of arginine auxotrophic mutants...</b> - Standard Ames test specifically exploits histidine operon mutations, not arginine.\n• <b style=\"color:#2563eb\">Option (3): Reversion of tyrosine auxotrophic mutants...</b> - Tyrosine auxotrophy is not the basis of the classic Ames Salmonella assay.\n• <b style=\"color:#2563eb\">Option (4): No reversion of auxotrophic mutants</b> - The quantitative detection depends on active reversion events."
+  },
+  {
+    "id": 8,
+    "question": "Person having sex chromosomes XXY suffers from which of the following",
+    "options": [
+      "Down's syndrome",
+      "Edward's syndrome",
+      "Klinefelter's syndrome",
+      "Patau's syndrome"
+    ],
+    "correct_answer": "Klinefelter's syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Klinefelter's syndrome</b> is correct because Klinefelter's syndrome is characterized by a 47, XXY karyotype in phenotypic males resulting from meiotic nondisjunction, causing testicular atrophy, tall stature, gynecomastia, and azoospermia.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Down's syndrome</b> - Trisomy 21 (autosomal, not sex-chromosomal).\n• <b style=\"color:#2563eb\">Option (2): Edward's syndrome</b> - Trisomy 18.\n• <b style=\"color:#2563eb\">Option (4): Patau's syndrome</b> - Trisomy 13."
+  },
+  {
+    "id": 9,
+    "question": "Three copies of chromosome 21 means that a person has:",
+    "options": [
+      "Patau syndrome",
+      "Klinefelter syndrome",
+      "Down syndrome",
+      "Edwards syndrome"
+    ],
+    "correct_answer": "Down syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Down syndrome</b> is correct because Down syndrome (Trisomy 21) is caused by the presence of a third copy of autosomal chromosome 21 (karyotype 47, XX,+21 or 47, XY,+21), leading to characteristic epicanthic folds, simian crease, intellectual disability, and congenital heart defects.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Patau syndrome</b> - Trisomy of chromosome 13.\n• <b style=\"color:#2563eb\">Option (2): Klinefelter syndrome</b> - Sex chromosomal aneuploidy (47, XXY).\n• <b style=\"color:#2563eb\">Option (4): Edwards syndrome</b> - Trisomy of chromosome 18."
+  },
+  {
+    "id": 10,
+    "question": "What is the typical pattern for euchromatin in G banding?",
+    "options": [
+      "Lightly stained due to GC rich content",
+      "Lightly stained due to AT rich content",
+      "Darkly stained due to GC rich content",
+      "Darkly stained due to AT rich content"
+    ],
+    "correct_answer": "Lightly stained due to GC rich content",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Lightly stained due to GC rich content</b> is correct because in Giemsa (G) banding, euchromatic regions are enriched in GC base pairs, replicate early in S phase, and have looser chromatin compaction, causing them to stain faintly (light bands), whereas AT-rich heterochromatin binds Giemsa strongly forming dark G-bands.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Lightly stained due to AT rich content</b> - AT-rich regions stain darkly in G-banding.\n• <b style=\"color:#2563eb\">Option (3): Darkly stained due to GC rich content</b> - GC-rich regions are pale/light in standard G-banding (they stain darkly only in Reverse/R-banding).\n• <b style=\"color:#2563eb\">Option (4): Darkly stained due to AT rich content</b> - Describes heterochromatic dark G-bands, not euchromatin."
+  },
+  {
+    "id": 11,
+    "question": "A 5-year-old female patient was brought to the OPD by her mother with the chief complaints of speech impairment, a small head size and problems in movement and balance (ataxia). She also finds baby's behaviour as unique in the form of frequent laughter, hyperactivity and short attention span. On genetic analysis, deletion in the maternal chromosome 15 was found. Which of the following can present with these symptoms?",
+    "options": [
+      "Prader-Willi syndrome",
+      "Angelman syndrome",
+      "Hurler syndrome",
+      "Weaver syndrome"
+    ],
+    "correct_answer": "Angelman syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Angelman syndrome</b> is correct because genomic imprinting at 15q11-q13 dictates that loss of function or microdeletion of the maternal UBE3A allele results in Angelman syndrome, clinically known for ataxia, microcephaly, speech absence, and an unusually cheerful demeanor with paroxysmal laughter ('happy puppet').\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Prader-Willi syndrome</b> - Caused by deletion of the PATERNAL 15q11-q13 region, characterized by neonatal hypotonia followed by severe hyperphagia and obesity.\n• <b style=\"color:#2563eb\">Option (3): Hurler syndrome</b> - Mucopolysaccharidosis I caused by alpha-L-iduronidase deficiency.\n• <b style=\"color:#2563eb\">Option (4): Weaver syndrome</b> - An overgrowth syndrome caused by EZH2 mutations."
+  },
+  {
+    "id": 12,
+    "question": "The diagram which shows the arrangement of metaphasic chromosomes according to their position of centromere is called:",
+    "options": [
+      "Histogram",
+      "Karyogram",
+      "Dendrogram",
+      "Ideogram"
+    ],
+    "correct_answer": "Ideogram",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Ideogram</b> is correct because an ideogram is a standardized schematic diagram or diagrammatic representation of chromosomes arranged systematically by size, centromere location, and specific banding patterns.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Histogram</b> - A statistical bar chart representing frequency distributions.\n• <b style=\"color:#2563eb\">Option (2): Karyogram</b> - A photographic or microscopic display of actual stained chromosomes paired in homologous groups.\n• <b style=\"color:#2563eb\">Option (3): Dendrogram</b> - A branching tree diagram illustrating phylogenetic or taxonomic relationships."
+  },
+  {
+    "id": 13,
+    "question": "A single nucleotide substitution (C has been replaced by A) has taken place in a gene, but the protein sequence is not altered. What is the type of such variant called as?",
+    "options": [
+      "Non-synonymous variant",
+      "Synonymous variant",
+      "Missense variant",
+      "Non-sense variant"
+    ],
+    "correct_answer": "Synonymous variant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Synonymous variant</b> is correct because of the degeneracy of the genetic code, where multiple codons encode the same amino acid. A base substitution that alters a codon to another synonymous codon specifying the exact same amino acid without changing the primary polypeptide chain is called a synonymous (silent) mutation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Non-synonymous variant</b> - Substitutions that change the amino acid sequence.\n• <b style=\"color:#2563eb\">Option (3): Missense variant</b> - Replaces one amino acid with a different amino acid.\n• <b style=\"color:#2563eb\">Option (4): Non-sense variant</b> - Introduces a premature termination (stop) codon (UAA, UAG, UGA)."
+  },
+  {
+    "id": 14,
+    "question": "Pericentric inversion is a type of chromosome mutation in which:",
+    "options": [
+      "Inversion of a chromosome segment that does not includes centromere",
+      "Inversion of a chromosome segment that includes centromere",
+      "Inversion of a chromosome segment that includes telomere but not centromere",
+      "Inversion of a chromosome segment that neither includes telomere nor centromere"
+    ],
+    "correct_answer": "Inversion of a chromosome segment that includes centromere",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Inversion of a chromosome segment that includes centromere</b> is correct because an inversion is classified as 'pericentric' when the two chromosomal break points occur on opposite sides of the centromere (one in the p arm and one in the q arm), thereby spanning and including the centromere.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Inversion of a chromosome segment that does not includes centromere</b> - Defines a PARACENTRIC inversion (confined strictly within a single chromosome arm).\n• <b style=\"color:#2563eb\">Option (3): Inversion of a chromosome segment that includes telomere...</b> - Telomeres are capping structures at terminal ends; inversions require interstitial breaks.\n• <b style=\"color:#2563eb\">Option (4): Inversion of a chromosome segment that neither includes telomere nor centromere</b> - Describes paracentric interstitial inversions."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following chromosomes is NOT commonly involved in Robertsonian translocation?",
+    "options": [
+      "7",
+      "13",
+      "21",
+      "22"
+    ],
+    "correct_answer": "7",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 7</b> is correct because Robertsonian translocations exclusively occur between ACROCENTRIC chromosomes with satellite stalks (in humans: chromosomes 13, 14, 15, 21, and 22). Chromosome 7 is a submetacentric chromosome and therefore cannot undergo centric fusion (Robertsonian translocation).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 13</b> - A standard acrocentric chromosome frequently involved in Robertsonian fusions (e.g., der(13;14)).\n• <b style=\"color:#2563eb\">Option (3): 21</b> - Acrocentric chromosome involved in translocation Down syndrome (der(14;21) or der(21;21)).\n• <b style=\"color:#2563eb\">Option (4): 22</b> - Acrocentric chromosome frequently participating in Robertsonian events."
+  },
+  {
+    "id": 16,
+    "question": "In humans, Down Syndrome is mainly caused due to three copies of chromosome 21. Assuming complete randomness of chromosome segregation, what would be the expected progeny from the mating between a normal male and a Down Syndrome female as the ratio of Down Syndrome and normal children?",
+    "options": [
+      "Ratio 1 : 1",
+      "Ratio 1 : 2",
+      "Ratio 2 : 1",
+      "Ratio 3 : 1"
+    ],
+    "correct_answer": "Ratio 1 : 1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ratio 1 : 1</b> is correct because a female with trisomy 21 possesses three copies of chromosome 21. During oogenesis, two copies pair and segregate from the third, producing two types of ova in equal numbers: 50% with two copies of chromosome 21 (disomic, n+1) and 50% with one copy (normal, n). Fertilization by normal sperm (n) results in a 1:1 ratio of trisomic (Down syndrome) to normal diploid offspring.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ratio 1 : 2</b> - Deviation from Mendelian equal meiotic segregation.\n• <b style=\"color:#2563eb\">Option (3): Ratio 2 : 1</b> - Typical of recessive lethal alleles, not trisomic segregation.\n• <b style=\"color:#2563eb\">Option (4): Ratio 3 : 1</b> - Typical of monohybrid heterozygous crosses."
+  },
+  {
+    "id": 17,
+    "question": "Match items in List I with items in List II.\nList-I:\n(1) Down Syndrome\n(2) Edward Syndrome\n(3) Klinefelter Syndrome\n(4) Turner Syndrome\nList-2:\nI. Trisomy 18\nII. XXY\nIII. Female with one X\nIV. XX+21",
+    "options": [
+      "A-I, B-IV, C-II, D-III",
+      "A-IV, B-II, C-III, D-I",
+      "A-IV, B-I, C-II, D-III",
+      "A-III, B-I, C-IV, D-II"
+    ],
+    "correct_answer": "A-IV, B-I, C-II, D-III",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A-IV, B-I, C-II, D-III</b> is correct because:\n• (A) Down Syndrome is Trisomy 21 (XX+21) -> IV\n• (B) Edward Syndrome is Trisomy 18 -> I\n• (C) Klinefelter Syndrome is 47, XXY -> II\n• (D) Turner Syndrome is Monosomy X (45, X, female with one X) -> III\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A-I, B-IV, C-II, D-III</b> - Mismatches Down syndrome to Trisomy 18.\n• <b style=\"color:#2563eb\">Option (2): A-IV, B-II, C-III, D-I</b> - Mismatches Edward syndrome to XXY.\n• <b style=\"color:#2563eb\">Option (4): A-III, B-I, C-IV, D-II</b> - Mismatches Down syndrome to monosomy X."
+  },
+  {
+    "id": 18,
+    "question": "A haploid sperm from one species and a haploid egg from another species may form a diploid interspecies hybrid. Meiosis in these plants generally fails but can also lead to rare duplicated gametes called:",
+    "options": [
+      "Allopolyploid",
+      "Aneuploid",
+      "Autopolyploid",
+      "Heteropolyploid"
+    ],
+    "correct_answer": "Allopolyploid",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Allopolyploid</b> is correct because interspecies hybridization brings together non-homologous chromosome sets (genomes) from two distinct species; subsequent genome duplication (amphidiploidy) restores fertile bivalent pairing, creating an allopolyploid (e.g., Triticale or modern bread wheat).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Aneuploid</b> - An organism with an irregular chromosome number differing by individual chromosomes (e.g., 2n±1), not complete hybridization sets.\n• <b style=\"color:#2563eb\">Option (3): Autopolyploid</b> - Multiplications of genomes derived entirely from the same single species.\n• <b style=\"color:#2563eb\">Option (4): Heteropolyploid</b> - A broader or non-standard term compared to the precise biological concept of allopolyploidy."
+  },
+  {
+    "id": 19,
+    "question": "Karyogram of an individual shows presence of 45 chromosomes (44+x) and one sex chromosome is missing. The individual has a female appearance and dwarfism. Which of the following is the most probable condition associated with this individual?",
+    "options": [
+      "Down's syndrome",
+      "Edward's syndrome",
+      "Klienfelter's syndrome",
+      "Turner's syndrome"
+    ],
+    "correct_answer": "Turner's syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Turner's syndrome</b> is correct because Turner syndrome results from complete or partial monosomy of the X chromosome (karyotype 45, X0), leading to female phenotype with short stature, gonadal dysgenesis (streak ovaries), webbed neck, and primary amenorrhea.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Down's syndrome</b> - Involves 47 chromosomes (trisomy 21).\n• <b style=\"color:#2563eb\">Option (2): Edward's syndrome</b> - Involves 47 chromosomes (trisomy 18).\n• <b style=\"color:#2563eb\">Option (3): Klienfelter's syndrome</b> - Involves 47 chromosomes in phenotypic males (47, XXY)."
+  },
+  {
+    "id": 20,
+    "question": "If nondisjunction of a chromosome occurs in meiosis II, what will be the product at the completion of meiosis?",
+    "options": [
+      "All the gametes will be diploid",
+      "Two gametes will be n + 1, and two will be n - 1",
+      "One gamete will be n + 1, one will be n - 1, and two will be n",
+      "Two of the four gametes will be haploid, and two will be diploid"
+    ],
+    "correct_answer": "One gamete will be n + 1, one will be n - 1, and two will be n",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): One gamete will be n + 1, one will be n - 1, and two will be n</b> is correct because in meiosis II, sister chromatids fail to separate in one of the two secondary gametocytes. This yields one disomic gamete (n + 1) and one nullisomic gamete (n - 1) from that abnormal division, while the other sister gametocyte divides normally yielding two normal haploid gametes (n, n).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): All the gametes will be diploid</b> - Occurs only upon total meiotic arrest or complete endoreduplication.\n• <b style=\"color:#2563eb\">Option (2): Two gametes will be n + 1, and two will be n - 1</b> - This is the hallmark outcome of nondisjunction occurring in MEIOSIS I (homologous chromosomes fail to separate).\n• <b style=\"color:#2563eb\">Option (4): Two of the four gametes will be haploid, and two will be diploid</b> - Does not match aneuploid segregation of single chromatids."
+  },
+  {
+    "id": 21,
+    "question": "Color blindness in human beings is an X-linked trait. A color-blind man has a 45, X daughter who is also color-blind. The nondisjunction that leads to the 45, X daughter occurred in which parent and in which meiotic division?",
+    "options": [
+      "Father; First meiotic division",
+      "Brother, father and mother; first meiotic division",
+      "Mother; first meiotic division",
+      "Father; second meiotic division"
+    ],
+    "correct_answer": "Mother; first meiotic division",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Mother; first meiotic division</b> is designated as the target answer, indicating maternal gamete nullisomy for the X chromosome allowing the paternal mutant X chromosome (Xc) to be unmasked alone in the 45, X daughter.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Father; First meiotic division</b> - Paternal nondisjunction would cause loss of paternal X, so the daughter would have inherited maternal X instead.\n• <b style=\"color:#2563eb\">Option (2): Brother, father and mother...</b> - Non-sensical inheritance option.\n• <b style=\"color:#2563eb\">Option (4): Father; second meiotic division</b> - Would eliminate the paternal color-blind Xc chromosome."
+  },
+  {
+    "id": 22,
+    "question": "Bread wheat Triticum aestivum is",
+    "options": [
+      "An Autohexaploid",
+      "An Allohexaploid",
+      "An Allotetraploid",
+      "A Diploid"
+    ],
+    "correct_answer": "An Allohexaploid",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): An Allohexaploid</b> is correct because common bread wheat (Triticum aestivum) contains 42 chromosomes (2n = 6x = 42) comprising three distinct diploid ancestral genomes: AABBDD, derived from sequential hybridization of T. urartu (AA), an Aegilops speltoides relative (BB), and Aegilops tauschii (DD).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): An Autohexaploid</b> - Genomes come from three distinct progenitor species, not duplicated from a single species.\n• <b style=\"color:#2563eb\">Option (3): An Allotetraploid</b> - Describes pasta/durum wheat (T. durum, 2n = 4x = 28, AABB).\n• <b style=\"color:#2563eb\">Option (4): A Diploid</b> - Describes ancestral einkorn wheat (T. monococcum, 2n = 14)."
+  },
+  {
+    "id": 23,
+    "question": "A human is phenotypically female, but her interphase somatic nuclei do not display the existence of Barr bodies. Which of the following conditions could explain the above feature?",
+    "options": [
+      "Klinefelter syndrome",
+      "2n+XXX",
+      "Turner syndrome",
+      "2n+YY"
+    ],
+    "correct_answer": "Turner syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Turner syndrome</b> is correct because Turner syndrome females possess only a single X chromosome (45, X0). The single X chromosome remains active to sustain cell viability, resulting in (1 - 1 = 0) Barr bodies in interphase nuclei.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Klinefelter syndrome</b> - 47, XXY individuals have one Barr body and are phenotypically male.\n• <b style=\"color:#2563eb\">Option (2): 2n+XXX</b> - 47, XXX females display two Barr bodies.\n• <b style=\"color:#2563eb\">Option (4): 2n+YY</b> - A non-viable genotype devoid of X chromosomes."
+  },
+  {
+    "id": 24,
+    "question": "Molecular analysis is performed on the three copies of chromosome 21 in a child with Down's syndrome using markers of DNA polymorphism for which both parents are heterozygous for different alleles. Two of the chromosomes (#2(1) have the same mother's alleles. Based on this information, when did the nondisjunction event most likely occur?",
+    "options": [
+      "Maternal meiosis I",
+      "Maternal meiosis II",
+      "Paternal meiosis I",
+      "Paternal meiosis II"
+    ],
+    "correct_answer": "Maternal meiosis I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Maternal meiosis I</b> is designated as the primary meiotic stage where homologous non-sister chromosomes fail to disjoin, accounting for >75-80% of all maternal trisomy 21 cases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Maternal meiosis II</b> - Typically accounts for fewer maternal nondisjunction cases.\n• <b style=\"color:#2563eb\">Option (3): Paternal meiosis I</b> - Incompatible with child inheriting two maternal alleles.\n• <b style=\"color:#2563eb\">Option (4): Paternal meiosis II</b> - Incompatible with child inheriting two maternal alleles."
+  },
+  {
+    "id": 25,
+    "question": "In a diploid organism, loss of function mutations produce dominant phenotypes when there is:",
+    "options": [
+      "pleiotropy",
+      "epistasis",
+      "multiple allelism",
+      "haploinsufficiency"
+    ],
+    "correct_answer": "haploinsufficiency",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): haploinsufficiency</b> is correct because haploinsufficiency occurs when a single functional wild-type allele in a heterozygote cannot produce enough gene product (protein) to attain the minimum physiological threshold required for normal function, causing a mutant phenotype to manifest dominantly.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): pleiotropy</b> - Occurs when a single gene influences multiple unrelated phenotypic traits.\n• <b style=\"color:#2563eb\">Option (2): epistasis</b> - The interaction where an allele of one gene masks the phenotypic expression of alleles of another independent gene.\n• <b style=\"color:#2563eb\">Option (3): multiple allelism</b> - Presence of three or more alternative alleles of a gene within a population."
+  },
+  {
+    "id": 26,
+    "question": "A silent substitution",
+    "options": [
+      "creates a premature stop codon, thus silencing expression of the gene",
+      "substitutes one amino acid for a different amino acid with similar properties so it does not affect protein function",
+      "changes only one DNA base in a codon without changing the amino acid sequence",
+      "occurs outside the protein coding region in the 5'- or 3' untranslated region and thus does not affect protein function"
+    ],
+    "correct_answer": "changes only one DNA base in a codon without changing the amino acid sequence",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): changes only one DNA base in a codon without changing the amino acid sequence</b> is correct because a silent mutation (synonymous substitution) changes a nucleotide base within a codon (frequently at the wobble 3rd position) into another codon that translates into the identical amino acid, leaving the primary protein sequence completely unaltered.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): creates a premature stop codon...</b> - Defines a NONSENSE mutation.\n• <b style=\"color:#2563eb\">Option (2): substitutes one amino acid for a different amino acid with similar properties...</b> - Defines a CONSERVATIVE MISSENSE mutation.\n• <b style=\"color:#2563eb\">Option (4): occurs outside the protein coding region...</b> - Non-coding mutations (intronic or UTR variants), not silent codon substitutions."
+  },
+  {
+    "id": 27,
+    "question": "5-Bromouracil induces mutations because it",
+    "options": [
+      "replaces a T and binds to G rather than A",
+      "replaces a G and binds to A rather than C",
+      "changes the binding affinity of G",
+      "changes the binding affinity of T"
+    ],
+    "correct_answer": "replaces a T and binds to G rather than A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): replaces a T and binds to G rather than A</b> is correct because 5-bromouracil (5-BU) is a base analog of thymine (possessing bromine in place of the methyl group at C-5). While its normal keto form pairs with adenine, it frequently shifts into its rare enol tautomer, which pairs mispairing-wise with guanine, inducing bidirectional transition mutations (AT ↔ GC).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): replaces a G and binds to A rather than C</b> - 5-BU is an analog of pyrimidine thymine, not purine guanine.\n• <b style=\"color:#2563eb\">Option (3): changes the binding affinity of G</b> - Does not directly alter guanine's affinity.\n• <b style=\"color:#2563eb\">Option (4): changes the binding affinity of T</b> - It incorporates into DNA as a structural base substitute itself."
+  },
+  {
+    "id": 28,
+    "question": "Which one of the following organisms is used in Ames test?",
+    "options": [
+      "E. coli",
+      "Streptococcus aureus",
+      "Pseudomonas aerogenosa",
+      "Salmonella typhimurium"
+    ],
+    "correct_answer": "Salmonella typhimurium",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Salmonella typhimurium</b> is correct because the standard Ames assay developed by Bruce Ames employs mutant strains of Salmonella enterica serovar Typhimurium carrying defective histidine genes (TA98, TA100, TA102) to evaluate carcinogenic mutagenicity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): E. coli</b> - While some E. coli tryptophan auxotroph tests (WP2) exist, S. typhimurium is the primary standard Ames organism.\n• <b style=\"color:#2563eb\">Option (2): Streptococcus aureus</b> - Staphylococcus/Streptococcus are gram-positive pathogens not used in the Ames test.\n• <b style=\"color:#2563eb\">Option (3): Pseudomonas aerogenosa</b> - An opportunistic bacterium not used in standard reverse mutation screening."
+  },
+  {
+    "id": 29,
+    "question": "EMS is a mutagen capable of causing",
+    "options": [
+      "large deletions",
+      "single base substitutions",
+      "translocations",
+      "chromosomal rearrangements"
+    ],
+    "correct_answer": "single base substitutions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): single base substitutions</b> is correct because ethyl methanesulfonate (EMS) is an alkylating agent that donates an ethyl group to guanine, forming O6-ethylguanine. During DNA replication, O6-ethylguanine base-pairs with thymine instead of cytosine, predominantly producing GC → AT transition point mutations (single base substitutions).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): large deletions</b> - Typically induced by ionizing radiation (X-rays) or mobile transposons.\n• <b style=\"color:#2563eb\">Option (3): translocations</b> - Gross chromosomal breaks driven by clastogens and radiation.\n• <b style=\"color:#2563eb\">Option (4): chromosomal rearrangements</b> - Induced by heavy clastogenic or radiomimetic agents."
+  },
+  {
+    "id": 30,
+    "question": "Which one of the following chemicals is a DNA intercalator?",
+    "options": [
+      "5-Bromouracil",
+      "Ethyl methane sulfonate",
+      "Acridine orange",
+      "UV"
+    ],
+    "correct_answer": "Acridine orange",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Acridine orange</b> is correct because acridine orange possesses a flat, planar aromatic ring system that slips (intercalates) between adjacent stacked base pairs of the DNA double helix. This unwinds the helix and distorts the sugar-phosphate backbone, causing DNA polymerase to slip and insert or delete single bases (frameshift mutations).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 5-Bromouracil</b> - A base analog, not an intercalating agent.\n• <b style=\"color:#2563eb\">Option (2): Ethyl methane sulfonate</b> - An alkylating chemical mutagen.\n• <b style=\"color:#2563eb\">Option (4): UV</b> - Physical radiant energy, not a chemical compound."
+  },
+  {
+    "id": 31,
+    "question": "Deamination of bases is a common chemical event that produces spontaneous mutation. Which one of the following bases will be formed by deamination of 5-methylcytosine?",
+    "options": [
+      "Uracil",
+      "Thymine",
+      "Cytosine",
+      "Guanine"
+    ],
+    "correct_answer": "Thymine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Thymine</b> is correct because spontaneous oxidative deamination of the exocyclic amino group of 5-methylcytosine converts it directly into 5-methyluracil, which is chemically identical to thymine. Because thymine is a natural DNA base, this lesion is less readily recognized and repaired by DNA glycosylases, making methylated CpG sites prominent mutation hotspots.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Uracil</b> - Formed by deamination of unmethylated cytosine.\n• <b style=\"color:#2563eb\">Option (3): Cytosine</b> - The starting substrate, not the deaminated product.\n• <b style=\"color:#2563eb\">Option (4): Guanine</b> - Purine base; deamination of guanine produces xanthine."
+  },
+  {
+    "id": 32,
+    "question": "What is outcome after single crossover between chromosomes having pericentric inversion and normal?",
+    "options": [
+      "Segmental Deletion and Duplication",
+      "Bridge formation",
+      "Ring formation",
+      "Acentric and dicentric chromosomes"
+    ],
+    "correct_answer": "Segmental Deletion and Duplication",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Segmental Deletion and Duplication</b> is correct because during meiotic prophase I in a pericentric inversion heterozygote, an inversion loop forms. A single crossing over within the pericentric loop produces recombinant chromatids that each retain exactly one centromere (monocentric), but possess duplicated segments for some regions and deleted segments for others, leading to non-viable recombinant gametes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Bridge formation</b> - Hallmark of paracentric inversion crossing over (dicentric bridge).\n• <b style=\"color:#2563eb\">Option (3): Ring formation</b> - Occurs when terminal breaks on both arms fuse together.\n• <b style=\"color:#2563eb\">Option (4): Acentric and dicentric chromosomes</b> - Characteristic outcome of crossing over within a PARACENTRIC inversion loop, not a pericentric loop."
+  }
+]

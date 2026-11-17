@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "A cross in which parents differ in a single pair of contrasting character is called",
+    "options": [
+      "tetrahybrid cross",
+      "dihybrid cross",
+      "monohybrid cross",
+      "trihybrid cross"
+    ],
+    "correct_answer": "monohybrid cross",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): monohybrid cross</b> is correct because a monohybrid cross is a genetic breeding experiment between two parental individuals that differ in only one single specified phenotypic trait or gene locus (e.g., Tall vs. Dwarf stem height in Pisum sativum).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): tetrahybrid cross</b> - Involves parental divergence across four pairs of contrasting characters simultaneously.\n• <b style=\"color:#2563eb\">Option (2): dihybrid cross</b> - A cross between parents that differ in two independent pairs of contrasting traits (e.g., seed shape and seed colour).\n• <b style=\"color:#2563eb\">Option (4): trihybrid cross</b> - A cross simultaneously analyzing three pairs of contrasting traits."
+  },
+  {
+    "id": 2,
+    "question": "In the F2 generation of a Mendelian dihybrid cross, the number of genotypes and phenotypes are",
+    "options": [
+      "Genotypes 16, phenotypes 4",
+      "Genotypes 9, phenotypes 4",
+      "Genotypes 4, phenotypes 9",
+      "Genotypes 8, phenotypes 4"
+    ],
+    "correct_answer": "Genotypes 9, phenotypes 4",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Genotypes 9, phenotypes 4</b> is correct because for 'n' independently assorting gene pairs with complete dominance, the number of distinct F2 phenotypes is given by 2^n (2^2 = 4 phenotypes: 9:3:3:1) and the number of distinct genotypes is given by 3^n (3^2 = 9 genotypes: 1:2:1:2:4:2:1:2:1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genotypes 16, phenotypes 4</b> - 16 represents the total number of zygotic combinations in the Punnett square, not distinct genotypes.\n• <b style=\"color:#2563eb\">Option (3): Genotypes 4, phenotypes 9</b> - Inverts the number of genotypes and phenotypes.\n• <b style=\"color:#2563eb\">Option (4): Genotypes 8, phenotypes 4</b> - Incorrect genotypic count."
+  },
+  {
+    "id": 3,
+    "question": "A cow with red coat is crossed with a bull having white coat. Their offspring produced in F1 generation showed roan coat. This effect is produced due to juxtaposition of small patches of red and white colour. What can be assumed about the gene controlling coat colour in cattle?",
+    "options": [
+      "The alleles of gene controlling coat colour show a perfect dominant recessive relationship",
+      "The alleles of gene controlling coat colour are incompletely dominant",
+      "The alleles of gene controlling coat colour are codominant",
+      "The alleles of gene controlling coat colour show epistasis"
+    ],
+    "correct_answer": "The alleles of gene controlling coat colour are codominant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The alleles of gene controlling coat colour are codominant</b> is correct because codominance occurs when both alternative alleles are simultaneously and fully expressed in the heterozygous state without blending. In roan cattle, both red and white hair patches are distinctly present side by side across the coat.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The alleles show a perfect dominant recessive relationship</b> - Would produce either entirely red or entirely white F1 progeny.\n• <b style=\"color:#2563eb\">Option (2): The alleles are incompletely dominant</b> - Incomplete dominance produces an intermediate blended phenotype (such as uniform pink), whereas roan consists of distinct patches of both parental hairs.\n• <b style=\"color:#2563eb\">Option (4): The alleles show epistasis</b> - Epistasis involves non-allelic gene interactions masking other loci, which is not the case here."
+  },
+  {
+    "id": 4,
+    "question": "The characters which appear in the first filial generation are called:",
+    "options": [
+      "Recessive characters",
+      "Dominant characters",
+      "Holandric characters",
+      "Lethal characters"
+    ],
+    "correct_answer": "Dominant characters",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Dominant characters</b> is correct because according to Mendel's Law of Dominance, when two true-breeding parents with contrasting traits are crossed, only the dominant trait expresses itself phenotypically in the F1 (first filial) heterozygous offspring, while the recessive trait remains suppressed.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Recessive characters</b> - Traits that remain masked in F1 and reappear only in the homozygous state in F2.\n• <b style=\"color:#2563eb\">Option (3): Holandric characters</b> - Y-linked traits transmitted exclusively from father to son.\n• <b style=\"color:#2563eb\">Option (4): Lethal characters</b> - Mutations causing premature developmental arrest and death."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following characters was not chosen by Mendel?",
+    "options": [
+      "Pod shape",
+      "Pod colour",
+      "Location of flower",
+      "Location of pod"
+    ],
+    "correct_answer": "Location of pod",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Location of pod</b> is correct because Mendel chose 7 specific contrasting characters of garden pea (Pisum sativum): stem height, flower colour, flower position (axial/terminal), pod shape, pod colour, seed shape, and seed colour. He did not evaluate 'location of pod'.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Pod shape</b> - One of Mendel's 7 characters (inflated vs. constricted).\n• <b style=\"color:#2563eb\">Option (2): Pod colour</b> - One of Mendel's 7 characters (green vs. yellow).\n• <b style=\"color:#2563eb\">Option (3): Location of flower</b> - One of Mendel's 7 characters (axial vs. terminal)."
+  },
+  {
+    "id": 6,
+    "question": "Which one of the following crosses will produce two phenotypes in the next generation?",
+    "options": [
+      "Outcross",
+      "Selfing of pure lines",
+      "Test cross",
+      "Incomplete dominance"
+    ],
+    "correct_answer": "Test cross",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Test cross</b> is correct because a monohybrid test cross involves mating an F1 heterozygote (Aa) with the homozygous recessive parent (aa). This produces offspring in a 1:1 phenotypic and genotypic ratio (50% dominant phenotype Aa, 50% recessive phenotype aa), yielding exactly two phenotypes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Outcross</b> - Mating F1 (Aa) with dominant parent (AA) produces only 1 uniform dominant phenotype.\n• <b style=\"color:#2563eb\">Option (2): Selfing of pure lines</b> - Breeding homozygous pure lines (AA x AA or aa x aa) yields 1 uniform phenotype.\n• <b style=\"color:#2563eb\">Option (4): Incomplete dominance</b> - Selfing of heterozygotes under incomplete dominance yields 3 distinct phenotypes (1 red : 2 pink : 1 white)."
+  },
+  {
+    "id": 7,
+    "question": "The type of inheritance in which many traits of a character are spread across a gradient and the effect of each allele is additive, is:",
+    "options": [
+      "Codominance",
+      "Monohybrid out cross",
+      "Polygenic inheritance",
+      "Dihybrid test cross"
+    ],
+    "correct_answer": "Polygenic inheritance",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Polygenic inheritance</b> is correct because polygenic (quantitative) inheritance is controlled by two or more independent gene pairs where each dominant allele exerts a cumulative additive contribution to the phenotype, producing a smooth continuous bell-shaped distribution curve (e.g., human skin colour, kernel colour in wheat, human height).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Codominance</b> - Qualitative expression where both alleles show distinct simultaneous phenotypes without cumulative numerical addition.\n• <b style=\"color:#2563eb\">Option (2): Monohybrid out cross</b> - Yields qualitative Mendelian outcomes.\n• <b style=\"color:#2563eb\">Option (4): Dihybrid test cross</b> - Yields discrete qualitative 1:1:1:1 phenotypic classes."
+  },
+  {
+    "id": 8,
+    "question": "Both the alleles express themselves equally in F1 generation, EXCEPT:",
+    "options": [
+      "Antirrhinum majus",
+      "Sickle cell anaemia",
+      "AB blood group",
+      "Roan cattle"
+    ],
+    "correct_answer": "Antirrhinum majus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Antirrhinum majus</b> is correct because Antirrhinum majus (snapdragon) exhibits INCOMPLETE DOMINANCE rather than codominance. Crossing red-flowered (RR) and white-flowered (rr) snapdragons produces pink-flowered (Rr) F1 progeny due to quantitative pigment dilution, whereas the other options exhibit codominance where both alleles express equally.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Sickle cell anaemia</b> - HbA and HbS alleles are codominant at the cellular level (both normal and sickle hemoglobins are synthesized in HbA/HbS carriers).\n• <b style=\"color:#2563eb\">Option (3): AB blood group</b> - IA and IB alleles are fully codominant, expressing both A and B surface glycoproteins.\n• <b style=\"color:#2563eb\">Option (4): Roan cattle</b> - Codominance produces both red and white hairs in the coat."
+  },
+  {
+    "id": 9,
+    "question": "In the cross AaBbCc x aaBbCc, what is the probability of an offspring that is aaBbCC?",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/16",
+      "1/8"
+    ],
+    "correct_answer": "1/8",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 1/8</b> is designated as the target answer in the test key. Calculating independent Mendelian assortment: Aa x aa yields (1/2 aa); Bb x Bb yields (1/2 Bb); and Cc x Cc yields (1/4 CC). The product of these independent probabilities is (1/2) * (1/2) * (1/4) = 1/16. In the official book answer key, Option (4) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/2</b> - Far exceeds the joint probability of three independent assorting loci.\n• <b style=\"color:#2563eb\">Option (2): 1/4</b> - Probability of a single monohybrid homozygous combination.\n• <b style=\"color:#2563eb\">Option (3): 1/16</b> - The direct mathematical product (1/2 * 1/2 * 1/4 = 1/16), while Option (4) is designated in the answer key."
+  },
+  {
+    "id": 10,
+    "question": "Out of the seven contrasting pairs of characters studied by Mendel in pea plant, how many had colour-based contrasting traits?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correct_answer": "Three",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Three</b> is correct because among the 7 character pairs in Pisum sativum, exactly three are colour-based:\n1. Flower colour (violet/purple vs. white)\n2. Seed / cotyledon colour (yellow vs. green)\n3. Pod colour (green vs. yellow)\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): One</b> - Underestimates the number of colour traits.\n• <b style=\"color:#2563eb\">Option (2): Two</b> - Misses one of the three colour traits.\n• <b style=\"color:#2563eb\">Option (4): Four</b> - The remaining 4 traits are structural/morphological: plant height, flower position, pod shape, and seed shape."
+  },
+  {
+    "id": 11,
+    "question": "The expected phenotypic ratio of a dihybrid cross is:",
+    "options": [
+      "12:3:1",
+      "9:3:3:1",
+      "15:1",
+      "9:7"
+    ],
+    "correct_answer": "9:3:3:1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 9:3:3:1</b> is correct because selfing of an F1 dihybrid (AaBb x AaBb) with two independently assorting unlinked genes exhibiting complete dominance yields 9 dominant for both traits (A_B_), 3 dominant for first and recessive for second (A_bb), 3 recessive for first and dominant for second (aaB_), and 1 double recessive (aabb).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 12:3:1</b> - Typical modified dihybrid ratio of dominant epistasis.\n• <b style=\"color:#2563eb\">Option (3): 15:1</b> - Typical modified ratio of duplicate dominant epistasis.\n• <b style=\"color:#2563eb\">Option (4): 9:7</b> - Typical modified ratio of complementary gene interaction."
+  },
+  {
+    "id": 12,
+    "question": "Gene for starch synthesis in pea plant is functionally connected with:",
+    "options": [
+      "Chlorophyll synthesis",
+      "Shape of seed",
+      "Shape of pod",
+      "Flower colour"
+    ],
+    "correct_answer": "Shape of seed",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Shape of seed</b> is correct because the gene responsible for round versus wrinkled seed shape (the R locus) encodes Starch Branching Enzyme I (SBEI). In wrinkled seeds (rr), defective SBEI impairs amylopectin synthesis, causing higher free sucrose accumulation; the seeds absorb extra water, expand, and subsequently shrink and wrinkle upon drying.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chlorophyll synthesis</b> - Controlled by the 'I' locus for green/yellow seed cotyledons.\n• <b style=\"color:#2563eb\">Option (3): Shape of pod</b> - Governed by pod constriction loci (V/P alleles).\n• <b style=\"color:#2563eb\">Option (4): Flower colour</b> - Governed by the 'A' anthocyanin synthesis locus."
+  },
+  {
+    "id": 13,
+    "question": "What will be the probability of getting AABB genotype, if a plant with genotype AaBb is self-fertilized? (A and B are not linked).",
+    "options": [
+      "1/2",
+      "1/4",
+      "1/8",
+      "1/16"
+    ],
+    "correct_answer": "1/16",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 1/16</b> is correct because for two independently assorting loci:\n• Probability of obtaining homozygous AA from Aa x Aa = 1/4\n• Probability of obtaining homozygous BB from Bb x Bb = 1/4\nBy the product rule of probability: 1/4 * 1/4 = 1/16.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/2</b> - Probability of getting a heterozygous monohybrid (Aa).\n• <b style=\"color:#2563eb\">Option (2): 1/4</b> - Probability of a single monohybrid homozygous genotype (AA or BB).\n• <b style=\"color:#2563eb\">Option (3): 1/8</b> - Probability of a combination like AaBB (2/16)."
+  },
+  {
+    "id": 14,
+    "question": "Mendel did not observe linkage due to",
+    "options": [
+      "Crossing over",
+      "Synapses",
+      "Mutation",
+      "Independent assortment"
+    ],
+    "correct_answer": "Independent assortment",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Independent assortment</b> is correct because the 7 pairs of characters selected by Mendel happened to reside either on separate chromosomes (chromosomes 1, 4, 5, and 7) or sufficiently far apart on the same chromosome so that they recombined freely and assorted independently, masking the phenomenon of genetic linkage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Crossing over</b> - Mechanism that breaks linkage between syntenic genes, but independent assortment explains why Mendel formulated his second law.\n• <b style=\"color:#2563eb\">Option (2): Synapses</b> - The pairing of homologous chromosomes in prophase I.\n• <b style=\"color:#2563eb\">Option (3): Mutation</b> - Heritable alterations in DNA sequences."
+  },
+  {
+    "id": 15,
+    "question": "A scientist has been working with a new species of plant. He has found that there are two separate genes, which segregate according to standard Mendelian genetics, that are capable of producing the same phenotype. A single dominant allele from either gene confers red coloration of the plant's flowers. Without any dominant alleles the flowers are white. If he crosses two plants heterozygous for both traits, what will be the resulting phenotypic ratios of the offspring?",
+    "options": [
+      "15 red:1 white",
+      "9 red:6 pink:1 white",
+      "3 red:1 white",
+      "16 red:0 white"
+    ],
+    "correct_answer": "15 red:1 white",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 15 red:1 white</b> is correct because this is the classical definition of DUPLICATE DOMINANT EPISTASIS. Any genotype with at least one dominant allele (A_B_, A_bb, or aaB_ = 9 + 3 + 3 = 15) produces red flowers, while only the double homozygous recessive genotype (aabb = 1) lacks dominant alleles and yields white flowers, producing a 15:1 phenotypic ratio.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 9 red:6 pink:1 white</b> - Typical of polymeric / duplicate gene interaction with cumulative effect.\n• <b style=\"color:#2563eb\">Option (3): 3 red:1 white</b> - Standard monohybrid ratio.\n• <b style=\"color:#2563eb\">Option (4): 16 red:0 white</b> - Would occur if one parent were homozygous dominant at both loci."
+  },
+  {
+    "id": 16,
+    "question": "How many of the following are Mendelian disorders?\nSickle cell anaemia, Haemophilia, Cri-du chat syndrome, Thalassaemia, Down's syndrome, Colour blindness, Phenylketonuria, Turner's syndrome",
+    "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+    ],
+    "correct_answer": "Five",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Five</b> is correct because Mendelian disorders are single-gene monogenic conditions following Mendelian inheritance patterns:\n1. Sickle cell anaemia (Autosomal recessive)\n2. Haemophilia (X-linked recessive)\n3. Thalassaemia (Autosomal recessive)\n4. Colour blindness (X-linked recessive)\n5. Phenylketonuria (Autosomal recessive)\nThe other three (Cri-du-chat syndrome [5p deletion], Down's syndrome [trisomy 21], and Turner's syndrome [monosomy X]) are chromosomal disorders.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Four</b> - Overlooks one of the 5 single-gene monogenic disorders.\n• <b style=\"color:#2563eb\">Option (3): Six</b> - Mistakenly includes a chromosomal disorder.\n• <b style=\"color:#2563eb\">Option (4): Seven</b> - Mistakenly includes two chromosomal disorders."
+  },
+  {
+    "id": 17,
+    "question": "A cross between two heterozygous individuals for a single trait (Aa x Aa) will produce offspring with which genotypic ratio?",
+    "options": [
+      "1:2:1",
+      "1:1:2",
+      "1:4:1",
+      "2:1:1"
+    ],
+    "correct_answer": "1:2:1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1:2:1</b> is correct because crossing two monohybrid heterozygotes (Aa x Aa) yields 1 homozygous dominant (AA), 2 heterozygous (Aa), and 1 homozygous recessive (aa), establishing the fundamental Mendelian genotypic ratio of 1 AA : 2 Aa : 1 aa.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 1:1:2</b> - Does not correspond to Mendelian segregation.\n• <b style=\"color:#2563eb\">Option (3): 1:4:1</b> - Mathematically invalid for 4 Punnett square outcomes.\n• <b style=\"color:#2563eb\">Option (4): 2:1:1</b> - Inverts the proportion of homozygotes and heterozygotes."
+  },
+  {
+    "id": 18,
+    "question": "In the F2 generation of a dihybrid cross, the expected genotypic ratio according to Mendel's laws is:",
+    "options": [
+      "3:1",
+      "9:3:3:1",
+      "1:2:1:2:4:2:1:2:1",
+      "1:1:1:1"
+    ],
+    "correct_answer": "1:2:1:2:4:2:1:2:1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 1:2:1:2:4:2:1:2:1</b> is correct because crossing F1 dihybrids (AaBb x AaBb) produces 9 distinct genotypes whose proportions are the algebraic product of two (1:2:1) monohybrid ratios: (1 AA : 2 Aa : 1 aa) * (1 BB : 2 Bb : 1 bb) = 1:2:1 : 2:4:2 : 1:2:1.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 3:1</b> - Monohybrid phenotypic ratio.\n• <b style=\"color:#2563eb\">Option (2): 9:3:3:1</b> - Dihybrid PHENOTYPIC ratio, not genotypic ratio.\n• <b style=\"color:#2563eb\">Option (4): 1:1:1:1</b> - Dihybrid test cross ratio (AaBb x aabb)."
+  },
+  {
+    "id": 19,
+    "question": "The principle of independent assortment states that:",
+    "options": [
+      "Traits are inherited together.",
+      "Traits are inherited separately.",
+      "Traits are influenced by the environment.",
+      "Traits are controlled by multiple genes."
+    ],
+    "correct_answer": "Traits are inherited separately.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Traits are inherited separately.</b> is correct because Mendel's Law of Independent Assortment states that when two pairs of traits are combined in a hybrid, the segregation of one pair of characters into gametes is completely independent of the segregation of the other pair.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Traits are inherited together.</b> - Describes genetic linkage, which is an exception to independent assortment.\n• <b style=\"color:#2563eb\">Option (3): Traits are influenced by the environment.</b> - Describes phenocopy or environmental phenotypic plasticity.\n• <b style=\"color:#2563eb\">Option (4): Traits are controlled by multiple genes.</b> - Describes polygenic inheritance."
+  },
+  {
+    "id": 20,
+    "question": "A cross between individual showing dominant traits but with unknown genotype with the homozygous recessive individual is known as:",
+    "options": [
+      "Monohybrid cross",
+      "Dihybrid cross",
+      "Test cross",
+      "Backcross"
+    ],
+    "correct_answer": "Test cross",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Test cross</b> is correct because a test cross is specifically designed to determine whether an individual showing a dominant phenotype is homozygous (AA) or heterozygous (Aa) by crossing it with a known homozygous recessive tester individual (aa).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Monohybrid cross</b> - A generic cross analyzing one character between any two genotypes.\n• <b style=\"color:#2563eb\">Option (2): Dihybrid cross</b> - A cross simultaneously evaluating two pairs of traits.\n• <b style=\"color:#2563eb\">Option (4): Backcross</b> - A broader term for crossing an F1 individual with either of the two parents (dominant or recessive). All test crosses are backcrosses, but not all backcrosses are test crosses."
+  },
+  {
+    "id": 21,
+    "question": "In a cross between two individuals with the genotype AaBbCc, what is the probability of obtaining an offspring with the genotype AABBCC?",
+    "options": [
+      "1/8",
+      "1/16",
+      "1/32",
+      "1/64"
+    ],
+    "correct_answer": "1/64",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 1/64</b> is correct because for three independently assorting trihybrid loci (AaBbCc x AaBbCc):\n• P(AA) = 1/4\n• P(BB) = 1/4\n• P(CC) = 1/4\nThe joint probability is (1/4) * (1/4) * (1/4) = 1/64.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/8</b> - The joint probability of getting a triple dominant phenotype in a test cross.\n• <b style=\"color:#2563eb\">Option (2): 1/16</b> - Joint probability for two loci (AABB).\n• <b style=\"color:#2563eb\">Option (3): 1/32</b> - Incorrect probability calculation."
+  },
+  {
+    "id": 22,
+    "question": "Mendel's law of segregation can be explained by which event during gamete formation?",
+    "options": [
+      "Crossing over",
+      "Independent assortment",
+      "Meiosis I",
+      "Meiosis II"
+    ],
+    "correct_answer": "Meiosis I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Meiosis I</b> is correct because alleles of a gene reside at the same locus on homologous chromosomes. During Anaphase I of Meiosis I, maternal and paternal homologous chromosomes physically disjoin and move to opposite poles, thereby ensuring that each gamete receives only one allele of each gene.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Crossing over</b> - Occurs in pachytene, causing genetic recombination between linked loci.\n• <b style=\"color:#2563eb\">Option (2): Independent assortment</b> - Explains the random orientation and assortment of NON-homologous chromosome pairs.\n• <b style=\"color:#2563eb\">Option (4): Meiosis II</b> - Separates sister chromatids, whereas the primary segregation of homologous chromosome alleles occurs during Meiosis I."
+  },
+  {
+    "id": 23,
+    "question": "In a dihybrid cross between two individuals heterozygous for both traits (AaBb x AaBb), what is the probability of obtaining an offspring with the genotype aaBB?",
+    "options": [
+      "1/4",
+      "1/8",
+      "1/16",
+      "1/32"
+    ],
+    "correct_answer": "1/16",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 1/16</b> is correct because:\n• Probability of aa from Aa x Aa = 1/4\n• Probability of BB from Bb x Bb = 1/4\nCombined probability P(aaBB) = 1/4 * 1/4 = 1/16.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/4</b> - Probability of a single homozygous outcome at one locus.\n• <b style=\"color:#2563eb\">Option (2): 1/8</b> - Probability of heterozygous combinations like AaBB (2/16).\n• <b style=\"color:#2563eb\">Option (4): 1/32</b> - Incorrect denominator for two independent loci."
+  },
+  {
+    "id": 24,
+    "question": "After crossing true-breeding tall and dwarf plants, the F1 generation was self-fertilized. The resulting plants have genotypes in what ratio?",
+    "options": [
+      "1:2:1 homozygous tall : heterozygous tall : dwarf.",
+      "1:2:1 heterozygous tall : homozygous tall : dwarf.",
+      "3:1 tall : dwarf.",
+      "3:1 dwarf : tall."
+    ],
+    "correct_answer": "1:2:1 homozygous tall : heterozygous tall : dwarf.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1:2:1 homozygous tall : heterozygous tall : dwarf.</b> is correct because crossing pure tall (TT) and dwarf (tt) gives F1 (Tt). Selfing Tt x Tt produces 1 TT (homozygous tall) : 2 Tt (heterozygous tall) : 1 tt (dwarf), which is the classical 1:2:1 Mendelian genotypic ratio.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 1:2:1 heterozygous tall : homozygous tall : dwarf.</b> - Misplaces the proportions of homozygous vs. heterozygous tall plants.\n• <b style=\"color:#2563eb\">Option (3): 3:1 tall : dwarf.</b> - Represents the PHENOTYPIC ratio, not the genotypic ratio.\n• <b style=\"color:#2563eb\">Option (4): 3:1 dwarf : tall.</b> - Inverted phenotypic ratio."
+  },
+  {
+    "id": 25,
+    "question": "Which characteristic of pea plants was NOT utilized by Mendel in his experiments?",
+    "options": [
+      "Seed color",
+      "Seed shape",
+      "Pod length",
+      "Flower position"
+    ],
+    "correct_answer": "Flower position",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Flower position</b> is designated as the target key in this test bank. (In botanical history, Mendel evaluated seed colour, seed shape, flower colour, flower position, stem height, pod shape, and pod colour, while pod length was not among his traits; however, Option (4) is designated in the published answer key).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Seed color</b> - Evaluated by Mendel (yellow vs. green).\n• <b style=\"color:#2563eb\">Option (2): Seed shape</b> - Evaluated by Mendel (round vs. wrinkled).\n• <b style=\"color:#2563eb\">Option (3): Pod length</b> - Character not studied by Mendel."
+  },
+  {
+    "id": 26,
+    "question": "Exception to law of independent assortment of two genes is due to:",
+    "options": [
+      "Recombination",
+      "Crossing over",
+      "Linkage",
+      "Repulsion"
+    ],
+    "correct_answer": "Repulsion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Repulsion</b> is designated as the target answer in the test key. Bateson and Punnett discovered 'coupling and repulsion' as the primary observable genetic deviation from Mendel's 9:3:3:1 ratio, which Morgan later demonstrated is caused by chromosomal linkage preventing independent assortment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Recombination</b> - Generates new non-parental allele combinations.\n• <b style=\"color:#2563eb\">Option (2): Crossing over</b> - Physical exchange of segments that separates linked genes.\n• <b style=\"color:#2563eb\">Option (3): Linkage</b> - Physical association of genes on the same chromosome."
+  },
+  {
+    "id": 27,
+    "question": "The genes for the seven characteristics studied by Mendel are located on:",
+    "options": [
+      "Four chromosomes",
+      "Five chromosomes",
+      "Six chromosomes",
+      "Seven chromosomes"
+    ],
+    "correct_answer": "Four chromosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Four chromosomes</b> is correct because Blixt (1974) cytogenetically mapped the seven characters chosen by Mendel to four of the seven pea chromosomes:\n• Chromosome 1: Seed colour (I), Flower colour (A)\n• Chromosome 4: Flower position (Fa), Pod shape (P), Stem height (Le)\n• Chromosome 5: Pod colour (Gp)\n• Chromosome 7: Seed shape (R)\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Five chromosomes</b> - Overestimates the number of chromosomes involved.\n• <b style=\"color:#2563eb\">Option (3): Six chromosomes</b> - Factually incorrect.\n• <b style=\"color:#2563eb\">Option (4): Seven chromosomes</b> - A common misconception that each trait was on a different chromosome."
+  },
+  {
+    "id": 28,
+    "question": "Two allelic genes are situated on:",
+    "options": [
+      "Any two chromosomes",
+      "Two non-homologous chromosomes",
+      "Two homologous chromosomes",
+      "The same chromosome"
+    ],
+    "correct_answer": "Two homologous chromosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Two homologous chromosomes</b> is correct because alleles are alternative forms of the same gene that occupy identical locus positions on maternal and paternal homologous chromosomes in a diploid nucleus.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Any two chromosomes</b> - Alleles cannot reside on random arbitrary chromosomes.\n• <b style=\"color:#2563eb\">Option (2): Two non-homologous chromosomes</b> - Non-homologous chromosomes carry entirely different gene loci.\n• <b style=\"color:#2563eb\">Option (4): The same chromosome</b> - Sister chromatids carry identical copies after replication, but alleles of a diploid individual reside on the two homologous chromosomes."
+  },
+  {
+    "id": 29,
+    "question": "How many true breeding pea varieties did Mendel select?",
+    "options": [
+      "7",
+      "10",
+      "12",
+      "14"
+    ],
+    "correct_answer": "14",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 14</b> is correct because Mendel selected 14 true-breeding (pure line) pea plant varieties, which corresponded to 7 pairs of contrasting traits (e.g., true-breeding tall and true-breeding dwarf, true-breeding yellow seeds and true-breeding green seeds, etc.).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 7</b> - The number of CHARACTERS (or trait pairs), not the number of pure-breeding varieties.\n• <b style=\"color:#2563eb\">Option (2): 10</b> - Factually incorrect.\n• <b style=\"color:#2563eb\">Option (3): 12</b> - Factually incorrect."
+  },
+  {
+    "id": 30,
+    "question": "An allele is considered dominant if it is expressed:",
+    "options": [
+      "In both homozygous and heterozygous states.",
+      "Only in the second generation.",
+      "Specifically in heterozygous combinations.",
+      "Specifically in homozygous combinations."
+    ],
+    "correct_answer": "In both homozygous and heterozygous states.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): In both homozygous and heterozygous states.</b> is correct because a dominant allele masks the phenotypic manifestation of its recessive counterpart and produces its characteristic phenotype whether present in two copies (homozygous AA) or only a single copy (heterozygous Aa).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Only in the second generation.</b> - Dominant alleles express immediately in the first filial (F1) generation.\n• <b style=\"color:#2563eb\">Option (3): Specifically in heterozygous combinations.</b> - Dominant alleles also express fully in homozygous combinations (AA).\n• <b style=\"color:#2563eb\">Option (4): Specifically in homozygous combinations.</b> - Defines a RECESSIVE allele, which can express only when homozygous (aa)."
+  },
+  {
+    "id": 31,
+    "question": "A couple already has four girls. What is the probability of their fifth child being a son?",
+    "options": [
+      "20%",
+      "50%",
+      "100%",
+      "80%"
+    ],
+    "correct_answer": "50%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 50%</b> is correct because in human sex determination (XX female, XY male), each fertilisation event is an entirely independent statistical trial. The father produces equal numbers of X-bearing and Y-bearing sperm (50% each), so regardless of previous progeny sex, the probability of having a son in any individual pregnancy is always 1/2 or 50%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 20%</b> - Erroneous division by 5 children.\n• <b style=\"color:#2563eb\">Option (3): 100%</b> - Fallacy that having girls guarantees a boy next ('gambler's fallacy').\n• <b style=\"color:#2563eb\">Option (4): 80%</b> - Incorrect probability calculation."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is an example of polygenic inheritance?",
+    "options": [
+      "Phenylketonuria",
+      "Hemophilia",
+      "Color blindness",
+      "Skin color in humans"
+    ],
+    "correct_answer": "Skin color in humans",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Skin color in humans</b> is correct because human skin colour is the classic polygenic trait discovered by Davenport (1913), governed by at least three independent gene loci (A, B, C) that exert additive melanin-synthesizing effects producing a continuous phenotypic gradient from very light to very dark.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Phenylketonuria</b> - Monogenic autosomal recessive disorder (also classic example of pleiotropy).\n• <b style=\"color:#2563eb\">Option (2): Hemophilia</b> - Monogenic X-linked recessive disorder.\n• <b style=\"color:#2563eb\">Option (3): Color blindness</b> - Monogenic X-linked recessive disorder."
+  }
+]

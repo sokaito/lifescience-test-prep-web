@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Coupling and repulsion are two aspects of a single phenomenon called:",
+    "options": [
+      "Crossing over",
+      "Mutation",
+      "Linkage",
+      "Recombination"
+    ],
+    "correct_answer": "Linkage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Linkage</b> is correct because Bateson and Punnett's original discovery of 'coupling' (dominant alleles tending to be inherited together from the same parent) and 'repulsion' (dominant and recessive alleles tending to separate because they entered from different parents) were proven by T.H. Morgan to be the cis- and trans-phases of chromosomal LINKAGE.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Crossing over</b> - The physical exchange mechanism that breaks linkage, producing non-parental recombinants.\n• <b style=\"color:#2563eb\">Option (2): Mutation</b> - Heritable nucleotide sequence changes.\n• <b style=\"color:#2563eb\">Option (4): Recombination</b> - The outcome of crossing over or independent assortment."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following do not encompass reverse genetics",
+    "options": [
+      "Genome editing",
+      "Creating gene-knockout mice",
+      "Introducing mutations deterministically in a known gene",
+      "Novel gene discovery by genetic screens"
+    ],
+    "correct_answer": "Novel gene discovery by genetic screens",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Novel gene discovery by genetic screens</b> is correct because unbiased forward genetic screens start from an observed mutant phenotype and work backward to isolate and discover the unknown underlying gene (Phenotype → Genotype). Reverse genetics, conversely, starts from a known DNA gene sequence and experimentally disrupts or mutates it (e.g., CRISPR knockout, RNAi) to determine its resulting biological phenotype (Genotype → Phenotype).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genome editing</b> - Hallmark reverse genetics technique targeting a specific gene sequence.\n• <b style=\"color:#2563eb\">Option (2): Creating gene-knockout mice</b> - Classic reverse genetics approach.\n• <b style=\"color:#2563eb\">Option (3): Introducing mutations deterministically in a known gene</b> - Site-directed mutagenesis is the classic foundation of reverse genetics."
+  },
+  {
+    "id": 3,
+    "question": "The smallest unit of genetic material which upon mutation produce a phenotypic effect is:",
+    "options": [
+      "Gene",
+      "Muton",
+      "Inducer",
+      "Regulator"
+    ],
+    "correct_answer": "Muton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Muton</b> is correct because Seymour Benzer (1955) defined the operational subunits of a gene through fine-structure mapping of bacteriophage T4 rII locus:\n• Cistron: unit of genetic function.\n• Recon: unit of genetic recombination.\n• Muton: the smallest unit of chromosome/DNA that can undergo mutation to produce an altered phenotype (down to a single nucleotide pair).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gene</b> - The complete larger functional transcript unit.\n• <b style=\"color:#2563eb\">Option (3): Inducer</b> - Small effector molecule that de-represses transcription in an operon.\n• <b style=\"color:#2563eb\">Option (4): Regulator</b> - Gene encoding a repressor or activator protein."
+  },
+  {
+    "id": 4,
+    "question": "Who coined the term 'linkage'?",
+    "options": [
+      "Morgan",
+      "Mendel",
+      "Darwin",
+      "De Vries"
+    ],
+    "correct_answer": "Morgan",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Morgan</b> is correct because Thomas Hunt Morgan (1910) discovered sex linkage and autosomal linkage during his breeding experiments with the fruit fly (Drosophila melanogaster), coining the term 'linkage' to describe the tendency of genes situated on the same chromosome to remain inherited together during meiosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Mendel</b> - Formulated the laws of inheritance but assumed all traits assort independently.\n• <b style=\"color:#2563eb\">Option (3): Darwin</b> - Formulated the theory of natural selection and pangenesis.\n• <b style=\"color:#2563eb\">Option (4): De Vries</b> - Coined the term 'mutation' and rediscovered Mendel's principles."
+  },
+  {
+    "id": 5,
+    "question": "When a diploid female plant is crossed with a tetraploid male, the ploidy of endosperm cells in the resulting seed is:",
+    "options": [
+      "Pentaploidy",
+      "Diploidy",
+      "Triploidy",
+      "Tetraploidy"
+    ],
+    "correct_answer": "Tetraploidy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Tetraploidy</b> is correct because during angiosperm double fertilization:\n1. The diploid female parent (2n) produces an embryo sac whose central cell contains two haploid polar nuclei (n + n = 2n maternal contribution).\n2. The tetraploid male parent (4n) undergoes meiosis to produce diploid pollen sperm cells (2n paternal contribution).\nTriple fusion between the central cell (2n) and the sperm nucleus (2n) yields 2n + 2n = 4n (tetraploid endosperm).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Pentaploidy</b> - Would require a tetraploid female crossed with a hexaploid male (4n + 3n = 7n or 2*2n + n = 5n).\n• <b style=\"color:#2563eb\">Option (2): Diploidy</b> - Normal ploidy of the embryo, never the endosperm in standard angiosperms.\n• <b style=\"color:#2563eb\">Option (3): Triploidy</b> - Normal endosperm ploidy resulting from a standard diploid female × diploid male cross (2n + n = 3n)."
+  },
+  {
+    "id": 6,
+    "question": "Which of these genomes have maximum ploidy?",
+    "options": [
+      "Humans",
+      "Bacteria",
+      "Fungi",
+      "Plants"
+    ],
+    "correct_answer": "Plants",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Plants</b> is correct because polyploidy is exceptionally widespread throughout the plant kingdom (over 70% of angiosperms have experienced whole-genome duplications). Some ferns and crops exhibit extreme ploidy levels reaching decaploidy, dodecaploidy, or higher (e.g., Ophioglossum reticulatum with 2n ≈ 1,440 chromosomes, ploidy reaching >96-ploid).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Humans</b> - Strictly diploid (2n = 46); polyploidy is embryonic lethal.\n• <b style=\"color:#2563eb\">Option (2): Bacteria</b> - Haploid (1n) prokaryotic genomes.\n• <b style=\"color:#2563eb\">Option (3): Fungi</b> - Typically maintain predominantly haploid vegetative lifestyles."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following are examples of codominance?\nI. A person with blood type AB\nII. A flower that displays a red and white spotted phenotype\nIII. A flower that displays a pink phenotype\nIV. An organism whose heterozygous phenotype is identical to the homozygous dominant phenotype",
+    "options": [
+      "III and IV",
+      "IV only",
+      "I and II",
+      "I, II and III"
+    ],
+    "correct_answer": "I and II",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): I and II</b> is correct because:\n• Statement I: Blood type AB (IAIB) expresses both A and B erythrocyte surface antigens simultaneously (classic codominance).\n• Statement II: Red and white spotted flower simultaneously expresses both pigments side by side (codominance).\n• Statement III: Pink flower is an intermediate blended phenotype representing INCOMPLETE DOMINANCE.\n• Statement IV: Heterozygote identical to homozygous dominant defines COMPLETE DOMINANCE.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): III and IV</b> - Represents incomplete and complete dominance, respectively.\n• <b style=\"color:#2563eb\">Option (2): IV only</b> - Complete dominance.\n• <b style=\"color:#2563eb\">Option (4): I, II and III</b> - Erroneously includes pink flowers (incomplete dominance)."
+  },
+  {
+    "id": 8,
+    "question": "Crossing foxes that are double heterozygotes for two genes regulating coat colour yields 27 grey, 12 red and 9 black offspring. What mechanism explains the ratio of coat colour observed in the offspring?",
+    "options": [
+      "Mendelian inheritance",
+      "Epistasis",
+      "Pleiotropy",
+      "Chromosomal linkage"
+    ],
+    "correct_answer": "Epistasis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Epistasis</b> is correct because the total number of offspring is 27 + 12 + 9 = 48. Dividing each class by 3 yields: 9 grey : 4 red : 3 black (or a 9:3:4 modified dihybrid ratio). A 9:3:4 ratio is the hallmark signature of RECESSIVE EPISTASIS, where the homozygous recessive state of one gene locus masks the phenotypic expression of the other locus.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mendelian inheritance</b> - Classical unlinked independent dihybrid inheritance yields 9:3:3:1.\n• <b style=\"color:#2563eb\">Option (3): Pleiotropy</b> - Single gene governing multiple disparate phenotypes.\n• <b style=\"color:#2563eb\">Option (4): Chromosomal linkage</b> - Produces an excess of parental types without Mendelian multi-class 9:3:4 proportions."
+  },
+  {
+    "id": 9,
+    "question": "What term is used to describe the situation when two alleles do not assort independently?",
+    "options": [
+      "Assortative mating",
+      "Genetic drift",
+      "Linkage",
+      "Codominance"
+    ],
+    "correct_answer": "Linkage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Linkage</b> is correct because linkage refers to the physical proximity of two or more genes situated on the same chromosome, causing them to co-segregate into gametes together more frequently than predicted by Mendel's Law of Independent Assortment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Assortative mating</b> - Non-random mate selection based on phenotypic similarity.\n• <b style=\"color:#2563eb\">Option (2): Genetic drift</b> - Random fluctuations in allele frequencies in finite populations.\n• <b style=\"color:#2563eb\">Option (4): Codominance</b> - Simultaneous expression of both alleles in a heterozygote."
+  },
+  {
+    "id": 10,
+    "question": "What is the process of introducing a mutation into a gene to study its effect called?",
+    "options": [
+      "Forward genetics",
+      "Reverse genetics",
+      "Linkage mapping",
+      "Genome sequencing"
+    ],
+    "correct_answer": "Reverse genetics",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Reverse genetics</b> is correct because reverse genetics experimentally modifies, disrupts, or mutates a specific targeted gene of known sequence (via gene targeting, homologous recombination, or site-directed mutagenesis) to discover and characterize the resulting phenotypic consequences in vivo.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Forward genetics</b> - Classical approach starting with an observed mutant phenotype and mapping backward to identify the responsible gene.\n• <b style=\"color:#2563eb\">Option (3): Linkage mapping</b> - Determining relative distances and orders of genes based on crossing-over frequencies.\n• <b style=\"color:#2563eb\">Option (4): Genome sequencing</b> - High-throughput determination of the linear nucleotide order of a genome."
+  },
+  {
+    "id": 11,
+    "question": "Which term refers to the location of a gene on a chromosome?",
+    "options": [
+      "Allele",
+      "Locus",
+      "Linkage",
+      "Genotype"
+    ],
+    "correct_answer": "Locus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Locus</b> is correct because a locus (plural: loci) is the fixed, specific physical site or positional coordinate on a chromosome where a particular gene or genetic marker resides.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Allele</b> - Alternative molecular forms or sequence variants of a gene at a given locus.\n• <b style=\"color:#2563eb\">Option (3): Linkage</b> - Physical association of two or more genes on the same chromosome.\n• <b style=\"color:#2563eb\">Option (4): Genotype</b> - The specific allelic constitution of an organism."
+  },
+  {
+    "id": 12,
+    "question": "Who is the pioneer of the chromosomal theory of inheritance?",
+    "options": [
+      "Mendel",
+      "Darwin",
+      "Boveri and Sutton",
+      "Watson and Crick"
+    ],
+    "correct_answer": "Boveri and Sutton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Boveri and Sutton</b> is correct because Walter Sutton and Theodor Boveri independently proposed the Chromosome Theory of Inheritance in 1902–1903, demonstrating that the behavior of chromosomes during meiosis (pairing, segregation, and independent assortment) exactly mirrors Mendel's hereditary factors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mendel</b> - Postulated hereditary 'factors' in 1865 without knowledge of chromosomes.\n• <b style=\"color:#2563eb\">Option (2): Darwin</b> - Formulated the theory of evolution by natural selection.\n• <b style=\"color:#2563eb\">Option (4): Watson and Crick</b> - Discovered the double-helix structure of DNA in 1953."
+  },
+  {
+    "id": 13,
+    "question": "When a diploid organism is crossed with a tetraploid organism, the resulting offspring is:",
+    "options": [
+      "Diploid",
+      "Triploid",
+      "Tetraploid",
+      "Pentaploid"
+    ],
+    "correct_answer": "Triploid",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Triploid</b> is correct because:\n• The diploid parent (2n) produces haploid gametes (n).\n• The tetraploid parent (4n) undergoes meiosis to produce diploid gametes (2n).\nSyngamy of these gametes produces an offspring with n + 2n = 3n (a triploid organism, which is typically sterile due to unbalanced meiotic segregation).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Diploid</b> - Results from crossing two diploids (n + n = 2n).\n• <b style=\"color:#2563eb\">Option (3): Tetraploid</b> - Results from crossing two tetraploids (2n + 2n = 4n).\n• <b style=\"color:#2563eb\">Option (4): Pentaploid</b> - Results from crossing a tetraploid with a hexaploid (2n + 3n = 5n)."
+  },
+  {
+    "id": 14,
+    "question": "Reverse genetics is commonly used in the development of",
+    "options": [
+      "Knockout mice",
+      "Cloned animals",
+      "Hybrid plants",
+      "Transgenic plants"
+    ],
+    "correct_answer": "Knockout mice",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Knockout mice</b> is correct because targeted gene knockout technology (pioneered by Mario Capecchi, Martin Evans, and Oliver Smithies) uses homologous recombination in embryonic stem cells to disrupt a specific cloned gene, establishing knockout mice as the quintessential in vivo model of reverse genetics.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cloned animals</b> - Produced via somatic cell nuclear transfer (SCNT) to replicate an entire genome.\n• <b style=\"color:#2563eb\">Option (3): Hybrid plants</b> - Generated by conventional selective cross-pollination.\n• <b style=\"color:#2563eb\">Option (4): Transgenic plants</b> - Focuses on ectopic gene overexpression rather than gene ablation."
+  },
+  {
+    "id": 15,
+    "question": "The smallest unit of genetic material capable of mutation is a:",
+    "options": [
+      "Gene",
+      "Codon",
+      "Nucleotide",
+      "Chromosome"
+    ],
+    "correct_answer": "Nucleotide",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nucleotide</b> is correct because a point mutation can be caused by the alteration, substitution, insertion, or deletion of a single nucleotide base pair (the physical molecular equivalent of Benzer's 'muton').\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gene</b> - Encompasses hundreds to millions of nucleotides.\n• <b style=\"color:#2563eb\">Option (2): Codon</b> - Consists of a triplet of three nucleotides.\n• <b style=\"color:#2563eb\">Option (4): Chromosome</b> - Massive supramolecular structure carrying thousands of genes."
+  },
+  {
+    "id": 16,
+    "question": "Linkage maps are constructed using:",
+    "options": [
+      "The physical distance between genes",
+      "The sequence of nucleotides",
+      "The frequency of crossing over",
+      "The size of the chromosomes"
+    ],
+    "correct_answer": "The frequency of crossing over",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The frequency of crossing over</b> is correct because Alfred Sturtevant discovered that the frequency of recombination (crossing over) between two linked loci is proportional to the physical distance separating them along the chromosome. Recombination percentages are directly converted into map distances (1% recombination = 1 centimorgan or map unit).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The physical distance between genes</b> - Measured in base pairs on physical maps, not classical linkage maps.\n• <b style=\"color:#2563eb\">Option (2): The sequence of nucleotides</b> - Used to construct DNA sequence maps.\n• <b style=\"color:#2563eb\">Option (4): The size of the chromosomes</b> - Cytological parameter, not the basis of genetic map distances."
+  },
+  {
+    "id": 17,
+    "question": "Who first observed that the frequency of recombination between linked genes differed?",
+    "options": [
+      "Alfred Sturtevant",
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Francis Crick"
+    ],
+    "correct_answer": "Alfred Sturtevant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Alfred Sturtevant</b> is correct because in 1911, as an undergraduate student in T.H. Morgan's fly room, Alfred Sturtevant realized that variations in recombination frequency between linked Drosophila genes reflected their linear order and distance, allowing him to construct the world's first genetic linkage map.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Gregor Mendel</b> - Studied independent assortment, not linkage.\n• <b style=\"color:#2563eb\">Option (3): Charles Darwin</b> - Evolutionary biologist.\n• <b style=\"color:#2563eb\">Option (4): Francis Crick</b> - Co-discovered the double-helical structure of DNA."
+  },
+  {
+    "id": 18,
+    "question": "What does a linkage map demonstrate?",
+    "options": [
+      "The physical structure of chromosomes",
+      "The relative positions of genes on a chromosome",
+      "The exact location of genes within the cell",
+      "The sequence of nucleotides in a gene"
+    ],
+    "correct_answer": "The relative positions of genes on a chromosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The relative positions of genes on a chromosome</b> is correct because a linkage map is a linear representation showing the relative order and genetic distance (in cM) between linked genes along a chromosome based on recombination frequencies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The physical structure of chromosomes</b> - Demonstrated by electron microscopy or cytogenetic karyotyping.\n• <b style=\"color:#2563eb\">Option (3): The exact location of genes within the cell</b> - Pertains to cellular spatial localization.\n• <b style=\"color:#2563eb\">Option (4): The sequence of nucleotides in a gene</b> - Provided by Sanger or next-generation DNA sequencing."
+  },
+  {
+    "id": 19,
+    "question": "In a linkage map, one map unit (m.u.) or a centimorgan (cM) represents a:",
+    "options": [
+      "1% chance of recombination occurring between two genes",
+      "10% chance of recombination occurring between two genes",
+      "50% chance of recombination occurring between two genes",
+      "100% chance of recombination occurring between two genes"
+    ],
+    "correct_answer": "1% chance of recombination occurring between two genes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1% chance of recombination occurring between two genes</b> is correct because by definition, 1 map unit (1 m.u. = 1 centimorgan, named in honour of T.H. Morgan) represents a recombination frequency of 1% (0.01) between two linked gene loci.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 10% chance...</b> - Equals 10 centimorgans (1 decimorgan).\n• <b style=\"color:#2563eb\">Option (3): 50% chance...</b> - Represents the theoretical upper limit of recombination for unlinked genes.\n• <b style=\"color:#2563eb\">Option (4): 100% chance...</b> - Factually incorrect."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following statements is true about genes that are closer together on a chromosome?",
+    "options": [
+      "They have a higher recombination frequency",
+      "They are less likely to be separated during crossing over",
+      "They have a 50% chance of recombination",
+      "Their order cannot be determined on a linkage map"
+    ],
+    "correct_answer": "They are less likely to be separated during crossing over",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): They are less likely to be separated during crossing over</b> is correct because the probability of a chiasma (crossover event) occurring between two gene loci decreases proportionally as the physical distance between them shrinks; tightly linked neighboring genes co-segregate almost exclusively as parental combinations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They have a higher recombination frequency</b> - Recombination frequency decreases with proximity.\n• <b style=\"color:#2563eb\">Option (3): They have a 50% chance of recombination</b> - True only for genes that are extremely far apart or on different chromosomes.\n• <b style=\"color:#2563eb\">Option (4): Their order cannot be determined on a linkage map</b> - Gene order is resolved using three-point test crosses."
+  },
+  {
+    "id": 21,
+    "question": "What is the role of crossing over in the creation of a linkage map?",
+    "options": [
+      "It determines the physical structure of the chromosomes",
+      "It provides a mechanism to measure the relative distances between genes",
+      "It allows for the sequencing of the DNA",
+      "It prevents recombination from occurring"
+    ],
+    "correct_answer": "It provides a mechanism to measure the relative distances between genes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It provides a mechanism to measure the relative distances between genes</b> is correct because crossing over generates recombinant non-parental gametes; measuring the proportion of these recombinant offspring provides a quantitative metric directly proportional to the distance separating the genes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It determines the physical structure of the chromosomes</b> - Structural morphology is cytogenetic.\n• <b style=\"color:#2563eb\">Option (3): It allows for the sequencing of the DNA</b> - Sequencing is chemical, not meiotic.\n• <b style=\"color:#2563eb\">Option (4): It prevents recombination from occurring</b> - Crossing over is the physical mechanism that CAUSES recombination."
+  },
+  {
+    "id": 22,
+    "question": "If two genes have a recombination frequency of 50%, what does this suggest about their location on the chromosome?",
+    "options": [
+      "They are very close to each other",
+      "They are at opposite ends of the same chromosome",
+      "They are on different chromosomes",
+      "Their relative positions cannot be determined"
+    ],
+    "correct_answer": "They are on different chromosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): They are on different chromosomes</b> is correct because a 50% recombination frequency signifies that the genes are assorting completely independently, which is the hallmark of non-syntenic loci situated on different non-homologous chromosomes (or located at extreme ends of the same chromosome beyond linkage detection).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They are very close to each other</b> - Tightly linked genes have near 0% recombination frequency.\n• <b style=\"color:#2563eb\">Option (2): They are at opposite ends of the same chromosome</b> - Can yield 50% due to multiple crossovers, but being on different chromosomes is the primary Mendelian interpretation.\n• <b style=\"color:#2563eb\">Option (4): Their relative positions cannot be determined</b> - Unlinked status is definitively established."
+  },
+  {
+    "id": 23,
+    "question": "Identify the order of genes on a chromosome on the basis of the given gene frequencies between genes: a, b, c and d.\na - c = 2%\nb - c = 13%\nb - d = 4%\na - b = 15%\nc - d = 17%\na - d = 19%",
+    "options": [
+      "a d b e",
+      "d b a c",
+      "a b c d",
+      "a c b d"
+    ],
+    "correct_answer": "a c b d",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): a c b d</b> is correct because:\n1. The largest distance is between a and d = 19% (so 'a' and 'd' are the flanking outer markers).\n2. The distance between a and c is 2%, and c and d is 17% (2 + 17 = 19, so 'c' is between 'a' and 'd', adjacent to 'a': a - c ... d).\n3. The distance between b and d is 4%, and c and b is 13% (13 + 4 = 17, so 'b' is between 'c' and 'd').\n4. The distance between a and b is a-c + c-b = 2 + 13 = 15%.\nThus, the linear order of genes is a - c - b - d.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): a d b e</b> - Includes an extraneous gene 'e' and inverts outer markers.\n• <b style=\"color:#2563eb\">Option (2): d b a c</b> - Places 'a' between 'b' and 'c', violating a-c = 2% and b-c = 13%.\n• <b style=\"color:#2563eb\">Option (3): a b c d</b> - Incorrect sequence incompatible with additive map distances."
+  },
+  {
+    "id": 24,
+    "question": "The Coupling and Repulsion hypothesis was putforth by",
+    "options": [
+      "W. Bateson",
+      "L.W. Sharp",
+      "T.H. Morgan",
+      "C.B. Bridges"
+    ],
+    "correct_answer": "W. Bateson",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): W. Bateson</b> is correct because William Bateson and Reginald Punnett (1906) first observed the deviation from 9:3:3:1 in sweet pea (Lathyrus odoratus) flower colour and pollen shape, formulating the 'Coupling and Repulsion Hypothesis' to explain why parental combinations entered together or stayed apart.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): L.W. Sharp</b> - Cytologist who authored textbook treatments on chromosomes.\n• <b style=\"color:#2563eb\">Option (3): T.H. Morgan</b> - Reinterpreted coupling and repulsion as chromosomal linkage in Drosophila.\n• <b style=\"color:#2563eb\">Option (4): C.B. Bridges</b> - Discovered non-disjunction and the genic balance system of sex determination."
+  },
+  {
+    "id": 25,
+    "question": "There are 4 pairs of chromosomes in a Drosophila. The linkage groups present in it are",
+    "options": [
+      "one more than the pair of chromosomes",
+      "one less than the pair of chromosomes",
+      "four",
+      "eight"
+    ],
+    "correct_answer": "four",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): four</b> is correct because the total number of linkage groups in any organism corresponds directly to its haploid chromosome number (n). Since Drosophila melanogaster has 4 pairs of chromosomes (2n = 8), its haploid chromosome count is n = 4, which means it has exactly 4 linkage groups (matching chromosomes I/X, II, III, and IV).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): one more than the pair of chromosomes</b> - Mathematically 5.\n• <b style=\"color:#2563eb\">Option (2): one less than the pair of chromosomes</b> - Mathematically 3.\n• <b style=\"color:#2563eb\">Option (4): eight</b> - The diploid chromosome count (2n), not the number of linkage groups."
+  },
+  {
+    "id": 26,
+    "question": "If the percentage of crossing over between two genes is 10, then the distance between two genes will be",
+    "options": [
+      "5 morganoid",
+      "10 centimorgans",
+      "20 centimorgans",
+      "40 map units"
+    ],
+    "correct_answer": "10 centimorgans",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 10 centimorgans</b> is correct because 1% recombination frequency is defined as 1 centimorgan (cM) or 1 map unit (m.u.). Therefore, a crossing-over frequency of 10% corresponds directly to a genetic map distance of 10 centimorgans.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 5 morganoid</b> - Incorrect calculation.\n• <b style=\"color:#2563eb\">Option (3): 20 centimorgans</b> - Twice the actual value.\n• <b style=\"color:#2563eb\">Option (4): 40 map units</b> - Quadruple the actual value."
+  },
+  {
+    "id": 27,
+    "question": "If gene frequency between genes a and c is 2%; b and c is 13%; b and d 4%; a and b 15%; c and d 17% a and d 19%. The sequence of genes in a chromosome is",
+    "options": [
+      "a,d,b,c",
+      "d,b,a,c",
+      "a,b,c,d",
+      "a,c,b,d"
+    ],
+    "correct_answer": "a,c,b,d",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): a,c,b,d</b> is correct because the additive distances between the loci confirm:\n• a to c = 2 cM\n• c to b = 13 cM (a to b = 2 + 13 = 15 cM)\n• b to d = 4 cM (c to d = 13 + 4 = 17 cM, and a to d = 2 + 13 + 4 = 19 cM)\nThe unique linear arrangement that satisfies all distances is a - c - b - d.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): a,d,b,c</b> - Violates observed distances.\n• <b style=\"color:#2563eb\">Option (2): d,b,a,c</b> - Violates observed distances.\n• <b style=\"color:#2563eb\">Option (3): a,b,c,d</b> - Violates observed distances."
+  },
+  {
+    "id": 28,
+    "question": "Crossing over occurs between",
+    "options": [
+      "Non-sister chromatids of non-homologous chromosome at zygotene stage of prophase-I",
+      "Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I",
+      "Non-sister chromatids of non-homologous chromosomes at pachytene stage of prophase I",
+      "Non-sister chromatids of homologous chromosome at zygotene stage of prophase I"
+    ],
+    "correct_answer": "Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Non-sister chromatids of homologous chromosome at pachytene stage of prophase-I</b> is correct because meiotic crossing over is an enzyme-mediated reciprocal exchange of genetic segments that takes place specifically between non-sister chromatids of synapsed homologous chromosomes during the pachytene sub-stage of Prophase I.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Non-sister chromatids of non-homologous chromosome at zygotene...</b> - Non-homologous exchange produces translocations, and zygotene is the stage of synapsis.\n• <b style=\"color:#2563eb\">Option (3): Non-sister chromatids of non-homologous chromosomes at pachytene...</b> - Involves non-homologous chromosomes.\n• <b style=\"color:#2563eb\">Option (4): Non-sister chromatids of homologous chromosome at zygotene...</b> - Synaptonemal complex forms in zygotene, but crossing over occurs in pachytene."
+  },
+  {
+    "id": 29,
+    "question": "The word gene was proposed for the first time by -",
+    "options": [
+      "Bateson",
+      "Johansen",
+      "Mendel",
+      "Lederberg"
+    ],
+    "correct_answer": "Johansen",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Johansen</b> is correct because Danish botanist and geneticist Wilhelm Johannsen coined the terms 'gene' (shortened from de Vries' 'pangene'), 'genotype', and 'phenotype' in 1909 to replace Mendel's term 'element' or 'factor'.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Bateson</b> - Coined the term 'genetics' in 1906.\n• <b style=\"color:#2563eb\">Option (3): Mendel</b> - Used the German term 'Anlage' or 'Element' (factors).\n• <b style=\"color:#2563eb\">Option (4): Lederberg</b> - Discovered bacterial conjugation and transduction."
+  },
+  {
+    "id": 30,
+    "question": "The gene linkage minimizes the chance of which of the following?",
+    "options": [
+      "Assortment",
+      "Cross-over",
+      "Recombination",
+      "Segregation"
+    ],
+    "correct_answer": "Recombination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Recombination</b> is correct because genetic linkage keeps alleles located on the same chromosome together during meiosis, directly preventing or minimizing the formation of recombinant (non-parental) allele combinations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Assortment</b> - Linkage prevents independent assortment, but recombination is the key biochemical event suppressed.\n• <b style=\"color:#2563eb\">Option (2): Cross-over</b> - Crossover still occurs, but linkage distance determines its frequency.\n• <b style=\"color:#2563eb\">Option (4): Segregation</b> - Homologous chromosomes still segregate during Anaphase I."
+  },
+  {
+    "id": 31,
+    "question": "In an individual 4 genes P, Q, R, S are present on a chromosome. What would be the correct order of these genes on chromosome if distance between genes are:\nP-Q=9 cM\nP-S=12 cM\nQ-S=3 cM\nP-R=5 cM\nQ-R=4 cM\nR-S=7 cM",
+    "options": [
+      "P-Q-R-S",
+      "P-R-Q-S",
+      "P-S-R-Q",
+      "P-S-Q-R"
+    ],
+    "correct_answer": "P-R-Q-S",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): P-R-Q-S</b> is correct because:\n1. P to S is the greatest distance = 12 cM (flanking markers are P and S).\n2. P to R is 5 cM, and R to Q is 4 cM (5 + 4 = 9 cM, which matches P-Q = 9 cM, showing R is between P and Q).\n3. Q to S is 3 cM (9 + 3 = 12 cM, matching P-S = 12 cM).\n4. R to S is R-Q + Q-S = 4 + 3 = 7 cM (matches R-S = 7 cM).\nTherefore, the linear order of genes is P - R - Q - S.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): P-Q-R-S</b> - Incompatible with P-R = 5 cM and P-Q = 9 cM.\n• <b style=\"color:#2563eb\">Option (3): P-S-R-Q</b> - Places S internally instead of at the terminus.\n• <b style=\"color:#2563eb\">Option (4): P-S-Q-R</b> - Violates additive map distances."
+  },
+  {
+    "id": 32,
+    "question": "Given the gene sequence ABCDE crossing over should occur most frequently between:",
+    "options": [
+      "A-E",
+      "A D",
+      "A-C",
+      "A-B"
+    ],
+    "correct_answer": "A-E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): A-E</b> is correct because on a linear chromosome segment with sequence A-B-C-D-E, the frequency of crossing over between any two gene loci is directly proportional to the physical distance separating them. Genes A and E are located at the extreme opposite terminal ends, providing the longest chromosomal segment and therefore the highest probability of crossover events occurring between them.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): A D</b> - Closer together than A and E.\n• <b style=\"color:#2563eb\">Option (3): A-C</b> - Intermediate distance.\n• <b style=\"color:#2563eb\">Option (4): A-B</b> - Adjacent loci exhibiting the lowest crossover frequency."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the largest human cell?",
+    "options": [
+      "Liver",
+      "Ovum",
+      "Spleen",
+      "Skin"
+    ],
+    "correct_answer": "Ovum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Ovum</b> is correct because the female ovum (unfertilized egg cell) is the largest single cell in the human body, with a diameter of roughly 120 µm (0.12 mm), making it visible to the unaided human eye. It contains abundant cytoplasm and reserves to support early embryonic cell divisions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Liver</b> - Liver is a solid glandular organ comprised of hepatocytes, which typically measure 20–30 µm.\n• <b style=\"color:#2563eb\">Option (3): Spleen</b> - Spleen is a lymphoid organ consisting of immune cells such as lymphocytes and macrophages (7–15 µm).\n• <b style=\"color:#2563eb\">Option (4): Skin</b> - Skin (integument) is the largest organ of the human body by surface area and weight, but individual epithelial cells are small (~30 µm)."
+  },
+  {
+    "id": 2,
+    "question": "The plasma membrane is composed primarily of:",
+    "options": [
+      "Proteins",
+      "Carbohydrates",
+      "Lipids",
+      "Nucleic acids"
+    ],
+    "correct_answer": "Lipids",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Lipids</b> is correct because the continuous, fundamental structural matrix of all biological membranes is the amphipathic lipid bilayer, primarily composed of phospholipids and sterols, which forms a selective hydrophobic barrier separating cellular compartments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Proteins</b> - Proteins perform specialized catalytic, transport, and signaling functions within membranes, but the basic structural matrix that establishes compartmental boundaries is lipid-based.\n• <b style=\"color:#2563eb\">Option (2): Carbohydrates</b> - Carbohydrates are minor components (5–10% by mass), present solely as oligosaccharide chains conjugated to lipids (glycolipids) or proteins (glycoproteins) on the outer leaflet.\n• <b style=\"color:#2563eb\">Option (4): Nucleic acids</b> - Nucleic acids (DNA and RNA) are genetic polymers confined to the nucleus, mitochondria, chloroplasts, and cytoplasm, and are not constituents of the plasma membrane."
+  },
+  {
+    "id": 3,
+    "question": "The lipid bilayer of the plasma membrane consists mainly of:",
+    "options": [
+      "Phospholipids",
+      "Cholesterol",
+      "Glycolipids",
+      "Steroids"
+    ],
+    "correct_answer": "Phospholipids",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Phospholipids</b> is correct because phosphoglycerides (such as phosphatidylcholine, phosphatidylethanolamine, and phosphatidylserine) and sphingomyelin are the most abundant structural lipids forming the amphipathic bimolecular leaflet in biological membranes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cholesterol</b> - Cholesterol is an intercalating sterol that modulates membrane fluidity, but it is not the main bulk bilayer-forming component.\n• <b style=\"color:#2563eb\">Option (3): Glycolipids</b> - Glycolipids are specialized carbohydrate-containing lipids confined largely to the external leaflet for cell recognition and protection.\n• <b style=\"color:#2563eb\">Option (4): Steroids</b> - Steroids include cholesterol and lipid hormones, but they do not constitute the primary structural foundation of the bilayer."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following molecules helps stabilize the fluidity of the plasma membrane?",
+    "options": [
+      "Glycoproteins",
+      "Integral proteins",
+      "Peripheral proteins",
+      "Cholesterol"
+    ],
+    "correct_answer": "Cholesterol",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Cholesterol</b> is correct because cholesterol acts as a bidirectional 'fluidity buffer'. At physiological or elevated temperatures, its rigid steroid ring system restricts the thermal motion of fatty acyl chains, reducing permeability and excess fluidity; at low temperatures, it prevents fatty acid packing and crystallization, preventing phase transition into a rigid gel.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Glycoproteins</b> - Glycoproteins mediate cell-cell adhesion, ligand binding, and immune identification rather than modulating lipid viscosity.\n• <b style=\"color:#2563eb\">Option (2): Integral proteins</b> - Integral proteins act as transporters, channels, or enzymes whose lateral mobility is affected by membrane fluidity, but they do not serve as the primary fluidity stabilizer.\n• <b style=\"color:#2563eb\">Option (3): Peripheral proteins</b> - Peripheral proteins associate transiently with membrane surfaces to anchor cytoskeletal components or transmit downstream intracellular signals."
+  },
+  {
+    "id": 5,
+    "question": "The fluid mosaic model describes the plasma membrane as:",
+    "options": [
+      "A rigid structure composed of lipids and proteins",
+      "A solid structure made up of carbohydrates and proteins",
+      "A dynamic structure with a mosaic of proteins embedded in a fluid lipid bilayer",
+      "A permeable structure that allows free movement of molecules"
+    ],
+    "correct_answer": "A dynamic structure with a mosaic of proteins embedded in a fluid lipid bilayer",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A dynamic structure with a mosaic of proteins embedded in a fluid lipid bilayer</b> is correct. Proposed by S.J. Singer and G.L. Nicolson in 1972, the fluid mosaic model portrays the membrane as a two-dimensional viscous liquid lipid bilayer in which integral proteins are partially or fully embedded and free to diffuse laterally, creating a dynamic mosaic arrangement.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A rigid structure composed of lipids and proteins</b> - The membrane is flexible, fluid, and dynamic, not a rigid static lattice.\n• <b style=\"color:#2563eb\">Option (2): A solid structure made up of carbohydrates and proteins</b> - Membranes are fluid-lipid continuous matrices, not solid carbohydrate matrices.\n• <b style=\"color:#2563eb\">Option (4): A permeable structure that allows free movement of molecules</b> - Biological membranes are selectively semi-permeable, not freely permeable to arbitrary molecules."
+  },
+  {
+    "id": 6,
+    "question": "The major function of integral proteins in the plasma membrane is to:",
+    "options": [
+      "Provide structural support",
+      "Facilitate cell recognition",
+      "Regulate the transport of molecules",
+      "Store genetic information"
+    ],
+    "correct_answer": "Regulate the transport of molecules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Regulate the transport of molecules</b> is correct because transmembrane integral proteins span the lipid bilayer, creating aqueous pore-forming channels, carriers, and primary/secondary active pumps that mediate the selective translocation of ions, sugars, amino acids, and polar molecules across the impermeable hydrophobic core.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Provide structural support</b> - Structural stabilization is largely mediated by peripheral cytoskeletal linkers (such as spectrin and ankyrin) and the extracellular matrix.\n• <b style=\"color:#2563eb\">Option (2): Facilitate cell recognition</b> - Cell recognition is primarily mediated by extracellular oligosaccharide chains of glycoproteins and glycolipids forming the glycocalyx.\n• <b style=\"color:#2563eb\">Option (4): Store genetic information</b> - Genetic information is stored exclusively in nucleic acid sequences (DNA/RNA), never in membrane proteins."
+  },
+  {
+    "id": 7,
+    "question": "The carbohydrate chains attached to proteins and lipids on the outer surface of the plasma membrane are involved in:",
+    "options": [
+      "Cell adhesion",
+      "Cell signaling",
+      "Energy production",
+      "Waste removal"
+    ],
+    "correct_answer": "Cell signaling",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Cell signaling</b> is correct. The carbohydrate moieties of glycoproteins and glycolipids form the cell surface glycocalyx, serving as specialized molecular recognition tags, receptor binding sites, and identity markers that facilitate intercellular communication and signal reception.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cell adhesion</b> - Although selectins and cadherins contribute to adhesion, the primary communicative recognition role highlighted here is cellular signaling and identification.\n• <b style=\"color:#2563eb\">Option (3): Energy production</b> - Energy generation (ATP synthesis) occurs via metabolic pathways in the cytosol and the mitochondrial inner membrane.\n• <b style=\"color:#2563eb\">Option (4): Waste removal</b> - Waste clearance is accomplished by transport proteins, exocytosis, and excretory systems, not oligosaccharide coats."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is NOT a component of the plasma membrane?",
+    "options": [
+      "Glycoproteins",
+      "Glycolipids",
+      "Phospholipids",
+      "Ribosomes"
+    ],
+    "correct_answer": "Ribosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Ribosomes</b> is correct because ribosomes are non-membranous ribonucleoprotein complexes localized freely in the cytosol or bound to the endoplasmic reticulum membrane for protein synthesis; they are not integrated components of the plasma membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Glycoproteins</b> - Integral and peripheral proteins decorated with oligosaccharides are key plasma membrane constituents.\n• <b style=\"color:#2563eb\">Option (2): Glycolipids</b> - Membrane lipids with attached sugar heads reside in the exoplasmic leaflet of the plasma membrane.\n• <b style=\"color:#2563eb\">Option (3): Phospholipids</b> - Phospholipids are the principal structural lipid forming the lipid bilayer."
+  },
+  {
+    "id": 9,
+    "question": "The plasma membrane is selectively permeable, meaning it:",
+    "options": [
+      "Allows all molecules to freely enter and exit the cell",
+      "Permits only water molecules to cross",
+      "Allows only certain substances to pass through while restricting others",
+      "Prevents the movement of any substance in or out of the cell"
+    ],
+    "correct_answer": "Allows only certain substances to pass through while restricting others",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Allows only certain substances to pass through while restricting others</b> is correct. Selective (semi-) permeability is the property whereby small nonpolar solutes diffuse spontaneously while polar molecules, large metabolites, and charged ions require specific transport mechanisms or are restricted, maintaining homeostasis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Allows all molecules to freely enter and exit the cell</b> - This defines a fully permeable barrier, which would destroy electrochemical gradients and cell viability.\n• <b style=\"color:#2563eb\">Option (2): Permits only water molecules to cross</b> - This defines a strictly semipermeable osmotic membrane; plasma membranes also allow gases and selectively transport diverse solutes.\n• <b style=\"color:#2563eb\">Option (4): Prevents the movement of any substance in or out of the cell</b> - This defines a completely impermeable barrier, which would starve the cell and accumulate toxic wastes."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following molecules can freely diffuse across the plasma membrane without the need for a transport protein?",
+    "options": [
+      "Large proteins",
+      "Glucose",
+      "Oxygen",
+      "Sodium ions"
+    ],
+    "correct_answer": "Oxygen",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Oxygen</b> is correct because molecular oxygen ($O_2$) is a small, uncharged, nonpolar gas molecule that readily dissolves in and diffuses directly across the hydrophobic core of the lipid bilayer down its concentration gradient by simple passive diffusion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Large proteins</b> - Macromolecules are far too large and hydrophilic to cross the lipid bilayer passively; they require endocytosis/exocytosis.\n• <b style=\"color:#2563eb\">Option (2): Glucose</b> - Glucose is a large uncharged polar hexose that requires facilitated diffusion through GLUT transport proteins.\n• <b style=\"color:#2563eb\">Option (4): Sodium ions</b> - $Na^+$ ions carry a formal positive charge and a hydration shell, preventing simple diffusion across hydrophobic lipid acyl chains; they require specific ion channels or pumps."
+  },
+  {
+    "id": 11,
+    "question": "The plasma membrane contains protein channels known as:",
+    "options": [
+      "Enzymes",
+      "Glycoproteins",
+      "Receptors",
+      "Ion channels"
+    ],
+    "correct_answer": "Ion channels",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Ion channels</b> is correct because ion channels are specialized pore-forming transmembrane protein complexes that allow rapid, passive, and selective passage of specific inorganic ions ($Na^+$, $K^+$, $Ca^{2+}$, $Cl^-$) down their electrochemical gradients across the biological membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Enzymes</b> - Membrane-associated enzymes catalyze chemical reactions (e.g., adenylate cyclase), but do not primarily act as transport channels.\n• <b style=\"color:#2563eb\">Option (2): Glycoproteins</b> - Glycoproteins are proteins decorated with carbohydrate chains involved in cell recognition, signaling, and cell adhesion.\n• <b style=\"color:#2563eb\">Option (3): Receptors</b> - Receptors bind extracellular signaling ligands and transduce conformational signals across the membrane without necessarily forming continuous aqueous transport conduits."
+  },
+  {
+    "id": 12,
+    "question": "The lipid bilayer of the plasma membrane is arranged with:",
+    "options": [
+      "Hydrophilic heads facing the external environment and hydrophobic tails facing inward",
+      "Hydrophilic heads facing inward and hydrophobic tails facing the external environment",
+      "Hydrophobic heads facing the external environment and hydrophilic tails facing inward",
+      "Hydrophobic heads facing inward and hydrophilic tails facing the external environment"
+    ],
+    "correct_answer": "Hydrophilic heads facing the external environment and hydrophobic tails facing inward",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Hydrophilic heads facing the external environment and hydrophobic tails facing inward</b> is correct. Driven by the hydrophobic effect, the polar/charged hydrophilic head groups orient outwards toward the aqueous extra- and intracellular environments, while the nonpolar fatty acyl chains sequester internally away from water, creating a stable bilayer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Hydrophilic heads facing inward and hydrophobic tails facing the external environment</b> - Thermodynamically non-viable, as exposing nonpolar hydrocarbon tails to aqueous surroundings carries a severe entropic penalty.\n• <b style=\"color:#2563eb\">Option (3): Hydrophobic heads facing the external environment and hydrophilic tails facing inward</b> - Phospholipid heads are hydrophilic (phosphate and choline/glycerol), not hydrophobic.\n• <b style=\"color:#2563eb\">Option (4): Hydrophobic heads facing inward and hydrophilic tails facing the external environment</b> - Reverses the chemical identities of hydrophilic phosphate heads and hydrophobic hydrocarbon tails."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following processes requires energy to move molecules across the plasma membrane against their concentration gradient?",
+    "options": [
+      "Diffusion",
+      "Facilitated diffusion",
+      "Osmosis",
+      "Active transport"
+    ],
+    "correct_answer": "Active transport",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Active transport</b> is correct because moving solute molecules 'uphill' against a chemical or electrical gradient is endergonic and requires metabolic energy input, typically derived from direct ATP hydrolysis (primary active transport) or coupled ion gradients (secondary active transport).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Diffusion</b> - Simple diffusion is a passive, exergonic process driving solute movement 'downhill' along its concentration gradient without metabolic expenditure.\n• <b style=\"color:#2563eb\">Option (2): Facilitated diffusion</b> - Transporter-mediated transport that still flows downhill along electrochemical gradients without requiring energy input.\n• <b style=\"color:#2563eb\">Option (3): Osmosis</b> - Osmosis is the passive movement of solvent water molecules across a semipermeable membrane from low solute to high solute concentration."
+  },
+  {
+    "id": 14,
+    "question": "The presence of cholesterol in the plasma membrane:",
+    "options": [
+      "Increases membrane fluidity",
+      "Decreases membrane stability",
+      "Prevents the movement of molecules",
+      "Regulates membrane permeability"
+    ],
+    "correct_answer": "Regulates membrane permeability",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Regulates membrane permeability</b> is correct. Cholesterol intercalates into the lipid bilayer with its steroid nucleus alongside fatty acyl chains, reducing the free volume between lipid molecules and restricting small polar molecules (such as water, ions, and urea) from leaking indiscriminately across the membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Increases membrane fluidity</b> - At normal physiological temperatures, cholesterol actually decreases excess fluidity by hindering lipid acyl tail movement.\n• <b style=\"color:#2563eb\">Option (2): Decreases membrane stability</b> - Cholesterol enhances the mechanical coherence and mechanical durability of the bilayer.\n• <b style=\"color:#2563eb\">Option (3): Prevents the movement of molecules</b> - It regulates and selectively modulates passive permeability rather than completely blocking all molecular transport."
+  },
+  {
+    "id": 15,
+    "question": "The plasma membrane is involved in:",
+    "options": [
+      "Cell division",
+      "DNA replication",
+      "Cell signaling",
+      "Protein synthesis"
+    ],
+    "correct_answer": "Cell signaling",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cell signaling</b> is correct because the plasma membrane acts as the primary sensory interface between the cell and its environment, harboring receptor proteins (e.g., GPCRs, receptor tyrosine kinases) that bind extracellular ligands and initiate intracellular signaling cascades.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cell division</b> - While the plasma membrane invaginates during cytokinesis, cell division is centrally controlled and executed by centrosomes, microtubules, and the mitotic spindle apparatus.\n• <b style=\"color:#2563eb\">Option (2): DNA replication</b> - DNA replication takes place exclusively in the nucleus (and mitochondria) mediated by DNA polymerases and helicases.\n• <b style=\"color:#2563eb\">Option (4): Protein synthesis</b> - Translation is carried out by ribosomes in the cytoplasm and on the rough endoplasmic reticulum."
+  },
+  {
+    "id": 16,
+    "question": "The plasma membrane of animal cells contains a specialized structure called a:",
+    "options": [
+      "Cell wall",
+      "Nucleus",
+      "Mitochondria",
+      "Extracellular matrix"
+    ],
+    "correct_answer": "Extracellular matrix",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Extracellular matrix</b> is correct because animal cells lack rigid peptidoglycan/cellulose cell walls; instead, the outer surface of their plasma membrane directly interacts with and connects to the extracellular matrix (ECM) composed of collagen, proteoglycans, and fibronectin via transmembrane integrin receptors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cell wall</b> - Animal cells fundamentally lack a cell wall; cell walls are characteristic of plants, fungi, and bacteria.\n• <b style=\"color:#2563eb\">Option (2): Nucleus</b> - The nucleus is an internal double-membrane bounded organelle inside the cytoplasm, not a specialized external surface structure of the plasma membrane.\n• <b style=\"color:#2563eb\">Option (3): Mitochondria</b> - Mitochondria are cytoplasmic semiautonomous organelles responsible for cellular respiration."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following describes the function of transmembrane proteins in the plasma membrane?",
+    "options": [
+      "Assist in cell recognition and signaling",
+      "Regulate the movement of molecules across the membrane",
+      "Act as receptors for extracellular ligands",
+      "Provide structural support to the membrane"
+    ],
+    "correct_answer": "Regulate the movement of molecules across the membrane",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Regulate the movement of molecules across the membrane</b> is correct. Transmembrane (integral) proteins span the entire thickness of the lipid bilayer with hydrophobic membrane-spanning alpha helices, uniquely positioning them to form channels, carriers, and pumps that control and regulate the flux of ions and polar solutes across the barrier.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Assist in cell recognition and signaling</b> - Cell recognition is primarily provided by surface carbohydrate residues (glycans).\n• <b style=\"color:#2563eb\">Option (3): Act as receptors for extracellular ligands</b> - While certain transmembrane proteins are receptors, the overarching and universal mechanical capability enabled by spanning both faces is transmembrane transport regulation.\n• <b style=\"color:#2563eb\">Option (4): Provide structural support to the membrane</b> - Structural framework is largely maintained by submembrane cortical cytoskeletal proteins (like actin and spectrin)."
+  },
+  {
+    "id": 18,
+    "question": "Which type of lipids are primarily responsible for the fluidity of the plasma membrane?",
+    "options": [
+      "Phospholipids",
+      "Glycolipids",
+      "Cholesterol",
+      "Steroids"
+    ],
+    "correct_answer": "Phospholipids",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Phospholipids</b> is correct because phospholipids constitute the predominant bulk lipid component of the membrane. The degree of unsaturation (cis-double bonds introducing kinks) and fatty acyl chain length directly dictate the liquid-crystalline state and lateral diffusion rates of the bilayer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Glycolipids</b> - Present in minor quantities exclusively on the outer monolayer and serve predominantly in protective and recognition capacities.\n• <b style=\"color:#2563eb\">Option (3): Cholesterol</b> - Cholesterol modulates, buffers, and restricts excessive fluidity rather than generating the primary fluid matrix.\n• <b style=\"color:#2563eb\">Option (4): Steroids</b> - General class of multi-ring lipids; they do not form the bulk self-assembling fluid matrix of membranes."
+  },
+  {
+    "id": 19,
+    "question": "What is the role of integral membrane proteins in maintaining the selective permeability of the plasma membrane?",
+    "options": [
+      "Forming ion channels and transporters",
+      "Facilitating cell adhesion",
+      "Acting as receptors for extracellular signals",
+      "Anchoring the membrane to the cytoskeleton"
+    ],
+    "correct_answer": "Forming ion channels and transporters",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Forming ion channels and transporters</b> is correct because biological lipid bilayers are inherently impermeable to ions and hydrophilic molecules. Integral membrane proteins create selective hydrophilic pathways (ion channels, symporters, antiporters, uniporters, and ATP-driven pumps) that precisely dictate which specific molecules can enter or exit the cell.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Facilitating cell adhesion</b> - Cell adhesion molecules (e.g., cadherins, CAMs) join cells together into tissues but do not establish selective chemical permeability.\n• <b style=\"color:#2563eb\">Option (3): Acting as receptors for extracellular signals</b> - Receptor proteins transmit informational cues across the membrane rather than maintaining permeability.\n• <b style=\"color:#2563eb\">Option (4): Anchoring the membrane to the cytoskeleton</b> - Membrane-cytoskeleton anchors maintain cell morphology and mechanical integrity."
+  },
+  {
+    "id": 20,
+    "question": "Which statement accurately describes the distribution of proteins in the plasma membrane?",
+    "options": [
+      "Proteins are randomly distributed throughout the membrane.",
+      "Proteins are evenly distributed on both the inner and outer surfaces of the membrane.",
+      "Proteins are asymmetrically distributed, with different functions on the inner and outer surfaces of the membrane.",
+      "Proteins are concentrated in specific regions known as lipid rafts"
+    ],
+    "correct_answer": "Proteins are asymmetrically distributed, with different functions on the inner and outer surfaces of the membrane.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Proteins are asymmetrically distributed, with different functions on the inner and outer surfaces of the membrane.</b> is correct. Biological membranes exhibit absolute structural and functional transverse asymmetry. Integral membrane proteins are inserted with a defined orientation; extracellular domains bind ligands and oligosaccharides, while cytoplasmic domains interact with signaling effectors and cytoskeletal networks.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Proteins are randomly distributed throughout the membrane.</b> - Membrane proteins are not randomly positioned; their orientation and microdomain localization are strictly ordered.\n• <b style=\"color:#2563eb\">Option (2): Proteins are evenly distributed on both the inner and outer surfaces of the membrane.</b> - The protein composition of the outer (exoplasmic) face differs completely from the cytosolic inner face.\n• <b style=\"color:#2563eb\">Option (4): Proteins are concentrated in specific regions known as lipid rafts</b> - While lipid rafts enrich certain GPI-anchored proteins, proteins populate the entire membrane landscape rather than being restricted only to rafts."
+  }
+]

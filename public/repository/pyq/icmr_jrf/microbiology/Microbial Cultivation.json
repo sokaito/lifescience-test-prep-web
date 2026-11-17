@@ -9,7 +9,7 @@
       "Nutrient broth is basal medium"
     ],
     "correct_answer": "Agar has nutrient properties",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the official answer key, Option (1) is marked as the answer (in bacteriology, agar derived from red algae acts as an inert solidifying agent with high melting temperature [85°C] and low gelling temperature [40°C], providing a stable solid matrix for bacterial colonies; nutrient broth is the classic basal medium).\n• Why Other Options Are Incorrect:\n  - Chocolate medium: An enriched medium (lysed blood), not a selective medium.\n  - Addition of selective substances in solid medium: Called a selective medium (enrichment media are liquid).\n  - Nutrient broth is basal medium: Standard textbook truth, but Option (1) is designated in the answer key."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, Option (1) is marked as the answer (in bacteriology, agar derived from red algae acts as an inert solidifying agent with high melting temperature [85°C] and low gelling temperature [40°C], providing a stable solid matrix for bacterial colonies; nutrient broth is the classic basal medium).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Chocolate medium:</b> An enriched medium (lysed blood), not a selective medium.\n• <b style=\"color:#2563eb\">Addition of selective substances in solid medium:</b> Called a selective medium (enrichment media are liquid).\n• <b style=\"color:#2563eb\">Nutrient broth is basal medium:</b> Standard textbook truth, but Option (1) is designated in the answer key."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Mueller Hinton Agar media"
     ],
     "correct_answer": "Dubos medium",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Dubos medium is a specialized culture medium developed by René Dubos for cultivating Mycobacterium tuberculosis. It contains bovine serum albumin and Tween 80 (a surfactant) which prevents the characteristic clumping of tubercle bacilli, allowing dispersed, uniform, rapid submerged liquid growth.\n• Why Other Options Are Incorrect:\n  - Lowenstein-Jensen (LJ) medium: Egg-based solid slant medium with malachite green for slow-growing mycobacteria.\n  - MacConkey agar: Reddish-pink differential agar for Gram-negative enteric rods.\n  - Mueller-Hinton agar: Standard non-selective, non-differential medium for Kirby-Bauer antibiotic disc diffusion."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nDubos medium is a specialized culture medium developed by René Dubos for cultivating Mycobacterium tuberculosis. It contains bovine serum albumin and Tween 80 (a surfactant) which prevents the characteristic clumping of tubercle bacilli, allowing dispersed, uniform, rapid submerged liquid growth.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Lowenstein-Jensen (LJ) medium:</b> Egg-based solid slant medium with malachite green for slow-growing mycobacteria.\n• <b style=\"color:#2563eb\">MacConkey agar:</b> Reddish-pink differential agar for Gram-negative enteric rods.\n• <b style=\"color:#2563eb\">Mueller-Hinton agar:</b> Standard non-selective, non-differential medium for Kirby-Bauer antibiotic disc diffusion."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Salmonella"
     ],
     "correct_answer": "Pseudomonas",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Cetrimide agar is a selective differential medium specifically formulated for the isolation of Pseudomonas aeruginosa from clinical and environmental specimens. Cetrimide (cetyltrimethylammonium bromide) acts as a quaternary ammonium disinfectant that inhibits most other bacterial species while stimulating P. aeruginosa to produce characteristic water-soluble pyocyanin (blue-green) and pyoverdine (fluorescent yellow-green) pigments.\n• Why Other Options Are Incorrect:\n  - Klebsiella: Isolated on MacConkey agar (forming large, mucoid pink colonies).\n  - Shigella & Salmonella: Isolated on selective media like XLD (Xylose Lysine Deoxycholate) agar or SS (Salmonella-Shigella) agar."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCetrimide agar is a selective differential medium specifically formulated for the isolation of Pseudomonas aeruginosa from clinical and environmental specimens. Cetrimide (cetyltrimethylammonium bromide) acts as a quaternary ammonium disinfectant that inhibits most other bacterial species while stimulating P. aeruginosa to produce characteristic water-soluble pyocyanin (blue-green) and pyoverdine (fluorescent yellow-green) pigments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Klebsiella:</b> Isolated on MacConkey agar (forming large, mucoid pink colonies).\n• <b style=\"color:#2563eb\">Shigella & Salmonella:</b> Isolated on selective media like XLD (Xylose Lysine Deoxycholate) agar or SS (Salmonella-Shigella) agar."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "Amitriptyline"
     ],
     "correct_answer": "Artemisinin",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Artemisinin is a potent antimalarial drug isolated from the plant Artemisia annua (sweet wormwood) by Nobel Laureate Tu Youyou. It contains an active endoperoxide bridge that generates free radicals upon cleavage by heme inside Plasmodium parasites, rapidly clearing blood-stage schizonts in chloroquine-resistant malaria.\n• Why Other Options Are Incorrect:\n  - Adenosine: An endogenous purine nucleoside and antiarrhythmic drug.\n  - Amiodarone: A Class III antiarrhythmic cardiac medication for ventricular tachycardia.\n  - Amitriptyline: A tricyclic antidepressant (TCA) used for depression and neuropathic pain."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nArtemisinin is a potent antimalarial drug isolated from the plant Artemisia annua (sweet wormwood) by Nobel Laureate Tu Youyou. It contains an active endoperoxide bridge that generates free radicals upon cleavage by heme inside Plasmodium parasites, rapidly clearing blood-stage schizonts in chloroquine-resistant malaria.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Adenosine:</b> An endogenous purine nucleoside and antiarrhythmic drug.\n• <b style=\"color:#2563eb\">Amiodarone:</b> A Class III antiarrhythmic cardiac medication for ventricular tachycardia.\n• <b style=\"color:#2563eb\">Amitriptyline:</b> A tricyclic antidepressant (TCA) used for depression and neuropathic pain."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "Nutrient availability"
     ],
     "correct_answer": "Light intensity",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Most bacteria of medical, veterinary, and clinical importance are non-photosynthetic heterotrophs whose growth does not depend on light intensity. In contrast, temperature, pH, osmotic pressure, and chemical nutrient availability are universal regulatory factors for all microbial cultures.\n• Why Other Options Are Incorrect:\n  - pH: Dictates protein folding, enzyme activity, and proton-motive force across the bacterial membrane.\n  - Temperature: Directly governs enzyme reaction rates and membrane fluidity.\n  - Nutrient availability: Carbon, nitrogen, phosphorus, and trace minerals provide essential building blocks for biomass synthesis."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMost bacteria of medical, veterinary, and clinical importance are non-photosynthetic heterotrophs whose growth does not depend on light intensity. In contrast, temperature, pH, osmotic pressure, and chemical nutrient availability are universal regulatory factors for all microbial cultures.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">pH:</b> Dictates protein folding, enzyme activity, and proton-motive force across the bacterial membrane.\n• <b style=\"color:#2563eb\">Temperature:</b> Directly governs enzyme reaction rates and membrane fluidity.\n• <b style=\"color:#2563eb\">Nutrient availability:</b> Carbon, nitrogen, phosphorus, and trace minerals provide essential building blocks for biomass synthesis."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "To preserve the culture for long-term storage"
     ],
     "correct_answer": "To provide a suitable environment for microbial growth",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Inoculation is the intentional introduction of viable microorganisms (the inoculum) into or onto a nutrient culture medium to initiate growth and cultivation in a favorable environment.\n• Why Other Options Are Incorrect:\n  - Sterilize the medium: Done by autoclaving or filtration before inoculation; introducing microbes is the opposite of sterilization.\n  - Determine pH: Measured using pH meters or chemical indicator dyes.\n  - Long-term storage: Done via cryopreservation or lyophilization after cultivation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nInoculation is the intentional introduction of viable microorganisms (the inoculum) into or onto a nutrient culture medium to initiate growth and cultivation in a favorable environment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Sterilize the medium:</b> Done by autoclaving or filtration before inoculation; introducing microbes is the opposite of sterilization.\n• <b style=\"color:#2563eb\">Determine pH:</b> Measured using pH meters or chemical indicator dyes.\n• <b style=\"color:#2563eb\">Long-term storage:</b> Done via cryopreservation or lyophilization after cultivation."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Various sterilization methods are selected depending on heat sensitivity: autoclaving (pressurized steam at 121°C) is the standard method for heat-stable media, membrane filtration (0.22 μm pore size) is used for heat-labile vitamins/antibiotics/sera, and UV irradiation is employed for surface and laminar hood decontamination.\n• Why Other Options Are Incorrect:\n  - Autoclaving, filtration, and radiation are all valid sterilization techniques."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nVarious sterilization methods are selected depending on heat sensitivity: autoclaving (pressurized steam at 121°C) is the standard method for heat-stable media, membrane filtration (0.22 μm pore size) is used for heat-labile vitamins/antibiotics/sera, and UV irradiation is employed for surface and laminar hood decontamination.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Autoclaving, filtration, and radiation are all valid sterilization techniques."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
       "Sabouraud agar"
     ],
     "correct_answer": "MacConkey agar",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: MacConkey agar is a classic selective and differential medium. Bile salts and crystal violet selectively inhibit the growth of Gram-positive bacteria, allowing only Gram-negative enteric bacteria to grow.\n• Why Other Options Are Incorrect:\n  - Nutrient agar: General basal non-selective medium supporting many non-fastidious bacteria.\n  - Blood agar: Enriched differential medium (showing alpha, beta, and gamma hemolysis).\n  - Sabouraud agar: Primarily formulated for fungi, but MacConkey is the premier bacteriological selective medium."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMacConkey agar is a classic selective and differential medium. Bile salts and crystal violet selectively inhibit the growth of Gram-positive bacteria, allowing only Gram-negative enteric bacteria to grow.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Nutrient agar:</b> General basal non-selective medium supporting many non-fastidious bacteria.\n• <b style=\"color:#2563eb\">Blood agar:</b> Enriched differential medium (showing alpha, beta, and gamma hemolysis).\n• <b style=\"color:#2563eb\">Sabouraud agar:</b> Primarily formulated for fungi, but MacConkey is the premier bacteriological selective medium."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
       "To measure the growth rate of microorganisms"
     ],
     "correct_answer": "To isolate individual microbial colonies",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The streak plate technique (quadrant streaking) dilutes the bacterial sample across an agar surface through mechanical spreading. This separates individual bacterial cells far enough apart so each multiplies into an isolated, clonal pure colony.\n• Why Other Options Are Incorrect:\n  - Observe motility: Assessed using semi-solid motility agar (hanging drop or stabbing).\n  - Antibiotic sensitivity: Performed using the Kirby-Bauer lawn spread disc diffusion method.\n  - Measure growth rate: Determined by monitoring optical density (turbidity) over time in liquid broth."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe streak plate technique (quadrant streaking) dilutes the bacterial sample across an agar surface through mechanical spreading. This separates individual bacterial cells far enough apart so each multiplies into an isolated, clonal pure colony.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Observe motility:</b> Assessed using semi-solid motility agar (hanging drop or stabbing).\n• <b style=\"color:#2563eb\">Antibiotic sensitivity:</b> Performed using the Kirby-Bauer lawn spread disc diffusion method.\n• <b style=\"color:#2563eb\">Measure growth rate:</b> Determined by monitoring optical density (turbidity) over time in liquid broth."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
       "Polymerase chain reaction (PCR)"
     ],
     "correct_answer": "Polymerase chain reaction (PCR)",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Polymerase Chain Reaction (PCR) is an enzymatic nucleic acid amplification technique used to detect and amplify specific DNA sequences; it is not a traditional culture-based cell enumeration method.\n• Why Other Options Are Incorrect:\n  - Serial dilution and viable plate counting: Directly counts colony-forming units (CFUs) of living cells.\n  - Spectrophotometry: Measures turbidity (optical density) proportional to bacterial biomass.\n  - Microscopic cell counting: Uses a hemocytometer or Petroff-Hausser counting chamber for direct cell counts."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPolymerase Chain Reaction (PCR) is an enzymatic nucleic acid amplification technique used to detect and amplify specific DNA sequences; it is not a traditional culture-based cell enumeration method.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Serial dilution and viable plate counting:</b> Directly counts colony-forming units (CFUs) of living cells.\n• <b style=\"color:#2563eb\">Spectrophotometry:</b> Measures turbidity (optical density) proportional to bacterial biomass.\n• <b style=\"color:#2563eb\">Microscopic cell counting:</b> Uses a hemocytometer or Petroff-Hausser counting chamber for direct cell counts."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Microbial growth kinetics depend fundamentally on chemical and physical parameters: oxygen availability dictates respiratory vs fermentative metabolism, substrate/nutrient concentration governs the Monod growth rate, and external pH governs membrane proton gradients and enzymatic catalysis.\n• Why Other Options Are Incorrect:\n  - All listed factors simultaneously influence microbial growth kinetics."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMicrobial growth kinetics depend fundamentally on chemical and physical parameters: oxygen availability dictates respiratory vs fermentative metabolism, substrate/nutrient concentration governs the Monod growth rate, and external pH governs membrane proton gradients and enzymatic catalysis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- All listed factors simultaneously influence microbial growth kinetics."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "Microbial fuel cell"
     ],
     "correct_answer": "Agar deeps",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In an agar deep tube, dissolved oxygen only penetrates the top layer (creating an aerobic zone near the surface), while the bottom of the solid agar remains completely anaerobic, allowing obligate and facultative anaerobes to grow at the bottom.\n• Why Other Options Are Incorrect:\n  - Shake flask culture: Continuously agitated to maximize atmospheric oxygen dissolution for aerobes.\n  - Air-lift bioreactor: Uses continuous high-volume air bubbling to supply oxygen to cultures.\n  - Microbial fuel cell: An electrochemical bio-energy device, not an anaerobic culture technique."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn an agar deep tube, dissolved oxygen only penetrates the top layer (creating an aerobic zone near the surface), while the bottom of the solid agar remains completely anaerobic, allowing obligate and facultative anaerobes to grow at the bottom.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Shake flask culture:</b> Continuously agitated to maximize atmospheric oxygen dissolution for aerobes.\n• <b style=\"color:#2563eb\">Air-lift bioreactor:</b> Uses continuous high-volume air bubbling to supply oxygen to cultures.\n• <b style=\"color:#2563eb\">Microbial fuel cell:</b> An electrochemical bio-energy device, not an anaerobic culture technique."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "60-80°C"
     ],
     "correct_answer": "20-40°C",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mesophilic bacteria grow optimally in the moderate temperature range of 20°C to 40°C (with 37°C being the optimum for mammalian commensals and human pathogens).\n• Why Other Options Are Incorrect:\n  - 0-20°C: Optimum for psychrophiles.\n  - 40-60°C & 60-80°C: Optimal for thermophiles."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMesophilic bacteria grow optimally in the moderate temperature range of 20°C to 40°C (with 37°C being the optimum for mammalian commensals and human pathogens).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">0-20°C:</b> Optimum for psychrophiles.\n• <b style=\"color:#2563eb\">40-60°C & 60-80°C:</b> Optimal for thermophiles."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "Minimal medium"
     ],
     "correct_answer": "Minimal medium",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A chemically defined (synthetic) medium is one in which the exact chemical composition and precise molecular concentration of every single ingredient (glucose, ammonium phosphate, magnesium sulfate, trace salts) is known. A classic bacterial minimal medium is chemically defined.\n• Why Other Options Are Incorrect:\n  - Nutrient broth, LB broth, Tryptic Soy Broth: Complex (undefined) media containing animal peptones, meat extracts, or yeast extracts of unknown, variable molecular composition."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nA chemically defined (synthetic) medium is one in which the exact chemical composition and precise molecular concentration of every single ingredient (glucose, ammonium phosphate, magnesium sulfate, trace salts) is known. A classic bacterial minimal medium is chemically defined.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Nutrient broth, LB broth, Tryptic Soy Broth:</b> Complex (undefined) media containing animal peptones, meat extracts, or yeast extracts of unknown, variable molecular composition."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "Decline phase"
     ],
     "correct_answer": "Decline phase",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official exam key, Option (4) is designated as the answer (textbooks typically describe the four phases as Lag, Log/Exponential, Stationary, and Death/Decline phase).\n• Why Other Options Are Incorrect:\n  - Lag phase: Period of metabolic adaptation with no increase in cell number.\n  - Exponential (Log) phase: Period of rapid balanced growth with constant doubling time.\n  - Stationary phase: Growth rate equals death rate as nutrients deplete and toxic waste accumulates."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs marked in the official exam key, Option (4) is designated as the answer (textbooks typically describe the four phases as Lag, Log/Exponential, Stationary, and Death/Decline phase).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Lag phase:</b> Period of metabolic adaptation with no increase in cell number.\n• <b style=\"color:#2563eb\">Exponential (Log) phase:</b> Period of rapid balanced growth with constant doubling time.\n• <b style=\"color:#2563eb\">Stationary phase:</b> Growth rate equals death rate as nutrients deplete and toxic waste accumulates."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "To determine the growth rate of microorganisms"
     ],
     "correct_answer": "To introduce a small number of microorganisms into the medium",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: An inoculum is a small sample containing living, viable bacterial or fungal cells that is introduced into a sterile nutrient medium to seed and initiate a new microbial culture.\n• Why Other Options Are Incorrect:\n  - Sterilize the medium: Done by heat, chemicals, or filtration.\n  - Provide nutrients: The culture medium itself supplies all carbohydrates, minerals, and nitrogen.\n  - Determine growth rate: An analytical measurement done during incubation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAn inoculum is a small sample containing living, viable bacterial or fungal cells that is introduced into a sterile nutrient medium to seed and initiate a new microbial culture.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Sterilize the medium:</b> Done by heat, chemicals, or filtration.\n• <b style=\"color:#2563eb\">Provide nutrients:</b> The culture medium itself supplies all carbohydrates, minerals, and nitrogen.\n• <b style=\"color:#2563eb\">Determine growth rate:</b> An analytical measurement done during incubation."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Microbial preservation methods vary by duration: 4°C refrigeration maintains working agar slant cultures for weeks; -20°C to -80°C deep freezing in glycerol protects cultures for years; and lyophilization (freeze-drying under vacuum) preserves desiccated bacterial ampoules viability for decades.\n• Why Other Options Are Incorrect:\n  - All listed storage techniques are widely utilized preservation methods in microbiology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMicrobial preservation methods vary by duration: 4°C refrigeration maintains working agar slant cultures for weeks; -20°C to -80°C deep freezing in glycerol protects cultures for years; and lyophilization (freeze-drying under vacuum) preserves desiccated bacterial ampoules viability for decades.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- All listed storage techniques are widely utilized preservation methods in microbiology."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "To measure the growth rate of microorganisms"
     ],
     "correct_answer": "To identify mutants or variants in a microbial population",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Invented by Joshua and Esther Lederberg in 1952, the replica plating technique uses a sterile velvet stamp to transfer an identical spatial pattern of bacterial colonies from a master plate onto multiple selective or differential secondary plates. This allows researchers to screen and identify auxotrophic mutants or antibiotic-resistant variants without prior exposure.\n• Why Other Options Are Incorrect:\n  - Count viable cells: Done by spread/pour plating.\n  - Antibiotic sensitivity: Done by disc diffusion or E-tests.\n  - Measure growth rate: Evaluated by turbidimetry."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nInvented by Joshua and Esther Lederberg in 1952, the replica plating technique uses a sterile velvet stamp to transfer an identical spatial pattern of bacterial colonies from a master plate onto multiple selective or differential secondary plates. This allows researchers to screen and identify auxotrophic mutants or antibiotic-resistant variants without prior exposure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Count viable cells:</b> Done by spread/pour plating.\n• <b style=\"color:#2563eb\">Antibiotic sensitivity:</b> Done by disc diffusion or E-tests.\n• <b style=\"color:#2563eb\">Measure growth rate:</b> Evaluated by turbidimetry."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In aerobic bioreactors and shake flasks, oxygen transfer is achieved through shaking/mechanical agitation (breaking liquid surface tension), sparging (injecting compressed air or pure oxygen as fine bubbles through the liquid), and silicone membrane oxygenation (bubble-free gas diffusion for shear-sensitive cells).\n• Why Other Options Are Incorrect:\n  - Agitation, sparging, and membrane aeration are all industrial oxygenation strategies."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn aerobic bioreactors and shake flasks, oxygen transfer is achieved through shaking/mechanical agitation (breaking liquid surface tension), sparging (injecting compressed air or pure oxygen as fine bubbles through the liquid), and silicone membrane oxygenation (bubble-free gas diffusion for shear-sensitive cells).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Agitation, sparging, and membrane aeration are all industrial oxygenation strategies."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "Shake flask culture"
     ],
     "correct_answer": "Chemostat",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A chemostat is an open continuous culture bioreactor where fresh sterile nutrient medium is continuously pumped in at a fixed dilution rate while spent culture liquid containing cells and metabolic waste is simultaneously removed at the same rate. This maintains cells indefinitely in steady-state exponential growth at a constant nutrient concentration.\n• Why Other Options Are Incorrect:\n  - Batch culture & Shake flask: Closed systems where nutrients decline and cells enter stationary and decline phases.\n  - Plate culture: Static solid medium, closed system."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nA chemostat is an open continuous culture bioreactor where fresh sterile nutrient medium is continuously pumped in at a fixed dilution rate while spent culture liquid containing cells and metabolic waste is simultaneously removed at the same rate. This maintains cells indefinitely in steady-state exponential growth at a constant nutrient concentration.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Batch culture & Shake flask:</b> Closed systems where nutrients decline and cells enter stationary and decline phases.\n• <b style=\"color:#2563eb\">Plate culture:</b> Static solid medium, closed system."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
       "It does not require sterilization."
     ],
     "correct_answer": "It allows for the precise control of nutrient composition.",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In a chemically defined medium, every ingredient's exact molecular identity and concentration is known. This allows researchers to precisely control metabolic pathways, study nutritional requirements, and measure physiological parameters without unknown variables.\n• Why Other Options Are Incorrect:\n  - Growth of wide range of microbes: Complex undefined media (like nutrient broth) support a broader range than defined media.\n  - Complex nutrients: Provided by complex peptones and yeast extracts, not defined media.\n  - Does not require sterilization: All culture media must be sterilized prior to inoculation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn a chemically defined medium, every ingredient's exact molecular identity and concentration is known. This allows researchers to precisely control metabolic pathways, study nutritional requirements, and measure physiological parameters without unknown variables.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Growth of wide range of microbes:</b> Complex undefined media (like nutrient broth) support a broader range than defined media.\n• <b style=\"color:#2563eb\">Complex nutrients:</b> Provided by complex peptones and yeast extracts, not defined media.\n• <b style=\"color:#2563eb\">Does not require sterilization:</b> All culture media must be sterilized prior to inoculation."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
       "Mannitol salt agar"
     ],
     "correct_answer": "Blood agar",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Blood agar is an enriched medium made by supplementing a basal medium (e.g., tryptic soy agar) with 5% sterile defibrinated mammalian (usually sheep or horse) blood. The added red blood cells supply extra growth factors, vitamins, and nutrients required by fastidious bacteria like Streptococcus and Staphylococcus.\n• Why Other Options Are Incorrect:\n  - Sabouraud agar: Selective medium for fungi due to low pH and high dextrose.\n  - MacConkey agar: Selective and differential medium for Gram-negative bacteria.\n  - Mannitol salt agar: Selective (7.5% NaCl) and differential (mannitol) medium for staphylococci."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBlood agar is an enriched medium made by supplementing a basal medium (e.g., tryptic soy agar) with 5% sterile defibrinated mammalian (usually sheep or horse) blood. The added red blood cells supply extra growth factors, vitamins, and nutrients required by fastidious bacteria like Streptococcus and Staphylococcus.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Sabouraud agar:</b> Selective medium for fungi due to low pH and high dextrose.\n• <b style=\"color:#2563eb\">MacConkey agar:</b> Selective and differential medium for Gram-negative bacteria.\n• <b style=\"color:#2563eb\">Mannitol salt agar:</b> Selective (7.5% NaCl) and differential (mannitol) medium for staphylococci."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: All three classical microbiological methods physically separate individual bacterial cells on or within agar so each develops into an isolated, discrete pure colony (clone): the streak plate spreads cells across four quadrants; the pour plate mixes diluted cells into molten agar; and the spread plate spreads liquid dilutions evenly on pre-solidified agar.\n• Why Other Options Are Incorrect:\n  - Streak, pour, and spread plate techniques are all standard isolation methods."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAll three classical microbiological methods physically separate individual bacterial cells on or within agar so each develops into an isolated, discrete pure colony (clone): the streak plate spreads cells across four quadrants; the pour plate mixes diluted cells into molten agar; and the spread plate spreads liquid dilutions evenly on pre-solidified agar.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Streak, pour, and spread plate techniques are all standard isolation methods."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
       "To standardize the culture conditions"
     ],
     "correct_answer": "To provide a reference for comparison",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In any scientific microbiological experiment, a negative or positive control serves as an unmanipulated baseline or known standard to ensure that observed experimental outcomes (e.g., bacterial inhibition or colony growth) are truly due to the tested experimental variable.\n• Why Other Options Are Incorrect:\n  - Ensure sterility: Sterility controls check for contamination, but the overarching purpose of experimental controls is comparative reference.\n  - Increase growth rate: Experimental controls do not alter growth in test samples.\n  - Standardize conditions: Protocols standardize conditions, while controls serve as references."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn any scientific microbiological experiment, a negative or positive control serves as an unmanipulated baseline or known standard to ensure that observed experimental outcomes (e.g., bacterial inhibition or colony growth) are truly due to the tested experimental variable.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Ensure sterility:</b> Sterility controls check for contamination, but the overarching purpose of experimental controls is comparative reference.\n• <b style=\"color:#2563eb\">Increase growth rate:</b> Experimental controls do not alter growth in test samples.\n• <b style=\"color:#2563eb\">Standardize conditions:</b> Protocols standardize conditions, while controls serve as references."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
       "Analyzing DNA sequence"
     ],
     "correct_answer": "Analyzing DNA sequence",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Analyzing a DNA sequence (genomics/sequencing) reveals the genetic code and identity of an organism, but does not measure how fast the population divides over time (growth rate / doubling time).\n• Why Other Options Are Incorrect:\n  - Optical density (OD): Measures biomass accumulation over time spectrophotometrically.\n  - Counting viable cells: Yields growth curves of CFU/mL over time to calculate generation time.\n  - Monitoring pH changes: Fermentation acid production can track dynamic metabolic growth."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAnalyzing a DNA sequence (genomics/sequencing) reveals the genetic code and identity of an organism, but does not measure how fast the population divides over time (growth rate / doubling time).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Optical density (OD):</b> Measures biomass accumulation over time spectrophotometrically.\n• <b style=\"color:#2563eb\">Counting viable cells:</b> Yields growth curves of CFU/mL over time to calculate generation time.\n• <b style=\"color:#2563eb\">Monitoring pH changes:</b> Fermentation acid production can track dynamic metabolic growth."
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Biofilm formation is a coordinated multi-step developmental process: bacteria adhere to a solid surface (surface attachment), respond to stress or nutrient gradients (nutrient limitation), and communicate via cell-density-dependent autoinducer chemical signals (quorum sensing) to trigger extracellular polymeric substance (EPS) matrix production.\n• Why Other Options Are Incorrect:\n  - Surface attachment, quorum sensing, and environmental nutrient cues all drive biofilm maturation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBiofilm formation is a coordinated multi-step developmental process: bacteria adhere to a solid surface (surface attachment), respond to stress or nutrient gradients (nutrient limitation), and communicate via cell-density-dependent autoinducer chemical signals (quorum sensing) to trigger extracellular polymeric substance (EPS) matrix production.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Surface attachment, quorum sensing, and environmental nutrient cues all drive biofilm maturation."
   },
   {
     "id": 27,
@@ -321,6 +321,6 @@
       "Microbial fuel cell"
     ],
     "correct_answer": "Agar deeps",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Agar deeps create a natural vertical oxygen gradient in a test tube. Oxygen diffuses only into the top few millimeters, leaving the bottom of the solid agar column thoroughly oxygen-depleted and anaerobic, supporting the growth of strict anaerobic bacteria.\n• Why Other Options Are Incorrect:\n  - Shake flask culture & Air-lift bioreactor: Designed specifically to aerate cultures with oxygen.\n  - Microbial fuel cell: Bio-electrochemical device converting chemical energy into electrical energy."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAgar deeps create a natural vertical oxygen gradient in a test tube. Oxygen diffuses only into the top few millimeters, leaving the bottom of the solid agar column thoroughly oxygen-depleted and anaerobic, supporting the growth of strict anaerobic bacteria.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Shake flask culture & Air-lift bioreactor:</b> Designed specifically to aerate cultures with oxygen.\n• <b style=\"color:#2563eb\">Microbial fuel cell:</b> Bio-electrochemical device converting chemical energy into electrical energy."
   }
 ]

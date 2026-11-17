@@ -47,3 +47,5 @@ android/build/
 *.apk
 *.bin
 *.zip
+scratch/
+*.log

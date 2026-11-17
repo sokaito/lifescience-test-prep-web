@@ -9,7 +9,7 @@
       "45 minutes"
     ],
     "correct_answer": "60 minutes",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In hot air oven dry heat sterilization, high temperatures are required to denature proteins and destroy bacterial spores by oxidative damage. The standard recommended holding time at 160°C (320°F) is 60 minutes (or 120 minutes depending on pharmacopeial load standards; at 170°C it is 60 minutes, and at 180°C 30 minutes; here 60 minutes is the designated choice).\n• Why Other Options Are Incorrect:\n  - 5 minutes: Far too brief; dry heat penetrates glassware slowly, leaving bacterial endospores fully viable.\n  - 15 minutes: Typical for moist heat (autoclaving at 121°C), but completely inadequate for dry heat at 160°C.\n  - 45 minutes: Insufficient safety margin for complete sporicidal destruction in dry heat."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn hot air oven dry heat sterilization, high temperatures are required to denature proteins and destroy bacterial spores by oxidative damage. The standard recommended holding time at 160°C (320°F) is 60 minutes (or 120 minutes depending on pharmacopeial load standards; at 170°C it is 60 minutes, and at 180°C 30 minutes; here 60 minutes is the designated choice).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">5 minutes:</b> Far too brief; dry heat penetrates glassware slowly, leaving bacterial endospores fully viable.\n• <b style=\"color:#2563eb\">15 minutes:</b> Typical for moist heat (autoclaving at 121°C), but completely inadequate for dry heat at 160°C.\n• <b style=\"color:#2563eb\">45 minutes:</b> Insufficient safety margin for complete sporicidal destruction in dry heat."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Autoclave"
     ],
     "correct_answer": "Infrared rays",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official answer key, Option (3) Infrared rays is selected (in rapid industrial sterilization tunnels, infrared radiation is used for dry thermal surface treatment without steam). Note that in general biophysics, ionizing radiation (gamma rays and high-energy electron beams) that sterilizes heat-sensitive plastics without raising temperature is termed 'cold sterilization'.\n• Why Other Options Are Incorrect:\n  - Gamma rays: Classic ionizing radiation used commercially for sterilizing disposable plastic syringes and catheters without heat.\n  - X-rays: Penetrating ionizing radiation, also capable of non-thermal sterilization.\n  - Autoclave: High-temperature steam sterilization (121°C), the opposite of cold sterilization."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs marked in the official answer key, Option (3) Infrared rays is selected (in rapid industrial sterilization tunnels, infrared radiation is used for dry thermal surface treatment without steam). Note that in general biophysics, ionizing radiation (gamma rays and high-energy electron beams) that sterilizes heat-sensitive plastics without raising temperature is termed 'cold sterilization'.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gamma rays:</b> Classic ionizing radiation used commercially for sterilizing disposable plastic syringes and catheters without heat.\n• <b style=\"color:#2563eb\">X-rays:</b> Penetrating ionizing radiation, also capable of non-thermal sterilization.\n• <b style=\"color:#2563eb\">Autoclave:</b> High-temperature steam sterilization (121°C), the opposite of cold sterilization."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Assimilator"
     ],
     "correct_answer": "Bioreactor",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A bioreactor (or fermenter) is a specialized, closed, engineered vessel that provides a precisely controlled physiological environment (temperature, dissolved oxygen, pH, agitation, nutrient feed) for cultivating large volumes of living cells (bacteria, yeast, mammalian cells) to produce biological products such as antibiotics, enzymes, vaccines, or recombinant proteins.\n• Why Other Options Are Incorrect:\n  - Thermocycler: A machine used in molecular biology to amplify DNA fragments through Polymerase Chain Reaction (PCR) by rapid temperature cycling.\n  - Agitator: An internal mechanical impeller/shaft component inside a bioreactor that mixes the culture.\n  - Assimilator: A physiological or theoretical term, not an industrial cell culture vessel."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nA bioreactor (or fermenter) is a specialized, closed, engineered vessel that provides a precisely controlled physiological environment (temperature, dissolved oxygen, pH, agitation, nutrient feed) for cultivating large volumes of living cells (bacteria, yeast, mammalian cells) to produce biological products such as antibiotics, enzymes, vaccines, or recombinant proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Thermocycler:</b> A machine used in molecular biology to amplify DNA fragments through Polymerase Chain Reaction (PCR) by rapid temperature cycling.\n• <b style=\"color:#2563eb\">Agitator:</b> An internal mechanical impeller/shaft component inside a bioreactor that mixes the culture.\n• <b style=\"color:#2563eb\">Assimilator:</b> A physiological or theoretical term, not an industrial cell culture vessel."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "Brandy"
     ],
     "correct_answer": "Wine",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Alcoholic beverages are categorized into undistilled (fermented directly from fruit juice or grain mash, such as wine and beer, typically with 4–15% alcohol) and distilled (spirits produced by distilling the fermented wash to concentrate alcohol to 40–50% ABV). Wine is made solely by yeast fermentation of grape must without distillation.\n• Why Other Options Are Incorrect:\n  - Whisky: Distilled spirit prepared from fermented grain mash (barley, rye, corn) and aged in oak barrels.\n  - Rum: Distilled spirit made from fermented sugarcane molasses or sugarcane juice.\n  - Brandy: Distilled spirit produced by distilling wine."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAlcoholic beverages are categorized into undistilled (fermented directly from fruit juice or grain mash, such as wine and beer, typically with 4–15% alcohol) and distilled (spirits produced by distilling the fermented wash to concentrate alcohol to 40–50% ABV). Wine is made solely by yeast fermentation of grape must without distillation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Whisky:</b> Distilled spirit prepared from fermented grain mash (barley, rye, corn) and aged in oak barrels.\n• <b style=\"color:#2563eb\">Rum:</b> Distilled spirit made from fermented sugarcane molasses or sugarcane juice.\n• <b style=\"color:#2563eb\">Brandy:</b> Distilled spirit produced by distilling wine."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "Tartaric acid"
     ],
     "correct_answer": "Acetic acid",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Vinegar is an aqueous solution containing typically 4% to 8% acetic acid (CH3COOH) by volume. It is produced by a two-stage microbial process: yeast first ferments sugars into ethanol, followed by aerobic oxidation of ethanol into acetic acid by acetic acid bacteria (Acetobacter aceti).\n• Why Other Options Are Incorrect:\n  - Oxalic acid: A dicarboxylic acid found in spinach and rhubarb; toxic in concentrated amounts.\n  - Citric acid: A tricarboxylic acid found in citrus fruits and industrially fermented by Aspergillus niger.\n  - Tartaric acid: An organic acid found naturally in grapes and cream of tartar."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nVinegar is an aqueous solution containing typically 4% to 8% acetic acid (CH3COOH) by volume. It is produced by a two-stage microbial process: yeast first ferments sugars into ethanol, followed by aerobic oxidation of ethanol into acetic acid by acetic acid bacteria (Acetobacter aceti).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Oxalic acid:</b> A dicarboxylic acid found in spinach and rhubarb; toxic in concentrated amounts.\n• <b style=\"color:#2563eb\">Citric acid:</b> A tricarboxylic acid found in citrus fruits and industrially fermented by Aspergillus niger.\n• <b style=\"color:#2563eb\">Tartaric acid:</b> An organic acid found naturally in grapes and cream of tartar."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "Fermentation"
     ],
     "correct_answer": "Tyndallization",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Tyndallization (fractional sterilization, developed by John Tyndall) involves heating media or liquids to 100°C for 30 minutes on three consecutive days with intervening incubation at 37°C. Day 1 heat kills vegetative cells; between Day 1 and 2, surviving endospores germinate into sensitive vegetative cells; Day 2 heat kills the newly germinated cells; Day 3 heating provides final assurance of sterility.\n• Why Other Options Are Incorrect:\n  - Pasteurization: Mild heat treatment (e.g., 63°C for 30 min or 72°C for 15 sec) to kill vegetative pathogens without sterilizing or destroying endospores.\n  - Inspissation: Solidification of protein-rich culture media (like Lowenstein-Jensen or Loeffler's serum) at 80–85°C for 30 min.\n  - Fermentation: Anaerobic microbial conversion of sugars into acids, gases, or alcohol."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nTyndallization (fractional sterilization, developed by John Tyndall) involves heating media or liquids to 100°C for 30 minutes on three consecutive days with intervening incubation at 37°C. Day 1 heat kills vegetative cells; between Day 1 and 2, surviving endospores germinate into sensitive vegetative cells; Day 2 heat kills the newly germinated cells; Day 3 heating provides final assurance of sterility.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pasteurization:</b> Mild heat treatment (e.g., 63°C for 30 min or 72°C for 15 sec) to kill vegetative pathogens without sterilizing or destroying endospores.\n• <b style=\"color:#2563eb\">Inspissation:</b> Solidification of protein-rich culture media (like Lowenstein-Jensen or Loeffler's serum) at 80–85°C for 30 min.\n• <b style=\"color:#2563eb\">Fermentation:</b> Anaerobic microbial conversion of sugars into acids, gases, or alcohol."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
       "Expression"
     ],
     "correct_answer": "Preservation",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Downstream processing encompasses all unit operations that follow biotransformation in the fermenter, focused on product recovery, cell separation, concentration, and chromatography purification. Expression (the transcriptional and translational synthesis of the protein in the host organism during upstream bioprocess) and cell culture belong to upstream processing. In the book key, Preservation is marked as the option outside downstream isolation/purification stages.\n• Why Other Options Are Incorrect:\n  - Separation: Core initial downstream stage (filtration/centrifugation) to remove biomass from liquid broth.\n  - Purification: Core downstream stage (chromatography, crystallization) to reach therapeutic purity.\n  - Expression: Upstream genetic and fermentation stage, although book answer key identifies preservation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nDownstream processing encompasses all unit operations that follow biotransformation in the fermenter, focused on product recovery, cell separation, concentration, and chromatography purification. Expression (the transcriptional and translational synthesis of the protein in the host organism during upstream bioprocess) and cell culture belong to upstream processing. In the book key, Preservation is marked as the option outside downstream isolation/purification stages.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Separation:</b> Core initial downstream stage (filtration/centrifugation) to remove biomass from liquid broth.\n• <b style=\"color:#2563eb\">Purification:</b> Core downstream stage (chromatography, crystallization) to reach therapeutic purity.\n• <b style=\"color:#2563eb\">Expression:</b> Upstream genetic and fermentation stage, although book answer key identifies preservation."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
       "Globulin"
     ],
     "correct_answer": "Casein",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Casein is the predominant phosphoprotein family in bovine milk, accounting for approximately 80% of total milk protein. Casein exists as stable colloidal micelles suspended in water; when milk is acidified (by lactic acid bacteria) to its isoelectric point (pH 4.6), casein precipitates to form curd.\n• Why Other Options Are Incorrect:\n  - Albumin / Lactalbumin: Whey proteins representing ~3–5% of milk protein, soluble in acid.\n  - Globulin (Lactoglobulin): Another major whey protein component, not the principal milk protein."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCasein is the predominant phosphoprotein family in bovine milk, accounting for approximately 80% of total milk protein. Casein exists as stable colloidal micelles suspended in water; when milk is acidified (by lactic acid bacteria) to its isoelectric point (pH 4.6), casein precipitates to form curd.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Albumin / Lactalbumin:</b> Whey proteins representing ~3–5% of milk protein, soluble in acid.\n• <b style=\"color:#2563eb\">Globulin (Lactoglobulin):</b> Another major whey protein component, not the principal milk protein."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
       "Vitamin D"
     ],
     "correct_answer": "Vitamin B12",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: During the fermentation of milk into curd (yogurt) by Lactic Acid Bacteria (LAB) such as Lactobacillus and Streptococcus species, the metabolic activity of the microbes synthesizes several B-complex vitamins, significantly enhancing the concentration of Cobalamin (Vitamin B12) and improving curd's nutritional value.\n• Why Other Options Are Incorrect:\n  - Vitamin C: Ascorbic acid is found in negligible amounts in milk and curd.\n  - Vitamin E: Fat-soluble antioxidant vitamin not synthesized by lactic acid bacteria.\n  - Vitamin D: Fat-soluble secosteroid often added via synthetic fortification, not synthesized by LAB."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nDuring the fermentation of milk into curd (yogurt) by Lactic Acid Bacteria (LAB) such as Lactobacillus and Streptococcus species, the metabolic activity of the microbes synthesizes several B-complex vitamins, significantly enhancing the concentration of Cobalamin (Vitamin B12) and improving curd's nutritional value.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Vitamin C:</b> Ascorbic acid is found in negligible amounts in milk and curd.\n• <b style=\"color:#2563eb\">Vitamin E:</b> Fat-soluble antioxidant vitamin not synthesized by lactic acid bacteria.\n• <b style=\"color:#2563eb\">Vitamin D:</b> Fat-soluble secosteroid often added via synthetic fortification, not synthesized by LAB."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
       "Concentration"
     ],
     "correct_answer": "Fermentation",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Lactic acid fermentation carried out by naturally occurring lactic acid bacteria (e.g., Lactococcus lactis, Lactobacillus acidophilus) converts milk sugar (lactose) into lactic acid under ambient temperatures. The accumulation of lactic acid drops the pH, causing casein proteins to coagulate and solidify into curd.\n• Why Other Options Are Incorrect:\n  - Oxidation reaction: A general chemical reaction involving loss of electrons, not the specific biological curdling process.\n  - Reduction reaction: Involves gain of electrons.\n  - Concentration: Physical removal or evaporation of water, not the biochemical fermentation mechanism."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLactic acid fermentation carried out by naturally occurring lactic acid bacteria (e.g., Lactococcus lactis, Lactobacillus acidophilus) converts milk sugar (lactose) into lactic acid under ambient temperatures. The accumulation of lactic acid drops the pH, causing casein proteins to coagulate and solidify into curd.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Oxidation reaction:</b> A general chemical reaction involving loss of electrons, not the specific biological curdling process.\n• <b style=\"color:#2563eb\">Reduction reaction:</b> Involves gain of electrons.\n• <b style=\"color:#2563eb\">Concentration:</b> Physical removal or evaporation of water, not the biochemical fermentation mechanism."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "A fungus that releases a lot of gas during its metabolic activities"
     ],
     "correct_answer": "A bacterium producing a large amount of carbon dioxide",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The characteristic large holes ('eyes') in Swiss cheese (Emmental cheese) are produced by the bacterium Propionibacterium freudenreichii (subsp. shermanii). During secondary fermentation, it ferments lactate into propionic acid, acetic acid, and massive amounts of carbon dioxide (CO2) gas, which get trapped in the ripening curd and create large bubbles/holes.\n• Why Other Options Are Incorrect:\n  - A machine: Mechanical coring or punching is not used; the holes are entirely biological.\n  - A bacterium that produces methane gas: Methanogens produce methane in anaerobic digesters/rumen, not in edible cheeses.\n  - A fungus: Fungi like Penicillium roqueforti are used in blue cheese (Roquefort) for vein flavoring, not Swiss cheese eye formation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe characteristic large holes ('eyes') in Swiss cheese (Emmental cheese) are produced by the bacterium Propionibacterium freudenreichii (subsp. shermanii). During secondary fermentation, it ferments lactate into propionic acid, acetic acid, and massive amounts of carbon dioxide (CO2) gas, which get trapped in the ripening curd and create large bubbles/holes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">A machine:</b> Mechanical coring or punching is not used; the holes are entirely biological.\n• <b style=\"color:#2563eb\">A bacterium that produces methane gas:</b> Methanogens produce methane in anaerobic digesters/rumen, not in edible cheeses.\n• <b style=\"color:#2563eb\">A fungus:</b> Fungi like Penicillium roqueforti are used in blue cheese (Roquefort) for vein flavoring, not Swiss cheese eye formation."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "Lactobacillus acidophilus"
     ],
     "correct_answer": "Streptococcus thermophilus",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Standard traditional yogurt manufacture universally relies on a symbiotic starter culture pairing Streptococcus thermophilus and Lactobacillus delbrueckii subsp. bulgaricus. S. thermophilus rapidly produces acid and creates anaerobic conditions, stimulating Lactobacillus growth to produce aroma compounds like acetaldehyde.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Enteric indicator bacterium, never used as a dairy culture.\n  - Saccharomyces cerevisiae: Brewer's and baker's yeast used in alcohol and bread, not yogurt.\n  - Lactobacillus acidophilus: An important probiotic adjunct cultured milk organism, but S. thermophilus is the classic primary yogurt co-culture."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nStandard traditional yogurt manufacture universally relies on a symbiotic starter culture pairing Streptococcus thermophilus and Lactobacillus delbrueckii subsp. bulgaricus. S. thermophilus rapidly produces acid and creates anaerobic conditions, stimulating Lactobacillus growth to produce aroma compounds like acetaldehyde.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric indicator bacterium, never used as a dairy culture.\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Brewer's and baker's yeast used in alcohol and bread, not yogurt.\n• <b style=\"color:#2563eb\">Lactobacillus acidophilus:</b> An important probiotic adjunct cultured milk organism, but S. thermophilus is the classic primary yogurt co-culture."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "Prevent the growth of spoilage microorganisms"
     ],
     "correct_answer": "Produce enzymes that aid in cheese ripening",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the answer key, starter cultures (and non-starter lactic acid bacteria) release intracellular proteases, peptidases, and esterases/lipases upon autolysis during aging that break down caseins and fats into flavorful peptides, amino acids, and volatile aromatics that drive the cheese ripening process.\n• Why Other Options Are Incorrect:\n  - Enhance the shelf life: A beneficial outcome of low pH, but enzyme synthesis and ripening flavor generation is the primary biochemical role.\n  - Add color: Color (e.g., yellow-orange in cheddar) is added by natural vegetable dyes like annatto.\n  - Prevent growth of spoilage: Acid production inhibits pathogens, but enzymatic flavor development defines ripening."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs marked in the answer key, starter cultures (and non-starter lactic acid bacteria) release intracellular proteases, peptidases, and esterases/lipases upon autolysis during aging that break down caseins and fats into flavorful peptides, amino acids, and volatile aromatics that drive the cheese ripening process.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Enhance the shelf life:</b> A beneficial outcome of low pH, but enzyme synthesis and ripening flavor generation is the primary biochemical role.\n• <b style=\"color:#2563eb\">Add color:</b> Color (e.g., yellow-orange in cheddar) is added by natural vegetable dyes like annatto.\n• <b style=\"color:#2563eb\">Prevent growth of spoilage:</b> Acid production inhibits pathogens, but enzymatic flavor development defines ripening."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "To increase the protein content in milk"
     ],
     "correct_answer": "To reduce the number of microorganisms in milk",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pasteurization is a heat treatment process (e.g., 72°C for 15 seconds for HTST) designed specifically to destroy all vegetative pathogenic microorganisms (such as Mycobacterium bovis, Coxiella burnetii, Salmonella, and Listeria) and substantially reduce overall spoilage microbial load without altering milk's chemical and sensory properties.\n• Why Other Options Are Incorrect:\n  - To remove fat: Fat removal is performed by mechanical cream separators (centrifugation).\n  - To enhance the flavor: Pasteurization is carefully calibrated to minimize cooked flavor.\n  - To increase protein content: Heat cannot synthesize or increase protein concentration."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPasteurization is a heat treatment process (e.g., 72°C for 15 seconds for HTST) designed specifically to destroy all vegetative pathogenic microorganisms (such as Mycobacterium bovis, Coxiella burnetii, Salmonella, and Listeria) and substantially reduce overall spoilage microbial load without altering milk's chemical and sensory properties.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To remove fat:</b> Fat removal is performed by mechanical cream separators (centrifugation).\n• <b style=\"color:#2563eb\">To enhance the flavor:</b> Pasteurization is carefully calibrated to minimize cooked flavor.\n• <b style=\"color:#2563eb\">To increase protein content:</b> Heat cannot synthesize or increase protein concentration."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "Pseudomonas aeruginosa"
     ],
     "correct_answer": "Saccharomyces cerevisiae",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Brewing of beer relies on the fermentation of malted barley wort by yeasts of the genus Saccharomyces. Saccharomyces cerevisiae (top-fermenting ale yeast) and Saccharomyces pastorianus (bottom-fermenting lager yeast) ferment maltose and glucose into ethanol and carbon dioxide.\n• Why Other Options Are Incorrect:\n  - Aspergillus niger: Filamentous mold used industrially to produce citric acid and gluconic acid.\n  - Lactobacillus casei: Lactic acid bacterium used in dairy and probiotics; in beer it is considered a spoilage contaminant causing souring.\n  - Pseudomonas aeruginosa: Opportunistic environmental and clinical pathogen."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBrewing of beer relies on the fermentation of malted barley wort by yeasts of the genus Saccharomyces. Saccharomyces cerevisiae (top-fermenting ale yeast) and Saccharomyces pastorianus (bottom-fermenting lager yeast) ferment maltose and glucose into ethanol and carbon dioxide.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Aspergillus niger:</b> Filamentous mold used industrially to produce citric acid and gluconic acid.\n• <b style=\"color:#2563eb\">Lactobacillus casei:</b> Lactic acid bacterium used in dairy and probiotics; in beer it is considered a spoilage contaminant causing souring.\n• <b style=\"color:#2563eb\">Pseudomonas aeruginosa:</b> Opportunistic environmental and clinical pathogen."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "Escherichia coli"
     ],
     "correct_answer": "Saccharomyces cerevisiae",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Baker's yeast, Saccharomyces cerevisiae, is the universal leavening agent in breadmaking. It metabolizes fermentable dough sugars via glycolysis, producing carbon dioxide (CO2) gas bubbles that become trapped in the gluten network, causing dough expansion ('rising'), and ethanol which evaporates during baking.\n• Why Other Options Are Incorrect:\n  - Streptococcus thermophilus: Dairy culture used in yogurt making.\n  - Rhizopus stolonifer: Black bread mold, a destructive food spoilage fungus.\n  - Escherichia coli: Enteric bacterium not used in food baking."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBaker's yeast, Saccharomyces cerevisiae, is the universal leavening agent in breadmaking. It metabolizes fermentable dough sugars via glycolysis, producing carbon dioxide (CO2) gas bubbles that become trapped in the gluten network, causing dough expansion ('rising'), and ethanol which evaporates during baking.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Streptococcus thermophilus:</b> Dairy culture used in yogurt making.\n• <b style=\"color:#2563eb\">Rhizopus stolonifer:</b> Black bread mold, a destructive food spoilage fungus.\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric bacterium not used in food baking."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "Pseudomonas aeruginosa"
     ],
     "correct_answer": "Aspergillus niger",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Commercial industrial citric acid production is almost exclusively conducted by aerated submerged fermentation using the filamentous fungus Aspergillus niger grown on molasses or glucose media under iron- and manganese-limited conditions that block the Krebs cycle enzyme aconitase, leading to massive extracellular overflow of citric acid.\n• Why Other Options Are Incorrect:\n  - Lactobacillus acidophilus: Produces lactic acid, not citric acid.\n  - Escherichia coli: Enteric bacterium; standard strains do not overproduce citric acid.\n  - Pseudomonas aeruginosa: Opportunistic pathogen; produces pyocyanin and rhamnolipids."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCommercial industrial citric acid production is almost exclusively conducted by aerated submerged fermentation using the filamentous fungus Aspergillus niger grown on molasses or glucose media under iron- and manganese-limited conditions that block the Krebs cycle enzyme aconitase, leading to massive extracellular overflow of citric acid.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Lactobacillus acidophilus:</b> Produces lactic acid, not citric acid.\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric bacterium; standard strains do not overproduce citric acid.\n• <b style=\"color:#2563eb\">Pseudomonas aeruginosa:</b> Opportunistic pathogen; produces pyocyanin and rhamnolipids."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "To enhance the flavor of food"
     ],
     "correct_answer": "To kill or inactivate microorganisms",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Canning (thermal sterilization in hermetically sealed containers) aims to apply commercial sterility (such as the 12D cook targeting Clostridium botulinum endospores) to kill or inactivate all pathogenic and spoilage microorganisms and their heat-resistant spores, ensuring food stays safe at ambient temperatures for years.\n• Why Other Options Are Incorrect:\n  - To reduce the acidity: Food acidity is either preserved or intentionally enhanced (acidified canning) to inhibit spore germination.\n  - To remove moisture: Moisture removal is the mechanism of drying/dehydration, not canning.\n  - To enhance flavor: Canning often causes mild thermal degradation of texture and flavor compared to fresh food."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCanning (thermal sterilization in hermetically sealed containers) aims to apply commercial sterility (such as the 12D cook targeting Clostridium botulinum endospores) to kill or inactivate all pathogenic and spoilage microorganisms and their heat-resistant spores, ensuring food stays safe at ambient temperatures for years.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To reduce the acidity:</b> Food acidity is either preserved or intentionally enhanced (acidified canning) to inhibit spore germination.\n• <b style=\"color:#2563eb\">To remove moisture:</b> Moisture removal is the mechanism of drying/dehydration, not canning.\n• <b style=\"color:#2563eb\">To enhance flavor:</b> Canning often causes mild thermal degradation of texture and flavor compared to fresh food."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "Pseudomonas aeruginosa"
     ],
     "correct_answer": "Clostridium botulinum",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Clostridium botulinum is an obligate anaerobic, endospore-forming, Gram-positive rod capable of surviving inadequate canning heat processes. In the low-oxygen, low-acid sealed can, spores germinate, produce gas (causing can bulging/swelling), and synthesize the deadliest biological neurotoxin known (botulinum toxin).\n• Why Other Options Are Incorrect:\n  - Saccharomyces cerevisiae: An aerobic/facultative yeast easily destroyed by low heat pasteurization.\n  - Lactobacillus acidophilus: Microaerophilic lactic acid bacterium easily killed by canning temperatures.\n  - Pseudomonas aeruginosa: An obligate aerobe with sensitive vegetative cells, unable to grow in sealed vacuum-canned food."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nClostridium botulinum is an obligate anaerobic, endospore-forming, Gram-positive rod capable of surviving inadequate canning heat processes. In the low-oxygen, low-acid sealed can, spores germinate, produce gas (causing can bulging/swelling), and synthesize the deadliest biological neurotoxin known (botulinum toxin).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> An aerobic/facultative yeast easily destroyed by low heat pasteurization.\n• <b style=\"color:#2563eb\">Lactobacillus acidophilus:</b> Microaerophilic lactic acid bacterium easily killed by canning temperatures.\n• <b style=\"color:#2563eb\">Pseudomonas aeruginosa:</b> An obligate aerobe with sensitive vegetative cells, unable to grow in sealed vacuum-canned food."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "Acetobacter aceti"
     ],
     "correct_answer": "Acetobacter aceti",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Acetobacter aceti is an obligate aerobic Gram-negative bacterium possessing membrane-bound alcohol dehydrogenase and aldehyde dehydrogenase enzymes that catalyze the two-step oxidative conversion of ethanol directly into acetic acid (vinegar) in the presence of copious oxygen.\n• Why Other Options Are Incorrect:\n  - Aspergillus niger: Produces citric acid in submerged fungal fermentation.\n  - Lactobacillus casei: Produces lactic acid in fermented dairy products.\n  - Saccharomyces cerevisiae: Produces ethanol (the substrate for vinegar), but Acetobacter converts ethanol to acetic acid."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAcetobacter aceti is an obligate aerobic Gram-negative bacterium possessing membrane-bound alcohol dehydrogenase and aldehyde dehydrogenase enzymes that catalyze the two-step oxidative conversion of ethanol directly into acetic acid (vinegar) in the presence of copious oxygen.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Aspergillus niger:</b> Produces citric acid in submerged fungal fermentation.\n• <b style=\"color:#2563eb\">Lactobacillus casei:</b> Produces lactic acid in fermented dairy products.\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Produces ethanol (the substrate for vinegar), but Acetobacter converts ethanol to acetic acid."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
       "To increase the nutrient content of food products"
     ],
     "correct_answer": "To control the growth of microorganisms",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Antimicrobial agents and preservatives (such as sodium benzoate, potassium sorbate, nitrates, and nisin) are added to foods specifically to inhibit the growth of spoilage microorganisms and foodborne pathogens, extending shelf life and preventing foodborne illness.\n• Why Other Options Are Incorrect:\n  - To improve the taste: Accomplished by flavoring agents, spices, and sweeteners.\n  - To enhance color: Accomplished by food colorants and dyes.\n  - To increase nutrient content: Accomplished through food fortification (vitamins and minerals)."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAntimicrobial agents and preservatives (such as sodium benzoate, potassium sorbate, nitrates, and nisin) are added to foods specifically to inhibit the growth of spoilage microorganisms and foodborne pathogens, extending shelf life and preventing foodborne illness.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To improve the taste:</b> Accomplished by flavoring agents, spices, and sweeteners.\n• <b style=\"color:#2563eb\">To enhance color:</b> Accomplished by food colorants and dyes.\n• <b style=\"color:#2563eb\">To increase nutrient content:</b> Accomplished through food fortification (vitamins and minerals)."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
       "Escherichia coli"
     ],
     "correct_answer": "Penicillium notatum",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Penicillin, the first widely used beta-lactam antibiotic, was originally discovered by Alexander Fleming in 1928 as an antibacterial secretion from colonies of the mold Penicillium notatum (now classified within Penicillium chrysogenum), which inhibits bacterial cell wall peptidoglycan transpeptidases.\n• Why Other Options Are Incorrect:\n  - Streptococcus thermophilus: A lactic acid bacterium used in yogurt production.\n  - Rhizopus stolonifer: Bread mold used in steroid bioconversion and fumaric acid production.\n  - Escherichia coli: Enteric bacterium used as an engineered host for insulin, not native penicillin."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPenicillin, the first widely used beta-lactam antibiotic, was originally discovered by Alexander Fleming in 1928 as an antibacterial secretion from colonies of the mold Penicillium notatum (now classified within Penicillium chrysogenum), which inhibits bacterial cell wall peptidoglycan transpeptidases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Streptococcus thermophilus:</b> A lactic acid bacterium used in yogurt production.\n• <b style=\"color:#2563eb\">Rhizopus stolonifer:</b> Bread mold used in steroid bioconversion and fumaric acid production.\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric bacterium used as an engineered host for insulin, not native penicillin."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
       "To confer health benefits on the consumer"
     ],
     "correct_answer": "To confer health benefits on the consumer",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: By FAO/WHO scientific consensus, probiotics are defined as 'live microorganisms that, when administered in adequate amounts, confer a health benefit on the host.' They improve gut barrier function, modulate immune responses, and suppress pathogenic intestinal colonization.\n• Why Other Options Are Incorrect:\n  - To increase shelf life: Function of food preservatives and antimicrobial additives.\n  - To enhance flavor: Function of flavoring agents and seasoning.\n  - To improve texture: Function of stabilizers, emulsifiers, and hydrocolloids."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBy FAO/WHO scientific consensus, probiotics are defined as 'live microorganisms that, when administered in adequate amounts, confer a health benefit on the host.' They improve gut barrier function, modulate immune responses, and suppress pathogenic intestinal colonization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To increase shelf life:</b> Function of food preservatives and antimicrobial additives.\n• <b style=\"color:#2563eb\">To enhance flavor:</b> Function of flavoring agents and seasoning.\n• <b style=\"color:#2563eb\">To improve texture:</b> Function of stabilizers, emulsifiers, and hydrocolloids."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
       "Theobroma cacao"
     ],
     "correct_answer": "Theobroma cacao",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Theobroma cacao is the cacao tree whose seed pods yield cocoa beans used to make chocolate. While microbial fermentation (by yeasts like S. cerevisiae and lactic/acetic acid bacteria) of the beans' pulp is essential to develop chocolate flavor precursors, the question designates Theobroma cacao as the fundamental biological botanical source of chocolate.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Enteric bacterium, not involved in cocoa processing.\n  - Saccharomyces cerevisiae: Yeast that ferments the mucilaginous pulp, but cacao bean itself comes from Theobroma cacao.\n  - Penicillium notatum: Penicillin-producing mold, not part of chocolate fermentation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nTheobroma cacao is the cacao tree whose seed pods yield cocoa beans used to make chocolate. While microbial fermentation (by yeasts like S. cerevisiae and lactic/acetic acid bacteria) of the beans' pulp is essential to develop chocolate flavor precursors, the question designates Theobroma cacao as the fundamental biological botanical source of chocolate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric bacterium, not involved in cocoa processing.\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Yeast that ferments the mucilaginous pulp, but cacao bean itself comes from Theobroma cacao.\n• <b style=\"color:#2563eb\">Penicillium notatum:</b> Penicillin-producing mold, not part of chocolate fermentation."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
       "To enhance the visual appeal of food packaging"
     ],
     "correct_answer": "To prevent the growth of microorganisms in packaged food",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Aseptic packaging involves separately sterilizing the food product (e.g., via ultra-high temperature/UHT) and the packaging material, and then filling and hermetically sealing the sterile food into the sterile container under a sterile laminar environment, preventing microbial contamination and growth without requiring refrigeration.\n• Why Other Options Are Incorrect:\n  - To remove oxygen: Function of vacuum packaging or nitrogen flush packaging.\n  - To reduce moisture: Function of desiccation or silica gel packets.\n  - To enhance visual appeal: Function of graphic design and labeling."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAseptic packaging involves separately sterilizing the food product (e.g., via ultra-high temperature/UHT) and the packaging material, and then filling and hermetically sealing the sterile food into the sterile container under a sterile laminar environment, preventing microbial contamination and growth without requiring refrigeration.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To remove oxygen:</b> Function of vacuum packaging or nitrogen flush packaging.\n• <b style=\"color:#2563eb\">To reduce moisture:</b> Function of desiccation or silica gel packets.\n• <b style=\"color:#2563eb\">To enhance visual appeal:</b> Function of graphic design and labeling."
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
       "Lactobacillus plantarum"
     ],
     "correct_answer": "Lactobacillus plantarum",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Sauerkraut is produced by the spontaneous lactic acid fermentation of shredded, salted cabbage. The ecological succession is initiated by Leuconostoc mesenteroides and completed by Lactobacillus plantarum, which produces high concentrations of lactic acid (lowering pH to ~3.5), conferring the tart flavor and preserving the cabbage.\n• Why Other Options Are Incorrect:\n  - Lactobacillus acidophilus: Primarily a human intestinal and dairy probiotic organism.\n  - Rhizopus stolonifer: Zygomycete mold; causes rot, not lactic vegetable fermentation.\n  - Saccharomyces cerevisiae: Yeast producing ethanol, not the desired lactic acid of sauerkraut."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSauerkraut is produced by the spontaneous lactic acid fermentation of shredded, salted cabbage. The ecological succession is initiated by Leuconostoc mesenteroides and completed by Lactobacillus plantarum, which produces high concentrations of lactic acid (lowering pH to ~3.5), conferring the tart flavor and preserving the cabbage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Lactobacillus acidophilus:</b> Primarily a human intestinal and dairy probiotic organism.\n• <b style=\"color:#2563eb\">Rhizopus stolonifer:</b> Zygomycete mold; causes rot, not lactic vegetable fermentation.\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Yeast producing ethanol, not the desired lactic acid of sauerkraut."
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
       "To inhibit the growth of Clostridium botulinum"
     ],
     "correct_answer": "To inhibit the growth of Clostridium botulinum",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Sodium nitrite (NaNO2) is added to cured meats (sausages, bacon, ham) primarily as a potent antimicrobial preservative that specifically inhibits the outgrowth and toxin synthesis of endospores of Clostridium botulinum (preventing fatal botulism), while also imparting the pink nitric oxide myoglobin pigment and preventing rancidity.\n• Why Other Options Are Incorrect:\n  - To enhance tenderness: Achieved by proteolytic enzymes (papain, bromelain) or aging.\n  - To add color: Nitrite creates the characteristic cured pink color, but antimicrobial safety against botulism is its primary legal and public health justification.\n  - To prevent lipid oxidation: A valuable secondary antioxidant benefit, but botulism inhibition is paramount."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSodium nitrite (NaNO2) is added to cured meats (sausages, bacon, ham) primarily as a potent antimicrobial preservative that specifically inhibits the outgrowth and toxin synthesis of endospores of Clostridium botulinum (preventing fatal botulism), while also imparting the pink nitric oxide myoglobin pigment and preventing rancidity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To enhance tenderness:</b> Achieved by proteolytic enzymes (papain, bromelain) or aging.\n• <b style=\"color:#2563eb\">To add color:</b> Nitrite creates the characteristic cured pink color, but antimicrobial safety against botulism is its primary legal and public health justification.\n• <b style=\"color:#2563eb\">To prevent lipid oxidation:</b> A valuable secondary antioxidant benefit, but botulism inhibition is paramount."
   },
   {
     "id": 28,
@@ -333,7 +333,7 @@
       "Lactobacillus acidophilus"
     ],
     "correct_answer": "Aspergillus oryzae",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Soy sauce (shoyu) is produced through a two-stage fermentation. In the first aerobic stage, cooked soybeans and crushed wheat are inoculated with the filamentous fungus Aspergillus oryzae (or A. sojae) to form 'koji'. The mold secretes copious proteases, amylases, and peptidases that digest proteins and starches before subsequent brine fermentation (moromi).\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Enteric bacterium, not used in food fermentations.\n  - Saccharomyces cerevisiae: Involved in subsequent moromi fermentation (as Zygosaccharomyces rouxii), but A. oryzae is the master koji mold.\n  - Lactobacillus acidophilus: Dairy probiotic, not the koji-making organism."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSoy sauce (shoyu) is produced through a two-stage fermentation. In the first aerobic stage, cooked soybeans and crushed wheat are inoculated with the filamentous fungus Aspergillus oryzae (or A. sojae) to form 'koji'. The mold secretes copious proteases, amylases, and peptidases that digest proteins and starches before subsequent brine fermentation (moromi).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Enteric bacterium, not used in food fermentations.\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Involved in subsequent moromi fermentation (as Zygosaccharomyces rouxii), but A. oryzae is the master koji mold.\n• <b style=\"color:#2563eb\">Lactobacillus acidophilus:</b> Dairy probiotic, not the koji-making organism."
   },
   {
     "id": 29,
@@ -345,7 +345,7 @@
       "To increase the nutritional value of food products"
     ],
     "correct_answer": "To ensure the safety of food products",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: HACCP (Hazard Analysis Critical Control Point) is an internationally recognized, systematic, preventive management system that addresses food safety through the analysis and control of biological, chemical, and physical hazards across all stages of food production—from raw material acquisition to final consumption.\n• Why Other Options Are Incorrect:\n  - To enhance flavor: Food safety management does not focus on culinary seasoning.\n  - To improve texture: Process engineering, emulsification, and ingredient formulation dictate texture.\n  - To increase nutritional value: Achieved via dietetics and nutrient fortification."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nHACCP (Hazard Analysis Critical Control Point) is an internationally recognized, systematic, preventive management system that addresses food safety through the analysis and control of biological, chemical, and physical hazards across all stages of food production—from raw material acquisition to final consumption.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To enhance flavor:</b> Food safety management does not focus on culinary seasoning.\n• <b style=\"color:#2563eb\">To improve texture:</b> Process engineering, emulsification, and ingredient formulation dictate texture.\n• <b style=\"color:#2563eb\">To increase nutritional value:</b> Achieved via dietetics and nutrient fortification."
   },
   {
     "id": 30,
@@ -357,6 +357,6 @@
       "Aspergillus niger"
     ],
     "correct_answer": "Acetobacter aceti",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Acetobacter aceti is an obligate aerobe with specialized membrane-bound alcohol dehydrogenases that oxidizes ethanol into acetaldehyde and subsequently into acetic acid (CH3COOH) in the presence of oxygen, driving commercial vinegar production.\n• Why Other Options Are Incorrect:\n  - Saccharomyces cerevisiae: Produces ethanol from sugar, which serves as the substrate for Acetobacter.\n  - Lactobacillus casei: Produces lactic acid, not acetic acid.\n  - Aspergillus niger: Produces citric acid in industrial biotechnology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAcetobacter aceti is an obligate aerobe with specialized membrane-bound alcohol dehydrogenases that oxidizes ethanol into acetaldehyde and subsequently into acetic acid (CH3COOH) in the presence of oxygen, driving commercial vinegar production.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Saccharomyces cerevisiae:</b> Produces ethanol from sugar, which serves as the substrate for Acetobacter.\n• <b style=\"color:#2563eb\">Lactobacillus casei:</b> Produces lactic acid, not acetic acid.\n• <b style=\"color:#2563eb\">Aspergillus niger:</b> Produces citric acid in industrial biotechnology."
   }
 ]

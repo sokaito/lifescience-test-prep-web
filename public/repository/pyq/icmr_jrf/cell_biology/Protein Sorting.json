@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is a protein modification that can initiate the degradation of the modified protein?",
+    "options": [
+      "Ubiquitination",
+      "Palmitoylation",
+      "Myristoylation",
+      "Glycosylation"
+    ],
+    "correct_answer": "Ubiquitination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ubiquitination</b> is correct. Polyubiquitination (specifically through Lys48-linked ubiquitin chains catalyzed by E1, E2, and E3 ubiquitin ligase cascades) acts as the universal molecular destruction signal in eukaryotic cells, targeting the tagged substrate protein directly to the 26S proteasome for ATP-dependent degradation into short peptide fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Palmitoylation</b> - Reversible attachment of a 16-carbon palmitic acid to cysteine residues that anchors proteins to membranes and regulates subcellular localization.\n• <b style=\"color:#2563eb\">Option (3): Myristoylation</b> - Irreversible co-translational addition of a 14-carbon myristoyl group to an N-terminal glycine, promoting membrane tethering.\n• <b style=\"color:#2563eb\">Option (4): Glycosylation</b> - Covalent attachment of carbohydrate chains in the ER and Golgi, essential for protein folding, stability, and cell recognition."
+  },
+  {
+    "id": 2,
+    "question": "Which organelle is responsible for protein sorting and trafficking within the cell?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Nucleus",
+      "Lysosome"
+    ],
+    "correct_answer": "Golgi apparatus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Golgi apparatus</b> is correct. The Golgi apparatus functions as the central cellular 'post office' or dispatch hub. It receives newly synthesized proteins from the rough ER, carries out post-translational modifications (oligosaccharide processing, sulfation, phosphorylation), and segregates and packages them at the Trans-Golgi Network (TGN) into transport vesicles directed to lysosomes, the plasma membrane, or secretory granules.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Endoplasmic reticulum</b> - The site of synthesis and initial core N-glycosylation/folding of secretory and membrane proteins, but the main final sorting station is the Golgi.\n• <b style=\"color:#2563eb\">Option (3): Nucleus</b> - Houses the genetic genome and site of transcription and ribosome biogenesis.\n• <b style=\"color:#2563eb\">Option (4): Lysosome</b> - Terminal degradative organelle rich in acid hydrolases, functioning as a destination rather than the sorting distributor."
+  },
+  {
+    "id": 3,
+    "question": "Which signal sequence directs proteins to the endoplasmic reticulum?",
+    "options": [
+      "Nuclear localization signal (NLS)",
+      "Peroxisomal targeting signal (PTS)",
+      "Mitochondrial targeting signal (MTS)",
+      "Signal peptide"
+    ],
+    "correct_answer": "Signal peptide",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Signal peptide</b> is correct. An ER signal peptide (typically located at the N-terminus and comprising 15–30 amino acids with a central hydrophobic alpha-helical core) is recognized by the Signal Recognition Particle (SRP), arresting elongation and directing the ribosome-nascent chain complex to the ER translocon for co-translational translocation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nuclear localization signal (NLS)</b> - Short basic amino acid motifs (e.g., -Pro-Lys-Lys-Lys-Arg-Lys-Val-) directing folded proteins into the nucleus via importins.\n• <b style=\"color:#2563eb\">Option (2): Peroxisomal targeting signal (PTS)</b> - C-terminal tripeptide (PTS1: -Ser-Lys-Leu) or N-terminal nonapeptide (PTS2) directing proteins to peroxisomes via peroxins.\n• <b style=\"color:#2563eb\">Option (3): Mitochondrial targeting signal (MTS)</b> - Positively charged amphipathic alpha-helices directing unfolded preproteins to mitochondria via TOM/TIM translocases."
+  },
+  {
+    "id": 4,
+    "question": "Which process involves the removal of the signal sequence from a protein after it enters the endoplasmic reticulum?",
+    "options": [
+      "Translocation",
+      "Ubiquitination",
+      "Glycosylation",
+      "Signal peptidase cleavage"
+    ],
+    "correct_answer": "Signal peptidase cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Signal peptidase cleavage</b> is correct. Signal peptidase is a membrane-bound endopeptidase complex located on the luminal surface of the ER membrane. Once the nascent polypeptide is threaded through the Sec61 translocon pore, signal peptidase cleaves the hydrophobic N-terminal signal peptide, liberating the mature protein into the ER lumen.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Translocation</b> - The physical movement and passage of the nascent peptide chain across the aqueous translocon pore into the ER lumen.\n• <b style=\"color:#2563eb\">Option (2): Ubiquitination</b> - Covalent attachment of ubiquitin molecules targeting proteins for proteasomal degradation.\n• <b style=\"color:#2563eb\">Option (3): Glycosylation</b> - Enzymatic addition of oligosaccharide chains (e.g., dolichol-linked oligosaccharide transfer to asparagine residues by oligosaccharyltransferase)."
+  },
+  {
+    "id": 5,
+    "question": "Proteins destined for the plasma membrane are typically synthesized on ribosomes located on which cellular structure?",
+    "options": [
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Golgi apparatus",
+      "Nucleus"
+    ],
+    "correct_answer": "Rough endoplasmic reticulum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Rough endoplasmic reticulum</b> is correct because ribosomes synthesizing proteins bearing hydrophobic ER signal sequences are targeted to and dock onto the cytosolic face of the rough endoplasmic reticulum (RER). Integral membrane proteins are co-translationally integrated into the RER membrane via stop-transfer anchor sequences and subsequently transported via vesicular trafficking to the plasma membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Smooth endoplasmic reticulum</b> - Lacks bound ribosomes; specializes in lipid biosynthesis, steroidogenesis, calcium sequestration, and xenobiotic detoxification.\n• <b style=\"color:#2563eb\">Option (3): Golgi apparatus</b> - Possesses no attached ribosomes; performs sorting and post-translational modification rather than translation.\n• <b style=\"color:#2563eb\">Option (4): Nucleus</b> - Site of mRNA transcription and pre-ribosome assembly, but translation occurs in the cytoplasm."
+  },
+  {
+    "id": 6,
+    "question": "Which vesicle transports proteins from the endoplasmic reticulum to the Golgi apparatus?",
+    "options": [
+      "COPII vesicles",
+      "COPI vesicles",
+      "Clathrin-coated vesicles",
+      "Lysosomes"
+    ],
+    "correct_answer": "COPII vesicles",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): COPII vesicles</b> is correct. COPII (coat protein complex II)-coated transport vesicles bud from specialized endoplasmic reticulum exit sites (ERES) and carry correctly folded secretory and membrane cargo anterograde to the cis-Golgi network / ER-Golgi intermediate compartment (ERGIC).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): COPI vesicles</b> - Mediate retrograde transport from the Golgi back to the ER to retrieve escaped ER-resident proteins containing KDEL/KKXX signals, as well as intra-Golgi retrograde transport.\n• <b style=\"color:#2563eb\">Option (3): Clathrin-coated vesicles</b> - Mediate endocytosis at the plasma membrane and transport from the Trans-Golgi Network (TGN) to endosomes/lysosomes.\n• <b style=\"color:#2563eb\">Option (4): Lysosomes</b> - Acidic digestive organelles, not carrier transport vesicles."
+  },
+  {
+    "id": 7,
+    "question": "Which protein sorting pathway involves the incorporation of proteins into vesicles coated with clathrin?",
+    "options": [
+      "Endocytosis",
+      "Exocytosis",
+      "Golgi-to-endosome pathway",
+      "Trans-Golgi network pathway"
+    ],
+    "correct_answer": "Endocytosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Endocytosis</b> is correct. Receptor-mediated endocytosis is the canonical clathrin-dependent sorting pathway at the cell surface. Clathrin triskelions assemble via adaptor protein-2 (AP-2) complexes into a polygonal basket-like lattice around invaginating plasma membrane pits to internalize specific extracellular receptor-ligand complexes into clathrin-coated endocytic vesicles.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Exocytosis</b> - Constitutive secretory exocytosis is mediated by non-clathrin-coated secretory vesicles budding to fuse with the plasma membrane.\n• <b style=\"color:#2563eb\">Option (3): Golgi-to-endosome pathway</b> - Employs AP-1/GGA and clathrin, but receptor-mediated endocytosis is the prototypical clathrin-coated vesicle pathway designated by the curriculum.\n• <b style=\"color:#2563eb\">Option (4): Trans-Golgi network pathway</b> - General pathway designation encompassing multiple coat types and vesicle destinations."
+  },
+  {
+    "id": 8,
+    "question": "Which protein is responsible for mediating the fusion of transport vesicles with their target membranes?",
+    "options": [
+      "Clathrin",
+      "V-SNARE",
+      "T-SNARE",
+      "Dynamin"
+    ],
+    "correct_answer": "T-SNARE",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): T-SNARE</b> is correct. Target-membrane SNAREs (t-SNAREs, such as syntaxin and SNAP-25) reside on the recipient target membrane. Together with vesicle-associated SNAREs (v-SNAREs / synaptobrevin), they zipper into an extremely stable four-helix bundle (the trans-SNARE complex) that pulls the opposing bilayers into close contact and overcomes the electrostatic barrier to catalyze membrane fusion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Clathrin</b> - A coat protein responsible for membrane curvature and vesicle budding, which must disassemble (uncoat) before fusion can occur.\n• <b style=\"color:#2563eb\">Option (2): V-SNARE</b> - The vesicle-bound component of the SNARE pair; while both participate in pairing, t-SNARE is designated in the answer key.\n• <b style=\"color:#2563eb\">Option (4): Dynamin</b> - A large GTPase that pinches off budding clathrin-coated vesicles from donor membranes via mechanochemical scission."
+  },
+  {
+    "id": 9,
+    "question": "Receptor-mediated endocytosis involves the internalization of ligands bound to specific cell surface receptors into the cell. Which protein is involved in the formation of clathrin-coated pits?",
+    "options": [
+      "Caveolin",
+      "Clathrin",
+      "Dynamin",
+      "Adaptin"
+    ],
+    "correct_answer": "Clathrin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Clathrin</b> is correct. Clathrin is the principal structural scaffold protein forming the characteristic polyhedral lattice. Each clathrin unit consists of a triskelion (three heavy chains and three light chains) that self-assembles into pentagons and hexagons, inducing membrane invagination and mechanical curvature to generate clathrin-coated pits.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Caveolin</b> - The major integral membrane protein of caveolae, which mediate clathrin-independent endocytosis.\n• <b style=\"color:#2563eb\">Option (3): Dynamin</b> - Responsible for vesicle neck constriction and scission, not assembling the curved pit coat itself.\n• <b style=\"color:#2563eb\">Option (4): Adaptin</b> - Adaptor subunit that links clathrin to transmembrane receptors; clathrin itself provides the outer cage lattice."
+  },
+  {
+    "id": 10,
+    "question": "Which type of signaling involves the secretion of signaling molecules that act on nearby cells?",
+    "options": [
+      "Autocrine signaling",
+      "Paracrine signaling",
+      "Endocrine signaling",
+      "Synaptic signaling"
+    ],
+    "correct_answer": "Paracrine signaling",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Paracrine signaling</b> is correct. In paracrine signaling, a secretory cell releases local chemical mediators (such as growth factors, cytokines, or histamine) into the immediate extracellular space, where they diffuse over short distances to bind receptors and elicit responses on neighboring target cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autocrine signaling</b> - Cells release signaling molecules that bind to receptors on the very same cell that secreted them.\n• <b style=\"color:#2563eb\">Option (3): Endocrine signaling</b> - Hormones are secreted directly into the bloodstream to travel long distances throughout the circulatory system to distant target organs.\n• <b style=\"color:#2563eb\">Option (4): Synaptic signaling</b> - Highly specialized, ultra-localized neurotransmitter transmission across the microscopic gap of a chemical synapse between a neuron and its post-synaptic cell."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not a class of cell surface receptors involved in signal transduction?",
+    "options": [
+      "G protein-coupled receptors (GPCRs)",
+      "Receptor tyrosine kinases (RTKs)",
+      "Ligand-gated ion channels",
+      "Nuclear receptors"
+    ],
+    "correct_answer": "Nuclear receptors",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Nuclear receptors</b> is correct because nuclear receptors are intracellular (cytoplasmic or intranuclear) transcription factors, not cell surface receptors. They bind lipid-soluble, membrane-permeable ligands (e.g., steroid hormones, thyroid hormone, retinoic acid) that diffuse across the plasma membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): G protein-coupled receptors (GPCRs)</b> - Seven-transmembrane cell surface receptors that transduce extracellular signals via heterotrimeric G proteins.\n• <b style=\"color:#2563eb\">Option (2): Receptor tyrosine kinases (RTKs)</b> - Transmembrane cell surface receptors with intrinsic intracellular tyrosine kinase activity.\n• <b style=\"color:#2563eb\">Option (3): Ligand-gated ion channels</b> - Transmembrane cell surface channel proteins that open in response to extracellular chemical transmitter binding."
+  },
+  {
+    "id": 12,
+    "question": "Which molecule is typically activated by G protein-coupled receptors (GPCRs) upon ligand binding?",
+    "options": [
+      "Adenylyl cyclase",
+      "Protein kinase C",
+      "Protein kinase A",
+      "Ras"
+    ],
+    "correct_answer": "Adenylyl cyclase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Adenylyl cyclase</b> is correct. Upon ligand binding, GPCRs undergo conformational changes activating heterotrimeric G proteins by promoting GDP-GTP exchange on the $G\\alpha$ subunit. The active $G\\alpha_s$ subunit dissociates and directly binds to and activates membrane-bound adenylyl cyclase, which converts ATP into the second messenger cyclic AMP (cAMP).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Protein kinase C</b> - Activated downstream by diacylglycerol (DAG) and calcium following phospholipase C activation.\n• <b style=\"color:#2563eb\">Option (3): Protein kinase A</b> - Serine/threonine kinase activated downstream by the secondary messenger cAMP generated by adenylyl cyclase.\n• <b style=\"color:#2563eb\">Option (4): Ras</b> - A monomeric small GTPase activated predominantly downstream of receptor tyrosine kinases via Sos (GEF)."
+  },
+  {
+    "id": 13,
+    "question": "Which signaling pathway involves the phosphorylation of tyrosine residues in receptor tyrosine kinases (RTKs)?",
+    "options": [
+      "MAPK/ERK pathway",
+      "JAK/STAT pathway",
+      "PI3K/Akt pathway",
+      "Wnt pathway"
+    ],
+    "correct_answer": "MAPK/ERK pathway",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): MAPK/ERK pathway</b> is correct. Ligand binding (e.g., EGF, PDGF) induces RTK dimerization and reciprocal trans-autophosphorylation on specific intracellular tyrosine residues. These phosphotyrosines recruit SH2-domain adaptors (Grb2), which recruit Sos to activate Ras, initiating the classical Raf -> MEK -> MAPK/ERK kinase cascade controlling cell proliferation and survival.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): JAK/STAT pathway</b> - Utilizes cytokine receptors that lack intrinsic enzymatic kinase domains and instead rely on non-covalently associated Janus kinases (JAKs).\n• <b style=\"color:#2563eb\">Option (3): PI3K/Akt pathway</b> - A lipid kinase signaling cascade, but MAPK/ERK is the primary canonical RTK effector pathway highlighted in core curriculums.\n• <b style=\"color:#2563eb\">Option (4): Wnt pathway</b> - Operates via Frizzled receptors and LRP5/6 coreceptors regulating beta-catenin stability, independent of RTK auto-transphosphorylation."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following mechanisms is responsible for sorting proteins to their correct subcellular compartments?",
+    "options": [
+      "Endocytosis",
+      "Exocytosis",
+      "Protein translocation",
+      "Phagocytosis"
+    ],
+    "correct_answer": "Protein translocation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Protein translocation</b> is correct. Protein translocation is the biological mechanism by which polypeptide chains are guided by specific signal sequences across organellar biological membrane translocators (such as Sec61 in ER, TOM/TIM in mitochondria, TOC/TIC in chloroplasts, and peroxins in peroxisomes) into their respective subcellular compartments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endocytosis</b> - Cellular uptake and internalization of extracellular substances via membrane-derived endosomes.\n• <b style=\"color:#2563eb\">Option (2): Exocytosis</b> - Fusion of secretory vesicles with the plasma membrane to release cargo into the extracellular environment.\n• <b style=\"color:#2563eb\">Option (4): Phagocytosis</b> - Specialized engulfment of large solid particles, foreign debris, or microorganisms by immune cells."
+  },
+  {
+    "id": 15,
+    "question": "The signal sequence for protein sorting is typically located at which end of the protein?",
+    "options": [
+      "N-terminal",
+      "C-terminal",
+      "Internal",
+      "None of the above"
+    ],
+    "correct_answer": "N-terminal",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): N-terminal</b> is correct. The vast majority of targeting signals—including ER signal sequences, mitochondrial matrix targeting presequences, and chloroplast transit peptides—are located at the amino (N-) terminus because the N-terminus emerges first from the ribosomal exit tunnel during co-translational synthesis, allowing immediate recognition by sorting machineries (e.g., SRP).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): C-terminal</b> - Only certain specialized retention or targeting signals are C-terminal (such as the KDEL ER-retrieval signal or PTS1 -SKL peroxisomal signal).\n• <b style=\"color:#2563eb\">Option (3): Internal</b> - Internal non-cleavable signals exist in nuclear localization signals (NLS) and certain multi-pass transmembrane proteins, but N-terminal placement is the canonical rule.\n• <b style=\"color:#2563eb\">Option (4): None of the above</b> - Incorrect as N-terminal sequences represent the predominant targeting location."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following mechanisms is involved in protein sorting to the mitochondria?",
+    "options": [
+      "Endocytosis",
+      "Phagocytosis",
+      "Receptor-mediated endocytosis",
+      "Import via translocase complexes"
+    ],
+    "correct_answer": "Import via translocase complexes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Import via translocase complexes</b> is correct. Nuclear-encoded mitochondrial preproteins are translated in the cytosol, maintained in unfolded conformations by Hsp70 chaperones, and imported across the double membrane through multisubunit translocase complexes: the TOM complex in the outer mitochondrial membrane and TIM complexes (TIM23 and TIM22) in the inner mitochondrial membrane, powered by the inner membrane electrical potential ($\\Delta\\Psi_m$) and mitochondrial matrix Hsp70 ATP hydrolysis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endocytosis</b> - Vesicular internalization from the external plasma membrane into the endosomal network.\n• <b style=\"color:#2563eb\">Option (2): Phagocytosis</b> - Bulk uptake of large particulate matter into phagosomes.\n• <b style=\"color:#2563eb\">Option (3): Receptor-mediated endocytosis</b> - Clathrin-dependent vesicle formation from the plasma membrane."
+  },
+  {
+    "id": 17,
+    "question": "The signal recognition particle (SRP) is involved in the sorting of proteins to which organelle?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Peroxisomes",
+      "Nucleus"
+    ],
+    "correct_answer": "Endoplasmic reticulum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> is correct. The SRP is a ribonucleoprotein complex (composed of 6 polypeptides and a 7S RNA) that binds the hydrophobic N-terminal ER signal peptide as it emerges from the ribosome. SRP halts translation elongation and docks the ribosome-nascent chain complex onto the SRP receptor (SR) on the rough ER membrane, transferring the nascent polypeptide into the Sec61 translocon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> - Proteins arrive at the Golgi via COPII transport vesicles from the ER, not via direct SRP sorting.\n• <b style=\"color:#2563eb\">Option (3): Peroxisomes</b> - Peroxisomal proteins are synthesized on free cytosolic ribosomes and imported post-translationally by soluble receptor peroxins (Pex5/Pex7).\n• <b style=\"color:#2563eb\">Option (4): Nucleus</b> - Nuclear proteins are imported in fully folded states through nuclear pore complexes recognized by importin alpha/beta heterodimers."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following post-translational modifications is involved in protein sorting to the lysosomes?",
+    "options": [
+      "Glycosylation",
+      "Acetylation",
+      "Ubiquitination",
+      "Methylation"
+    ],
+    "correct_answer": "Ubiquitination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Ubiquitination</b> is correct. Monoubiquitination or polyubiquitination serves as an essential sorting signal for transmembrane proteins destined for lysosomal destruction. The ubiquitin tag is recognized by the ESCRT (Endosomal Sorting Complexes Required for Transport) machinery at the endosomal membrane, sorting the proteins into intraluminal vesicles of multivesicular bodies (MVBs) that subsequently fuse with lysosomes for degradative turnover.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Glycosylation</b> - Although mannose-6-phosphate tagging (a specialized oligosaccharide modification) targets soluble acid hydrolases to lysosomes, ubiquitination is designated in the official answer key for transmembrane cargo sorting into lysosomes.\n• <b style=\"color:#2563eb\">Option (2): Acetylation</b> - Histone and cytoplasmic protein acetylation primarily regulates chromatin structure, gene transcription, and cytoskeletal stability.\n• <b style=\"color:#2563eb\">Option (4): Methylation</b> - Epigenetic modification on lysines/arginines in histones regulating transcriptional activation or repression."
+  },
+  {
+    "id": 19,
+    "question": "The signal sequence for protein sorting to the endoplasmic reticulum is typically recognized by:",
+    "options": [
+      "Nuclear pores",
+      "Protein translocators",
+      "Clathrin-coated vesicles",
+      "Golgi receptors"
+    ],
+    "correct_answer": "Protein translocators",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Protein translocators</b> is correct. Once the ribosome-nascent chain complex docks at the ER membrane via SRP/SRP-receptor interaction, the signal sequence inserts into and is recognized directly by the Sec61 protein translocator complex (translocon). The translocator binds the hydrophobic signal sequence in its lateral gate, opening the central pore for polypeptide translocation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nuclear pores</b> - Giant protein complexes spanning the nuclear envelope that recognize nuclear localization and export signals.\n• <b style=\"color:#2563eb\">Option (3): Clathrin-coated vesicles</b> - Transport vesicles involved in post-Golgi and endocytic transport, not ER signal sequence recognition.\n• <b style=\"color:#2563eb\">Option (4): Golgi receptors</b> - Receptors in the Golgi apparatus (e.g., KDEL receptor, mannose-6-phosphate receptor) sort proteins within post-ER compartments."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following proteins is responsible for protein sorting to the peroxisomes?",
+    "options": [
+      "Importin",
+      "Peroxin",
+      "Dynamin",
+      "Rab protein"
+    ],
+    "correct_answer": "Peroxin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Peroxin</b> (encoded by PEX genes, e.g., Pex5, Pex7, Pex14) is correct. Peroxins are essential protein factors that recognize peroxisomal targeting signals (PTS1 or PTS2) in newly synthesized fully folded cytosolic proteins, docking at and transporting them across the peroxisomal membrane via a transient, dynamic translocon pore.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Importin</b> - Soluble nuclear transport karyopherin that binds NLS motifs to transport proteins into the nucleus through nuclear pore complexes.\n• <b style=\"color:#2563eb\">Option (3): Dynamin</b> - Large mechanochemical GTPase mediating membrane fission during endocytosis and organellar scission.\n• <b style=\"color:#2563eb\">Option (4): Rab protein</b> - Small monomeric GTPases that regulate transport vesicle budding, motility along cytoskeletons, tethering, and fusion specificity."
+  },
+  {
+    "id": 21,
+    "question": "The TOM and TIM complexes are involved in protein sorting to which organelle?",
+    "options": [
+      "Golgi apparatus",
+      "Endoplasmic reticulum",
+      "Lysosome",
+      "Mitochondria"
+    ],
+    "correct_answer": "Mitochondria",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Mitochondria</b> is correct. TOM (Translocase of the Outer Membrane) and TIM (Translocase of the Inner Membrane, notably TIM23 and TIM22) are the multisubunit protein-conducting machineries dedicated to translocating nuclear-encoded mitochondrial precursor proteins across the outer and inner mitochondrial membranes into the matrix and inner membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Golgi apparatus</b> - Receives proteins from the ER via COPII transport vesicles and sorts them via TGN cargo receptors.\n• <b style=\"color:#2563eb\">Option (2): Endoplasmic reticulum</b> - Translocation into the ER is mediated by the Sec61 translocon complex and associated SRP/SR machinery.\n• <b style=\"color:#2563eb\">Option (3): Lysosome</b> - Soluble proteins are delivered to lysosomes via the mannose-6-phosphate receptor vesicular trafficking route, while membrane proteins are sorted via the ESCRT endosomal pathway."
+  }
+]

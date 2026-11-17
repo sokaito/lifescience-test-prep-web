@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "Newborns:",
+    "options": [
+      "Receive Maternal B cells",
+      "Respond to antigens as good as adults",
+      "Have virtually a fully complement of maternal IgM antibodies",
+      "Receive IgG antibodies from mother through placental transfer"
+    ],
+    "correct_answer": "Receive IgG antibodies from mother through placental transfer",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Receive IgG antibodies from mother through placental transfer</b> is correct. Maternal IgG is the only immunoglobulin class that selectively crosses the placenta from maternal circulation into the fetus via the neonatal Fc receptor (FcRn). This passive transplacental transfer provides critical humoral protection to the newborn during the first 4 to 6 months of life while its own immune system matures.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Receive Maternal B cells</b> - Maternal lymphocytes do not cross the placental barrier in significant functional quantities; graft-versus-host interactions are actively prevented.\n• <b style=\"color:#2563eb\">Option (2): Respond to antigens as good as adults</b> - The neonatal immune system is immunologically immature, with lower cytokine production, hyporeactive germinal centers, and diminished secondary antibody responses.\n• <b style=\"color:#2563eb\">Option (3): Have virtually a fully complement of maternal IgM antibodies</b> - IgM is a bulky pentamer that does not bind FcRn and cannot cross the placenta; IgM presence in cord blood indicates congenital fetal infection."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the major immunoglobulin in human serum, accounting for 80% of the immunoglobulin pool?",
+    "options": [
+      "IgM",
+      "IgE",
+      "IgD",
+      "IgG"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): IgG</b> is correct. Immunoglobulin G (IgG) is the most abundant immunoglobulin in human serum, making up approximately 75% to 80% of total circulating antibodies (normal concentration ~8–16 mg/mL). It has the longest half-life (~21–23 days) and provides systemic protection against bacteria, viruses, and toxins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgM</b> - IgM constitutes approximately 5% to 10% of serum immunoglobulins and is the primary antibody produced during initial antigen exposure.\n• <b style=\"color:#2563eb\">Option (2): IgE</b> - IgE is present in trace amounts in serum (<0.001% or ~0.05 mg/dL) due to rapid binding to FcεRI on mast cells and basophils.\n• <b style=\"color:#2563eb\">Option (3): IgD</b> - IgD makes up less than 1% of serum immunoglobulins and functions primarily as a membrane-bound antigen receptor on naive B cells."
+  },
+  {
+    "id": 3,
+    "question": "B cells differentiate to form:",
+    "options": [
+      "Plasma cells",
+      "Effector cells",
+      "Plasma cells and memory cells",
+      "Germinal cells"
+    ],
+    "correct_answer": "Plasma cells and memory cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Plasma cells and memory cells</b> is correct. Following antigen encounter, BCR cross-linking, and T follicular helper (Tfh) cell co-stimulation in lymphoid follicles, activated B cells proliferate and differentiate into two primary fates: short- or long-lived antibody-secreting plasma cells that generate humoral defense, and quiescent, long-lived memory B cells that confer immunological memory.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Plasma cells</b> - While B cells differentiate into plasma cells, this option omits memory cells, making Option (3) the complete and comprehensive answer.\n• <b style=\"color:#2563eb\">Option (2): Effector cells</b> - 'Effector cells' is a generic immunological category; plasma cells are the specific humoral effector cells formed alongside memory cells.\n• <b style=\"color:#2563eb\">Option (4): Germinal cells</b> - Germinal centers are microanatomical sites in lymphoid follicles where B cells mutate and select, not a differentiated cell product."
+  },
+  {
+    "id": 4,
+    "question": "The class of an immunoglobulin:",
+    "options": [
+      "is determined by Class I and Class II major histocompatibility complex proteins",
+      "is determined by the carbohydrate attached to the light chain",
+      "Determined by the antigen",
+      "is determined by the heavy chain type"
+    ],
+    "correct_answer": "is determined by the heavy chain type",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): is determined by the heavy chain type</b> is correct. The immunoglobulin isotype/class (IgA, IgD, IgE, IgG, IgM) is exclusively defined by the amino acid sequence and structure of the constant region of its heavy chain (C_H): alpha (α) for IgA, delta (δ) for IgD, epsilon (ε) for IgE, gamma (γ) for IgG, and mu (μ) for IgM.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): is determined by Class I and Class II major histocompatibility complex proteins</b> - MHC molecules present peptides to T cells; they do not dictate antibody classes.\n• <b style=\"color:#2563eb\">Option (2): is determined by the carbohydrate attached to the light chain</b> - Carbohydrate side chains affect clearance and conformation, but heavy chain constant genes dictate isotype.\n• <b style=\"color:#2563eb\">Option (3): Determined by the antigen</b> - The antigen determines variable region binding specificity, not the constant region isotype."
+  },
+  {
+    "id": 5,
+    "question": "J Chain is present in which antibodies:",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgD"
+    ],
+    "correct_answer": "IgM",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): IgM</b> is correct. The joining (J) chain is a small 15-kDa polypeptide required for polymerization of secretory dimeric IgA and pentameric IgM. In pentameric IgM, a single J chain forms disulfide linkages with penultimate cysteine residues of the mu (μ) heavy chains, stabilizing the ring structure and facilitating transcytosis via the polymeric immunoglobulin receptor (pIgR).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgG</b> - IgG exists exclusively as a monomer in serum and contains no J chain.\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE is a monomeric immunoglobulin involved in allergic reactions without a J chain.\n• <b style=\"color:#2563eb\">Option (4): IgD</b> - IgD exists exclusively as a monomer on naive B cell membranes and lacks a J chain."
+  },
+  {
+    "id": 6,
+    "question": "The following constitutes approximately 75% of total immunoglobulins in humans:",
+    "options": [
+      "IgG",
+      "IgM",
+      "IgE",
+      "IgA"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): IgG</b> is correct. Immunoglobulin G (IgG) makes up approximately 75% to 80% of total circulating serum antibodies in humans. Its high abundance, coupled with four subclasses (IgG1, IgG2, IgG3, IgG4), enables versatile protective activities including neutralization, complement activation, and Fc-receptor-mediated opsonization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): IgM</b> - IgM accounts for approximately 5-10% of total serum immunoglobulins.\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE accounts for less than 0.01% of serum immunoglobulins.\n• <b style=\"color:#2563eb\">Option (4): IgA</b> - IgA constitutes about 10-15% of serum immunoglobulins (though it is the most abundantly produced antibody at mucosal surfaces)."
+  },
+  {
+    "id": 7,
+    "question": "Which class of antibody usually provides defence against helminthic infections?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "correct_answer": "IgE",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): IgE</b> is correct. IgE antibodies play an indispensable role in anti-parasitic immunity, particularly against multicellular helminths (such as schistosomes and nematodes). IgE coats the parasite surface, allowing eosinophils to bind via FcεRI/FcεRII receptors, which triggers eosinophil degranulation and release of Major Basic Protein (MBP) and eosinophil cationic protein to destroy the parasite cuticle (ADCC).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgA</b> - IgA protects mucosal surfaces by preventing microbial attachment and neutralizing toxins.\n• <b style=\"color:#2563eb\">Option (2): IgG</b> - IgG neutralizes toxins and opsonizes bacteria and viruses for phagocytosis.\n• <b style=\"color:#2563eb\">Option (4): IgM</b> - IgM provides immediate intravascular agglutination and potent complement activation during primary infections."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following produce antibodies?",
+    "options": [
+      "Monocytes",
+      "B-lymphocytes",
+      "Granulocytes",
+      "T-lymphocytes"
+    ],
+    "correct_answer": "B-lymphocytes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): B-lymphocytes</b> is correct. B-lymphocytes are the cellular lineage that synthesizes immunoglobulins. Upon activation and terminal differentiation into plasma cells, they secrete massive amounts of antigen-specific antibodies into blood and lymph (up to thousands of antibody molecules per cell per second).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Monocytes</b> - Monocytes are phagocytic mononuclear cells of myeloid origin that do not produce antibodies.\n• <b style=\"color:#2563eb\">Option (3): Granulocytes</b> - Granulocytes (neutrophils, eosinophils, basophils) release inflammatory granules and enzymes, not antibodies.\n• <b style=\"color:#2563eb\">Option (4): T-lymphocytes</b> - T cells express T-cell receptors (TCRs) and mediate cell-mediated immunity; they never secrete soluble antibodies."
+  },
+  {
+    "id": 9,
+    "question": "The molecular mass of IgG is 150 KDa and that of the antigen-antibody complex formed in the presence of antigen excess is 300 KDa. The molecular mass of antigen is:",
+    "options": [
+      "75 KDa",
+      "250 KDa",
+      "125 KDa",
+      "200 KDa"
+    ],
+    "correct_answer": "75 KDa",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 75 KDa</b> is correct.\nEach IgG molecule is bivalent, possessing two identical antigen-binding Fab arms. In conditions of extreme antigen excess, lattice precipitation cannot occur; instead, each bivalent IgG antibody molecule binds two individual antigen molecules, forming a soluble complex of stoichiometry \\(Ag_2Ab\\).\n• Given: Molecular mass of \\(Ab\\) (IgG) = 150 kDa.\n• Molecular mass of the complex \\((Ag_2Ab)\\) = 300 kDa.\n• Total mass of the two bound antigen molecules = \\(300\\text{ kDa} - 150\\text{ kDa} = 150\\text{ kDa}\\).\n• Therefore, mass of one antigen molecule = \\(150\\text{ kDa} / 2 = 75\\text{ kDa}\\).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 250 KDa</b> - This mass is inconsistent with bivalent IgG binding stoichiometry in antigen excess.\n• <b style=\"color:#2563eb\">Option (3): 125 KDa</b> - This incorrect value does not balance the mass equation for the 300 kDa complex.\n• <b style=\"color:#2563eb\">Option (4): 200 KDa</b> - This value exceeds the maximum allowable mass for the two bound antigen molecules."
+  },
+  {
+    "id": 10,
+    "question": "Predominant antibody in serum is:",
+    "options": [
+      "IgM",
+      "IgD",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): IgG</b> is correct. IgG is the predominant immunoglobulin class in human serum, accounting for nearly 80% of all serum antibodies, with a normal physiological concentration ranging between 800 and 1600 mg/dL.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgM</b> - IgM is the third most abundant serum immunoglobulin (~120–150 mg/dL).\n• <b style=\"color:#2563eb\">Option (2): IgD</b> - IgD is found in tiny concentrations in serum (~3 mg/dL).\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE has the lowest serum concentration of all immunoglobulins (~0.05 mg/dL)."
+  },
+  {
+    "id": 11,
+    "question": "The blood group with anti-A antibodies and anti-B antibodies is:",
+    "options": [
+      "O",
+      "A",
+      "AB",
+      "B"
+    ],
+    "correct_answer": "O",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): O</b> is correct. In the ABO blood group system, Landsteiner's law dictates that an individual lacks corresponding self-antigens and develops natural isohemagglutinins against missing ABO antigens. Individuals with Blood Group O possess neither A nor B antigens on their erythrocytes, and therefore develop both anti-A and anti-B antibodies (predominantly IgG and IgM) in their serum.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): A</b> - Blood Group A individuals express A antigens on erythrocytes and produce only anti-B antibodies in serum.\n• <b style=\"color:#2563eb\">Option (3): AB</b> - Blood Group AB individuals express both A and B antigens on erythrocytes and produce neither anti-A nor anti-B antibodies (universal plasma donor).\n• <b style=\"color:#2563eb\">Option (4): B</b> - Blood Group B individuals express B antigens on erythrocytes and produce only anti-A antibodies in serum."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following substances will not stimulate an immune response unless they are bound to a larger molecule?",
+    "options": [
+      "Hapten",
+      "Antigen",
+      "Antibody",
+      "Virus"
+    ],
+    "correct_answer": "Hapten",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Hapten</b> is correct. Haptens are small chemical moieties (low molecular weight) that are antigenic (capable of binding to antibodies) but non-immunogenic on their own. They require chemical conjugation to a larger, immunogenic carrier molecule (usually a foreign protein) to stimulate T-cell help and induce an immune response.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Antigen</b> - Complete antigens possess sufficient molecular complexity and weight to stimulate an immune response independently.\n• <b style=\"color:#2563eb\">Option (3): Antibody</b> - Antibodies are effector proteins of the immune system produced in response to immunogens.\n• <b style=\"color:#2563eb\">Option (4): Virus</b> - Viruses are large, macromolecular assemblies that are naturally highly immunogenic."
+  },
+  {
+    "id": 13,
+    "question": "A tissue graft between two people who are not genetically identical is termed a:",
+    "options": [
+      "Isograft",
+      "Heterograft",
+      "Xenograft",
+      "Allograft"
+    ],
+    "correct_answer": "Allograft",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Allograft</b> is correct. An allograft (or allogeneic graft) is a transplant of an organ or tissue between two genetically non-identical members of the same species (e.g., human-to-human kidney transplant from an unrelated or sibling donor with differing MHC/HLA alleles).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Isograft</b> - An isograft (syngeneic graft) is transferred between genetically identical individuals, such as monozygotic twins or syngeneic inbred mice.\n• <b style=\"color:#2563eb\">Option (2): Heterograft</b> - Heterograft is an older synonym for xenograft.\n• <b style=\"color:#2563eb\">Option (3): Xenograft</b> - A xenograft is a tissue graft between individuals of different species (e.g., porcine valve to human)."
+  },
+  {
+    "id": 14,
+    "question": "In hybridoma technology, B cells are fused with:",
+    "options": [
+      "T cells",
+      "Myeloma cells",
+      "NK cells",
+      "Macrophages"
+    ],
+    "correct_answer": "Myeloma cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Myeloma cells</b> is correct. In Kohler and Milstein's hybridoma technology, normal antibody-producing spleen B cells from an immunized mouse are fused with immortal, HGPRT-deficient myeloma cells using polyethylene glycol (PEG) or electrofusion. The resulting hybridomas combine the specific antibody-producing capability of B cells with the immortality of myeloma cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): T cells</b> - T-cell hybridomas are created to study T-cell receptors and cytokine production, not for monoclonal antibody production.\n• <b style=\"color:#2563eb\">Option (3): NK cells</b> - Natural killer cells are cytotoxic lymphocytes that do not produce antibodies.\n• <b style=\"color:#2563eb\">Option (4): Macrophages</b> - Macrophages are phagocytes; fusing B cells with macrophages does not yield antibody-secreting hybridomas."
+  },
+  {
+    "id": 15,
+    "question": "The role of Aminopterin in HAT media for monoclonal antibody production is:",
+    "options": [
+      "Salvage pathway blocker",
+      "De novo pathway blocker",
+      "Hybridoma cell stabilizer",
+      "Nucleotide analogue"
+    ],
+    "correct_answer": "De novo pathway blocker",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): De novo pathway blocker</b> is correct. Aminopterin is a potent folic acid analogue that competitively inhibits dihydrofolate reductase (DHFR), entirely blocking the de novo biosynthetic pathway of purines and thymidylate. In HAT medium (Hypoxanthine-Aminopterin-Thymidine), cells are forced to synthesize nucleotides exclusively through the salvage pathways utilizing hypoxanthine (via HGPRT) and thymidine (via TK).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Salvage pathway blocker</b> - The salvage pathway remains active and is vital for survival in HAT media; it requires the HGPRT enzyme supplied by the normal B cell.\n• <b style=\"color:#2563eb\">Option (3): Hybridoma cell stabilizer</b> - Aminopterin is a cytotoxic metabolic inhibitor used for selection, not a stabilizer.\n• <b style=\"color:#2563eb\">Option (4): Nucleotide analogue</b> - Aminopterin is an antifolate analogue, whereas hypoxanthine and thymidine are purine/pyrimidine precursors."
+  },
+  {
+    "id": 16,
+    "question": "Hybridomas are immortalized for production of unlimited supply of monoclonal antibodies by which of the following:",
+    "options": [
+      "Cell fusion",
+      "Ectopic expression of telomerase",
+      "Transformation by a retrovirus",
+      "Introduction of oncogenes"
+    ],
+    "correct_answer": "Transformation by a retrovirus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Transformation by a retrovirus</b> is designated in the answer key (biologically, classical hybridomas achieve immortality through cell fusion with already immortalized myeloma cancer cells, but viral transformation such as EBV or retroviral transduction is also an established method to immortalize human B-cell clones, and Option 3 is the marked key in this exam).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cell fusion</b> - Although cell fusion with myeloma cells is the standard mechanism in rodent hybridoma methodology, Option (3) is the designated answer in the official key.\n• <b style=\"color:#2563eb\">Option (2): Ectopic expression of telomerase</b> - hTERT immortalization is used in modern cell line engineering, but not the designated key here.\n• <b style=\"color:#2563eb\">Option (4): Introduction of oncogenes</b> - Direct oncogene transfection (e.g., SV40 T-antigen, c-myc) can immortalize cells, but is not the key answer."
+  },
+  {
+    "id": 17,
+    "question": "Which antibody is the most abundant in the bloodstream and plays a vital role in neutralizing pathogens?",
+    "options": [
+      "IgA",
+      "IgD",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): IgG</b> is correct. Immunoglobulin G (IgG) constitutes ~80% of human serum antibodies. It diffuses readily into extravascular spaces, binds to viruses and bacterial toxins to block cellular entry (neutralization), activates the classical complement cascade, and opsonizes microbes for phagocytosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgA</b> - IgA is predominant in external secretions (mucosa), not in the systemic bloodstream.\n• <b style=\"color:#2563eb\">Option (2): IgD</b> - IgD is found in very low levels in serum and functions mainly as an antigen receptor on B cell membranes.\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE is present in trace quantities in the bloodstream and is specialized for allergic responses and anti-parasitic immunity."
+  },
+  {
+    "id": 18,
+    "question": "Which antibody is primarily found in secretions, such as tears, saliva, and breast milk, providing localized immune protection?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): IgA</b> is correct. Secretory IgA (sIgA), assembled as a dimer linked by a J chain and wrapped with a protective secretory component, is the principal immunoglobulin of mucosal surfaces. It abounds in tears, saliva, colostrum, breast milk, and respiratory and gastrointestinal secretions, preventing pathogen adherence to epithelial linings (immune exclusion).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): IgM</b> - IgM is mainly intravascular due to its large pentameric size (~970 kDa).\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE is largely bound to tissue mast cells in the dermis and respiratory/GI submucosa.\n• <b style=\"color:#2563eb\">Option (4): IgG</b> - IgG is primarily a systemic serum antibody, though it is actively transported across the placenta."
+  },
+  {
+    "id": 19,
+    "question": "Which antibody is involved in allergic responses and the defense against parasites?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgE",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): IgE</b> is correct. IgE mediates Type I hypersensitivity (atopic allergy and anaphylaxis) and defense against large helminthic parasites. IgE binds via its Fc region to high-affinity FcεRI receptors on mast cells and basophils; antigen cross-linking induces immediate degranulation of histamine and other inflammatory mediators.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgA</b> - IgA provides mucosal barrier defense without inducing allergic degranulation.\n• <b style=\"color:#2563eb\">Option (2): IgM</b> - IgM is the first antibody produced in primary immune responses and fixes complement.\n• <b style=\"color:#2563eb\">Option (4): IgG</b> - IgG neutralizes systemic pathogens and blocks allergen-IgE binding when present in high titers."
+  },
+  {
+    "id": 20,
+    "question": "Which antibody is the first antibody produced during an immune response and acts as a membrane-bound receptor on B cells?",
+    "options": [
+      "IgA",
+      "IgM",
+      "IgE",
+      "IgG"
+    ],
+    "correct_answer": "IgM",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): IgM</b> is correct. Monomeric IgM is expressed as a B-cell receptor (BCR) on the surface of mature naive B cells (alongside IgD). Upon antigenic stimulation, IgM is the first immunoglobulin isotype secreted by newly activated plasma cells in the primary immune response (in a pentameric structure).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgA</b> - IgA secretion occurs after heavy-chain class-switch recombination under the influence of TGF-beta or IL-5.\n• <b style=\"color:#2563eb\">Option (3): IgE</b> - IgE secretion requires class switching induced by IL-4 and IL-13 from Th2 cells.\n• <b style=\"color:#2563eb\">Option (4): IgG</b> - IgG is the primary isotype of the secondary immune response, produced after class switching."
+  },
+  {
+    "id": 21,
+    "question": "Monoclonal antibodies are produced by:",
+    "options": [
+      "Natural immune response of the body.",
+      "Cloning a single type of B cell.",
+      "Combining multiple types of antibodies.",
+      "Genetic modification of T cells."
+    ],
+    "correct_answer": "Cloning a single type of B cell.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Cloning a single type of B cell</b> is correct. Monoclonal antibodies (mAbs) are identical monospecific immunoglobulins produced by an immortalized clone of a single parent B cell (hybridoma). Every antibody molecule produced by the clone possesses an identical amino acid sequence and recognizes the exact same epitope with uniform affinity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Natural immune response of the body</b> - The body's natural humoral response to an immunogen is polyclonal, recruiting numerous distinct B-cell clones.\n• <b style=\"color:#2563eb\">Option (3): Combining multiple types of antibodies</b> - Blending antibodies yields a heterogeneous polyclonal mixture, not a monoclonal antibody.\n• <b style=\"color:#2563eb\">Option (4): Genetic modification of T cells</b> - Genetic modification of T cells is used in CAR-T therapy, not for monoclonal antibody synthesis."
+  },
+  {
+    "id": 22,
+    "question": "What is the advantage of monoclonal antibodies over polyclonal antibodies?",
+    "options": [
+      "Monoclonal antibodies can target multiple antigens simultaneously.",
+      "Monoclonal antibodies are derived from multiple types of B cells.",
+      "Monoclonal antibodies have higher specificity and purity.",
+      "Monoclonal antibodies can be produced naturally by the body."
+    ],
+    "correct_answer": "Monoclonal antibodies have higher specificity and purity.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Monoclonal antibodies have higher specificity and purity</b> is correct. Because monoclonal antibodies originate from a single immortal hybridoma clone, they provide homogeneous, reproducible batches that target a single unique epitope. This high specificity eliminates non-specific cross-reactivity and batch-to-batch variation, making them superior tools for diagnostics and targeted therapeutic drugs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Monoclonal antibodies can target multiple antigens simultaneously</b> - Standard monoclonal antibodies are monospecific and bind only one specific epitope (unlike polyclonal mixtures).\n• <b style=\"color:#2563eb\">Option (2): Monoclonal antibodies are derived from multiple types of B cells</b> - Polyclonal antibodies are derived from multiple B-cell clones; monoclonals derive from a single clone.\n• <b style=\"color:#2563eb\">Option (4): Monoclonal antibodies can be produced naturally by the body</b> - Natural in vivo antibody responses are inherently polyclonal."
+  },
+  {
+    "id": 23,
+    "question": "Which type of tissue grafting involves transferring tissue between individuals of the same species?",
+    "options": [
+      "Autograft",
+      "Allograft",
+      "Xenograft",
+      "Isograft"
+    ],
+    "correct_answer": "Allograft",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Allograft</b> is correct. An allograft (or allogeneic transplant) is the transplantation of cells, tissues, or organs from a donor to a genetically non-identical recipient of the same species (e.g., human-to-human kidney or heart transplant).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Autograft</b> - An autograft is tissue transferred from one site to another on the same individual (e.g., skin graft from thigh to arm).\n• <b style=\"color:#2563eb\">Option (3): Xenograft</b> - A xenograft is transplanted between members of different biological species (e.g., pig valve to human).\n• <b style=\"color:#2563eb\">Option (4): Isograft</b> - An isograft is between genetically identical individuals (syngeneic, such as identical twins)."
+  },
+  {
+    "id": 24,
+    "question": "Tissue grafting in animal cells can be used for the treatment of:",
+    "options": [
+      "Cancer",
+      "Diabetes",
+      "Heart disease",
+      "Joint injuries"
+    ],
+    "correct_answer": "Joint injuries",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Joint injuries</b> is correct. In orthopedic and veterinary medicine, tissue grafting (such as autologous chondrocyte implantation, osteochondral allografts, and tendon/ligament grafts) is widely used to repair damaged articular cartilage, torn anterior cruciate ligaments (ACL), and severe joint injuries.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cancer</b> - Cancer is primarily treated with surgical resection, chemotherapy, radiotherapy, and immunotherapy rather than tissue grafting.\n• <b style=\"color:#2563eb\">Option (2): Diabetes</b> - While islet transplantation is an experimental treatment, joint injury repair is the standard tissue graft application highlighted here.\n• <b style=\"color:#2563eb\">Option (3): Heart disease</b> - While coronary artery bypass uses vascular autografts, the question specifies joint injuries as designated in the answer key."
+  }
+]

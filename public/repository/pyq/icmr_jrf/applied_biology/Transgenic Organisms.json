@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "What is Organogenesis?",
+    "options": [
+      "formation of callus tissue",
+      "formation of root and shoots on callus tissue",
+      "genesis of organs",
+      "Flowering"
+    ],
+    "correct_answer": "genesis of organs",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): genesis of organs</b> is the literal and fundamental biological definition of organogenesis ('organ' + 'genesis' = creation/development of organs). During embryonic development and plant tissue culture, organogenesis refers to the differentiation and organization of cells into distinct functional organs like roots, shoots, leaves, and flowers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): formation of callus tissue</b> - The formation of an unorganized, dedifferentiated mass of proliferating cells is called callogenesis, not organogenesis.\n• <b style=\"color:#2563eb\">Option (2): formation of root and shoots on callus tissue</b> - In plant tissue culture, root formation is specifically called rhizogenesis and shoot formation is caulogenesis; while both are types of organogenesis, 'genesis of organs' is the comprehensive definition.\n• <b style=\"color:#2563eb\">Option (4): Flowering</b> - Flowering is the transition to reproductive growth (anthesis/floral development), which is only one specific organogenic event."
+  },
+  {
+    "id": 2,
+    "question": "Genetically engineered crop being used in India is:",
+    "options": [
+      "Cotton",
+      "Rice",
+      "Wheat",
+      "Potato"
+    ],
+    "correct_answer": "Cotton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Cotton</b> is correct. Bt Cotton (expressing the Cry1Ac and Cry2Ab endotoxin genes from Bacillus thuringiensis) is the only genetically modified (GM) crop officially approved for commercial cultivation in India (approved by the Genetic Engineering Appraisal Committee - GEAC in 2002) to protect cotton crops against bollworm infestation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Rice</b> - GM rice varieties (like Golden Rice) have undergone trials but have not been commercially cultivated in India.\n• <b style=\"color:#2563eb\">Option (3): Wheat</b> - Transgenic wheat has not been approved for commercial agricultural release in India.\n• <b style=\"color:#2563eb\">Option (4): Potato</b> - GM potato (such as Protato with the AmA1 gene) has been developed in research laboratories, but is not commercially released."
+  },
+  {
+    "id": 3,
+    "question": "Genetic engineering in crop plants is used for:",
+    "options": [
+      "Crop improvement",
+      "Plant propagation",
+      "Crop harvesting",
+      "Recycling"
+    ],
+    "correct_answer": "Crop improvement",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Crop improvement</b> is correct. Recombinant DNA technology allows precise introduction of desirable traits (pest resistance, herbicide tolerance, enhanced nutritional content, drought tolerance, and delayed ripening) directly into crop genomes to significantly improve agricultural yield, quality, and stress resilience.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Plant propagation</b> - Plant propagation (asexual cloning, grafting, tissue culture micropropagation) multiplies existing plants without modifying their genetic blueprint.\n• <b style=\"color:#2563eb\">Option (3): Crop harvesting</b> - Harvesting is an agronomic mechanical process of gathering mature crops from fields.\n• <b style=\"color:#2563eb\">Option (4): Recycling</b> - Recycling refers to waste processing and nutrient cycling, not genetic modification."
+  },
+  {
+    "id": 4,
+    "question": "Golden rice is yellow in colour due to the presence of:",
+    "options": [
+      "Riboflavins",
+      "Beta-carotene",
+      "Vitamin B1",
+      "Complex genetic material"
+    ],
+    "correct_answer": "Beta-carotene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Beta-carotene</b> is correct. Golden Rice is genetically biofortified to produce provitamin A (beta-carotene) in its edible endosperm. Ingestion of beta-carotene converts it into active Vitamin A (retinol) in the human body, combating widespread childhood blindness and vitamin A deficiency (VAD) in developing countries. Beta-carotene pigments naturally impart the rich golden-yellow color.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Riboflavins</b> - Riboflavin is Vitamin B2; it is yellow-orange but is not the engineered biofortified carotenoid in Golden Rice.\n• <b style=\"color:#2563eb\">Option (3): Vitamin B1</b> - Vitamin B1 (thiamine) is an uncolored water-soluble vitamin lost during white rice polishing.\n• <b style=\"color:#2563eb\">Option (4): Complex genetic material</b> - DNA and RNA themselves are colorless macromolecules."
+  },
+  {
+    "id": 5,
+    "question": "Microinjection is a method used to:",
+    "options": [
+      "Produce sticky ends of DNA",
+      "Provide protection against pathogen",
+      "Purify the DNA",
+      "Inject recombinant DNA into the nucleus of an animal cell"
+    ],
+    "correct_answer": "Inject recombinant DNA into the nucleus of an animal cell",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (4): Inject recombinant DNA into the nucleus of an animal cell</b> is correct. Microinjection is a precise physical vector-free gene transfer technique where a fine microscopic glass micropipette (tip diameter 0.5–1.0 µm) is used under high magnification to directly inject foreign DNA into the pronucleus of a fertilized egg or cultured mammalian cell.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Produce sticky ends of DNA</b> - Accomplished enzymatically using Type II restriction endonucleases.\n• <b style=\"color:#2563eb\">Option (2): Provide protection against pathogen</b> - Achieved through immunization/vaccination or antimicrobial treatments.\n• <b style=\"color:#2563eb\">Option (3): Purify the DNA</b> - Achieved by chemical extraction methods (phenol-chloroform, silica spin columns, ethanol precipitation)."
+  },
+  {
+    "id": 6,
+    "question": "Bt Cotton is a:",
+    "options": [
+      "Cloned plant",
+      "Transgenic plant",
+      "Hybrid plant",
+      "Mutated plant"
+    ],
+    "correct_answer": "Transgenic plant",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Transgenic plant</b> is correct. A transgenic organism is one whose genome contains a stable, functional foreign gene (transgene) introduced from an unrelated species. Bt Cotton contains the insecticidal crystal protein gene (cry1Ac) derived from the soil bacterium Bacillus thuringiensis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cloned plant</b> - Produced by vegetative reproduction or somatic embryogenesis, containing identical copies of parent genes without new foreign transgenes.\n• <b style=\"color:#2563eb\">Option (3): Hybrid plant</b> - Produced by sexual crossing of two genetically different plant varieties of the same or closely related species.\n• <b style=\"color:#2563eb\">Option (4): Mutated plant</b> - Arises from random physical or chemical induced mutations (gamma rays, EMS) within existing plant genes."
+  },
+  {
+    "id": 7,
+    "question": "The practice of painless killing of laboratory animal to relieve pain after experimentation is called:",
+    "options": [
+      "Euthanasia",
+      "Dissection",
+      "Post Mortem",
+      "Autopsy"
+    ],
+    "correct_answer": "Euthanasia",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Euthanasia</b> is correct. Euthanasia (from the Greek 'good death') is the humane, humane practice of ending an animal's life using certified protocols (e.g., carbon dioxide chamber, anesthetic overdose) to ensure immediate unconsciousness followed by cardiac arrest with minimal pain, distress, or anxiety.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Dissection</b> - The systematic cutting apart of an animal body to examine its anatomical structures.\n• <b style=\"color:#2563eb\">Option (3): Post Mortem</b> - An examination of a dead body performed to determine the cause of death.\n• <b style=\"color:#2563eb\">Option (4): Autopsy</b> - Specifically human post-mortem clinical examination (necropsy is used for animals)."
+  },
+  {
+    "id": 8,
+    "question": "Cryo-preservant used for cells consists of:",
+    "options": [
+      "10% DMSO in Fetal Bovine Serum",
+      "10% NO in Fetal Bovine Serum",
+      "10% HCl in Fetal Bovine Serum",
+      "5% HCl in Fetal Bovine Serum"
+    ],
+    "correct_answer": "10% DMSO in Fetal Bovine Serum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): 10% DMSO in Fetal Bovine Serum</b> is correct. In mammalian cell culture cryopreservation, 10% Dimethyl Sulfoxide (DMSO) dissolved in Fetal Bovine Serum (FBS) or complete medium acts as a penetrating cryoprotectant. It depresses the freezing point and prevents sharp ice crystal formation that would otherwise puncture cell membranes during storage in liquid nitrogen (-196°C).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 10% NO in Fetal Bovine Serum</b> - Nitric oxide (NO) is a toxic free radical gas.\n• <b style=\"color:#2563eb\">Option (3): 10% HCl in Fetal Bovine Serum</b> - Hydrochloric acid is a strong mineral acid that would immediately denature proteins, lyse cells, and destroy the culture.\n• <b style=\"color:#2563eb\">Option (4): 5% HCl in Fetal Bovine Serum</b> - Acidic solutions are lethal to cultured mammalian cells."
+  },
+  {
+    "id": 9,
+    "question": "An organism whose genome has been altered by the introduction of one or more foreign DNA sequences from another species by artificial means is known as:",
+    "options": [
+      "Transgenic",
+      "Humanized",
+      "Monoclonal",
+      "Inbred"
+    ],
+    "correct_answer": "Transgenic",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Transgenic</b> is correct. By standard biological and regulatory definition, a transgenic organism (GMO) has had stable exogenous genetic sequences (transgenes) from another species permanently introduced into its germline or somatic cells via recombinant DNA techniques.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Humanized</b> - A specific subcategory of transgenic models (e.g., mice carrying human immune genes or antibodies), not the general term for all inter-species DNA alterations.\n• <b style=\"color:#2563eb\">Option (3): Monoclonal</b> - Derived from a single ancestral cell clone (e.g., monoclonal antibodies from hybridomas).\n• <b style=\"color:#2563eb\">Option (4): Inbred</b> - Produced by mating closely related individuals over multiple generations to achieve genetic homozygosity."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of a transgenic plant?",
+    "options": [
+      "A plant produced by selective breeding for desirable traits",
+      "A plant treated with chemical fertilizers for enhanced growth",
+      "A plant containing genes from a different species",
+      "A plant grown using organic farming practices"
+    ],
+    "correct_answer": "A plant containing genes from a different species",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): A plant containing genes from a different species</b> is correct. Transgenesis strictly requires the insertion of recombinant DNA originating from an external heterologous source (another species, genus, or kingdom, such as bacterial Bt genes inserted into cotton).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A plant produced by selective breeding</b> - Classical artificial selection works strictly within existing natural gene pools.\n• <b style=\"color:#2563eb\">Option (2): A plant treated with chemical fertilizers</b> - Agronomic nutrient management, not a genomic modification.\n• <b style=\"color:#2563eb\">Option (4): A plant grown using organic farming</b> - An agricultural production system, completely unrelated to transgenics."
+  },
+  {
+    "id": 11,
+    "question": "What is the purpose of introducing Bacillus thuringiensis (Bt) genes into crops?",
+    "options": [
+      "To enhance plant growth and yield",
+      "To confer resistance against pests",
+      "To improve tolerance to herbicides",
+      "To increase the nutritional value of the crop"
+    ],
+    "correct_answer": "To confer resistance against pests",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): To confer resistance against pests</b> is correct. Bt crops produce Cry and Cyt delta-endotoxin crystal proteins that bind to specific receptors in the midgut of chewing insect pests (such as lepidopterans, coleopterans, and dipterans), creating pore formation, gut paralysis, and lethal septicemia, thus providing built-in pest resistance without synthetic chemical insecticides.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To enhance plant growth and yield</b> - Secondary benefit resulting from reduced insect damage, but pest resistance is the direct primary mechanism.\n• <b style=\"color:#2563eb\">Option (3): To improve tolerance to herbicides</b> - Conferred by EPSPS genes (e.g., Roundup Ready crops), not Bt genes.\n• <b style=\"color:#2563eb\">Option (4): To increase the nutritional value</b> - Conferred by metabolic engineering (like Golden Rice or high-oleic soybean)."
+  },
+  {
+    "id": 12,
+    "question": "Which method is commonly used for the transformation of plants with foreign genes?",
+    "options": [
+      "Microinjection",
+      "Electroporation",
+      "Agrobacterium-mediated transformation",
+      "Viral transduction"
+    ],
+    "correct_answer": "Agrobacterium-mediated transformation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Agrobacterium-mediated transformation</b> is correct. Known as 'nature's genetic engineer', the soil bacterium Agrobacterium tumefaciens naturally transfers a portion of its tumor-inducing (Ti) plasmid called T-DNA directly into plant host cells where it integrates into the nuclear chromosomes. Disarmed binary vector systems make it the most widely utilized and efficient transformation tool for dicot and monocot plants.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microinjection</b> - Difficult to perform on plant cells due to rigid cellulose cell walls and large vacuoles.\n• <b style=\"color:#2563eb\">Option (2): Electroporation</b> - Used primarily on wall-less plant protoplasts, which are challenging to regenerate into whole plants.\n• <b style=\"color:#2563eb\">Option (4): Viral transduction</b> - Commonly used in animal systems; plant viral vectors rarely integrate into the germline."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is an advantage of transgenic plants?",
+    "options": [
+      "Increased genetic diversity",
+      "Enhanced nutritional value",
+      "Reduced environmental impact",
+      "Decreased crop yield"
+    ],
+    "correct_answer": "Reduced environmental impact",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Reduced environmental impact</b> is selected (by eliminating or dramatically reducing the need for repeated spraying of toxic chemical insecticides and pesticides, minimizing chemical runoff into soil, waterways, and local ecosystems).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Increased genetic diversity</b> - Monoculture farming of transgenic crops can actually narrow field genetic diversity.\n• <b style=\"color:#2563eb\">Option (2): Enhanced nutritional value</b> - A key advantage of biofortified crops, but Option (3) is the designated answer.\n• <b style=\"color:#2563eb\">Option (4): Decreased crop yield</b> - Transgenic plants are engineered to increase, not decrease, harvest yield."
+  },
+  {
+    "id": 14,
+    "question": "Which regulatory agency is responsible for assessing the safety of transgenic plants before their commercial release?",
+    "options": [
+      "World Health Organization (WHO)",
+      "United States Department of Agriculture (USDA)",
+      "Food and Drug Administration (FDA)",
+      "Environmental Protection Agency (EPA)"
+    ],
+    "correct_answer": "Food and Drug Administration (FDA)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe answer key marks <b style=\"color:#2563eb\">Option (3): Food and Drug Administration (FDA)</b> (which oversees food and feed safety, nutritional equivalence, and allergenicity of genetically modified plant products under the Coordinated Framework).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): World Health Organization (WHO)</b> - International global health agency that issues global guidance, not a domestic regulatory approval body.\n• <b style=\"color:#2563eb\">Option (2): United States Department of Agriculture (USDA)</b> - Oversees environmental safety and agricultural pest risks (APHIS).\n• <b style=\"color:#2563eb\">Option (4): Environmental Protection Agency (EPA)</b> - Evaluates pesticides and plant-incorporated protectants (PIPs, like Bt Cry proteins)."
+  },
+  {
+    "id": 15,
+    "question": "What is the primary goal of generating transgenic animals?",
+    "options": [
+      "To study the genetics of wild animal populations",
+      "To create animals with enhanced physical characteristics",
+      "To investigate gene function and disease mechanisms",
+      "To improve animal welfare in agricultural practices"
+    ],
+    "correct_answer": "To investigate gene function and disease mechanisms",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): To investigate gene function and disease mechanisms</b> is correct. Transgenic animal models (especially transgenic and knockout mice) allow scientists to decipher in vivo gene functions, study human pathology (cancer, neurodegeneration, diabetes, cardiovascular diseases), and test pharmacological therapies in living physiological systems before clinical human trials.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To study the genetics of wild animal populations</b> - Addressed by population genetics, field sampling, and ecological genomics.\n• <b style=\"color:#2563eb\">Option (2): To create animals with enhanced physical characteristics</b> - Selective breeding is used in show and pet animals; not the primary goal of transgenics.\n• <b style=\"color:#2563eb\">Option (4): To improve animal welfare</b> - Welfare standards are guided by animal ethics committees, not genetic modification."
+  },
+  {
+    "id": 16,
+    "question": "Which technique is commonly used to generate transgenic animals?",
+    "options": [
+      "Microinjection",
+      "Electroporation",
+      "Viral transduction",
+      "CRISPR-Cas9 gene editing"
+    ],
+    "correct_answer": "Microinjection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Microinjection</b> is correct. Pronuclear microinjection (first pioneered by Gordon and Ruddle in 1980) has been the foundational, standard method for generating transgenic mice and livestock: linearized foreign DNA is directly injected into the male pronucleus of a fertilized single-cell zygote, which is then implanted into a pseudopregnant foster mother.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electroporation</b> - Used for introducing DNA into embryonic stem (ES) cells, but pronuclear microinjection is the classic animal generation method.\n• <b style=\"color:#2563eb\">Option (3): Viral transduction</b> - Uses lentiviruses; effective but carries insertional oncogenesis and packaging size constraints.\n• <b style=\"color:#2563eb\">Option (4): CRISPR-Cas9 gene editing</b> - A modern precision editing technology, while microinjection remains the classic physical delivery vehicle."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an example of a transgenic animal?",
+    "options": [
+      "An animal bred through selective mating for desired traits",
+      "An animal fed with genetically modified feed for improved growth",
+      "An animal expressing a fluorescent protein gene",
+      "An animal subjected to hormone treatments for increased milk production"
+    ],
+    "correct_answer": "An animal expressing a fluorescent protein gene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): An animal expressing a fluorescent protein gene</b> is correct. A classic example of a transgenic animal is GloFish (or GFP mice/rabbits), in which the gene encoding Green Fluorescent Protein (GFP from jellyfish Aequorea victoria) or red fluorescent protein is integrated into the animal's genome and expressed in its tissues, causing it to fluoresce under blue/UV light.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): An animal bred through selective mating</b> - Represents classical selective breeding within the species.\n• <b style=\"color:#2563eb\">Option (2): An animal fed with GM feed</b> - Dietary consumption of GM feed does not integrate foreign genes into the animal's genome.\n• <b style=\"color:#2563eb\">Option (4): An animal subjected to hormone treatments</b> - Physiological administration of bovine somatotropin (bST), not genetic modification."
+  },
+  {
+    "id": 18,
+    "question": "Which transgenic animal technique involves the removal or inactivation of specific genes to study their function?",
+    "options": [
+      "Gene knockout",
+      "Gene silencing",
+      "Gene overexpression",
+      "Gene amplification"
+    ],
+    "correct_answer": "Gene knockout",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Gene knockout</b> is correct. In gene knockout technology (pioneered by Capecchi, Evans, and Smithies, 2007 Nobel Prize), homologous recombination is used in embryonic stem (ES) cells to disrupt, delete, or replace a specific target gene, rendering it completely inoperative ('knocked out') to study the resulting phenotypic loss-of-function defects in living organisms.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Gene silencing</b> - Epigenetic or post-transcriptional downregulation of expression (e.g., via RNAi) without permanently deleting the DNA gene sequence.\n• <b style=\"color:#2563eb\">Option (3): Gene overexpression</b> - Introducing extra copies of a gene with a strong promoter to increase protein production.\n• <b style=\"color:#2563eb\">Option (4): Gene amplification</b> - Increasing copy number of a gene naturally (e.g., DHFR in methotrexate resistance) or via PCR."
+  },
+  {
+    "id": 19,
+    "question": "Which regulatory agency oversees the ethical and safety aspects of transgenic animal research?",
+    "options": [
+      "World Health Organization (WHO)",
+      "United States Department of Agriculture (USDA)",
+      "Food and Drug Administration (FDA)",
+      "Institutional Animal Care and Use Committee (IACUC)"
+    ],
+    "correct_answer": "Institutional Animal Care and Use Committee (IACUC)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (4): Institutional Animal Care and Use Committee (IACUC)</b> is correct. Every federally funded academic, medical, and commercial research institution maintaining laboratory animals must have an IACUC (or CPCSEA in India) that reviews every proposed protocol to ensure ethical adherence to the 3Rs (Replacement, Reduction, Refinement), humane handling, pain alleviation, and animal welfare.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): World Health Organization (WHO)</b> - Global consultative health body.\n• <b style=\"color:#2563eb\">Option (2): United States Department of Agriculture (USDA)</b> - Enforces the Animal Welfare Act (AWA) at the federal inspection level.\n• <b style=\"color:#2563eb\">Option (3): Food and Drug Administration (FDA)</b> - Regulates commercial transgenic animal food products (e.g., AquAdvantage salmon)."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is an example of a genetically engineered plant?",
+    "options": [
+      "A plant produced through conventional breeding techniques",
+      "A plant treated with chemical fertilizers for enhanced growth",
+      "A plant containing genes from a different species",
+      "A plant grown using organic farming practices"
+    ],
+    "correct_answer": "A plant containing genes from a different species",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): A plant containing genes from a different species</b> is correct. Genetic engineering (recombinant DNA technology) involves direct in vitro manipulation and transfer of defined DNA segments across species boundaries into host plant chromosomes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Conventional breeding</b> - Relies on natural pollination and crosses between sexually compatible plants.\n• <b style=\"color:#2563eb\">Option (2): Chemical fertilizers</b> - External chemical nutrients, not genome modification.\n• <b style=\"color:#2563eb\">Option (4): Organic farming</b> - A non-synthetic agricultural method, not genetic modification."
+  },
+  {
+    "id": 21,
+    "question": "What is the primary purpose of genetically engineering plants?",
+    "options": [
+      "To increase genetic diversity in plant populations",
+      "To enhance the visual appeal of plants",
+      "To improve crop yield and quality",
+      "To reduce the need for water in plant cultivation"
+    ],
+    "correct_answer": "To improve crop yield and quality",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): To improve crop yield and quality</b> is correct. The overarching goal of plant agricultural biotechnology is to sustainably meet global food security demands by increasing crop yields per hectare and boosting quality (such as higher protein content, longer shelf life, pest and disease tolerance, and enhanced micronutrient levels).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To increase genetic diversity</b> - Transgenic monocultures do not aim to maximize wild population diversity.\n• <b style=\"color:#2563eb\">Option (2): To enhance visual appeal</b> - Secondary ornamental objective (e.g., blue roses), not the primary agricultural goal.\n• <b style=\"color:#2563eb\">Option (4): To reduce need for water</b> - Drought resistance is one specific valuable sub-goal, but overall yield and quality is the comprehensive objective."
+  },
+  {
+    "id": 22,
+    "question": "Which technique is commonly used to introduce foreign genes into plant genomes?",
+    "options": [
+      "Agrobacterium-mediated transformation",
+      "Electroporation",
+      "Microinjection",
+      "CRISPR-Cas9 gene editing"
+    ],
+    "correct_answer": "Agrobacterium-mediated transformation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Agrobacterium-mediated transformation</b> is correct. It is the gold-standard biological method for introducing transgenes into plant tissue explants. The vir genes on the Ti plasmid excise the T-DNA containing the foreign gene and direct its transfer into the plant cell nucleus, integrating it stably into the plant chromosomes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electroporation</b> - Used mainly for wall-less protoplasts, which have poor whole-plant regeneration efficiency.\n• <b style=\"color:#2563eb\">Option (3): Microinjection</b> - Extremely labor-intensive and technically difficult due to thick plant cell walls and turgor pressure.\n• <b style=\"color:#2563eb\">Option (4): CRISPR-Cas9 gene editing</b> - A gene-editing mechanism that modifies existing endogenous DNA rather than acting as a standard primary vector delivery technique."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an advantage of genetically engineered plants?",
+    "options": [
+      "Increased genetic diversity in ecosystems",
+      "Reduced environmental impact in agriculture",
+      "Enhanced resistance to natural disasters",
+      "Decreased crop yield and quality"
+    ],
+    "correct_answer": "Reduced environmental impact in agriculture",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Reduced environmental impact in agriculture</b> is correct. By cultivating pest-resistant (Bt) and herbicide-tolerant crops, agricultural operations have drastically decreased the frequency and quantity of broad-spectrum synthetic chemical pesticide spraying, thereby reducing chemical toxicity to farmworkers, non-target beneficial insects, and soil water tables.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Increased genetic diversity</b> - Transgenic crop adoption typically involves standardized monocultures.\n• <b style=\"color:#2563eb\">Option (3): Enhanced resistance to natural disasters</b> - Crops cannot resist physical earthquakes, floods, or hurricanes.\n• <b style=\"color:#2563eb\">Option (4): Decreased crop yield and quality</b> - Plants are engineered to enhance, not decrease, yield."
+  },
+  {
+    "id": 24,
+    "question": "Which regulatory agency is responsible for assessing the safety of genetically engineered plants before their commercial release?",
+    "options": [
+      "World Health Organization (WHO)",
+      "United States Department of Agriculture (USDA)",
+      "Food and Drug Administration (FDA)",
+      "Environmental Protection Agency (EPA)"
+    ],
+    "correct_answer": "Food and Drug Administration (FDA)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Food and Drug Administration (FDA)</b> is marked (evaluating that foods derived from genetically engineered plants are safe to eat, nutritious, and meet all food allergen and safety standards).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): World Health Organization (WHO)</b> - Global advisory body without national regulatory authority.\n• <b style=\"color:#2563eb\">Option (2): United States Department of Agriculture (USDA)</b> - Evaluates agricultural environmental plant-pest safety through APHIS.\n• <b style=\"color:#2563eb\">Option (4): Environmental Protection Agency (EPA)</b> - Regulates plant-incorporated protectants and pesticide tolerance levels."
+  }
+]

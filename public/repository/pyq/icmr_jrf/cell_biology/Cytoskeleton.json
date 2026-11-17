@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "Microtubule and microfilament are composed of which type of protein?",
+    "options": [
+      "Tubulin and Actin, respectively",
+      "Tubulin and Flagellin, respectively",
+      "Actin and Tubulin, respectively",
+      "Tubulin and Dynein, respectively"
+    ],
+    "correct_answer": "Tubulin and Actin, respectively",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Tubulin and Actin, respectively</b> is correct. Microtubules are hollow cylindrical filaments (~25 nm diameter) assembled from alpha- and beta-tubulin heterodimers, whereas microfilaments (actin filaments) are thin helical polymers (~7 nm diameter) assembled from globular actin (G-actin) subunits.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Tubulin and Flagellin, respectively</b> - Flagellin is the globular protein polymerizing into bacterial flagella, not eukaryotic microfilaments.\n• <b style=\"color:#2563eb\">Option (3): Actin and Tubulin, respectively</b> - Inverts the matching order of the two cytoskeletal polymers.\n• <b style=\"color:#2563eb\">Option (4): Tubulin and Dynein, respectively</b> - Dynein is a minus-end-directed microtubule motor protein, not the building block of microfilaments."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is NOT a component of the cytoskeleton?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Golgi apparatus"
+    ],
+    "correct_answer": "Golgi apparatus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Golgi apparatus</b> is correct because the Golgi apparatus is a membrane-enclosed endomembrane organelle (a stack of flattened cisternae) functioning in protein and lipid modification and sorting, not a cytoskeletal filamentous structural element.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - The largest principal polymeric filament class of the eukaryotic cytoskeleton (25 nm diameter).\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - The mechanically resilient, rope-like cytoskeletal element (10 nm diameter).\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - The thin microfilament class (7 nm diameter) mediating cell shape and motility."
+  },
+  {
+    "id": 3,
+    "question": "Which cytoskeletal component is involved in muscle contraction?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Nucleoli"
+    ],
+    "correct_answer": "Actin filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Actin filaments</b> is correct. In muscle sarcomeres, thin filaments are composed of polymerized filamentous actin (F-actin) complexed with tropomyosin and troponin. During contraction, myosin II motor heads hydrolyze ATP to walk along actin filaments, pulling them toward the M-line in the sliding filament mechanism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Organize intracellular transport and mitotic spindle division, but do not form the contractile sarcomeric machinery.\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Desmin provides structural alignment across Z-discs, but does not participate in active force-generating sliding.\n• <b style=\"color:#2563eb\">Option (4): Nucleoli</b> - Subnuclear sites for ribosomal RNA transcription and pre-ribosomal subunit assembly."
+  },
+  {
+    "id": 4,
+    "question": "Which cytoskeletal component forms the mitotic spindle during cell division?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Peroxisomes"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microtubules</b> is correct. The mitotic spindle apparatus is constructed of dynamic microtubules (kinetochore microtubules, polar/interpolar microtubules, and astral microtubules) nucleated from opposing centrosomes (gamma-tubulin ring complexes) that capture chromosomes at kinetochores and segregate sister chromatids during anaphase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Disassemble (e.g., nuclear lamins phosphorylated by CDK1) during mitosis to allow nuclear envelope breakdown.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Form the cortical contractile ring during cytokinesis, but do not form the spindle apparatus.\n• <b style=\"color:#2563eb\">Option (4): Peroxisomes</b> - Metabolic organelles that break down very-long-chain fatty acids."
+  },
+  {
+    "id": 5,
+    "question": "Which cytoskeletal component provides mechanical strength to cells?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Ribosomes"
+    ],
+    "correct_answer": "Intermediate filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> is correct. Intermediate filaments (e.g., keratins in epithelia, desmin in muscle, neurofilaments in axons, and vimentin in mesenchymal cells) have a high tensile strength, elasticity, and rope-like tetrameric coiled-coil architecture that enables cells and tissues to withstand substantial mechanical stress and deformation without shearing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Highly rigid and withstand compressive forces, but buckle easily under shear/tensile stress.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Form flexible cross-linked networks primarily governing dynamic cell motility and cortical tension.\n• <b style=\"color:#2563eb\">Option (4): Ribosomes</b> - Protein-synthesizing ribonucleoprotein complexes with no mechanical structural role."
+  },
+  {
+    "id": 6,
+    "question": "Which cytoskeletal component is responsible for cell crawling and pseudopod formation?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Lysosomes"
+    ],
+    "correct_answer": "Actin filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Actin filaments</b> is correct. Cell crawling, amoeboid movement, and pseudopod/lamellipodia extension are driven by the localized, rapid polymerization of actin filaments beneath the plasma membrane. Nucleation-promoting factors activate the Arp2/3 complex to nucleate branched dendritic actin meshworks that push the leading edge membrane forward.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Provide polarized tracks for vesicular transport to deliver membrane components to the front, but do not push pseudopodia protrusions.\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Stable structural scaffolds with slow turnover, not dynamic locomotory drivers.\n• <b style=\"color:#2563eb\">Option (4): Lysosomes</b> - Intracellular digestive vesicles."
+  },
+  {
+    "id": 7,
+    "question": "Which cytoskeletal component is associated with cilia and flagella?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Endosomes"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microtubules</b> is correct. Eukaryotic cilia and flagella are motility organelles built upon a core microtubular axoneme. The axoneme possesses a characteristic '9 + 2' architecture consisting of nine outer doublet microtubules surrounding two central singlet microtubules, nucleated from a basal body ('9 + 0' triplet microtubules).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Not found inside cilia or flagellar axonemes.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Form the structural core of microvilli and stereocilia, but not motile cilia or eukaryotic flagella.\n• <b style=\"color:#2563eb\">Option (4): Endosomes</b> - Membranous compartments involved in endocytic sorting."
+  },
+  {
+    "id": 8,
+    "question": "Which cytoskeletal component forms the nuclear lamina?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Mitochondria"
+    ],
+    "correct_answer": "Intermediate filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> is correct. The nuclear lamina is a dense two-dimensional fibrous meshwork lining the inner nuclear membrane, composed of Type V intermediate filament proteins termed nuclear lamins (Lamins A, B, and C). The lamina maintains nuclear envelope shape, provides anchoring sites for chromatin, and regulates DNA replication and transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Cytoplasmic filaments that associate externally with the outer nuclear membrane via LINC complexes, but do not form the lamina.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Nuclear actin regulates transcription complexes, but does not form the lamin fibrous meshwork.\n• <b style=\"color:#2563eb\">Option (4): Mitochondria</b> - Energy-producing cytoplasmic organelles."
+  },
+  {
+    "id": 9,
+    "question": "Which cytoskeletal component is involved in intracellular transport?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Vacuoles"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microtubules</b> is correct. Microtubules serve as the primary long-distance 'railroad tracks' for intracellular transport of vesicles, organelles, mRNAs, and protein complexes. Molecular motor proteins kinesin (anterograde, plus-end directed) and dynein (retrograde, minus-end directed) hydrolyze ATP to walk processively along microtubules.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Lack intrinsic polarity and have no associated motor proteins for targeted directional transport.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Myosins move vesicles along actin over short distances (e.g., at the cell cortex), but long-range highways are microtubules.\n• <b style=\"color:#2563eb\">Option (4): Vacuoles</b> - Organellar storage compartments rather than transport tracks."
+  },
+  {
+    "id": 10,
+    "question": "Which protein family is responsible for the assembly and disassembly of actin filaments in the cytoskeleton?",
+    "options": [
+      "Myosin",
+      "Tubulin",
+      "Keratin",
+      "G-actin"
+    ],
+    "correct_answer": "G-actin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): G-actin</b> is correct. Globular actin (G-actin) is the 42 kDa monomeric precursor that binds ATP. Above the critical concentration ($C_c$), G-actin monomers reversibly assemble into helical filamentous actin (F-actin). As ATP is hydrolyzed to ADP within the filament, aging subunits undergo treadmilling and disassemble back into free G-actin monomers to maintain cytoskeletal turnover.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Myosin</b> - Motor protein superfamily that walks along actin filaments to produce contraction and tension.\n• <b style=\"color:#2563eb\">Option (2): Tubulin</b> - Subunit building block of microtubules, entirely unrelated to actin filament polymers.\n• <b style=\"color:#2563eb\">Option (3): Keratin</b> - Intermediate filament protein found in epithelial cells, fingernails, and hair."
+  },
+  {
+    "id": 11,
+    "question": "Which motor protein is responsible for the movement of vesicles along microtubules?",
+    "options": [
+      "Kinesin",
+      "Dynein",
+      "Myosin",
+      "Actin"
+    ],
+    "correct_answer": "Kinesin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Kinesin</b> is correct. Kinesins are microtubule-based motor proteins that utilize the chemical energy of ATP hydrolysis to transport secretory vesicles, lysosomes, and organelles toward the plus (+) end of microtubules (anterograde transport, moving from the centrosome/cell body out toward the cell periphery/axon terminus).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Dynein</b> - Minus-end-directed microtubule motor mediating retrograde transport toward the cell center.\n• <b style=\"color:#2563eb\">Option (3): Myosin</b> - An actin-dependent motor protein family (e.g., myosin V, myosin II) moving along microfilaments.\n• <b style=\"color:#2563eb\">Option (4): Actin</b> - Structural cytoskeletal filament, not a motor protein."
+  },
+  {
+    "id": 12,
+    "question": "Which cytoskeletal component forms the primary structure of the axoneme in cilia and flagella?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Microfilaments"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microtubules</b> is correct. The axoneme is the structural core and motor engine of motile cilia and flagella. It consists of a 9+2 arrangement where nine doublet microtubules (each comprising a complete 13-protofilament A-tubule and an incomplete 10-protofilament B-tubule) surround a central pair of singlet microtubules, held together by nexin links and radial spokes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Absent from cilia and flagellar axonemes.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Form microvilli core bundles, not axonemal cilia structures.\n• <b style=\"color:#2563eb\">Option (4): Microfilaments</b> - Synonymous with actin filaments; do not construct axonemes."
+  },
+  {
+    "id": 13,
+    "question": "Which protein family is responsible for connecting intermediate filaments to other cytoskeletal components or cell-matrix adhesions?",
+    "options": [
+      "Cadherins",
+      "Integrins",
+      "Plectins",
+      "Collagens"
+    ],
+    "correct_answer": "Plectins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Plectins</b> is correct. Plectin is a giant multi-domain cytolinker protein of the plakin family. It physically cross-links intermediate filaments into bundles and attaches them to microtubules, actin filaments, the nuclear envelope, and to transmembrane adhesion complexes such as hemidesmosomes (via integrin alpha6beta4) and desmosomes, integrating mechanical tension throughout the cytoplasm.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cadherins</b> - Transmembrane cell-cell adhesion molecules forming adherens junctions and desmosomes.\n• <b style=\"color:#2563eb\">Option (2): Integrins</b> - Transmembrane heterodimeric receptors mediating cell-extracellular matrix adhesion.\n• <b style=\"color:#2563eb\">Option (4): Collagens</b> - Extracellular matrix structural glycoproteins outside the cell."
+  },
+  {
+    "id": 14,
+    "question": "Which protein forms the contractile ring during cytokinesis in animal cells?",
+    "options": [
+      "Tubulin",
+      "Actin",
+      "Myosin",
+      "Keratin"
+    ],
+    "correct_answer": "Actin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Actin</b> is correct. During telophase of animal cell mitosis, dynamic filamentous actin (F-actin) assembles just beneath the equatorial plasma membrane to form the contractile ring. Together with non-muscle myosin II, this actin-based ring constricts like a purse-string, generating the cleavage furrow that splits the cell into two daughter cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Tubulin</b> - Polymerizes into the mitotic spindle and central spindle midzone, but does not form the contractile purse-string ring.\n• <b style=\"color:#2563eb\">Option (3): Myosin</b> - Myosin II provides motor activity to contract the ring, but actin filaments constitute the structural ring filament designated here.\n• <b style=\"color:#2563eb\">Option (4): Keratin</b> - Intermediate filament providing mechanical resilience, not cytokinesis constriction."
+  },
+  {
+    "id": 15,
+    "question": "Which cytoskeletal component is involved in the formation of cell protrusions, such as lamellipodia and filopodia?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Microfilaments"
+    ],
+    "correct_answer": "Actin filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Actin filaments</b> is correct. Lamellipodia (broad, sheet-like protrusions) are driven by the branching polymerization of actin filaments regulated by the Arp2/3 complex and Rac GTPase, whereas filopodia (slender, finger-like tactile spikes) are formed by parallel unbranched actin bundles nucleated by formins and Ena/VASP proteins regulated by Cdc42.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Extend into the cell body and lamella to guide delivery, but do not push protrusion rims.\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - End well before the highly dynamic leading edge of motile cells.\n• <b style=\"color:#2563eb\">Option (4): Microfilaments</b> - Although microfilaments is another term for actin filaments, 'Actin filaments' is the specific option designated in the answer key."
+  },
+  {
+    "id": 16,
+    "question": "Which cytoskeletal component is targeted by taxol, a chemotherapeutic drug?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Keratin"
+    ],
+    "correct_answer": "Microtubules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microtubules</b> is correct. Taxol (paclitaxel), originally isolated from the bark of the Pacific yew tree (Taxus brevifolia), specifically binds to the beta-tubulin subunit on the inner surface of microtubules. It stabilizes microtubules and prevents depolymerization, freezing dynamic mitotic spindle fibers and arresting rapidly dividing cancer cells in mitosis (spindle assembly checkpoint activation), triggering apoptosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Not affected by taxol or vinca alkaloids.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Targeted by drugs like cytochalasins (inhibit polymerization) and phalloidin (stabilizes actin), not taxol.\n• <b style=\"color:#2563eb\">Option (4): Keratin</b> - An intermediate filament unaffected by taxol."
+  },
+  {
+    "id": 17,
+    "question": "The dynamic instability of microtubules is regulated by:",
+    "options": [
+      "Actin filaments",
+      "Kinesin",
+      "Dynein",
+      "GTP hydrolysis"
+    ],
+    "correct_answer": "GTP hydrolysis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): GTP hydrolysis</b> is correct. Microtubules display dynamic instability—the stochastic alternation between phases of slow growth and rapid shrinkage (catastrophe/rescue). Soluble tubulin heterodimers bind GTP; upon incorporation into the plus end, beta-tubulin hydrolyzes GTP to GDP. When polymer growth outpaces hydrolysis, a stabilizing 'GTP cap' is maintained; if GTP hydrolysis catches up, the GDP-tubulin core becomes mechanically strained and rapidly peels apart in a catastrophe.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Actin filaments</b> - Independent cytoskeletal network that hydrolyzes ATP, not regulating microtubule dynamic instability.\n• <b style=\"color:#2563eb\">Option (2): Kinesin</b> - Motor protein utilizing ATP hydrolysis for movement along microtubules.\n• <b style=\"color:#2563eb\">Option (3): Dynein</b> - Motor protein utilizing ATP hydrolysis for minus-end-directed transport."
+  },
+  {
+    "id": 18,
+    "question": "Which motor protein is responsible for the transport of cargo towards the minus end of microtubules?",
+    "options": [
+      "Kinesin",
+      "Dynein",
+      "Myosin",
+      "Actin"
+    ],
+    "correct_answer": "Dynein",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Dynein</b> is correct. Cytoplasmic dynein is a massive multi-protein AAA+ motor complex that uses ATP hydrolysis to drive processive movement toward the minus (-) end of microtubules (retrograde transport, directing cargo toward the centrosome/microtubule organizing center in the cell interior, assisted by the dynactin complex).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Kinesin</b> - Most kinesins (e.g., Kinesin-1) walk toward the plus (+) end of microtubules (anterograde transport).\n• <b style=\"color:#2563eb\">Option (3): Myosin</b> - Motor protein that translocates along actin microfilaments, not microtubules.\n• <b style=\"color:#2563eb\">Option (4): Actin</b> - Non-motor structural filament."
+  },
+  {
+    "id": 19,
+    "question": "Which cytoskeletal component is involved in the formation of cleavage furrow during cytokinesis in animal cells?",
+    "options": [
+      "Actin filaments",
+      "Intermediate filaments",
+      "Microtubules",
+      "Keratin"
+    ],
+    "correct_answer": "Actin filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Actin filaments</b> is correct. The cleavage furrow is produced by the inward contraction of an equatorial actomyosin contractile ring composed of anti-parallel actin filaments sliding past non-muscle myosin II motor filaments, progressively constricting the plasma membrane inward until abscission separates the two daughter cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> - Undergo disassembly or passive segregation during cytokinesis.\n• <b style=\"color:#2563eb\">Option (3): Microtubules</b> - Form the spindle midzone that positions the furrow via RhoA activation signals, but the physical contractile furrow itself is formed by actin.\n• <b style=\"color:#2563eb\">Option (4): Keratin</b> - Epithelial intermediate filament providing mechanical resilience, not cytokinesis constriction."
+  },
+  {
+    "id": 20,
+    "question": "Which protein is responsible for cross-linking and stabilizing actin filaments in the cytoskeleton?",
+    "options": [
+      "Tubulin",
+      "Spectrin",
+      "Keratin",
+      "Myosin"
+    ],
+    "correct_answer": "Spectrin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Spectrin</b> is correct. Spectrin is a large, flexible rod-like cytolinker tetramer ($(\\alpha\\beta)_2$) that forms a planar hexagonal web beneath the plasma membrane (notably in red blood cells). It cross-links short actin oligomers at junctional complexes (with protein 4.1 and adducin) and anchors to ankyrin, stabilizing the lipid bilayer and conferring high deformability.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Tubulin</b> - Subunit of microtubules, does not cross-link actin.\n• <b style=\"color:#2563eb\">Option (3): Keratin</b> - Intermediate filament protein forming tonofilaments.\n• <b style=\"color:#2563eb\">Option (4): Myosin</b> - Motor protein generating contractile force rather than serving as the principal structural cross-linking meshwork."
+  },
+  {
+    "id": 21,
+    "question": "Which protein forms the primary building block of intermediate filaments?",
+    "options": [
+      "Actin",
+      "Tubulin",
+      "Vimentin",
+      "Myosin"
+    ],
+    "correct_answer": "Vimentin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Vimentin</b> is correct. Vimentin is a prototypical Type III intermediate filament protein abundantly expressed in mesenchymal cells, fibroblasts, endothelial cells, and leukocytes. Two parallel vimentin monomers assemble into a coiled-coil dimer, which pairs antiparallel into a non-polar staggered tetramer; eight tetramers pack laterally into a unit-length filament (ULF) that elongates into mature 10-nm intermediate filaments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Actin</b> - Subunit of microfilaments.\n• <b style=\"color:#2563eb\">Option (2): Tubulin</b> - Subunit of microtubules.\n• <b style=\"color:#2563eb\">Option (4): Myosin</b> - Actin-dependent motor protein."
+  },
+  {
+    "id": 22,
+    "question": "Which cytoskeletal component is involved in the maintenance of cell shape and mechanical stability?",
+    "options": [
+      "Microtubules",
+      "Intermediate filaments",
+      "Actin filaments",
+      "Microfilaments"
+    ],
+    "correct_answer": "Intermediate filaments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Intermediate filaments</b> is correct. Intermediate filaments function predominantly as mechanical shock absorbers in animal cells. Because they do not exhibit dynamic catastrophe and are resistant to severe stretching and compression, they distribute mechanical stresses across epithelial sheets (anchoring to desmosomes and hemidesmosomes) to preserve cellular and tissue integrity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Microtubules</b> - Maintain shape against compressive loads, but intermediate filaments are the prime mechanical stability provider designated by the curriculum.\n• <b style=\"color:#2563eb\">Option (3): Actin filaments</b> - Regulate cortical tension and motile shape changes rather than high-strain mechanical stability.\n• <b style=\"color:#2563eb\">Option (4): Microfilaments</b> - Synonymous with actin filaments."
+  }
+]

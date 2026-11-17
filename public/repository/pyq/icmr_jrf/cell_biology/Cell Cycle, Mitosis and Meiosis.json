@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "question": "What is Cytokinesis",
+    "options": [
+      "Chromosome condensation",
+      "Spindle formation",
+      "Division of cytoplasm",
+      "Separation of chromatids"
+    ],
+    "correct_answer": "Division of cytoplasm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Division of cytoplasm</b> is correct. Cytokinesis is the physical process of cytoplasmic division following nuclear division (karyokinesis). In animal cells, it occurs through the inward constriction of an actomyosin contractile ring forming a cleavage furrow; in plant cells, it occurs by the centrifugal outward fusion of Golgi-derived phragmoplast vesicles forming a cell plate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chromosome condensation</b> - Occurs during prophase of mitosis, driven by condensin complexes.\n• <b style=\"color:#2563eb\">Option (2): Spindle formation</b> - Microtubular spindle apparatus assembles between centrosomes during prophase and prometaphase.\n• <b style=\"color:#2563eb\">Option (4): Separation of chromatids</b> - Occurs during anaphase of mitosis (or anaphase II of meiosis) upon separase cleavage of cohesin."
+  },
+  {
+    "id": 2,
+    "question": "The function of the centrosome is:",
+    "options": [
+      "Formation of spindle fibers",
+      "Osmoregulation",
+      "Secretion",
+      "Protein synthesis"
+    ],
+    "correct_answer": "Formation of spindle fibers",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Formation of spindle fibers</b> is correct. The centrosome is the principal microtubule-organizing center (MTOC) of animal cells. It consists of a pair of orthogonally oriented centrioles surrounded by pericentriolar material (PCM) rich in gamma-tubulin ring complexes (gamma-TuRCs), which nucleate and organize the dynamic spindle microtubules required for chromosome segregation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Osmoregulation</b> - Carried out by contractile vacuoles in protists and by transmembrane aquaporins/ion pumps in animal cells.\n• <b style=\"color:#2563eb\">Option (3): Secretion</b> - Mediated by the endoplasmic reticulum, Golgi complex, and secretory vesicles.\n• <b style=\"color:#2563eb\">Option (4): Protein synthesis</b> - Performed by ribosomes translating mRNA."
+  },
+  {
+    "id": 3,
+    "question": "From prenatal life to puberty the primary oocyte remains in",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correct_answer": "Prophase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Prophase</b> (specifically the diplotene stage of prophase I of meiosis, also known as dictyate/dictyotene) is correct. In human females, oogonia enter meiosis I during fetal development and arrest at diplotene before birth. They remain suspended in this prolonged dormancy until individual follicles are stimulated to mature by surges of gonadotropic hormones starting at puberty.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Metaphase</b> - The secondary oocyte arrests at metaphase II of meiosis after ovulation, resuming only upon fertilization by a spermatozoon.\n• <b style=\"color:#2563eb\">Option (3): Anaphase</b> - Rapid transient segregation stage, not a developmental arrest phase.\n• <b style=\"color:#2563eb\">Option (4): Telophase</b> - Final phase leading into cytokinesis."
+  },
+  {
+    "id": 4,
+    "question": "In an organism, if the normal diploid number of chromosomes is 8, how many chromatids are present in each daughter cell at the end of meiosis I?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "correct_answer": "4",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 4</b> is correct. In a diploid organism with 2n = 8 chromosomes, meiosis I is the reductional division. During anaphase I, homologous chromosomes disjoin so that each daughter cell receives a haploid complement of n = 4 chromosomes. While each chromosome retains 2 sister chromatids (totaling 8 chromatids), the official key designates Option (2) [4] corresponding to the haploid chromosome set.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 2</b> - Represents n/2, half of the haploid count.\n• <b style=\"color:#2563eb\">Option (3): 8</b> - The total chromatid count per haploid cell (4 chromosomes × 2 sister chromatids), but Option (2) is designated in the official key.\n• <b style=\"color:#2563eb\">Option (4): 16</b> - Total chromatid count in the pre-meiotic G2/prophase I meiocyte prior to reductional division."
+  },
+  {
+    "id": 5,
+    "question": "During which phase of mitosis do the chromosomes align at the equatorial plane?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "correct_answer": "Metaphase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Metaphase</b> is correct. During metaphase, kinetochore microtubules from opposite centrosomal spindle poles exert opposing mechanical pulling forces (congression) on kinetochores, aligning all highly condensed double-chromatid chromosomes symmetrically along the equatorial plane (metaphase plate).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Prophase</b> - Chromosomes condense, nucleoli disappear, and the mitotic spindle initiates assembly, but chromosomes are not yet equatorially aligned.\n• <b style=\"color:#2563eb\">Option (3): Anaphase</b> - Cohesin is cleaved and sister chromatids are pulled apart toward opposite poles.\n• <b style=\"color:#2563eb\">Option (4): Telophase</b> - Daughter chromosomes reach poles and decondense inside newly forming nuclear membranes."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is responsible for organizing and separating the chromosomes during mitosis?",
+    "options": [
+      "Centrioles",
+      "Nucleolus",
+      "Lysosomes",
+      "Golgi apparatus"
+    ],
+    "correct_answer": "Centrioles",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Centrioles</b> (as the core elements of the centrosomes) is correct. Centrioles duplicate during S phase and migrate to opposite cellular poles during prophase, organizing the spindle fibers that attach to kinetochores to align and pull chromosomes apart during anaphase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Nucleolus</b> - Subnuclear structure that disassembles during prophase and has no role in chromosome segregation.\n• <b style=\"color:#2563eb\">Option (3): Lysosomes</b> - Digestive organelles that do not interact with the mitotic spindle.\n• <b style=\"color:#2563eb\">Option (4): Golgi apparatus</b> - Undergoes fragmentation during mitosis into vesicular clusters, playing no role in chromosome movement."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following statements about anaphase in mitosis is correct?",
+    "options": [
+      "Chromosomes condense and become visible",
+      "Nuclear envelope reforms around the chromosomes",
+      "Sister chromatids separate and move toward opposite poles",
+      "Cell starts to divide into two daughter cells"
+    ],
+    "correct_answer": "Sister chromatids separate and move toward opposite poles",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sister chromatids separate and move toward opposite poles</b> is correct. The transition to anaphase is triggered by the Anaphase-Promoting Complex/Cyclosome (APC/C), which activates separase to cleave the cohesin rings holding sister chromatids together. Kinetochore microtubules depolymerize at their plus ends (Anaphase A) and spindle poles push apart (Anaphase B), pulling the sister chromatids toward opposite spindle poles.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chromosomes condense and become visible</b> - Defining event of prophase.\n• <b style=\"color:#2563eb\">Option (2): Nuclear envelope reforms around the chromosomes</b> - Defining event of telophase.\n• <b style=\"color:#2563eb\">Option (4): Cell starts to divide into two daughter cells</b> - Defining event of cytokinesis."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following events occurs during telophase of mitosis?",
+    "options": [
+      "Chromosomes condense and become visible",
+      "Sister chromatids separate and move toward opposite poles",
+      "Nuclear envelope reforms around the chromosomes",
+      "Cell starts to divide into two daughter cells"
+    ],
+    "correct_answer": "Nuclear envelope reforms around the chromosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nuclear envelope reforms around the chromosomes</b> is correct. During telophase (the reversal of prophase), separated chromatids cluster at the poles and decondense back into diffuse chromatin. Dephosphorylated nuclear lamins and nuclear envelope vesicles reassemble around each daughter chromosome set, and nucleoli reappear.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chromosomes condense and become visible</b> - Characteristic of prophase.\n• <b style=\"color:#2563eb\">Option (2): Sister chromatids separate and move toward opposite poles</b> - Characteristic of anaphase.\n• <b style=\"color:#2563eb\">Option (4): Cell starts to divide into two daughter cells</b> - Physical cytoplasmic division is cytokinesis."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is responsible for ensuring that each daughter cell receives a complete set of chromosomes during mitosis?",
+    "options": [
+      "Spindle fibers",
+      "Centrioles",
+      "Nuclear pores",
+      "Nucleosomes"
+    ],
+    "correct_answer": "Spindle fibers",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Spindle fibers</b> is correct. Dynamic microtubular spindle fibers attach bi-orientedly to opposing kinetochores of sister chromatids. The spindle assembly checkpoint (SAC) monitors mechanical tension across kinetochores, ensuring all chromosomes are properly attached before anaphase onset to guarantee equal chromosome transmission to both daughter cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Centrioles</b> - Centrioles anchor the centrosome MTOCs, but the dynamic physical executors mediating mechanical segregation are the spindle fibers.\n• <b style=\"color:#2563eb\">Option (3): Nuclear pores</b> - Disassemble during prometaphase and reassemble in telophase; do not segregate DNA.\n• <b style=\"color:#2563eb\">Option (4): Nucleosomes</b> - Fundamental structural units of chromatin (histone octamer + 147 bp DNA), having no active segregating function."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a characteristic feature of prophase in mitosis?",
+    "options": [
+      "Chromosomes align at the equatorial plane",
+      "Nuclear envelope reforms around the chromosomes",
+      "Sister chromatids separate and move toward opposite poles",
+      "Chromosomes condense and become visible"
+    ],
+    "correct_answer": "Chromosomes condense and become visible",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Chromosomes condense and become visible</b> is correct. Prophase is the introductory stage of mitosis characterized by the progressive folding and condensation of diffuse interphase chromatin into distinct, visible rod-like chromosomes by condensin complexes, accompanied by nucleolar disassembly and centrosome migration.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chromosomes align at the equatorial plane</b> - Hallmark of metaphase.\n• <b style=\"color:#2563eb\">Option (2): Nuclear envelope reforms around the chromosomes</b> - Hallmark of telophase.\n• <b style=\"color:#2563eb\">Option (3): Sister chromatids separate and move toward opposite poles</b> - Hallmark of anaphase."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following events occurs during Anaphase I of meiosis?",
+    "options": [
+      "Homologous chromosomes separate and move towards opposite poles.",
+      "Sister chromatids separate and move towards opposite poles.",
+      "Chromosomes condense and become visible.",
+      "Nuclear envelope reforms around the chromosomes."
+    ],
+    "correct_answer": "Sister chromatids separate and move towards opposite poles.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Sister chromatids separate and move towards opposite poles.</b> is designated in the answer key. In standard meiosis, homologous chromosomes disjoin during Anaphase I while sister chromatid separation occurs during Anaphase II (following loss of centromeric cohesin protection by shugoshin/PP2A). However, as designated in the official answer key, Option (2) is designated for this question.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Homologous chromosomes separate and move towards opposite poles.</b> - Biological hallmark of reductional division in Anaphase I, but Option (2) is designated in the official answer key.\n• <b style=\"color:#2563eb\">Option (3): Chromosomes condense and become visible.</b> - Occurs during prophase I (leptotene stage).\n• <b style=\"color:#2563eb\">Option (4): Nuclear envelope reforms around the chromosomes.</b> - Occurs during telophase I."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is a characteristic feature of Prophase II in meiosis?",
+    "options": [
+      "Synapsis and crossing over occur.",
+      "Homologous chromosomes separate and move towards opposite poles.",
+      "Sister chromatids condense and become visible.",
+      "Nuclear envelope reforms around the chromosomes."
+    ],
+    "correct_answer": "Sister chromatids condense and become visible.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sister chromatids condense and become visible.</b> is correct. After brief interkinesis, cells enter prophase II without intervening DNA replication. The chromosomes (each consisting of two non-identical, recombined sister chromatids joined at centromeres) recondense and become visible, the nuclear envelopes break down, and a new spindle apparatus forms in each haploid daughter cell.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Synapsis and crossing over occur.</b> - Occurs exclusively during Prophase I (zygotene and pachytene stages).\n• <b style=\"color:#2563eb\">Option (2): Homologous chromosomes separate and move towards opposite poles.</b> - Occurs during Anaphase I.\n• <b style=\"color:#2563eb\">Option (4): Nuclear envelope reforms around the chromosomes.</b> - Occurs during Telophase II."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following contributes to genetic diversity during meiosis?",
+    "options": [
+      "Synapsis",
+      "Independent assortment",
+      "Crossing over",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): All of the above</b> is correct. Meiotic generation of novel genetic variation relies on: (1) synapsis that precisely aligns homologous chromosome pairs, (2) crossing over (homologous recombination during pachytene) that shuffles maternal and paternal alleles into novel combinations, and (3) independent assortment of maternal and paternal chromosomes during metaphase/anaphase I ($2^n$ distinct gametic combinations).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Synapsis</b> - Essential physical prerequisite for recombination, contributing as part of the overall meiotic diversification process.\n• <b style=\"color:#2563eb\">Option (2): Independent assortment</b> - Generates astronomical combinations of parental chromosomes, but works together with crossing over.\n• <b style=\"color:#2563eb\">Option (3): Crossing over</b> - Creates chimeric recombinant chromosomes, but acts alongside independent assortment."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a characteristic feature of Telophase I in meiosis?",
+    "options": [
+      "Homologous chromosomes separate and move towards opposite poles.",
+      "Sister chromatids separate and move towards opposite poles.",
+      "Chromosomes condense and become visible.",
+      "Nuclear envelope reforms around the chromosomes."
+    ],
+    "correct_answer": "Homologous chromosomes separate and move towards opposite poles.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Homologous chromosomes separate and move towards opposite poles.</b> is designated in the answer key. At the transition from anaphase I into telophase I, the reductionally segregated homologous chromosomes complete their arrival at opposite spindle poles to establish the newly partitioned haploid chromosome sets.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Sister chromatids separate and move towards opposite poles.</b> - Characteristic of anaphase II.\n• <b style=\"color:#2563eb\">Option (3): Chromosomes condense and become visible.</b> - Characteristic of prophase I / prophase II.\n• <b style=\"color:#2563eb\">Option (4): Nuclear envelope reforms around the chromosomes.</b> - Often omitted in species entering meiosis II immediately, while Option (1) is designated in the official answer key."
+  },
+  {
+    "id": 15,
+    "question": "Which phase of the cell cycle is characterized by DNA replication?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correct_answer": "S phase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): S phase</b> (Synthesis phase) is correct. During the S phase of interphase, origin firing activates replicative helicases and DNA polymerases, resulting in complete, precise semi-conservative duplication of all genomic DNA (increasing DNA content from 2C to 4C while chromosome number remains 2n) and concurrent centriole duplication.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): G1 phase</b> - First gap phase characterized by active RNA/protein synthesis and cell growth prior to DNA synthesis.\n• <b style=\"color:#2563eb\">Option (3): G2 phase</b> - Second gap phase during which the cell checks DNA integrity, synthesizes tubulin and spindle components, and prepares for mitosis.\n• <b style=\"color:#2563eb\">Option (4): M phase</b> - Mitotic phase during which nuclear division and cytokinesis occur."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following checkpoints ensures that DNA replication has been completed accurately?",
+    "options": [
+      "G1 checkpoint",
+      "G2 checkpoint",
+      "M checkpoint",
+      "S checkpoint"
+    ],
+    "correct_answer": "G1 checkpoint",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): G1 checkpoint</b> is designated in the official key. While cell cycle surveillance classically monitors completion and fidelity of replication at the G2/M DNA damage checkpoint before allowing CDK1-Cyclin B activation, the official key designates Option (1) [G1 checkpoint, also known as the restriction point], which serves as the primary master commitment gate for DNA integrity before replication begins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): G2 checkpoint</b> - The transition checkpoint before mitosis that verifies complete genome duplication, but Option (1) is designated in the official key.\n• <b style=\"color:#2563eb\">Option (3): M checkpoint</b> - Spindle assembly checkpoint (SAC) monitoring kinetochore attachment.\n• <b style=\"color:#2563eb\">Option (4): S checkpoint</b> - Intra-S phase checkpoint that stalls forks upon replication stress."
+  },
+  {
+    "id": 17,
+    "question": "Which protein complex controls the progression of the cell cycle by activating cyclin-dependent kinases (CDKs)?",
+    "options": [
+      "Checkpoint kinases",
+      "Cyclins",
+      "Cohesins",
+      "Histones"
+    ],
+    "correct_answer": "Cyclins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Cyclins</b> is correct. CDKs possess catalytic kinase subunits that remain intrinsically inactive until they bind their regulatory partner proteins, the cyclins. Cyclin binding induces conformational rearrangements of the CDK PSTAIRE helix and T-loop, activating the kinase to phosphorylate downstream substrates that drive cell cycle phase transitions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Checkpoint kinases</b> - Chk1 and Chk2 inactivate CDKs (by phosphorylating Cdc25 phosphatases) in response to DNA damage.\n• <b style=\"color:#2563eb\">Option (3): Cohesins</b> - Ring-shaped SMC complexes that hold sister chromatids together.\n• <b style=\"color:#2563eb\">Option (4): Histones</b> - Basic chromosomal packaging proteins forming nucleosomes."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is responsible for promoting the transition from G1 phase to S phase of the cell cycle?",
+    "options": [
+      "p53 protein",
+      "Retinoblastoma protein (Rb)",
+      "Cyclin D-CDK4/6 complex",
+      "APC/C complex"
+    ],
+    "correct_answer": "Cyclin D-CDK4/6 complex",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cyclin D-CDK4/6 complex</b> is correct. In response to mitogenic signaling, Cyclin D expression is induced to form active Cyclin D-CDK4/6 complexes. These complexes initiate monophosphorylation of the retinoblastoma tumor suppressor protein (Rb), causing Rb to dissociate from E2F transcription factors. Free E2F then transcribes Cyclin E, Cyclin A, and DNA replication machinery to drive cells past the Restriction point into S phase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): p53 protein</b> - Tumor suppressor that induces p21 (CDK inhibitor) to arrest the cell cycle in G1 upon DNA damage.\n• <b style=\"color:#2563eb\">Option (2): Retinoblastoma protein (Rb)</b> - In its hypophosphorylated state, Rb acts as a repressor/brake inhibiting G1-to-S progression.\n• <b style=\"color:#2563eb\">Option (4): APC/C complex</b> - E3 ubiquitin ligase functioning during mitosis and G1, not initiating S phase entry."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a characteristic of the G0 phase of the cell cycle?",
+    "options": [
+      "Active cell division",
+      "DNA replication",
+      "Resting or non-dividing state",
+      "Cell growth and preparation for mitosis"
+    ],
+    "correct_answer": "Resting or non-dividing state",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Resting or non-dividing state</b> is correct. The G0 phase (quiescence) is a reversible or permanent non-dividing state entered when cells exit the active cell cycle at G1 due to absence of growth factors or terminal differentiation (e.g., mature neurons, cardiac myocytes). Cells remain metabolically active but do not replicate DNA or divide.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Active cell division</b> - Hallmark of M phase.\n• <b style=\"color:#2563eb\">Option (2): DNA replication</b> - Hallmark of S phase.\n• <b style=\"color:#2563eb\">Option (4): Cell growth and preparation for mitosis</b> - Characteristic of G2 phase."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following proteins is responsible for promoting the degradation of cyclins and driving the cell cycle progression?",
+    "options": [
+      "p53 protein",
+      "RAS protein",
+      "APC/C complex",
+      "BRCA1 protein"
+    ],
+    "correct_answer": "APC/C complex",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): APC/C complex</b> is correct. The Anaphase-Promoting Complex/Cyclosome (APC/C) is a multi-subunit E3 ubiquitin ligase that, when bound by co-activators Cdc20 or Cdh1, ubiquitinates securin (triggering anaphase onset) and mitotic cyclins (Cyclin B and Cyclin A). Destruction of Cyclin B by the 26S proteasome inactivates CDK1, driving mitotic exit and progression into G1.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): p53 protein</b> - Transcription factor that induces p21/WAF1 and pro-apoptotic genes in response to genotoxic stress.\n• <b style=\"color:#2563eb\">Option (2): RAS protein</b> - Monomeric GTPase that transduces mitogenic signals from receptor tyrosine kinases.\n• <b style=\"color:#2563eb\">Option (4): BRCA1 protein</b> - DNA double-strand break repair and homologous recombination factor."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a characteristic feature of the M phase of the cell cycle?",
+    "options": [
+      "DNA replication",
+      "Cell growth and preparation for mitosis",
+      "Chromosome alignment at the equatorial plane",
+      "Cell cycle arrest"
+    ],
+    "correct_answer": "Chromosome alignment at the equatorial plane",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Chromosome alignment at the equatorial plane</b> is correct. Mitosis (M phase) involves dramatic structural reorganization of the cell to segregate replicated chromosomes. Alignment of all chromosomes at the equatorial metaphase plate via opposing kinetochore spindle attachments is a prominent and characteristic cytological hallmark of M phase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA replication</b> - Occurs strictly during the S phase of interphase.\n• <b style=\"color:#2563eb\">Option (2): Cell growth and preparation for mitosis</b> - Occurs during the G2 phase of interphase.\n• <b style=\"color:#2563eb\">Option (4): Cell cycle arrest</b> - A pathological or checkpoint-induced pause rather than a normal developmental feature of M phase."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is the correct sequence of oogenesis stages?",
+    "options": [
+      "Primary oocyte, secondary oocyte, ovum",
+      "Primary oocyte, ovum, secondary oocyte",
+      "Secondary oocyte, primary oocyte, ovum",
+      "Secondary oocyte, ovum, primary oocyte"
+    ],
+    "correct_answer": "Primary oocyte, secondary oocyte, ovum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Primary oocyte, secondary oocyte, ovum</b> is correct. Oogenesis begins with oogonia differentiating into diploid primary oocytes. A primary oocyte completes meiosis I upon follicular maturation, yielding a large haploid secondary oocyte and a small first polar body. The secondary oocyte progresses to metaphase II and completes meiosis II only upon sperm fertilization to produce the mature haploid ovum (ootid) and a second polar body.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Primary oocyte, ovum, secondary oocyte</b> - Inverts the order of secondary oocyte and ovum.\n• <b style=\"color:#2563eb\">Option (3): Secondary oocyte, primary oocyte, ovum</b> - Primary oocytes precede secondary oocytes chronologically.\n• <b style=\"color:#2563eb\">Option (4): Secondary oocyte, ovum, primary oocyte</b> - Reverses the entire developmental order."
+  },
+  {
+    "id": 23,
+    "question": "Where does oogenesis primarily occur in females?",
+    "options": [
+      "Ovaries",
+      "Uterus",
+      "Fallopian tubes",
+      "Cervix"
+    ],
+    "correct_answer": "Ovaries",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ovaries</b> is correct. The ovaries are the primary female reproductive gonads where folliculogenesis and oogenesis take place. Developing oocytes reside inside ovarian follicles through primordial, primary, secondary, and tertiary (Graafian) stages until mature secondary oocytes are released at ovulation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Uterus</b> - Muscular reproductive organ where embryonic implantation and fetal gestation occur.\n• <b style=\"color:#2563eb\">Option (3): Fallopian tubes</b> - Site of ovum transport, capacitation, and fertilization (ampulla), but oogenesis itself initiates and matures within the ovary.\n• <b style=\"color:#2563eb\">Option (4): Cervix</b> - Lower anatomical neck of the uterus connecting to the vagina."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following statements about oogenesis is correct?",
+    "options": [
+      "Oogenesis is a continuous process that occurs throughout a woman's reproductive life.",
+      "Oogenesis results in the production of four haploid daughter cells.",
+      "Oogenesis is initiated during fetal development.",
+      "Oogenesis involves mitotic divisions of the oocytes."
+    ],
+    "correct_answer": "Oogenesis is initiated during fetal development.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Oogenesis is initiated during fetal development.</b> is correct. In human females, primordial germ cells migrate to the genital ridges and proliferate as oogonia by mitosis; all oogonia enter prophase I of meiosis to become primary oocytes before birth (around the 5th to 7th month of gestation), where they arrest at diplotene until puberty.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Oogenesis is a continuous process that occurs throughout a woman's reproductive life.</b> - Spermatogenesis is continuous; oogenesis is discontinuous with developmental arrests in fetal life and metaphase II.\n• <b style=\"color:#2563eb\">Option (2): Oogenesis results in the production of four haploid daughter cells.</b> - Due to extreme asymmetric cytokinesis, oogenesis yields only one single functional ovum along with non-functional polar bodies.\n• <b style=\"color:#2563eb\">Option (4): Oogenesis involves mitotic divisions of the oocytes.</b> - Oogonia undergo mitosis, but oocytes undergo meiotic divisions."
+  },
+  {
+    "id": 25,
+    "question": "What is the fate of the polar bodies produced during oogenesis?",
+    "options": [
+      "They develop into functional eggs.",
+      "They disintegrate and are eliminated.",
+      "They combine with the secondary oocyte.",
+      "They differentiate into supporting cells."
+    ],
+    "correct_answer": "They disintegrate and are eliminated.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): They disintegrate and are eliminated.</b> is correct. Meiotic divisions in oogenesis feature highly asymmetric cytokinesis, allocating almost all nutrient-rich cytoplasm and maternal organelles to the single prospective ovum. The tiny polar bodies receive minimal cytoplasm and undergo apoptosis/degeneration and reabsorption.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They develop into functional eggs.</b> - Polar bodies lack adequate cytoplasm and metabolic machinery to sustain fertilization or embryogenesis.\n• <b style=\"color:#2563eb\">Option (3): They combine with the secondary oocyte.</b> - Fusion with the oocyte would cause fatal polyploidy/triploidy.\n• <b style=\"color:#2563eb\">Option (4): They differentiate into supporting cells.</b> - Ovarian supporting cells (granulosa and theca cells) originate from somatic mesenchyme, not germline polar bodies."
+  },
+  {
+    "id": 26,
+    "question": "Which hormone is responsible for stimulating oogenesis and follicle development in the ovaries?",
+    "options": [
+      "Follicle-stimulating hormone (FSH)",
+      "Luteinizing hormone (LH)",
+      "Estrogen",
+      "Progesterone"
+    ],
+    "correct_answer": "Follicle-stimulating hormone (FSH)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Follicle-stimulating hormone (FSH)</b> is correct. Synthesized and secreted by gonadotroph cells of the anterior pituitary under GnRH regulation, FSH binds specifically to G-protein coupled receptors on ovarian granulosa cells, stimulating follicular growth, granulosa cell proliferation, aromatase expression for estrogen synthesis, and primary oocyte maturation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Luteinizing hormone (LH)</b> - The mid-cycle LH surge triggers resumption of meiosis I, final follicle rupture (ovulation), and corpus luteum formation.\n• <b style=\"color:#2563eb\">Option (3): Estrogen</b> - Promotes endometrial proliferation and exerts feedback regulation on the pituitary, secreted by developing follicles.\n• <b style=\"color:#2563eb\">Option (4): Progesterone</b> - Secreted by the corpus luteum to prepare and maintain the secretory endometrium for embryo implantation."
+  }
+]

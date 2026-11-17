@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following does not have phosphate?",
+    "options": [
+      "A nucleoside",
+      "A nucleotide",
+      "DNA",
+      "RNA"
+    ],
+    "correct_answer": "A nucleoside",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): A nucleoside</b> is correct because a nucleoside is composed solely of a nitrogenous base (purine or pyrimidine) covalently linked via a beta-glycosidic bond to a pentose sugar (ribose or deoxyribose), completely lacking a phosphate group. When one or more phosphate groups are esterified to the sugar moiety, it becomes a nucleotide.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): A nucleotide</b> - A nucleotide is a nucleoside phosphorylated at the 5', 3', or 2' hydroxyl group; it explicitly contains phosphate.\n• <b style=\"color:#2563eb\">Option (3): DNA</b> - Deoxyribonucleic acid consists of polymeric chains of deoxyribonucleotides joined by phosphodiester bridges containing phosphate.\n• <b style=\"color:#2563eb\">Option (4): RNA</b> - Ribonucleic acid consists of ribonucleotides linked by phosphodiester bonds, possessing regular phosphate groups."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a purine?",
+    "options": [
+      "Adenine",
+      "Thymine",
+      "Uracil",
+      "Cytosine"
+    ],
+    "correct_answer": "Adenine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Adenine</b> is correct because purines are heterocyclic aromatic compounds consisting of a fused pyrimidine ring and an imidazole ring (a nine-membered double ring structure). The major natural purines found in nucleic acids are adenine (6-aminopurine) and guanine (2-amino-6-oxypurine).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Thymine</b> - Thymine (5-methyluracil) is a six-membered single-ring pyrimidine found in DNA.\n• <b style=\"color:#2563eb\">Option (3): Uracil</b> - Uracil (2,4-dioxypyrimidine) is a pyrimidine found in RNA.\n• <b style=\"color:#2563eb\">Option (4): Cytosine</b> - Cytosine (4-amino-2-oxypyrimidine) is a pyrimidine base found in both DNA and RNA."
+  },
+  {
+    "id": 3,
+    "question": "The pyrimidine bases present in DNA are:",
+    "options": [
+      "Cytosine and thymidine",
+      "Cytidine and thymidine",
+      "Cytosine and thymine",
+      "Cytosine and uracil"
+    ],
+    "correct_answer": "Cytosine and thymine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cytosine and thymine</b> is correct because the pyrimidine nitrogenous bases present in double-stranded DNA are cytosine (C) and thymine (T). In RNA, thymine is replaced by uracil (U).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cytosine and thymidine</b> - Thymidine is a nucleoside (thymine + deoxyribose), not a free nitrogenous base.\n• <b style=\"color:#2563eb\">Option (2): Cytidine and thymidine</b> - Both cytidine and thymidine are nucleosides, not nitrogenous bases.\n• <b style=\"color:#2563eb\">Option (4): Cytosine and uracil</b> - Uracil is typical of RNA, whereas thymine is present in DNA."
+  },
+  {
+    "id": 4,
+    "question": "Okazaki fragments are formed on:",
+    "options": [
+      "Leading strand",
+      "Lagging strand",
+      "Parental strand",
+      "Not formed during DNA replication"
+    ],
+    "correct_answer": "Lagging strand",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Lagging strand</b> is correct because DNA polymerases can only synthesize DNA in the 5' to 3' direction. As the replication fork opens, the lagging template strand (oriented 5' to 3' toward the fork) must be copied away from the fork discontinuously in short segments known as Okazaki fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Leading strand</b> - The leading strand is synthesized continuously in the direction of replication fork progression (5' to 3').\n• <b style=\"color:#2563eb\">Option (3): Parental strand</b> - Okazaki fragments are newly synthesized nascent daughter strands, not the parental template strand.\n• <b style=\"color:#2563eb\">Option (4): Not formed during DNA replication</b> - Okazaki fragments are fundamental intermediates of semiconservative replication in both prokaryotes and eukaryotes."
+  },
+  {
+    "id": 5,
+    "question": "What is central dogma?",
+    "options": [
+      "Flow of genetic information from DNA to protein to RNA",
+      "Flow of genetic information from DNA to RNA to protein",
+      "Flow of genetic information from RNA to DNA to protein",
+      "Flow of genetic information from RNA to protein to DNA"
+    ],
+    "correct_answer": "Flow of genetic information from DNA to RNA to protein",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Flow of genetic information from DNA to RNA to protein</b> is correct because the Central Dogma, formulated by Francis Crick in 1958, describes the fundamental framework for the directional transfer of sequential genetic information: DNA is transcribed into messenger RNA (mRNA), which is subsequently translated into functional polypeptide/protein chains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Flow of genetic information from DNA to protein to RNA</b> - Protein sequence information cannot be reversibly translated back into RNA according to the central dogma.\n• <b style=\"color:#2563eb\">Option (3): Flow of genetic information from RNA to DNA to protein</b> - Describes reverse transcription (as in retroviruses), which is a specialized exception rather than the classical universal central dogma.\n• <b style=\"color:#2563eb\">Option (4): Flow of genetic information from RNA to protein to DNA</b> - Incorrect sequence of molecular information transfer."
+  },
+  {
+    "id": 6,
+    "question": "In normal form, DNA helix is?",
+    "options": [
+      "Double strand, Right-handed structure",
+      "Double strand, Left-handed structure",
+      "Double strand, Straight structure",
+      "Double strand, Zig-zag structure"
+    ],
+    "correct_answer": "Double strand, Right-handed structure",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Double strand, Right-handed structure</b> is correct because under physiological hydration and ionic conditions, the predominant and standard form of DNA is B-DNA, which is a right-handed double helix containing antiparallel strands with ~10.5 base pairs per helical turn and a pitch of 3.4 nm.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Double strand, Left-handed structure</b> - Left-handed double helices occur in Z-DNA, which forms under high salt or specific alternating purine-pyrimidine tracts, not the normal canonical physiological form.\n• <b style=\"color:#2563eb\">Option (3): Double strand, Straight structure</b> - DNA is helical, wound around a central axis, not a planar straight ladder.\n• <b style=\"color:#2563eb\">Option (4): Double strand, Zig-zag structure</b> - The sugar-phosphate backbone adopts a zig-zag conformation specifically in Z-DNA."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is wrongly paired?",
+    "options": [
+      "Nucleic acid – hydrogen bond",
+      "Polysaccharide – glycosidic bond",
+      "Proteins – peptide bond",
+      "Phospholipids – phosphate linkage"
+    ],
+    "correct_answer": "Nucleic acid – hydrogen bond",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Nucleic acid – hydrogen bond</b> is correct because polymers are structurally defined by the covalent bonds linking their monomeric subunits. The monomeric nucleotides of nucleic acids are covalently joined along the backbone by 3',5'-phosphodiester bonds, not hydrogen bonds (hydrogen bonds merely stabilize base pairing between complementary strands). In contrast, polysaccharides, proteins, and phospholipids are correctly paired with their primary covalent linkages.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Polysaccharide – glycosidic bond</b> - Monosaccharide residues are covalently linked by glycosidic bonds.\n• <b style=\"color:#2563eb\">Option (3): Proteins – peptide bond</b> - Amino acids are covalently polymerized by peptide (amide) bonds.\n• <b style=\"color:#2563eb\">Option (4): Phospholipids – phosphate linkage</b> - Phospholipids contain glycerol esterified to fatty acids and a polar head group via a phosphodiester linkage."
+  },
+  {
+    "id": 8,
+    "question": "DNA and RNA polymerase differ in ALL of the following, EXCEPT:",
+    "options": [
+      "Their error rate",
+      "The type of chemical reaction they catalyse",
+      "The nucleotide substrates they incorporate",
+      "Their processivity"
+    ],
+    "correct_answer": "The type of chemical reaction they catalyse",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The type of chemical reaction they catalyse</b> is correct because both DNA polymerase and RNA polymerase catalyze the exact same fundamental phosphoryl transfer reaction: a nucleophilic attack by the 3'-hydroxyl (-OH) group of the growing nucleic acid chain on the alpha-phosphate of an incoming nucleoside triphosphate, forming a phosphodiester bond and releasing inorganic pyrophosphate (PPi).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Their error rate</b> - They differ substantially in fidelity; DNA polymerases have 3'->5' exonucleolytic proofreading leading to an error rate of ~1 in 10^7, whereas RNA polymerases lack robust proofreading with error rates of ~1 in 10^4 to 10^5.\n• <b style=\"color:#2563eb\">Option (3): The nucleotide substrates they incorporate</b> - DNA polymerases incorporate deoxynucleoside triphosphates (dNTPs: dATP, dCTP, dGTP, dTTP), whereas RNA polymerases utilize ribonucleoside triphosphates (NTPs: ATP, CTP, GTP, UTP).\n• <b style=\"color:#2563eb\">Option (4): Their processivity</b> - Replicative DNA polymerases associated with sliding clamps have extreme processivity (>thousands of nucleotides per binding event), distinct from transcription complexes."
+  },
+  {
+    "id": 9,
+    "question": "During DNA replication the synthesis of the lagging strand of DNA results in fragments known as:",
+    "options": [
+      "Satellite segments",
+      "Kornberg segment",
+      "Double-helix segment",
+      "Okazaki fragments"
+    ],
+    "correct_answer": "Okazaki fragments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Okazaki fragments</b> is correct because the short nascent DNA pieces synthesized discontinuously on the lagging strand are known as Okazaki fragments, named after Reiji and Tsuneko Okazaki who discovered them in 1968 using pulse-labeling experiments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Satellite segments</b> - Refers to highly repetitive non-coding satellite DNA sequences, not replication intermediates.\n• <b style=\"color:#2563eb\">Option (2): Kornberg segment</b> - Arthur Kornberg discovered DNA Polymerase I, but the fragments are not termed Kornberg segments.\n• <b style=\"color:#2563eb\">Option (3): Double-helix segment</b> - A descriptive term for duplex DNA, not the transient replication fragments."
+  },
+  {
+    "id": 10,
+    "question": "Human telomeres consist of Tandem repeats of sequence",
+    "options": [
+      "(TTAGGG)n",
+      "(TTAAGGG)n",
+      "(TTAAGG)n",
+      "(1TAAAGG)n"
+    ],
+    "correct_answer": "(TTAGGG)n",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): (TTAGGG)n</b> is correct because human and vertebrate telomeric DNA at the ends of linear chromosomes consists of tandem hexanucleotide repeats of 5'-TTAGGG-3' extending over several kilobases, terminating in a 3' single-stranded G-rich overhang that forms a t-loop.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): (TTAAGGG)n</b> - Contains an extra adenine residue; not the canonical human telomeric repeat.\n• <b style=\"color:#2563eb\">Option (3): (TTAAGG)n</b> - Missing a guanine residue.\n• <b style=\"color:#2563eb\">Option (4): (1TAAAGG)n</b> - Erroneous typographical sequence."
+  },
+  {
+    "id": 11,
+    "question": "A piece of DNA was analyzed and 15% of its nucleotides were adenine. What percentage would be uracil?",
+    "options": [
+      "0 percent",
+      "15 percent",
+      "30 percent",
+      "35 percent"
+    ],
+    "correct_answer": "0 percent",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 0 percent</b> is correct because DNA contains thymine (T) instead of uracil (U). Uracil is normally found only in ribonucleic acid (RNA), so standard DNA contains 0% uracil regardless of adenine percentage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 15 percent</b> - 15% would be the expected percentage of thymine (T) by Chargaff's rules (A = T), but uracil is absent in DNA.\n• <b style=\"color:#2563eb\">Option (3): 30 percent</b> - Represents the sum of A + T (15% + 15% = 30%).\n• <b style=\"color:#2563eb\">Option (4): 35 percent</b> - Represents the percentage of guanine (G) or cytosine (C), since (100 - 30)/2 = 35%."
+  },
+  {
+    "id": 12,
+    "question": "If a double strand break (DSB) is not repaired during G1 phase of the cell cycle, what type of replication error would result during S phase at the site of the DSB?",
+    "options": [
+      "Gap in the newly replicated DNA strand",
+      "Collapsed replication fork",
+      "Catenane formations",
+      "Reversed replication fork"
+    ],
+    "correct_answer": "Collapsed replication fork",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Collapsed replication fork</b> is correct because when a DNA replication fork advancing during S phase encounters an unrepaired double-strand break or nick in the template strand, the replisome physically disassembles, resulting in a collapsed or broken replication fork that requires homologous recombination (HR) machinery (such as Rad51/BRCA) for restart.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gap in the newly replicated DNA strand</b> - Single-strand lesions or roadblocks cause fork stalling and post-replication gaps, whereas an unsealed double-strand break causes physical breakage and fork collapse.\n• <b style=\"color:#2563eb\">Option (3): Catenane formations</b> - Interlinked circular topological structures arising after termination of replication, resolved by topoisomerase IV / topoisomerase II.\n• <b style=\"color:#2563eb\">Option (4): Reversed replication fork</b> - A \"chicken-foot\" structure formed during fork stalling to protect the fork and allow lesion bypass, not the fatal outcome of hitting a preexisting DSB."
+  },
+  {
+    "id": 13,
+    "question": "A sample of DNA is found to have the base composition (mole ratio) of A = 40, T = 22, G = 21 and C = 17. This suggests:",
+    "options": [
+      "DNA is circular duplex",
+      "DNA is linear duplex",
+      "DNA is single-stranded",
+      "DNA has high melting point"
+    ],
+    "correct_answer": "DNA is single-stranded",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): DNA is single-stranded</b> is correct because Erwin Chargaff's parity rule states that in any double-stranded DNA duplex, adenine equals thymine (%A = %T) and guanine equals cytosine (%G = %C) due to strict complementary base pairing. Here, A = 40 ≠ T = 22, and G = 21 ≠ C = 17. The violation of Chargaff's rules proves that the DNA molecule is single-stranded (ssDNA, such as in certain bacteriophages like phiX174 or M13).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA is circular duplex</b> - Any duplex DNA, whether circular or linear, must follow Chargaff's rules of base pairing (A=T, G=C).\n• <b style=\"color:#2563eb\">Option (2): DNA is linear duplex</b> - Also must follow %A = %T and %G = %C.\n• <b style=\"color:#2563eb\">Option (4): DNA has high melting point</b> - Melting temperature (Tm) is characteristic of duplex DNA with high G+C content; single-stranded DNA does not exhibit cooperatively melting duplex regions."
+  },
+  {
+    "id": 14,
+    "question": "Which DNA polymerase is the primary enzyme involved in the replication of the E. coli chromosome?",
+    "options": [
+      "DNA Pol I",
+      "DNA Pol III",
+      "DNA Pol IV",
+      "DNA Pol V"
+    ],
+    "correct_answer": "DNA Pol III",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): DNA Pol III</b> is correct because DNA Polymerase III holoenzyme is the principal replicative polymerase in Escherichia coli. It possesses immense catalytic speed (~1000 nucleotides/sec) and exceptionally high processivity due to its association with the beta-sliding clamp, carrying out both leading-strand and lagging-strand synthesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA Pol I</b> - Specialized for primer removal, gap-filling, and DNA repair; its rate of polymerization is too slow (~20 nt/sec) for entire chromosome replication.\n• <b style=\"color:#2563eb\">Option (3): DNA Pol IV</b> - A DinB family translesion synthesis (TLS) polymerase involved in error-prone bypass of damaged bases.\n• <b style=\"color:#2563eb\">Option (4): DNA Pol V</b> - UmuD'2C complex induced during the SOS response to perform translesion DNA synthesis."
+  },
+  {
+    "id": 15,
+    "question": "Which DNA polymerase is specialized for the removal of RNA primers?",
+    "options": [
+      "DNA Pol I",
+      "DNA Pol III",
+      "DNA Pol IV",
+      "DNA Pol V"
+    ],
+    "correct_answer": "DNA Pol I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): DNA Pol I</b> is correct because DNA Polymerase I uniquely possesses a specialized 5' to 3' exonuclease activity located on its small amino-terminal domain. This activity degrades RNA primers in front of it while simultaneously polymerizing DNA from the upstream 3'-OH, a coordinated process termed nick translation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA Pol III</b> - Lacks 5' to 3' exonuclease activity and cannot excise intact RNA primers.\n• <b style=\"color:#2563eb\">Option (3): DNA Pol IV</b> - Translesion polymerase with no 5'->3' exonuclease activity.\n• <b style=\"color:#2563eb\">Option (4): DNA Pol V</b> - SOS translesion polymerase lacking exonucleolytic activities."
+  },
+  {
+    "id": 16,
+    "question": "Which DNA polymerase is highly processive and part of a larger complex known as the DNA Pol III holoenzyme?",
+    "options": [
+      "DNA Pol I",
+      "DNA Pol III",
+      "DNA Pol IV",
+      "DNA Pol V"
+    ],
+    "correct_answer": "DNA Pol III",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): DNA Pol III</b> is correct because the DNA Polymerase III holoenzyme is a multi-subunit replisome complex consisting of catalytic core subassemblies (alpha, epsilon, theta), the tau dimer organizer, the gamma-complex clamp loader, and the beta-sliding clamp (dnaN) that tethers the polymerase to DNA to achieve high processivity (>50,000 nucleotides without dissociating).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA Pol I</b> - A monomeric enzyme with low processivity (~20-100 nt per binding event).\n• <b style=\"color:#2563eb\">Option (3): DNA Pol IV</b> - Monomeric translesion polymerase lacking high processivity on undamaged templates.\n• <b style=\"color:#2563eb\">Option (4): DNA Pol V</b> - Trimeric complex (UmuD'2C) specialized for bypassing DNA lesions."
+  },
+  {
+    "id": 17,
+    "question": "Which DNA polymerase has a 5' exonuclease activity that allows for the removal of RNA or DNA immediately upstream of the site of DNA synthesis?",
+    "options": [
+      "DNA Pol I",
+      "DNA Pol III",
+      "DNA Pol IV",
+      "DNA Pol V"
+    ],
+    "correct_answer": "DNA Pol I",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): DNA Pol I</b> is correct because E. coli DNA Polymerase I is the only bacterial DNA polymerase containing 5' to 3' exonuclease activity in addition to its 5'->3' polymerase and 3'->5' proofreading exonuclease activities. Proteolytic cleavage of Pol I yields the Klenow fragment (which lacks the 5'->3' exonuclease) and a smaller fragment retaining this 5' exonuclease activity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA Pol III</b> - Possesses 5'->3' polymerase and 3'->5' exonuclease (epsilon subunit), but completely lacks 5'->3' exonuclease activity.\n• <b style=\"color:#2563eb\">Option (3): DNA Pol IV</b> - Lacks exonuclease activity.\n• <b style=\"color:#2563eb\">Option (4): DNA Pol V</b> - Lacks exonuclease activity."
+  },
+  {
+    "id": 18,
+    "question": "Which DNA polymerases in eukaryotic are specialized for DNA repair and lack proofreading activities?",
+    "options": [
+      "DNA Pol I and DNA Pol III",
+      "DNA Pol III and DNA Pol IV",
+      "DNA Pol I and DNA Pol IV",
+      "DNA Pol IV and DNA Pol V"
+    ],
+    "correct_answer": "DNA Pol IV and DNA Pol V",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): DNA Pol IV and DNA Pol V</b> is correct because, in the context of the options provided (referencing Y-family translesion DNA repair polymerases like bacterial Pol IV/Pol V and their eukaryotic homologs like Pol eta, iota, kappa, and Rev1), Pol IV and Pol V specialize in translesion synthesis/repair across damaged bases and lack 3' to 5' exonucleolytic proofreading activity, making them error-prone.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA Pol I and DNA Pol III</b> - Pol III and Pol I have active 3'->5' proofreading exonuclease activities.\n• <b style=\"color:#2563eb\">Option (2): DNA Pol III and DNA Pol IV</b> - Pol III is a high-fidelity replicative polymerase with proofreading.\n• <b style=\"color:#2563eb\">Option (3): DNA Pol I and DNA Pol IV</b> - Pol I has active proofreading."
+  },
+  {
+    "id": 19,
+    "question": "What are the four deoxynucleoside triphosphates required for DNA synthesis?",
+    "options": [
+      "dGTP, dCTP, dATP, dUTP",
+      "dGTP, dCTP, dATP, dTTP",
+      "dGTP, dCTP, dADP, dTTP",
+      "dGMP, dCMP, dAMP, dTMP"
+    ],
+    "correct_answer": "dGTP, dCTP, dATP, dTTP",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): dGTP, dCTP, dATP, dTTP</b> is correct because DNA polymerase utilizes four 2'-deoxynucleoside 5'-triphosphates as high-energy substrates: 2'-deoxyadenosine triphosphate (dATP), 2'-deoxyguanosine triphosphate (dGTP), 2'-deoxycytidine triphosphate (dCTP), and 2'-deoxythymidine triphosphate (dTTP).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): dGTP, dCTP, dATP, dUTP</b> - dUTP is an intermediate rapidly degraded by dUTPase to prevent uracil incorporation into DNA.\n• <b style=\"color:#2563eb\">Option (3): dGTP, dCTP, dADP, dTTP</b> - Contains dADP (a diphosphate) instead of the required triphosphate substrate.\n• <b style=\"color:#2563eb\">Option (4): dGMP, dCMP, dAMP, dTMP</b> - These are monophosphates; polymerization requires triphosphates to drive the reaction via pyrophosphate hydrolysis."
+  },
+  {
+    "id": 20,
+    "question": "What is the arrangement of single-stranded DNA (ssDNA) and double-stranded DNA (dsDNA) called that is required for DNA synthesis?",
+    "options": [
+      "Complementary strand formation",
+      "Replication fork",
+      "Template:primer junction",
+      "DNA helicase complex"
+    ],
+    "correct_answer": "Template:primer junction",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Template:primer junction</b> is correct because DNA polymerases cannot initiate DNA synthesis de novo on pure single-stranded DNA or intact double-stranded DNA. They strictly require a template:primer junction, which consists of a single-stranded template strand paired with a shorter complementary primer strand that provides an exposed 3'-OH group for nucleotide addition.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Complementary strand formation</b> - General descriptive phrase, not the specific biochemical structural substrate.\n• <b style=\"color:#2563eb\">Option (2): Replication fork</b> - The active Y-shaped structure where parental duplex DNA is unwound by helicase.\n• <b style=\"color:#2563eb\">Option (4): DNA helicase complex</b> - The molecular motor enzyme that unwinds double-stranded DNA."
+  },
+  {
+    "id": 21,
+    "question": "Which phosphoryl group of the nucleoside triphosphates is proximal to the deoxyribose?",
+    "options": [
+      "alpha-phosphate",
+      "beta-phosphate",
+      "gamma-phosphate",
+      "delta-phosphate"
+    ],
+    "correct_answer": "alpha-phosphate",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): alpha-phosphate</b> is correct because in a 5'-nucleoside triphosphate, the three phosphate groups are designated alpha (α), beta (β), and gamma (γ) starting from the phosphate directly esterified to the 5'-carbon of the sugar moiety. During polymerization, the 3'-OH group attacks this proximal alpha-phosphate, releasing the beta and gamma phosphates as pyrophosphate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): beta-phosphate</b> - The middle phosphate group released during phosphodiester bond formation.\n• <b style=\"color:#2563eb\">Option (3): gamma-phosphate</b> - The terminal, most distal phosphate group.\n• <b style=\"color:#2563eb\">Option (4): delta-phosphate</b> - Nucleotides normally contain at most three phosphate groups (no delta phosphate)."
+  },
+  {
+    "id": 22,
+    "question": "What is the role of the primer in DNA synthesis?",
+    "options": [
+      "It provides the ssDNA template for complementary nucleotide addition.",
+      "It acts as a catalyst for the DNA polymerase enzyme.",
+      "It stabilizes the replication fork during DNA replication.",
+      "It serves as a proofreading enzyme to ensure accuracy in DNA synthesis."
+    ],
+    "correct_answer": "It provides the ssDNA template for complementary nucleotide addition.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It provides the ssDNA template for complementary nucleotide addition.</b> is correct. Note that biochemically, the primer's essential role is to provide a free 3'-OH terminus onto which DNA polymerase can attach incoming complementary nucleotides guided by the template strand.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It acts as a catalyst for the DNA polymerase enzyme</b> - The primer is a structural nucleic acid substrate, not a catalytic enzyme.\n• <b style=\"color:#2563eb\">Option (3): It stabilizes the replication fork during DNA replication</b> - The fork is stabilized by single-stranded DNA-binding proteins (SSBs) and topoisomerases.\n• <b style=\"color:#2563eb\">Option (4): It serves as a proofreading enzyme to ensure accuracy in DNA synthesis</b> - Proofreading is performed by the 3'->5' exonuclease active site of the polymerase itself."
+  },
+  {
+    "id": 23,
+    "question": "Which component in the primer : template junction serves as the guiding for the addition of complementary deoxynucleotides during DNA replication?",
+    "options": [
+      "Primer",
+      "Template",
+      "Nucleoside triphosphates",
+      "Phosphoryl groups"
+    ],
+    "correct_answer": "Template",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Template</b> is correct because the single-stranded template DNA directs the precise sequence of incoming nucleotides through Watson-Crick hydrogen bonding (A pairing with T, and G pairing with C), guiding the polymerase active site to incorporate the correct complementary deoxynucleotide.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Primer</b> - Provides the nucleophilic 3'-OH terminus for elongation, but does not dictate the base sequence of incoming nucleotides.\n• <b style=\"color:#2563eb\">Option (3): Nucleoside triphosphates</b> - Soluble substrates consumed during synthesis.\n• <b style=\"color:#2563eb\">Option (4): Phosphoryl groups</b> - Chemical groups involved in high-energy phosphodiester bond formation."
+  },
+  {
+    "id": 24,
+    "question": "Which term describes the newly synthesized DNA strand that is synthesized continuously as the replication fork moves?",
+    "options": [
+      "Leading strand",
+      "Lagging strand",
+      "Template strand",
+      "Okazaki fragment"
+    ],
+    "correct_answer": "Leading strand",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Leading strand</b> is correct because the strand whose continuous synthesis extends in the same direction as the unwinding replication fork (5' to 3') is termed the leading strand, requiring only an initial single RNA primer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Lagging strand</b> - Synthesized discontinuously away from the replication fork in Okazaki fragments.\n• <b style=\"color:#2563eb\">Option (3): Template strand</b> - The preexisting parental DNA strand that serves as a guide for synthesis.\n• <b style=\"color:#2563eb\">Option (4): Okazaki fragment</b> - Short discontinuous segment synthesized specifically on the lagging strand."
+  },
+  {
+    "id": 25,
+    "question": "How is the lagging strand of DNA synthesized?",
+    "options": [
+      "In the same direction as the replication fork",
+      "Simultaneously with the leading strand",
+      "By elongating the 3' end",
+      "In a discontinuous fashion"
+    ],
+    "correct_answer": "In a discontinuous fashion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): In a discontinuous fashion</b> is correct because the lagging strand template runs 5' to 3' toward the replication fork. Because polymerases only synthesize in the 5' to 3' direction, synthesis on this strand must proceed in the direction opposite to fork movement, necessitating periodic re-priming and discontinuous fragment synthesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): In the same direction as the replication fork</b> - This defines the continuous leading strand.\n• <b style=\"color:#2563eb\">Option (2): Simultaneously with the leading strand</b> - While both strands are replicated concurrently at the replisome, the defining mechanism of the lagging strand is its discontinuous synthesis.\n• <b style=\"color:#2563eb\">Option (3): By elongating the 3' end</b> - All DNA chains grow by 3' elongation; this does not differentiate lagging strand synthesis."
+  },
+  {
+    "id": 26,
+    "question": "What are the short fragments of new DNA formed on the lagging strand called?",
+    "options": [
+      "Leading strands",
+      "Template strands",
+      "Okazaki fragments",
+      "Replication forks"
+    ],
+    "correct_answer": "Okazaki fragments",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Okazaki fragments</b> is correct because the transient, discontinuous segments of newly synthesized DNA generated on the lagging strand (1,000–2,000 nt in prokaryotes, 100–200 nt in eukaryotes) are called Okazaki fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Leading strands</b> - The continuously synthesized complementary strand.\n• <b style=\"color:#2563eb\">Option (2): Template strands</b> - The parental DNA strands copied during replication.\n• <b style=\"color:#2563eb\">Option (4): Replication forks</b> - The active junction regions where the parental duplex is unwound."
+  },
+  {
+    "id": 27,
+    "question": "What is the role of primase in DNA replication?",
+    "options": [
+      "It synthesizes RNA primers on the DNA template.",
+      "It extends the RNA primers to form the new DNA strand.",
+      "It incorporates deoxyribonucleotides into DNA.",
+      "It anneals DNA primers to the DNA template."
+    ],
+    "correct_answer": "It synthesizes RNA primers on the DNA template.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It synthesizes RNA primers on the DNA template.</b> is correct because primase (DnaG in E. coli, Pol alpha/primase in eukaryotes) is a specialized DNA-dependent RNA polymerase capable of initiating RNA chain synthesis de novo without a free 3'-OH, creating short RNA primers complementary to the template.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It extends the RNA primers to form the new DNA strand</b> - Primer extension with deoxyribonucleotides is carried out by DNA Polymerase III (or Pol delta/epsilon).\n• <b style=\"color:#2563eb\">Option (3): It incorporates deoxyribonucleotides into DNA</b> - Primase primarily utilizes ribonucleotide triphosphates (NTPs).\n• <b style=\"color:#2563eb\">Option (4): It anneals DNA primers to the DNA template</b> - Primers are synthesized enzymatically in vivo, not chemically annealed."
+  },
+  {
+    "id": 28,
+    "question": "What is the length of the RNA primers synthesized by primase?",
+    "options": [
+      "5-10 nucleotides",
+      "10-20 nucleotides",
+      "20-30 nucleotides",
+      "30-40 nucleotides"
+    ],
+    "correct_answer": "5-10 nucleotides",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 5-10 nucleotides</b> is correct because cellular primases synthesize short ribonucleotide primers typically ranging between 5 and 10 nucleotides in length (e.g., DnaG synthesizes primers of ~10-12 nt, and eukaryotic primase synthesizes ~8-10 nt RNA primers before handover to polymerase alpha).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 10-20 nucleotides</b> - Longer than the typical bacterial/eukaryotic primer synthesized directly by primase.\n• <b style=\"color:#2563eb\">Option (3): 20-30 nucleotides</b> - Characteristic of synthetic oligonucleotides used in PCR, not endogenous primase products.\n• <b style=\"color:#2563eb\">Option (4): 30-40 nucleotides</b> - Far too long for cellular RNA primers."
+  }
+]

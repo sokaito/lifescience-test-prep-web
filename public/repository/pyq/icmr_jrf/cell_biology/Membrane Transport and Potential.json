@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "question": "Following are the types of active transport through cell membrane except:",
+    "options": [
+      "Sodium -Potassium pump",
+      "Endocytosis",
+      "Osmosis",
+      "Exocytosis"
+    ],
+    "correct_answer": "Osmosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Osmosis</b> is correct because osmosis is a passive physical transport process—specifically, the spontaneous net movement of water solvent molecules across a selectively permeable membrane down its water potential gradient, requiring no metabolic ATP expenditure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sodium -Potassium pump</b> - A classic primary active transport mechanism directly hydrolyzing ATP to pump 3 Na+ out and 2 K+ in against steep concentration gradients.\n• <b style=\"color:#2563eb\">Option (2): Endocytosis</b> - An energy-dependent active bulk transport mechanism involving vesicle invagination and ATP-driven cytoskeletal rearrangements.\n• <b style=\"color:#2563eb\">Option (4): Exocytosis</b> - An active vesicular transport mechanism requiring ATP and GTP hydrolysis for vesicle docking, priming, and membrane fusion."
+  },
+  {
+    "id": 2,
+    "question": "Organic ion necessary in Na-K ATPase",
+    "options": [
+      "Mg2+",
+      "PO4",
+      "SO4 2-",
+      "Ca2+"
+    ],
+    "correct_answer": "Mg2+",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Mg2+</b> is correct. Magnesium ($Mg^{2+}$) is an obligatory cofactor for the $Na^+/K^+$ ATPase pump. It coordinates with ATP to form the true enzyme substrate ($Mg\\cdot ATP$) and stabilizes the aspartyl phosphate intermediate during the E1~P to E2-P conformational transition cycles of the pump.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PO4</b> - Inorganic phosphate ($P_i$) is released as a product upon dephosphorylation of the E2-P state, not the activating ion cofactor.\n• <b style=\"color:#2563eb\">Option (3): SO4 2-</b> - Sulfate ions do not participate in the catalytic phosphorylation or transport cycle of P-type ATPases.\n• <b style=\"color:#2563eb\">Option (4): Ca2+</b> - Intracellular calcium is regulated by dedicated Ca2+ ATPases (SERCA/PMCA); elevated Ca2+ actually can inhibit the Na+/K+ ATPase."
+  },
+  {
+    "id": 3,
+    "question": "Water transportation across lipid bilayers of the cell is probably mediated by",
+    "options": [
+      "Hydrotransferrins",
+      "Aquaporins",
+      "Hydroporins",
+      "Aquatransferrins"
+    ],
+    "correct_answer": "Aquaporins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Aquaporins</b> is correct. Discovered by Peter Agre (Nobel Prize 2003), aquaporins (AQPs) are specialized transmembrane channel proteins that form narrow hydrophilic tetrameric water pores, facilitating bidirectional, rapid, and selective transport of water molecules across cell membranes while strictly excluding protons and other ions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Hydrotransferrins</b> - Transferrins are iron-transport glycoprotein complexes; 'hydrotransferrins' is a fictitious term.\n• <b style=\"color:#2563eb\">Option (3): Hydroporins</b> - A distractor name not corresponding to any recognized biological transport channel.\n• <b style=\"color:#2563eb\">Option (4): Aquatransferrins</b> - A fabricated distractor blending aquaporin and transferrin terminology."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following mechanisms allows complete absorption of glucose from the intestinal lumen into the cytosol of the enterocyte?",
+    "options": [
+      "Simple diffusion through GLUT-5",
+      "Sodium channels in enterocyte membrane",
+      "Sodium- Glucose co transporter I (SGLT-1)",
+      "Paracellular uptake via gap junctions"
+    ],
+    "correct_answer": "Sodium- Glucose co transporter I (SGLT-1)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sodium- Glucose co transporter I (SGLT-1)</b> is correct. SGLT-1 on the apical brush-border membrane of enterocytes is a secondary active symporter that harnesses the inward electrochemical sodium gradient (established by basolateral Na+/K+ ATPase) to drive glucose uphill from the intestinal lumen into the enterocyte even against steep concentration gradients, enabling virtually complete absorption.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Simple diffusion through GLUT-5</b> - GLUT-5 is a facilitated diffusion uniporter specific for fructose, not glucose, and cannot transport uphill against concentration gradients.\n• <b style=\"color:#2563eb\">Option (2): Sodium channels in enterocyte membrane</b> - Epithelial sodium channels (ENaC) conduct sodium ions alone, not coupled glucose uptake.\n• <b style=\"color:#2563eb\">Option (4): Paracellular uptake via gap junctions</b> - Gap junctions connect adjacent cells for intercellular communication, whereas tight junctions (not gap junctions) regulate paracellular flux, which is limited and non-active."
+  },
+  {
+    "id": 5,
+    "question": "Statins used for lowering blood cholesterol level are extracted from",
+    "options": [
+      "algae",
+      "bacteria",
+      "viruses",
+      "yeast+"
+    ],
+    "correct_answer": "yeast+",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): yeast+</b> (fungi/yeast, such as the red yeast fungus Monascus purpureus and Aspergillus terreus) is correct. Statins (e.g., lovastatin/mevinolin) are fungal secondary metabolites that act as competitive inhibitors of HMG-CoA reductase, the rate-limiting enzyme in cholesterol biosynthesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): algae</b> - Algae produce various pigments, lipids, and polysaccharides, but are not the commercial biological source for medicinal statins.\n• <b style=\"color:#2563eb\">Option (2): bacteria</b> - While actinomycetes produce various antibiotics and immunosuppressants, classical statins are fermented from fungal/yeast cultures.\n• <b style=\"color:#2563eb\">Option (3): viruses</b> - Viruses possess no independent metabolic machinery and cannot synthesize bioactive secondary metabolites."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an example of passive transport across the plasma membrane?",
+    "options": [
+      "Active transport",
+      "Facilitated diffusion",
+      "Endocytosis",
+      "Exocytosis"
+    ],
+    "correct_answer": "Facilitated diffusion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Facilitated diffusion</b> is correct. Facilitated diffusion is passive transport wherein transmembrane carrier or channel proteins accelerate the passage of polar/charged molecules down their electrochemical gradients without direct or indirect metabolic energy expenditure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Active transport</b> - By definition, active transport drives solutes against concentration gradients using cellular metabolic energy.\n• <b style=\"color:#2563eb\">Option (3): Endocytosis</b> - An active, ATP-dependent vesicular internalization pathway.\n• <b style=\"color:#2563eb\">Option (4): Exocytosis</b> - An active secretory process requiring energy for SNARE-mediated vesicle docking and fusion."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following molecules can pass through the plasma membrane by simple diffusion?",
+    "options": [
+      "Water",
+      "Sodium ions",
+      "Glucose",
+      "Large proteins"
+    ],
+    "correct_answer": "Water",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Water</b> is correct. Although water is polar, its very small molecular size and high kinetic energy allow a modest amount of water to cross the hydrophobic core of the phospholipid bilayer directly via simple diffusion (osmosis), supplementary to high-capacity aquaporin channels.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Sodium ions</b> - Hydrated Na+ ions possess an intense charge density that cannot penetrate the hydrophobic interior; they require ion channels.\n• <b style=\"color:#2563eb\">Option (3): Glucose</b> - Glucose is a large, uncharged polar molecule that cannot pass freely without facilitated GLUT transporters.\n• <b style=\"color:#2563eb\">Option (4): Large proteins</b> - Macromolecules cannot cross the bilayer intact and require vesicular endocytic pathways."
+  },
+  {
+    "id": 8,
+    "question": "Which type of transport requires the expenditure of energy?",
+    "options": [
+      "Facilitated diffusion",
+      "Osmosis",
+      "Active transport",
+      "Passive transport"
+    ],
+    "correct_answer": "Active transport",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Active transport</b> is correct because moving chemical species against their thermodynamic concentration or electrical gradients decreases entropy and increases free energy, necessitating an input of metabolic energy (ATP or coupled electrochemical potential).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Facilitated diffusion</b> - Passive protein-mediated transport moving down concentration gradients without consuming cellular energy.\n• <b style=\"color:#2563eb\">Option (2): Osmosis</b> - Spontaneous passive diffusion of solvent water across semipermeable barriers down water potential.\n• <b style=\"color:#2563eb\">Option (4): Passive transport</b> - Blanket term encompassing all non-energy-requiring downhill transport mechanisms."
+  },
+  {
+    "id": 9,
+    "question": "The movement of water across a semipermeable membrane is known as:",
+    "options": [
+      "Active transport",
+      "Osmosis",
+      "Facilitated diffusion",
+      "Endocytosis"
+    ],
+    "correct_answer": "Osmosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Osmosis</b> is correct. Osmosis specifically refers to the passive net diffusion of water molecules across a selectively permeable membrane from an area of higher water concentration (lower solute concentration) to an area of lower water concentration (higher solute concentration).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Active transport</b> - Refers to the uphill movement of solutes powered by metabolic energy.\n• <b style=\"color:#2563eb\">Option (3): Facilitated diffusion</b> - Transport of solutes mediated by specific carrier or channel proteins down their concentration gradient.\n• <b style=\"color:#2563eb\">Option (4): Endocytosis</b> - Cellular uptake of bulk external fluids or particulates through vesicular membrane engulfment."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of primary active transport?",
+    "options": [
+      "Sodium-potassium pump",
+      "Facilitated diffusion of glucose",
+      "Passive diffusion of oxygen",
+      "Exocytosis of neurotransmitters"
+    ],
+    "correct_answer": "Sodium-potassium pump",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sodium-potassium pump</b> is correct. Primary active transport directly couples the enzymatic hydrolysis of ATP to the uphill movement of ions across the membrane. The Na+/K+ ATPase is the quintessential primary active transporter, hydrolyzing one ATP molecule to export 3 Na+ and import 2 K+.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Facilitated diffusion of glucose</b> - A passive carrier-mediated process (GLUT uniporters) relying solely on the concentration gradient.\n• <b style=\"color:#2563eb\">Option (3): Passive diffusion of oxygen</b> - Unassisted simple physical diffusion directly through the lipid bilayer.\n• <b style=\"color:#2563eb\">Option (4): Exocytosis of neurotransmitters</b> - Bulk vesicular secretion, distinct from transmembrane carrier-mediated primary active ion transport."
+  },
+  {
+    "id": 11,
+    "question": "The resting membrane potential is mainly determined by the concentration gradient of:",
+    "options": [
+      "Sodium ions",
+      "Potassium ions",
+      "Calcium ions",
+      "Chloride ions"
+    ],
+    "correct_answer": "Potassium ions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Potassium ions</b> is correct because resting animal cell membranes have a vastly higher permeability to potassium ($K^+$) than to any other ion, owing to open non-gated potassium leak channels. As $K^+$ diffuses out down its steep concentration gradient, it creates an interior negative potential that approaches the Nernst equilibrium potential for potassium (around -70 to -90 mV).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sodium ions</b> - Resting membrane permeability to Na+ is extremely low, so Na+ contributes minimally to the baseline resting potential (though it dominates the depolarizing phase of action potentials).\n• <b style=\"color:#2563eb\">Option (3): Calcium ions</b> - Intracellular resting free Ca2+ is kept negligible (~100 nM) and resting Ca2+ conductance is near zero.\n• <b style=\"color:#2563eb\">Option (4): Chloride ions</b> - Chloride ions passively distribute close to the membrane potential in many cells, but do not establish the resting potential."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following best describes the resting membrane potential?",
+    "options": [
+      "The inside of the cell is positive compared to the outside.",
+      "The inside of the cell is negative compared to the outside.",
+      "The inside and outside of the cell have the same charge.",
+      "The resting potential varies greatly between cell types."
+    ],
+    "correct_answer": "The inside of the cell is negative compared to the outside.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The inside of the cell is negative compared to the outside.</b> is correct. Due to the outward leakage of $K^+$ ions through leak channels and the retention of non-diffusible intracellular anionic proteins and organic phosphates, an electrical charge separation exists across the plasma membrane with the cytosolic face negatively charged relative to the extracellular fluid (typically between -60 mV and -90 mV).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The inside of the cell is positive compared to the outside.</b> - The inside becomes transiently positive only at the peak of an action potential (+30 mV), not during the resting state.\n• <b style=\"color:#2563eb\">Option (3): The inside and outside of the cell have the same charge.</b> - Equal charge would mean a membrane potential of 0 mV (complete depolarization), resulting in loss of excitability and viability.\n• <b style=\"color:#2563eb\">Option (4): The resting potential varies greatly between cell types.</b> - While minor variations exist between neurons and red blood cells, the defining universally true principle is that all resting cell interiors are negative relative to the exterior."
+  },
+  {
+    "id": 13,
+    "question": "Which ion is primarily responsible for depolarizing the membrane during an action potential?",
+    "options": [
+      "Sodium ions",
+      "Potassium ions",
+      "Calcium ions",
+      "Chloride ions"
+    ],
+    "correct_answer": "Sodium ions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sodium ions</b> is correct. Upon reaching threshold membrane potential, voltage-gated sodium channels rapidly open, causing a massive inward influx of $Na^+$ down its steep electrical and chemical gradient. This influx of positive charge rapidly shifts the membrane potential from negative (-70 mV) to positive (+30 mV), producing the depolarization phase of the action potential.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Potassium ions</b> - Outward flux of K+ through voltage-gated potassium channels mediates repolarization and hyperpolarization, restoring the negative membrane potential.\n• <b style=\"color:#2563eb\">Option (3): Calcium ions</b> - Ca2+ influx mediates depolarization in cardiac pacemaker cells and triggers neurotransmitter release, but classical axonal depolarization is primarily sodium-driven.\n• <b style=\"color:#2563eb\">Option (4): Chloride ions</b> - Cl- entry causes hyperpolarization (inhibitory postsynaptic potentials), opposing depolarization."
+  },
+  {
+    "id": 14,
+    "question": "Which type of ion channel opens or closes in response to changes in voltage?",
+    "options": [
+      "Ligand-gated channels",
+      "Mechanically-gated channels",
+      "Voltage-gated channels",
+      "Leak channels"
+    ],
+    "correct_answer": "Voltage-gated channels",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Voltage-gated channels</b> is correct. Voltage-gated ion channels possess charged amino acid residues (voltage-sensor domains, typically with positively charged arginines in the S4 transmembrane segment) that physically move in response to alterations in transmembrane electrical potential, opening or closing the ion pore.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ligand-gated channels</b> - Open or close upon the binding of specific chemical ligands (such as acetylcholine, glutamate, or GABA).\n• <b style=\"color:#2563eb\">Option (2): Mechanically-gated channels</b> - Open or close in response to mechanical deformation, membrane tension, touch, or pressure.\n• <b style=\"color:#2563eb\">Option (4): Leak channels</b> - Intrinsic, non-gated channels that remain constitutively open to permit passive ion leakage."
+  },
+  {
+    "id": 15,
+    "question": "The movement of ions down their electrochemical gradient through ion channels is an example of:",
+    "options": [
+      "Facilitated diffusion",
+      "Primary active transport",
+      "Secondary active transport",
+      "Endocytosis"
+    ],
+    "correct_answer": "Facilitated diffusion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Facilitated diffusion</b> is correct because ion channels provide an aqueous, low-resistance pore that permits charged ions to diffuse down their electrochemical gradient spontaneously without consuming metabolic energy, fitting the precise definition of channel-mediated facilitated diffusion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Primary active transport</b> - Requires direct ATP cleavage to transport ions uphill against electrochemical gradients.\n• <b style=\"color:#2563eb\">Option (3): Secondary active transport</b> - Couples the downhill flow of one ion to the uphill transport of another solute against its gradient.\n• <b style=\"color:#2563eb\">Option (4): Endocytosis</b> - Involves the physical formation of membrane-enclosed endosomes for bulk substance internalization."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is involved in the maintenance of the resting membrane potential?",
+    "options": [
+      "Sodium-potassium pump",
+      "Calcium pump",
+      "Potassium leak channels",
+      "Facilitated diffusion of chloride ions"
+    ],
+    "correct_answer": "Sodium-potassium pump",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sodium-potassium pump</b> is correct. The $Na^+/K^+$ ATPase pump continuously counteracts the passive dissipation of ion gradients by pumping 3 $Na^+$ ions out of the cell and 2 $K^+$ ions in per ATP hydrolyzed, electrogenically maintaining the unequal distribution of ions essential for persistent resting membrane potential.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Calcium pump</b> - Primary active transporter (PMCA/SERCA) dedicated to clearing cytosolic calcium to keep basal levels near 100 nM, not establishing general membrane resting potential.\n• <b style=\"color:#2563eb\">Option (3): Potassium leak channels</b> - Although potassium permeability sets the voltage magnitude, the active metabolic machinery responsible for actively sustaining and maintaining the underlying ionic gradients is the Na+/K+ pump.\n• <b style=\"color:#2563eb\">Option (4): Facilitated diffusion of chloride ions</b> - Chloride fluxes participate in inhibitory signaling rather than creating basal ion gradients."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is an example of cotransport?",
+    "options": [
+      "Sodium-potassium pump",
+      "Calcium pump",
+      "Symport of glucose and sodium ions",
+      "Antiport of potassium and chloride ions"
+    ],
+    "correct_answer": "Symport of glucose and sodium ions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Symport of glucose and sodium ions</b> is correct. Cotransport (secondary active transport) couples the movement of one solute along its thermodynamic gradient to drive another solute across the membrane simultaneously. The SGLT symporter simultaneously transports sodium (downhill) and glucose (uphill) into the cell in the same direction, making it a definitive example of symport cotransport.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sodium-potassium pump</b> - A primary active pump driven directly by ATP hydrolysis, classified as an electrogenic P-type ATPase antiporter rather than a classical secondary cotransporter.\n• <b style=\"color:#2563eb\">Option (2): Calcium pump</b> - A primary active uniporter (SERCA/PMCA) directly driven by ATP hydrolysis.\n• <b style=\"color:#2563eb\">Option (4): Antiport of potassium and chloride ions</b> - Cotransport is typically exemplified by sodium-dependent symporters such as Na+/glucose or Na+/amino acid cotransporters."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a characteristic of active transport?",
+    "options": [
+      "Movement of molecules from an area of high concentration to a low concentration",
+      "No requirement for energy input",
+      "Movement of molecules against their concentration gradient",
+      "Movement of molecules through channel proteins"
+    ],
+    "correct_answer": "Movement of molecules against their concentration gradient",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Movement of molecules against their concentration gradient</b> is correct. The hallmark physiological characteristic of active transport is its ability to translocate solute molecules 'uphill' from an area of lower concentration to an area of higher concentration, opposing thermodynamic equilibrium through the expenditure of cellular metabolic energy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Movement of molecules from an area of high concentration to a low concentration</b> - This is the hallmark of passive transport (diffusion), which proceeds downhill.\n• <b style=\"color:#2563eb\">Option (2): No requirement for energy input</b> - Active transport intrinsically requires energy input; absence of energy input characterizes passive processes.\n• <b style=\"color:#2563eb\">Option (4): Movement of molecules through channel proteins</b> - Channel proteins facilitate passive diffusion; active transport is carried out by carrier pumps and translocators."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is not an example of secondary active transport?",
+    "options": [
+      "Symport of glucose and sodium ions",
+      "Antiport of hydrogen ions and potassium ions",
+      "Uniport of calcium ions",
+      "Antiport of sodium ions and calcium ions"
+    ],
+    "correct_answer": "Uniport of calcium ions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Uniport of calcium ions</b> is correct. Secondary active transport inherently relies on the coupled movement of two different chemical species across the membrane (cotransport via symport or antiport). A uniport moves only a single type of solute down or up a gradient; calcium uniporters (e.g., mitochondrial MCU) mediate facilitated diffusion down the organellar electrochemical gradient, not coupled secondary active transport.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Symport of glucose and sodium ions</b> - Classic secondary active transport (SGLT) driven by the sodium electrochemical gradient.\n• <b style=\"color:#2563eb\">Option (2): Antiport of hydrogen ions and potassium ions</b> - An antiporter exchange system that couples ion translocations across cellular membranes.\n• <b style=\"color:#2563eb\">Option (4): Antiport of sodium ions and calcium ions</b> - The Na+/Ca2+ exchanger (NCX) is a well-established secondary active antiporter driving 1 Ca2+ out against its gradient coupled to the downhill entry of 3 Na+ ions."
+  },
+  {
+    "id": 20,
+    "question": "The sodium-potassium pump actively transports _______.",
+    "options": [
+      "3 sodium ions out and 2 potassium ions in",
+      "3 potassium ions out and 2 sodium ions in",
+      "2 sodium ions out and 3 potassium ions in",
+      "2 potassium ions out and 3 sodium ions in"
+    ],
+    "correct_answer": "3 sodium ions out and 2 potassium ions in",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 3 sodium ions out and 2 potassium ions in</b> is correct. For each single ATP molecule hydrolyzed at its cytosolic nucleotide-binding domain, the $Na^+/K^+$ ATPase pump exports three $Na^+$ ions out of the cytoplasm and imports two $K^+$ ions into the cell, resulting in a net loss of one positive charge from the cytosol (electrogenic stoichiometry 3:2).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 3 potassium ions out and 2 sodium ions in</b> - Reverses the transported ion identities and directions.\n• <b style=\"color:#2563eb\">Option (3): 2 sodium ions out and 3 potassium ions in</b> - Inverts the stoichiometric numbers of Na+ (which is 3) and K+ (which is 2).\n• <b style=\"color:#2563eb\">Option (4): 2 potassium ions out and 3 sodium ions in</b> - Inverts both the stoichiometric ratio and the directional pumping pathways."
+  },
+  {
+    "id": 21,
+    "question": "The sodium-potassium pump is an example of _______.",
+    "options": [
+      "Primary active transport",
+      "Secondary active transport",
+      "Passive transport",
+      "Facilitated diffusion"
+    ],
+    "correct_answer": "Primary active transport",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Primary active transport</b> is correct because the pump contains intrinsic ATPase enzymatic activity that directly hydrolyzes ATP to ADP and inorganic phosphate, using the liberated chemical free energy to drive the conformational changes that pump Na+ and K+ against their steep electrochemical gradients.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Secondary active transport</b> - Secondary active transporters do not directly bind or hydrolyze ATP; they harness the potential energy stored in an ion gradient created by primary pumps.\n• <b style=\"color:#2563eb\">Option (3): Passive transport</b> - Moves solutes downhill without energy expenditure.\n• <b style=\"color:#2563eb\">Option (4): Facilitated diffusion</b> - Passive carrier- or channel-mediated movement down a concentration gradient."
+  },
+  {
+    "id": 22,
+    "question": "The energy required for the sodium-potassium pump comes from _______.",
+    "options": [
+      "ATP hydrolysis",
+      "The electrochemical gradient",
+      "The movement of potassium ions",
+      "The sodium-potassium gradient"
+    ],
+    "correct_answer": "ATP hydrolysis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): ATP hydrolysis</b> is correct. The chemical free energy released by the cleavage of the high-energy phosphoanhydride bond of adenosine triphosphate ($ATP \\rightarrow ADP + P_i$) directly phosphorylates a specific aspartate residue of the pump, powering its cyclical E1 to E2 conformational transitions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The electrochemical gradient</b> - The pump establishes and maintains the electrochemical gradient rather than deriving its driving energy from it.\n• <b style=\"color:#2563eb\">Option (3): The movement of potassium ions</b> - Potassium moves uphill into the cell against its gradient, consuming energy rather than providing it.\n• <b style=\"color:#2563eb\">Option (4): The sodium-potassium gradient</b> - This gradient is the physiological consequence and output of the pump's work, not its energetic source."
+  },
+  {
+    "id": 23,
+    "question": "The sodium-potassium pump contributes to the establishment of the resting membrane potential by _______.",
+    "options": [
+      "Maintaining a high concentration of potassium ions inside the cell",
+      "Maintaining a high concentration of sodium ions inside the cell",
+      "Establishing an equal distribution of sodium and potassium ions across the membrane",
+      "Regulating the flow of calcium ions into the cell"
+    ],
+    "correct_answer": "Maintaining a high concentration of potassium ions inside the cell",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Maintaining a high concentration of potassium ions inside the cell</b> is correct. By concentrating $K^+$ inside the cytoplasm (~140 mM vs ~4-5 mM outside), the pump sets up the massive chemical gradient that drives $K^+$ outward through resting leak channels, generating the negative resting membrane potential.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Maintaining a high concentration of sodium ions inside the cell</b> - The pump extrudes sodium, maintaining a very low cytosolic Na+ concentration (~10-15 mM).\n• <b style=\"color:#2563eb\">Option (3): Establishing an equal distribution of sodium and potassium ions across the membrane</b> - Equal distribution would eliminate electrical potential and lead to cellular death.\n• <b style=\"color:#2563eb\">Option (4): Regulating the flow of calcium ions into the cell</b> - Handled by dedicated voltage-gated calcium channels, NCX antiporters, and Ca2+ ATPases."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is true regarding the sodium-potassium pump?",
+    "options": [
+      "It transports sodium and potassium ions against their concentration gradients.",
+      "It transports sodium and potassium ions in the same direction.",
+      "It is a passive transport process.",
+      "It is only found in certain cell types"
+    ],
+    "correct_answer": "It transports sodium and potassium ions against their concentration gradients.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It transports sodium and potassium ions against their concentration gradients.</b> is correct. Intracellular $Na^+$ is low and extracellular $Na^+$ is high; intracellular $K^+$ is high and extracellular $K^+$ is low. The pump actively drives both species uphill against their respective concentration and electrical gradients simultaneously.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It transports sodium and potassium ions in the same direction.</b> - It is an antiporter that transports Na+ outwards and K+ inwards (opposite directions).\n• <b style=\"color:#2563eb\">Option (3): It is a passive transport process.</b> - It is an active transport pump requiring direct ATP hydrolysis.\n• <b style=\"color:#2563eb\">Option (4): It is only found in certain cell types</b> - It is ubiquitously expressed in virtually all animal cells, consuming approximately 20-30% of basal metabolic energy."
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "What is the key event that leads to association of a protein with a proteasome?",
+    "options": [
+      "Phosphorylation",
+      "Acetylation",
+      "Ubiquitination",
+      "Methylation"
+    ],
+    "correct_answer": "Ubiquitination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Ubiquitination</b> is correct because polyubiquitination (the sequential enzymatic attachment of a chain of four or more ubiquitin monomers via Lys-48 linkages, catalyzed by E1-activating, E2-conjugating, and E3-ligase enzymes) serves as the primary molecular degradation signal that is recognized by the 19S regulatory particle of the 26S proteasome.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Phosphorylation</b> - Reversible regulatory post-translational modification that can serve as a phosphodegron to recruit E3 ligases, but ubiquitination itself is the direct proteasomal targeting event.\n• <b style=\"color:#2563eb\">Option (2): Acetylation</b> - Modulates protein stability or chromatin structure, not the universal proteasome targeting signal.\n• <b style=\"color:#2563eb\">Option (4): Methylation</b> - Typically functions in epigenetic signaling and protein-protein interactions."
+  },
+  {
+    "id": 2,
+    "question": "The specific DNA sequences to which the transcription factors bind are referred to as",
+    "options": [
+      "Replication elements",
+      "Blocking factors",
+      "Transcription factors",
+      "Regulatory elements"
+    ],
+    "correct_answer": "Regulatory elements",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Regulatory elements</b> is correct because specific cis-acting DNA sequences that bind sequence-specific transcription factors—including core promoters, enhancers, silencers, and response elements—are collectively designated as cis-regulatory elements (CREs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Replication elements</b> - DNA sequences such as origins of replication (ARS) that bind replication machinery.\n• <b style=\"color:#2563eb\">Option (2): Blocking factors</b> - Non-standard descriptive term.\n• <b style=\"color:#2563eb\">Option (3): Transcription factors</b> - The trans-acting proteins that bind DNA, not the DNA sequences themselves."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following statement is incorrect regarding DNA methylation?",
+    "options": [
+      "S-Adenosyl Methionine (SAM) is one of the most important methyl donors.",
+      "It is catalysed by enzymes",
+      "Occurs at CpG islands",
+      "Mainly G is methylated"
+    ],
+    "correct_answer": "Mainly G is methylated",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Mainly G is methylated</b> is correct because this statement is false (incorrect). In eukaryotic genomes, DNA methylation occurs almost exclusively at the 5-carbon position of the pyrimidine cytosine (forming 5-methylcytosine, 5mC) within symmetrical CpG dinucleotide contexts, not on guanine. (N6-methyladenine or guanine modifications are distinct bacterial or rare specialized modifications).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): S-Adenosyl Methionine (SAM) is one of the most important methyl donors</b> - True; SAM is the universal methyl group donor for DNA methyltransferases.\n• <b style=\"color:#2563eb\">Option (2): It is catalysed by enzymes</b> - True; catalyzed by DNA methyltransferases (DNMT1, DNMT3A, DNMT3B).\n• <b style=\"color:#2563eb\">Option (3): Occurs at CpG islands</b> - True; CpG-rich clusters (CpG islands) in gene promoter regions are principal targets for regulatory DNA methylation."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is not an example of post translational modification?",
+    "options": [
+      "Addition of prosthetic groups",
+      "Proteolytic Processing",
+      "mRNA splicing",
+      "Loss of signal sequences"
+    ],
+    "correct_answer": "mRNA splicing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): mRNA splicing</b> is correct because mRNA splicing is a post-transcriptional modification occurring on pre-mRNA transcripts inside the nucleus, carried out by the spliceosome before translation. It is not a post-translational modification (which acts covalently on synthesized polypeptides).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Addition of prosthetic groups</b> - A classic post-translational modification (e.g., covalent attachment of heme or biotin to proteins).\n• <b style=\"color:#2563eb\">Option (2): Proteolytic Processing</b> - Post-translational cleavage of pro-proteins (e.g., proinsulin cleavage into mature insulin).\n• <b style=\"color:#2563eb\">Option (4): Loss of signal sequences</b> - Co-/post-translational cleavage of the N-terminal signal peptide by signal peptidase in the ER."
+  },
+  {
+    "id": 5,
+    "question": "Histones pack the DNA into a repeating array of DNA-protein particles called:",
+    "options": [
+      "Nucleosomes",
+      "Centromere",
+      "Telomere",
+      "Chromatin"
+    ],
+    "correct_answer": "Nucleosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Nucleosomes</b> is correct because the nucleosome is the fundamental repeating structural subunit of eukaryotic chromatin. Each nucleosome core particle consists of ~147 base pairs of DNA wrapped in 1.67 left-handed superhelical turns around a core histone octamer (two copies each of H2A, H2B, H3, and H4).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Centromere</b> - The specialized chromosomal chromosomal locus that directs kinetochore assembly during mitosis.\n• <b style=\"color:#2563eb\">Option (3): Telomere</b> - The repetitive nucleoprotein cap structure at chromosome ends.\n• <b style=\"color:#2563eb\">Option (4): Chromatin</b> - The overall macromolecular complex of genomic DNA and associated proteins throughout the nucleus."
+  },
+  {
+    "id": 6,
+    "question": "'RNAi' stands for which of the following?",
+    "options": [
+      "RNA inducer",
+      "RNA insertion",
+      "RNA interference",
+      "RNA intron"
+    ],
+    "correct_answer": "RNA interference",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): RNA interference</b> is correct because RNAi stands for RNA interference, a fundamental biological regulatory mechanism discovered in C. elegans by Andrew Fire and Craig Mello (1998, Nobel Prize 2006) wherein double-stranded RNA triggers sequence-specific gene silencing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): RNA inducer</b> - Incorrect terminology.\n• <b style=\"color:#2563eb\">Option (2): RNA insertion</b> - Incorrect terminology.\n• <b style=\"color:#2563eb\">Option (4): RNA intron</b> - Refers to non-coding transcript sequences excised by splicing."
+  },
+  {
+    "id": 7,
+    "question": "RNA interference (RNAi) or Post-Transcriptional Gene Silencing (PTGS) is a conserved biological response to:",
+    "options": [
+      "double-stranded RNA",
+      "DNA- RNA hybrid",
+      "Methylated double stranded DNA",
+      "Single stranded DNA"
+    ],
+    "correct_answer": "double-stranded RNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): double-stranded RNA</b> is correct because RNAi/PTGS is initiated specifically by double-stranded RNA (dsRNA). The ribonuclease III enzyme Dicer cleaves long dsRNA into small interfering RNAs (siRNAs, ~21–23 bp), which guide Argonaute-containing RISC complexes to destroy target mRNA transcripts bearing complementary sequences.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA- RNA hybrid</b> - Degraded by RNase H, not the trigger for the canonical RNAi silencing pathway.\n• <b style=\"color:#2563eb\">Option (3): Methylated double stranded DNA</b> - Recognised by methyl-CpG binding domain (MBD) proteins for transcriptional repression.\n• <b style=\"color:#2563eb\">Option (4): Single stranded DNA</b> - Bound by RPA / SSBs during replication and repair."
+  },
+  {
+    "id": 8,
+    "question": "RNA interference (RNAi) or Post-Transcriptional Gene Silencing (PTGS) is a conserved biological response to:",
+    "options": [
+      "double-stranded RNA",
+      "DNA- RNA hybrid",
+      "Methylated double stranded DNA",
+      "Single stranded DNA"
+    ],
+    "correct_answer": "double-stranded RNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): double-stranded RNA</b> is correct because the introduction or presence of double-stranded RNA (dsRNA) from viral infection, transposon activation, or experimental delivery activates the evolutionary conserved RNAi pathway across eukaryotes to post-transcriptionally silence complementary messenger RNAs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA- RNA hybrid</b> - Resolved by RNase H during transcription and replication.\n• <b style=\"color:#2563eb\">Option (3): Methylated double stranded DNA</b> - Epigenetic DNA modification, not RNAi inducer.\n• <b style=\"color:#2563eb\">Option (4): Single stranded DNA</b> - Replication/repair intermediate."
+  },
+  {
+    "id": 9,
+    "question": "What is the function of Chaperonins?",
+    "options": [
+      "Conformation prediction",
+      "Protein folding",
+      "Complex & slow conformation stability",
+      "Stability analysis"
+    ],
+    "correct_answer": "Complex & slow conformation stability",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Complex & slow conformation stability</b> is correct. Chaperonins (such as the large double-ring GroEL/GroES complex in bacteria or TRiC/CCT in eukaryotes) provide an isolated, cage-like nano-compartment (Anfinsen cage) that sequesters non-native proteins away from the crowded cytoplasm, preventing aggregation and stabilizing folding intermediates of complex, slowly-folding multidomain proteins until they achieve their thermodynamically stable native conformation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Conformation prediction</b> - A computational structural biology task (e.g., AlphaFold), not an in vivo cellular protein function.\n• <b style=\"color:#2563eb\">Option (2): Protein folding</b> - General broad description, but the official answer key specifically designates Option (3).\n• <b style=\"color:#2563eb\">Option (4): Stability analysis</b> - An experimental biophysical assay."
+  },
+  {
+    "id": 10,
+    "question": "What is chromatin remodeling?",
+    "options": [
+      "The process of DNA replication in the nucleus.",
+      "The modification of histone proteins in the chromatin.",
+      "The structural changes in chromatin to regulate gene expression.",
+      "The packaging of DNA into nucleosomes."
+    ],
+    "correct_answer": "The packaging of DNA into nucleosomes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): The packaging of DNA into nucleosomes.</b> is designated. Note that in comprehensive molecular biology, chromatin remodeling refers dynamically to enzyme-driven alterations in chromatin architecture (nucleosome sliding, eviction, or histone variant exchange) that adjust DNA accessibility for transcription, replication, and repair. Following the official examination answer key, Option (4) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The process of DNA replication in the nucleus</b> - S-phase synthesis of DNA by replisomes.\n• <b style=\"color:#2563eb\">Option (2): The modification of histone proteins in the chromatin</b> - Histone modification (acetylation, methylation) by modifying enzymes.\n• <b style=\"color:#2563eb\">Option (3): The structural changes in chromatin to regulate gene expression</b> - A standard functional definition of remodeling, though the official key designates Option (4)."
+  },
+  {
+    "id": 11,
+    "question": "Which enzyme is responsible for ATP-dependent chromatin remodeling?",
+    "options": [
+      "DNA polymerase",
+      "DNA ligase",
+      "Helicase",
+      "ATP-dependent chromatin remodeling complexes"
+    ],
+    "correct_answer": "DNA polymerase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): DNA polymerase</b> is designated. Note that biochemically, ATP-dependent chromatin remodeling is carried out by specialized multi-protein motor complexes belonging to the SWI/SNF, ISWI, CHD, and INO80 families that utilize core Snf2-family DNA-translocating ATPases. The official answer key explicitly marks Option (1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA ligase</b> - Catalyzes phosphodiester bond formation between DNA ends.\n• <b style=\"color:#2563eb\">Option (3): Helicase</b> - Unwinds DNA duplexes during replication/repair.\n• <b style=\"color:#2563eb\">Option (4): ATP-dependent chromatin remodeling complexes</b> - The standard biochemical description of remodeling machines, though the official key designates Option (1)."
+  },
+  {
+    "id": 12,
+    "question": "What is the role of histone acetylation in chromatin remodeling?",
+    "options": [
+      "It loosens the chromatin structure, promoting gene expression.",
+      "It tightens the chromatin structure, repressing gene expression.",
+      "It modifies the DNA sequence within the nucleosomes.",
+      "It breaks the covalent bonds between nucleosomes."
+    ],
+    "correct_answer": "It breaks the covalent bonds between nucleosomes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): It breaks the covalent bonds between nucleosomes.</b> is designated. Note that biochemically, histone acetyltransferases (HATs) transfer acetyl groups to the positively charged epsilon-amino groups of conserved lysine residues on histone N-terminal tails. This neutralizes their positive charge, disrupting electrostatic interactions with negatively charged DNA and adjacent nucleosomes, thereby decondensing (loosening) chromatin to form open euchromatin accessible to transcription machinery. Following the official answer key, Option (4) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It loosens the chromatin structure, promoting gene expression</b> - The accepted physiological mechanism, though the official key marks Option (4).\n• <b style=\"color:#2563eb\">Option (2): It tightens the chromatin structure, repressing gene expression</b> - Characterizes histone deacetylation (HDAC activity).\n• <b style=\"color:#2563eb\">Option (3): It modifies the DNA sequence within the nucleosomes</b> - Histone acetylation modifies proteins, never the underlying DNA nucleotide sequence."
+  },
+  {
+    "id": 13,
+    "question": "Which enzyme is responsible for adding methyl groups to histone proteins during chromatin remodeling?",
+    "options": [
+      "Histone acetyltransferase (HAT)",
+      "Histone deacetylase (HDAC)",
+      "DNA methyltransferase",
+      "Histone methyltransferase (HMT)"
+    ],
+    "correct_answer": "DNA methyltransferase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): DNA methyltransferase</b> is designated. Note that in standard biochemical nomenclature, histone methyltransferases (HMTs, Option 4) specifically add methyl groups to lysine and arginine residues of histone proteins, whereas DNA methyltransferases (DNMTs) methylate cytosine bases in DNA. Following the official examination key, Option (3) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Histone acetyltransferase (HAT)</b> - Adds acetyl groups to histone lysines.\n• <b style=\"color:#2563eb\">Option (2): Histone deacetylase (HDAC)</b> - Removes acetyl groups from histone lysines.\n• <b style=\"color:#2563eb\">Option (4): Histone methyltransferase (HMT)</b> - The biological enzyme that methylates histones; official key designates Option (3)."
+  },
+  {
+    "id": 14,
+    "question": "How do SWI/SNF complexes contribute to chromatin remodeling?",
+    "options": [
+      "They add acetyl groups to histones.",
+      "They remove methyl groups from histones.",
+      "They slide or reposition nucleosomes along the DNA.",
+      "They break the phosphodiester bonds in DNA."
+    ],
+    "correct_answer": "They add acetyl groups to histones.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): They add acetyl groups to histones.</b> is designated. Note that biochemically, SWI/SNF is an ATP-dependent chromatin remodeling complex whose catalytic ATPase subunit (BRG1/BRM in mammals, Swi2/Snf2 in yeast) hydrolyzes ATP to translocate DNA, sliding nucleosomes along DNA or evicting histone octamers to expose promoter sequences; it frequently cooperates with histone acetyltransferases (HATs). The official answer key explicitly designates Option (1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): They remove methyl groups from histones</b> - Performed by histone demethylases (e.g., LSD1, JmjC-domain proteins).\n• <b style=\"color:#2563eb\">Option (3): They slide or reposition nucleosomes along the DNA</b> - The direct biophysical action of SWI/SNF complexes; official key designates Option (1).\n• <b style=\"color:#2563eb\">Option (4): They break the phosphodiester bonds in DNA</b> - SWI/SNF complexes do not cleave the phosphodiester backbone."
+  },
+  {
+    "id": 15,
+    "question": "Which type of small non-coding RNA is involved in post-transcriptional gene regulation by binding to target mRNA and promoting mRNA degradation or translational repression?",
+    "options": [
+      "miRNA",
+      "siRNA",
+      "piwiRNA",
+      "snoRNA"
+    ],
+    "correct_answer": "siRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): siRNA</b> is correct because small interfering RNAs (siRNAs, ~21–23 nucleotides) assemble into the RNA-induced silencing complex (RISC), base-pair with high complementarity to target mRNAs, and direct endonucleolytic cleavage (degradation) by Argonaute-2, mediating potent post-transcriptional gene silencing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): miRNA</b> - MicroRNAs primarily effect translational repression and deadenylation via imperfect base-pairing; official key designates siRNA.\n• <b style=\"color:#2563eb\">Option (3): piwiRNA</b> - piRNAs interact with PIWI proteins to silence transposable elements in the germline.\n• <b style=\"color:#2563eb\">Option (4): snoRNA</b> - Guide RNAs for ribosomal RNA chemical modification in the nucleolus."
+  },
+  {
+    "id": 16,
+    "question": "Which type of small non-coding RNA is typically derived from exogenous sources, such as viral genomes or transgenes, and triggers RNA interference to silence the expression of specific genes?",
+    "options": [
+      "miRNA",
+      "siRNA",
+      "piwiRNA",
+      "lncRNA"
+    ],
+    "correct_answer": "piwiRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): piwiRNA</b> is designated. Note that in standard RNA biology, small interfering RNAs (siRNAs) are typically the canonical class processed by Dicer from exogenous double-stranded RNA sources such as replicating viral genomes or experimental transgenes. Following the official examination key, Option (3) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): miRNA</b> - Endogenously transcribed by RNA Polymerase II from genomic loci as primary miRNA hairpins.\n• <b style=\"color:#2563eb\">Option (2): siRNA</b> - The classical exogenous dsRNA-derived small RNA; official key designates Option (3).\n• <b style=\"color:#2563eb\">Option (4): lncRNA</b> - Long non-coding RNAs (>200 nt) transcribed endogenously from host chromatin."
+  },
+  {
+    "id": 17,
+    "question": "Which type of small non-coding RNA is primarily expressed in germ cells and plays a role in germline development and transposon silencing?",
+    "options": [
+      "miRNA",
+      "siRNA",
+      "piwiRNA",
+      "tRNA"
+    ],
+    "correct_answer": "tRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): tRNA</b> is designated. Note that in eukaryotic biology, PIWI-interacting RNAs (piRNAs, Option 3) are the specialized 24–31 nt small non-coding RNAs expressed predominantly in germline cells that complex with PIWI-clade Argonaute proteins to silence transposable elements and safeguard genome integrity. The official answer key explicitly designates Option (4).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): miRNA</b> - Expressed ubiquitously across somatic and germline tissues.\n• <b style=\"color:#2563eb\">Option (2): siRNA</b> - Functions broadly in RNA interference.\n• <b style=\"color:#2563eb\">Option (3): piwiRNA</b> - The biological small RNA that represses transposons in germ cells; official key marks Option (4)."
+  },
+  {
+    "id": 18,
+    "question": "Which type of small non-coding RNA is involved in the modification and processing of other RNA molecules, such as rRNA, snRNA, and snoRNA?",
+    "options": [
+      "miRNA",
+      "siRNA",
+      "piwiRNA",
+      "snoRNA"
+    ],
+    "correct_answer": "snoRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): snoRNA</b> is correct because small nucleolar RNAs (snoRNAs, ~60–300 nt) reside in the nucleolus where they form ribonucleoprotein particles (snoRNPs). They function as sequence-specific guide RNAs directing precise post-transcriptional chemical modifications of pre-rRNAs and other ncRNAs: box C/D snoRNAs guide 2'-O-ribose methylation, while box H/ACA snoRNAs guide pseudouridylation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): miRNA</b> - Mediates post-transcriptional mRNA silencing.\n• <b style=\"color:#2563eb\">Option (2): siRNA</b> - Directs sequence-specific cleavage of target mRNAs.\n• <b style=\"color:#2563eb\">Option (3): piwiRNA</b> - Silences mobile transposons in the germline."
+  },
+  {
+    "id": 19,
+    "question": "Which type of small non-coding RNA is involved in gene silencing and chromatin remodeling by guiding DNA methylation and histone modifications?",
+    "options": [
+      "miRNA",
+      "siRNA",
+      "piwiRNA",
+      "lncRNA"
+    ],
+    "correct_answer": "piwiRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): piwiRNA</b> is correct because PIWI-interacting RNAs (piRNAs) complexed with nuclear Piwi proteins (such as MIWI2 in mice or Piwi in Drosophila) enter the nucleus and recognize nascent transposon transcripts, recruiting histone methyltransferases (e.g., SetDB1) and de novo DNA methyltransferases (DNMT3A/3L) to establish repressive H3K9me3 chromatin marks and DNA methylation, stably silencing genomic loci.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): miRNA</b> - Primarily operates post-transcriptionally in the cytoplasm.\n• <b style=\"color:#2563eb\">Option (2): siRNA</b> - Can guide heterochromatin assembly in plants and yeast (RITS complex), but Option (3) is the designated answer.\n• <b style=\"color:#2563eb\">Option (4): lncRNA</b> - While lncRNAs (like Xist) guide epigenetic modifiers, Option (3) is designated in the key."
+  },
+  {
+    "id": 20,
+    "question": "What is the purpose of the ChIP assay?",
+    "options": [
+      "To detect DNA mutations in a sample.",
+      "To measure the expression levels of specific genes.",
+      "To identify protein-DNA interactions in vivo.",
+      "To analyze RNA processing and splicing events."
+    ],
+    "correct_answer": "To analyze RNA processing and splicing events.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): To analyze RNA processing and splicing events.</b> is designated. Note that in standard experimental biochemistry, Chromatin Immunoprecipitation (ChIP, Option 3) is the gold-standard in vivo technique used to crosslink and identify physical interactions between specific proteins (transcription factors, histones) and genomic DNA sequences. The official examination answer key explicitly designates Option (4).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To detect DNA mutations in a sample</b> - Performed by DNA sequencing, RFLP, or allele-specific PCR.\n• <b style=\"color:#2563eb\">Option (2): To measure the expression levels of specific genes</b> - Measured by RT-qPCR, RNA-seq, or Northern blotting.\n• <b style=\"color:#2563eb\">Option (3): To identify protein-DNA interactions in vivo</b> - The defining biological function of ChIP; official key designates Option (4)."
+  },
+  {
+    "id": 21,
+    "question": "What is the principle behind EMSA (Electrophoretic Mobility Shift Assay)?",
+    "options": [
+      "To measure the expression levels of specific genes.",
+      "To detect DNA mutations in a sample.",
+      "To identify RNA-protein interactions.",
+      "To analyze protein-DNA interactions."
+    ],
+    "correct_answer": "To measure the expression levels of specific genes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): To measure the expression levels of specific genes.</b> is designated. Note that in standard molecular biology, the Electrophoretic Mobility Shift Assay (EMSA or gel shift, Option 4) is an in vitro assay based on the principle that a protein-DNA complex migrates significantly slower through a non-denaturing polyacrylamide gel than free unbound DNA, thereby allowing direct qualitative and quantitative analysis of protein-DNA binding. The official key designates Option (1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): To detect DNA mutations in a sample</b> - Performed by sequencing or single-strand conformation polymorphism (SSCP).\n• <b style=\"color:#2563eb\">Option (3): To identify RNA-protein interactions</b> - Can analyze RNA-protein complexes (REMSA), but gene expression is marked in the key.\n• <b style=\"color:#2563eb\">Option (4): To analyze protein-DNA interactions</b> - Standard textbook principle of EMSA; official key designates Option (1)."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is required for the ChIP assay?",
+    "options": [
+      "Antibodies against the protein of interest.",
+      "RNA samples for reverse transcription.",
+      "PCR primers for gene amplification.",
+      "DNA sequencing reagents."
+    ],
+    "correct_answer": "PCR primers for gene amplification.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): PCR primers for gene amplification.</b> is designated. Following chromatin fragmentation and immunoprecipitation, specific PCR primers are essential in ChIP-PCR or ChIP-qPCR to amplify and quantify the specific co-immunoprecipitated genomic DNA fragments of interest to confirm protein binding.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Antibodies against the protein of interest</b> - Highly specific antibodies are central for immunoprecipitation; official key designates Option (3).\n• <b style=\"color:#2563eb\">Option (2): RNA samples for reverse transcription</b> - ChIP targets crosslinked genomic DNA, not RNA.\n• <b style=\"color:#2563eb\">Option (4): DNA sequencing reagents</b> - Utilized specifically in genome-wide ChIP-seq."
+  },
+  {
+    "id": 23,
+    "question": "What information can be obtained from EMSA?",
+    "options": [
+      "DNA sequence information.",
+      "Protein expression levels.",
+      "Protein-DNA binding affinity and specificity.",
+      "Gene expression patterns."
+    ],
+    "correct_answer": "Protein expression levels.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Protein expression levels.</b> is designated. Note that standard EMSA evaluates the binding affinity (Kd), stoichiometry, and sequence specificity of protein-DNA interactions; the intensity of shifted bands can reflect the abundance of active DNA-binding transcription factors in nuclear extracts. Following the official answer key, Option (2) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA sequence information</b> - Determined by Sanger sequencing or next-generation sequencing.\n• <b style=\"color:#2563eb\">Option (3): Protein-DNA binding affinity and specificity</b> - Standard biophysical parameters determined by EMSA; official key designates Option (2).\n• <b style=\"color:#2563eb\">Option (4): Gene expression patterns</b> - Assessed by microarrays or RNA-seq."
+  },
+  {
+    "id": 24,
+    "question": "Which technique allows visualization of protein-DNA complexes on a gel?",
+    "options": [
+      "ChIP assay",
+      "EMSA",
+      "DNA microarray",
+      "RNA interference"
+    ],
+    "correct_answer": "EMSA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): EMSA</b> is correct because the Electrophoretic Mobility Shift Assay (EMSA) directly visualizes intact protein-DNA complexes on a non-denaturing gel, where the bulky complex migrates as a retarded band relative to faster-migrating free radiolabeled or fluorescently labeled DNA probes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): ChIP assay</b> - Immunoprecipitates chromatin fragments in vivo for subsequent PCR/sequencing quantification rather than gel band shift visualization.\n• <b style=\"color:#2563eb\">Option (3): DNA microarray</b> - Hybridization-based chip assay measuring mRNA transcript levels or DNA copy number.\n• <b style=\"color:#2563eb\">Option (4): RNA interference</b> - Biological mechanism of gene silencing."
+  },
+  {
+    "id": 25,
+    "question": "What is trans-splicing?",
+    "options": [
+      "The process of joining exons together within a single pre-mRNA molecule.",
+      "The process of splicing together exons from two separate pre-mRNA molecules.",
+      "The process of adding a poly(A) tail to the 3' end of mRNA.",
+      "The process of modifying the 5' cap structure of mRNA."
+    ],
+    "correct_answer": "The process of adding a poly(A) tail to the 3' end of mRNA.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The process of adding a poly(A) tail to the 3' end of mRNA.</b> is designated. Note that in standard molecular genetics, trans-splicing (Option 2) is a specialized splicing mechanism where exons from two independently transcribed pre-mRNA molecules are joined together (e.g., addition of the Spliced Leader RNA onto pre-mRNAs in nematodes and trypanosomes). Following the official examination key, Option (3) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The process of joining exons together within a single pre-mRNA molecule</b> - Standard cis-splicing.\n• <b style=\"color:#2563eb\">Option (2): The process of splicing together exons from two separate pre-mRNA molecules</b> - The standard scientific definition of trans-splicing; official key marks Option (3).\n• <b style=\"color:#2563eb\">Option (4): The process of modifying the 5' cap structure of mRNA</b> - 5' Capping."
+  },
+  {
+    "id": 26,
+    "question": "Which organism is known to extensively utilize trans-splicing as a mechanism of gene expression?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Plants",
+      "Humans"
+    ],
+    "correct_answer": "Fungi",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Fungi</b> is designated. (In broader biological literature, spliced leader (SL) trans-splicing is extensively documented in trypanosomatid protozoa, nematodes like C. elegans, and certain fungi and lower metazoans). The official key explicitly designates Option (2) Fungi.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Bacteria</b> - Bacteria lack spliceosomal introns and trans-splicing machinery.\n• <b style=\"color:#2563eb\">Option (3): Plants</b> - Rare organellar trans-splicing exists in chloroplasts/mitochondria, but Fungi is designated in the key.\n• <b style=\"color:#2563eb\">Option (4): Humans</b> - Rely almost exclusively on cis-splicing and alternative splicing."
+  },
+  {
+    "id": 27,
+    "question": "What is RNA editing?",
+    "options": [
+      "The process of splicing pre-mRNA to remove introns.",
+      "The process of modifying the sequence of RNA after transcription.",
+      "The process of adding a poly(A) tail to the 3' end of mRNA.",
+      "The process of modifying the 5' cap structure of mRNA."
+    ],
+    "correct_answer": "The process of modifying the sequence of RNA after transcription.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The process of modifying the sequence of RNA after transcription.</b> is correct because RNA editing is a post-transcriptional process that alters the nucleotide sequence of an RNA molecule relative to its underlying genomic DNA template, through enzymatic base substitution (e.g., cytidine deamination to uridine by APOBEC1; adenosine deamination to inosine by ADAR) or nucleotide insertion/deletion (e.g., guide RNA-directed uridylate insertion in trypanosome kinetoplastids).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The process of splicing pre-mRNA to remove introns</b> - RNA splicing.\n• <b style=\"color:#2563eb\">Option (3): The process of adding a poly(A) tail to the 3' end of mRNA</b> - 3' Polyadenylation.\n• <b style=\"color:#2563eb\">Option (4): The process of modifying the 5' cap structure of mRNA</b> - 5' Capping."
+  }
+]

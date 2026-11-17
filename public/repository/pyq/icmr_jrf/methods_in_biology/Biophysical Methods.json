@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "In gel electrophoresis, which of the following molecule will move faster if the amount of DNA present is same in all?",
+    "options": [
+      "Linear",
+      "Supercoiled",
+      "Nicked",
+      "Circular"
+    ],
+    "correct_answer": "Supercoiled",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Supercoiled</b> is correct because supercoiled (Form I) circular DNA is extremely tightly packed, compact, and possesses a much smaller hydrodynamic radius than relaxed open-circular (nicked, Form II) or linear (Form III) DNA molecules of equal molecular weight, allowing it to navigate the agarose gel pores with minimum friction and migrate fastest toward the anode.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Linear</b> - Linear DNA molecules migrate at an intermediate speed between supercoiled and open circular forms in standard agarose gels.\n• <b style=\"color:#2563eb\">Option (3): Nicked</b> - Nicked (relaxed circular) DNA has a bulky, open conformation that experiences maximum gel resistance and migrates slowest of all forms.\n• <b style=\"color:#2563eb\">Option (4): Circular</b> - Relaxed circular forms migrate more slowly than their compact supercoiled counterparts."
+  },
+  {
+    "id": 2,
+    "question": "Which protein moves the least from point of application of sample while electrophoresis",
+    "options": [
+      "alphaglobulin",
+      "beta globulin",
+      "gammaglobulin",
+      "albumin"
+    ],
+    "correct_answer": "albumin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): albumin</b> is designated as the correct answer. While in standard clinical serum protein electrophoresis at alkaline pH 8.6 albumin carries the highest net negative charge and migrates farthest toward the anode whereas gamma globulins remain closest to the cathode/point of application, the official key specifies albumin.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): alphaglobulin</b> - Alpha-globulins (alpha-1 and alpha-2) migrate behind albumin in standard serum protein electrophoresis.\n• <b style=\"color:#2563eb\">Option (2): beta globulin</b> - Beta-globulins occupy the middle electrophoretic mobility region between alpha-globulins and gamma-globulins.\n• <b style=\"color:#2563eb\">Option (3): gammaglobulin</b> - Gamma-globulins normally have the lowest anodic mobility due to endosmosis, but albumin is the designated answer in the key."
+  },
+  {
+    "id": 3,
+    "question": "In SDS-PAGE the movement of proteins is from:",
+    "options": [
+      "Cathode to anode",
+      "Anode to cathode",
+      "Neutral to anode",
+      "Neutral to cathode"
+    ],
+    "correct_answer": "Cathode to anode",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Cathode to anode</b> is correct because SDS (sodium dodecyl sulfate) binds to proteins at a constant ratio of approximately 1.4 g SDS per gram of protein, imparting a uniform negative charge-to-mass ratio and causing the denatured polypeptides to migrate from the negative electrode (cathode) toward the positive electrode (anode).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Anode to cathode</b> - Anode to cathode migration occurs only for positively charged cations in native systems (cataphoresis).\n• <b style=\"color:#2563eb\">Option (3): Neutral to anode</b> - SDS-coated proteins are strongly negatively charged, not electrically neutral.\n• <b style=\"color:#2563eb\">Option (4): Neutral to cathode</b> - SDS-protein complexes are negatively charged and migrate exclusively toward the positive anode."
+  },
+  {
+    "id": 4,
+    "question": "Two-dimensional gels are used to:",
+    "options": [
+      "Separate DNA from RNA",
+      "Separate DNA fragments",
+      "Separate RNA fragments",
+      "Separate different proteins"
+    ],
+    "correct_answer": "Separate different proteins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Separate different proteins</b> is correct because two-dimensional gel electrophoresis (2D-PAGE) is a powerful proteomic technique that resolves complex mixtures of thousands of different proteins by two orthogonal physical properties: isoelectric point (pI) via isoelectric focusing (IEF) in the first dimension, followed by molecular weight (mass) via SDS-PAGE in the second dimension.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Separate DNA from RNA</b> - Separation of DNA from RNA is achieved via selective precipitation or differential extraction methods (e.g., TRIzol).\n• <b style=\"color:#2563eb\">Option (2): Separate DNA fragments</b> - DNA fragments are separated by standard one-dimensional agarose gel electrophoresis or pulsed-field gel electrophoresis.\n• <b style=\"color:#2563eb\">Option (3): Separate RNA fragments</b> - RNA fragments are resolved on denaturing formaldehyde or glyoxal agarose gels."
+  },
+  {
+    "id": 5,
+    "question": "The polymerization of the gel used in PAGE occurs between polyacrylamide and:",
+    "options": [
+      "N, N - acrylamide",
+      "Bis-acrylamide",
+      "N - methylene-acrylamide",
+      "N, N - methylene-bis-acrylamide"
+    ],
+    "correct_answer": "N, N - methylene-bis-acrylamide",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): N, N - methylene-bis-acrylamide</b> is correct because polyacrylamide gel electrophoresis (PAGE) matrices are synthesized by free-radical vinyl polymerization of acrylamide monomers cross-linked by the bifunctional agent N,N'-methylene-bis-acrylamide (\"bis\"), initiated by ammonium persulfate (APS) and catalyzed by TEMED.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): N, N - acrylamide</b> - Not a cross-linking chemical used in PAGE.\n• <b style=\"color:#2563eb\">Option (2): Bis-acrylamide</b> - Bis-acrylamide is the informal shorthand name, but Option (4) gives the complete, precise chemical IUPAC designation: N,N'-methylene-bis-acrylamide.\n• <b style=\"color:#2563eb\">Option (3): N - methylene-acrylamide</b> - Incorrect chemical structure lacking the bifunctional cross-linking capability."
+  },
+  {
+    "id": 6,
+    "question": "The electrophoretic technique used to separate very large DNA segments is:",
+    "options": [
+      "Two-dimensional electrophoresis",
+      "Pulsed- field gel electrophoresis",
+      "High resolution electrophoresis",
+      "Polyacrylamide gel electrophoresis"
+    ],
+    "correct_answer": "Pulsed- field gel electrophoresis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Pulsed- field gel electrophoresis</b> is correct because Pulsed-Field Gel Electrophoresis (PFGE) applies alternating, reorienting electric fields in different directions across an agarose gel, allowing extremely large DNA segments and entire microbial chromosomes (ranging from 50 kbp up to several megabases) to be resolved by their reorientation times.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Two-dimensional electrophoresis</b> - Typically used for resolving proteomes (IEF + SDS-PAGE), not megabase-sized DNA.\n• <b style=\"color:#2563eb\">Option (3): High resolution electrophoresis</b> - High resolution electrophoresis is used for fine separation of serum proteins or small nucleic acids.\n• <b style=\"color:#2563eb\">Option (4): Polyacrylamide gel electrophoresis</b> - PAGE has small pore sizes suitable only for small DNA fragments (<1 kbp) and oligonucleotides."
+  },
+  {
+    "id": 7,
+    "question": "Difference in wavelength or frequency units between positions of band maxima absorption and emission spectra of the same electronic transition is known as",
+    "options": [
+      "Vavilov rule",
+      "Stokes shift",
+      "Kasha's rule",
+      "Stokes line"
+    ],
+    "correct_answer": "Stokes shift",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Stokes shift</b> is correct because the Stokes shift (named after George G. Stokes) is the difference in wavelength or frequency between the spectral position of the absorption (excitation) maximum and the emission maximum of the same electronic transition, resulting from rapid vibrational relaxation of excited electrons.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Vavilov rule</b> - The Vavilov rule states that the quantum yield of luminescence is generally independent of the excitation wavelength.\n• <b style=\"color:#2563eb\">Option (3): Kasha's rule</b> - Kasha's rule dictates that photon emission (fluorescence or phosphorescence) occurs with appreciable yield only from the lowest excited electronic state (S1 or T1).\n• <b style=\"color:#2563eb\">Option (4): Stokes line</b> - Stokes lines are scattered spectral lines in Raman spectroscopy that appear at lower frequency than the Rayleigh excitation line."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following does not absorb UV Radiation?",
+    "options": [
+      "Benzoic acid",
+      "Chloro-hexane",
+      "Nitrobenzene",
+      "Butadiene"
+    ],
+    "correct_answer": "Chloro-hexane",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Chloro-hexane</b> is correct because 1-chlorohexane is a saturated aliphatic alkane derivative that contains only single sigma (σ) bonds and chlorine lone pairs (n -> σ* transitions occur far below 200 nm in the vacuum UV region), so it lacks conjugated pi (π) chromophores and exhibits no absorption in the near-UV range (200–400 nm).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Benzoic acid</b> - Benzoic acid contains a conjugated aromatic benzene ring and carbonyl group, strongly absorbing UV light at 230 and 270 nm.\n• <b style=\"color:#2563eb\">Option (3): Nitrobenzene</b> - Nitrobenzene has an extensively conjugated aromatic nitro chromophore with strong UV absorption around 260–280 nm.\n• <b style=\"color:#2563eb\">Option (4): Butadiene</b> - 1,3-Butadiene contains conjugated double bonds (π -> π* transition) with a UV absorption maximum at 217 nm."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following techniques is commonly used to determine the three-dimensional structure of proteins?",
+    "options": [
+      "Mass spectrometry",
+      "Circular dichroism spectroscopy",
+      "X-ray crystallography",
+      "Nuclear magnetic resonance (NMR) spectroscopy"
+    ],
+    "correct_answer": "X-ray crystallography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): X-ray crystallography</b> is correct because X-ray crystallography is historically the most widely used and successful biophysical technique for resolving the atomic-resolution three-dimensional structures of crystalline proteins, accounting for ~85% of structures deposited in the Protein Data Bank (PDB).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mass spectrometry</b> - Mass spectrometry determines accurate molecular masses, primary sequences, and post-translational modifications, but not atomic 3D coordinates.\n• <b style=\"color:#2563eb\">Option (2): Circular dichroism spectroscopy</b> - CD spectroscopy provides qualitative estimations of secondary structure content (alpha-helices, beta-sheets), not 3D atomic models.\n• <b style=\"color:#2563eb\">Option (4): Nuclear magnetic resonance (NMR) spectroscopy</b> - While NMR also determines 3D structures in solution, X-ray crystallography is the predominant and designated answer."
+  },
+  {
+    "id": 10,
+    "question": "Which technique is used to measure the binding affinity between a ligand and a protein?",
+    "options": [
+      "Isothermal titration calorimetry (ITC)",
+      "Surface plasmon resonance (SPR)",
+      "Electrophoresis",
+      "Western blotting"
+    ],
+    "correct_answer": "Isothermal titration calorimetry (ITC)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Isothermal titration calorimetry (ITC)</b> is correct because ITC is the gold standard thermodynamic method that measures the minute heat released or absorbed during titration of a ligand into a macromolecule solution at constant temperature, directly yielding binding affinity (Ka), stoichiometry (n), enthalpy change (ΔH), and entropy change (ΔS).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Surface plasmon resonance (SPR)</b> - SPR measures surface optical kinetics and affinity, but ITC is the primary solution thermodynamic technique designated here.\n• <b style=\"color:#2563eb\">Option (3): Electrophoresis</b> - Electrophoresis separates molecules based on charge and size.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting detects specific proteins on membranes using antibodies."
+  },
+  {
+    "id": 11,
+    "question": "Which method is used to separate DNA fragments based on their size?",
+    "options": [
+      "Polymerase chain reaction (PCR)",
+      "Gel electrophoresis",
+      "Western blotting",
+      "Mass spectrometry"
+    ],
+    "correct_answer": "Gel electrophoresis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Gel electrophoresis</b> is correct because agarose gel electrophoresis separates negatively charged DNA fragments across a sieve-like gel matrix solely based on their size (length in base pairs) when subjected to an electric current.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Polymerase chain reaction (PCR)</b> - PCR amplifies DNA templates rather than separating existing fragments by size.\n• <b style=\"color:#2563eb\">Option (3): Western blotting</b> - Western blotting identifies specific proteins using antibodies.\n• <b style=\"color:#2563eb\">Option (4): Mass spectrometry</b> - Mass spectrometry measures mass-to-charge ratio of ionized molecules in gas phase, not standard macro-preparative DNA sizing."
+  },
+  {
+    "id": 12,
+    "question": "Which technique is used to determine the secondary structure of proteins?",
+    "options": [
+      "Nuclear magnetic resonance (NMR) spectroscopy",
+      "Circular dichroism spectroscopy",
+      "X-ray crystallography",
+      "Electron microscopy"
+    ],
+    "correct_answer": "Circular dichroism spectroscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Circular dichroism spectroscopy</b> is correct because far-UV Circular Dichroism (CD) spectroscopy (190–250 nm) measures the differential absorption of left- and right-circularly polarized light by peptide backbone bonds, generating characteristic spectral signatures to quantify proportions of alpha-helices, beta-sheets, beta-turns, and random coils.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nuclear magnetic resonance (NMR) spectroscopy</b> - NMR provides complete atomic tertiary structure and dynamics.\n• <b style=\"color:#2563eb\">Option (3): X-ray crystallography</b> - X-ray crystallography solves full 3D atomic tertiary/quaternary structures.\n• <b style=\"color:#2563eb\">Option (4): Electron microscopy</b> - Electron microscopy visualizes large macromolecular complexes, organelles, and cell morphology."
+  },
+  {
+    "id": 13,
+    "question": "Which method is used to study protein-protein interactions in real-time?",
+    "options": [
+      "Fluorescence resonance energy transfer (FRET)",
+      "Electron microscopy",
+      "Mass spectrometry",
+      "Western blotting"
+    ],
+    "correct_answer": "Fluorescence resonance energy transfer (FRET)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Fluorescence resonance energy transfer (FRET)</b> is correct because FRET measures non-radiative dipole-dipole energy transfer between two fluorophores (donor and acceptor) located within 1–10 nm of each other, providing a dynamic \"spectroscopic ruler\" to monitor real-time protein-protein interactions and conformational transitions in living cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electron microscopy</b> - EM requires fixed, dehydrated, or frozen samples under high vacuum, precluding dynamic real-time living measurements.\n• <b style=\"color:#2563eb\">Option (3): Mass spectrometry</b> - MS analyzes ionized peptides in gas-phase vacuum spectrometers.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting is an endpoint, static assay performed on lysed and denatured samples."
+  },
+  {
+    "id": 14,
+    "question": "Which technique is used to study the movement and localization of biomolecules in living cells?",
+    "options": [
+      "Electron paramagnetic resonance (EPR) spectroscopy",
+      "Fluorescence recovery after photobleaching (FRAP)",
+      "Differential scanning calorimetry (DSC)",
+      "X-ray crystallography"
+    ],
+    "correct_answer": "Fluorescence recovery after photobleaching (FRAP)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Fluorescence recovery after photobleaching (FRAP)</b> is correct because FRAP uses an intense laser beam to irreversibly bleach a defined spot of fluorescently labeled molecules inside a living cell, followed by monitoring the rate and extent of fluorescence recovery as unbleached molecules diffuse back into the area, directly measuring molecular mobility and diffusion coefficients.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Electron paramagnetic resonance (EPR) spectroscopy</b> - EPR detects unpaired electrons and spin labels in solution or frozen states.\n• <b style=\"color:#2563eb\">Option (3): Differential scanning calorimetry (DSC)</b> - DSC measures the thermal transitions, heat capacity, and melting temperatures (Tm) of biomolecules.\n• <b style=\"color:#2563eb\">Option (4): X-ray crystallography</b> - X-ray crystallography requires static crystalline samples, unable to monitor dynamic diffusion in living cells."
+  },
+  {
+    "id": 15,
+    "question": "Which method is used to determine the absolute molecular weight of a protein or complex?",
+    "options": [
+      "Electrophoresis",
+      "Size exclusion chromatography (SEC)",
+      "Surface plasmon resonance (SPR)",
+      "Fluorescence spectroscopy"
+    ],
+    "correct_answer": "Size exclusion chromatography (SEC)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Size exclusion chromatography (SEC)</b> is designated as the correct choice. Size Exclusion Chromatography (gel filtration) separates proteins and macromolecular complexes in their native hydrated state based on hydrodynamic volume, and when calibrated with standards or coupled to multi-angle light scattering (SEC-MALS), determines the native molecular mass of complexes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Electrophoresis</b> - SDS-PAGE determines relative subunit molecular weight under denaturing conditions, not absolute native complex mass.\n• <b style=\"color:#2563eb\">Option (3): Surface plasmon resonance (SPR)</b> - SPR measures kinetic binding constants and molecular interactions.\n• <b style=\"color:#2563eb\">Option (4): Fluorescence spectroscopy</b> - Fluorescence assesses local fluorophore microenvironments and emission changes."
+  },
+  {
+    "id": 16,
+    "question": "Which technique is used to measure the electrical activity of cells or tissues?",
+    "options": [
+      "X-ray crystallography",
+      "Patch-clamp electrophysiology",
+      "Fluorescence resonance energy transfer (FRET)",
+      "Circular dichroism spectroscopy"
+    ],
+    "correct_answer": "Patch-clamp electrophysiology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Patch-clamp electrophysiology</b> is correct because the patch-clamp technique (invented by Erwin Neher and Bert Sakmann) seals a polished glass micropipette against a cell membrane to record picoampere ionic currents passing through individual ion channel proteins or whole cell membranes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): X-ray crystallography</b> - X-ray crystallography determines 3D crystal structures, not electrical potentials.\n• <b style=\"color:#2563eb\">Option (3): Fluorescence resonance energy transfer (FRET)</b> - FRET monitors inter-fluorophore molecular distances.\n• <b style=\"color:#2563eb\">Option (4): Circular dichroism spectroscopy</b> - CD spectroscopy analyzes protein and nucleic acid secondary structures."
+  },
+  {
+    "id": 17,
+    "question": "Which method is used to study the dynamics of protein folding and unfolding?",
+    "options": [
+      "Fluorescence spectroscopy",
+      "Electron microscopy",
+      "Mass spectrometry",
+      "Nuclear magnetic resonance (NMR) spectroscopy"
+    ],
+    "correct_answer": "Fluorescence spectroscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Fluorescence spectroscopy</b> is correct because intrinsic tryptophan fluorescence is extremely sensitive to changes in local dielectric microenvironments (shifting from hydrophobic buried core to hydrophilic solvent exposure upon denaturation), allowing sensitive, millisecond-scale monitoring of protein folding and unfolding kinetics.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electron microscopy</b> - EM captures static images of dehydrated or cryogenic particles, lacking real-time kinetic resolution.\n• <b style=\"color:#2563eb\">Option (3): Mass spectrometry</b> - While hydrogen-deuterium exchange MS probes folding, fluorescence spectroscopy is the primary real-time folding method.\n• <b style=\"color:#2563eb\">Option (4): Nuclear magnetic resonance (NMR) spectroscopy</b> - While NMR probes residue-level folding intermediates, fluorescence is the benchmark optical dynamic method designated here."
+  },
+  {
+    "id": 18,
+    "question": "Which technique is used to measure the velocity and direction of protein movement within a cell?",
+    "options": [
+      "Fluorescence recovery after photobleaching (FRAP)",
+      "Electron microscopy",
+      "Fluorescence resonance energy transfer (FRET)",
+      "Fluorescence correlation spectroscopy (FCS)"
+    ],
+    "correct_answer": "Fluorescence recovery after photobleaching (FRAP)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Fluorescence recovery after photobleaching (FRAP)</b> is correct (with Option (4): FCS also recognized in the primary exam key table). FRAP monitors the spatiotemporal recovery kinetics of fluorescent molecules diffusing into a photobleached region, enabling precise measurement of lateral diffusion coefficients, transport velocity, and mobile fractions inside living cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electron microscopy</b> - EM requires fixed or vitrified static specimens that do not permit dynamic velocity measurements.\n• <b style=\"color:#2563eb\">Option (3): Fluorescence resonance energy transfer (FRET)</b> - FRET determines static or dynamic proximity between donor and acceptor pairs within 1–10 nm, not cellular directional velocity.\n• <b style=\"color:#2563eb\">Option (4): Fluorescence correlation spectroscopy (FCS)</b> - FCS is also an optical method measuring diffusion coefficients from single-molecule fluctuations, but Option (1) is the standard primary designation."
+  },
+  {
+    "id": 19,
+    "question": "Which method is used to determine the three-dimensional structure of nucleic acids?",
+    "options": [
+      "X-ray crystallography",
+      "Nuclear magnetic resonance (NMR) spectroscopy",
+      "Electron microscopy",
+      "Circular dichroism spectroscopy"
+    ],
+    "correct_answer": "X-ray crystallography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): X-ray crystallography</b> is correct because X-ray diffraction analysis of single crystals or oriented fibers (such as Rosalind Franklin's Photo 51) was foundational in solving the DNA double helix structure and remains the premier technique for determining high-resolution 3D structures of complex RNAs and DNA-protein complexes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Nuclear magnetic resonance (NMR) spectroscopy</b> - Solution NMR solves 3D structures of short nucleic acids, but X-ray crystallography is the designated gold-standard answer.\n• <b style=\"color:#2563eb\">Option (3): Electron microscopy</b> - EM typically images large ribonucleoprotein assemblies (e.g., ribosomes) rather than routine individual nucleic acid duplexes.\n• <b style=\"color:#2563eb\">Option (4): Circular dichroism spectroscopy</b> - CD spectroscopy distinguishes A, B, and Z helical conformations, but does not solve 3D atomic coordinates."
+  },
+  {
+    "id": 20,
+    "question": "Which technique is used to measure the interaction forces between molecules at the single-molecule level?",
+    "options": [
+      "Atomic force microscopy (AFM)",
+      "Gel electrophoresis",
+      "Fluorescence spectroscopy",
+      "Surface plasmon resonance (SPR)"
+    ],
+    "correct_answer": "Atomic force microscopy (AFM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Atomic force microscopy (AFM)</b> is correct because AFM single-molecule force spectroscopy (SMFS) functionalizes a nanoscale cantilever tip with a ligand to measure piconewton-scale mechanical unfolding, receptor-ligand rupture, and binding forces with single-molecule sensitivity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Gel electrophoresis</b> - Gel electrophoresis is a bulk separation method based on charge and size.\n• <b style=\"color:#2563eb\">Option (3): Fluorescence spectroscopy</b> - Standard fluorescence measures ensemble optical emissions, not direct mechanical interaction forces.\n• <b style=\"color:#2563eb\">Option (4): Surface plasmon resonance (SPR)</b> - SPR measures ensemble surface refractive index changes to obtain equilibrium affinities, not direct single-molecule mechanical rupture forces."
+  },
+  {
+    "id": 21,
+    "question": "Which method is used to determine the secondary structure of nucleic acids?",
+    "options": [
+      "Circular dichroism spectroscopy",
+      "Electrophoresis",
+      "Mass spectrometry",
+      "Fluorescence spectroscopy"
+    ],
+    "correct_answer": "Circular dichroism spectroscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Circular dichroism spectroscopy</b> is correct because CD spectroscopy in the near-UV range (200–300 nm) displays distinct chiral spectral signatures for different nucleic acid secondary conformations, readily discriminating between standard B-form DNA, A-form RNA/DNA duplexes, left-handed Z-DNA, G-quadruplexes, and triplex structures.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electrophoresis</b> - Electrophoresis resolves nucleic acids based on molecular weight and hydrodynamic drag.\n• <b style=\"color:#2563eb\">Option (3): Mass spectrometry</b> - Mass spectrometry identifies mass and sequence fragments, not intact chiral secondary helical conformation.\n• <b style=\"color:#2563eb\">Option (4): Fluorescence spectroscopy</b> - Fluorescence measures emission properties of fluorophores without direct chiral conformational analysis."
+  },
+  {
+    "id": 22,
+    "question": "Which technique is used to study the interaction between a ligand and a protein in solution?",
+    "options": [
+      "Isothermal titration calorimetry (ITC)",
+      "Surface plasmon resonance (SPR)",
+      "Gel electrophoresis",
+      "Western blotting"
+    ],
+    "correct_answer": "Isothermal titration calorimetry (ITC)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Isothermal titration calorimetry (ITC)</b> is correct because ITC measures thermodynamic parameters of protein-ligand interactions entirely in free homogeneous solution without needing any chemical immobilization on a sensor chip (unlike SPR) or fluorescent labeling.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Surface plasmon resonance (SPR)</b> - SPR requires immobilizing one binding partner onto a gold sensor chip surface, so it is not a pure free solution assay.\n• <b style=\"color:#2563eb\">Option (3): Gel electrophoresis</b> - Gel electrophoresis is a separation method through a porous polymer matrix.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting detects immobilized proteins on a membrane."
+  },
+  {
+    "id": 23,
+    "question": "Which method is used to study the structural changes of proteins under different conditions?",
+    "options": [
+      "Circular dichroism spectroscopy",
+      "Differential scanning calorimetry (DSC)",
+      "Electron microscopy",
+      "Nuclear magnetic resonance (NMR) spectroscopy"
+    ],
+    "correct_answer": "Differential scanning calorimetry (DSC)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Differential scanning calorimetry (DSC)</b> is designated as the correct choice. DSC measures the difference in heat energy required to maintain a protein solution and reference at identical temperatures during thermal scanning, providing complete thermodynamic profiles of thermal denaturation, stability, and conformational transitions under varying pH, salts, or denaturants.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Circular dichroism spectroscopy</b> - CD also tracks thermal and chemical denaturation, but DSC is specifically designated in this key.\n• <b style=\"color:#2563eb\">Option (3): Electron microscopy</b> - EM captures static structures, not continuous thermodynamic transitions under varying conditions.\n• <b style=\"color:#2563eb\">Option (4): Nuclear magnetic resonance (NMR) spectroscopy</b> - While NMR tracks conformational shifts, DSC is the designated thermal stability/structural transition assay."
+  },
+  {
+    "id": 24,
+    "question": "Which technique is used to measure the rotation of a molecule in solution?",
+    "options": [
+      "Mass spectrometry",
+      "Nuclear magnetic resonance (NMR) spectroscopy",
+      "X-ray crystallography",
+      "Fluorescence spectroscopy"
+    ],
+    "correct_answer": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Nuclear magnetic resonance (NMR) spectroscopy</b> is correct because NMR relaxation measurements (T1 longitudinal relaxation, T2 transverse relaxation, and heteronuclear NOE) quantify the rotational correlation time (tau_c) and rotational diffusion tensor of macromolecules tumbling in solution.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mass spectrometry</b> - Mass spectrometry analyzes ions in high vacuum, where solution rotational dynamics cannot be observed.\n• <b style=\"color:#2563eb\">Option (3): X-ray crystallography</b> - X-ray crystallography analyzes stationary molecules locked in crystal lattices.\n• <b style=\"color:#2563eb\">Option (4): Fluorescence spectroscopy</b> - Fluorescence polarization/anisotropy also monitors rotational tumbling, but NMR is the designated biophysical method in the answer key."
+  },
+  {
+    "id": 25,
+    "question": "Which method is used to study the conformational dynamics of proteins?",
+    "options": [
+      "Fluorescence resonance energy transfer (FRET)",
+      "Electron microscopy",
+      "Circular dichroism spectroscopy",
+      "Nuclear magnetic resonance (NMR) spectroscopy"
+    ],
+    "correct_answer": "Nuclear magnetic resonance (NMR) spectroscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Nuclear magnetic resonance (NMR) spectroscopy</b> is correct because Solution NMR spectroscopy provides residue-by-residue, site-specific information on protein conformational dynamics across a vast timescale—from picosecond-nanosecond side-chain motions (relaxation rates) to microsecond-millisecond loop gating (relaxation dispersion) and second-timescale domain exchanges.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Fluorescence resonance energy transfer (FRET)</b> - FRET monitors distances between two fluorophore sites, but cannot provide atomic-level dynamic mapping across the entire protein.\n• <b style=\"color:#2563eb\">Option (2): Electron microscopy</b> - EM visualizes static cryogenic particles, not continuous sub-millisecond solution dynamics.\n• <b style=\"color:#2563eb\">Option (3): Circular dichroism spectroscopy</b> - CD measures overall average secondary structure content, lacking residue-specific conformational dynamics."
+  }
+]

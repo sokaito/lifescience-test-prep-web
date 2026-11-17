@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Passive immunity is obtained through injecting:",
+    "options": [
+      "Antibodies",
+      "Vaccine",
+      "Antibiotic",
+      "Antigen"
+    ],
+    "correct_answer": "Antibodies",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Antibodies</b> is correct. Passive immunity is acquired by directly transferring preformed antibodies from an immune individual or animal into a non-immune recipient. Because ready-made immunoglobulins provide immediate protection against toxins or infectious agents without requiring the recipient's immune system to mount a primary response, injecting antiserum or purified antibodies confers instant passive immunity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Vaccine</b> - Vaccines contain antigens (attenuated or killed pathogens or subunits) that stimulate the host's own immune system to generate an active immune response and memory cells.\n• <b style=\"color:#2563eb\">Option (3): Antibiotic</b> - Antibiotics are antimicrobial biochemical drugs that kill or inhibit bacteria; they do not provide immunological protection or antibodies.\n• <b style=\"color:#2563eb\">Option (4): Antigen</b> - Injecting an antigen triggers active immunization, requiring several days to weeks to generate an adaptive antibody response."
+  },
+  {
+    "id": 2,
+    "question": "Secondary Immune response is generated due to:",
+    "options": [
+      "Naive B cells",
+      "Naive T cells",
+      "NK cells",
+      "Memory cells"
+    ],
+    "correct_answer": "Memory cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Memory cells</b> is correct. Following a primary immune response, a subset of antigen-activated lymphocytes differentiates into long-lived memory B and T cells. Upon secondary exposure to the identical antigen, these antigen-experienced memory cells respond much more rapidly, proliferate with higher clonal expansion, and produce higher titers of high-affinity antibodies (predominantly IgG) with minimal lag time.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Naive B cells</b> - Naive B cells are mature lymphocytes that have not encountered their cognate antigen and mediate the slower primary immune response.\n• <b style=\"color:#2563eb\">Option (2): Naive T cells</b> - Naive T cells require initial activation and co-stimulation by professional APCs to differentiate into effector cells during the primary response.\n• <b style=\"color:#2563eb\">Option (3): NK cells</b> - Natural Killer (NK) cells are innate lymphoid cells that recognize and kill abnormal host cells in an antigen-non-specific manner."
+  },
+  {
+    "id": 3,
+    "question": "Which one of the following is an example of artificial passive immunization?",
+    "options": [
+      "In utero infection",
+      "Injection of adjuvant alone",
+      "Transplacental passage of antibody",
+      "Injection of pooled human gamma globulin"
+    ],
+    "correct_answer": "Injection of pooled human gamma globulin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Injection of pooled human gamma globulin</b> is correct. Artificial passive immunity involves medical administration (injection or infusion) of preformed antibodies harvested from immunized humans or animals. Pooled human intravenous immunoglobulin (IVIG or gamma globulin) provides immediate, temporary passive humoral protection against a broad spectrum of pathogens.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): In utero infection</b> - Maternal-fetal transmission of a pathogen triggers congenital infection and active fetal immune responses.\n• <b style=\"color:#2563eb\">Option (2): Injection of adjuvant alone</b> - Adjuvants non-specifically boost the immunogenicity of antigens in vaccines; injecting adjuvant alone does not confer immunity.\n• <b style=\"color:#2563eb\">Option (3): Transplacental passage of antibody</b> - Transfer of maternal IgG across the placenta to the fetus is natural passive immunity, not artificial."
+  },
+  {
+    "id": 4,
+    "question": "A molecule that reacts with specific antibody but is not immunogenic by itself is called:",
+    "options": [
+      "Carrier",
+      "Antigen",
+      "Hapten",
+      "Immunogen"
+    ],
+    "correct_answer": "Hapten",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Hapten</b> is correct. A hapten is a low-molecular-weight chemical group that possesses antigenicity (the ability to react specifically with antibodies or TCRs) but lacks immunogenicity (the capacity to induce an immune response on its own). When covalently conjugated to a high-molecular-weight carrier protein, it becomes immunogenic.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Carrier</b> - A carrier is a large, immunogenic macromolecule (usually a protein) to which a hapten is coupled to stimulate a robust immune response.\n• <b style=\"color:#2563eb\">Option (2): Antigen</b> - An antigen is any substance that binds specifically to an antibody or antigen receptor, but complete antigens can sometimes be immunogenic.\n• <b style=\"color:#2563eb\">Option (4): Immunogen</b> - An immunogen is a complete substance capable of independently stimulating a specific immune response."
+  },
+  {
+    "id": 5,
+    "question": "Which type of immunity is developed after exposure to pathogen?",
+    "options": [
+      "Natural active acquired immunity",
+      "Artificial lived immunity",
+      "Natural panic and immunity",
+      "Artificial passive acquired immunity"
+    ],
+    "correct_answer": "Natural active acquired immunity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Natural active acquired immunity</b> is correct. Natural active immunity develops when an individual encounters a live pathogen in the environment, suffers an infection (clinical or subclinical), and the host's own immune system responds by producing specific antibodies, effector T cells, and long-lasting memory cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Artificial lived immunity</b> - This is an incorrect/fictitious term; artificial active immunity refers to vaccination.\n• <b style=\"color:#2563eb\">Option (3): Natural panic and immunity</b> - This is an invalid nonsensical distractor.\n• <b style=\"color:#2563eb\">Option (4): Artificial passive acquired immunity</b> - This involves medical injection of preformed antibodies (e.g., antivenom, rabies antiserum), not natural infection."
+  },
+  {
+    "id": 6,
+    "question": "What is the mechanism that white blood cells used to kill bacteria, fungi and other invading organisms?",
+    "options": [
+      "Asphyxiation",
+      "oxidative activity",
+      "Fright",
+      "drowning"
+    ],
+    "correct_answer": "oxidative activity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): oxidative activity</b> is correct. Phagocytic white blood cells (neutrophils and macrophages) utilize the respiratory/oxidative burst to destroy engulfed pathogens. The enzyme NADPH oxidase generates superoxide anions (O2•-), which are converted into hydrogen peroxide (H2O2) and hypochlorous acid (HOCl) by myeloperoxidase (MPO), rapidly causing oxidative damage to bacterial proteins, lipids, and DNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Asphyxiation</b> - Asphyxiation refers to suffocation or oxygen deprivation in organisms, not a leukocyte killing mechanism.\n• <b style=\"color:#2563eb\">Option (3): Fright</b> - Emotional fright has no role in leukocyte pathogen destruction.\n• <b style=\"color:#2563eb\">Option (4): drowning</b> - Drowning involves submersion in liquids leading to respiratory failure; it is not a cellular bactericidal mechanism."
+  },
+  {
+    "id": 7,
+    "question": "Perforin lined pore in target cell are developed by:",
+    "options": [
+      "Natural killer cells",
+      "Neutrophil",
+      "Macrophage",
+      "Mast cell"
+    ],
+    "correct_answer": "Natural killer cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Natural killer cells</b> is correct. Natural Killer (NK) cells and Cytotoxic T Lymphocytes (CTLs) store perforin and granzymes in their cytolytic granules. Upon immunological synapse formation with an infected or malignant target cell, exocytosis releases perforin monomers that polymerize in the presence of calcium to form transmembrane pores in the target cell membrane, permitting granzyme entry to induce apoptosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Neutrophil</b> - Neutrophils eliminate microbes primarily via phagocytosis, oxidative burst, and neutrophil extracellular traps (NETs), not perforin pore formation.\n• <b style=\"color:#2563eb\">Option (3): Macrophage</b> - Macrophages engulf and digest cellular debris and microbes through lysosomal acid hydrolases and reactive oxygen/nitrogen species.\n• <b style=\"color:#2563eb\">Option (4): Mast cell</b> - Mast cells release granules containing histamine, heparin, and proteases during allergic and anaphylactic reactions."
+  },
+  {
+    "id": 8,
+    "question": "All are the functions of macrophages, EXCEPT:",
+    "options": [
+      "Maintenance of tissue homeostasis",
+      "Clearance of apoptotic neutrophils",
+      "Wound repair",
+      "Antigen presentation to naive T cells"
+    ],
+    "correct_answer": "Antigen presentation to naive T cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Antigen presentation to naive T cells</b> is correct as the exception. Naive T cells require high levels of co-stimulatory signals (CD80/CD86) and specialized migratory capabilities found uniquely on mature dendritic cells (the quintessential professional antigen-presenting cells for priming naive T cells). Macrophages primarily present antigens to primed, effector, or memory T cells to activate localized macrophage microbicidal responses.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Maintenance of tissue homeostasis</b> - Macrophages continuously clear cellular debris and metabolic wastes to preserve tissue integrity.\n• <b style=\"color:#2563eb\">Option (2): Clearance of apoptotic neutrophils</b> - Efferocytosis of aged and apoptotic neutrophils by macrophages is an essential anti-inflammatory resolution process.\n• <b style=\"color:#2563eb\">Option (3): Wound repair</b> - M2-polarized macrophages secrete growth factors (VEGF, TGF-beta) and cytokines that orchestrate granulation tissue formation and angiogenesis."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following statements about passive immunity is true?",
+    "options": [
+      "It provides long-term protection.",
+      "It requires the individual's immune system to produce antibodies.",
+      "It involves the administration of live attenuated pathogens.",
+      "It is acquired naturally through infection."
+    ],
+    "correct_answer": "It requires the individual's immune system to produce antibodies.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It requires the individual's immune system to produce antibodies</b> is selected in the official exam key (noting that in classical immunological terms, active immunity is what requires the host to produce antibodies, whereas passive immunity provides preformed antibodies; the official key marks option 2 for this item).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It provides long-term protection</b> - Passive immunity is always temporary and short-lived because transferred antibodies degrade without memory cell generation.\n• <b style=\"color:#2563eb\">Option (3): It involves the administration of live attenuated pathogens</b> - Administration of live attenuated pathogens is active vaccination.\n• <b style=\"color:#2563eb\">Option (4): It is acquired naturally through infection</b> - Infection stimulates active immunity, not passive immunity."
+  },
+  {
+    "id": 10,
+    "question": "Passive immunity is typically temporary because:",
+    "options": [
+      "Antibodies degrade quickly in the body.",
+      "It does not involve memory cells.",
+      "It is only effective against certain pathogens.",
+      "The individual's immune system is not involved."
+    ],
+    "correct_answer": "It does not involve memory cells.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It does not involve memory cells</b> is correct. Passive immunity provides immediate circulating antibodies without stimulating the host's B lymphocytes to undergo clonal expansion, somatic hypermutation, and differentiation into long-lived memory B cells. Once the injected or transferred maternal antibodies are cleared by metabolic catabolism, protection completely ceases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Antibodies degrade quickly in the body</b> - While IgG has a half-life of ~21 days, the fundamental immunological reason for lack of permanence is the absence of memory cell generation.\n• <b style=\"color:#2563eb\">Option (3): It is only effective against certain pathogens</b> - Passive immunoglobulins are specific to whatever antigens they were raised against, not arbitrarily restricted.\n• <b style=\"color:#2563eb\">Option (4): The individual's immune system is not involved</b> - While true that the host's adaptive cells are bypassed, the specific reason it lacks longevity is the absence of immunological memory."
+  },
+  {
+    "id": 11,
+    "question": "The secondary immune response is characterized by:",
+    "options": [
+      "Weaker and slower antibody production compared to the primary response.",
+      "Activation of naïve B cells.",
+      "Decreased affinity maturation of antibodies.",
+      "Faster and stronger antibody production compared to the primary response."
+    ],
+    "correct_answer": "Faster and stronger antibody production compared to the primary response.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Faster and stronger antibody production compared to the primary response</b> is correct. Due to the presence of pre-existing memory B cells and memory T helper cells, the secondary (anamnestics) response has a much shorter lag phase, produces significantly higher peak titers of antibodies (mainly IgG), exhibits higher affinity maturation, and persists for much longer periods.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Weaker and slower antibody production compared to the primary response</b> - The secondary response is markedly faster, more robust, and produces higher titers than the primary response.\n• <b style=\"color:#2563eb\">Option (2): Activation of naïve B cells</b> - Naive B cells primarily drive the primary response; memory B cells drive the secondary response.\n• <b style=\"color:#2563eb\">Option (3): Decreased affinity maturation of antibodies</b> - The secondary response features antibodies of higher affinity due to prior somatic hypermutation and selection."
+  },
+  {
+    "id": 12,
+    "question": "The secondary immune response is primarily mediated by:",
+    "options": [
+      "Plasma cells",
+      "NK cells",
+      "Helper T cells",
+      "Dendritic cells"
+    ],
+    "correct_answer": "Helper T cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Helper T cells</b> is correct. Memory CD4+ T helper cells play an indispensable role in orchestrating the recall response upon re-exposure to antigen by providing CD40L and cytokine signals (such as IL-4, IL-21) to memory B cells, triggering rapid differentiation into antibody-secreting plasma cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Plasma cells</b> - Plasma cells are terminal effector cells that secrete antibodies, but their rapid generation in secondary responses is directed by memory T and B cells.\n• <b style=\"color:#2563eb\">Option (2): NK cells</b> - NK cells belong to the innate immune system and do not mediate classical antigen-specific secondary immune responses.\n• <b style=\"color:#2563eb\">Option (4): Dendritic cells</b> - Dendritic cells initiate primary immune responses by presenting antigens to naive T cells in secondary lymphoid organs."
+  },
+  {
+    "id": 13,
+    "question": "Memory cells are responsible for the secondary immune response because:",
+    "options": [
+      "They have a greater capacity to phagocytose pathogens.",
+      "They have an increased number of antigen receptors.",
+      "They can rapidly produce antibodies upon re-exposure to the antigen.",
+      "They directly kill infected cells through cell-mediated immunity."
+    ],
+    "correct_answer": "They can rapidly produce antibodies upon re-exposure to the antigen.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): They can rapidly produce antibodies upon re-exposure to the antigen</b> is correct. Memory B cells have already undergone immunoglobulin class switching and affinity maturation. Upon restimulation by their specific antigen, they rapidly proliferate and differentiate into antibody-secreting plasma cells, generating a rapid wave of high-affinity antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They have a greater capacity to phagocytose pathogens</b> - Lymphocytes (B and T memory cells) are not phagocytes; phagocytosis is mediated by macrophages and neutrophils.\n• <b style=\"color:#2563eb\">Option (2): They have an increased number of antigen receptors</b> - The rapid response is due to epigenetic priming, lower activation thresholds, and higher receptor affinity, not simply receptor density.\n• <b style=\"color:#2563eb\">Option (4): They directly kill infected cells through cell-mediated immunity</b> - Cytolytic killing is the role of cytotoxic T cells, whereas humoral secondary responses depend on antibody secretion."
+  },
+  {
+    "id": 14,
+    "question": "Artificial passive immunization involves the administration of:",
+    "options": [
+      "Vaccines",
+      "Antibiotics",
+      "Antigens",
+      "Pre-formed antibodies"
+    ],
+    "correct_answer": "Pre-formed antibodies",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Pre-formed antibodies</b> is correct. Artificial passive immunization delivers pre-synthesized specific antibodies (such as antivenoms, tetanus immunoglobulin, or monoclonal antibodies) directly into an individual to provide immediate protective coverage against acute toxin exposure or virulent infections.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Vaccines</b> - Vaccines contain antigens administered to induce artificial active immunity.\n• <b style=\"color:#2563eb\">Option (2): Antibiotics</b> - Antibiotics are non-immunological chemical compounds that inhibit bacterial cell growth.\n• <b style=\"color:#2563eb\">Option (3): Antigens</b> - Introducing antigens triggers an active immune response by stimulating the host's own immune cells."
+  },
+  {
+    "id": 15,
+    "question": "The advantage of artificial passive immunization is:",
+    "options": [
+      "Long-term protection against a wide range of pathogens.",
+      "Activation of the individual's immune system for long-lasting immunity.",
+      "Rapid onset of protection without the need for the immune system to respond.",
+      "Prevention of future infections by strengthening the individual's immune response."
+    ],
+    "correct_answer": "Rapid onset of protection without the need for the immune system to respond.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Rapid onset of protection without the need for the immune system to respond</b> is correct. The primary clinical utility of passive immunization is that it works immediately upon injection. In life-threatening emergencies such as snakebites, rabies exposure, or diphtheria intoxication, there is no time to wait the 7-14 days required for active immunity to develop.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Long-term protection against a wide range of pathogens</b> - Passive immunity is temporary and short-lived, decaying over weeks as antibodies are cleared.\n• <b style=\"color:#2563eb\">Option (2): Activation of the individual's immune system for long-lasting immunity</b> - Passive immunization does not activate host B or T lymphocytes.\n• <b style=\"color:#2563eb\">Option (4): Prevention of future infections by strengthening the individual's immune response</b> - Because no memory cells are formed, future susceptibility remains unchanged once the antibodies are catabolized."
+  },
+  {
+    "id": 16,
+    "question": "Artificial passive immunization is commonly used for:",
+    "options": [
+      "Stimulating the production of memory cells.",
+      "Enhancing the individual's immune response to future infections.",
+      "Providing temporary protection against a specific pathogen or toxin.",
+      "Inducing long-lasting immunity against a wide range of diseases."
+    ],
+    "correct_answer": "Providing temporary protection against a specific pathogen or toxin.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Providing temporary protection against a specific pathogen or toxin</b> is correct. Clinically, passive immunization is indicated for post-exposure prophylaxis against virulent pathogens (e.g., rabies virus, hepatitis B) or lethal toxins (e.g., botulinum neurotoxin, snake venom), supplying immediate neutralizing antibodies to bridge the critical window of danger.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Stimulating the production of memory cells</b> - Passive transfer of antibodies completely bypasses host lymphocyte activation and does not yield memory cells.\n• <b style=\"color:#2563eb\">Option (2): Enhancing the individual's immune response to future infections</b> - In fact, high levels of passively administered antibodies can suppress subsequent active immune responses (epitope masking).\n• <b style=\"color:#2563eb\">Option (4): Inducing long-lasting immunity against a wide range of diseases</b> - Long-lasting immunity requires active vaccination or natural infection."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following best describes a hapten?",
+    "options": [
+      "A small molecule that can independently elicit an immune response.",
+      "An antigenic protein that triggers the production of antibodies.",
+      "A molecule that binds to an antibody without inducing an immune response on its own.",
+      "A molecule that activates T cells to initiate an immune response."
+    ],
+    "correct_answer": "A molecule that binds to an antibody without inducing an immune response on its own.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A molecule that binds to an antibody without inducing an immune response on its own</b> is correct. A hapten is an incomplete antigen: it can specifically bind to preformed antibodies or antigen receptors (exhibits antigenicity), but cannot stimulate de novo antibody production or T-cell activation unless coupled to a high-molecular-weight immunogenic carrier.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A small molecule that can independently elicit an immune response</b> - By definition, haptens cannot independently elicit an immune response.\n• <b style=\"color:#2563eb\">Option (2): An antigenic protein that triggers the production of antibodies</b> - Proteins that stimulate antibody production on their own are complete immunogens.\n• <b style=\"color:#2563eb\">Option (4): A molecule that activates T cells to initiate an immune response</b> - Haptens are typically non-protein small molecules and cannot bind directly to MHC molecules to stimulate naive T cells without carrier processing."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following scenarios involves the use of hapten-carrier conjugates?",
+    "options": [
+      "Vaccination against bacterial infections.",
+      "Treatment of viral diseases with antiviral drugs.",
+      "Diagnosis of allergies using skin prick tests.",
+      "Immunotherapy for cancer using monoclonal antibodies."
+    ],
+    "correct_answer": "Diagnosis of allergies using skin prick tests.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Diagnosis of allergies using skin prick tests</b> is designated. (In immunological testing and allergy pathophysiology, simple small molecules like drugs or plant urushiols act as haptens that spontaneously conjugate to self-carrier proteins in the skin or reagents to trigger cross-linking of IgE on mast cells in skin tests. Note also that conjugate vaccines against polysaccharide bacteria like Hib use the hapten-carrier principle).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Vaccination against bacterial infections</b> - While conjugate vaccines use capsular polysaccharides coupled to protein carriers, the designated answer key selects option (3).\n• <b style=\"color:#2563eb\">Option (2): Treatment of viral diseases with antiviral drugs</b> - Antiviral drugs are small chemical inhibitors of viral replication and are not hapten-carrier immunological agents.\n• <b style=\"color:#2563eb\">Option (4): Immunotherapy for cancer using monoclonal antibodies</b> - Monoclonal antibody therapy uses engineered full-length antibodies targeting tumor antigens, not hapten-carrier conjugates."
+  },
+  {
+    "id": 19,
+    "question": "Hapten-carrier complexes play a role in:",
+    "options": [
+      "Priming and activation of T cells.",
+      "Direct killing of infected cells.",
+      "Promotion of antibody production by B cells.",
+      "Inhibition of immune responses."
+    ],
+    "correct_answer": "Promotion of antibody production by B cells.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Promotion of antibody production by B cells</b> is correct. In a hapten-carrier conjugate, the B-cell receptor binds to the hapten determinant, internalizes the complex, and presents processed carrier peptides on Class II MHC to CD4+ helper T cells. These T cells then provide help (CD40L, IL-4, IL-21) to activate B cells to produce anti-hapten antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Priming and activation of T cells</b> - T cells recognize the peptide fragments of the carrier protein on MHC, but the primary physiological goal and hallmark outcome of hapten-carrier complexes is enabling B cells to produce high-affinity antibodies against the hapten.\n• <b style=\"color:#2563eb\">Option (2): Direct killing of infected cells</b> - Cytotoxicity is mediated by CD8+ T cells and NK cells through perforin/granzyme, not hapten-carrier complexes.\n• <b style=\"color:#2563eb\">Option (4): Inhibition of immune responses</b> - Hapten-carrier conjugates induce strong immune responses rather than suppressing them."
+  },
+  {
+    "id": 20,
+    "question": "Which blood cell is responsible for carrying oxygen to the body's tissues?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Neutrophils",
+      "Lymphocytes"
+    ],
+    "correct_answer": "Red blood cells (RBCs)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> is correct. Erythrocytes (RBCs) are packed with the iron-containing metalloprotein hemoglobin, which binds oxygen cooperatively in the pulmonary capillaries and transports it throughout the arterial circulation to metabolically active tissues.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - Thrombocytes (platelets) are cell fragments essential for hemostasis and blood clotting.\n• <b style=\"color:#2563eb\">Option (3): Neutrophils</b> - Neutrophils are granulocytic white blood cells specialized for phagocytosis and innate defense against bacteria and fungi.\n• <b style=\"color:#2563eb\">Option (4): Lymphocytes</b> - Lymphocytes (B, T, and NK cells) mediate adaptive and innate cytotoxic immunity."
+  },
+  {
+    "id": 21,
+    "question": "Which blood is primarily involved in blood clotting?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Monocytes",
+      "Eosinophils"
+    ],
+    "correct_answer": "Platelets",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Platelets</b> is correct. Platelets (thrombocytes), derived from megakaryocyte fragmentation in bone marrow, adhere to exposed subendothelial collagen via von Willebrand factor, undergo activation and shape change, release clotting mediators (thromboxane A2, ADP), and aggregate to form a primary hemostatic plug.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> - RBCs transport oxygen and carbon dioxide; while they get trapped in the fibrin meshwork, they do not initiate clotting.\n• <b style=\"color:#2563eb\">Option (3): Monocytes</b> - Monocytes are agranular leukocytes that migrate into tissues to differentiate into macrophages and dendritic cells.\n• <b style=\"color:#2563eb\">Option (4): Eosinophils</b> - Eosinophils are granulocytes specialized in defending against helminthic parasite infections and participating in allergic reactions."
+  },
+  {
+    "id": 22,
+    "question": "Which blood cell is involved in the immune response and defense against pathogens?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Neutrophils",
+      "Basophils"
+    ],
+    "correct_answer": "Neutrophils",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Neutrophils</b> is correct. Neutrophils are the most abundant circulating white blood cells (50-70% of leukocytes) and serve as the premier first responders to acute bacterial and fungal infections, rapidly migrating to infection sites via chemotaxis to phagocytose and destroy invading pathogens.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> - RBCs are responsible for respiratory gas transport, not immune defense against invading pathogens.\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - The primary function of platelets is hemostasis and maintenance of vascular integrity.\n• <b style=\"color:#2563eb\">Option (4): Basophils</b> - Basophils represent <1% of leukocytes and are primarily involved in IgE-mediated allergic responses and ectoparasite defense rather than primary antimicrobial defense."
+  },
+  {
+    "id": 23,
+    "question": "Which blood cell is responsible for antibody production?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Monocytes",
+      "Lymphocytes"
+    ],
+    "correct_answer": "Lymphocytes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Lymphocytes</b> is correct. B lymphocytes (B cells) are the only cells in the body capable of synthesizing and secreting immunoglobulins (antibodies). Following activation and antigen-driven differentiation, B lymphocytes become plasma cells, which secrete large quantities of soluble antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> - RBCs lack nuclei, ribosomes, and the genetic machinery to synthesize antibodies.\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - Platelets are anucleate cell fragments dedicated to hemostasis.\n• <b style=\"color:#2563eb\">Option (3): Monocytes</b> - Monocytes are phagocytic mononuclear cells that act as antigen presenters, but cannot synthesize antibodies."
+  },
+  {
+    "id": 24,
+    "question": "Which blood cell engulfs and destroys foreign particles and cellular debris?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Monocytes",
+      "Eosinophils"
+    ],
+    "correct_answer": "Monocytes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Monocytes</b> is correct. Monocytes circulate in the bloodstream and extravasate into tissues to differentiate into macrophages, which are the body's primary professional phagocytes tasked with engulfing, processing, and clearing microorganisms, cellular debris, and foreign particulates.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> - RBCs do not possess phagocytic machinery.\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - Platelets function in blood clotting and clot retraction.\n• <b style=\"color:#2563eb\">Option (4): Eosinophils</b> - Eosinophils primarily degranulate major basic protein against large multicellular parasites and modulate allergy."
+  },
+  {
+    "id": 25,
+    "question": "Which blood cell is involved in allergic reactions and the release of histamine?",
+    "options": [
+      "Red blood cells (RBCs)",
+      "Platelets",
+      "Basophils",
+      "Eosinophils"
+    ],
+    "correct_answer": "Basophils",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Basophils</b> is correct. Basophils possess high-affinity Fc receptors for IgE (FcεRI) on their cell surface. Cross-linking of receptor-bound IgE by allergens triggers rapid degranulation, releasing large amounts of preformed histamine, leukotrienes, and heparin, which cause vasodilation, smooth muscle contraction, and classical allergic symptoms.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells (RBCs)</b> - RBCs do not contain histamine granules or participate in allergic degranulation.\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - Platelets contain serotonin and clotting factors in alpha/dense granules, but are not the primary histamine-releasing cells in allergy.\n• <b style=\"color:#2563eb\">Option (4): Eosinophils</b> - Eosinophils participate in allergic inflammation but release histaminase, major basic protein, and eosinophil peroxidase rather than being the classic mediator releasing histamine."
+  }
+]

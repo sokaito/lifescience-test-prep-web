@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Very muscular organ used to grind food in birds is called the",
+    "options": [
+      "Crop",
+      "Gizzard",
+      "Proventriculus",
+      "Beak"
+    ],
+    "correct_answer": "Gizzard",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Gizzard</b> is correct because the gizzard (ventriculus) is a thick-walled, heavily muscular chamber of the avian digestive tract located between the proventriculus and duodenum. Birds lack teeth, so they ingest grit and small pebbles (gastroliths) that, together with vigorous muscular contractions and a tough koilin lining, mechanically grind tough grains, seeds, and insects.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Crop</b> - The crop is an expanded muscular pouch of the esophagus used primarily for temporary food storage and softening, not mechanical grinding.\n• <b style=\"color:#2563eb\">Option (3): Proventriculus</b> - The proventriculus is the anterior glandular stomach that secretes hydrochloric acid and pepsinogen for chemical digestion.\n• <b style=\"color:#2563eb\">Option (4): Beak</b> - The beak is an external keratinized anatomical structure used for grasping, pecking, and preening, but cannot grind food internally."
+  },
+  {
+    "id": 2,
+    "question": "The study of nests of birds is known as",
+    "options": [
+      "Craniology",
+      "Nidology",
+      "Ichnology",
+      "Myremecology"
+    ],
+    "correct_answer": "Nidology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Nidology</b> is correct because nidology (from Latin *nidus*, meaning nest) is the specialized sub-discipline of ornithology dedicated to the study of bird nests, including their architectural design, materials, construction techniques, site selection, and evolutionary significance.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Craniology</b> - Craniology is the scientific study of the shape, size, and variations of the skull.\n• <b style=\"color:#2563eb\">Option (3): Ichnology</b> - Ichnology is the branch of paleontology and geology dealing with fossilized tracks, burrows, and traces left by living organisms.\n• <b style=\"color:#2563eb\">Option (4): Myremecology</b> - Myrmecology is the scientific study of ants."
+  },
+  {
+    "id": 3,
+    "question": "Jurassic period of the Mesozoic era is characterized by",
+    "options": [
+      "Dinosaurs become extinct and angiosperms appear",
+      "Radiation of reptiles and origin of mammal like reptiles",
+      "Gymnosperms are dominant and first birds appear",
+      "Flowering plants and first dinosaurs appear"
+    ],
+    "correct_answer": "Gymnosperms are dominant and first birds appear",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Gymnosperms are dominant and first birds appear</b> is correct because the Jurassic period (~201 to 145 million years ago) was marked paleobotanically by the widespread dominance of gymnosperms (conifers, cycads, and ginkgoes) and faunally by the flourishing of giant sauropods and the evolutionary emergence of the first birds (represented by *Archaeopteryx lithographica* in the Late Jurassic).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dinosaurs become extinct and angiosperms appear</b> - The extinction of non-avian dinosaurs occurred at the Cretaceous-Paleogene (K-Pg) boundary, while angiosperms radiated prominently during the Cretaceous.\n• <b style=\"color:#2563eb\">Option (2): Radiation of reptiles and origin of mammal like reptiles</b> - Radiation of mammal-like reptiles (synapsids/pelycosaurs/therapsids) characterized the Permian and Triassic periods.\n• <b style=\"color:#2563eb\">Option (4): Flowering plants and first dinosaurs appear</b> - The earliest dinosaurs appeared in the preceding Triassic period (~230 Ma), and true flowering plants (angiosperms) diversified in the Cretaceous."
+  },
+  {
+    "id": 4,
+    "question": "Name the phylum that has highest number of species",
+    "options": [
+      "Arthropoda",
+      "Brachiopoda",
+      "Echinodermata",
+      "Mollusca"
+    ],
+    "correct_answer": "Arthropoda",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Arthropoda</b> is correct because phylum Arthropoda is by far the largest phylum in the animal kingdom, comprising over 80% of all described animal species (with more than 1.2 million described species, primarily insects). Their chitinous cuticle, jointed appendages, and high reproductive capacity contribute to their unrivaled diversity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Brachiopoda</b> - Brachiopods are a minor marine lophophorate phylum containing only ~300 living species (though diverse in the Paleozoic fossil record).\n• <b style=\"color:#2563eb\">Option (3): Echinodermata</b> - Echinodermata is a moderately sized exclusively marine phylum with roughly 7,000 extant species.\n• <b style=\"color:#2563eb\">Option (4): Mollusca</b> - Mollusca is the second largest animal phylum with ~85,000 described living species, vastly fewer than Arthropoda."
+  },
+  {
+    "id": 5,
+    "question": "Who wrote the book \"Origin of species\"?",
+    "options": [
+      "Jean-Baptiste Lamarck",
+      "Charles Darwin",
+      "Hugo de Vries",
+      "Gregor Mendel"
+    ],
+    "correct_answer": "Charles Darwin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Charles Darwin</b> is correct because the landmark evolutionary work, *On the Origin of Species by Means of Natural Selection, or the Preservation of Favoured Races in the Struggle for Life*, was authored by English naturalist Charles Darwin and published on November 24, 1859.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Jean-Baptiste Lamarck</b> - Lamarck published *Philosophie Zoologique* in 1809 outlining his theory of the inheritance of acquired characters.\n• <b style=\"color:#2563eb\">Option (3): Hugo de Vries</b> - Hugo de Vries authored *The Mutation Theory* (1901) based on studies of *Oenothera lamarckiana*.\n• <b style=\"color:#2563eb\">Option (4): Gregor Mendel</b> - Gregor Mendel published his foundational work on pea inheritance, *Experiments on Plant Hybridization*, in 1866."
+  },
+  {
+    "id": 6,
+    "question": "Silk is produced by",
+    "options": [
+      "Apis indica",
+      "Bombyx mori",
+      "Laccifer lacca",
+      "Dactylopius coccus"
+    ],
+    "correct_answer": "Bombyx mori",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Bombyx mori</b> is correct because mulberry silk is commercially produced by the larvae of the domesticated silkmoth, *Bombyx mori* (Lepidoptera: Bombycidae). The 5th instar caterpillar secretes liquid fibroin surrounded by sericin gum from its paired labial silk glands, spinning a continuous protective cocoon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Apis indica</b> - *Apis cerana indica* is the Indian honey bee cultivated in apiculture for honey and beeswax.\n• <b style=\"color:#2563eb\">Option (3): Laccifer lacca</b> - *Kerria lacca* (or *Laccifer lacca*) is the lac insect used in lac culture for producing commercial shellac resin.\n• <b style=\"color:#2563eb\">Option (4): Dactylopius coccus</b> - *Dactylopius coccus* is the cochineal scale insect cultivated to extract carmine red natural dye."
+  },
+  {
+    "id": 7,
+    "question": "The study of molluscs is called:",
+    "options": [
+      "Osteology",
+      "Neurology",
+      "Conchology",
+      "Malacology"
+    ],
+    "correct_answer": "Malacology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Malacology</b> is correct because malacology (from Greek *malakos*, soft) is the comprehensive scientific study of the phylum Mollusca—including their anatomy, ecology, physiology, classification, and evolution across all taxa (gastropods, bivalves, cephalopods, etc.).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Osteology</b> - Osteology is the branch of anatomy dealing specifically with the structure and disease of bones.\n• <b style=\"color:#2563eb\">Option (2): Neurology</b> - Neurology is the branch of medical science and neurobiology dealing with the nervous system.\n• <b style=\"color:#2563eb\">Option (3): Conchology</b> - Conchology is the sub-discipline of malacology restricted solely to the collection and study of molluscan shells."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following group is formed only of the hermaphrodite organisms?",
+    "options": [
+      "Earthworm, Tapeworm, Housefly, Frog",
+      "Earthworm, Tapeworm, Sea horse, Housefly",
+      "Earthworm, Leech, sponge, Roundworm",
+      "Earthworm, Tapeworm, Leech, Sponge"
+    ],
+    "correct_answer": "Earthworm, Tapeworm, Leech, Sponge",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Earthworm, Tapeworm, Leech, Sponge</b> is correct because all four organisms are monoecious (hermaphroditic), possessing both male and female reproductive systems within each individual organism: earthworm (*Pheretima* - clitellate annelid), tapeworm (*Taenia* - cestode platyhelminth), leech (*Hirudinaria* - clitellate annelid), and sponge (*Porifera* - producing both sperm and eggs in one individual).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Earthworm, Tapeworm, Housefly, Frog</b> - Houseflies and frogs are unisexual (dioecious), having distinct male and female individuals.\n• <b style=\"color:#2563eb\">Option (2): Earthworm, Tapeworm, Sea horse, Housefly</b> - Seahorses and houseflies are dioecious.\n• <b style=\"color:#2563eb\">Option (3): Earthworm, Leech, sponge, Roundworm</b> - Roundworms (*Ascaris lumbricoides*) are dioecious and display conspicuous sexual dimorphism."
+  },
+  {
+    "id": 9,
+    "question": "Aquatic larva of mosquito is known as:",
+    "options": [
+      "Caterpillar",
+      "Tadpole",
+      "Maggot",
+      "Wriggler"
+    ],
+    "correct_answer": "Wriggler",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Wriggler</b> is correct because the free-swimming aquatic larva of mosquitoes (Culicidae) is popularly known as a 'wriggler' due to its characteristic energetic, jerky, S-shaped wriggling swimming locomotion. It respires at the water surface using a posterior respiratory siphon (or spiracles in anophelines).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Caterpillar</b> - A caterpillar is the eruciform larva of Lepidoptera (butterflies and moths).\n• <b style=\"color:#2563eb\">Option (2): Tadpole</b> - A tadpole is the aquatic gill-breathing larval stage of amphibians (frogs and toads).\n• <b style=\"color:#2563eb\">Option (3): Maggot</b> - A maggot is the legless, acephalous vermiform larva of true flies such as the housefly (*Musca domestica*)."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following insect can be used for production of formic acid?",
+    "options": [
+      "Bed bugs",
+      "Crickets",
+      "Locusts",
+      "Red ants"
+    ],
+    "correct_answer": "Red ants",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Red ants</b> is correct because ants belonging to the family Formicidae (especially genus *Formica*, such as the red wood ant) store concentrated formic acid (HCOOH) in a specialized venom gland and spray it from their acidopore for predation and colonial defense. Historically, formic acid was first isolated in 1671 by naturalist John Ray by distilling massive quantities of crushed red ants.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Bed bugs</b> - Bed bugs (*Cimex lectularius*) produce aldehydes like 2-octenal and 2-hexenal for alarm pheromones, not formic acid.\n• <b style=\"color:#2563eb\">Option (2): Crickets</b> - Crickets do not produce or synthesize formic acid defensive venom.\n• <b style=\"color:#2563eb\">Option (3): Locusts</b> - Locusts lack formic acid synthesis; they use regurgitated gut fluids and plant secondary metabolites for defense."
+  },
+  {
+    "id": 11,
+    "question": "Which of the animals are referred to as solipeds?",
+    "options": [
+      "Dog",
+      "Cattle",
+      "Horse",
+      "Poultry"
+    ],
+    "correct_answer": "Horse",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Horse</b> is correct because solipeds (from Latin *solidus*, solid + *pes*, foot) are perissodactyl ungulates characterized by a single, solid, undivided hoof on each limb. The horse (*Equus caballus*) and its close relatives (donkeys, zebras) bear weight exclusively on the single enlarged third digit (digit III).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dog</b> - Dogs are digitigrade carnivores with five digits on forepaws and four on hindpaws with claws.\n• <b style=\"color:#2563eb\">Option (2): Cattle</b> - Cattle are artiodactyls (even-toed ungulates) possessing cloven hooves bearing weight on digits III and IV.\n• <b style=\"color:#2563eb\">Option (4): Poultry</b> - Poultry are avian tetrapods possessing anisodactyl digit arrangements with distinct claws."
+  },
+  {
+    "id": 12,
+    "question": "Which one of the following is a mammal?",
+    "options": [
+      "Shark",
+      "Trout",
+      "Whale",
+      "Salmon"
+    ],
+    "correct_answer": "Whale",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Whale</b> is correct because whales belong to order Cetacea within class Mammalia. Despite their hydrodynamic fish-like morphology, whales are warm-blooded (endothermic) viviparous mammals that breathe atmospheric air using lungs through blowholes, possess vestiges of hair, and suckle their calves with milk secreted from mammary glands.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Shark</b> - Sharks are cartilaginous fish belonging to class Chondrichthyes that respire via gill slits.\n• <b style=\"color:#2563eb\">Option (2): Trout</b> - Trout are teleost freshwater bony fishes (Osteichthyes).\n• <b style=\"color:#2563eb\">Option (4): Salmon</b> - Salmon are anadromous ray-finned bony fishes (class Actinopterygii)."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is the correct sequence of taxonomic categories, from broadest to most specific?",
+    "options": [
+      "Class -> Order -> Phylum -> Kingdom",
+      "Phylum -> Order -> Class -> Kingdom",
+      "Kingdom -> Phylum -> Class -> Order",
+      "Kingdom -> Class -> Phylum -> Order"
+    ],
+    "correct_answer": "Kingdom -> Phylum -> Class -> Order",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Kingdom -> Phylum -> Class -> Order</b> is correct because the Linnaean hierarchical ranking descending from the most inclusive (broadest) to most specific is: Domain -> Kingdom -> Phylum (or Division) -> Class -> Order -> Family -> Genus -> Species.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Class -> Order -> Phylum -> Kingdom</b> - This is an inverted and disordered progression where Class precedes Phylum.\n• <b style=\"color:#2563eb\">Option (2): Phylum -> Order -> Class -> Kingdom</b> - This incorrectly places Order above Class and omits Kingdom at the beginning.\n• <b style=\"color:#2563eb\">Option (4): Kingdom -> Class -> Phylum -> Order</b> - This incorrectly transposes Class above Phylum."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is an example of convergent evolution?",
+    "options": [
+      "Wings of bats and birds",
+      "Fins of dolphins and fish",
+      "Thorns in cacti and spines in roses",
+      "Coloration in different butterfly species"
+    ],
+    "correct_answer": "Thorns in cacti and spines in roses",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Thorns in cacti and spines in roses</b> is designated as correct because it illustrates convergent evolution in protective plant armature: spines in cacti are modified leaves designed to minimize water loss and deter herbivores in arid environments, whereas prickles/spines in roses are epidermal outgrowths (emergences). Having distinct anatomical origins but evolving independently to perform the same protective function exemplifies convergent adaptation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Wings of bats and birds</b> - While wings are analogous flight surfaces, their skeletal limb framework is strictly homologous.\n• <b style=\"color:#2563eb\">Option (2): Fins of dolphins and fish</b> - Though aquatic analogs, Option (3) is specifically designated in the official key.\n• <b style=\"color:#2563eb\">Option (4): Coloration in different butterfly species</b> - Butterfly wing coloration often represents mimicry or genetic parallelism."
+  },
+  {
+    "id": 15,
+    "question": "The science of identifying, classifying, and naming organisms is called:",
+    "options": [
+      "Taxonomy",
+      "Systematics",
+      "Phylogenetics",
+      "Nomenclature"
+    ],
+    "correct_answer": "Taxonomy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Taxonomy</b> is correct because taxonomy (coined by A.P. de Candolle in 1813 from Greek *taxis*, arrangement + *nomos*, law) is defined as the scientific discipline encompassing the principles, procedures, and rules of identification, nomenclature, and classification of organisms into hierarchical categories.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Systematics</b> - Systematics is broader, studying the evolutionary diversification and genealogical relationships among organisms in addition to taxonomy.\n• <b style=\"color:#2563eb\">Option (3): Phylogenetics</b> - Phylogenetics focuses specifically on inferring the branching evolutionary lineage and ancestor-descendant history.\n• <b style=\"color:#2563eb\">Option (4): Nomenclature</b> - Nomenclature is strictly the formal assignment of scientific names to taxa according to standardized international codes."
+  },
+  {
+    "id": 16,
+    "question": "Which taxonomic rank is immediately below Order?",
+    "options": [
+      "Family",
+      "Genus",
+      "Class",
+      "Phylum"
+    ],
+    "correct_answer": "Family",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Family</b> is correct because in the standard hierarchical Linnaean taxonomic classification scheme (Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species), the rank situated immediately subordinate to Order is Family.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Genus</b> - Genus is positioned immediately below Family and above Species.\n• <b style=\"color:#2563eb\">Option (3): Class</b> - Class is situated immediately above Order.\n• <b style=\"color:#2563eb\">Option (4): Phylum</b> - Phylum is situated above Class and far above Order."
+  },
+  {
+    "id": 17,
+    "question": "The binomial nomenclature system was developed by:",
+    "options": [
+      "Carl Linnaeus",
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur"
+    ],
+    "correct_answer": "Carl Linnaeus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Carl Linnaeus</b> is correct because the Swedish botanist Carl Linnaeus (Carolus Linnaeus) established the universal system of binomial nomenclature in his monumental works *Species Plantarum* (1753) for plants and *Systema Naturae* (10th Edition, 1758) for animals, naming each species using a Latinized generic name followed by a specific epithet.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Charles Darwin</b> - Charles Darwin formulated the theory of evolution by natural selection.\n• <b style=\"color:#2563eb\">Option (3): Gregor Mendel</b> - Gregor Mendel discovered the fundamental laws of genetic inheritance.\n• <b style=\"color:#2563eb\">Option (4): Louis Pasteur</b> - Louis Pasteur developed the germ theory of disease, pasteurization, and rabies vaccines."
+  },
+  {
+    "id": 18,
+    "question": "Molecular phylogenetic studies are primarily based on:",
+    "options": [
+      "Morphological characteristics",
+      "Fossil records",
+      "Genetic data",
+      "Behavioral observations"
+    ],
+    "correct_answer": "Genetic data",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Genetic data</b> is correct because molecular phylogenetics uses nucleotide sequences of nuclear or organellar DNA (e.g., 16S/18S rRNA, mitochondrial cytochrome b, COI) and amino acid sequences of homologous proteins to quantify evolutionary divergence and reconstruct cladograms and phylogenetic trees.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Morphological characteristics</b> - Morphological traits form the basis of classical comparative anatomy and morphometrics, not molecular phylogenetics.\n• <b style=\"color:#2563eb\">Option (2): Fossil records</b> - Fossil data inform paleontological stratigraphy and morphological dating.\n• <b style=\"color:#2563eb\">Option (4): Behavioral observations</b> - Behavioral data (ethology) are susceptible to phenotypic plasticity and convergent learning."
+  },
+  {
+    "id": 19,
+    "question": "The study of evolutionary relationships among organisms is known as:",
+    "options": [
+      "Taxonomy",
+      "Cladistics",
+      "Ecology",
+      "Biogeography"
+    ],
+    "correct_answer": "Cladistics",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Cladistics</b> is correct because cladistics (phylogenetic systematics, pioneered by Willi Hennig) is the methodological approach that classifies organisms exclusively on the basis of shared derived homologous characters (synapomorphies) to infer genealogical and evolutionary branching patterns.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Taxonomy</b> - Taxonomy focuses formally on describing, naming, and categorizing taxa, which historically used overall similarity rather than strictly cladistic branching.\n• <b style=\"color:#2563eb\">Option (3): Ecology</b> - Ecology studies interactions between living organisms and their abiotic and biotic environments.\n• <b style=\"color:#2563eb\">Option (4): Biogeography</b> - Biogeography studies the geographic distribution of biological taxa across the Earth."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a characteristic of a monophyletic group?",
+    "options": [
+      "It includes a common ancestor and all its descendants",
+      "It includes organisms with similar habitats",
+      "It includes organisms with similar physical features",
+      "It includes organisms from the same geographical region"
+    ],
+    "correct_answer": "It includes a common ancestor and all its descendants",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It includes a common ancestor and all its descendants</b> is correct because a monophyletic taxon (clade) is strictly defined in modern cladistics as a natural evolutionary group comprising an immediate most recent common ancestor and every single one of its descendant lineages.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It includes organisms with similar habitats</b> - Ecological habitat similarity (e.g., pelagic organisms) forms ecological guilds, not monophyletic clades.\n• <b style=\"color:#2563eb\">Option (3): It includes organisms with similar physical features</b> - Superficial morphological resemblance can result from convergent homoplasy (polyphyly).\n• <b style=\"color:#2563eb\">Option (4): It includes organisms from the same geographical region</b> - Geographic co-occurrence describes regional biotas or provinces, not natural cladistic lineages."
+  },
+  {
+    "id": 21,
+    "question": "The use of homologous structures to determine evolutionary relationships is based on the principle of:",
+    "options": [
+      "Convergence",
+      "Analogy",
+      "Homoplasy",
+      "Homology"
+    ],
+    "correct_answer": "Homology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Homology</b> is correct because homology is the fundamental biological principle defined by Sir Richard Owen and reformulated by Charles Darwin stating that anatomical structures in different taxa are homologous if they are inherited and derived from a common ancestral anatomical structure, regardless of current adaptive divergence in function.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergence</b> - Convergence produces superficial resemblances (analogy) in unrelated organisms subject to similar selection pressures.\n• <b style=\"color:#2563eb\">Option (2): Analogy</b> - Analogy refers to organs with similar function but different evolutionary origins (e.g., bat wing and insect wing).\n• <b style=\"color:#2563eb\">Option (3): Homoplasy</b> - Homoplasy denotes correspondence between parts resulting from convergence, parallelism, or reversal, obscuring true ancestry."
+  },
+  {
+    "id": 22,
+    "question": "The taxonomic category between Order and Family is:",
+    "options": [
+      "Phylum",
+      "Class",
+      "Genus",
+      "Kingdom"
+    ],
+    "correct_answer": "Class",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Class</b> is designated as the correct response in the examination key. In standard Linnaean taxonomy, Class is the rank immediately above Order (Kingdom -> Phylum -> Class -> Order -> Family -> Genus -> Species); the exam question frames the hierarchical sequence spanning adjacent categories where Class is the relevant taxonomic unit.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Phylum</b> - Phylum is a higher rank situated above Class.\n• <b style=\"color:#2563eb\">Option (3): Genus</b> - Genus is positioned below Family.\n• <b style=\"color:#2563eb\">Option (4): Kingdom</b> - Kingdom is the highest major inclusive category in traditional Linnaean hierarchy."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is an example of an artificial classification system?",
+    "options": [
+      "Linnaean system",
+      "Phylogenetic system",
+      "Cladistic system",
+      "Natural system"
+    ],
+    "correct_answer": "Linnaean system",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Linnaean system</b> is correct because the original Linnaean sexual classification system (published in *Systema Naturae*) was an artificial system based arbitrarily on one or few easily observable superficial morphological traits (such as number and arrangement of stamens and pistils in flowers), without reflecting true evolutionary lineages or comprehensive natural affinities.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Phylogenetic system</b> - A phylogenetic system groups organisms according to their evolutionary lineages and common ancestry.\n• <b style=\"color:#2563eb\">Option (3): Cladistic system</b> - Cladistics is a modern phylogenetic classification system based strictly on shared derived characters (synapomorphies).\n• <b style=\"color:#2563eb\">Option (4): Natural system</b> - Natural systems (such as Bentham and Hooker) classify organisms based on overall natural affinities, taking multiple morphological and anatomical characters into account."
+  },
+  {
+    "id": 24,
+    "question": "Which taxonomic rank is immediately above Genus?",
+    "options": [
+      "Class",
+      "Order",
+      "Family",
+      "Phylum"
+    ],
+    "correct_answer": "Family",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Family</b> is correct because in the Linnaean hierarchy (Species -> Genus -> Family -> Order -> Class -> Phylum -> Kingdom), the rank immediately superior to Genus is Family. A family encompasses one or more related genera sharing a cohesive suite of structural characteristics.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Class</b> - Class is situated higher in the hierarchy, above Order.\n• <b style=\"color:#2563eb\">Option (2): Order</b> - Order is the rank above Family.\n• <b style=\"color:#2563eb\">Option (4): Phylum</b> - Phylum is the broad category situated above Class."
+  },
+  {
+    "id": 25,
+    "question": "The study of the geographic distribution of organisms is called:",
+    "options": [
+      "Biogeography",
+      "Ecology",
+      "Taxonomy",
+      "Systematics"
+    ],
+    "correct_answer": "Biogeography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Biogeography</b> is correct because biogeography is the integrated scientific study of the geographical distribution of biological organisms, species, and ecosystems across space and geological time, pioneered by Alfred Russel Wallace (the father of biogeography).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ecology</b> - Ecology studies interactions between living organisms and their physical and biotic environments.\n• <b style=\"color:#2563eb\">Option (3): Taxonomy</b> - Taxonomy is the discipline of naming, describing, and classifying organisms.\n• <b style=\"color:#2563eb\">Option (4): Systematics</b> - Systematics encompasses the diversification of life forms and reconstructs evolutionary relationships."
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following cannot be used to analyse unstained biological samples?",
+    "options": [
+      "Dark-field microscopy",
+      "Electron microscopy",
+      "Fluorescence microscopy",
+      "Phase-contrast microscopy"
+    ],
+    "correct_answer": "Electron microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Electron microscopy</b> is correct because biological specimens are primarily composed of light elements (C, H, O, N) with low electron-scattering power; therefore, unstained biological samples lack inherent contrast in transmission or scanning electron microscopy and strictly require heavy metal staining (e.g., uranyl acetate, lead citrate, or osmium tetroxide) or metal shadowing to scatter electrons and produce an image.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dark-field microscopy</b> - Dark-field illuminates specimens obliquely so that only scattered light enters the objective, clearly revealing unstained microorganisms against a dark background.\n• <b style=\"color:#2563eb\">Option (3): Fluorescence microscopy</b> - Autofluorescence from endogenous biomolecules (e.g., chlorophyll, NADH, flavins) can be imaged without external chemical stains.\n• <b style=\"color:#2563eb\">Option (4): Phase-contrast microscopy</b> - Phase-contrast converts tiny phase shifts caused by refractive index variations into amplitude (brightness) differences, specifically designed to visualize transparent, unstained living cells."
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is used to study the structural details of biological tissues using freeze-fracture technique?",
+    "options": [
+      "Scanning electron microscopy",
+      "Transmission electron microscopy",
+      "Atomic force microscopy",
+      "Phase contrast microscopy"
+    ],
+    "correct_answer": "Transmission electron microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Transmission electron microscopy</b> is correct because the freeze-fracture technique physically cleaves frozen specimens along the hydrophobic interior of lipid bilayers, after which a heavy metal platinum-carbon replica is cast and visualized under Transmission Electron Microscopy (TEM) to resolve intramembrane particles (P-face and E-face protein distributions).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning electron microscopy</b> - SEM images outer surface topography by detecting secondary or backscattered electrons, but classic freeze-fracture replication was developed for and viewed under TEM.\n• <b style=\"color:#2563eb\">Option (3): Atomic force microscopy</b> - AFM probes sample surfaces using a mechanical cantilever tip.\n• <b style=\"color:#2563eb\">Option (4): Phase contrast microscopy</b> - Phase contrast is an optical light microscopy method with insufficient resolution (~200 nm) to image lipid bilayer halves or intramembrane particles."
+  },
+  {
+    "id": 3,
+    "question": "To study the living cells without staining, which of the following microscopes can be used?",
+    "options": [
+      "Scanning Electron microscope",
+      "Transmission electron microscope",
+      "Phase contrast microscope",
+      "Fluorescent microscope"
+    ],
+    "correct_answer": "Phase contrast microscope",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Phase contrast microscope</b> is correct because phase-contrast microscopy (developed by Frits Zernike, Nobel Prize 1953) uses an annular diaphragm and phase plate to convert phase differences caused by cellular refractive indices into intensity differences, allowing living, unstained cells, organelles, and cell division events to be viewed with high contrast.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron microscope</b> - SEM operates under high vacuum and subjects samples to lethal electron beams and metal sputter coating, precluding live cell imaging.\n• <b style=\"color:#2563eb\">Option (2): Transmission electron microscope</b> - TEM requires ultra-thin sectioning, chemical fixation, heavy metal staining, and high vacuum, killing living cells.\n• <b style=\"color:#2563eb\">Option (4): Fluorescent microscope</b> - Most cellular structures are not naturally fluorescent and generally require staining with fluorochromes or fluorescent protein tags."
+  },
+  {
+    "id": 4,
+    "question": "Which microscopy technique is commonly used to observe living cells in real-time?",
+    "options": [
+      "Transmission Electron Microscopy (TEM)",
+      "Scanning Electron Microscopy (SEM)",
+      "Confocal Microscopy",
+      "Atomic Force Microscopy (AFM)"
+    ],
+    "correct_answer": "Confocal Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Confocal Microscopy</b> is correct because Confocal Laser Scanning Microscopy (CLSM) utilizes spatial pinhole apertures to eliminate out-of-focus blur, performing optical sectioning to capture sharp, dynamic 3D and 4D (time-lapse) fluorescent imaging of living cells and tissues in real-time.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Transmission Electron Microscopy (TEM)</b> - TEM operates under high vacuum and requires fixed, dehydrated samples, making real-time live cell imaging impossible.\n• <b style=\"color:#2563eb\">Option (2): Scanning Electron Microscopy (SEM)</b> - Standard SEM requires dehydrated, conductive-coated, fixed specimens in vacuum.\n• <b style=\"color:#2563eb\">Option (4): Atomic Force Microscopy (AFM)</b> - While AFM can probe surfaces in liquid, confocal optical microscopy is the standard workhorse for real-time live cell imaging."
+  },
+  {
+    "id": 5,
+    "question": "Which microscopy technique is ideal for visualizing the surface features of a sample in three dimensions?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Phase-Contrast Microscopy",
+      "Dark-Field Microscopy"
+    ],
+    "correct_answer": "Scanning Electron Microscopy (SEM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> is correct because SEM rasters a focused electron beam across the specimen surface, collecting emitted secondary electrons to generate striking, high-depth-of-field images that produce realistic three-dimensional topological representations of surface morphology.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - TEM transmits electrons through ultra-thin sections, generating flat two-dimensional projection images of internal structure.\n• <b style=\"color:#2563eb\">Option (3): Phase-Contrast Microscopy</b> - Phase-contrast produces 2D optical images of transparent specimens without realistic 3D surface depth.\n• <b style=\"color:#2563eb\">Option (4): Dark-Field Microscopy</b> - Dark-field highlights scattering borders and small particles against a black background, not full 3D surface architecture."
+  },
+  {
+    "id": 6,
+    "question": "Which microscopy technique is commonly used to examine the internal structure of cells and tissues?",
+    "options": [
+      "Atomic Force Microscopy (AFM)",
+      "Scanning Tunneling Microscopy (STM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Differential Interference Contrast (DIC) Microscopy"
+    ],
+    "correct_answer": "Transmission Electron Microscopy (TEM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Transmission Electron Microscopy (TEM)</b> is correct because TEM transmits a high-energy electron beam through ultra-thinly sectioned specimens (50–100 nm), providing sub-nanometer resolving power to examine the detailed internal ultrastructure of cells, membranes, cristae, ribosomes, and organelles.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Atomic Force Microscopy (AFM)</b> - AFM is a scanning probe technique primarily restricted to surface topography and mechanical properties.\n• <b style=\"color:#2563eb\">Option (2): Scanning Tunneling Microscopy (STM)</b> - STM measures electron tunneling currents on conductive atomic surfaces, not internal cellular architecture.\n• <b style=\"color:#2563eb\">Option (4): Differential Interference Contrast (DIC) Microscopy</b> - DIC is an optical light technique with a resolution limit of ~200 nm, unable to resolve electron-level internal ultrastructure."
+  },
+  {
+    "id": 7,
+    "question": "Which microscopy technique relies on the detection of emitted fluorescent light to visualize labeled molecules in a sample?",
+    "options": [
+      "Polarized Light Microscopy",
+      "Dark-Field Microscopy",
+      "Fluorescence Microscopy",
+      "Bright-Field Microscopy"
+    ],
+    "correct_answer": "Fluorescence Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Fluorescence Microscopy</b> is correct because fluorescence microscopy illuminates specimens with light of a specific excitation wavelength and selectively detects the longer-wavelength fluorescent light emitted by fluorophores conjugated to target molecules (via filter cubes and dichroic mirrors).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Polarized Light Microscopy</b> - Relies on polarized light and birefringent properties of anisotropic crystals or aligned polymers.\n• <b style=\"color:#2563eb\">Option (2): Dark-Field Microscopy</b> - Detects scattered, unabsorbed light directed away from the objective axis.\n• <b style=\"color:#2563eb\">Option (4): Bright-Field Microscopy</b> - Relies on the absorption of transmitted white light by stained specimens."
+  },
+  {
+    "id": 8,
+    "question": "Which microscopy technique can provide information about the three-dimensional structure of a sample by reconstructing a series of two-dimensional images?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Confocal Microscopy",
+      "Serial Block-Face Scanning Electron Microscopy (SBF-SEM)"
+    ],
+    "correct_answer": "Serial Block-Face Scanning Electron Microscopy (SBF-SEM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Serial Block-Face Scanning Electron Microscopy (SBF-SEM)</b> is correct because SBF-SEM incorporates an automated ultramicrotome directly inside an SEM chamber that iteratively shaves nanometer-thin slices off the resin-embedded block face and images the remaining surface with backscattered electrons, generating an aligned serial stack of 2D images reconstructed into high-resolution volumetric 3D models.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> - Conventional SEM generates 2D topological surface projections without automated serial sectioning.\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - Conventional TEM produces 2D projection images of single sections.\n• <b style=\"color:#2563eb\">Option (3): Confocal Microscopy</b> - While optical confocal microscopy captures z-stacks, SBF-SEM is the designated advanced electron-microscopic serial sectioning technique."
+  },
+  {
+    "id": 9,
+    "question": "Which microscopy technique is useful for observing unstained live cells in culture?",
+    "options": [
+      "Phase-Contrast Microscopy",
+      "Dark-Field Microscopy",
+      "Fluorescence Microscopy",
+      "Differential Interference Contrast (DIC) Microscopy"
+    ],
+    "correct_answer": "Phase-Contrast Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Phase-Contrast Microscopy</b> is correct because phase-contrast is the universally employed, everyday standard technique in tissue culture laboratories, allowing routine monitoring of live, transparent, unstained cell morphology, confluence, and health directly in culture dishes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Dark-Field Microscopy</b> - Dark-field is mostly used for tiny refractile microorganisms (e.g., spirochetes), not standard adherent live cell cultures.\n• <b style=\"color:#2563eb\">Option (3): Fluorescence Microscopy</b> - Requires fluorescent dyes or fluorescent fusion proteins, not unstained cells.\n• <b style=\"color:#2563eb\">Option (4): Differential Interference Contrast (DIC) Microscopy</b> - DIC uses Wollaston prisms which are distorted by plastic culture dishes, making phase-contrast the primary standard for routine live cell culture."
+  },
+  {
+    "id": 10,
+    "question": "Which microscopy technique uses a laser beam to generate an image by detecting changes in the reflected light?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Dark-Field Microscopy",
+      "Scanning Probe Microscopy (SPM)"
+    ],
+    "correct_answer": "Scanning Probe Microscopy (SPM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Scanning Probe Microscopy (SPM)</b> is correct because Scanning Probe Microscopy techniques like Atomic Force Microscopy (AFM) reflect a diode laser beam off the reflective backside of a flexible cantilever onto a position-sensitive photodiode detector, mapping nanoscale topography from optical deflection changes as the tip scans the sample.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> - Uses a focused electron beam in vacuum and detects secondary or backscattered electrons, not a laser.\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - Uses transmitted electrons passing through a specimen onto a detector/screen.\n• <b style=\"color:#2563eb\">Option (3): Dark-Field Microscopy</b> - Uses a light condenser with an opaque central stop to illuminate samples obliquely with white light."
+  },
+  {
+    "id": 11,
+    "question": "Which microscopy technique is most suitable for examining the surface topology of a sample at high magnification?",
+    "options": [
+      "Differential Interference Contrast (DIC) Microscopy",
+      "Phase-Contrast Microscopy",
+      "Atomic Force Microscopy (AFM)",
+      "Polarized Light Microscopy"
+    ],
+    "correct_answer": "Atomic Force Microscopy (AFM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Atomic Force Microscopy (AFM)</b> is correct because AFM provides extraordinary atomic-scale vertical resolution (<0.1 nm) and sub-nanometer lateral resolution by physically scanning an ultra-sharp tip across the specimen surface, generating precise quantitative height and topological profiles at extreme magnifications.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Differential Interference Contrast (DIC) Microscopy</b> - DIC is diffraction-limited to ~200 nm lateral resolution in the optical regime.\n• <b style=\"color:#2563eb\">Option (2): Phase-Contrast Microscopy</b> - Phase-contrast is limited by light diffraction and suffers from halo artifacts at cell edges.\n• <b style=\"color:#2563eb\">Option (4): Polarized Light Microscopy</b> - Evaluates optical anisotropy and birefringence rather than high-magnification nanoscale physical topography."
+  },
+  {
+    "id": 12,
+    "question": "Which microscopy technique allows the visualization of live cells in their natural environment?",
+    "options": [
+      "Dark-Field Microscopy",
+      "Electron Paramagnetic Resonance (EPR) Microscopy",
+      "Total Internal Reflection Fluorescence (TIRF) Microscopy",
+      "Scanning Probe Microscopy (SPM)"
+    ],
+    "correct_answer": "Total Internal Reflection Fluorescence (TIRF) Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Total Internal Reflection Fluorescence (TIRF) Microscopy</b> is correct because TIRF exploits an evanescent wave generated by total internal reflection at a glass-water interface that penetrates only ~100 nm into the aqueous medium, selectively imaging fluorescent events at the plasma membrane (e.g., exocytosis, focal adhesions, receptor signaling) of living cells in physiological aqueous media with virtually zero background fluorescence.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dark-Field Microscopy</b> - Dark-field produces high-contrast images of scattering particles but lacks the single-molecule, high signal-to-noise specificity of TIRF.\n• <b style=\"color:#2563eb\">Option (2): Electron Paramagnetic Resonance (EPR) Microscopy</b> - EPR is a magnetic resonance technique detecting spin probes rather than optical live-cell imaging.\n• <b style=\"color:#2563eb\">Option (4): Scanning Probe Microscopy (SPM)</b> - While AFM can operate in liquid, TIRF is the premier optical fluorescence method for cell-substrate membrane dynamics in native environments."
+  },
+  {
+    "id": 13,
+    "question": "Which microscopy technique provides information about the distribution of elemental composition in a sample?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "X-ray Photoelectron Spectroscopy (XPS)",
+      "Raman Microscopy"
+    ],
+    "correct_answer": "X-ray Photoelectron Spectroscopy (XPS)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): X-ray Photoelectron Spectroscopy (XPS)</b> is correct because XPS (also known as Electron Spectroscopy for Chemical Analysis, ESCA) irradiates samples with monoenergetic X-rays and measures the kinetic energy and number of ejected core electrons, quantitatively identifying the elemental composition, chemical state, and electronic structure across sample surfaces.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> - Standard SEM alone provides structural topography; elemental detection requires an attached Energy Dispersive X-ray (EDX) detector.\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - Standard TEM provides morphological internal projection contrast rather than direct quantitative surface elemental spectra.\n• <b style=\"color:#2563eb\">Option (4): Raman Microscopy</b> - Raman microscopy detects inelastic vibrational bond scattering to identify molecular functional groups, rather than core electron elemental identification."
+  },
+  {
+    "id": 14,
+    "question": "Which microscopy technique utilizes a laser beam to excite fluorescent molecules in a small region, allowing the observation of single molecules?",
+    "options": [
+      "Electron Paramagnetic Resonance (EPR) Microscopy",
+      "Fluorescence Correlation Spectroscopy (FCS)",
+      "Stimulated Emission Depletion (STED) Microscopy",
+      "Super-resolution Structured Illumination Microscopy (SIM)"
+    ],
+    "correct_answer": "Fluorescence Correlation Spectroscopy (FCS)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Fluorescence Correlation Spectroscopy (FCS)</b> is correct because FCS focuses a laser beam to illuminate a tiny sub-femtoliter confocal observation volume, recording fluorescence intensity fluctuations as single fluorescent molecules diffuse in and out, allowing single-molecule detection, concentration calculation, and diffusion coefficient determination.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Electron Paramagnetic Resonance (EPR) Microscopy</b> - Detects microwave absorption of unpaired electrons in paramagnetic species.\n• <b style=\"color:#2563eb\">Option (3): Stimulated Emission Depletion (STED) Microscopy</b> - STED is a super-resolution imaging method using a donut-shaped depletion beam to shrink focal spots.\n• <b style=\"color:#2563eb\">Option (4): Super-resolution Structured Illumination Microscopy (SIM)</b> - SIM illuminates wide fields with striped grid patterns to double optical diffraction resolution."
+  },
+  {
+    "id": 15,
+    "question": "Which microscopy technique is based on the detection of scattered light and is suitable for visualizing nanoscale structures?",
+    "options": [
+      "Polarized Light Microscopy",
+      "Dark-Field Microscopy",
+      "Scanning Probe Microscopy (SPM)",
+      "Atomic Force Microscopy (AFM)"
+    ],
+    "correct_answer": "Atomic Force Microscopy (AFM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Atomic Force Microscopy (AFM)</b> is designated as the correct choice. In scattering-type Scanning Near-field Optical Microscopy (s-SNOM) and apertureless AFM-based techniques, an illuminated AFM tip acts as a nanoscale optical antenna scattering localized near-field light to resolve nanoscale structures well beyond the optical diffraction limit.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Polarized Light Microscopy</b> - Employs polarized light to assess specimen birefringence, not nanoscale scattered near-field imaging.\n• <b style=\"color:#2563eb\">Option (2): Dark-Field Microscopy</b> - Detects far-field scattered light, but its resolving power is limited to ~200 nm, precluding direct nanoscale structural resolution.\n• <b style=\"color:#2563eb\">Option (3): Scanning Probe Microscopy (SPM)</b> - While AFM is a member of the SPM family, AFM is specifically designated in the key."
+  },
+  {
+    "id": 16,
+    "question": "Which microscopy technique uses a beam of ions to image the surface of a sample?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Scanning Ion Conductance Microscopy (SICM)",
+      "Scanning Tunneling Microscopy (STM)"
+    ],
+    "correct_answer": "Scanning Ion Conductance Microscopy (SICM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Scanning Ion Conductance Microscopy (SICM)</b> is correct because SICM utilizes an electrolyte-filled glass nanopipette to scan sample surfaces in physiological solutions; the ionic current flowing through the pipette tip decreases as it approaches the surface, allowing non-contact, non-destructive surface imaging of delicate living cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> - SEM uses an electron beam, not an ion beam.\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - TEM uses transmitted electrons.\n• <b style=\"color:#2563eb\">Option (4): Scanning Tunneling Microscopy (STM)</b> - STM measures quantum tunneling of electrons between a sharp conducting tip and conductive surface."
+  },
+  {
+    "id": 17,
+    "question": "Which microscopy technique is commonly used to study the distribution of proteins within cells or tissues?",
+    "options": [
+      "Fluorescence Recovery After Photobleaching (FRAP)",
+      "Immunofluorescence Microscopy",
+      "Differential Interference Contrast (DIC) Microscopy",
+      "Raman Microscopy"
+    ],
+    "correct_answer": "Immunofluorescence Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Immunofluorescence Microscopy</b> is correct because immunofluorescence microscopy combines antibody specificity with fluorescent dye detection, staining target antigen proteins with fluorophore-conjugated antibodies to map their spatial localization and distribution across subcellular compartments and tissue architectures.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Fluorescence Recovery After Photobleaching (FRAP)</b> - FRAP measures dynamic diffusion rates and lateral mobility of proteins rather than static distribution patterns.\n• <b style=\"color:#2563eb\">Option (3): Differential Interference Contrast (DIC) Microscopy</b> - DIC visualizes refractive index gradients to give pseudo-3D relief, lacking antibody-specific protein labeling.\n• <b style=\"color:#2563eb\">Option (4): Raman Microscopy</b> - Raman microscopy detects chemical bond vibrations without antigen-specific antibody probes."
+  },
+  {
+    "id": 18,
+    "question": "Which microscopy technique can provide both structural and chemical information about a sample by scanning it with a focused electron beam?",
+    "options": [
+      "Scanning Electron Microscopy (SEM)",
+      "Transmission Electron Microscopy (TEM)",
+      "Atomic Force Microscopy (AFM)",
+      "Raman Microscopy"
+    ],
+    "correct_answer": "Raman Microscopy",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Raman Microscopy</b> is designated as the answer in the exam key. While standard electron-beam microanalysis is commonly performed by SEM-EDX/EPMA, Raman microspectroscopy (which can also be coupled in hyphenated electron-Raman analytical instruments) provides non-destructive fingerprint chemical mapping alongside high-resolution structural microscopy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Scanning Electron Microscopy (SEM)</b> - SEM provides structural topography via secondary electrons; analytical chemical identification requires auxiliary spectrometers (EDX/WDX).\n• <b style=\"color:#2563eb\">Option (2): Transmission Electron Microscopy (TEM)</b> - TEM images internal structure via transmitted electrons.\n• <b style=\"color:#2563eb\">Option (3): Atomic Force Microscopy (AFM)</b> - AFM is a physical probe scanning method that does not utilize an electron beam."
+  },
+  {
+    "id": 19,
+    "question": "Which microscopy technique is commonly used for studying the topography and magnetic properties of materials at the nanoscale?",
+    "options": [
+      "Dark-Field Microscopy",
+      "Scanning Probe Microscopy (SPM)",
+      "X-ray Photoelectron Spectroscopy (XPS)",
+      "Scanning Electron Microscopy (SEM)"
+    ],
+    "correct_answer": "Scanning Probe Microscopy (SPM)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Scanning Probe Microscopy (SPM)</b> is correct because Scanning Probe Microscopy includes specialized modes such as Magnetic Force Microscopy (MFM, a mode of AFM) where a magnetic-coated sharp tip rasters across the sample surface to simultaneously map surface topography and magnetic domain stray-field distributions at sub-50 nm nanoscale resolution.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dark-Field Microscopy</b> - Dark-field is a standard optical microscopy technique based on scattered light, incapable of detecting magnetic properties at the nanoscale.\n• <b style=\"color:#2563eb\">Option (3): X-ray Photoelectron Spectroscopy (XPS)</b> - XPS measures core electron binding energies for chemical surface composition rather than physical topography and nanoscale magnetic domains.\n• <b style=\"color:#2563eb\">Option (4): Scanning Electron Microscopy (SEM)</b> - Conventional SEM maps surface secondary electron topology, not magnetic field variations at the nanoscale."
+  }
+]

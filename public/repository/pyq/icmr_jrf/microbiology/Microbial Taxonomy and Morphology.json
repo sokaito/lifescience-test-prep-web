@@ -9,7 +9,7 @@
       "Helicobacter pylori"
     ],
     "correct_answer": "Helicobacter pylori",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the official answer key, Option (4) is marked as the answer (both Helicobacter pylori and Treponema pallidum present classical challenges to strict historical Koch's postulates; H. pylori requires microaerophilic conditions and was famously proven when Barry Marshall ingested it to fulfil the postulate).\n• Why Other Options Are Incorrect:\n  - Yersinia pestis: Readily cultured on nutrient agar and experimentally produces plague in laboratory rodents.\n  - Bacillus anthracis: The original model organism used by Robert Koch himself to establish his postulates in 1876."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, Option (4) is marked as the answer (both Helicobacter pylori and Treponema pallidum present classical challenges to strict historical Koch's postulates; H. pylori requires microaerophilic conditions and was famously proven when Barry Marshall ingested it to fulfil the postulate).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Yersinia pestis:</b> Readily cultured on nutrient agar and experimentally produces plague in laboratory rodents.\n• <b style=\"color:#2563eb\">Bacillus anthracis:</b> The original model organism used by Robert Koch himself to establish his postulates in 1876."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Acinetobacter"
     ],
     "correct_answer": "Pseudomonas aeruginosa",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pseudomonas aeruginosa is a strictly respiratory (obligate aerobic) bacterium that relies on molecular oxygen as its terminal electron acceptor in aerobic respiration (though it can use nitrate as an alternate electron acceptor in specific anaerobic biofilm states).\n• Why Other Options Are Incorrect:\n  - E. coli: A classic facultative anaerobe that grows robustly with oxygen (aerobic respiration) and without oxygen (fermentation).\n  - Staphylococcus: Facultative anaerobe growing readily under both aerobic and anaerobic conditions."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPseudomonas aeruginosa is a strictly respiratory (obligate aerobic) bacterium that relies on molecular oxygen as its terminal electron acceptor in aerobic respiration (though it can use nitrate as an alternate electron acceptor in specific anaerobic biofilm states).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">E. coli:</b> A classic facultative anaerobe that grows robustly with oxygen (aerobic respiration) and without oxygen (fermentation).\n• <b style=\"color:#2563eb\">Staphylococcus:</b> Facultative anaerobe growing readily under both aerobic and anaerobic conditions."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Capsule"
     ],
     "correct_answer": "Endotoxins",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Limulus Amebocyte Lysate (LAL) assay is the gold-standard pharmaceutical test used to detect trace quantities of bacterial endotoxin (Lipopolysaccharide, LPS) from Gram-negative bacteria. An aqueous lysate from the blood cells of the horseshoe crab (Limulus polyphemus) forms an irreversible gel clot upon contact with minute amounts of endotoxin.\n• Why Other Options Are Incorrect:\n  - Pilli: Hair-like surface appendages for adhesion, detected by electron microscopy or serology.\n  - Peptidoglycan: Structural polymer of bacterial walls, not detected by the LAL assay.\n  - Capsule: Visualized by negative staining or quellung serological reaction."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Limulus Amebocyte Lysate (LAL) assay is the gold-standard pharmaceutical test used to detect trace quantities of bacterial endotoxin (Lipopolysaccharide, LPS) from Gram-negative bacteria. An aqueous lysate from the blood cells of the horseshoe crab (Limulus polyphemus) forms an irreversible gel clot upon contact with minute amounts of endotoxin.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pilli:</b> Hair-like surface appendages for adhesion, detected by electron microscopy or serology.\n• <b style=\"color:#2563eb\">Peptidoglycan:</b> Structural polymer of bacterial walls, not detected by the LAL assay.\n• <b style=\"color:#2563eb\">Capsule:</b> Visualized by negative staining or quellung serological reaction."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "Cyclospora"
     ],
     "correct_answer": "Cryptococcus",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Cryptococcus neoformans is an encapsulated pathogenic yeast. Its thick polysaccharide (glucuronoxylomannan) capsule is demonstrated by negative staining using India Ink or mucicarmine, not by acid-fast staining.\n• Why Other Options Are Incorrect:\n  - Atypical mycobacteria: Contain rich mycolic acids in their cell walls and stain strongly acid-fast.\n  - Cryptosporidium & Cyclospora: Coccidian parasites whose oocyst walls contain lipid complexes that retain carbol fuchsin in modified acid-fast stains."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCryptococcus neoformans is an encapsulated pathogenic yeast. Its thick polysaccharide (glucuronoxylomannan) capsule is demonstrated by negative staining using India Ink or mucicarmine, not by acid-fast staining.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Atypical mycobacteria:</b> Contain rich mycolic acids in their cell walls and stain strongly acid-fast.\n• <b style=\"color:#2563eb\">Cryptosporidium & Cyclospora:</b> Coccidian parasites whose oocyst walls contain lipid complexes that retain carbol fuchsin in modified acid-fast stains."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "Zymomonas"
     ],
     "correct_answer": "Haemophilus",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Members of the genus Haemophilus (such as Haemophilus influenzae) are fastidious bacteria that require two blood-derived growth factors: Factor X (hemin/hematin) and Factor V (Nicotinamide Adenine Dinucleotide, NAD/NADP) to grow on culture media.\n• Why Other Options Are Incorrect:\n  - Pasteurella: Gram-negative coccobacilli that do not require exogenous X or V factor on blood agar.\n  - Actinobacillus & Zymomonas: Do not exhibit the classic X and V factor dependency of Haemophilus."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMembers of the genus Haemophilus (such as Haemophilus influenzae) are fastidious bacteria that require two blood-derived growth factors: Factor X (hemin/hematin) and Factor V (Nicotinamide Adenine Dinucleotide, NAD/NADP) to grow on culture media.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pasteurella:</b> Gram-negative coccobacilli that do not require exogenous X or V factor on blood agar.\n• <b style=\"color:#2563eb\">Actinobacillus & Zymomonas:</b> Do not exhibit the classic X and V factor dependency of Haemophilus."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "More than 60 degree Celsius"
     ],
     "correct_answer": "20-45 degree Celsius",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mesophiles are microorganisms whose optimal growth temperature is moderate, typically between 20°C and 45°C. Almost all human pathogens and normal human microbiota are mesophiles because human core body temperature is approximately 37°C.\n• Why Other Options Are Incorrect:\n  - 0-20 °C: Psychrophiles (cold-loving microbes).\n  - 45-60 °C: Thermophiles (heat-loving microbes).\n  - More than 60 °C: Extreme thermophiles and hyperthermophiles."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMesophiles are microorganisms whose optimal growth temperature is moderate, typically between 20°C and 45°C. Almost all human pathogens and normal human microbiota are mesophiles because human core body temperature is approximately 37°C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">0-20 °C:</b> Psychrophiles (cold-loving microbes).\n• <b style=\"color:#2563eb\">45-60 °C:</b> Thermophiles (heat-loving microbes).\n• <b style=\"color:#2563eb\">More than 60 °C:</b> Extreme thermophiles and hyperthermophiles."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
       "Proteus mirabilis"
     ],
     "correct_answer": "Enterococcus faecalis",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Enterococcus faecalis is a Gram-positive coccus that typically appears in pairs or short chains. It has a thick peptidoglycan wall and retains crystal violet stain.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Gram-negative enteric rod (bacillus).\n  - Klebsiella pneumoniae: Encapsulated Gram-negative bacillus.\n  - Proteus mirabilis: Motile Gram-negative rod known for swarming motility."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nEnterococcus faecalis is a Gram-positive coccus that typically appears in pairs or short chains. It has a thick peptidoglycan wall and retains crystal violet stain.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Gram-negative enteric rod (bacillus).\n• <b style=\"color:#2563eb\">Klebsiella pneumoniae:</b> Encapsulated Gram-negative bacillus.\n• <b style=\"color:#2563eb\">Proteus mirabilis:</b> Motile Gram-negative rod known for swarming motility."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
       "Cryptosporidium parvum"
     ],
     "correct_answer": "Entamoeba histolytica",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Entamoeba histolytica (the causative agent of amoebiasis) forms non-acid-fast cysts and trophozoites that are diagnosed using saline-iodine mounts or trichrome stains.\n• Why Other Options Are Incorrect:\n  - Cyclospora, Isospora, Cryptosporidium: All are coccidian apicomplexan intestinal parasites whose oocysts retain carbol fuchsin in modified acid-fast (Kinyoun) staining."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nEntamoeba histolytica (the causative agent of amoebiasis) forms non-acid-fast cysts and trophozoites that are diagnosed using saline-iodine mounts or trichrome stains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Cyclospora, Isospora, Cryptosporidium:</b> All are coccidian apicomplexan intestinal parasites whose oocysts retain carbol fuchsin in modified acid-fast (Kinyoun) staining."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
       "Hepatitis E virus"
     ],
     "correct_answer": "Hepatitis B virus",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Hepatitis B virus (HBV, family Hepadnaviridae) has a partially double-stranded circular DNA genome. In contrast, Hepatitis A (Picornaviridae), Hepatitis C (Flaviviridae), and Hepatitis E (Hepeviridae) are all single-stranded RNA viruses.\n• Why Other Options Are Incorrect:\n  - Hepatitis A, C, E: All possess RNA genomes."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nHepatitis B virus (HBV, family Hepadnaviridae) has a partially double-stranded circular DNA genome. In contrast, Hepatitis A (Picornaviridae), Hepatitis C (Flaviviridae), and Hepatitis E (Hepeviridae) are all single-stranded RNA viruses.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Hepatitis A, C, E:</b> All possess RNA genomes."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
       "Thermophiles"
     ],
     "correct_answer": "Psychrophiles",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Psychrophiles (cryophiles) are extremophiles whose optimal growth temperature is 15°C or lower, and they can thrive in sub-zero environments down to -20°C in polar ice and deep abyssal ocean waters.\n• Why Other Options Are Incorrect:\n  - Psychrotrophs: Prefer moderate temperatures (20-30°C), though they can tolerate cold.\n  - Mesophiles: Grow optimally between 20-45°C.\n  - Thermophiles: Grow at high temperatures between 45-80°C."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPsychrophiles (cryophiles) are extremophiles whose optimal growth temperature is 15°C or lower, and they can thrive in sub-zero environments down to -20°C in polar ice and deep abyssal ocean waters.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Psychrotrophs:</b> Prefer moderate temperatures (20-30°C), though they can tolerate cold.\n• <b style=\"color:#2563eb\">Mesophiles:</b> Grow optimally between 20-45°C.\n• <b style=\"color:#2563eb\">Thermophiles:</b> Grow at high temperatures between 45-80°C."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "Thermophiles"
     ],
     "correct_answer": "Psychrotrophs",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Psychrotrophs (psychrotolerant organisms) have an optimal growth temperature in the mesophilic range (20–30°C), but possess physiological adaptations that allow them to grow at refrigeration temperatures (0–7°C), making them major culprits in dairy and meat spoilage.\n• Why Other Options Are Incorrect:\n  - Psychrophiles: Strict cold-lovers that cannot grow above 20°C.\n  - Mesophiles: Cannot grow efficiently in freezing refrigeration temperatures.\n  - Thermophiles: Require hot environments."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPsychrotrophs (psychrotolerant organisms) have an optimal growth temperature in the mesophilic range (20–30°C), but possess physiological adaptations that allow them to grow at refrigeration temperatures (0–7°C), making them major culprits in dairy and meat spoilage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Psychrophiles:</b> Strict cold-lovers that cannot grow above 20°C.\n• <b style=\"color:#2563eb\">Mesophiles:</b> Cannot grow efficiently in freezing refrigeration temperatures.\n• <b style=\"color:#2563eb\">Thermophiles:</b> Require hot environments."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "Thermophiles"
     ],
     "correct_answer": "Mesophiles",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Mesophiles are organisms that grow best in moderate temperatures, typically between 20°C and 45°C.\n• Why Other Options Are Incorrect:\n  - Psychrophiles: Cold-loving.\n  - Psychrotrophs: Cold-tolerant mesophiles.\n  - Thermophiles: Heat-loving."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMesophiles are organisms that grow best in moderate temperatures, typically between 20°C and 45°C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Psychrophiles:</b> Cold-loving.\n• <b style=\"color:#2563eb\">Psychrotrophs:</b> Cold-tolerant mesophiles.\n• <b style=\"color:#2563eb\">Thermophiles:</b> Heat-loving."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "Thermophiles"
     ],
     "correct_answer": "Thermophiles",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Thermophiles are organisms that thrive at elevated temperatures between 45°C and 80°C (e.g., in hot compost, surface hot springs, and warm industrial water).\n• Why Other Options Are Incorrect:\n  - Psychrophiles & Psychrotrophs: Cold-adapted organisms.\n  - Mesophiles: Adapted to moderate temperatures."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThermophiles are organisms that thrive at elevated temperatures between 45°C and 80°C (e.g., in hot compost, surface hot springs, and warm industrial water).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Psychrophiles & Psychrotrophs:</b> Cold-adapted organisms.\n• <b style=\"color:#2563eb\">Mesophiles:</b> Adapted to moderate temperatures."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "Hyperthermophiles"
     ],
     "correct_answer": "Hyperthermophiles",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Hyperthermophiles are extreme heat-adapted archaea and bacteria whose optimal growth temperatures exceed 80°C, and many can comfortably survive and replicate above 100°C near deep-sea hydrothermal vents.\n• Why Other Options Are Incorrect:\n  - Psychrophiles, Psychrotrophs, Mesophiles: Heat-sensitive organisms that denature rapidly above 50°C."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nHyperthermophiles are extreme heat-adapted archaea and bacteria whose optimal growth temperatures exceed 80°C, and many can comfortably survive and replicate above 100°C near deep-sea hydrothermal vents.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Psychrophiles, Psychrotrophs, Mesophiles:</b> Heat-sensitive organisms that denature rapidly above 50°C."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "Wright staining"
     ],
     "correct_answer": "Gram staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Gram staining (invented by Hans Christian Gram in 1884) differentiates bacteria based on the chemical and physical properties of their cell walls. Thick peptidoglycan walls retain crystal violet (Gram-positive: purple), while thin peptidoglycan walls with outer lipid membranes decolorize and take up safranin (Gram-negative: pink).\n• Why Other Options Are Incorrect:\n  - Acid-fast / Ziehl-Neelsen staining: Detects mycolic acid in mycobacterial walls.\n  - Wright staining: Used for differential staining of blood smears to identify white blood cells."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nGram staining (invented by Hans Christian Gram in 1884) differentiates bacteria based on the chemical and physical properties of their cell walls. Thick peptidoglycan walls retain crystal violet (Gram-positive: purple), while thin peptidoglycan walls with outer lipid membranes decolorize and take up safranin (Gram-negative: pink).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Acid-fast / Ziehl-Neelsen staining:</b> Detects mycolic acid in mycobacterial walls.\n• <b style=\"color:#2563eb\">Wright staining:</b> Used for differential staining of blood smears to identify white blood cells."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "Wright staining"
     ],
     "correct_answer": "Acid-fast staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the official answer key, Acid-fast staining is the broad category of differential staining used to identify Mycobacterium tuberculosis and Mycobacterium leprae. Their waxy cell walls are rich in mycolic acids that resist decolorization with acid-alcohol.\n• Why Other Options Are Incorrect:\n  - Gram staining: Mycobacteria stain poorly and unpredictably as \"Gram-ghosts\" due to impermeability.\n  - Wright staining: Used for blood cytology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, Acid-fast staining is the broad category of differential staining used to identify Mycobacterium tuberculosis and Mycobacterium leprae. Their waxy cell walls are rich in mycolic acids that resist decolorization with acid-alcohol.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Mycobacteria stain poorly and unpredictably as \"Gram-ghosts\" due to impermeability.\n• <b style=\"color:#2563eb\">Wright staining:</b> Used for blood cytology."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "Schaeffer-Fulton staining"
     ],
     "correct_answer": "Schaeffer-Fulton staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Schaeffer-Fulton endospore stain uses heat to drive the primary dye malachite green through the resistant protein coat of bacterial endospores (Bacillus, Clostridium). Following water rinsing, vegetative cells are counterstained with safranin, revealing bright green spores within pink/red vegetative cells.\n• Why Other Options Are Incorrect:\n  - Gram staining: Endospores appear as unstained, refractile oval spaces inside Gram-positive rods.\n  - Acid-fast / Ziehl-Neelsen: Stains mycolic acid-containing bacteria."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Schaeffer-Fulton endospore stain uses heat to drive the primary dye malachite green through the resistant protein coat of bacterial endospores (Bacillus, Clostridium). Following water rinsing, vegetative cells are counterstained with safranin, revealing bright green spores within pink/red vegetative cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Endospores appear as unstained, refractile oval spaces inside Gram-positive rods.\n• <b style=\"color:#2563eb\">Acid-fast / Ziehl-Neelsen:</b> Stains mycolic acid-containing bacteria."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "Giemsa staining"
     ],
     "correct_answer": "Sudan III staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Sudan III (along with Sudan IV and Sudan Black B) is a lysochrome diazo dye specifically designed to detect neutral lipids, fatty acids, and triglycerides because it dissolves directly in lipid droplets.\n• Why Other Options Are Incorrect:\n  - Gram staining: Binds peptidoglycan and crystal violet complexes.\n  - Acid-fast staining: Uses carbol fuchsin to detect mycolic acids.\n  - Giemsa staining: Romanowsky stain for nucleic acids and blood parasites."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSudan III (along with Sudan IV and Sudan Black B) is a lysochrome diazo dye specifically designed to detect neutral lipids, fatty acids, and triglycerides because it dissolves directly in lipid droplets.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Binds peptidoglycan and crystal violet complexes.\n• <b style=\"color:#2563eb\">Acid-fast staining:</b> Uses carbol fuchsin to detect mycolic acids.\n• <b style=\"color:#2563eb\">Giemsa staining:</b> Romanowsky stain for nucleic acids and blood parasites."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "Wright staining"
     ],
     "correct_answer": "Periodic acid-Schiff (PAS) staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Periodic Acid-Schiff (PAS) stain oxidizes 1,2-glycol groups in complex carbohydrates (like chitin and glucan abundant in fungal cell walls) into aldehydes, which react with Schiff's reagent to produce an intense, distinctive magenta/pink color.\n• Why Other Options Are Incorrect:\n  - Acid-fast staining: Detects waxy mycolic acid in bacteria.\n  - Wright staining: Differentiates blood leukocytes."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Periodic Acid-Schiff (PAS) stain oxidizes 1,2-glycol groups in complex carbohydrates (like chitin and glucan abundant in fungal cell walls) into aldehydes, which react with Schiff's reagent to produce an intense, distinctive magenta/pink color.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Acid-fast staining:</b> Detects waxy mycolic acid in bacteria.\n• <b style=\"color:#2563eb\">Wright staining:</b> Differentiates blood leukocytes."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "Giemsa staining"
     ],
     "correct_answer": "Giemsa staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Giemsa staining is the worldwide gold standard diagnostic method for malaria. In thin and thick peripheral blood films, Giemsa stains erythrocyte cytoplasm pale pink, Plasmodium trophozoite cytoplasm blue, and chromatin/nuclei red-purple.\n• Why Other Options Are Incorrect:\n  - Gram & Acid-fast: Bacterial stains that fail to distinguish intracellular protozoan parasite morphology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nGiemsa staining is the worldwide gold standard diagnostic method for malaria. In thin and thick peripheral blood films, Giemsa stains erythrocyte cytoplasm pale pink, Plasmodium trophozoite cytoplasm blue, and chromatin/nuclei red-purple.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram & Acid-fast:</b> Bacterial stains that fail to distinguish intracellular protozoan parasite morphology."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
       "Capsule staining"
     ],
     "correct_answer": "Capsule staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacterial capsules are non-ionic polysaccharides that repel most acidic and basic histological stains. Capsule staining (negative staining using India Ink or Maneval's method) stains the background and the bacterial cell, leaving the clear, transparent capsule visible as a halo.\n• Why Other Options Are Incorrect:\n  - Gram staining: Heat fixing shrinks and destroys delicate capsules.\n  - Acid-fast & Ziehl-Neelsen: Target mycolic acids, not polysaccharide capsules."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBacterial capsules are non-ionic polysaccharides that repel most acidic and basic histological stains. Capsule staining (negative staining using India Ink or Maneval's method) stains the background and the bacterial cell, leaving the clear, transparent capsule visible as a halo.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Heat fixing shrinks and destroys delicate capsules.\n• <b style=\"color:#2563eb\">Acid-fast & Ziehl-Neelsen:</b> Target mycolic acids, not polysaccharide capsules."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
       "Warthin-Starry staining"
     ],
     "correct_answer": "Warthin-Starry staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Warthin-Starry silver stain is a specialized histopathological silver-impregnation technique used to visualize Helicobacter pylori, spirochetes (Treponema pallidum), and Bartonella in tissue biopsies, staining the bacteria dark black/brown against a golden-yellow background.\n• Why Other Options Are Incorrect:\n  - Gram staining: In tissue sections, H. pylori is very faint and easily obscured by cellular background debris.\n  - Acid-fast / Ziehl-Neelsen: H. pylori is not acid-fast."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Warthin-Starry silver stain is a specialized histopathological silver-impregnation technique used to visualize Helicobacter pylori, spirochetes (Treponema pallidum), and Bartonella in tissue biopsies, staining the bacteria dark black/brown against a golden-yellow background.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> In tissue sections, H. pylori is very faint and easily obscured by cellular background debris.\n• <b style=\"color:#2563eb\">Acid-fast / Ziehl-Neelsen:</b> H. pylori is not acid-fast."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
       "Calcofluor white staining"
     ],
     "correct_answer": "Calcofluor white staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Calcofluor white is a fluorescent chemial stain that binds with high affinity to chitin and cellulose in the cell walls of fungi and yeasts. Under ultraviolet fluorescence microscopy, fungal hyphae and budding yeasts fluoresce with a brilliant apple-green or bright blue light.\n• Why Other Options Are Incorrect:\n  - Acid-fast & Ziehl-Neelsen: For acid-fast mycobacteria.\n  - Gram staining: Some yeasts stain Gram-positive, but Calcofluor white is the specific, highly sensitive fungal diagnostic stain."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCalcofluor white is a fluorescent chemial stain that binds with high affinity to chitin and cellulose in the cell walls of fungi and yeasts. Under ultraviolet fluorescence microscopy, fungal hyphae and budding yeasts fluoresce with a brilliant apple-green or bright blue light.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Acid-fast & Ziehl-Neelsen:</b> For acid-fast mycobacteria.\n• <b style=\"color:#2563eb\">Gram staining:</b> Some yeasts stain Gram-positive, but Calcofluor white is the specific, highly sensitive fungal diagnostic stain."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
       "Wright staining"
     ],
     "correct_answer": "Ziehl-Neelsen staining",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Ziehl-Neelsen (ZN) staining technique is the definitive classical hot acid-fast method used worldwide to detect Mycobacterium tuberculosis in clinical sputum and tissue samples.\n• Why Other Options Are Incorrect:\n  - Gram staining: Mycobacteria resist Gram staining due to high mycolic acid content.\n  - Wright staining: Used for differential blood counts."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Ziehl-Neelsen (ZN) staining technique is the definitive classical hot acid-fast method used worldwide to detect Mycobacterium tuberculosis in clinical sputum and tissue samples.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Mycobacteria resist Gram staining due to high mycolic acid content.\n• <b style=\"color:#2563eb\">Wright staining:</b> Used for differential blood counts."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
       "Develop vaccines for infectious diseases."
     ],
     "correct_answer": "Establish a causative relationship between a microorganism and a disease.",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Formulated by Robert Koch in 1884, Koch's postulates are four fundamental experimental criteria designed to rigorously establish a causal relationship between a causative microbe and an infectious disease.\n• Why Other Options Are Incorrect:\n  - Mode of transmission: Evaluated through epidemiological outbreak investigations.\n  - Identify symptoms: Determined by clinical examination.\n  - Develop vaccines: Requires immunology and formulation science."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nFormulated by Robert Koch in 1884, Koch's postulates are four fundamental experimental criteria designed to rigorously establish a causal relationship between a causative microbe and an infectious disease.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Mode of transmission:</b> Evaluated through epidemiological outbreak investigations.\n• <b style=\"color:#2563eb\">Identify symptoms:</b> Determined by clinical examination.\n• <b style=\"color:#2563eb\">Develop vaccines:</b> Requires immunology and formulation science."
   },
   {
     "id": 26,
@@ -309,7 +309,7 @@
       "Are easily decolorized by alcohol"
     ],
     "correct_answer": "Retain the malachite green stain",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacterial endospores possess thick, impermeable coats composed of keratin-like protein, dipicolinic acid, and calcium. Heat forces the water-soluble dye malachite green into the spore. Once cooled, the spore coat traps the malachite green, resisting water decolorization.\n• Why Other Options Are Incorrect:\n  - Crystal violet: Used in Gram staining, not the primary dye in endospore staining.\n  - Easily decolorized by alcohol: Endospores resist chemical decolorization."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBacterial endospores possess thick, impermeable coats composed of keratin-like protein, dipicolinic acid, and calcium. Heat forces the water-soluble dye malachite green into the spore. Once cooled, the spore coat traps the malachite green, resisting water decolorization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Crystal violet:</b> Used in Gram staining, not the primary dye in endospore staining.\n• <b style=\"color:#2563eb\">Easily decolorized by alcohol:</b> Endospores resist chemical decolorization."
   },
   {
     "id": 27,
@@ -321,7 +321,7 @@
       "Cytoplasm"
     ],
     "correct_answer": "Endospore",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The endospore staining procedure is explicitly designed to identify and highlight the resistant internal bacterial endospore (staining bright green with malachite green) while counterstaining the surrounding vegetative cell pink.\n• Why Other Options Are Incorrect:\n  - Cell wall & cell membrane: Stained by conventional differential and fluorescent membrane stains, not the target of endospore staining."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe endospore staining procedure is explicitly designed to identify and highlight the resistant internal bacterial endospore (staining bright green with malachite green) while counterstaining the surrounding vegetative cell pink.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Cell wall & cell membrane:</b> Stained by conventional differential and fluorescent membrane stains, not the target of endospore staining."
   },
   {
     "id": 28,
@@ -333,6 +333,6 @@
       "Acid-fast bacteria"
     ],
     "correct_answer": "Carbohydrates and glycogen",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Periodic acid-Schiff (PAS) is a specialized histochemical stain used to detect glycogen, glycoproteins, glycolipids, and complex polysaccharides. Periodic acid oxidizes adjacent carbon hydroxyl groups into aldehydes, which react with Schiff's reagent to produce a deep magenta-pink color.\n• Why Other Options Are Incorrect:\n  - Nuclei: Stained blue/purple by hematoxylin or DAPI.\n  - Lipids: Stained by Sudan dyes or Oil Red O.\n  - Acid-fast bacteria: Stained with Ziehl-Neelsen carbol fuchsin."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPeriodic acid-Schiff (PAS) is a specialized histochemical stain used to detect glycogen, glycoproteins, glycolipids, and complex polysaccharides. Periodic acid oxidizes adjacent carbon hydroxyl groups into aldehydes, which react with Schiff's reagent to produce a deep magenta-pink color.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Nuclei:</b> Stained blue/purple by hematoxylin or DAPI.\n• <b style=\"color:#2563eb\">Lipids:</b> Stained by Sudan dyes or Oil Red O.\n• <b style=\"color:#2563eb\">Acid-fast bacteria:</b> Stained with Ziehl-Neelsen carbol fuchsin."
   }
 ]

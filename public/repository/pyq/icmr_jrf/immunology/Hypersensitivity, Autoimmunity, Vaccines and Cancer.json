@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "question": "Type I hypersensitivity is mediated by which of the following immunoglobulins?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgE",
+      "IgM"
+    ],
+    "correct_answer": "IgE",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): IgE</b> is correct. Type I (immediate/anaphylactic) hypersensitivity is mediated exclusively by Immunoglobulin E (IgE). Upon initial allergen exposure, allergen-specific IgE is produced and binds with high affinity to FcεRI receptors on the surface of tissue mast cells and circulating basophils. Subsequent re-exposure causes cross-linking of bound IgE, triggering immediate degranulation and release of histamine, leukotrienes, and prostaglandins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): IgA</b> - IgA provides mucosal defense and does not trigger classical Type I immediate hypersensitivity.\n• <b style=\"color:#2563eb\">Option (2): IgG</b> - IgG mediates Type II (cytotoxic) and Type III (immune complex) hypersensitivities.\n• <b style=\"color:#2563eb\">Option (4): IgM</b> - IgM is involved in Type II cytotoxic reactions (e.g., ABO transfusion reactions) and complement fixation, not Type I allergy."
+  },
+  {
+    "id": 2,
+    "question": "Acute inflammation characteristically involves:",
+    "options": [
+      "Influx of mast cells.",
+      "Capillary endothelial cell enlargement",
+      "Influx of neutrophils",
+      "Influx of macrophages"
+    ],
+    "correct_answer": "Influx of neutrophils",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Influx of neutrophils</b> is correct. The hallmark cellular event of acute inflammation is the rapid extravasation and influx of polymorphonuclear neutrophils (PMNs) into the affected extravascular tissue during the first 6 to 24 hours. Neutrophils respond to chemoattractants (such as CXCL8/IL-8, leukotriene B4, and C5a) to clear invading pathogens and necrotic debris.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Influx of mast cells</b> - Mast cells are resident sentinel cells already residing in perivascular connective tissue, not acute migratory cells.\n• <b style=\"color:#2563eb\">Option (2): Capillary endothelial cell enlargement</b> - Endothelial cells undergo contraction creating intercellular gaps (vasopermeability), not primarily enlargement.\n• <b style=\"color:#2563eb\">Option (4): Influx of macrophages</b> - Macrophages replace neutrophils at inflammatory foci later (24 to 48 hours) and predominate in chronic inflammation."
+  },
+  {
+    "id": 3,
+    "question": "Granulomatous inflammation is an example of which type of hypersensitivity?",
+    "options": [
+      "Type I",
+      "Type II",
+      "Type III",
+      "Type IV"
+    ],
+    "correct_answer": "Type IV",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Type IV</b> is correct. Granulomatous inflammation is a specialized subtype of Type IV (delayed-type / cell-mediated) hypersensitivity. When indigestible pathogens or foreign particles (e.g., Mycobacterium tuberculosis, Schistosoma eggs) persist, CD4+ Th1 cells continuously secrete IFN-gamma and TNF-alpha, inducing macrophages to transform into epithelioid cells and multinucleated Langhans giant cells surrounded by a lymphocyte cuff, forming a granuloma.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Type I</b> - Type I hypersensitivity is immediate, IgE- and mast cell-mediated (asthma, anaphylaxis).\n• <b style=\"color:#2563eb\">Option (2): Type II</b> - Type II hypersensitivity is antibody-mediated cytotoxicity against cell-surface antigens.\n• <b style=\"color:#2563eb\">Option (3): Type III</b> - Type III hypersensitivity involves circulating antigen-antibody immune complexes depositing in blood vessels."
+  },
+  {
+    "id": 4,
+    "question": "Metastasis refers to:",
+    "options": [
+      "The formation of a primary tumor",
+      "The spread of cancer cells to distant sites in the body",
+      "The regression of a tumor",
+      "The benign transformation of abnormal cells"
+    ],
+    "correct_answer": "The spread of cancer cells to distant sites in the body",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The spread of cancer cells to distant sites in the body</b> is correct. Metastasis is the hallmark of malignancy whereby cancer cells detach from the primary tumor, invade the extracellular matrix, intravasate into lymphatic or vascular circulations, survive hemodynamic shear stress, extravasate at distant organ microenvironments, and establish secondary metastatic colonies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The formation of a primary tumor</b> - Primary tumor development is tumorigenesis or oncogenesis.\n• <b style=\"color:#2563eb\">Option (3): The regression of a tumor</b> - Spontaneous or therapy-induced tumor shrinkage is known as tumor regression.\n• <b style=\"color:#2563eb\">Option (4): The benign transformation of abnormal cells</b> - Metastasis is strictly a characteristic of malignant neoplasia; benign tumors never metastasize."
+  },
+  {
+    "id": 5,
+    "question": "Teratogenesis refers to:",
+    "options": [
+      "Breeding turtles",
+      "Fetal abnormalities",
+      "Keratinization of skin",
+      "Treatment of cancer"
+    ],
+    "correct_answer": "Fetal abnormalities",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Fetal abnormalities</b> is correct. Teratogenesis (literally 'monster-making' from the Greek 'teras') refers to the induction of congenital structural malformations and developmental defects in a developing fetus or embryo caused by exposure to exogenous agents known as teratogens (e.g., thalidomide, isotretinoin, alcohol, ionizing radiation, rubella virus) during the critical period of organogenesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Breeding turtles</b> - Chelonian breeding has no etymological or medical relation to teratogenesis.\n• <b style=\"color:#2563eb\">Option (3): Keratinization of skin</b> - Keratinization is the epidermal differentiation process forming the stratum corneum.\n• <b style=\"color:#2563eb\">Option (4): Treatment of cancer</b> - Cancer therapy is chemotherapy/oncological treatment."
+  },
+  {
+    "id": 6,
+    "question": "Drugs that counteract the effects of other drugs, for e.g. in case poisonings, are known as:",
+    "options": [
+      "Antibodies",
+      "Monoclonal antibodies",
+      "Antidotes",
+      "Vaccines"
+    ],
+    "correct_answer": "Antidotes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Antidotes</b> is correct. An antidote is a therapeutic substance administered to neutralize, counteract, or reverse the physiological toxic effects of a poison, venom, or drug overdose (e.g., naloxone for opioid overdose, atropine for organophosphate poisoning, N-acetylcysteine for acetaminophen toxicity).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Antibodies</b> - Antibodies are natural or therapeutic immunoglobulins, not the broad pharmacological classification for poisoning counter-agents.\n• <b style=\"color:#2563eb\">Option (2): Monoclonal antibodies</b> - Monoclonal antibodies are specific laboratory-engineered immunoglobulins used in targeted medicine.\n• <b style=\"color:#2563eb\">Option (4): Vaccines</b> - Vaccines are prophylactic biological preparations that stimulate adaptive immunity against infectious pathogens."
+  },
+  {
+    "id": 7,
+    "question": "Arneth count is used to count:",
+    "options": [
+      "Dots in reticulocytes",
+      "Micronuclei",
+      "Lobes of eosinophils",
+      "Lobes of neutrophils"
+    ],
+    "correct_answer": "Lobes of neutrophils",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Lobes of neutrophils</b> is correct. The Arneth count (or Arneth index) is a hematological differential index that categorizes circulating neutrophils based on the number of nuclear lobes they possess (ranging from Stage I with single unlobed/horseshoe nuclei to Stage V with five or more lobes). An increase in younger cells with fewer lobes is termed a 'shift to the left' (indicating active infection), while an increase in hypersegmented neutrophils is a 'shift to the right' (characteristic of megaloblastic anemia).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dots in reticulocytes</b> - Ribosomal precipitates in reticulocytes are evaluated by supravital staining reticulocyte counts.\n• <b style=\"color:#2563eb\">Option (2): Micronuclei</b> - Micronucleus assays evaluate chromosomal damage and genotoxicity.\n• <b style=\"color:#2563eb\">Option (3): Lobes of eosinophils</b> - Eosinophils typically possess a bilobed nucleus; the Arneth count specifically applies to neutrophils."
+  },
+  {
+    "id": 8,
+    "question": "The vaccine against polio virus is an example of:",
+    "options": [
+      "Auto immunization",
+      "Passive immunization",
+      "Active immunization",
+      "Simple immunization"
+    ],
+    "correct_answer": "Active immunization",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Active immunization</b> is correct. Poliovirus vaccines—both the Salk Inactivated Polio Vaccine (IPV) and the Sabin Oral Polio Vaccine (OPV, live attenuated)—contain viral antigens that stimulate the recipient's own immune system to generate protective neutralizing antibodies (serum IgG and mucosal sIgA) and long-lived memory B and T cells. This constitutes artificial active immunization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Auto immunization</b> - Autoimmunization refers to self-immunization against self-antigens causing autoimmune disease.\n• <b style=\"color:#2563eb\">Option (2): Passive immunization</b> - Passive immunization provides preformed antibodies from an external source without inducing immunological memory.\n• <b style=\"color:#2563eb\">Option (4): Simple immunization</b> - 'Simple immunization' is an informal non-medical distractor."
+  },
+  {
+    "id": 9,
+    "question": "The flower shown in the image is the source of which of the following anti-cancer drugs?",
+    "options": [
+      "Vincristine",
+      "Cyclosporine",
+      "Oxaliplatin",
+      "5-Fluorouracil"
+    ],
+    "correct_answer": "Vincristine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Vincristine</b> is correct. The plant pictured is Madagascar periwinkle (*Catharanthus roseus*, formerly *Vinca rosea*). It is the natural botanical source of the vinca alkaloids—vincristine and vinblastine. These antineoplastic agents bind to tubulin heterodimers, preventing microtubule assembly and polymerisation, thereby arresting cancer cells in the metaphase of mitosis (spindle poisons) to treat leukemias and lymphomas.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cyclosporine</b> - Cyclosporine is an immunosuppressant cyclic peptide isolated from the fungus *Tolypocladium inflatum*.\n• <b style=\"color:#2563eb\">Option (3): Oxaliplatin</b> - Oxaliplatin is a synthetic platinum-based DNA cross-linking chemotherapeutic drug.\n• <b style=\"color:#2563eb\">Option (4): 5-Fluorouracil</b> - 5-FU is a synthetic pyrimidine analogue that inhibits thymidylate synthase."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a Selective Estrogen Receptor Modulator used in the treatment of estrogen-dependent breast cancer?",
+    "options": [
+      "Anastrozole",
+      "Exemestane",
+      "Letrozole",
+      "Tamoxifen"
+    ],
+    "correct_answer": "Tamoxifen",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Tamoxifen</b> is correct. Tamoxifen is the prototype Selective Estrogen Receptor Modulator (SERM). It competitively binds to estrogen receptors (ER) in mammary tissue, inducing an antagonistic conformation that prevents estrogen-stimulated transcriptional activation and cell proliferation in ER-positive breast carcinoma.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Anastrozole</b> - Anastrozole is a non-steroidal aromatase inhibitor that prevents peripheral estrogen synthesis, not a SERM.\n• <b style=\"color:#2563eb\">Option (2): Exemestane</b> - Exemestane is a steroidal irreversible aromatase inactivator.\n• <b style=\"color:#2563eb\">Option (3): Letrozole</b> - Letrozole is a potent non-steroidal aromatase inhibitor."
+  },
+  {
+    "id": 11,
+    "question": "All of the following are housekeeping genes, EXCEPT:",
+    "options": [
+      "β-actin",
+      "GAPDH",
+      "p53",
+      "β-globulin"
+    ],
+    "correct_answer": "p53",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): p53</b> is correct as the exception. Housekeeping genes are constitutively expressed at relatively constant levels in all cell types because they encode proteins essential for basal cell survival and maintenance (e.g., GAPDH for glycolysis, beta-actin for cytoskeleton). In contrast, TP53 is a tightly regulated tumor suppressor gene maintained at very low basal protein levels by MDM2-mediated ubiquitination and is rapidly induced and stabilized only in response to cellular stress, DNA damage, and hypoxia.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): β-actin</b> - Beta-actin is a ubiquitous cytoskeletal structural protein and a classic housekeeping gene used as an internal loading control.\n• <b style=\"color:#2563eb\">Option (2): GAPDH</b> - Glyceraldehyde-3-phosphate dehydrogenase is a core glycolytic enzyme commonly used as a standard housekeeping reference gene.\n• <b style=\"color:#2563eb\">Option (4): β-globulin</b> - Beta-globulin/tubulin/globulins are metabolic/structural reference standards; p53 is the uniquely inducible stress-responsive tumor suppressor."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following cells release histamine and other vasoactive substances in response to allergens?",
+    "options": [
+      "Monocytes",
+      "Dendritic cell",
+      "Neutrophils",
+      "Mast Cells"
+    ],
+    "correct_answer": "Mast Cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Mast Cells</b> is correct. Mast cells are heavily granulated tissue-resident myeloid cells located adjacent to blood vessels and mucosal surfaces. They express dense surface FcεRI receptors loaded with allergen-specific IgE. When an allergen binds and cross-links adjacent IgE-FcεRI complexes, it activates tyrosine kinase signaling cascades, triggering rapid exocytosis of preformed granules packed with histamine, serotonin, heparin, and proteases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Monocytes</b> - Monocytes differentiate into macrophages and secrete inflammatory cytokines (IL-1, TNF), not histamine-rich allergen granules.\n• <b style=\"color:#2563eb\">Option (2): Dendritic cell</b> - Dendritic cells capture and present antigens to naive T cells, lacking histamine granules.\n• <b style=\"color:#2563eb\">Option (3): Neutrophils</b> - Neutrophils contain myeloperoxidase and defensins for phagocytic bactericidal killing."
+  },
+  {
+    "id": 13,
+    "question": "Autoimmune disorders arise from an abnormal immune response in which the immune system mistakenly targets and attacks:",
+    "options": [
+      "Healthy body tissues",
+      "Pathogenic bacteria",
+      "Viral infections",
+      "Cancer cells"
+    ],
+    "correct_answer": "Healthy body tissues",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Healthy body tissues</b> is correct. Autoimmunity occurs when self-tolerance mechanisms (central and peripheral tolerance) fail, leading to the activation of autoreactive B and T lymphocytes. These self-reactive effectors produce autoantibodies or cytotoxic reactions directed against self-antigens in healthy, normal host organs and tissues, causing chronic inflammation and structural damage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Pathogenic bacteria</b> - Targeting and eliminating pathogenic bacteria is the normal, protective function of the immune system.\n• <b style=\"color:#2563eb\">Option (3): Viral infections</b> - Immune defense against viruses is normal physiological immunity.\n• <b style=\"color:#2563eb\">Option (4): Cancer cells</b> - Cancer immunosurveillance and tumor elimination is a beneficial protective immune response."
+  },
+  {
+    "id": 14,
+    "question": "Rheumatoid arthritis is an autoimmune disorder primarily affecting which part of the body?",
+    "options": [
+      "Joints",
+      "Kidneys",
+      "Lungs",
+      "Liver"
+    ],
+    "correct_answer": "Joints",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Joints</b> is correct. Rheumatoid arthritis (RA) is a systemic autoimmune disease characterized primarily by chronic proliferative synovitis of diarthrodial (synovial) joints. Autoreactive CD4+ Th1/Th17 cells, B cells producing rheumatoid factor (RF) and anti-citrullinated protein antibodies (ACPA), and activated synovial fibroblasts form an invasive pannus that degrades articular cartilage and subchondral bone.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Kidneys</b> - Renal autoimmune damage is a hallmark of lupus nephritis (in SLE), not primarily rheumatoid arthritis.\n• <b style=\"color:#2563eb\">Option (3): Lungs</b> - While rheumatoid nodules or interstitial lung disease can occur as extra-articular manifestations, joints are the primary diagnostic target.\n• <b style=\"color:#2563eb\">Option (4): Liver</b> - Autoimmune hepatitis primarily affects the liver."
+  },
+  {
+    "id": 15,
+    "question": "In multiple sclerosis (MS), the immune system mistakenly attacks which part of the nervous system?",
+    "options": [
+      "Spinal cord",
+      "Brain",
+      "Peripheral nerves",
+      "Autonomic nervous system"
+    ],
+    "correct_answer": "Spinal cord",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Spinal cord</b> is designated (alongside the brain, as MS targets myelin within the Central Nervous System). Autoreactive CD4+ T cells cross the blood-brain barrier and attack myelin basic protein and oligodendrocytes in the spinal cord and brain, leading to chronic demyelination, gliosis (plaques), and axonal transection that impairs saltatory nerve conduction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Brain</b> - While the brain is also involved in MS plaques, Option (1) is the primary option marked in the answer key.\n• <b style=\"color:#2563eb\">Option (3): Peripheral nerves</b> - Autoimmune attack on peripheral nerve myelin (Schwann cells) causes Guillain-Barré syndrome, not multiple sclerosis.\n• <b style=\"color:#2563eb\">Option (4): Autonomic nervous system</b> - Dysautonomia can be secondary, but the primary pathology is central demyelination."
+  },
+  {
+    "id": 16,
+    "question": "Systemic lupus erythematosus (SLE) is an autoimmune disorder that can affect multiple organs and systems. Which of the following is a common symptom of SLE?",
+    "options": [
+      "Butterfly-shaped rash on the face",
+      "Chronic bronchitis",
+      "Celiac disease",
+      "Hypothyroidism"
+    ],
+    "correct_answer": "Butterfly-shaped rash on the face",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Butterfly-shaped rash on the face</b> is correct. Systemic lupus erythematosus (SLE) is a systemic autoimmune disease characterized by anti-nuclear autoantibodies (ANA and anti-dsDNA). A classic clinical sign is a fixed erythematous malar rash ('butterfly rash') distributed over the bridge of the nose and extending across both cheeks while characteristically sparing the nasolabial folds, exacerbated by UV light exposure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Chronic bronchitis</b> - Chronic bronchitis is a chronic obstructive pulmonary disease caused primarily by tobacco smoking or air pollutants.\n• <b style=\"color:#2563eb\">Option (3): Celiac disease</b> - Celiac disease is an independent autoimmune enteropathy triggered by dietary gluten.\n• <b style=\"color:#2563eb\">Option (4): Hypothyroidism</b> - Primary autoimmune hypothyroidism is Hashimoto's thyroiditis."
+  },
+  {
+    "id": 17,
+    "question": "Which type of hypersensitivity reaction involves the production of IgE antibodies in response to an allergen?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correct_answer": "Type I hypersensitivity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Type I hypersensitivity</b> is correct. Type I hypersensitivity (immediate / atopic reaction) is triggered when an allergen causes Th2 cells to secrete IL-4 and IL-13, stimulating B cells to undergo class switching to IgE. The IgE antibodies coat mast cells via high-affinity FcεRI receptors; subsequent allergen exposure triggers cross-linking and rapid release of vasoactive and bronchoconstrictive amines.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Type II hypersensitivity</b> - Type II hypersensitivity is cytotoxic and mediated by IgG or IgM binding to cell surface antigens.\n• <b style=\"color:#2563eb\">Option (3): Type III hypersensitivity</b> - Type III hypersensitivity is mediated by IgG/IgM immune complexes that precipitate in microvasculature.\n• <b style=\"color:#2563eb\">Option (4): Type IV hypersensitivity</b> - Type IV hypersensitivity is cell-mediated and delayed, driven by T cells rather than antibodies."
+  },
+  {
+    "id": 18,
+    "question": "Which type of hypersensitivity reaction involves the formation of immune complexes that deposit in various tissues, triggering an inflammatory response?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correct_answer": "Type III hypersensitivity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Type III hypersensitivity</b> is correct. Type III (immune-complex-mediated) hypersensitivity occurs when soluble antigens combine with IgG or IgM antibodies to form circulating immune complexes. When not effectively cleared by the mononuclear phagocyte system, these complexes deposit in vascular walls, renal glomeruli, and synovia, where they activate the classical complement cascade, recruit neutrophils, and cause necrotizing vasculitis (e.g., serum sickness, Arthus reaction, SLE).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Type I hypersensitivity</b> - Type I hypersensitivity is mediated by IgE-sensitized mast cell degranulation.\n• <b style=\"color:#2563eb\">Option (2): Type II hypersensitivity</b> - Type II hypersensitivity involves antibodies binding directly to fixed antigens on specific cell surfaces or basement membranes.\n• <b style=\"color:#2563eb\">Option (4): Type IV hypersensitivity</b> - Type IV hypersensitivity is mediated by effector T cells without antibodies or immune complexes."
+  },
+  {
+    "id": 19,
+    "question": "Which type of hypersensitivity reaction involves the activation of cytotoxic T cells and destruction of host cells?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correct_answer": "Type II hypersensitivity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Type II hypersensitivity</b> is designated (official exam key marks Option 2; in Gell and Coombs classification, Type II is defined as antibody-dependent cytotoxic hypersensitivity where host cells are destroyed via complement-mediated lysis or antibody-dependent cellular cytotoxicity [ADCC], while direct cytotoxic T cell killing is classically considered a Type IV cell-mediated mechanism).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Type I hypersensitivity</b> - Type I hypersensitivity involves IgE-mediated mast cell degranulation and vasodilation, not cytotoxic cell destruction.\n• <b style=\"color:#2563eb\">Option (3): Type III hypersensitivity</b> - Type III involves deposition of circulating immune complexes and complement-mediated vascular inflammation.\n• <b style=\"color:#2563eb\">Option (4): Type IV hypersensitivity</b> - While CD8+ T cells mediate cell killing in Type IV reactions, the official exam key marks Option (2)."
+  },
+  {
+    "id": 20,
+    "question": "Which type of hypersensitivity reaction involves a delayed immune response mediated by T cells?",
+    "options": [
+      "Type I hypersensitivity",
+      "Type II hypersensitivity",
+      "Type III hypersensitivity",
+      "Type IV hypersensitivity"
+    ],
+    "correct_answer": "Type IV hypersensitivity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Type IV hypersensitivity</b> is correct. Type IV (delayed-type hypersensitivity / DTH) is the only hypersensitivity class that is purely cell-mediated and does not rely on antibodies. Sensitized CD4+ Th1 or CD8+ T cells recognize processed antigens on APCs and take 24 to 72 hours to recruit macrophages and produce an inflammatory response (classic examples include the Mantoux tuberculin test and poison ivy contact dermatitis).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Type I hypersensitivity</b> - Type I is an immediate reaction occurring within minutes, mediated by IgE and mast cells.\n• <b style=\"color:#2563eb\">Option (2): Type II hypersensitivity</b> - Type II is an antibody-mediated cytotoxic reaction (IgG/IgM).\n• <b style=\"color:#2563eb\">Option (3): Type III hypersensitivity</b> - Type III is an immune-complex-mediated reaction developing over 4 to 10 hours."
+  },
+  {
+    "id": 21,
+    "question": "Which type of vaccine contains weakened or inactivated forms of the pathogen to stimulate an immune response?",
+    "options": [
+      "Live attenuated vaccine",
+      "Inactivated vaccine",
+      "Subunit vaccine",
+      "mRNA vaccine"
+    ],
+    "correct_answer": "Inactivated vaccine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Inactivated vaccine</b> is designated in the key for whole-pathogen vaccines that use killed/inactivated microorganisms. Inactivated (killed) vaccines are produced by treating virulent pathogens with physical agents (heat) or chemical fixatives (formaldehyde, beta-propiolactone) to completely abolish infectivity while preserving antigenic surface epitopes to induce antibody responses.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Live attenuated vaccine</b> - Live attenuated vaccines contain viable microorganisms that are weakened by serial passage in non-human hosts.\n• <b style=\"color:#2563eb\">Option (3): Subunit vaccine</b> - Subunit vaccines contain only purified antigenic fragments or toxoids, not the intact inactivated pathogen.\n• <b style=\"color:#2563eb\">Option (4): mRNA vaccine</b> - mRNA vaccines contain lipid nanoparticle-encapsulated synthetic mRNA encoding an antigen, not pathogen bodies."
+  },
+  {
+    "id": 22,
+    "question": "Which type of vaccine uses specific components or proteins from the pathogen to elicit an immune response?",
+    "options": [
+      "Live attenuated vaccine",
+      "Inactivated vaccine",
+      "Subunit vaccine",
+      "mRNA vaccine"
+    ],
+    "correct_answer": "Subunit vaccine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Subunit vaccine</b> is correct. Subunit (acellular or conjugate) vaccines isolate specific protective antigenic moieties—such as recombinant surface proteins (e.g., Hepatitis B surface antigen HBsAg, HPV virus-like particles), capsular polysaccharides, or inactivated bacterial toxoids (tetanus, diphtheria)—rather than introducing the whole pathogen, thereby minimizing adverse reactogenicity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Live attenuated vaccine</b> - Uses the complete living, replication-competent weakened organism.\n• <b style=\"color:#2563eb\">Option (2): Inactivated vaccine</b> - Uses the entire killed bacterial or viral particle.\n• <b style=\"color:#2563eb\">Option (4): mRNA vaccine</b> - Delivers an mRNA genetic blueprint that directs host ribosomes to translate the antigen in vivo."
+  },
+  {
+    "id": 23,
+    "question": "Which type of vaccine uses a weakened but live form of the pathogen to generate an immune response?",
+    "options": [
+      "Live attenuated vaccine",
+      "Inactivated vaccine",
+      "Subunit vaccine",
+      "mRNA vaccine"
+    ],
+    "correct_answer": "Live attenuated vaccine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Live attenuated vaccine</b> is correct. Live attenuated vaccines contain viable bacteria or viruses that have been genetically or empirically modified to drastically reduce virulence while maintaining infectivity and low-level replication. Examples include MMR (measles, mumps, rubella), Sabin OPV, BCG, and yellow fever vaccines. They stimulate robust, long-lasting humoral and cell-mediated immunity without requiring frequent boosters.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Inactivated vaccine</b> - Pathogens in inactivated vaccines are completely killed and cannot replicate.\n• <b style=\"color:#2563eb\">Option (3): Subunit vaccine</b> - Subunit vaccines contain only purified non-living fractions of pathogens.\n• <b style=\"color:#2563eb\">Option (4): mRNA vaccine</b> - mRNA vaccines contain synthetic mRNA encoding antigens rather than viable organisms."
+  },
+  {
+    "id": 24,
+    "question": "Which type of vaccine delivers genetic material, such as mRNA, to instruct cells to produce antigens and trigger an immune response?",
+    "options": [
+      "Live attenuated vaccine",
+      "Inactivated vaccine",
+      "Subunit vaccine",
+      "mRNA vaccine"
+    ],
+    "correct_answer": "mRNA vaccine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): mRNA vaccine</b> is correct. Messenger RNA (mRNA) vaccines (such as the Pfizer-BioNTech BNT162b2 and Moderna mRNA-1273 COVID-19 vaccines) deliver synthetic, nucleoside-modified mRNA encapsulated in lipid nanoparticles (LNPs) into host cells. Host ribosomes translate the mRNA into the target antigen (e.g., viral Spike protein), which is presented on MHC Class I and II to elicit potent humoral neutralizing antibodies and cytotoxic T-cell immunity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Live attenuated vaccine</b> - Uses weakened whole viruses or bacteria.\n• <b style=\"color:#2563eb\">Option (2): Inactivated vaccine</b> - Uses killed microbial bodies.\n• <b style=\"color:#2563eb\">Option (3): Subunit vaccine</b> - Delivers pre-made purified antigen proteins directly rather than nucleic acid instructions."
+  },
+  {
+    "id": 25,
+    "question": "Cancer is a disease characterized by:",
+    "options": [
+      "Uncontrolled growth and division of abnormal cells",
+      "Inflammation of the body's organs",
+      "Loss of function in vital organs",
+      "Viral or bacterial infection"
+    ],
+    "correct_answer": "Uncontrolled growth and division of abnormal cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Uncontrolled growth and division of abnormal cells</b> is correct. Neoplasia (cancer) is fundamentally defined by self-sufficiency in growth signals, insensitivity to anti-growth signals, evasion of apoptosis, limitless replicative potential, sustained angiogenesis, and tissue invasion/metastasis. Somatic genetic and epigenetic alterations drive autonomous, unregulated proliferation of clonal abnormal cells that form tumors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Inflammation of the body's organs</b> - While tumor-promoting inflammation is an enabling characteristic, inflammation alone is an innate immune defense, not the defining pathology of cancer.\n• <b style=\"color:#2563eb\">Option (3): Loss of function in vital organs</b> - Organ dysfunction is a secondary clinical complication of tumor burden, not the basic definition.\n• <b style=\"color:#2563eb\">Option (4): Viral or bacterial infection</b> - While some oncoviruses (HPV, EBV) can initiate transformation, cancer itself is defined by autonomous abnormal host cell proliferation."
+  },
+  {
+    "id": 26,
+    "question": "Mutations in which type of genes are often associated with the development of cancer?",
+    "options": [
+      "Tumor suppressor genes",
+      "Oncogenes",
+      "Both tumor suppressor genes and oncogenes",
+      "Neither tumor suppressor genes nor oncogenes"
+    ],
+    "correct_answer": "Both tumor suppressor genes and oncogenes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Both tumor suppressor genes and oncogenes</b> is correct. Carcinogenesis is driven by collaborative genetic alterations across two major classes of cancer-critical genes:\n1. **Proto-oncogenes:** Gain-of-function (activating) mutations convert proto-oncogenes into oncogenes (e.g., *RAS*, *MYC*, *HER2*), driving dominant cell proliferation.\n2. **Tumor suppressor genes (TSGs):** Loss-of-function (inactivating) mutations inactivate TSGs (e.g., *TP53*, *RB1*, *BRCA1*), eliminating negative cell-cycle checkpoints and pro-apoptotic fail-safes (two-hit hypothesis).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Tumor suppressor genes</b> - TSG loss is vital in oncology, but oncogene activation also plays an essential role.\n• <b style=\"color:#2563eb\">Option (2): Oncogenes</b> - Oncogenes are essential drivers, but without concurrent loss of tumor suppressors, oncogene-induced senescence halts tumor growth.\n• <b style=\"color:#2563eb\">Option (4): Neither tumor suppressor genes nor oncogenes</b> - Mutations in these two classes are the universal genetic hallmarks of neoplasia."
+  }
+]

@@ -9,7 +9,7 @@
       "Potency"
     ],
     "correct_answer": "Therapeutic Index",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Therapeutic Index (TI) is a quantitative comparison of the safety and therapeutic effectiveness of a drug, defined mathematically as the ratio between the lethal dose in 50% of the population to the effective dose in 50% of the population: TI = LD50 / ED50. A higher therapeutic index indicates a wider safety margin between therapeutic efficacy and lethal toxicity.\n• Why Other Options Are Incorrect:\n  - Therapeutic Window: The range of drug concentrations in blood between the minimum effective concentration (MEC) and minimum toxic concentration (MTC).\n  - Efficacy: The maximal therapeutic response (Emax) that a drug can produce regardless of dose.\n  - Potency: The concentration or dose of a drug required to produce 50% of its maximum effect (EC50)."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Therapeutic Index (TI) is a quantitative comparison of the safety and therapeutic effectiveness of a drug, defined mathematically as the ratio between the lethal dose in 50% of the population to the effective dose in 50% of the population: TI = LD50 / ED50. A higher therapeutic index indicates a wider safety margin between therapeutic efficacy and lethal toxicity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Therapeutic Window:</b> The range of drug concentrations in blood between the minimum effective concentration (MEC) and minimum toxic concentration (MTC).\n• <b style=\"color:#2563eb\">Efficacy:</b> The maximal therapeutic response (Emax) that a drug can produce regardless of dose.\n• <b style=\"color:#2563eb\">Potency:</b> The concentration or dose of a drug required to produce 50% of its maximum effect (EC50)."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Quantity of a disinfectant"
     ],
     "correct_answer": "Efficacy of a disinfectant",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Phenol Coefficient (determined via the Rideal-Walker or Chick-Martin test) is a standardized measure of the antimicrobial efficacy and potency of a chemical disinfectant compared to pure phenol against a test bacterium (typically Salmonella enterica serovar Typhi or Staphylococcus aureus). A coefficient greater than 1 indicates the disinfectant is more potent than phenol.\n• Why Other Options Are Incorrect:\n  - Purity of a disinfectant: Measured by chemical analytical assays (HPLC or gas chromatography), not a biological phenol coefficient.\n  - Dilution of a disinfectant: The working concentration used, not the efficacy comparison ratio.\n  - Quantity of a disinfectant: Physical volume or mass."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Phenol Coefficient (determined via the Rideal-Walker or Chick-Martin test) is a standardized measure of the antimicrobial efficacy and potency of a chemical disinfectant compared to pure phenol against a test bacterium (typically Salmonella enterica serovar Typhi or Staphylococcus aureus). A coefficient greater than 1 indicates the disinfectant is more potent than phenol.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Purity of a disinfectant:</b> Measured by chemical analytical assays (HPLC or gas chromatography), not a biological phenol coefficient.\n• <b style=\"color:#2563eb\">Dilution of a disinfectant:</b> The working concentration used, not the efficacy comparison ratio.\n• <b style=\"color:#2563eb\">Quantity of a disinfectant:</b> Physical volume or mass."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Migraine"
     ],
     "correct_answer": "Peptic ulcer",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Omeprazole is a prototype Proton Pump Inhibitor (PPI). It irreversibly binds to and inhibits the gastric H+/K+-ATPase enzyme ('proton pump') on the apical membrane of parietal cells, suppressing basal and stimulated hydrochloric acid secretion to allow healing of peptic ulcers and gastroesophageal reflux disease (GERD).\n• Why Other Options Are Incorrect:\n  - Protein deficiency: Treated by nutritional replenishment and high-protein diet (e.g., in Kwashiorkor).\n  - Pellagra: Deficiency of Vitamin B3 (niacin) characterized by diarrhea, dermatitis, dementia, and death; treated with nicotinamide.\n  - Migraine: Treated with analgesics, triptans, or CGRP antagonists."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nOmeprazole is a prototype Proton Pump Inhibitor (PPI). It irreversibly binds to and inhibits the gastric H+/K+-ATPase enzyme ('proton pump') on the apical membrane of parietal cells, suppressing basal and stimulated hydrochloric acid secretion to allow healing of peptic ulcers and gastroesophageal reflux disease (GERD).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Protein deficiency:</b> Treated by nutritional replenishment and high-protein diet (e.g., in Kwashiorkor).\n• <b style=\"color:#2563eb\">Pellagra:</b> Deficiency of Vitamin B3 (niacin) characterized by diarrhea, dermatitis, dementia, and death; treated with nicotinamide.\n• <b style=\"color:#2563eb\">Migraine:</b> Treated with analgesics, triptans, or CGRP antagonists."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "Small group of patients"
     ],
     "correct_answer": "Few healthy volunteers",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Phase I clinical trials represent the first human administration of an investigational new drug (IND). They are conducted on a small cohort of healthy human volunteers (typically 20 to 80 individuals) primarily to evaluate safety, tolerability, pharmacokinetics (absorption, metabolism, excretion), and safe dosing ranges.\n• Why Other Options Are Incorrect:\n  - Laboratory animals: Preclinical research stage conducted prior to any human clinical trials.\n  - A single member: Unethical self-experimentation prohibited by GCP and the Declaration of Helsinki.\n  - Small group of patients: Typically Phase II trials (100–300 patients) which test therapeutic efficacy and side effects in target disease populations."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPhase I clinical trials represent the first human administration of an investigational new drug (IND). They are conducted on a small cohort of healthy human volunteers (typically 20 to 80 individuals) primarily to evaluate safety, tolerability, pharmacokinetics (absorption, metabolism, excretion), and safe dosing ranges.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Laboratory animals:</b> Preclinical research stage conducted prior to any human clinical trials.\n• <b style=\"color:#2563eb\">A single member:</b> Unethical self-experimentation prohibited by GCP and the Declaration of Helsinki.\n• <b style=\"color:#2563eb\">Small group of patients:</b> Typically Phase II trials (100–300 patients) which test therapeutic efficacy and side effects in target disease populations."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "Nursing care"
     ],
     "correct_answer": "Adherence",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: By World Health Organization (WHO) definition, Adherence is the extent to which a patient's behavior—taking medication, following a diet, and/or executing lifestyle changes—corresponds with agreed recommendations from a healthcare provider, emphasizing patient involvement and agreement.\n• Why Other Options Are Incorrect:\n  - Patient management: The broader system of medical care and decision-making executed by healthcare professionals.\n  - Concordance: An agreed negotiation process between clinician and patient regarding treatment choices.\n  - Nursing care: The professional clinical support provided by nurses."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBy World Health Organization (WHO) definition, Adherence is the extent to which a patient's behavior—taking medication, following a diet, and/or executing lifestyle changes—corresponds with agreed recommendations from a healthcare provider, emphasizing patient involvement and agreement.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Patient management:</b> The broader system of medical care and decision-making executed by healthcare professionals.\n• <b style=\"color:#2563eb\">Concordance:</b> An agreed negotiation process between clinician and patient regarding treatment choices.\n• <b style=\"color:#2563eb\">Nursing care:</b> The professional clinical support provided by nurses."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "Hypnotherapy"
     ],
     "correct_answer": "Placebo",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A placebo is an inert substance (such as a sugar tablet or sterile saline injection) containing no active pharmaceutical ingredient (API) and designed to mimic the physical appearance of real medicine. It can elicit beneficial psychological and neurobiological responses (the 'placebo effect') through patient expectation and conditioning.\n• Why Other Options Are Incorrect:\n  - Active tablet: Contains the pharmacologically active therapeutic ingredient.\n  - Psychotherapy: Psychological counseling and talk therapy, not a tablet dosage form.\n  - Hypnotherapy: A guided trance technique used in cognitive behavioral therapy."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nA placebo is an inert substance (such as a sugar tablet or sterile saline injection) containing no active pharmaceutical ingredient (API) and designed to mimic the physical appearance of real medicine. It can elicit beneficial psychological and neurobiological responses (the 'placebo effect') through patient expectation and conditioning.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Active tablet:</b> Contains the pharmacologically active therapeutic ingredient.\n• <b style=\"color:#2563eb\">Psychotherapy:</b> Psychological counseling and talk therapy, not a tablet dosage form.\n• <b style=\"color:#2563eb\">Hypnotherapy:</b> A guided trance technique used in cognitive behavioral therapy."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
       "Adenine deficiency"
     ],
     "correct_answer": "Adenosine deaminase deficiency",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: On September 14, 1990, the first approved clinical gene therapy was performed by William French Anderson, Michael Blaese, and Kenneth Culver on a 4-year-old girl named Ashanti DeSilva suffering from Severe Combined Immunodeficiency (SCID) caused by Adenosine Deaminase (ADA) Deficiency. Her T cells were genetically corrected ex vivo using a retroviral vector carrying the functional human ADA gene.\n• Why Other Options Are Incorrect:\n  - Adenosine deficiency: Adenosine is a purine nucleoside, not the enzyme.\n  - Growth deficiency: Treated with recombinant human growth hormone (somatotropin).\n  - Adenine deficiency: Adenine is a purine nucleobase."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nOn September 14, 1990, the first approved clinical gene therapy was performed by William French Anderson, Michael Blaese, and Kenneth Culver on a 4-year-old girl named Ashanti DeSilva suffering from Severe Combined Immunodeficiency (SCID) caused by Adenosine Deaminase (ADA) Deficiency. Her T cells were genetically corrected ex vivo using a retroviral vector carrying the functional human ADA gene.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Adenosine deficiency:</b> Adenosine is a purine nucleoside, not the enzyme.\n• <b style=\"color:#2563eb\">Growth deficiency:</b> Treated with recombinant human growth hormone (somatotropin).\n• <b style=\"color:#2563eb\">Adenine deficiency:</b> Adenine is a purine nucleobase."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
       "Ethylene oxide sterilization"
     ],
     "correct_answer": "Filtration",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the official answer key, Option (2) Filtration is selected (membrane filtration using 0.22 µm pore size membrane filters is universally and routinely employed in pharmaceutical cleanrooms for heat-labile parenterals, protein therapeutics, and ophthalmic solutions without thermal breakdown). Autoclaving is the gold standard for heat-stable aqueous solutions.\n• Why Other Options Are Incorrect:\n  - Autoclaving: Primary terminal sterilization for thermostable parenterals, but filtration is designated in the key.\n  - Radiation: Used for dry surgical devices, disposable plastics, and topical packaging.\n  - Ethylene oxide sterilization: Alkylating gas used for heat- and moisture-sensitive surgical equipment and plastic items."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs marked in the official answer key, Option (2) Filtration is selected (membrane filtration using 0.22 µm pore size membrane filters is universally and routinely employed in pharmaceutical cleanrooms for heat-labile parenterals, protein therapeutics, and ophthalmic solutions without thermal breakdown). Autoclaving is the gold standard for heat-stable aqueous solutions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Autoclaving:</b> Primary terminal sterilization for thermostable parenterals, but filtration is designated in the key.\n• <b style=\"color:#2563eb\">Radiation:</b> Used for dry surgical devices, disposable plastics, and topical packaging.\n• <b style=\"color:#2563eb\">Ethylene oxide sterilization:</b> Alkylating gas used for heat- and moisture-sensitive surgical equipment and plastic items."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
       "Candida albicans"
     ],
     "correct_answer": "Pseudomonas aeruginosa",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pseudomonas aeruginosa is an opportunistic, non-fastidious Gram-negative environmental bacterium with minimal nutritional requirements, capable of multiplying even in distilled water, saline, creams, and multi-dose antiseptic solutions. It is notoriously resistant to chemical preservatives and quaternary ammonium compounds, making it the most frequent cause of aqueous pharmaceutical product spoilage and bio-burden recalls.\n• Why Other Options Are Incorrect:\n  - E. coli: Gut bacterium that indicates sewage/fecal contamination, but rarely thrives in preserved chemical solutions.\n  - Staphylococcus aureus: Commensal skin bacterium found in human handling contamination, but less versatile in nutrient-poor aqueous formulations.\n  - Candida albicans: Opportunistic yeast occasionally found in creams, but less prevalent in industrial fluid systems than Pseudomonas."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPseudomonas aeruginosa is an opportunistic, non-fastidious Gram-negative environmental bacterium with minimal nutritional requirements, capable of multiplying even in distilled water, saline, creams, and multi-dose antiseptic solutions. It is notoriously resistant to chemical preservatives and quaternary ammonium compounds, making it the most frequent cause of aqueous pharmaceutical product spoilage and bio-burden recalls.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">E. coli:</b> Gut bacterium that indicates sewage/fecal contamination, but rarely thrives in preserved chemical solutions.\n• <b style=\"color:#2563eb\">Staphylococcus aureus:</b> Commensal skin bacterium found in human handling contamination, but less versatile in nutrient-poor aqueous formulations.\n• <b style=\"color:#2563eb\">Candida albicans:</b> Opportunistic yeast occasionally found in creams, but less prevalent in industrial fluid systems than Pseudomonas."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
       "To evaluate the efficacy of disinfectants"
     ],
     "correct_answer": "To assess the performance of culture media",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Growth Promotion Test (GPT) is a mandatory pharmacopeial quality control procedure (USP <71> / EP 2.6.1) performed on each newly prepared or received batch of culture media. It ensures that the media is capable of supporting the growth of a small inoculum (typically <100 CFU) of specified standard pharmacopeial control strains.\n• Why Other Options Are Incorrect:\n  - To determine effectiveness of antimicrobial agents: Accomplished by Antimicrobial Effectiveness Testing (AET / USP <51>).\n  - To determine antibiotic susceptibility: Performed using Kirby-Bauer or MIC broth microdilution assays.\n  - To evaluate disinfectant efficacy: Assessed using AOAC Use-Dilution or suspension assays."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Growth Promotion Test (GPT) is a mandatory pharmacopeial quality control procedure (USP <71> / EP 2.6.1) performed on each newly prepared or received batch of culture media. It ensures that the media is capable of supporting the growth of a small inoculum (typically <100 CFU) of specified standard pharmacopeial control strains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To determine effectiveness of antimicrobial agents:</b> Accomplished by Antimicrobial Effectiveness Testing (AET / USP <51>).\n• <b style=\"color:#2563eb\">To determine antibiotic susceptibility:</b> Performed using Kirby-Bauer or MIC broth microdilution assays.\n• <b style=\"color:#2563eb\">To evaluate disinfectant efficacy:</b> Assessed using AOAC Use-Dilution or suspension assays."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "Polymerase chain reaction (PCR)"
     ],
     "correct_answer": "Limulus amebocyte lysate (LAL) test",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Limulus Amebocyte Lysate (LAL) test (Bacterial Endotoxins Test, USP <85>) utilizes an aqueous extract of amoebocytes from the Atlantic horseshoe crab (Limulus polyphemus). In the presence of trace Gram-negative bacterial lipopolysaccharide (endotoxin), a clotting cascade enzyme system activates, causing detectable gel-clot formation, turbidity, or chromogenic color development.\n• Why Other Options Are Incorrect:\n  - Kirby-Bauer method: Evaluates bacterial susceptibility to antibiotic disks.\n  - Agar diffusion method: Used for microbiological potency assays of antibiotics or preservative testing.\n  - Polymerase chain reaction (PCR): Amplifies DNA sequences; cannot quantify biologically active pyrogenic lipopolysaccharides."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Limulus Amebocyte Lysate (LAL) test (Bacterial Endotoxins Test, USP <85>) utilizes an aqueous extract of amoebocytes from the Atlantic horseshoe crab (Limulus polyphemus). In the presence of trace Gram-negative bacterial lipopolysaccharide (endotoxin), a clotting cascade enzyme system activates, causing detectable gel-clot formation, turbidity, or chromogenic color development.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Kirby-Bauer method:</b> Evaluates bacterial susceptibility to antibiotic disks.\n• <b style=\"color:#2563eb\">Agar diffusion method:</b> Used for microbiological potency assays of antibiotics or preservative testing.\n• <b style=\"color:#2563eb\">Polymerase chain reaction (PCR):</b> Amplifies DNA sequences; cannot quantify biologically active pyrogenic lipopolysaccharides."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "Ointments"
     ],
     "correct_answer": "Tablets",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Tablets (and oral capsules, syrups) are non-sterile solid oral dosage forms. They are manufactured under strict current Good Manufacturing Practices (cGMP) with controlled microbiological bio-burden limits (USP <1111>), but they are not required to be completely sterile, unlike parenterals and ophthalmic preparations.\n• Why Other Options Are Incorrect:\n  - Injectable solution: Parenteral formulation entering sterile blood or deep tissue; must be 100% sterile.\n  - Eye drops: Ophthalmic solution applied directly to the conjunctival sac; absolute sterility is legally mandated.\n  - Ointments: Ophthalmic ointments must be sterile; topical ointments are non-sterile, but tablets are the quintessential oral non-sterile form."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nTablets (and oral capsules, syrups) are non-sterile solid oral dosage forms. They are manufactured under strict current Good Manufacturing Practices (cGMP) with controlled microbiological bio-burden limits (USP <1111>), but they are not required to be completely sterile, unlike parenterals and ophthalmic preparations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Injectable solution:</b> Parenteral formulation entering sterile blood or deep tissue; must be 100% sterile.\n• <b style=\"color:#2563eb\">Eye drops:</b> Ophthalmic solution applied directly to the conjunctival sac; absolute sterility is legally mandated.\n• <b style=\"color:#2563eb\">Ointments:</b> Ophthalmic ointments must be sterile; topical ointments are non-sterile, but tablets are the quintessential oral non-sterile form."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "Candida albicans"
     ],
     "correct_answer": "Bacillus subtilis",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacillus subtilis (specifically Bacillus atrophaeus / B. subtilis spores) is the standard biological indicator organism for dry heat and ethylene oxide sterilization processes due to its exceptional resistance to dehydration and thermal inactivation.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Highly susceptible vegetative Gram-negative rod; easily killed at 60°C; never used as a sterilization bio-indicator.\n  - Staphylococcus aureus: Vegetative bacterium with no endospores; unsuitable as a sterilization challenge.\n  - Candida albicans: Eukaryotic yeast without extreme heat resistance."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBacillus subtilis (specifically Bacillus atrophaeus / B. subtilis spores) is the standard biological indicator organism for dry heat and ethylene oxide sterilization processes due to its exceptional resistance to dehydration and thermal inactivation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Highly susceptible vegetative Gram-negative rod; easily killed at 60°C; never used as a sterilization bio-indicator.\n• <b style=\"color:#2563eb\">Staphylococcus aureus:</b> Vegetative bacterium with no endospores; unsuitable as a sterilization challenge.\n• <b style=\"color:#2563eb\">Candida albicans:</b> Eukaryotic yeast without extreme heat resistance."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Environmental Monitoring (EM) in pharmaceutical aseptic cleanrooms systematically samples air (viable and non-viable particles), surfaces (contact plates, swabs), and personnel fingertips to detect objectionable pathogenic microbes, verify the ongoing biocidal efficacy of cleaning and disinfection routines, and provide documentary proof of compliance with regulatory standards (FDA, EMA, WHO).\n• Why Other Options Are Incorrect:\n  - Options 1, 2, and 3 are all core integral pillars of a pharmaceutical cleanroom environmental monitoring program, making 'All of the above' the correct composite choice."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nEnvironmental Monitoring (EM) in pharmaceutical aseptic cleanrooms systematically samples air (viable and non-viable particles), surfaces (contact plates, swabs), and personnel fingertips to detect objectionable pathogenic microbes, verify the ongoing biocidal efficacy of cleaning and disinfection routines, and provide documentary proof of compliance with regulatory standards (FDA, EMA, WHO).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Options 1, 2, and 3 are all core integral pillars of a pharmaceutical cleanroom environmental monitoring program, making 'All of the above' the correct composite choice."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "Autoclave"
     ],
     "correct_answer": "Autoclave",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: An autoclave is a pressurized steam sterilization apparatus (thermal processing equipment) used to sterilize instruments, media, and biohazardous waste. It is not an aerodynamic primary containment enclosure or engineering barrier where aseptic product handling occurs.\n• Why Other Options Are Incorrect:\n  - Laminar flow hood: Provides unidirectional HEPA-filtered clean air (ISO 5) for aseptic manipulations.\n  - Isolator: A sealed physical containment unit with glove ports providing complete barrier separation between operator and product.\n  - Biological safety cabinet (BSC): Negative-pressure ventilated containment hood that protects the product, operator, and environment."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAn autoclave is a pressurized steam sterilization apparatus (thermal processing equipment) used to sterilize instruments, media, and biohazardous waste. It is not an aerodynamic primary containment enclosure or engineering barrier where aseptic product handling occurs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Laminar flow hood:</b> Provides unidirectional HEPA-filtered clean air (ISO 5) for aseptic manipulations.\n• <b style=\"color:#2563eb\">Isolator:</b> A sealed physical containment unit with glove ports providing complete barrier separation between operator and product.\n• <b style=\"color:#2563eb\">Biological safety cabinet (BSC):</b> Negative-pressure ventilated containment hood that protects the product, operator, and environment."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "To evaluate the quality of culture media"
     ],
     "correct_answer": "To determine the susceptibility of microorganisms to antibiotics",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In disk diffusion susceptibility testing (Kirby-Bauer assay), the clear, circular area devoid of bacterial growth surrounding an antibiotic-impregnated paper disk is the Zone of Inhibition. The diameter of this zone is directly proportional to the susceptibility of the bacterial strain to the antimicrobial agent.\n• Why Other Options Are Incorrect:\n  - To measure growth of microorganisms: Growth is measured turbidimetrically or by colony counts.\n  - To assess effectiveness of disinfectants: Typically performed via use-dilution or suspension tests, though well-diffusion is sometimes adapted.\n  - To evaluate quality of culture media: Accomplished by growth promotion testing."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn disk diffusion susceptibility testing (Kirby-Bauer assay), the clear, circular area devoid of bacterial growth surrounding an antibiotic-impregnated paper disk is the Zone of Inhibition. The diameter of this zone is directly proportional to the susceptibility of the bacterial strain to the antimicrobial agent.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To measure growth of microorganisms:</b> Growth is measured turbidimetrically or by colony counts.\n• <b style=\"color:#2563eb\">To assess effectiveness of disinfectants:</b> Typically performed via use-dilution or suspension tests, though well-diffusion is sometimes adapted.\n• <b style=\"color:#2563eb\">To evaluate quality of culture media:</b> Accomplished by growth promotion testing."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "Immunological assays"
     ],
     "correct_answer": "Biochemical tests",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Biochemical tests (such as catalase, oxidase, carbohydrate fermentation, indole production, Voges-Proskauer, and citrate utilization) identify bacteria by detecting specific enzymatic activities and end products (acids, gases, indole, acetoin) of their distinct metabolic pathways.\n• Why Other Options Are Incorrect:\n  - Gram staining: Morphological and structural differential stain of bacterial cell wall peptidoglycan.\n  - Polymerase chain reaction (PCR): Detects and amplifies specific DNA or RNA sequences.\n  - Immunological assays: Rely on specific antigen-antibody binding reactions."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBiochemical tests (such as catalase, oxidase, carbohydrate fermentation, indole production, Voges-Proskauer, and citrate utilization) identify bacteria by detecting specific enzymatic activities and end products (acids, gases, indole, acetoin) of their distinct metabolic pathways.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Gram staining:</b> Morphological and structural differential stain of bacterial cell wall peptidoglycan.\n• <b style=\"color:#2563eb\">Polymerase chain reaction (PCR):</b> Detects and amplifies specific DNA or RNA sequences.\n• <b style=\"color:#2563eb\">Immunological assays:</b> Rely on specific antigen-antibody binding reactions."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "Maximum of 100 viable particles per cubic meter of air"
     ],
     "correct_answer": "Maximum of 100 colony-forming units per cubic meter of air",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As marked in the answer key, Option (3) is designated. (Note: Under historical US Federal Standard 209E, a Class 100 cleanroom [equivalent to ISO Class 5 or Grade A/B] was originally defined physically as having no more than 100 particles of size 0.5 µm or larger per cubic foot of air; the book answer key marks Option 3).\n• Why Other Options Are Incorrect:\n  - Maximum of 100 particles per cubic meter: Under ISO 5, the particle limit is 3,520 particles/m³ (>=0.5 µm).\n  - Maximum of 100 microorganisms / viable particles: In Grade A cleanrooms, microbial limits are strictly <1 CFU/m³."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs marked in the answer key, Option (3) is designated. (Note: Under historical US Federal Standard 209E, a Class 100 cleanroom [equivalent to ISO Class 5 or Grade A/B] was originally defined physically as having no more than 100 particles of size 0.5 µm or larger per cubic foot of air; the book answer key marks Option 3).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Maximum of 100 particles per cubic meter:</b> Under ISO 5, the particle limit is 3,520 particles/m³ (>=0.5 µm).\n• <b style=\"color:#2563eb\">Maximum of 100 microorganisms / viable particles:</b> In Grade A cleanrooms, microbial limits are strictly <1 CFU/m³."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "Hand hygiene assessment"
     ],
     "correct_answer": "Hand hygiene assessment",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In the answer key, Option (4) Hand hygiene assessment is designated as being separate from facility and equipment disinfection validation (hand hygiene relates to personnel garbing/sanitization rather than environmental disinfection of hard facility surfaces and air handling systems).\n• Why Other Options Are Incorrect:\n  - Swab sampling: Standard method for recovering microbes from irregular environmental cleanroom surfaces after disinfection.\n  - Air sampling: Evaluates bioaerosols before and after room decontamination (e.g., VHP).\n  - Surface monitoring: Contact plate (RODAC) testing to assess residual surface bioburden."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn the answer key, Option (4) Hand hygiene assessment is designated as being separate from facility and equipment disinfection validation (hand hygiene relates to personnel garbing/sanitization rather than environmental disinfection of hard facility surfaces and air handling systems).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Swab sampling:</b> Standard method for recovering microbes from irregular environmental cleanroom surfaces after disinfection.\n• <b style=\"color:#2563eb\">Air sampling:</b> Evaluates bioaerosols before and after room decontamination (e.g., VHP).\n• <b style=\"color:#2563eb\">Surface monitoring:</b> Contact plate (RODAC) testing to assess residual surface bioburden."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "All of the above"
     ],
     "correct_answer": "All of the above",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Microbial proliferation in pharmaceutical dosage forms is governed by environmental and formulation factors, including storage temperature, formulation pH, water activity (aw), and nutrient availability (excipients, starches, sugars). Controlling all these parameters is crucial to prevent bioburden proliferation.\n• Why Other Options Are Incorrect:\n  - Temperature, pH, and Nutrient availability are all critical independent factors; thus 'All of the above' is the comprehensive correct answer."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMicrobial proliferation in pharmaceutical dosage forms is governed by environmental and formulation factors, including storage temperature, formulation pH, water activity (aw), and nutrient availability (excipients, starches, sugars). Controlling all these parameters is crucial to prevent bioburden proliferation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n- Temperature, pH, and Nutrient availability are all critical independent factors; thus 'All of the above' is the comprehensive correct answer."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
       "To measure the growth of microorganisms"
     ],
     "correct_answer": "To detect the presence of endotoxins",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Pyrogen Test (including the classical rabbit pyrogen test and Limulus Amebocyte Lysate/LAL test) is performed on injectable parenterals to detect the presence of fever-inducing substances (primarily bacterial endotoxins/LPS from Gram-negative bacterial outer membranes) that could cause life-threatening septic shock and febrile reactions in patients.\n• Why Other Options Are Incorrect:\n  - To assess sterilization effectiveness: Tested using biological indicators and sterility test cultures.\n  - To evaluate quality of water: Pyrogen testing is performed on water for injection (WFI), but the fundamental goal of the test itself is detecting endotoxins.\n  - To measure growth of microorganisms: Measured by spectrophotometry or viable counts."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Pyrogen Test (including the classical rabbit pyrogen test and Limulus Amebocyte Lysate/LAL test) is performed on injectable parenterals to detect the presence of fever-inducing substances (primarily bacterial endotoxins/LPS from Gram-negative bacterial outer membranes) that could cause life-threatening septic shock and febrile reactions in patients.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To assess sterilization effectiveness:</b> Tested using biological indicators and sterility test cultures.\n• <b style=\"color:#2563eb\">To evaluate quality of water:</b> Pyrogen testing is performed on water for injection (WFI), but the fundamental goal of the test itself is detecting endotoxins.\n• <b style=\"color:#2563eb\">To measure growth of microorganisms:</b> Measured by spectrophotometry or viable counts."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
       "Dilution and plating techniques"
     ],
     "correct_answer": "Nucleic acid amplification techniques",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Rapid Microbiological Methods (RMMs) replace traditional multi-day incubation culture methods with rapid detection technologies. Nucleic Acid Amplification Techniques (NAAT, such as quantitative real-time PCR) can identify and quantify microbial contamination within hours with high sensitivity and specificity.\n• Why Other Options Are Incorrect:\n  - Culture-based methods: Traditional standard methods requiring 3 to 14 days of incubation.\n  - Microscopic examination: Cannot assess cell viability or distinguish closely related microbial species without staining/growth.\n  - Dilution and plating techniques: Classic compendial agar methods requiring days to yield visible colonies."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nRapid Microbiological Methods (RMMs) replace traditional multi-day incubation culture methods with rapid detection technologies. Nucleic Acid Amplification Techniques (NAAT, such as quantitative real-time PCR) can identify and quantify microbial contamination within hours with high sensitivity and specificity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Culture-based methods:</b> Traditional standard methods requiring 3 to 14 days of incubation.\n• <b style=\"color:#2563eb\">Microscopic examination:</b> Cannot assess cell viability or distinguish closely related microbial species without staining/growth.\n• <b style=\"color:#2563eb\">Dilution and plating techniques:</b> Classic compendial agar methods requiring days to yield visible colonies."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
       "Staphylococcus aureus"
     ],
     "correct_answer": "Bacillus subtilis",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Bacillus subtilis (B. atrophaeus) endospores exhibit high physiological resistance to dry heat, ethylene oxide gas, and radiation, making them the standard pharmacopeial biological indicator organism to validate the lethal efficacy and sterility assurance level (SAL) of sterilization processes.\n• Why Other Options Are Incorrect:\n  - Escherichia coli: Fragile vegetative rod, readily killed by minimal heat or disinfectants.\n  - Pseudomonas aeruginosa: Vegetative rod easily destroyed by heat, pasteurization, and standard sterilization.\n  - Staphylococcus aureus: Vegetative Gram-positive coccus, sensitive to heat sterilization."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBacillus subtilis (B. atrophaeus) endospores exhibit high physiological resistance to dry heat, ethylene oxide gas, and radiation, making them the standard pharmacopeial biological indicator organism to validate the lethal efficacy and sterility assurance level (SAL) of sterilization processes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Escherichia coli:</b> Fragile vegetative rod, readily killed by minimal heat or disinfectants.\n• <b style=\"color:#2563eb\">Pseudomonas aeruginosa:</b> Vegetative rod easily destroyed by heat, pasteurization, and standard sterilization.\n• <b style=\"color:#2563eb\">Staphylococcus aureus:</b> Vegetative Gram-positive coccus, sensitive to heat sterilization."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
       "Streak plate method"
     ],
     "correct_answer": "Streak plate method",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Streak plate method is a qualitative dilution method used solely to isolate pure colonies from a mixed bacterial culture on an agar surface. Because colonies overlap and the sample volume is neither measured nor evenly distributed, it cannot be used for quantitative microbial enumeration.\n• Why Other Options Are Incorrect:\n  - Membrane filtration: Standard quantitative method (USP <61>) for large fluid volumes where bacteria are retained on a filter and counted.\n  - Pour plate method: Compendial quantitative method where a known aliquot of sample is mixed with molten agar and colonies counted.\n  - Spread plate method: Compendial quantitative method where a measured volume is spread over agar to count CFUs."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Streak plate method is a qualitative dilution method used solely to isolate pure colonies from a mixed bacterial culture on an agar surface. Because colonies overlap and the sample volume is neither measured nor evenly distributed, it cannot be used for quantitative microbial enumeration.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Membrane filtration:</b> Standard quantitative method (USP <61>) for large fluid volumes where bacteria are retained on a filter and counted.\n• <b style=\"color:#2563eb\">Pour plate method:</b> Compendial quantitative method where a known aliquot of sample is mixed with molten agar and colonies counted.\n• <b style=\"color:#2563eb\">Spread plate method:</b> Compendial quantitative method where a measured volume is spread over agar to count CFUs."
   },
   {
     "id": 25,
@@ -297,6 +297,6 @@
       "To measure the sterility of pharmaceutical products"
     ],
     "correct_answer": "To evaluate the antimicrobial activity of preservatives",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Preservative Efficacy Test (PET or Antimicrobial Effectiveness Testing / USP <51>) challenges multi-dose aqueous pharmaceutical formulations (oral liquids, topicals, ophthalmic drops) with standard inocula of bacteria and fungi (S. aureus, E. coli, P. aeruginosa, C. albicans, A. brasiliensis) to verify that the antimicrobial preservative system effectively kills or prevents the proliferation of microorganisms introduced during repeated patient use.\n• Why Other Options Are Incorrect:\n  - To determine the effectiveness of disinfectants: Measured by hard-surface disinfectant qualification assays.\n  - To assess the growth of microorganisms: General microbial enumeration or bioburden monitoring.\n  - To measure sterility: Conducted via the Sterility Test (USP <71>)."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Preservative Efficacy Test (PET or Antimicrobial Effectiveness Testing / USP <51>) challenges multi-dose aqueous pharmaceutical formulations (oral liquids, topicals, ophthalmic drops) with standard inocula of bacteria and fungi (S. aureus, E. coli, P. aeruginosa, C. albicans, A. brasiliensis) to verify that the antimicrobial preservative system effectively kills or prevents the proliferation of microorganisms introduced during repeated patient use.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">To determine the effectiveness of disinfectants:</b> Measured by hard-surface disinfectant qualification assays.\n• <b style=\"color:#2563eb\">To assess the growth of microorganisms:</b> General microbial enumeration or bioburden monitoring.\n• <b style=\"color:#2563eb\">To measure sterility:</b> Conducted via the Sterility Test (USP <71>)."
   }
 ]

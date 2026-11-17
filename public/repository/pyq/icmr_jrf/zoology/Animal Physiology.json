@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "question": "Kennel cough in dogs is caused by",
+    "options": [
+      "Brucella melitensis",
+      "Corynebacterium renale",
+      "Bordetella bronchiseptica",
+      "Bacillus anthracis"
+    ],
+    "correct_answer": "Bordetella bronchiseptica",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Bordetella bronchiseptica</b> is correct because canine infectious tracheobronchitis (commonly called kennel cough) is primarily caused by the Gram-negative coccobacillus bacterium *Bordetella bronchiseptica* (frequently in coinfection with canine parainfluenza virus or canine adenovirus). It binds to ciliated epithelial cells of the canine respiratory tract, paralyzing mucociliary clearance and causing a harsh, dry, hacking cough.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Brucella melitensis</b> - *Brucella melitensis* causes brucellosis (Malta fever) in goats and sheep and undulant fever in humans, not canine kennel cough.\n• <b style=\"color:#2563eb\">Option (2): Corynebacterium renale</b> - *Corynebacterium renale* causes contagious bovine pyelonephritis and cystitis in cattle.\n• <b style=\"color:#2563eb\">Option (4): Bacillus anthracis</b> - *Bacillus anthracis* is the spore-forming Gram-positive agent of anthrax."
+  },
+  {
+    "id": 2,
+    "question": "Yolk sac route inoculation should be done on",
+    "options": [
+      "6-8 day's old fertile eggs",
+      "10-12 day's old fertile eggs",
+      "12-14 day's old fertile eggs",
+      "14-16 day's old fertile eggs"
+    ],
+    "correct_answer": "10-12 day's old fertile eggs",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 10-12 day's old fertile eggs</b> is correct because in virology and vaccine production, inoculation of embryonated chicken eggs via the yolk sac route is optimally performed on 10 to 12-day-old fertile eggs (or 5-8 days for certain chlamydial/rickettsial agents, with 10-12 days standard for specific viral cultures in veterinary protocols) where the vascularized yolk sac is adequately developed to support robust pathogen propagation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 6-8 day's old fertile eggs</b> - Embryos at 6–8 days are utilized for specific avian encephalomyelitis or rickettsiae, but 10–12 days is the standard designated answer.\n• <b style=\"color:#2563eb\">Option (3): 12-14 day's old fertile eggs</b> - At 12–14 days, the chorioallantoic membrane (CAM) or intravenous route is typically preferred.\n• <b style=\"color:#2563eb\">Option (4): 14-16 day's old fertile eggs</b> - Late-stage eggs have reduced relative yolk volume as the yolk is rapidly absorbed into the abdominal cavity."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is not an occupational zoonotic disease?",
+    "options": [
+      "Brucellosis",
+      "Plague",
+      "Anthrax",
+      "Salmonellosis"
+    ],
+    "correct_answer": "Salmonellosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Salmonellosis</b> is correct because while salmonellosis is indeed zoonotic, it is categorized primarily as a common foodborne and waterborne diarrheal illness acquired by the general public via consumption of contaminated food (poultry, eggs, unpasteurized milk). In contrast, anthrax, brucellosis, and plague are classic occupational zoonoses tied to handling livestock, wool/hides (wool-sorter's disease), or veterinary/field work.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Brucellosis</b> - A major occupational zoonosis affecting veterinarians, abattoir workers, and livestock handlers via direct contact with infected placenta, fetal tissues, or milk.\n• <b style=\"color:#2563eb\">Option (2): Plague</b> - An occupational hazard for field biologists, wildlife veterinarians, and pest control workers handling infected rodents and fleas.\n• <b style=\"color:#2563eb\">Option (3): Anthrax</b> - The prototypical occupational disease among tannery, wool-sorting, and slaughterhouse workers exposed to *Bacillus anthracis* spores."
+  },
+  {
+    "id": 4,
+    "question": "Ladybird beetle is used as biological control for:",
+    "options": [
+      "Mosquitoes",
+      "Aphids",
+      "Sparrows",
+      "Cockroaches"
+    ],
+    "correct_answer": "Aphids",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Aphids</b> is correct because ladybird beetles (family Coccinellidae, such as *Coccinella septempunctata*), both in their larval and adult stages, are voracious predators of plant-sucking aphids (greenfly and blackfly). A single ladybird larva can devour hundreds of aphids, making them one of the most effective and widely utilized classical biocontrol agents in agriculture and horticulture.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mosquitoes</b> - Larvivorous fish (such as *Gambusia affinis*) and predatory copepods or dragonflies are used against mosquitoes, not ladybirds.\n• <b style=\"color:#2563eb\">Option (3): Sparrows</b> - Sparrows are birds; ladybird beetles cannot control avian populations.\n• <b style=\"color:#2563eb\">Option (4): Cockroaches</b> - Cockroaches are parasitized by ensign wasps (*Evaniidae*), not biocontrolled by ladybirds."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following insect can be used for production of formic acid?",
+    "options": [
+      "Bed bugs",
+      "Crickets",
+      "Locusts",
+      "Red ants"
+    ],
+    "correct_answer": "Red ants",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Red ants</b> is correct because red ants (such as *Formica rufa* of the family Formicidae) synthesize and store large amounts of concentrated formic acid (methanoic acid, HCOOH) in abdominal poison glands. Formic acid derives its very name from *Formica*, the Latin word for ant, as it was historically isolated by distilling masses of ants.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Bed bugs</b> - Bed bugs produce aliphatic aldehydes (e.g., (E)-2-octenal) as pheromones, not formic acid.\n• <b style=\"color:#2563eb\">Option (2): Crickets</b> - Crickets lack acid-producing venom glands.\n• <b style=\"color:#2563eb\">Option (3): Locusts</b> - Locusts lack formic acid defensive mechanisms."
+  },
+  {
+    "id": 6,
+    "question": "Frogs have the ability to change the colour to hide them from their enemies. This protective coloration is known as:",
+    "options": [
+      "Aestivation",
+      "Concealment",
+      "Mimicry",
+      "Hibernation"
+    ],
+    "correct_answer": "Mimicry",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Mimicry</b> is designated as the correct response in the examination key. In general protective biology, physiological color change mediated by melanophore-stimulating hormone (MSH) dispersing melanin granules in dermal chromatophores allows amphibians to resemble their environmental background (often categorized under protective crypsis/mimicry to deceive predators).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Aestivation</b> - Aestivation is a state of metabolic dormancy during dry, hot summer months, not a coloration mechanism.\n• <b style=\"color:#2563eb\">Option (2): Concealment</b> - While ecological literature often uses concealment/camouflage, Option (3) is explicitly designated in the official key.\n• <b style=\"color:#2563eb\">Option (4): Hibernation</b> - Hibernation is winter dormancy to survive freezing temperatures and scarce food."
+  },
+  {
+    "id": 7,
+    "question": "Sabin-Feldman dye test is used in the diagnosis of",
+    "options": [
+      "Toxoplasmosis",
+      "Amoebiasis",
+      "Cryptosporidiosis",
+      "Trypanosomiasis"
+    ],
+    "correct_answer": "Toxoplasmosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Toxoplasmosis</b> is correct because the Sabin-Feldman dye test is the classic gold-standard serological assay for toxoplasmosis (caused by the apicomplexan parasite *Toxoplasma gondii*). In the presence of specific anti-*Toxoplasma* antibodies and complement, the parasite's cell membrane is lysed, preventing live tachyzoites from taking up alkaline methylene blue stain.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Amoebiasis</b> - Diagnosed by stool microscopy, ELISA for *Entamoeba histolytica* lectin antigen, or indirect hemagglutination.\n• <b style=\"color:#2563eb\">Option (3): Cryptosporidiosis</b> - Diagnosed using modified Ziehl-Neelsen (acid-fast) staining of fecal oocysts.\n• <b style=\"color:#2563eb\">Option (4): Trypanosomiasis</b> - Diagnosed via blood smears, Card Agglutination Test for Trypanosomiasis (CATT), or microhematocrit centrifugation."
+  },
+  {
+    "id": 8,
+    "question": "Which one of the following is a marine fish?",
+    "options": [
+      "Rohu",
+      "Hilsa",
+      "Catla",
+      "Common carp"
+    ],
+    "correct_answer": "Hilsa",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Hilsa</b> is correct because Hilsa (*Tenualosa ilisha*) is an anadromous marine clupeid fish that lives the majority of its adult life in coastal marine waters (such as the Bay of Bengal and Arabian Sea) and migrates up freshwater rivers solely to spawn.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Rohu</b> - *Labeo rohita* is a major Indian freshwater carp found exclusively in riverine and pond ecosystems.\n• <b style=\"color:#2563eb\">Option (3): Catla</b> - *Gibelion catla* (*Catla catla*) is a surface-feeding major freshwater carp.\n• <b style=\"color:#2563eb\">Option (4): Common carp</b> - *Cyprinus carpio* is an exotic freshwater fish widely cultivated in inland aquaculture."
+  },
+  {
+    "id": 9,
+    "question": "The alimentary canal of frog is short, due to its:",
+    "options": [
+      "Herbivorous nature",
+      "Carnivorous nature",
+      "Omnivorous nature",
+      "Sanguivorous nature"
+    ],
+    "correct_answer": "Carnivorous nature",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Carnivorous nature</b> is correct because adult frogs are strictly carnivorous, feeding on insects, worms, and small invertebrates. Animal tissues (proteins and lipids) are nutrient-dense and far easier to digest than plant fibrous matter, so carnivores require a significantly shorter intestine and alimentary canal compared to herbivores (which possess long guts and cecal chambers to digest cellulose).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Herbivorous nature</b> - Frog tadpoles are herbivorous and possess an extremely long, coiled, watch-spring intestine, which dramatically shortens during metamorphosis.\n• <b style=\"color:#2563eb\">Option (3): Omnivorous nature</b> - Omnivores have intermediate-length intestinal tracts.\n• <b style=\"color:#2563eb\">Option (4): Sanguivorous nature</b> - Sanguivores feed on blood (e.g., leeches, vampire bats) and have specialized caecal pouches."
+  },
+  {
+    "id": 10,
+    "question": "Excretion of drugs in the urine involves three distinct processes: glomerular filtration, active tubular secretion, and:",
+    "options": [
+      "Passive tubular secretion",
+      "Active tubular reabsorption",
+      "Enterohepatic circulation",
+      "Passive tubular reabsorption"
+    ],
+    "correct_answer": "Passive tubular reabsorption",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Passive tubular reabsorption</b> is correct because renal drug excretion is determined by the net algebraic sum of: (1) Glomerular filtration of free (unbound) drug, (2) Active carrier-mediated tubular secretion (in proximal tubules), and (3) Passive tubular reabsorption (where non-ionized lipid-soluble forms passively diffuse back from tubular lumen into peritubular capillaries).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Passive tubular secretion</b> - Tubular secretion of drugs is almost universally an active, carrier-mediated transport process against concentration gradients.\n• <b style=\"color:#2563eb\">Option (2): Active tubular reabsorption</b> - Applies to essential endogenous solutes like glucose and amino acids, but xenobiotic drugs undergo passive tubular back-diffusion.\n• <b style=\"color:#2563eb\">Option (3): Enterohepatic circulation</b> - Enterohepatic recycling involves biliary excretion into the gastrointestinal tract and intestinal reabsorption, not renal urinary mechanics."
+  },
+  {
+    "id": 11,
+    "question": "Which lobe of the brain is responsible for receiving and interpretating visual information?",
+    "options": [
+      "Frontal lobe",
+      "Parietal lobe",
+      "Temporal lobe",
+      "Occipital lobe"
+    ],
+    "correct_answer": "Occipital lobe",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Occipital lobe</b> is correct because the occipital lobe houses the primary visual cortex (Brodmann area 17 or V1) surrounding the calcarine sulcus, as well as visual association cortices (V2–V5). It receives retinotopic visual projections via the optic radiations from the lateral geniculate nucleus of the thalamus and decodes shape, color, motion, and depth.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Frontal lobe</b> - Responsible for executive functioning, planning, motor execution (precentral gyrus), and expressive speech (Broca's area).\n• <b style=\"color:#2563eb\">Option (2): Parietal lobe</b> - Houses the primary somatosensory cortex (postcentral gyrus) responsible for touch, proprioception, and spatial navigation.\n• <b style=\"color:#2563eb\">Option (3): Temporal lobe</b> - Houses the primary auditory cortex, olfactory cortex, and Wernicke's language comprehension area."
+  },
+  {
+    "id": 12,
+    "question": "Glycated haemoglobin (HbA1C) reflects average plasma glucose over the previous:",
+    "options": [
+      "4-6 weeks",
+      "8-12 weeks",
+      "20-24 weeks",
+      "2-4 weeks"
+    ],
+    "correct_answer": "4-6 weeks",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 4-6 weeks</b> is designated as the correct response in this exam key. HbA1c forms via non-enzymatic glycation of the N-terminal valine of the hemoglobin beta chain proportional to ambient glycaemia, reflecting cumulative glucose exposure over the red cell lifespan, with the most recent 4 to 6 weeks contributing the heaviest mathematical weighting (~50%) to the measured percentage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 8-12 weeks</b> - While the full RBC biological lifespan spans 8–12 weeks (120 days), Option (1) is the officially keyed response reflecting the predominant weighting window.\n• <b style=\"color:#2563eb\">Option (3): 20-24 weeks</b> - Well exceeds the normal lifespan of human erythrocytes.\n• <b style=\"color:#2563eb\">Option (4): 2-4 weeks</b> - 2-3 weeks reflects fructosamine (glycated serum albumin) monitoring, not standard HbA1c."
+  },
+  {
+    "id": 13,
+    "question": "The hormone erythropoietin stimulates red blood cell production in the red bone marrow. Where in the body is erythropoietin produced?",
+    "options": [
+      "Spleen",
+      "Kidney",
+      "Liver",
+      "Thyroid"
+    ],
+    "correct_answer": "Kidney",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Kidney</b> is correct because approximately 85–90% of erythropoietin (EPO) in adult mammals is synthesized and secreted by peritubular interstitial fibroblasts in the renal cortex and outer medulla in response to tissue hypoxia mediated by hypoxia-inducible factor (HIF-1alpha/HIF-2alpha).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Spleen</b> - The spleen degrades aging erythrocytes and mounts adaptive immune responses, but does not produce EPO.\n• <b style=\"color:#2563eb\">Option (3): Liver</b> - The liver produces ~10–15% of adult EPO (and is the main source in fetal life), but the kidney is the predominant adult endocrine site.\n• <b style=\"color:#2563eb\">Option (4): Thyroid</b> - The thyroid secretes triiodothyronine (T3), thyroxine (T4), and calcitonin, playing no role in EPO secretion."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following blood vessels offer the greatest resistance to blood flow through the arterial system?",
+    "options": [
+      "Arteries",
+      "Arterioles",
+      "Capillaries",
+      "Veins"
+    ],
+    "correct_answer": "Arterioles",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Arterioles</b> is correct because arterioles are the primary resistance vessels of the systemic circulation. By Poiseuille's law, resistance is inversely proportional to the fourth power of vessel radius ($R \\propto 1/r^4$). Arterioles possess dense circular smooth muscle coats regulated by sympathetic tone and local metabolites, creating roughly 50–70% of total peripheral resistance (TPR) and causing the steepest pressure drop.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Arteries</b> - Large conduit arteries have wide lumens and elastic walls, functioning as low-resistance conduits.\n• <b style=\"color:#2563eb\">Option (3): Capillaries</b> - Although individual capillaries have narrow diameters, billions of them are arranged in parallel, resulting in a vast total cross-sectional area and lower aggregate resistance than arterioles.\n• <b style=\"color:#2563eb\">Option (4): Veins</b> - Veins are highly compliant, low-resistance capacitance vessels containing ~65% of circulating blood volume."
+  },
+  {
+    "id": 15,
+    "question": "In the arterial blood gas analysis, an increase in PaCO2 will indicate the presence of:",
+    "options": [
+      "Respiratory acidosis",
+      "Respiratory alkalosis",
+      "Metabolic acidosis",
+      "Metabolic alkalosis"
+    ],
+    "correct_answer": "Respiratory acidosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Respiratory acidosis</b> is correct because elevated arterial partial pressure of carbon dioxide (hypercapnia, PaCO2 > 45 mmHg) resulting from alveolar hypoventilation shifts the equilibrium of the carbonic acid reaction to the right ($CO_2 + H_2O \\rightleftharpoons H_2CO_3 \\rightleftharpoons H^+ + HCO_3^-$), accumulating excess hydrogen ions and lowering arterial blood pH (acidemia).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Respiratory alkalosis</b> - Caused by alveolar hyperventilation that decreases PaCO2 below 35 mmHg.\n• <b style=\"color:#2563eb\">Option (3): Metabolic acidosis</b> - Characterized primarily by a primary deficit of plasma bicarbonate ($HCO_3^- < 22$ mEq/L) with compensatory hyperventilation reducing PaCO2.\n• <b style=\"color:#2563eb\">Option (4): Metabolic alkalosis</b> - Characterized by an elevation in plasma bicarbonate ($HCO_3^- > 26$ mEq/L) with an elevated arterial pH."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following structure is responsible for the formation of cerebrospinal fluid?",
+    "options": [
+      "Choroid plexus",
+      "Arachnoid plexus",
+      "Arachnoid villus",
+      "Arachnoid mater"
+    ],
+    "correct_answer": "Choroid plexus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Choroid plexus</b> is correct because cerebrospinal fluid (CSF) is actively produced (at roughly 500 mL/day in humans) by the choroid plexus located within the lateral, third, and fourth cerebral ventricles. It consists of specialized cuboidal ependymal cells with tight junctions surrounding fenestrated capillary tufts that selectively filter and secrete CSF into the ventricular system.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Arachnoid plexus</b> - An anatomically non-existent term.\n• <b style=\"color:#2563eb\">Option (3): Arachnoid villus</b> - Arachnoid villi (granulations) are responsible for the one-way reabsorption of CSF into the superior sagittal dural venous sinus, not CSF formation.\n• <b style=\"color:#2563eb\">Option (4): Arachnoid mater</b> - The middle protective meningeal layer overlying the subarachnoid space; it does not synthesize CSF."
+  },
+  {
+    "id": 17,
+    "question": "Extrinsic pathway in blood coagulation is triggered by the release of:",
+    "options": [
+      "Tissue factor",
+      "Factor VIII",
+      "Tissue plasminogen inhibitor",
+      "Factor X"
+    ],
+    "correct_answer": "Tissue factor",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Tissue factor</b> is correct because the extrinsic coagulation pathway is initiated when subendothelial Tissue Factor (TF or Factor III / tissue thromboplastin) is exposed to circulating blood upon vascular endothelial injury. TF binds to circulating activated Factor VII (FVIIa) in the presence of calcium ($Ca^{2+}$), forming a catalytic complex that activates Factor X to Factor Xa.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Factor VIII</b> - Factor VIII is an antihemophilic cofactor in the intrinsic tenase complex (with FIXa) activating Factor X.\n• <b style=\"color:#2563eb\">Option (3): Tissue plasminogen inhibitor</b> - Inhibitors like PAI-1 regulate fibrinolysis, not the initiation of extrinsic clotting.\n• <b style=\"color:#2563eb\">Option (4): Factor X</b> - Factor X is the convergence point where intrinsic and extrinsic cascades merge into the common pathway."
+  },
+  {
+    "id": 18,
+    "question": "A 62-year-old man is admitted with emphysema and acute upper respiratory infection. Oxygen is ordered at 2 L/min. The reason for low-flow oxygen is to:",
+    "options": [
+      "Facilitate oxygen diffusion of the blood.",
+      "Prevent excessive drying of secretions",
+      "Prevent depression of the respiratory drive",
+      "Compensate for increased airway resistance"
+    ],
+    "correct_answer": "Prevent depression of the respiratory drive",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Prevent depression of the respiratory drive</b> is correct because patients with chronic severe emphysema (COPD) chronically retain carbon dioxide, leading to blunted central medullary chemoreceptor sensitivity to arterial PaCO2. Their ventilation is maintained largely by the secondary hypoxic drive mediated by peripheral carotid and aortic chemoreceptors. Administering high-concentration oxygen eliminates this hypoxic stimulus, causing hypoventilation, severe CO2 narcosis, and respiratory arrest.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Facilitate oxygen diffusion of the blood.</b> - Oxygen diffusion increases with higher partial pressure gradients, not lower flows.\n• <b style=\"color:#2563eb\">Option (2): Prevent excessive drying of secretions</b> - Drying of mucosa is managed with bubble humidifiers, not titration of flow rate.\n• <b style=\"color:#2563eb\">Option (4): Compensate for increased airway resistance</b> - Low flow cannot overcome airway resistance (which requires bronchodilators or positive pressure)."
+  },
+  {
+    "id": 19,
+    "question": "The physician has ordered mannitol IV for a patient with head injury. What should be closely monitored because the patient is receiving mannitol?",
+    "options": [
+      "Urine output",
+      "Deep tendon reflexes",
+      "Pulse rate",
+      "Level of orientation"
+    ],
+    "correct_answer": "Urine output",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Urine output</b> is correct because mannitol is a potent, non-reabsorbable osmotic diuretic that draws free water from edematous brain parenchyma into the intravascular compartment to reduce elevated intracranial pressure (ICP). It is rapidly filtered by the glomeruli and promotes massive osmotic diuresis; monitoring hourly urine output and serum osmolality is essential to avoid severe dehydration, electrolyte collapse, and acute renal failure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Deep tendon reflexes</b> - DTRs are monitored during magnesium sulfate administration (e.g., in pre-eclampsia), not mannitol.\n• <b style=\"color:#2563eb\">Option (3): Pulse rate</b> - While vitals are routinely checked, urine output is the critical direct metric of osmotic diuretic efficacy and renal status.\n• <b style=\"color:#2563eb\">Option (4): Level of orientation</b> - Neurological checks assess injury progression, but urine output reflects direct pharmacological monitoring of mannitol."
+  },
+  {
+    "id": 20,
+    "question": "The serum potassium level of a patient is 2.5 mEq/L (2.5 mmol/L). Which of the following will NOT be seen on the electrocardiogram (ECG)?",
+    "options": [
+      "U waves",
+      "Tall T waves",
+      "Depressed ST segment",
+      "Widened QRS complex"
+    ],
+    "correct_answer": "Tall T waves",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Tall T waves</b> is correct because a serum potassium of 2.5 mEq/L represents severe hypokalemia (normal: 3.5–5.0 mEq/L). Hypokalemia causes flattening or inversion of T waves, prominent U waves, and ST-segment depression. In contrast, tall, peaked ('tented') T waves are the classic hallmark electrocardiographic finding of hyperkalemia ($K^+ > 5.5$ mEq/L).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): U waves</b> - Prominent U waves (especially in leads V2–V4) are a classic ECG manifestation of hypokalemia.\n• <b style=\"color:#2563eb\">Option (3): Depressed ST segment</b> - ST-segment sagging/depression commonly occurs in hypokalemia.\n• <b style=\"color:#2563eb\">Option (4): Widened QRS complex</b> - Severe hypokalemia delays ventricular conduction, causing modest QRS widening and QT/QU prolongation."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a potassium sparing diuretic?",
+    "options": [
+      "Mannitol",
+      "Spironolactone",
+      "Furosemide",
+      "Acetazolamide"
+    ],
+    "correct_answer": "Spironolactone",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Spironolactone</b> is correct because spironolactone is a competitive aldosterone receptor antagonist that acts in the late distal convoluted tubule and cortical collecting duct. By blocking aldosterone-induced synthesis of epithelial sodium channels (ENaC) and basolateral Na+/K+-ATPase pumps, it inhibits sodium reabsorption while preventing potassium excretion, thereby sparing potassium.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mannitol</b> - Mannitol is an osmotic diuretic acting primarily at the proximal tubule and descending limb of Henle.\n• <b style=\"color:#2563eb\">Option (3): Furosemide</b> - Furosemide is a loop diuretic that blocks Na+/K+/2Cl- cotransporters, causing significant urinary potassium wasting.\n• <b style=\"color:#2563eb\">Option (4): Acetazolamide</b> - Acetazolamide is a carbonic anhydrase inhibitor acting at the proximal tubule that promotes potassium loss."
+  },
+  {
+    "id": 22,
+    "question": "Which part of the body best represents the core body temperature?",
+    "options": [
+      "Oral cavity",
+      "Axilla",
+      "Nasal cavity",
+      "Rectum"
+    ],
+    "correct_answer": "Rectum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Rectum</b> is correct because rectal temperature measurement remains the most accessible clinical standard for approximating deep core body temperature (the temperature of internal vital organs like the heart, liver, and brain). It is unaffected by ambient airflow, mouth breathing, or tachypnea, closely tracking pulmonary artery and central core values.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Oral cavity</b> - Oral readings are typically 0.4–0.6°C lower than core values and easily distorted by mouth breathing, hot/cold fluids, and tachypnea.\n• <b style=\"color:#2563eb\">Option (2): Axilla</b> - Axillary readings reflect cutaneous peripheral temperature and are approximately 0.5–1.0°C lower than true core temperature.\n• <b style=\"color:#2563eb\">Option (3): Nasal cavity</b> - Nasal temperature varies wildly with tidal breathing and ambient evaporative cooling."
+  },
+  {
+    "id": 23,
+    "question": "When a person is lying down face up in the anatomical position, the individual is said to be:",
+    "options": [
+      "Proximal",
+      "Supine",
+      "Prone",
+      "Rostral"
+    ],
+    "correct_answer": "Supine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Supine</b> is correct because in clinical anatomy, the supine position is defined as an individual lying horizontally on their back with the face and ventral surface of the torso directed upwards.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Proximal</b> - Proximal is a directional anatomical term denoting a position closer to the trunk or point of attachment.\n• <b style=\"color:#2563eb\">Option (3): Prone</b> - The prone position describes an individual lying horizontally face down with the ventral body surface against the bed/ground.\n• <b style=\"color:#2563eb\">Option (4): Rostral</b> - Rostral is a directional term meaning toward the rostrum (snout, beak, or anterior end of the neuroaxis)."
+  },
+  {
+    "id": 24,
+    "question": "The colour of earthworm body is brown due to:",
+    "options": [
+      "Haemoglobin",
+      "Hemocyanin",
+      "RBC",
+      "Porphyrin"
+    ],
+    "correct_answer": "Porphyrin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Porphyrin</b> is correct because the characteristic brown coloration of the dorsal body wall of earthworms (*Pheretima*) is due to the deposition of porphyrin pigments in the sub-cuticular and muscular layers. This brown pigmentation shields internal tissues from harmful solar radiation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Haemoglobin</b> - Hemoglobin is dissolved in blood plasma and imparts red color to blood vessels, not the external body wall pigment.\n• <b style=\"color:#2563eb\">Option (2): Hemocyanin</b> - Hemocyanin is absent in annelids; it is a blue copper-containing pigment found in molluscs and arthropods.\n• <b style=\"color:#2563eb\">Option (3): RBC</b> - Earthworms lack erythrocytes entirely; their respiratory pigment is dissolved freely in blood plasma."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following hormones is responsible for the regulation of blood calcium levels in vertebrates?",
+    "options": [
+      "Insulin",
+      "Estrogen",
+      "Parathyroid hormone (PTH)",
+      "Adrenaline"
+    ],
+    "correct_answer": "Parathyroid hormone (PTH)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Parathyroid hormone (PTH)</b> is correct because PTH (parathormone) is the principal hypercalcemic hormone regulating ionized calcium in extracellular fluid. Secreted by parathyroid chief cells in response to hypocalcemia, PTH stimulates osteoclastic bone resorption, increases renal tubular calcium reabsorption, and induces 1alpha-hydroxylase to convert vitamin D into calcitriol ($1,25(OH)_2D_3$) for intestinal calcium absorption.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Insulin</b> - Insulin is secreted by pancreatic beta cells to regulate blood glucose homeostasis.\n• <b style=\"color:#2563eb\">Option (2): Estrogen</b> - Estrogen promotes bone density and female reproductive physiology, but is not the primary acute regulator of blood calcium.\n• <b style=\"color:#2563eb\">Option (4): Adrenaline</b> - Adrenaline coordinates the acute fight-or-flight sympathetic response (heart rate, bronchodilation, glycogenolysis)."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is not a function of the liver in animals?",
+    "options": [
+      "Detoxification",
+      "Carbohydrate metabolism",
+      "Protein synthesis",
+      "Oxygen transport"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Oxygen transport</b> is correct because oxygen transport is the exclusive function of the circulatory system, mediated by erythrocytes containing hemoglobin (or plasma-borne respiratory pigments in invertebrates). The liver has no role in carrying oxygen to peripheral tissues.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Detoxification</b> - Hepatocytes perform Phase I (cytochrome P450 oxidation) and Phase II biotransformation reactions to detoxify xenobiotics and endogenous metabolites.\n• <b style=\"color:#2563eb\">Option (2): Carbohydrate metabolism</b> - The liver is the central regulator of carbohydrate homeostasis via glycogenesis, glycogenolysis, and gluconeogenesis.\n• <b style=\"color:#2563eb\">Option (3): Protein synthesis</b> - Hepatocytes synthesize nearly all circulating plasma proteins, including albumin, fibrinogen, and prothrombin."
+  },
+  {
+    "id": 27,
+    "question": "In mammals, the primary site of nutrient absorption is the:",
+    "options": [
+      "Stomach",
+      "Large intestine",
+      "Small intestine",
+      "Liver"
+    ],
+    "correct_answer": "Small intestine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Small intestine</b> is correct because the mucosa of the mammalian small intestine (duodenum, jejunum, and ileum) possesses vast anatomical amplifications (plicae circulares, villi, and microvilli) yielding hundreds of square meters of surface area where monosaccharides, amino acids, dipeptides, fatty acids, and vitamins are actively and passively absorbed.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Stomach</b> - Primarily carries out mechanical mixing and acid-peptic digestion, absorbing only negligible lipid-soluble substances like ethanol.\n• <b style=\"color:#2563eb\">Option (2): Large intestine</b> - Functions mainly in water and electrolyte reabsorption and bacterial fermentation.\n• <b style=\"color:#2563eb\">Option (4): Liver</b> - Receives absorbed nutrients via the hepatic portal vein for biochemical processing and storage, but does not absorb nutrients from the gut lumen directly."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is responsible for the transmission of nerve impulses across synapses?",
+    "options": [
+      "Neurotransmitters",
+      "Hormones",
+      "Antibodies",
+      "Enzymes"
+    ],
+    "correct_answer": "Neurotransmitters",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Neurotransmitters</b> is correct because at chemical synapses, action potentials arriving at the presynaptic axon terminal trigger voltage-gated calcium entry, causing synaptic vesicles to exocytose neurotransmitters (such as acetylcholine, glutamate, GABA) into the synaptic cleft, which then bind specific postsynaptic receptors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Hormones</b> - Hormones are endocrine chemical messengers secreted directly into the bloodstream to act on distant target organs over minutes to hours.\n• <b style=\"color:#2563eb\">Option (3): Antibodies</b> - Immunoglobulins secreted by plasma cells that bind specific foreign antigens in humoral immunity.\n• <b style=\"color:#2563eb\">Option (4): Enzymes</b> - Biological catalysts that accelerate metabolic chemical reactions."
+  },
+  {
+    "id": 29,
+    "question": "During inhalation, the diaphragm:",
+    "options": [
+      "Contracts and moves upward",
+      "Contracts and moves downward",
+      "Relaxes and moves upward",
+      "Relaxes and moves downward"
+    ],
+    "correct_answer": "Contracts and moves downward",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Contracts and moves downward</b> is correct because during active inspiration, phrenic nerve stimulation causes the muscle fibers of the domed diaphragm to contract and flatten, moving inferiorly (downward) toward the abdominal cavity. This vertical expansion increases thoracic volume, lowering intrapulmonary pressure below atmospheric pressure ($P_{pul} < P_{atm}$) to draw air into the lungs by negative pressure ventilation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Contracts and moves upward</b> - Contraction pulls the central tendon downward, not upward.\n• <b style=\"color:#2563eb\">Option (3): Relaxes and moves upward</b> - Relaxation and recoil of the diaphragm upward into the thoracic dome occurs during passive exhalation.\n• <b style=\"color:#2563eb\">Option (4): Relaxes and moves downward</b> - Relaxation does not cause inferior displacement."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following hormones is responsible for the regulation of water balance in the kidneys?",
+    "options": [
+      "Insulin",
+      "Thyroxine",
+      "Aldosterone",
+      "Growth hormone"
+    ],
+    "correct_answer": "Aldosterone",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Aldosterone</b> is designated as the correct response in this exam key. Aldosterone is a mineralocorticoid secreted by the adrenal cortex (zona glomerulosa) that acts on principal cells of the renal cortical collecting tubule to stimulate Na+ reabsorption and secondary osmotic water retention, crucial for total body fluid and blood volume homeostasis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Insulin</b> - Regulates cellular uptake of glucose, amino acids, and potassium.\n• <b style=\"color:#2563eb\">Option (2): Thyroxine</b> - Regulates basal metabolic rate and cellular thermogenesis.\n• <b style=\"color:#2563eb\">Option (4): Growth hormone</b> - Stimulates somatic growth and hepatic IGF-1 synthesis."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is the primary function of red blood cells (RBCs)?",
+    "options": [
+      "Oxygen transport",
+      "Carbon dioxide transport",
+      "Nutrient absorption",
+      "Hormone production"
+    ],
+    "correct_answer": "Oxygen transport",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Oxygen transport</b> is correct because erythrocytes (RBCs) are highly specialized biconcave anucleated cells packed with hemoglobin (~270 million molecules per cell). Their primary physiological function is binding oxygen in pulmonary capillaries to form oxyhemoglobin and delivering it to respiring peripheral body tissues.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Carbon dioxide transport</b> - While RBCs facilitate CO2 hydration via carbonic anhydrase and transport some carbaminohemoglobin (~20%), ~70% of CO2 is carried as bicarbonate dissolved in plasma; oxygen transport is their primary role.\n• <b style=\"color:#2563eb\">Option (3): Nutrient absorption</b> - Performed by enterocytes in the mucosal lining of the gastrointestinal tract.\n• <b style=\"color:#2563eb\">Option (4): Hormone production</b> - Endocrine glands synthesize and secrete hormones; RBCs produce no hormones."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is responsible for the contraction of skeletal muscles?",
+    "options": [
+      "Acetylcholine",
+      "Serotonin",
+      "Insulin",
+      "Estrogen"
+    ],
+    "correct_answer": "Acetylcholine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Acetylcholine</b> is correct because acetylcholine (ACh) is the neurotransmitter released at somatic neuromuscular junctions. Action potentials reaching motor nerve terminals cause ACh release, which binds to nicotinic acetylcholine receptors ($N_M$) on the muscle motor endplate, triggering endplate potentials that initiate excitation-contraction coupling.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Serotonin</b> - A central neurotransmitter and platelet autacoid that modulates mood, sleep, and vascular tone.\n• <b style=\"color:#2563eb\">Option (3): Insulin</b> - Promotes glucose uptake into myocytes via GLUT4 translocation, but does not initiate mechanical contraction.\n• <b style=\"color:#2563eb\">Option (4): Estrogen</b> - Steroid sex hormone regulating female secondary sexual characteristics and reproductive cycles."
+  },
+  {
+    "id": 33,
+    "question": "In humans, the hormone responsible for the regulation of blood glucose levels is:",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Thyroxine",
+      "Estrogen"
+    ],
+    "correct_answer": "Insulin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Insulin</b> is designated as the primary correct response in the examination key. Insulin is the sole anabolic, hypoglycemic peptide hormone produced by pancreatic beta cells that drives glucose uptake into skeletal muscle and adipose tissues and stimulates glycogen storage, directly lowering elevated postprandial blood glucose.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Glucagon</b> - Glucagon raises blood glucose during fasting via glycogenolysis, but insulin is the designated primary regulator in standard question banks.\n• <b style=\"color:#2563eb\">Option (3): Thyroxine</b> - Modulates baseline basal metabolic rate.\n• <b style=\"color:#2563eb\">Option (4): Estrogen</b> - Steroid hormone governing female reproductive biology."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is the primary nitrogenous waste product excreted by mammals?",
+    "options": [
+      "Urea",
+      "Ammonia",
+      "Uric acid",
+      "Creatinine"
+    ],
+    "correct_answer": "Urea",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Urea</b> is correct because mammals are ureotelic organisms. In hepatocytes, highly toxic ammonia produced from amino acid deamination is converted into far less toxic and water-soluble urea via the hepatic ornithine-urea cycle (Krebs-Henseleit cycle) and excreted by the kidneys, accounting for over 80–90% of total urinary nitrogen.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ammonia</b> - Excreted primarily by ammonotelic aquatic organisms (e.g., teleost fish, tadpoles) where abundant water facilitates immediate dilution.\n• <b style=\"color:#2563eb\">Option (3): Uric acid</b> - The primary nitrogenous waste of uricotelic animals (birds, reptiles, insects) to conserve water.\n• <b style=\"color:#2563eb\">Option (4): Creatinine</b> - A metabolic breakdown product of muscle creatine phosphate excreted in small, constant amounts (~1–2 g/day)."
+  },
+  {
+    "id": 35,
+    "question": "The hormone responsible for the regulation of the sleep-wake cycle in humans is:",
+    "options": [
+      "Melatonin",
+      "Estrogen",
+      "Testosterone",
+      "Adrenaline"
+    ],
+    "correct_answer": "Melatonin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Melatonin</b> is correct because melatonin ($N$-acetyl-5-methoxytryptamine) is synthesized and secreted by the pineal gland under the circadian control of the suprachiasmatic nucleus (SCN) of the hypothalamus. Its secretion peaks in darkness, coordinating the circadian sleep-wake cycle and promoting somnolence.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Estrogen</b> - Regulates menstrual cycles and female secondary sexual characteristics.\n• <b style=\"color:#2563eb\">Option (3): Testosterone</b> - Regulates spermatogenesis and male secondary sexual characteristics.\n• <b style=\"color:#2563eb\">Option (4): Adrenaline</b> - Triggers the acute fight-or-flight sympathetic response, increasing alertness and heart rate."
+  },
+  {
+    "id": 36,
+    "question": "In the human digestive system, pepsin is an enzyme involved in the digestion of:",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Nucleic acids"
+    ],
+    "correct_answer": "Proteins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Proteins</b> is correct because pepsin is the major endopeptidase of the gastric juice in the stomach. Secreted as the inactive zymogen pepsinogen by gastric chief (peptic) cells, it is autoactivated in the acidic environment ($pH \\approx 1.5 - 2.0$) generated by parietal cell HCl, cleaving peptide bonds between hydrophobic and aromatic amino acids to yield proteoses and peptones.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Carbohydrates</b> - Digested by salivary and pancreatic alpha-amylases and brush-border disaccharidases.\n• <b style=\"color:#3): Fats</b> - Digested by gastric and pancreatic lipases in the presence of bile salts.\n• <b style=\"color:#2563eb\">Option (4): Nucleic acids</b> - Digested by pancreatic nucleases (ribonuclease and deoxyribonuclease) and intestinal nucleotidases."
+  },
+  {
+    "id": 37,
+    "question": "In birds, the gizzard is a specialized organ that aids in the digestion of:",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Cellulose"
+    ],
+    "correct_answer": "Cellulose",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Cellulose</b> is designated as the correct response in this exam key. In granivorous and herbivorous birds that ingest tough plant fibers, seeds, and grains with cellulosic cell walls, the thick muscular walls of the gizzard and ingested grit mechanically crush and rupture fibrous cellulosic coats, exposing cell contents to subsequent enzymatic digestion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Carbohydrates</b> - Soluble carbohydrates are enzymatically digested by amylases in the intestine.\n• <b style=\"color:#2563eb\">Option (2): Proteins</b> - Chemical protein digestion is initiated enzymatically in the proventriculus by pepsin and HCl.\n• <b style=\"color:#2563eb\">Option (3): Fats</b> - Lipids are enzymatically emulsified by bile and hydrolyzed by intestinal lipases."
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is responsible for the detection of light in the vertebrate eye?",
+    "options": [
+      "Rods",
+      "Cones",
+      "Optic nerve",
+      "Lens"
+    ],
+    "correct_answer": "Rods",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Rods</b> is designated as the correct response in the examination key. Rod photoreceptor cells contain the photopigment rhodopsin and exhibit extraordinary quantum sensitivity, capable of signaling in response to single photons. They mediate scotopic (dim light) vision and detect light intensities across the visible spectrum.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cones</b> - Mediate photopic (bright light) vision and color perception.\n• <b style=\"color:#2563eb\">Option (3): Optic nerve</b> - Composed of axons of retinal ganglion cells that transmit visual action potentials to the brain; it contains no photoreceptor pigments.\n• <b style=\"color:#2563eb\">Option (4): Lens</b> - A transparent biconvex optical structure that focuses light onto the retina without detecting it."
+  },
+  {
+    "id": 39,
+    "question": "The hormone responsible for the development and maintenance of female secondary sexual characteristics is:",
+    "options": [
+      "Estrogen",
+      "Progesterone",
+      "Testosterone",
+      "Follicle-stimulating hormone (FSH)"
+    ],
+    "correct_answer": "Estrogen",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Estrogen</b> is correct because estrogens (chiefly 17beta-estradiol secreted by developing ovarian follicles) stimulate the growth and development of female secondary sexual characteristics during puberty, including breast development (thelarche), female fat deposition patterns, broadening of the pelvis, and growth of internal and external genitalia.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Progesterone</b> - Secreted by the corpus luteum to prepare and maintain the endometrium for embryo implantation and pregnancy.\n• <b style=\"color:#2563eb\">Option (3): Testosterone</b> - The primary androgen responsible for male secondary sexual characteristics and spermatogenesis.\n• <b style=\"color:#2563eb\">Option (4): Follicle-stimulating hormone (FSH)</b> - An anterior pituitary gonadotropin that stimulates ovarian follicular growth and gametogenesis."
+  },
+  {
+    "id": 40,
+    "question": "In the human respiratory system, the process of gas exchange occurs primarily in the:",
+    "options": [
+      "Trachea",
+      "Larynx",
+      "Bronchi",
+      "Alveoli"
+    ],
+    "correct_answer": "Alveoli",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Alveoli</b> is correct because the alveoli are tiny, thin-walled, sac-like microscopic terminal dilations of the respiratory tree. Humans possess approximately 300 to 500 million alveoli, providing an enormous surface area (~70–100 $m^2$) lined by ultra-thin type I pneumocytes adjacent to pulmonary capillaries, forming the respiratory membrane through which rapid passive diffusion of $O_2$ and $CO_2$ occurs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Trachea</b> - Part of the anatomical conducting zone that filters, warms, and conducts air without participating in gas exchange.\n• <b style=\"color:#2563eb\">Option (2): Larynx</b> - Houses the vocal cords and functions in phonation and airway protection.\n• <b style=\"color:#2563eb\">Option (3): Bronchi</b> - Conducting airways with cartilage plates and ciliated epithelium that distribute air to the lobes of the lungs."
+  }
+]

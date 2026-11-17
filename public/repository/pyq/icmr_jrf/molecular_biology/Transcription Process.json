@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "The enzyme responsible for the synthesis of RNA primer in eukaryotes",
+    "options": [
+      "DNA polymerase alpha",
+      "DNA polymerase beta",
+      "DNA polymerase gamma",
+      "Topoisomerase"
+    ],
+    "correct_answer": "DNA polymerase alpha",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): DNA polymerase alpha</b> is correct because DNA polymerase alpha exists in a tight four-subunit complex with primase (Pol alpha-primase complex). The primase subunits (PriS/PriL) synthesize an initial short RNA primer of ~7-10 nucleotides, which the Pol alpha catalytic subunit then extends with ~20-30 deoxyribonucleotides (initiator DNA or iDNA) before handoff to Pol delta or epsilon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA polymerase beta</b> - Functions in base excision repair (BER) in eukaryotes.\n• <b style=\"color:#2563eb\">Option (3): DNA polymerase gamma</b> - Replicates and repairs mitochondrial DNA.\n• <b style=\"color:#2563eb\">Option (4): Topoisomerase</b> - Relieves torsional strain and supercoiling during replication."
+  },
+  {
+    "id": 2,
+    "question": "Transcription is the process",
+    "options": [
+      "By which information is transferred from DNA to the transfer RNA",
+      "By which information is transferred from RNA to the DNA",
+      "By which information is transferred from nuclear DNA to the mitochondrial DNA",
+      "By which information is transferred from DNA to the messenger RNA"
+    ],
+    "correct_answer": "By which information is transferred from DNA to the messenger RNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): By which information is transferred from DNA to the messenger RNA</b> is correct because transcription is the core enzymatic process whereby RNA polymerase copies the nucleotide sequence of a protein-coding DNA gene into complementary single-stranded messenger RNA (mRNA).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): By which information is transferred from DNA to the transfer RNA</b> - Although tRNA is also transcribed, the primary definition of gene expression in central dogma refers to mRNA transcription.\n• <b style=\"color:#2563eb\">Option (2): By which information is transferred from RNA to the DNA</b> - This is reverse transcription catalyzed by reverse transcriptase.\n• <b style=\"color:#2563eb\">Option (3): By which information is transferred from nuclear DNA to the mitochondrial DNA</b> - Mitochondrial DNA is an independent circular genome replicated autonomously."
+  },
+  {
+    "id": 3,
+    "question": "The TATA box",
+    "options": [
+      "Present on the template strand",
+      "Present about 70 base pairs away from transcription start site",
+      "Serves as the signal for attachment of RNAP-II",
+      "Acts as silencer of the gene"
+    ],
+    "correct_answer": "Acts as silencer of the gene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Acts as silencer of the gene</b> is correct. Note that biochemically, the TATA box (Hogness box) is a canonical eukaryotic core promoter consensus sequence (TATAAA) located ~25–30 bp upstream of the transcription start site (+1) that binds TBP (TATA-binding protein subunit of TFIID) to nucleate the pre-initiation complex. The official answer key explicitly marks Option (4).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Present on the template strand</b> - Conventionally defined on the coding (non-template) strand.\n• <b style=\"color:#2563eb\">Option (2): Present about 70 base pairs away from transcription start site</b> - The CAAT box is typically located around -70 to -80 bp, while TATA is at -25 to -30 bp.\n• <b style=\"color:#2563eb\">Option (3): Serves as the signal for attachment of RNAP-II</b> - Although TFIID binds TATA to recruit Pol II, the official key designates Option (4)."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following takes place in both bacterial as well as eukaryotic mRNA synthesis?",
+    "options": [
+      "Poly A tailing",
+      "5' Capping",
+      "Splicing",
+      "DNA dependent RNA synthesis"
+    ],
+    "correct_answer": "DNA dependent RNA synthesis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): DNA dependent RNA synthesis</b> is correct because in all domains of cellular life (prokaryotes and eukaryotes), transcription is universally catalyzed by DNA-dependent RNA polymerases that synthesize an RNA chain by reading a DNA template in the 3' to 5' direction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Poly A tailing</b> - Characteristic of stable mature eukaryotic mRNAs (bacterial polyadenylation exists mainly as a signal for RNA degradation).\n• <b style=\"color:#2563eb\">Option (2): 5' Capping</b> - The 7-methylguanosine cap is unique to eukaryotic mRNAs.\n• <b style=\"color:#2563eb\">Option (3): Splicing</b> - Intron splicing via spliceosomes is specific to eukaryotic transcripts."
+  },
+  {
+    "id": 5,
+    "question": "RNAs that catalyse biological reactions such as self-splicing introns, are known as",
+    "options": [
+      "ribozymes",
+      "microRNAs",
+      "Spliceosomes",
+      "small nucleolar RNAs"
+    ],
+    "correct_answer": "ribozymes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): ribozymes</b> is correct because catalytic RNA molecules possessing enzymatic activity are termed ribozymes. Discovered by Thomas Cech (self-splicing Tetrahymena Group I intron) and Sidney Altman (RNase P), ribozymes can catalyze RNA cleavage, phosphodiester ligation, and peptide bond formation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): microRNAs</b> - Small non-coding regulatory RNAs that guide post-transcriptional gene silencing without enzymatic catalysis.\n• <b style=\"color:#2563eb\">Option (3): Spliceosomes</b> - Large ribonucleoprotein (RNP) complexes comprising snRNAs and proteins, not the individual catalytic RNA class.\n• <b style=\"color:#2563eb\">Option (4): small nucleolar RNAs</b> - Guide RNAs (snoRNAs) that direct chemical modification of rRNA nucleotides."
+  },
+  {
+    "id": 6,
+    "question": "False about TATA box is that it",
+    "options": [
+      "Has TATAAA sequence",
+      "Lies 10 bp upstream to the start point",
+      "Aligns RNA polymerase at proper site",
+      "Has mostly 7-8 base pair sequences"
+    ],
+    "correct_answer": "Has mostly 7-8 base pair sequences",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Has mostly 7-8 base pair sequences</b> is correct. The canonical TATA consensus sequence (Pribnow box in bacteria: TATAAT; Hogness box in eukaryotes: TATAAA) is characteristically a 6 base-pair motif rather than a 7-8 bp sequence.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Has TATAAA sequence</b> - True; TATAAA is the classic eukaryotic consensus.\n• <b style=\"color:#2563eb\">Option (2): Lies 10 bp upstream to the start point</b> - True for the bacterial Pribnow box (-10 element).\n• <b style=\"color:#2563eb\">Option (3): Aligns RNA polymerase at proper site</b> - True; it establishes the exact positioning of RNA polymerase relative to the +1 initiation nucleotide."
+  },
+  {
+    "id": 7,
+    "question": "The core of the spliceosome complex is formed by:",
+    "options": [
+      "Small nuclear RNA",
+      "Small nucleolar RNA",
+      "Small interfering RNA",
+      "Long noncoding RNA"
+    ],
+    "correct_answer": "Small nucleolar RNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Small nucleolar RNA</b> is correct. Note that biochemically, the major spliceosome is composed of five small nuclear RNAs (snRNAs: U1, U2, U4, U5, and U6) complexed with proteins to form snRNPs, whereas small nucleolar RNAs (snoRNAs) guide rRNA methylation/pseudouridylation. The official answer key explicitly designates Option (2).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Small nuclear RNA</b> - Biologically forms the spliceosomal core snRNPs, though the official key designates Option (2).\n• <b style=\"color:#2563eb\">Option (3): Small interfering RNA</b> - Mediates RNA-induced silencing complex (RISC) cleavage of mRNAs.\n• <b style=\"color:#2563eb\">Option (4): Long noncoding RNA</b> - Epigenetic regulators, not the core spliceosome."
+  },
+  {
+    "id": 8,
+    "question": "Genes which are active all the time in cell are known as",
+    "options": [
+      "Cellular luxury genes",
+      "Metabolic genes",
+      "Housekeeping genes",
+      "Control genes"
+    ],
+    "correct_answer": "Housekeeping genes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Housekeeping genes</b> is correct because housekeeping (constitutive) genes encode proteins required for basal maintenance of essential cellular functions (e.g., GAPDH, actin, tubulin, ribosomal proteins) and are continuously transcribed at relatively constant levels in all cell types.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cellular luxury genes</b> - Tissue-specific or luxury genes expressed only in specialized differentiated cells (e.g., hemoglobin in erythrocytes, insulin in beta cells).\n• <b style=\"color:#2563eb\">Option (2): Metabolic genes</b> - Many metabolic genes are inducible or repressible depending on nutrient status.\n• <b style=\"color:#2563eb\">Option (4): Control genes</b> - General regulatory genes, not all of which are constitutively transcribed."
+  },
+  {
+    "id": 9,
+    "question": "The coding sequences of a gene are called:",
+    "options": [
+      "Introns",
+      "Exons",
+      "Interferons",
+      "transposons"
+    ],
+    "correct_answer": "Exons",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Exons</b> is correct because exons (expressed sequences) are the coding segments of split eukaryotic genes that are retained in the mature mRNA after splicing and translated into amino acid sequences in the final polypeptide.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Introns</b> - Intervening non-coding sequences that are excised during pre-mRNA splicing.\n• <b style=\"color:#2563eb\">Option (3): Interferons</b> - Cytokines produced by immune cells in response to viral infections.\n• <b style=\"color:#2563eb\">Option (4): transposons</b> - Mobile genetic elements (\"jumping genes\") capable of inserting into different genomic loci."
+  },
+  {
+    "id": 10,
+    "question": "What approximate percentage of total RNA content in a cell is messenger RNA (mRNA)?",
+    "options": [
+      "25-30 percent",
+      "2-5 percent",
+      "80-85 percent",
+      "45-50 percent"
+    ],
+    "correct_answer": "2-5 percent",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 2-5 percent</b> is correct because messenger RNA (mRNA) constitutes only about 2% to 5% of the total cellular RNA content. In contrast, ribosomal RNA (rRNA) constitutes ~80%–85%, and transfer RNA (tRNA) makes up ~10%–15%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 25-30 percent</b> - Overestimate for mRNA.\n• <b style=\"color:#2563eb\">Option (3): 80-85 percent</b> - Represents the abundance of ribosomal RNA (rRNA).\n• <b style=\"color:#2563eb\">Option (4): 45-50 percent</b> - Inaccurate percentage."
+  },
+  {
+    "id": 11,
+    "question": "n eukaryotic cell transcription, RNA splicing and RNA capping take place inside?",
+    "options": [
+      "Ribosomes",
+      "Nucleus",
+      "Endoplasmic reticulum",
+      "Dictyosomes"
+    ],
+    "correct_answer": "Nucleus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Nucleus</b> is correct because in eukaryotic cells, transcription and all primary pre-mRNA processing events—including 5' 7-methylguanosine capping, intron splicing, and 3' polyadenylation—occur co-transcriptionally inside the nucleus before mature mRNA is exported through nuclear pore complexes to the cytoplasm.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ribosomes</b> - Cytoplasmic supramolecular machines that translate mRNA into protein.\n• <b style=\"color:#2563eb\">Option (3): Endoplasmic reticulum</b> - Membrane-bound organelle involved in protein translation, folding, and secretory pathways.\n• <b style=\"color:#2563eb\">Option (4): Dictyosomes</b> - Golgi apparatus stacks involved in post-translational protein sorting and glycosylation."
+  },
+  {
+    "id": 12,
+    "question": "Which RNA polymerase is responsible for transcribing most genes, including protein-encoding genes, in eukaryotic cells?",
+    "options": [
+      "RNA polymerase I (Pol I)",
+      "RNA polymerase II (Pol II)",
+      "RNA polymerase III (Pol III)",
+      "RNA polymerase IV (Pol IV)"
+    ],
+    "correct_answer": "RNA polymerase II (Pol II)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): RNA polymerase II (Pol II)</b> is correct because RNA Polymerase II transcribes all protein-encoding messenger RNA (mRNA) genes as well as most small nuclear RNAs (snRNAs: U1, U2, U4, U5), long non-coding RNAs, and microRNA precursors in eukaryotic nuclei.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): RNA polymerase I (Pol I)</b> - Located in the nucleolus, transcribing the single precursor for 28S, 18S, and 5.8S rRNAs.\n• <b style=\"color:#2563eb\">Option (3): RNA polymerase III (Pol III)</b> - Transcribes transfer RNAs (tRNAs), 5S rRNA, and U6 snRNA.\n• <b style=\"color:#2563eb\">Option (4): RNA polymerase IV (Pol IV)</b> - Plant-specific RNA polymerase involved in siRNA-directed DNA methylation."
+  },
+  {
+    "id": 13,
+    "question": "Which RNA polymerase is involved in transcribing the large rRNA precursor gene in eukaryotic cells?",
+    "options": [
+      "RNA polymerase I (Pol I)",
+      "RNA polymerase II (Pol II)",
+      "RNA polymerase III (Pol III)",
+      "RNA polymerase IV (Pol IV)"
+    ],
+    "correct_answer": "RNA polymerase I (Pol I)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): RNA polymerase I (Pol I)</b> is correct because RNA Polymerase I is compartmentalized exclusively in the nucleolus and specializes in transcribing the tandem ribosomal DNA arrays into a single large 45S rRNA pre-ribosomal transcript (which is cleaved into 18S, 5.8S, and 28S rRNAs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): RNA polymerase II (Pol II)</b> - Transcribes mRNA, lncRNA, and miRNAs.\n• <b style=\"color:#2563eb\">Option (3): RNA polymerase III (Pol III)</b> - Transcribes 5S rRNA and tRNAs.\n• <b style=\"color:#2563eb\">Option (4): RNA polymerase IV (Pol IV)</b> - Plant-specific silencing enzyme."
+  },
+  {
+    "id": 14,
+    "question": "Which RNA polymerase is involved in transcribing tRNA genes, small nuclear RNA genes, and the 5S rRNA gene in eukaryotic cells?",
+    "options": [
+      "RNA polymerase I (Pol I)",
+      "RNA polymerase II (Pol II)",
+      "RNA polymerase III (Pol III)",
+      "RNA polymerase V (Pol V)"
+    ],
+    "correct_answer": "RNA polymerase III (Pol III)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): RNA polymerase III (Pol III)</b> is correct because RNA Polymerase III is responsible for synthesizing small non-coding RNAs including all transfer RNAs (tRNAs), the 5S ribosomal RNA (5S rRNA), the U6 spliceosomal snRNA, and 7SL RNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): RNA polymerase I (Pol I)</b> - Synthesizes 45S precursor for large rRNAs.\n• <b style=\"color:#2563eb\">Option (2): RNA polymerase II (Pol II)</b> - Synthesizes mRNAs and most snRNAs.\n• <b style=\"color:#2563eb\">Option (4): RNA polymerase V (Pol V)</b> - Plant-specific RNA polymerase involved in transcriptional gene silencing."
+  },
+  {
+    "id": 15,
+    "question": "Which factor converts the bacterial core RNA polymerase into the form that initiates transcription only at promoters?",
+    "options": [
+      "Sigma factor",
+      "Core enzyme",
+      "Transcription factor",
+      "Initiation factor"
+    ],
+    "correct_answer": "Sigma factor",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sigma factor</b> is correct because bacterial core RNA polymerase (alpha2-beta-beta'-omega) possesses catalytic activity but binds DNA non-specifically. Association with a sigma (σ) factor forms the complete RNA polymerase holoenzyme (alpha2-beta-beta'-omega-sigma), conferring high-affinity sequence-specific recognition of promoter elements (-10 and -35 regions).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Core enzyme</b> - Lacks promoter specificity on its own.\n• <b style=\"color:#2563eb\">Option (3): Transcription factor</b> - General term, but the specific bacterial subunit is the sigma factor.\n• <b style=\"color:#2563eb\">Option (4): Initiation factor</b> - Factors involved in translation (IF1, IF2, IF3), not transcription."
+  },
+  {
+    "id": 16,
+    "question": "What is the predominant sigma factor in Escherichia coli?",
+    "options": [
+      "Sigma factor 70 (s70)",
+      "Sigma factor 30 (s30)",
+      "Sigma factor 50 (s50)",
+      "Sigma factor 90 (s90)"
+    ],
+    "correct_answer": "Sigma factor 70 (s70)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sigma factor 70 (s70)</b> is correct because sigma-70 (σ70, encoded by rpoD, ~70 kDa) is the primary housekeeping sigma factor in E. coli, directing transcription of the vast majority of genes expressed during exponential exponential growth.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Sigma factor 30 (s30)</b> - Non-standard designation (the stationary phase sigma is σ38 / RpoS, heat shock is σ32 / RpoH).\n• <b style=\"color:#2563eb\">Option (3): Sigma factor 50 (s50)</b> - Nitrogen-regulation sigma is σ54 / RpoN.\n• <b style=\"color:#2563eb\">Option (4): Sigma factor 90 (s90)</b> - Does not exist in E. coli."
+  },
+  {
+    "id": 17,
+    "question": "What characteristic structure do promoters recognized by polymerase containing sigma factor 70 (s70) share?",
+    "options": [
+      "Two conserved sequences",
+      "Three conserved sequences",
+      "Variable sequences",
+      "No specific sequence requirement"
+    ],
+    "correct_answer": "Two conserved sequences",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Two conserved sequences</b> is correct because promoters recognized by the E. coli σ70 holoenzyme typically feature two conserved 6-base pair elements located at -35 (consensus: TTGACA) and -10 (consensus: TATAAT, Pribnow box) upstream of the transcription start site (+1), separated by an optimal spacer of 17 ± 1 base pairs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Three conserved sequences</b> - Standard σ70 promoters require two core hexamers (-35 and -10).\n• <b style=\"color:#2563eb\">Option (3): Variable sequences</b> - Promoters show high sequence conservation matching the consensus.\n• <b style=\"color:#2563eb\">Option (4): No specific sequence requirement</b> - Specific sequence recognition is essential for promoter melting and transcription initiation."
+  },
+  {
+    "id": 18,
+    "question": "What is the role of capping in RNA processing?",
+    "options": [
+      "Addition of a poly-A tail to the 5' end of the RNA",
+      "Removal of introns from the RNA transcript",
+      "Addition of a modified guanine base to the 5' end of the RNA",
+      "Addition of a poly-A tail to the 3' end of the RNA"
+    ],
+    "correct_answer": "Addition of a modified guanine base to the 5' end of the RNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Addition of a modified guanine base to the 5' end of the RNA</b> is correct because RNA capping involves the enzymatic addition of a 7-methylguanosine (m7G) moiety to the 5' terminal triphosphate of the nascent pre-mRNA, protecting it from 5'->3' exoribonucleases and facilitating nuclear export and ribosome binding during translation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Addition of a poly-A tail to the 5' end of the RNA</b> - Poly(A) tails are attached exclusively to the 3' end.\n• <b style=\"color:#2563eb\">Option (2): Removal of introns from the RNA transcript</b> - This is RNA splicing.\n• <b style=\"color:#2563eb\">Option (4): Addition of a poly-A tail to the 3' end of the RNA</b> - This defines polyadenylation, not capping."
+  },
+  {
+    "id": 19,
+    "question": "How is the modified guanine base joined to the RNA transcript during capping?",
+    "options": [
+      "3'-5' phosphodiester linkage",
+      "5'-3' phosphodiester linkage",
+      "5'-5' linkage involving three phosphates",
+      "3'-3' linkage involving two phosphates"
+    ],
+    "correct_answer": "5'-5' linkage involving three phosphates",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 5'-5' linkage involving three phosphates</b> is correct because capping involves guanylyltransferase transferring a GMP moiety to the 5'-diphosphate end of the nascent pre-mRNA, creating a unique inverted 5'-to-5' triphosphate bridge (5'-m7Gppp5'-Np...). This inverted linkage is resistant to cellular 5' exonucleases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 3'-5' phosphodiester linkage</b> - The standard linear backbone linkage in nucleic acid polymers.\n• <b style=\"color:#2563eb\">Option (2): 5'-3' phosphodiester linkage</b> - Inverted standard phosphodiester bond.\n• <b style=\"color:#2563eb\">Option (4): 3'-3' linkage involving two phosphates</b> - Incorrect linkage and phosphate number."
+  },
+  {
+    "id": 20,
+    "question": "At what point in the transcription cycle does RNA capping occur?",
+    "options": [
+      "During initiation phase",
+      "During elongation phase",
+      "During termination phase",
+      "After RNA splicing"
+    ],
+    "correct_answer": "During elongation phase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): During elongation phase</b> is correct because 5' capping occurs co-transcriptionally early in the elongation phase, right after the nascent RNA chain reaches 20–30 nucleotides in length and emerges from the RNA exit channel of RNA Polymerase II, triggered by phosphorylation of Ser-5 residues on the C-terminal domain (CTD) of Pol II.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): During initiation phase</b> - The initiation complex must clear the promoter before capping enzymes are recruited.\n• <b style=\"color:#2563eb\">Option (3): During termination phase</b> - Polyadenylation and cleavage occur during termination, long after capping.\n• <b style=\"color:#2563eb\">Option (4): After RNA splicing</b> - Capping is the very first modification to occur, preceding splicing."
+  },
+  {
+    "id": 21,
+    "question": "What is the final step in the creation of the 5' cap?",
+    "options": [
+      "Removal of a phosphate group",
+      "Addition of a methyl group",
+      "Addition of a GMP moiety",
+      "Dephosphorylation of Ser-5"
+    ],
+    "correct_answer": "Addition of a methyl group",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Addition of a methyl group</b> is correct because the capping pathway consists of: (1) RNA 5'-triphosphatase removes the gamma-phosphate from the 5' end; (2) Guanylyltransferase attaches GMP via a 5'-5' triphosphate linkage; (3) Guanine-7-methyltransferase adds a methyl group from S-adenosylmethionine (SAM) to the N-7 position of the added guanine base (Cap 0 structure).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Removal of a phosphate group</b> - The initial step catalyzed by RNA triphosphatase.\n• <b style=\"color:#2563eb\">Option (3): Addition of a GMP moiety</b> - The second intermediate step.\n• <b style=\"color:#2563eb\">Option (4): Dephosphorylation of Ser-5</b> - A regulatory phosphorylation event on the CTD, not a direct chemical step of cap synthesis."
+  },
+  {
+    "id": 22,
+    "question": "What is the possible role of dephosphorylation and phosphorylation in RNA processing?",
+    "options": [
+      "They are involved in splicing of introns",
+      "They regulate the binding of transcription factors",
+      "They facilitate the addition of the poly-A tail",
+      "They control the dissociation and recruitment of capping and splicing machinery"
+    ],
+    "correct_answer": "They control the dissociation and recruitment of capping and splicing machinery",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): They control the dissociation and recruitment of capping and splicing machinery</b> is correct because dynamic reversible phosphorylation and dephosphorylation of serine residues (Ser-2, Ser-5, Ser-7) in the heptapeptide repeats (YSPTSPS) of the RNA Polymerase II CTD coordinate the sequential recruitment and release of RNA processing factors: Ser-5 phosphorylation recruits capping enzymes, while its subsequent dephosphorylation alongside Ser-2 phosphorylation recruits splicing and polyadenylation factors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They are involved in splicing of introns</b> - Part of the coordinated processing, but Option (4) captures the comprehensive regulatory mechanism.\n• <b style=\"color:#2563eb\">Option (2): They regulate the binding of transcription factors</b> - CTD modifications specifically orchestrate pre-mRNA processing machinery during elongation.\n• <b style=\"color:#2563eb\">Option (3): They facilitate the addition of the poly-A tail</b> - Ser-2 phosphorylation facilitates cleavage/polyadenylation, but Option (4) represents the broad control of recruitment/dissociation."
+  },
+  {
+    "id": 23,
+    "question": "What is the primary function of polyadenylation in gene expression?",
+    "options": [
+      "Initiation of transcription",
+      "Enhancing RNA splicing",
+      "Protecting mRNA from degradation",
+      "Facilitating translation initiation"
+    ],
+    "correct_answer": "Protecting mRNA from degradation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Protecting mRNA from degradation</b> is correct because the 3' poly(A) tail (bound by poly(A)-binding proteins, PABPs) forms a protective ribonucleoprotein structure that shields the 3' terminus of mature eukaryotic mRNA transcripts from rapid degradation by 3'->5' deadenylases and exosome nucleases, substantially determining transcript half-life.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Initiation of transcription</b> - Occurs at the 5' promoter upstream of gene body.\n• <b style=\"color:#2563eb\">Option (2): Enhancing RNA splicing</b> - Splicing occurs concurrently during elongation upstream of 3' cleavage.\n• <b style=\"color:#2563eb\">Option (4): Facilitating translation initiation</b> - While PABP interacts with eIF4G to circularize mRNA and stimulate translation, the primary protective function designated in the key is preventing mRNA degradation."
+  },
+  {
+    "id": 24,
+    "question": "Which enzyme is responsible for adding the poly(A) tail to the 3' end of pre-mRNA?",
+    "options": [
+      "RNA polymerase",
+      "DNA polymerase",
+      "RNA helicase",
+      "Poly(A) polymerase"
+    ],
+    "correct_answer": "Poly(A) polymerase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Poly(A) polymerase</b> is correct because Poly(A) polymerase (PAP) is a template-independent terminal nucleotidyltransferase that sequentially adds approximately 200–250 adenine residues to the 3'-OH end created by endonucleolytic cleavage of pre-mRNA downstream of the AAUAAA polyadenylation signal.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): RNA polymerase</b> - Synthesizes the initial RNA transcript from a DNA template.\n• <b style=\"color:#2563eb\">Option (2): DNA polymerase</b> - Synthesizes DNA during replication or repair.\n• <b style=\"color:#2563eb\">Option (3): RNA helicase</b> - Unwinds secondary structures in RNA molecules."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is true regarding polyadenylation?",
+    "options": [
+      "It occurs at the 5' end of the pre-mRNA molecule.",
+      "It involves the addition of a string of adenine nucleotides.",
+      "It is primarily involved in removing introns from the pre-mRNA.",
+      "It occurs during the process of transcription initiation."
+    ],
+    "correct_answer": "It involves the addition of a string of adenine nucleotides.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It involves the addition of a string of adenine nucleotides.</b> is correct because polyadenylation is the enzymatic attachment of a homopolymeric tract of adenosine monophosphates (the poly(A) tail, ~200–250 residues long) onto the 3' cleaved end of the newly transcribed pre-mRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It occurs at the 5' end of the pre-mRNA molecule</b> - False; polyadenylation occurs strictly at the 3' end (5' end receives the m7G cap).\n• <b style=\"color:#2563eb\">Option (3): It is primarily involved in removing introns from the pre-mRNA</b> - False; intron removal is carried out by the spliceosome.\n• <b style=\"color:#2563eb\">Option (4): It occurs during the process of transcription initiation</b> - False; it occurs during transcription termination at the end of the gene."
+  },
+  {
+    "id": 26,
+    "question": "Which molecular complex is responsible for carrying out mRNA splicing?",
+    "options": [
+      "Ribosome",
+      "tRNA",
+      "Spliceosome",
+      "RNA polymerase"
+    ],
+    "correct_answer": "Spliceosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Spliceosome</b> is correct because the spliceosome is the dynamic ribonucleoprotein (RNP) macromolecular machine that accurately recognizes the 5' splice site, 3' splice site, and branch point sequence of nuclear pre-mRNA introns, catalyzing two consecutive transesterification reactions to excise the intron as a lariat and ligate adjacent exons.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ribosome</b> - Molecular machine that translates mRNA into protein.\n• <b style=\"color:#2563eb\">Option (2): tRNA</b> - Adapter molecule bringing specific amino acids to the ribosome.\n• <b style=\"color:#2563eb\">Option (4): RNA polymerase</b> - Enzyme that synthesizes RNA from a DNA template."
+  },
+  {
+    "id": 27,
+    "question": "What is an alternative splicing?",
+    "options": [
+      "A process that occurs during translation initiation",
+      "The removal of introns and exons from the pre-mRNA molecule",
+      "A mechanism that generates multiple mRNA isoforms from a single gene",
+      "The addition of a cap structure to the 5' end of the pre-mRNA molecule"
+    ],
+    "correct_answer": "A mechanism that generates multiple mRNA isoforms from a single gene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A mechanism that generates multiple mRNA isoforms from a single gene</b> is correct because alternative splicing is a regulated post-transcriptional mechanism by which different combinations of splice sites within a single pre-mRNA are selected, including or excluding particular exons. This generates multiple diverse mature mRNA isoforms and functionally distinct protein isoforms from a single genomic locus, vastly expanding eukaryotic proteomic diversity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A process that occurs during translation initiation</b> - Splicing occurs in the nucleus prior to translation.\n• <b style=\"color:#2563eb\">Option (2): The removal of introns and exons from the pre-mRNA molecule</b> - Splicing normally joins exons while removing introns; Option (3) provides the accurate functional definition.\n• <b style=\"color:#2563eb\">Option (4): The addition of a cap structure to the 5' end of the pre-mRNA molecule</b> - This defines 5' capping."
+  }
+]

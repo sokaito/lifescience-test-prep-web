@@ -9,7 +9,7 @@
       "Called as Transcriptome"
     ],
     "correct_answer": "Called the Proteome",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The proteome refers to the entire complement of proteins that can be expressed by a genome, cell, tissue, or organism at a given time under defined physiological or environmental conditions.\n• Why Other Options Are Incorrect:\n  - Species' genetic complement: This refers to the genome (all the DNA of an organism), not its proteins.\n  - Correlates with organism size: Proteome complexity does not correlate with physical organism size (small organisms can have complex proteomes).\n  - Transcriptome: The transcriptome is the entire set of RNA transcripts (mRNAs, non-coding RNAs) produced in a cell, not the synthesized proteins."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe proteome refers to the entire complement of proteins that can be expressed by a genome, cell, tissue, or organism at a given time under defined physiological or environmental conditions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Species' genetic complement:</b> This refers to the genome (all the DNA of an organism), not its proteins.\n• <b style=\"color:#2563eb\">Correlates with organism size:</b> Proteome complexity does not correlate with physical organism size (small organisms can have complex proteomes).\n• <b style=\"color:#2563eb\">Transcriptome:</b> The transcriptome is the entire set of RNA transcripts (mRNAs, non-coding RNAs) produced in a cell, not the synthesized proteins."
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
       "Conducting molecules"
     ],
     "correct_answer": "Non-conducting molecules inserted into the protein frame work",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Biochips (such as DNA/protein microarrays) are fabricated using inert, non-conducting solid substrates (like glass slides, fused silica, or modified silicon) onto which biological capture molecules (like proteins, antibodies, or DNA probes) are immobilized. The non-conducting nature of the framework prevents unwanted electrical interference and maintains stable immobilization.\n• Why Other Options Are Incorrect:\n  - Semi-conducting molecules inserted into protein framework: Standard biochips use inert, non-conducting glass/silica supports rather than semiconductor doping within protein matrices.\n  - Conducting molecules inserted: Free electrical conduction would interfere with optical, fluorescent, or electrochemical detection signals.\n  - Conducting molecules only: Pure conductors cannot stably support the chemical immobilization of biological probe molecules without non-specific denaturation."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBiochips (such as DNA/protein microarrays) are fabricated using inert, non-conducting solid substrates (like glass slides, fused silica, or modified silicon) onto which biological capture molecules (like proteins, antibodies, or DNA probes) are immobilized. The non-conducting nature of the framework prevents unwanted electrical interference and maintains stable immobilization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Semi-conducting molecules inserted into protein framework:</b> Standard biochips use inert, non-conducting glass/silica supports rather than semiconductor doping within protein matrices.\n• <b style=\"color:#2563eb\">Conducting molecules inserted:</b> Free electrical conduction would interfere with optical, fluorescent, or electrochemical detection signals.\n• <b style=\"color:#2563eb\">Conducting molecules only:</b> Pure conductors cannot stably support the chemical immobilization of biological probe molecules without non-specific denaturation."
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
       "Plagiarism"
     ],
     "correct_answer": "Plagiarism",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: A similarity index calculates the percentage of text or sequence identity between a submitted document and published reference databases. In academic writing and research, tools like Turnitin use similarity index scores to detect verbatim copying and evaluate plagiarism.\n• Why Other Options Are Incorrect:\n  - Novelty: A high similarity index means the content is already published elsewhere—the exact opposite of novelty.\n  - Conciseness: Conciseness measures brevity and brevity of expression, not text overlap.\n  - Correctness of translation: Translation fidelity checks whether meaning or codon-amino acid mappings are accurate, not percentage match against existing literature."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nA similarity index calculates the percentage of text or sequence identity between a submitted document and published reference databases. In academic writing and research, tools like Turnitin use similarity index scores to detect verbatim copying and evaluate plagiarism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Novelty:</b> A high similarity index means the content is already published elsewhere—the exact opposite of novelty.\n• <b style=\"color:#2563eb\">Conciseness:</b> Conciseness measures brevity and brevity of expression, not text overlap.\n• <b style=\"color:#2563eb\">Correctness of translation:</b> Translation fidelity checks whether meaning or codon-amino acid mappings are accurate, not percentage match against existing literature."
   },
   {
     "id": 4,
@@ -45,7 +45,7 @@
       "Pharmacology"
     ],
     "correct_answer": "Pharmacology",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: As designated in the exam key, Pharmacology is the overarching biological science dealing with drugs, their interactions, cellular actions, and therapeutic applications. Within pharmacology, the specific branch that examines drug mechanisms and physiological effects is pharmacodynamics (\"what the drug does to the body\").\n• Why Other Options Are Incorrect:\n  - Pharmacokinetics: Studies \"what the body does to the drug\" (Absorption, Distribution, Metabolism, and Excretion - ADME).\n  - Pharmacometrics: The mathematical modeling and statistical quantification of drug-disease-effect interactions.\n  - Pharmacodynamics: While specifically describing drug mechanisms, the exam key categorizes this broad definition under Pharmacology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the exam key, Pharmacology is the overarching biological science dealing with drugs, their interactions, cellular actions, and therapeutic applications. Within pharmacology, the specific branch that examines drug mechanisms and physiological effects is pharmacodynamics (\"what the drug does to the body\").\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pharmacokinetics:</b> Studies \"what the body does to the drug\" (Absorption, Distribution, Metabolism, and Excretion - ADME).\n• <b style=\"color:#2563eb\">Pharmacometrics:</b> The mathematical modeling and statistical quantification of drug-disease-effect interactions.\n• <b style=\"color:#2563eb\">Pharmacodynamics:</b> While specifically describing drug mechanisms, the exam key categorizes this broad definition under Pharmacology."
   },
   {
     "id": 5,
@@ -57,7 +57,7 @@
       "Ktups, Substitution matrix"
     ],
     "correct_answer": "Substitution matrix, Hashing procedure",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In sequence alignment heuristics, BLAST pre-computes a list of high-scoring neighborhood words based on scoring substitution matrices (e.g., BLOSUM62). In contrast, FASTA finds exact matching words (k-tuples) between the query and database by constructing a hash table (lookup table) via a hashing procedure.\n• Why Other Options Are Incorrect:\n  - Substitution matrix, Blocks: Blocks is a database of aligned conserved protein segments, not the algorithm used by FASTA.\n  - Hashing procedure, Substitution matrix: Inverted order; BLAST uses substitution matrices to generate word lists and FASTA uses hashing.\n  - Ktups, Substitution matrix: ktup is the word length parameter in FASTA, not the indexing procedure itself."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn sequence alignment heuristics, BLAST pre-computes a list of high-scoring neighborhood words based on scoring substitution matrices (e.g., BLOSUM62). In contrast, FASTA finds exact matching words (k-tuples) between the query and database by constructing a hash table (lookup table) via a hashing procedure.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Substitution matrix, Blocks:</b> Blocks is a database of aligned conserved protein segments, not the algorithm used by FASTA.\n• <b style=\"color:#2563eb\">Hashing procedure, Substitution matrix:</b> Inverted order; BLAST uses substitution matrices to generate word lists and FASTA uses hashing.\n• <b style=\"color:#2563eb\">Ktups, Substitution matrix:</b> ktup is the word length parameter in FASTA, not the indexing procedure itself."
   },
   {
     "id": 6,
@@ -69,7 +69,7 @@
       "Alignment score"
     ],
     "correct_answer": "Read quality score",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Phred quality score (Q-score) is the universal metric used in Sanger and Next-Generation Sequencing (NGS) to indicate the probability that a given base call is erroneous ($Q = -10 \\log_{10} P$). A Phred score of Q20 means a 1 in 100 error probability (99% accuracy), while Q30 means a 1 in 1000 error probability (99.9% accuracy).\n• Why Other Options Are Incorrect:\n  - Indicator of mutation load: Mutation load measures the genetic burden of harmful mutations in a population's gene pool.\n  - Average depth/coverage: Depth represents the physical number of sequencing reads covering a genomic coordinate (e.g., 50x coverage).\n  - Alignment score: Represents the numerical score calculated when aligning two sequences using a dynamic programming or heuristic matrix (e.g., BLAST bit score)."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Phred quality score (Q-score) is the universal metric used in Sanger and Next-Generation Sequencing (NGS) to indicate the probability that a given base call is erroneous ($Q = -10 \\log_{10} P$). A Phred score of Q20 means a 1 in 100 error probability (99% accuracy), while Q30 means a 1 in 1000 error probability (99.9% accuracy).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Indicator of mutation load:</b> Mutation load measures the genetic burden of harmful mutations in a population's gene pool.\n• <b style=\"color:#2563eb\">Average depth/coverage:</b> Depth represents the physical number of sequencing reads covering a genomic coordinate (e.g., 50x coverage).\n• <b style=\"color:#2563eb\">Alignment score:</b> Represents the numerical score calculated when aligning two sequences using a dynamic programming or heuristic matrix (e.g., BLAST bit score)."
   },
   {
     "id": 7,
@@ -81,7 +81,7 @@
       "analogous proteins"
     ],
     "correct_answer": "the structural family to which a protein belongs",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: CATH (Class, Architecture, Topology, Homologous superfamily) and SCOP (Structural Classification of Proteins) are hierarchical databases that classify experimental 3D protein structures into distinct structural families, fold groups, and architectural superfamilies.\n• Why Other Options Are Incorrect:\n  - Genetic family: Genetic families are grouped by gene loci, chromosome organization, and nucleotide lineages, not 3D structural protein folds.\n  - Homologous / Analogous proteins: While CATH and SCOP identify homologous superfamilies, their primary defining classification purpose is organizing the 3D structural fold architecture of proteins."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCATH (Class, Architecture, Topology, Homologous superfamily) and SCOP (Structural Classification of Proteins) are hierarchical databases that classify experimental 3D protein structures into distinct structural families, fold groups, and architectural superfamilies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Genetic family:</b> Genetic families are grouped by gene loci, chromosome organization, and nucleotide lineages, not 3D structural protein folds.\n• <b style=\"color:#2563eb\">Homologous / Analogous proteins:</b> While CATH and SCOP identify homologous superfamilies, their primary defining classification purpose is organizing the 3D structural fold architecture of proteins."
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
       "Molecule affinity checking"
     ],
     "correct_answer": "Molecular docking",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Molecular docking is a computer-aided drug design technique that predicts the preferred orientation, 3D geometry (conformation/pose), and binding affinity of a small molecule (ligand) inside the active or binding site of a target macromolecule (receptor protein).\n• Why Other Options Are Incorrect:\n  - Molecular matching / Molecular fitting: Non-standard informal phrases, not the formal scientific biophysical terminology.\n  - Molecule affinity checking: Binding affinity is scored as an output during docking, but the entire computational method is termed molecular docking."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMolecular docking is a computer-aided drug design technique that predicts the preferred orientation, 3D geometry (conformation/pose), and binding affinity of a small molecule (ligand) inside the active or binding site of a target macromolecule (receptor protein).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Molecular matching / Molecular fitting:</b> Non-standard informal phrases, not the formal scientific biophysical terminology.\n• <b style=\"color:#2563eb\">Molecule affinity checking:</b> Binding affinity is scored as an output during docking, but the entire computational method is termed molecular docking."
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
       "All of these are correct"
     ],
     "correct_answer": "c.234_238del",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: In official HGVS (Human Genome Variation Society) sequence variant nomenclature, a deletion of two or more contiguous coding nucleotides is written using an underscore (_) between the starting and ending positions, followed by 'del'. Therefore, the deletion from nucleotide 234 to 238 is correctly written as c.234_238del.\n• Why Other Options Are Incorrect:\n  - c.234-238del: A hyphen (-) is used to indicate offsets from intron/exon junctions in HGVS, not range boundaries.\n  - c.234del5: An outdated informal format; HGVS strictly requires listing the start and end coordinates.\n  - All of these: Only option (1) complies with official HGVS guidelines."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn official HGVS (Human Genome Variation Society) sequence variant nomenclature, a deletion of two or more contiguous coding nucleotides is written using an underscore (_) between the starting and ending positions, followed by 'del'. Therefore, the deletion from nucleotide 234 to 238 is correctly written as c.234_238del.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">c.234-238del:</b> A hyphen (-) is used to indicate offsets from intron/exon junctions in HGVS, not range boundaries.\n• <b style=\"color:#2563eb\">c.234del5:</b> An outdated informal format; HGVS strictly requires listing the start and end coordinates.\n• <b style=\"color:#2563eb\">All of these:</b> Only option (1) complies with official HGVS guidelines."
   },
   {
     "id": 10,
@@ -117,7 +117,7 @@
       "analogous proteins"
     ],
     "correct_answer": "the structural family to which a protein belongs",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: CATH and SCOP are structural bioinformatics resources that identify and classify the structural domain, architecture, and structural family of experimentally determined protein structures.\n• Why Other Options Are Incorrect:\n  - Genetic family: Relates to chromosome and gene family organization, not protein 3D domain folds.\n  - Homologous vs analogous: These are evolutionary relationships, but CATH and SCOP are fundamentally structural classification systems."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCATH and SCOP are structural bioinformatics resources that identify and classify the structural domain, architecture, and structural family of experimentally determined protein structures.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Genetic family:</b> Relates to chromosome and gene family organization, not protein 3D domain folds.\n• <b style=\"color:#2563eb\">Homologous vs analogous:</b> These are evolutionary relationships, but CATH and SCOP are fundamentally structural classification systems."
   },
   {
     "id": 11,
@@ -129,7 +129,7 @@
       "The genetic information stored in an organism's genome"
     ],
     "correct_answer": "The entire RNA population present in a cell",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The transcriptome represents the complete set of all RNA molecules (including messenger RNA, ribosomal RNA, transfer RNA, and non-coding regulatory RNAs) synthesized in an individual cell, tissue, or organism at a specific physiological moment.\n• Why Other Options Are Incorrect:\n  - Complete set of DNA / Genetic information: This is the Genome.\n  - Collection of proteins expressed: This is the Proteome."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe transcriptome represents the complete set of all RNA molecules (including messenger RNA, ribosomal RNA, transfer RNA, and non-coding regulatory RNAs) synthesized in an individual cell, tissue, or organism at a specific physiological moment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Complete set of DNA / Genetic information:</b> This is the Genome.\n• <b style=\"color:#2563eb\">Collection of proteins expressed:</b> This is the Proteome."
   },
   {
     "id": 12,
@@ -141,7 +141,7 @@
       "RefSeq"
     ],
     "correct_answer": "UniProt",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: UniProt (Universal Protein Resource) is the central global repository providing comprehensive, high-quality, and richly annotated protein sequence and functional information.\n• Why Other Options Are Incorrect:\n  - GenBank: Primary nucleotide (DNA/RNA) database maintained by NCBI.\n  - PDB: Structural database archiving 3D atomic coordinates of biological molecules.\n  - RefSeq: General reference standard database containing genomic DNA, RNA transcripts, and proteins, but UniProt is the universally dedicated protein sequence authority."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nUniProt (Universal Protein Resource) is the central global repository providing comprehensive, high-quality, and richly annotated protein sequence and functional information.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">GenBank:</b> Primary nucleotide (DNA/RNA) database maintained by NCBI.\n• <b style=\"color:#2563eb\">PDB:</b> Structural database archiving 3D atomic coordinates of biological molecules.\n• <b style=\"color:#2563eb\">RefSeq:</b> General reference standard database containing genomic DNA, RNA transcripts, and proteins, but UniProt is the universally dedicated protein sequence authority."
   },
   {
     "id": 13,
@@ -153,7 +153,7 @@
       "MPEx"
     ],
     "correct_answer": "MPEx",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: MPEx (Membrane Protein Explorer) is a specialized database and computational tool specifically designed to explore, predict, and analyze the sequences, hydropathy, topology, and secondary structures of membrane-spanning proteins.\n• Why Other Options Are Incorrect:\n  - Pfam: Broad database of all protein families and domains across all cellular compartments.\n  - InterPro: An integrative platform combining multiple protein signature databases.\n  - TMHMM: A prediction algorithm for transmembrane helices, whereas MPEx is the dedicated exploratory workbench/database."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nMPEx (Membrane Protein Explorer) is a specialized database and computational tool specifically designed to explore, predict, and analyze the sequences, hydropathy, topology, and secondary structures of membrane-spanning proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pfam:</b> Broad database of all protein families and domains across all cellular compartments.\n• <b style=\"color:#2563eb\">InterPro:</b> An integrative platform combining multiple protein signature databases.\n• <b style=\"color:#2563eb\">TMHMM:</b> A prediction algorithm for transmembrane helices, whereas MPEx is the dedicated exploratory workbench/database."
   },
   {
     "id": 14,
@@ -165,7 +165,7 @@
       "Protein interactions"
     ],
     "correct_answer": "Protein structures",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Protein Data Bank (PDB) is the single global public archive dedicated to the 3D atomic structures of biological macromolecules (proteins, nucleic acids, and their complexes) determined experimentally by X-ray crystallography, Cryo-EM, and NMR spectroscopy.\n• Why Other Options Are Incorrect:\n  - Protein sequences: Curated in UniProt.\n  - Protein functions: Annotated in UniProt and Gene Ontology (GO).\n  - Protein interactions: Curated in STRING, BioGRID, and IntAct."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Protein Data Bank (PDB) is the single global public archive dedicated to the 3D atomic structures of biological macromolecules (proteins, nucleic acids, and their complexes) determined experimentally by X-ray crystallography, Cryo-EM, and NMR spectroscopy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Protein sequences:</b> Curated in UniProt.\n• <b style=\"color:#2563eb\">Protein functions:</b> Annotated in UniProt and Gene Ontology (GO).\n• <b style=\"color:#2563eb\">Protein interactions:</b> Curated in STRING, BioGRID, and IntAct."
   },
   {
     "id": 15,
@@ -177,7 +177,7 @@
       "InterPro"
     ],
     "correct_answer": "Pfam",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pfam is a widely used database of protein families and functional domains. Each domain family in Pfam is represented by curated multiple sequence alignments and Profile Hidden Markov Models (profile HMMs).\n• Why Other Options Are Incorrect:\n  - UniProt / Swiss-Prot: Focus on complete full-length protein sequences and functional annotations rather than modular domain-family HMM profiles.\n  - InterPro: An umbrella database that integrates Pfam along with several other family classification databases."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPfam is a widely used database of protein families and functional domains. Each domain family in Pfam is represented by curated multiple sequence alignments and Profile Hidden Markov Models (profile HMMs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">UniProt / Swiss-Prot:</b> Focus on complete full-length protein sequences and functional annotations rather than modular domain-family HMM profiles.\n• <b style=\"color:#2563eb\">InterPro:</b> An umbrella database that integrates Pfam along with several other family classification databases."
   },
   {
     "id": 16,
@@ -189,7 +189,7 @@
       "PhosphoSitePlus"
     ],
     "correct_answer": "PhosphoSitePlus",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: PhosphoSitePlus (PSP) is a premier curated knowledgebase dedicated to experimentally observed in vivo post-translational modifications (PTMs), specifically phosphorylation, ubiquitination, acetylation, and methylation across human and mouse proteins.\n• Why Other Options Are Incorrect:\n  - UniProt: General protein database that records PTMs among many other features, but PhosphoSitePlus is the specialized dedicated PTM knowledgebase.\n  - NCBI Protein: General protein sequence collection.\n  - PANTHER: Classification system focusing on protein evolution, gene families, and ontology."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPhosphoSitePlus (PSP) is a premier curated knowledgebase dedicated to experimentally observed in vivo post-translational modifications (PTMs), specifically phosphorylation, ubiquitination, acetylation, and methylation across human and mouse proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">UniProt:</b> General protein database that records PTMs among many other features, but PhosphoSitePlus is the specialized dedicated PTM knowledgebase.\n• <b style=\"color:#2563eb\">NCBI Protein:</b> General protein sequence collection.\n• <b style=\"color:#2563eb\">PANTHER:</b> Classification system focusing on protein evolution, gene families, and ontology."
   },
   {
     "id": 17,
@@ -201,7 +201,7 @@
       "Protein localization"
     ],
     "correct_answer": "Protein families and domains",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: NCBI's Conserved Domain Database (CDD) maintains position-specific score matrices (PSSMs) and multiple alignments representing evolutionary conserved domains and functional protein families.\n• Why Other Options Are Incorrect:\n  - Protein-protein interactions: Found in STRING, IntAct, and BioGRID.\n  - Protein expression levels: Curated in the Human Protein Atlas and Expression Atlas.\n  - Protein localization: Handled by databases like CELLO or SubCellBarCode."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nNCBI's Conserved Domain Database (CDD) maintains position-specific score matrices (PSSMs) and multiple alignments representing evolutionary conserved domains and functional protein families.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Protein-protein interactions:</b> Found in STRING, IntAct, and BioGRID.\n• <b style=\"color:#2563eb\">Protein expression levels:</b> Curated in the Human Protein Atlas and Expression Atlas.\n• <b style=\"color:#2563eb\">Protein localization:</b> Handled by databases like CELLO or SubCellBarCode."
   },
   {
     "id": 18,
@@ -213,7 +213,7 @@
       "STRING"
     ],
     "correct_answer": "UniProt",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: UniProt (specifically UniProtKB/Swiss-Prot) provides manually curated, authoritative functional annotations, including enzymatic mechanisms, active site residues, cofactor requirements, disease mutations, and biological classification for proteins.\n• Why Other Options Are Incorrect:\n  - PDB: Focuses on 3D spatial atomic coordinates.\n  - GenBank: Stores primary nucleotide sequences.\n  - STRING: Dedicated to protein-protein interaction networks."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nUniProt (specifically UniProtKB/Swiss-Prot) provides manually curated, authoritative functional annotations, including enzymatic mechanisms, active site residues, cofactor requirements, disease mutations, and biological classification for proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">PDB:</b> Focuses on 3D spatial atomic coordinates.\n• <b style=\"color:#2563eb\">GenBank:</b> Stores primary nucleotide sequences.\n• <b style=\"color:#2563eb\">STRING:</b> Dedicated to protein-protein interaction networks."
   },
   {
     "id": 19,
@@ -225,7 +225,7 @@
       "UniProt"
     ],
     "correct_answer": "STRING",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: STRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is the leading worldwide database of known and predicted protein-protein interactions (PPIs), integrating physical interactions and functional associations derived from high-throughput experiments, co-expression, and automated text mining.\n• Why Other Options Are Incorrect:\n  - Pfam: Database of protein domains and families based on HMMs.\n  - InterPro: Integrated protein signature resource.\n  - UniProt: Comprehensive single-protein sequence and functional annotation database."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSTRING (Search Tool for the Retrieval of Interacting Genes/Proteins) is the leading worldwide database of known and predicted protein-protein interactions (PPIs), integrating physical interactions and functional associations derived from high-throughput experiments, co-expression, and automated text mining.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pfam:</b> Database of protein domains and families based on HMMs.\n• <b style=\"color:#2563eb\">InterPro:</b> Integrated protein signature resource.\n• <b style=\"color:#2563eb\">UniProt:</b> Comprehensive single-protein sequence and functional annotation database."
   },
   {
     "id": 20,
@@ -237,7 +237,7 @@
       "Swiss-Prot"
     ],
     "correct_answer": "PDBsum",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: PDBsum is a pictorial database that provides an at-a-glance structural summary of every PDB entry. It generates detailed schematic wiring diagrams and tables displaying all secondary structure elements (alpha-helices, beta-sheets, beta-turns, and loops) and their ligand contacts.\n• Why Other Options Are Incorrect:\n  - SCOP & CATH: Hierarchical classification systems for 3D tertiary structural folds and domains, not pictorial secondary structure summary sheets.\n  - Swiss-Prot: Text-based repository of amino acid sequences and functional features."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPDBsum is a pictorial database that provides an at-a-glance structural summary of every PDB entry. It generates detailed schematic wiring diagrams and tables displaying all secondary structure elements (alpha-helices, beta-sheets, beta-turns, and loops) and their ligand contacts.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">SCOP & CATH:</b> Hierarchical classification systems for 3D tertiary structural folds and domains, not pictorial secondary structure summary sheets.\n• <b style=\"color:#2563eb\">Swiss-Prot:</b> Text-based repository of amino acid sequences and functional features."
   },
   {
     "id": 21,
@@ -249,7 +249,7 @@
       "UniProt"
     ],
     "correct_answer": "SCOP",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The SCOP (Structural Classification of Proteins) database is structurally organized around evolutionary principles. Its fundamental structural classification unit is the \"Homologous Superfamily\", where proteins sharing low sequence identity but unmistakable structural and functional conservation are grouped together by shared ancestry.\n• Why Other Options Are Incorrect:\n  - CATH: Uses Class, Architecture, Topology, and Homologous superfamily (both classify structures, but SCOP's defining identity is structural evolutionary superfamily classification).\n  - Pfam: Sequence domain classification, not 3D structure classification.\n  - UniProt: Protein sequence repository."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe SCOP (Structural Classification of Proteins) database is structurally organized around evolutionary principles. Its fundamental structural classification unit is the \"Homologous Superfamily\", where proteins sharing low sequence identity but unmistakable structural and functional conservation are grouped together by shared ancestry.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">CATH:</b> Uses Class, Architecture, Topology, and Homologous superfamily (both classify structures, but SCOP's defining identity is structural evolutionary superfamily classification).\n• <b style=\"color:#2563eb\">Pfam:</b> Sequence domain classification, not 3D structure classification.\n• <b style=\"color:#2563eb\">UniProt:</b> Protein sequence repository."
   },
   {
     "id": 22,
@@ -261,7 +261,7 @@
       "Protein-protein interactions"
     ],
     "correct_answer": "Protein expression in human tissues",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: The Human Protein Atlas (HPA) program is a publicly available database that maps all human proteins in specific cells, tissues, and organ systems using high-resolution immunohistochemistry and spatial transcriptomics.\n• Why Other Options Are Incorrect:\n  - Protein structures: PDB.\n  - Protein functions: UniProtKB.\n  - Protein-protein interactions: STRING, BioGRID."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe Human Protein Atlas (HPA) program is a publicly available database that maps all human proteins in specific cells, tissues, and organ systems using high-resolution immunohistochemistry and spatial transcriptomics.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Protein structures:</b> PDB.\n• <b style=\"color:#2563eb\">Protein functions:</b> UniProtKB.\n• <b style=\"color:#2563eb\">Protein-protein interactions:</b> STRING, BioGRID."
   },
   {
     "id": 23,
@@ -273,7 +273,7 @@
       "SMART"
     ],
     "correct_answer": "InterPro",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: InterPro provides functional analysis of proteins by classifying them into families and predicting the presence of domains and important sites. It integrates multiple partner databases (including Pfam, PRINTS, SMART, PROSITE, CATH-Gene3D, and PANTHER) into a single powerful diagnostic tool.\n• Why Other Options Are Incorrect:\n  - Pfam & SMART: Individual member databases with distinct specific profiles, whereas InterPro provides the comprehensive integrated classification.\n  - UniProt: General protein sequence database."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nInterPro provides functional analysis of proteins by classifying them into families and predicting the presence of domains and important sites. It integrates multiple partner databases (including Pfam, PRINTS, SMART, PROSITE, CATH-Gene3D, and PANTHER) into a single powerful diagnostic tool.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Pfam & SMART:</b> Individual member databases with distinct specific profiles, whereas InterPro provides the comprehensive integrated classification.\n• <b style=\"color:#2563eb\">UniProt:</b> General protein sequence database."
   },
   {
     "id": 24,
@@ -285,7 +285,7 @@
       "CELLO"
     ],
     "correct_answer": "CELLO",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: CELLO (subCELlular LOcalization predictor) is a specialized computational platform that uses multi-layer Support Vector Machine (SVM) algorithms to accurately predict where a protein resides within a eukaryotic or prokaryotic cell (e.g., nucleus, cytoplasm, mitochondria, cell membrane).\n• Why Other Options Are Incorrect:\n  - ExPASy: SIB bioinformatics resource portal hosting various proteomics tools.\n  - Swiss-Prot: Manually annotated protein sequence database.\n  - PANTHER: Functional evolution and gene ontology classification system."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nCELLO (subCELlular LOcalization predictor) is a specialized computational platform that uses multi-layer Support Vector Machine (SVM) algorithms to accurately predict where a protein resides within a eukaryotic or prokaryotic cell (e.g., nucleus, cytoplasm, mitochondria, cell membrane).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">ExPASy:</b> SIB bioinformatics resource portal hosting various proteomics tools.\n• <b style=\"color:#2563eb\">Swiss-Prot:</b> Manually annotated protein sequence database.\n• <b style=\"color:#2563eb\">PANTHER:</b> Functional evolution and gene ontology classification system."
   },
   {
     "id": 25,
@@ -297,7 +297,7 @@
       "GenBank"
     ],
     "correct_answer": "Pfam",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Pfam is built entirely around profile Hidden Markov Models (profile HMMs) generated using the HMMER software. These statistical models capture the position-specific variation of conserved amino acids across protein families and domains.\n• Why Other Options Are Incorrect:\n  - UniProt: Textual sequence records, not an HMM profile repository.\n  - PDB: 3D atomic coordinates.\n  - GenBank: Raw primary nucleotide sequences."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nPfam is built entirely around profile Hidden Markov Models (profile HMMs) generated using the HMMER software. These statistical models capture the position-specific variation of conserved amino acids across protein families and domains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">UniProt:</b> Textual sequence records, not an HMM profile repository.\n• <b style=\"color:#2563eb\">PDB:</b> 3D atomic coordinates.\n• <b style=\"color:#2563eb\">GenBank:</b> Raw primary nucleotide sequences."
   },
   {
     "id": 26,
@@ -309,6 +309,6 @@
       "Protein-protein interaction prediction"
     ],
     "correct_answer": "Protein structure classification",
-    "explanation": "[CONCEPT]\n• Correct Answer Explanation: Both SCOP and CATH are the standard reference databases for the structural classification of proteins. They categorize 3D protein structures into hierarchical levels (classes, folds, architectures, topologies, and superfamilies) to reveal architectural and evolutionary patterns among biological macromolecules.\n• Why Other Options Are Incorrect:\n  - Sequence alignment: Handled by tools like BLAST, Clustal Omega, or MUSCLE.\n  - Structure prediction: Performed by algorithms like AlphaFold or ESMFold.\n  - Interaction prediction: Performed by interaction databases like STRING."
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nBoth SCOP and CATH are the standard reference databases for the structural classification of proteins. They categorize 3D protein structures into hierarchical levels (classes, folds, architectures, topologies, and superfamilies) to reveal architectural and evolutionary patterns among biological macromolecules.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Sequence alignment:</b> Handled by tools like BLAST, Clustal Omega, or MUSCLE.\n• <b style=\"color:#2563eb\">Structure prediction:</b> Performed by algorithms like AlphaFold or ESMFold.\n• <b style=\"color:#2563eb\">Interaction prediction:</b> Performed by interaction databases like STRING."
   }
 ]

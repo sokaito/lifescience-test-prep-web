@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following growth media would you expect to result in synthesis of high levels of mRNA for the enzymes of the E. coli lac operon?",
+    "options": [
+      "High glucose, high lactose",
+      "Low glucose, low lactose",
+      "High glucose, low lactose",
+      "Low glucose, high lactose"
+    ],
+    "correct_answer": "Low glucose, high lactose",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Low glucose, high lactose</b> is correct because full induction of the E. coli lac operon requires two conditions: (1) high lactose (converted to allolactose, which binds and removes the LacI repressor from the operator), and (2) low glucose (which activates adenylate cyclase, raising cyclic AMP levels; cAMP binds CAP/CRP, and the CAP-cAMP complex binds upstream of the promoter to strongly recruit RNA polymerase).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): High glucose, high lactose</b> - Catabolite repression operates; low cAMP prevents CAP from activating transcription, resulting in basal/low expression.\n• <b style=\"color:#2563eb\">Option (2): Low glucose, low lactose</b> - Lac repressor remains bound to the operator, completely blocking transcription despite high cAMP-CAP.\n• <b style=\"color:#2563eb\">Option (3): High glucose, low lactose</b> - Both catabolite repression and LacI repression operate simultaneously, shutting off the operon."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is true regarding the trp operon in bacteria?",
+    "options": [
+      "The trp operon is involved in the synthesis of tryptophan.",
+      "The trp operon is a repressible operon.",
+      "The trp operon is repressed in the presence of tryptophan.",
+      "All of the above."
+    ],
+    "correct_answer": "The trp operon is involved in the synthesis of tryptophan.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): The trp operon is involved in the synthesis of tryptophan.</b> is designated. Note that in standard bacterial genetics, all the listed statements are factually correct (the trp operon is a repressible anabolic operon whose structural genes trpEDCBA encode enzymes for tryptophan biosynthesis, and it is repressed when tryptophan levels are high). The official key explicitly designates Option (1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The trp operon is a repressible operon</b> - An accurate biochemical description, but Option (1) is designated in the key.\n• <b style=\"color:#2563eb\">Option (3): The trp operon is repressed in the presence of tryptophan</b> - Also true biochemically; the key specifically selects Option (1).\n• <b style=\"color:#2563eb\">Option (4): All of the above</b> - Although all statements describe the operon, the official key designates Option (1)."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following components is not present in the trp operon?",
+    "options": [
+      "Promoter",
+      "Operator",
+      "Repressor protein",
+      "Inducer molecule"
+    ],
+    "correct_answer": "Inducer molecule",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Inducer molecule</b> is correct because the tryptophan (trp) operon is a repressible biosynthetic operon, not an inducible operon. It functions with a corepressor (tryptophan itself), which binds the inactive aporepressor (TrpR) to form an active repressor complex. Inducer molecules (such as allolactose or IPTG) function in inducible catabolic operons like the lac operon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Promoter</b> - Present; contains the -10 and -35 sites where RNA polymerase binds (trpP).\n• <b style=\"color:#2563eb\">Option (2): Operator</b> - Present; the trpO region where the active TrpR-tryptophan complex binds.\n• <b style=\"color:#2563eb\">Option (3): Repressor protein</b> - Present; the TrpR aporepressor encoded by the trpR gene."
+  },
+  {
+    "id": 4,
+    "question": "What is the role of the repressor protein in the trp operon?",
+    "options": [
+      "It binds to the operator and prevents RNA polymerase from transcribing the operon.",
+      "It binds to the promoter and initiates transcription of the operon.",
+      "It binds to tryptophan and activates the operon.",
+      "It binds to the ribosome and promotes translation of the operon."
+    ],
+    "correct_answer": "It binds to the operator and prevents RNA polymerase from transcribing the operon.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It binds to the operator and prevents RNA polymerase from transcribing the operon.</b> is correct because when tryptophan binds as a corepressor to the TrpR aporepressor, it induces a conformational change that allows the TrpR dimer to bind with high affinity to the trp operator (trpO). This physically sterically blocks RNA polymerase from binding the overlapping trp promoter, shutting off transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It binds to the promoter and initiates transcription of the operon</b> - Repressors inhibit transcription; initiation is done by RNA polymerase.\n• <b style=\"color:#2563eb\">Option (3): It binds to tryptophan and activates the operon</b> - Binding to tryptophan causes repression (inactivation), not activation.\n• <b style=\"color:#2563eb\">Option (4): It binds to the ribosome and promotes translation of the operon</b> - Repressor acts at the DNA level on transcription, not on ribosomes."
+  },
+  {
+    "id": 5,
+    "question": "Under which conditions is the trp operon typically active?",
+    "options": [
+      "High levels of tryptophan",
+      "Low levels of tryptophan",
+      "High levels of other amino acids",
+      "Low levels of other amino acids"
+    ],
+    "correct_answer": "Low levels of tryptophan",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Low levels of tryptophan</b> is correct because when intracellular tryptophan is scarce, tryptophan dissociates from the TrpR repressor. The aporepressor cannot bind the operator, leaving the promoter accessible so RNA polymerase actively transcribes the trpEDCBA structural genes to synthesize tryptophan.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): High levels of tryptophan</b> - High tryptophan causes both TrpR-mediated repression and transcriptional attenuation, turning the operon off.\n• <b style=\"color:#2563eb\">Option (3): High levels of other amino acids</b> - Non-specific; the operon is specifically responsive to tryptophan levels.\n• <b style=\"color:#2563eb\">Option (4): Low levels of other amino acids</b> - Unrelated to trp operon regulation."
+  },
+  {
+    "id": 6,
+    "question": "What is the function of the attenuator sequence in the trp operon?",
+    "options": [
+      "It binds to the repressor protein and inactivates it.",
+      "It enhances the binding of RNA polymerase to the promoter.",
+      "It regulates the termination of transcription based on tryptophan availability.",
+      "It promotes the translation of the trp operon mRNA."
+    ],
+    "correct_answer": "It regulates the termination of transcription based on tryptophan availability.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It regulates the termination of transcription based on tryptophan availability.</b> is correct because attenuation fine-tunes transcription through coupled transcription-translation in the leader region (trpL). When Trp-tRNA^Trp is abundant, the ribosome quickly translates tandem Trp codons, allowing formation of the 3:4 hairpin (a rho-independent terminator) that prematurely terminates transcription. When Trp is low, the ribosome stalls at Trp codons, forming the 2:3 anti-terminator hairpin, allowing transcription to continue into structural genes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It binds to the repressor protein and inactivates it</b> - Attenuation functions independently of the TrpR repressor.\n• <b style=\"color:#2563eb\">Option (2): It enhances the binding of RNA polymerase to the promoter</b> - Functions during elongation/termination in the mRNA transcript, far downstream of the promoter.\n• <b style=\"color:#2563eb\">Option (4): It promotes the translation of the trp operon mRNA</b> - It controls premature transcription termination, not general translation."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following describes the lysogenic pathway of lambda phage gene regulation?",
+    "options": [
+      "The phage DNA integrates into the host genome and remains dormant.",
+      "The phage DNA replicates independently and produces new phage particles.",
+      "The phage DNA undergoes recombination with the host DNA.",
+      "The phage DNA is immediately transcribed and translated upon infection."
+    ],
+    "correct_answer": "The phage DNA integrates into the host genome and remains dormant.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): The phage DNA integrates into the host genome and remains dormant.</b> is correct because in the lysogenic pathway of bacteriophage lambda, the phage genome is integrated by lambda integrase into the bacterial chromosome at the attB/attP attachment site as a prophage. The CI repressor maintains dormancy by shutting down lytic promoters (PL and PR), allowing the prophage to be replicated passively alongside host DNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The phage DNA replicates independently and produces new phage particles</b> - This defines the productive lytic cycle.\n• <b style=\"color:#2563eb\">Option (3): The phage DNA undergoes recombination with the host DNA</b> - While site-specific integration involves recombination, Option (1) completely describes the biological dormancy of lysogeny.\n• <b style=\"color:#2563eb\">Option (4): The phage DNA is immediately transcribed and translated upon infection</b> - Characteristics leading toward lysis rather than maintained lysogeny."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is responsible for switching between the lysogenic and lytic pathways in lambda phage gene regulation?",
+    "options": [
+      "CII protein",
+      "CI protein",
+      "Cro protein",
+      "N protein"
+    ],
+    "correct_answer": "Cro protein",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cro protein</b> is designated. In lambda phage developmental switching, the Cro (Control of Repressor and Other things) protein and CI repressor form a bistable genetic toggle switch. Cro binds to operator sites (preferentially OR3) to repress CI transcription from PRM, promoting and locking in the lytic pathway.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): CII protein</b> - Establishes lysogeny by activating PRE and Pint, but Cro mediates the critical competitive switch.\n• <b style=\"color:#2563eb\">Option (2): CI protein</b> - The lambda repressor that maintains lysogeny; designated key specifies Option (3) Cro.\n• <b style=\"color:#2563eb\">Option (4): N protein</b> - An antitermination protein enabling early elongation."
+  },
+  {
+    "id": 9,
+    "question": "What is the role of the Cro protein in lambda phage gene regulation?",
+    "options": [
+      "It activates the transcription of genes involved in the lytic pathway.",
+      "It represses the transcription of genes involved in the lytic pathway.",
+      "It promotes integration of the phage DNA into the host genome.",
+      "It inhibits the replication of the phage DNA."
+    ],
+    "correct_answer": "It activates the transcription of genes involved in the lytic pathway.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It activates the transcription of genes involved in the lytic pathway.</b> is correct. By binding OR3 and blocking CI maintenance transcription, Cro ensures that the rightward (PR) and leftward (PL) lytic promoters remain actively expressed to synthesize downstream lytic proteins required for DNA replication, head/tail assembly, and host lysis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It represses the transcription of genes involved in the lytic pathway</b> - High levels of Cro can eventually turn down early genes, but its primary function is driving the lytic cascade.\n• <b style=\"color:#2563eb\">Option (3): It promotes integration of the phage DNA into the host genome</b> - Promoted by Int and CII during lysogeny.\n• <b style=\"color:#2563eb\">Option (4): It inhibits the replication of the phage DNA</b> - Lytic cycle requires rapid phage DNA replication via rolling circle mechanism."
+  },
+  {
+    "id": 10,
+    "question": "How does the lambda phage switch from the lysogenic to the lytic pathway?",
+    "options": [
+      "Activation of the Cro protein",
+      "Inactivation of the CI protein",
+      "Integration of the phage DNA into the host genome",
+      "Expression of the N protein"
+    ],
+    "correct_answer": "Inactivation of the CI protein",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Inactivation of the CI protein</b> is correct because induction from lysogeny to lysis is triggered when DNA damage in the host cell activates RecA to RecA*. RecA* stimulates the autocatalytic cleavage of the CI repressor dimer between its N-terminal DNA-binding domain and C-terminal dimerization domain. Inactivation of CI relieves repression at PL and PR, initiating the lytic cycle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Activation of the Cro protein</b> - Cro is transcribed as a consequence of CI inactivation.\n• <b style=\"color:#2563eb\">Option (3): Integration of the phage DNA into the host genome</b> - Occurs during lysogeny establishment, whereas the switch to lysis requires excision.\n• <b style=\"color:#2563eb\">Option (4): Expression of the N protein</b> - N antiterminator expression follows CI clearance."
+  },
+  {
+    "id": 11,
+    "question": "What is the role of the N protein in lambda phage gene regulation?",
+    "options": [
+      "It regulates the integration of the phage DNA into the host genome.",
+      "It enhances the expression of lytic genes.",
+      "It prevents the inactivation of the CI protein.",
+      "It inhibits the activity of the Cro protein."
+    ],
+    "correct_answer": "It enhances the expression of lytic genes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It enhances the expression of lytic genes.</b> is correct because N is an RNA-binding antitermination factor. It binds to nut (N-utilization) sites on the nascent transcript and complexes with host Nus factors (NusA, NusB, NusG) and RNA polymerase, allowing the polymerase to read through early terminators (tL1, tR1) to transcribe downstream delayed-early genes required for the lytic cycle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It regulates the integration of the phage DNA into the host genome</b> - Integration is catalyzed by Integrase (Int).\n• <b style=\"color:#2563eb\">Option (3): It prevents the inactivation of the CI protein</b> - Does not affect RecA-mediated CI cleavage.\n• <b style=\"color:#2563eb\">Option (4): It inhibits the activity of the Cro protein</b> - Does not inhibit Cro."
+  },
+  {
+    "id": 12,
+    "question": "What is the function of the lactose operon (lac operon) in bacteria?",
+    "options": [
+      "It regulates the synthesis of lactose.",
+      "It regulates the metabolism of lactose.",
+      "It regulates the transport of lactose.",
+      "It regulates the replication of lactose."
+    ],
+    "correct_answer": "It regulates the metabolism of lactose.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It regulates the metabolism of lactose.</b> is correct because the lac operon is an inducible catabolic operon in E. coli dedicated to the uptake, utilization, and enzymatic breakdown (catabolism/metabolism) of the disaccharide lactose into galactose and glucose.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It regulates the synthesis of lactose</b> - Bacteria catabolize lactose; they do not synthesize it (it is an anabolic process not performed by E. coli).\n• <b style=\"color:#2563eb\">Option (3): It regulates the transport of lactose</b> - While lacY encodes lactose permease for transport, the overall operon encompasses total lactose metabolism (transport + hydrolytic cleavage by lacZ).\n• <b style=\"color:#2563eb\">Option (4): It regulates the replication of lactose</b> - Lactose is a disaccharide carbohydrate, not a self-replicating genetic material."
+  },
+  {
+    "id": 13,
+    "question": "Which component of the lac operon acts as a transcriptional repressor?",
+    "options": [
+      "Operator",
+      "Promoter",
+      "CAP site",
+      "LacZ gene"
+    ],
+    "correct_answer": "Operator",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Operator</b> is designated. Note that in genetic terminology, the operator is the cis-acting DNA regulatory element that binds the LacI repressor protein to mediate transcriptional repression of the operon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Promoter</b> - The DNA site where RNA polymerase binds to initiate transcription.\n• <b style=\"color:#2563eb\">Option (3): CAP site</b> - Positive regulatory site where cAMP-CAP binds to activate transcription.\n• <b style=\"color:#2563eb\">Option (4): LacZ gene</b> - Structural gene encoding beta-galactosidase."
+  },
+  {
+    "id": 14,
+    "question": "Under which conditions is the lac operon typically active?",
+    "options": [
+      "High levels of lactose",
+      "Low levels of lactose",
+      "High levels of glucose",
+      "Low levels of glucose"
+    ],
+    "correct_answer": "High levels of lactose",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): High levels of lactose</b> is correct because high lactose supplies the natural inducer allolactose, which binds the LacI repressor and triggers its release from the operator, removing transcriptional inhibition.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Low levels of lactose</b> - The lac repressor remains bound to the operator, keeping the operon repressed.\n• <b style=\"color:#2563eb\">Option (3): High levels of glucose</b> - Exerts catabolite repression, keeping operon expression low.\n• <b style=\"color:#2563eb\">Option (4): Low levels of glucose</b> - Low glucose alone without lactose is insufficient, as the repressor still blocks transcription."
+  },
+  {
+    "id": 15,
+    "question": "What is the role of the lacZ gene in the lac operon?",
+    "options": [
+      "It encodes the lactose permease enzyme.",
+      "It encodes the beta-galactosidase enzyme.",
+      "It encodes the lac repressor protein.",
+      "It encodes the CAP protein."
+    ],
+    "correct_answer": "It encodes the beta-galactosidase enzyme.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It encodes the beta-galactosidase enzyme.</b> is correct because the lacZ structural gene encodes beta-galactosidase (a homotetrameric enzyme of ~1023 amino acids per subunit), which hydrolyzes lactose into glucose and galactose and also isomerizes lactose into the inducer allolactose.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It encodes the lactose permease enzyme</b> - Encoded by the lacY gene.\n• <b style=\"color:#2563eb\">Option (3): It encodes the lac repressor protein</b> - Encoded by the lacI regulatory gene.\n• <b style=\"color:#2563eb\">Option (4): It encodes the CAP protein</b> - Encoded by the crp gene elsewhere on the chromosome."
+  },
+  {
+    "id": 16,
+    "question": "What is the function of the CAP site in the lac operon?",
+    "options": [
+      "It binds to the lac repressor protein.",
+      "It binds to the operator region.",
+      "It enhances the binding of RNA polymerase to the promoter.",
+      "It inhibits the expression of lactose-utilizing enzymes."
+    ],
+    "correct_answer": "It enhances the binding of RNA polymerase to the promoter.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It enhances the binding of RNA polymerase to the promoter.</b> is correct because the CAP (Catabolite Activator Protein) site is a DNA sequence centered at position -61.5 upstream of the transcription start site. When bound by the cAMP-CAP complex under low glucose, CAP directly interacts with the alpha C-terminal domain (alpha-CTD) of RNA polymerase, recruiting it to the otherwise weak lac promoter and stimulating transcription over 50-fold.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It binds to the lac repressor protein</b> - Lac repressor binds to the operator (lacO).\n• <b style=\"color:#2563eb\">Option (2): It binds to the operator region</b> - CAP binds its own dedicated upstream recognition sequence.\n• <b style=\"color:#2563eb\">Option (4): It inhibits the expression of lactose-utilizing enzymes</b> - CAP is a transcriptional activator, not an inhibitor."
+  },
+  {
+    "id": 17,
+    "question": "What is the function of the arabinose operon in bacteria?",
+    "options": [
+      "It regulates the synthesis of arabinose.",
+      "It regulates the transport of arabinose.",
+      "It regulates the metabolism of arabinose.",
+      "It regulates the replication of arabinose."
+    ],
+    "correct_answer": "It regulates the metabolism of arabinose.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It regulates the metabolism of arabinose.</b> is correct because the L-arabinose operon (araBAD operon) in E. coli encodes enzymes (L-arabinose isomerase, L-ribulokinase, and L-ribulose-5-phosphate 4-epimerase) required for the metabolic conversion and catabolism of L-arabinose into D-xylulose-5-phosphate, which enters the pentose phosphate pathway.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It regulates the synthesis of arabinose</b> - Arabinose is taken up and consumed catabolically, not synthesized.\n• <b style=\"color:#2563eb\">Option (2): It regulates the transport of arabinose</b> - Transport is handled by separate operons (araE and araFGH), while araBAD governs catabolic metabolism.\n• <b style=\"color:#2563eb\">Option (4): It regulates the replication of arabinose</b> - Arabinose is a monosaccharide, not a replicating replicon."
+  },
+  {
+    "id": 18,
+    "question": "What is the role of the araC gene in the arabinose operon regulation?",
+    "options": [
+      "It encodes the enzyme responsible for arabinose uptake.",
+      "It encodes the enzyme responsible for arabinose metabolism.",
+      "It encodes the AraC regulatory protein.",
+      "It encodes the arabinose-binding protein."
+    ],
+    "correct_answer": "It encodes the AraC regulatory protein.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It encodes the AraC regulatory protein.</b> is correct because the araC gene encodes the dual-function AraC regulatory protein, which acts as both a negative repressor (in the absence of arabinose by looping DNA between araO2 and araI1) and a positive transcriptional activator (in the presence of arabinose by binding adjacent araI1 and araI2 sites to recruit RNA polymerase).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It encodes the enzyme responsible for arabinose uptake</b> - Handled by AraE/AraFGH transporters.\n• <b style=\"color:#2563eb\">Option (2): It encodes the enzyme responsible for arabinose metabolism</b> - Handled by the structural genes araB, araA, and araD.\n• <b style=\"color:#2563eb\">Option (4): It encodes the arabinose-binding protein</b> - Handled by the periplasmic AraF protein."
+  },
+  {
+    "id": 19,
+    "question": "Under which conditions is the arabinose operon typically active?",
+    "options": [
+      "High levels of arabinose",
+      "Low levels of arabinose",
+      "High levels of glucose",
+      "Low levels of glucose"
+    ],
+    "correct_answer": "High levels of arabinose",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): High levels of arabinose</b> is correct because arabinose directly binds the AraC protein, altering its conformation from a repressive DNA-looping dimer into an activating compact dimer that binds the araI site and stimulates transcription of the araBAD catabolic enzymes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Low levels of arabinose</b> - In the absence of arabinose, AraC maintains a repressive DNA loop, silencing the operon.\n• <b style=\"color:#2563eb\">Option (3): High levels of glucose</b> - Exerts catabolite repression via low cAMP.\n• <b style=\"color:#2563eb\">Option (4): Low levels of glucose</b> - Low glucose is necessary for CAP activation, but without arabinose the operon remains uninduced."
+  },
+  {
+    "id": 20,
+    "question": "What is the function of the araBAD genes in the arabinose operon?",
+    "options": [
+      "They encode proteins involved in arabinose transport.",
+      "They encode enzymes involved in arabinose metabolism.",
+      "They encode the araC regulatory protein.",
+      "They encode the arabinose-binding protein."
+    ],
+    "correct_answer": "They encode enzymes involved in arabinose metabolism.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): They encode enzymes involved in arabinose metabolism.</b> is correct because the polycistronic araBAD structural operon encodes the three catabolic enzymes: AraB (ribulokinase), AraA (arabinose isomerase), and AraD (ribulose-5-phosphate 4-epimerase), which sequentially metabolize L-arabinose to D-xylulose-5-phosphate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They encode proteins involved in arabinose transport</b> - Encoded by araE and araFGH.\n• <b style=\"color:#2563eb\">Option (3): They encode the araC regulatory protein</b> - Encoded by the araC gene transcribed divergently from promoter pC.\n• <b style=\"color:#2563eb\">Option (4): They encode the arabinose-binding protein</b> - Encoded by araF."
+  },
+  {
+    "id": 21,
+    "question": "What is the role of the araI site in the arabinose operon regulation?",
+    "options": [
+      "It binds to the AraC protein.",
+      "It enhances the binding of RNA polymerase to the promoter.",
+      "It inhibits the expression of arabinose-utilizing enzymes.",
+      "It binds to arabinose and releases the AraC protein."
+    ],
+    "correct_answer": "It binds to the AraC protein.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It binds to the AraC protein.</b> is correct because the araI region (subdivided into araI1 and araI2) is the designated DNA operator/initiator site immediately upstream of the araBAD promoter that binds the AraC regulatory dimer. When arabinose is bound, AraC occupies both araI1 and araI2 to stimulate RNA polymerase transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It enhances the binding of RNA polymerase to the promoter</b> - The AraC protein bound to araI performs the recruitment, while araI is the binding site.\n• <b style=\"color:#2563eb\">Option (3): It inhibits the expression of arabinose-utilizing enzymes</b> - araI occupancy in the presence of arabinose drives induction, not inhibition.\n• <b style=\"color:#2563eb\">Option (4): It binds to arabinose and releases the AraC protein</b> - Arabinose binds AraC protein directly, not the DNA site."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following alternative sigma factors is involved in the response to heat shock and other environmental stresses in bacteria?",
+    "options": [
+      "Sigma factor 70 (s70)",
+      "Sigma factor 32 (s32)",
+      "Sigma factor 54 (s54)",
+      "Sigma factor 28 (s28)"
+    ],
+    "correct_answer": "Sigma factor 32 (s32)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Sigma factor 32 (s32)</b> is correct because sigma-32 (σ32, encoded by rpoH, ~32 kDa) is the specialized alternative sigma factor that directs RNA polymerase to transcribe the cytoplasmic heat shock regulon (including molecular chaperones DnaK, DnaJ, GroEL, GroES, and proteases like Lon) upon thermal or proteotoxic stress.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sigma factor 70 (s70)</b> - The primary housekeeping sigma factor for standard exponential growth.\n• <b style=\"color:#2563eb\">Option (3): Sigma factor 54 (s54)</b> - Governs nitrogen metabolism and assimilation.\n• <b style=\"color:#2563eb\">Option (4): Sigma factor 28 (s28)</b> - Governs flagellar and chemotaxis gene transcription."
+  },
+  {
+    "id": 23,
+    "question": "Which alternative sigma factor is involved in the regulation of nitrogen utilization in bacteria?",
+    "options": [
+      "Sigma factor 70 (s70)",
+      "Sigma factor 32 (s32)",
+      "Sigma factor 54 (s54)",
+      "Sigma factor 28 (s28)"
+    ],
+    "correct_answer": "Sigma factor 54 (s54)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sigma factor 54 (s54)</b> is correct because sigma-54 (σ54, encoded by rpoN) mediates transcription of genes involved in nitrogen starvation, glutamine synthesis (glnA), and nitrogen assimilation. Promoters recognized by σ54 have conserved motifs at -24 and -12 and strictly require AAA+ enhancer-binding activator proteins (such as NtrC) and ATP hydrolysis for open complex formation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sigma factor 70 (s70)</b> - Housekeeping sigma factor.\n• <b style=\"color:#2563eb\">Option (2): Sigma factor 32 (s32)</b> - Heat shock response factor.\n• <b style=\"color:#2563eb\">Option (4): Sigma factor 28 (s28)</b> - Flagellar biosynthesis factor."
+  },
+  {
+    "id": 24,
+    "question": "Which alternative sigma factor is associated with the expression of flagellar genes in bacteria?",
+    "options": [
+      "Sigma factor 70 (s70)",
+      "Sigma factor 32 (s32)",
+      "Sigma factor 54 (s54)",
+      "Sigma factor 28 (s28)"
+    ],
+    "correct_answer": "Sigma factor 28 (s28)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Sigma factor 28 (s28)</b> is correct because sigma-28 (σ28, encoded by fliA) is the alternative sigma factor dedicated to the transcription of late-stage flagellar structural genes (such as flagellin, fliC) and chemotaxis proteins, regulated by the anti-sigma factor FlgM.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sigma factor 70 (s70)</b> - General housekeeping transcription.\n• <b style=\"color:#2563eb\">Option (2): Sigma factor 32 (s32)</b> - Heat shock response.\n• <b style=\"color:#2563eb\">Option (3): Sigma factor 54 (s54)</b> - Nitrogen limitation response."
+  },
+  {
+    "id": 25,
+    "question": "Which alternative sigma factor is involved in the regulation of genes related to sporulation in bacteria?",
+    "options": [
+      "Sigma factor 70 (s70)",
+      "Sigma factor 32 (s32)",
+      "Sigma factor 54 (s54)",
+      "Sigma factor F (sF)"
+    ],
+    "correct_answer": "Sigma factor F (sF)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Sigma factor F (sF)</b> is correct because in endospore-forming bacteria (such as Bacillus subtilis), endospore development is orchestrated by a cascade of specialized sporulation sigma factors: σH, σF, σE, σG, and σK. Sigma factor F (σF) is the first forespore-specific sigma factor activated following asymmetric septation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sigma factor 70 (s70)</b> - Vegetative growth sigma factor.\n• <b style=\"color:#2563eb\">Option (2): Sigma factor 32 (s32)</b> - Heat shock sigma factor.\n• <b style=\"color:#2563eb\">Option (3): Sigma factor 54 (s54)</b> - Nitrogen-regulatory sigma factor."
+  }
+]

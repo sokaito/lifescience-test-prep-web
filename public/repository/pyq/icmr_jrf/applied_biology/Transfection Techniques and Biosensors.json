@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "Agrobacterium tumefaciens is a",
+    "options": [
+      "gram (+) bacteria",
+      "gram (-) bacteria",
+      "a fungus",
+      "a yeast"
+    ],
+    "correct_answer": "gram (-) bacteria",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): gram (-) bacteria</b> is correct. Agrobacterium tumefaciens is an aerobic, rod-shaped, flagellated Gram-negative soil bacterium (family Rhizobiaceae) that causes crown gall disease in dicotyledonous plants by naturally transferring a segment of its Ti plasmid (T-DNA) into host plant cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): gram (+) bacteria</b> - Gram-positive bacteria (like Bacillus and Clostridium) have thick peptidoglycan layers without an outer membrane and stain purple, unlike Agrobacterium.\n• <b style=\"color:#2563eb\">Option (3): a fungus</b> - Fungi are eukaryotic saprophytic or parasitic multicellular organisms with chitin cell walls.\n• <b style=\"color:#2563eb\">Option (4): a yeast</b> - Yeasts are unicellular fungi (e.g., Saccharomyces cerevisiae)."
+  },
+  {
+    "id": 2,
+    "question": "The uptake of external DNA into bacterial cell is facilitated in the presence of",
+    "options": [
+      "Calcium chloride",
+      "Polymerase",
+      "Endonuclease",
+      "Plasmid"
+    ],
+    "correct_answer": "Calcium chloride",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Calcium chloride</b> is correct. In chemical competence preparation (Mandel and Higa protocol), ice-cold calcium chloride (CaCl2) provides divalent Ca2+ cations that shield negative charges on both DNA phosphate backbones and outer membrane lipopolysaccharides, allowing DNA to adhere to the cell surface before a brief heat shock (42°C) induces uptake.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Polymerase</b> - Enzyme that synthesizes DNA or RNA polymers; does not facilitate transmembrane uptake.\n• <b style=\"color:#2563eb\">Option (3): Endonuclease</b> - Enzyme that cleaves internal phosphodiester bonds; would degrade foreign DNA.\n• <b style=\"color:#2563eb\">Option (4): Plasmid</b> - The DNA molecule being taken up, not the chemical facilitating agent."
+  },
+  {
+    "id": 3,
+    "question": "Insulin is produced by genetic engineering using:",
+    "options": [
+      "Saccharomyces",
+      "Escherichia coli",
+      "Rhizobium",
+      "Mycobacterium tuberculosis"
+    ],
+    "correct_answer": "Escherichia coli",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Escherichia coli</b> is correct. Recombinant human insulin (Humulin, approved by FDA in 1982 by Genentech and Eli Lilly) was the first commercial recombinant pharmaceutical protein produced by genetically engineered Escherichia coli bacteria expressing human insulin A and B chains as beta-galactosidase fusion proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Saccharomyces</b> - Yeast has been adapted for insulin analogs, but E. coli is the historic and primary textbook host.\n• <b style=\"color:#2563eb\">Option (3): Rhizobium</b> - Symbiotic nitrogen-fixing soil bacterium; not an industrial protein production host.\n• <b style=\"color:#2563eb\">Option (4): Mycobacterium tuberculosis</b> - Dangerous slow-growing pathogen causing tuberculosis; never used as a manufacturing host."
+  },
+  {
+    "id": 4,
+    "question": "Biotechnologies consisting of the use of biological systems (bacteria) for the manufacture, transformation or degradation of molecules through enzymatic or fermentation processes for industrial purposes, are called:",
+    "options": [
+      "Yellow biotechnologies",
+      "Blue biotechnologies",
+      "Green biotechnologies",
+      "White biotechnologies"
+    ],
+    "correct_answer": "White biotechnologies",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (4): White biotechnologies</b> is correct. White (industrial) biotechnology applies microorganisms, yeasts, and biocatalytic enzymes to industrial manufacturing, such as producing biofuels, bioplastics, industrial chemicals, bulk enzymes, and treating industrial effluents sustainably.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Yellow biotechnologies</b> - Food biotechnology and nutritional production.\n• <b style=\"color:#2563eb\">Option (2): Blue biotechnologies</b> - Marine and aquatic biotechnology exploiting oceanic resources.\n• <b style=\"color:#2563eb\">Option (3): Green biotechnologies</b> - Agricultural and plant biotechnology (crops, biofertilizers)."
+  },
+  {
+    "id": 5,
+    "question": "Micro biosensors are based on",
+    "options": [
+      "ions effect",
+      "ion sensitive field effect transistor",
+      "Piezoelectric effect",
+      "magnetic effect"
+    ],
+    "correct_answer": "ion sensitive field effect transistor",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): ion sensitive field effect transistor</b> is correct. Ion-Sensitive Field-Effect Transistors (ISFETs) are miniature semiconductor micro-biosensors where the metal gate is replaced by an ion-sensitive chemical membrane. Biochemical reactions (such as enzymatic substrate cleavage) produce H+ or specific ions, altering gate surface potential and modulating drain current for highly sensitive microscale electrical detection.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): ions effect</b> - A non-specific generic phrase, not an engineered micro-biosensor technology.\n• <b style=\"color:#2563eb\">Option (3): Piezoelectric effect</b> - Used in quartz crystal microbalance (QCM) acoustic mass biosensors.\n• <b style=\"color:#2563eb\">Option (4): magnetic effect</b> - Used in magnetic bead separation assays, not standard semiconductor micro-biosensors."
+  },
+  {
+    "id": 6,
+    "question": "Which component of a biosensor is responsible for capturing and recognizing the target analyte?",
+    "options": [
+      "Transducer",
+      "Detector",
+      "Sensing element",
+      "Amplifier"
+    ],
+    "correct_answer": "Sensing element",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Sensing element</b> is correct. The bioreceptor or sensing element (such as an enzyme, antibody, nucleic acid aptamer, or whole cell) provides the exquisite biological specificity of a biosensor by exclusively recognizing and binding the target analyte within a complex mixture.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Transducer</b> - Converts the biochemical recognition event (heat, light, ion change, mass change) into a measurable electrical signal.\n• <b style=\"color:#2563eb\">Option (2): Detector</b> - Measures and registers the signal output.\n• <b style=\"color:#2563eb\">Option (4): Amplifier</b> - Boosts the electrical output signal from the transducer."
+  },
+  {
+    "id": 7,
+    "question": "Which type of biosensor relies on the principle of enzymatic reactions for analyte detection?",
+    "options": [
+      "Optical biosensor",
+      "Electrochemical biosensor",
+      "Piezoelectric biosensor",
+      "Thermal biosensor"
+    ],
+    "correct_answer": "Electrochemical biosensor",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Electrochemical biosensor</b> is correct. The classic prototype biosensor (Clark glucose biosensor) immobilizes an enzyme (glucose oxidase) on an electrode. Enzymatic oxidation of analyte produces electroactive hydrogen peroxide (H2O2) or electron transfers that generate a current (amperometric) or potential (potentiometric) directly proportional to analyte concentration.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Optical biosensor</b> - Measures changes in light absorption, fluorescence, or surface plasmon resonance (SPR).\n• <b style=\"color:#2563eb\">Option (3): Piezoelectric biosensor</b> - Detects mass changes on an oscillating quartz crystal surface.\n• <b style=\"color:#2563eb\">Option (4): Thermal biosensor</b> - Measures the heat of reaction (calorimetry) generated during substrate conversion."
+  },
+  {
+    "id": 8,
+    "question": "Which type of biosensor utilizes antibodies or antibody-like molecules for analyte recognition?",
+    "options": [
+      "Optical biosensor",
+      "Electrochemical biosensor",
+      "Immunological biosensor",
+      "Thermal biosensor"
+    ],
+    "correct_answer": "Immunological biosensor",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Immunological biosensor</b> is correct. Immunosensors (immunological biosensors) exploit the high affinity and specificity of antigen-antibody interactions (e.g., monoclonal antibodies or Fab fragments immobilized on a sensor chip) to capture and detect antigens, hormones, or viral proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Optical biosensor</b> - Classifies the transducer type (optics/light), not the recognition biomolecule.\n• <b style=\"color:#2563eb\">Option (2): Electrochemical biosensor</b> - Classifies the electrochemical transduction method.\n• <b style=\"color:#2563eb\">Option (4): Thermal biosensor</b> - Classifies heat-based transducers."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following is an example of a transgenic organism?",
+    "options": [
+      "A plant with increased drought tolerance",
+      "A plant with red flowers",
+      "A plant with a larger root system",
+      "A plant with naturally occurring insect resistance"
+    ],
+    "correct_answer": "A plant with increased drought tolerance",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): A plant with increased drought tolerance</b> is correct. In agricultural biotechnology, engineered crops (such as DroughtGard maize expressing the bacterial cold-shock protein cspB gene from Bacillus subtilis) represent certified transgenic organisms engineered to thrive under severe moisture stress.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): A plant with red flowers</b> - A common natural phenotypic trait or conventional breeding variation.\n• <b style=\"color:#2563eb\">Option (3): A plant with a larger root system</b> - Can be a natural physiological response or selected agronomic trait.\n• <b style=\"color:#2563eb\">Option (4): A plant with naturally occurring insect resistance</b> - An innate wild evolutionary adaptation, completely non-transgenic."
+  },
+  {
+    "id": 10,
+    "question": "What is the purpose of using selectable markers in the production of transgenic organisms?",
+    "options": [
+      "To increase the expression of target genes",
+      "To improve the growth rate of transgenic organisms",
+      "To identify and select cells that have taken up the desired foreign DNA",
+      "To induce mutations in the target genes"
+    ],
+    "correct_answer": "To identify and select cells that have taken up the desired foreign DNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): To identify and select cells that have taken up the desired foreign DNA</b> is correct. Transformation efficiency is typically very low (often <1 in 10,000 cells). Selectable marker genes (such as antibiotic resistance genes like nptII conferring kanamycin resistance, or hph for hygromycin) ensure that only successfully transformed cells survive and proliferate on selective media, eliminating non-transformed cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To increase expression of target genes</b> - Regulated by strong promoters (like CaMV 35S), enhancers, and Kozak sequences.\n• <b style=\"color:#2563eb\">Option (2): To improve growth rate</b> - Selectable markers confer survival against a lethal agent, not inherent growth rate acceleration.\n• <b style=\"color:#2563eb\">Option (4): To induce mutations</b> - Caused by chemical mutagens or radiation; markers are designed to be stable."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following techniques is commonly used for introducing foreign DNA into plant cells?",
+    "options": [
+      "Polymerase chain reaction (PCR)",
+      "Restriction enzyme digestion",
+      "Agrobacterium-mediated transformation",
+      "DNA sequencing"
+    ],
+    "correct_answer": "Agrobacterium-mediated transformation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Agrobacterium-mediated transformation</b> is correct. Agrobacterium tumefaciens naturally injects T-DNA from its Ti plasmid into plant cell nuclei, where host machinery integrates it into the nuclear genome. It is the most reliable, reproducible, and widely practiced transformation technique in plant biotechnology.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Polymerase chain reaction (PCR)</b> - An in vitro enzymatic amplification method for copying DNA sequences, not an in vivo gene delivery vector.\n• <b style=\"color:#2563eb\">Option (2): Restriction enzyme digestion</b> - In vitro enzymatic cleavage of phosphodiester bonds at specific recognition sites.\n• <b style=\"color:#2563eb\">Option (4): DNA sequencing</b> - An analytical technique to determine nucleotide order."
+  },
+  {
+    "id": 12,
+    "question": "The green fluorescent protein (GFP) gene, derived from jellyfish, is often used as a reporter gene in transgenic organisms. What is the role of GFP in this context?",
+    "options": [
+      "It helps in selecting transgenic cells.",
+      "It confers herbicide resistance to the transgenic organism.",
+      "It provides a visible marker to identify cells expressing the foreign gene.",
+      "It increases the yield of the desired protein in transgenic organisms."
+    ],
+    "correct_answer": "It provides a visible marker to identify cells expressing the foreign gene.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): It provides a visible marker to identify cells expressing the foreign gene.</b> is correct. Green Fluorescent Protein (GFP, from Aequorea victoria) serves as an outstanding non-destructive, vital reporter gene. When exposed to blue or ultraviolet light, GFP emits bright green fluorescence (509 nm) without requiring external cofactors or substrate chemicals, enabling live spatial and temporal monitoring of gene expression.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It helps in selecting transgenic cells</b> - While used as a screenable marker, selectable markers (like antibiotic resistance) kill non-transgenics; GFP provides optical visualization.\n• <b style=\"color:#2563eb\">Option (2): It confers herbicide resistance</b> - Conferred by bar or EPSPS genes.\n• <b style=\"color:#2563eb\">Option (4): It increases protein yield</b> - GFP is merely an indicator reporter; it does not augment yield."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is an example of a transgenic animal?",
+    "options": [
+      "A mouse with a gene knockout",
+      "A dog with a different coat color",
+      "A cat with an increased lifespan",
+      "A fish with naturally occurring resistance to disease"
+    ],
+    "correct_answer": "A mouse with a gene knockout",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): A mouse with a gene knockout</b> is correct. Knockout mice are created via targeted homologous recombination in embryonic stem (ES) cells where a specific gene is engineered and permanently disrupted with a neo cassette, making them the classic laboratory transgenic animal model.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): A dog with a different coat color</b> - Arises from natural breed selection and Mendelian genetics (e.g., melanocortin 1 receptor alleles).\n• <b style=\"color:#2563eb\">Option (3): A cat with an increased lifespan</b> - General physiological variation or veterinary healthcare.\n• <b style=\"color:#2563eb\">Option (4): A fish with naturally occurring resistance</b> - Innate natural immune adaptation."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is the primary method used for Agrobacterium-mediated plant transformation?",
+    "options": [
+      "Transduction",
+      "Transfection",
+      "Transposon insertion",
+      "Translocation"
+    ],
+    "correct_answer": "Transfection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Transfection</b> is selected (representing the general introduction of foreign genetic material into eukaryotic recipient cells). Note that biologically, Agrobacterium transfer is fundamentally a specialized inter-kingdom conjugation/transformation process.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Transduction</b> - Gene transfer strictly mediated by a bacteriophage virus.\n• <b style=\"color:#2563eb\">Option (3): Transposon insertion</b> - Mobile genetic element jumping within a genome.\n• <b style=\"color:#2563eb\">Option (4): Translocation</b> - Chromosomal rearrangement or nutrient transport in phloem."
+  },
+  {
+    "id": 15,
+    "question": "Agrobacterium tumefaciens primarily infects which part of the plant?",
+    "options": [
+      "Roots",
+      "Leaves",
+      "Stem",
+      "Flowers"
+    ],
+    "correct_answer": "Stem",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Stem</b> is marked. Agrobacterium tumefaciens enters through wound sites typically at the crown region (the junction where the stem transitions to the root system at soil level), resulting in tumorous crown galls along the basal stem and trunk.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Roots</b> - Agrobacterium rhizogenes specifically infects roots (causing hairy root disease), whereas A. tumefaciens forms crown galls on stems/crowns.\n• <b style=\"color:#2563eb\">Option (2): Leaves</b> - Foliar tissues are typically target sites for experimental syringe agroinfiltration, not the natural infection site.\n• <b style=\"color:#2563eb\">Option (4): Flowers</b> - Floral dipping is an artificial laboratory technique (in Arabidopsis), not natural disease manifestation."
+  },
+  {
+    "id": 16,
+    "question": "Which component of Agrobacterium tumefaciens is responsible for transferring DNA to plant cells?",
+    "options": [
+      "Ti plasmid",
+      "Virulence genes",
+      "Cell wall",
+      "Flagella"
+    ],
+    "correct_answer": "Ti plasmid",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Ti plasmid</b> is correct. The large Tumor-Inducing (Ti) plasmid (~200 kb) carries the transferred DNA (T-DNA) region flanked by 25-bp direct repeats, the vir (virulence) gene regulon that excises and coats the T-DNA strand, and opine catabolism genes, making the plasmid the master vehicle for transferring DNA into plant cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Virulence genes</b> - Encode the proteins and molecular machinery executing the transfer, but the entire cassette and transferred molecule reside on the Ti plasmid.\n• <b style=\"color:#2563eb\">Option (3): Cell wall</b> - Structural outer layer consisting of peptidoglycan.\n• <b style=\"color:#2563eb\">Option (4): Flagella</b> - Appendages providing swimming motility through soil moisture towards plant wounds."
+  },
+  {
+    "id": 17,
+    "question": "The vir genes in Agrobacterium tumefaciens are responsible for:",
+    "options": [
+      "Virulence",
+      "DNA transfer",
+      "Tumor formation",
+      "Antibiotic resistance"
+    ],
+    "correct_answer": "DNA transfer",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): DNA transfer</b> is correct. The vir (virulence) operon encodes the proteins responsible for sensing wound signals (VirA/VirG), nicking T-DNA borders (VirD1/VirD2), forming single-stranded binding coats (VirE2), and assembling the Type IV Secretion System (VirB1-VirB11 and VirD4) that physically pumps the T-DNA complex into the host plant cell.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Virulence</b> - Virulence is the general phenotype, but the mechanistic function of the vir regulon is specifically T-DNA processing and transfer.\n• <b style=\"color:#2563eb\">Option (3): Tumor formation</b> - Directly caused by onc genes inside the T-DNA (iaaM, iaaH, ipt) which produce auxins and cytokinins once inside the plant nucleus.\n• <b style=\"color:#2563eb\">Option (4): Antibiotic resistance</b> - Mediated by separate chromosomal or plasmid resistance markers."
+  },
+  {
+    "id": 18,
+    "question": "What is the role of acetosyringone in Agrobacterium-mediated transformation?",
+    "options": [
+      "It stimulates T-DNA transfer",
+      "It inhibits T-DNA transfer",
+      "It promotes tumor formation",
+      "It enhances antibiotic resistance"
+    ],
+    "correct_answer": "It stimulates T-DNA transfer",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): It stimulates T-DNA transfer</b> is correct. Acetosyringone is a phenolic compound naturally released by wounded plant cells. It acts as an environmental signal that binds to the transmembrane sensor kinase VirA, which autophosphorylates and transfers the phosphate to response regulator VirG, activating transcription of the entire vir operon to initiate T-DNA processing and transfer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It inhibits T-DNA transfer</b> - Acetosyringone is the premier natural inducer, not an inhibitor.\n• <b style=\"color:#2563eb\">Option (3): It promotes tumor formation</b> - Tumor formation requires T-DNA oncogenes; acetosyringone merely activates vir gene expression.\n• <b style=\"color:#2563eb\">Option (4): It enhances antibiotic resistance</b> - Unrelated to beta-lactamase or antibiotic resistance pathways."
+  },
+  {
+    "id": 19,
+    "question": "The process of removing virulence genes from Agrobacterium tumefaciens to create a disarmed strain is known as:",
+    "options": [
+      "Virulence plasmid excision",
+      "Plasmid mutagenesis",
+      "Virulence gene knockout",
+      "Gene silencing"
+    ],
+    "correct_answer": "Virulence plasmid excision",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Virulence plasmid excision</b> is selected (referring to the historical genetic disarmament of the Ti plasmid where tumor-inducing oncogenes within the T-DNA region were excised and replaced with multiple cloning sites, creating a disarmed vector that transfers genes without causing crown gall tumors).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Plasmid mutagenesis</b> - Random chemical or transposon mutation of plasmid DNA.\n• <b style=\"color:#2563eb\">Option (3): Virulence gene knockout</b> - Disarmed vectors specifically excise the oncogenic T-DNA payload while retaining helper vir genes intact on a binary vector.\n• <b style=\"color:#2563eb\">Option (4): Gene silencing</b> - Transcriptional repression, not physical deletion of oncogenes."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is commonly used as a selectable marker in Agrobacterium-mediated plant transformation?",
+    "options": [
+      "Green fluorescent protein (GFP)",
+      "Luciferase",
+      "Kanamycin resistance gene",
+      "Beta-galactosidase"
+    ],
+    "correct_answer": "Kanamycin resistance gene",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Kanamycin resistance gene</b> is correct. The nptII (neo) gene, encoding neomycin phosphotransferase II from transposon Tn5, is the most widely used selectable marker in plant genetic transformation. It detoxifies aminoglycoside antibiotics like kanamycin and geneticin (G418), allowing only transformed plant cells to regenerate on selective culture media.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Green fluorescent protein (GFP)</b> - A visual screenable/reporter marker, not a lethal selective marker.\n• <b style=\"color:#2563eb\">Option (2): Luciferase</b> - A bioluminescent enzymatic screenable reporter (from fireflies), not a selectable resistance marker.\n• <b style=\"color:#2563eb\">Option (4): Beta-galactosidase</b> - A chromogenic reporter enzyme (lacZ), not a plant antibiotic resistance marker."
+  },
+  {
+    "id": 21,
+    "question": "Which transfection technique involves the use of electric pulses to facilitate the uptake of genetic material into cells?",
+    "options": [
+      "Lipofection",
+      "Electroporation",
+      "Calcium phosphate transfection",
+      "Viral transduction"
+    ],
+    "correct_answer": "Electroporation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Electroporation</b> is correct. Electroporation applies brief, high-voltage electrical field pulses (e.g., 200–500 V for milliseconds) across cell suspensions. The electric field destabilizes and transiently permeabilizes the lipid bilayer, creating temporary nanoscale aqueous pores through which hydrophilic DNA molecules enter by electro-osmosis and diffusion before membrane resealing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Lipofection</b> - Chemical delivery utilizing cationic liposomes.\n• <b style=\"color:#2563eb\">Option (3): Calcium phosphate transfection</b> - Chemical coprecipitation of DNA with calcium ions.\n• <b style=\"color:#2563eb\">Option (4): Viral transduction</b> - Receptor-mediated viral entry."
+  },
+  {
+    "id": 22,
+    "question": "Which transfection technique relies on the use of cationic lipids or polymers to form complexes with nucleic acids for cell uptake?",
+    "options": [
+      "Electroporation",
+      "Lipofection",
+      "Viral transduction",
+      "Microinjection"
+    ],
+    "correct_answer": "Lipofection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (2): Lipofection</b> is correct. Pioneered by Felgner in 1987, lipofection utilizes positively charged (cationic) synthetic lipid formulations (e.g., Lipofectamine) or polymers (polyethylenimine). Positively charged headgroups spontaneously assemble with negatively charged DNA phosphate backbones to form lipoplexes, which fuse with cell membranes or undergo endocytosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Electroporation</b> - Physical electrical membrane pore formation.\n• <b style=\"color:#2563eb\">Option (3): Viral transduction</b> - Packaging into infectious viral capsids.\n• <b style=\"color:#2563eb\">Option (4): Microinjection</b> - Direct mechanical puncture using a glass micropipette."
+  },
+  {
+    "id": 23,
+    "question": "Which transfection technique involves the direct injection of DNA or RNA into the cell using a fine glass needle?",
+    "options": [
+      "Microinjection",
+      "Electroporation",
+      "Viral transduction",
+      "Calcium phosphate transfection"
+    ],
+    "correct_answer": "Microinjection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (1): Microinjection</b> is correct. Microinjection is a mechanical gene delivery method performed under an inverted microscope equipped with a micromanipulator. A delicate glass needle (tip diameter 0.5–1.0 µm) penetrates the cell and nuclear membrane to deliver exact nanoliter quantities of DNA, RNA, or recombinant proteins directly into the target cell.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Electroporation</b> - High-voltage electrical pulse permeabilization.\n• <b style=\"color:#2563eb\">Option (3): Viral transduction</b> - Infection by engineered viral vectors.\n• <b style=\"color:#2563eb\">Option (4): Calcium phosphate transfection</b> - Chemical precipitate endocytosis."
+  },
+  {
+    "id": 24,
+    "question": "Which transfection technique utilizes viral vectors to deliver genetic material into cells?",
+    "options": [
+      "Electroporation",
+      "Lipofection",
+      "Viral transduction",
+      "Calcium phosphate transfection"
+    ],
+    "correct_answer": "Viral transduction",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (3): Viral transduction</b> is correct. Transduction is the biologically mediated transfer of genetic material into eukaryotic host cells using modified, replication-incompetent recombinant viral vectors (such as retroviruses, lentiviruses, adenoviruses, and adeno-associated viruses [AAV]), exploiting natural viral infection and integration pathways with high efficiency.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Electroporation</b> - Non-viral physical electrical delivery.\n• <b style=\"color:#2563eb\">Option (2): Lipofection</b> - Non-viral chemical cationic lipid encapsulation.\n• <b style=\"color:#2563eb\">Option (4): Calcium phosphate transfection</b> - Non-viral chemical coprecipitation."
+  },
+  {
+    "id": 25,
+    "question": "Which transfection technique involves the formation of calcium phosphate-DNA precipitates that are taken up by cells through endocytosis?",
+    "options": [
+      "Lipofection",
+      "Electroporation",
+      "Viral transduction",
+      "Calcium phosphate transfection"
+    ],
+    "correct_answer": "Calcium phosphate transfection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\n<b style=\"color:#2563eb\">Option (4): Calcium phosphate transfection</b> is correct. Discovered by Graham and van der Eb in 1973, this classical chemical transfection method mixes DNA with calcium chloride and a buffered phosphate solution (HEPES-buffered saline), generating a fine insoluble crystalline precipitate of calcium phosphate-DNA. These micro-precipitates bind to the cell membrane and are internalized by endocytosis/pinocytosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Lipofection</b> - Relies on cationic liposome-DNA lipoplexes.\n• <b style=\"color:#2563eb\">Option (2): Electroporation</b> - Uses high-voltage electric field pulses.\n• <b style=\"color:#2563eb\">Option (3): Viral transduction</b> - Uses recombinant viral vectors."
+  }
+]

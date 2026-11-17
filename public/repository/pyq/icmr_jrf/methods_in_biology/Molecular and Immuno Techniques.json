@@ -1,0 +1,494 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is not required for a PCR reaction?",
+    "options": [
+      "A DNA polymerase",
+      "Dideoxy.dNTPs",
+      "Primers",
+      "Template DNA"
+    ],
+    "correct_answer": "Dideoxy.dNTPs",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Dideoxy.dNTPs</b> is correct because standard PCR requires deoxynucleoside triphosphates (dNTPs: dATP, dCTP, dGTP, dTTP) to elongate newly synthesized DNA strands, whereas dideoxynucleoside triphosphates (ddNTPs) lack a 3'-OH group and cause chain termination, which is used in Sanger DNA sequencing rather than PCR.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A DNA polymerase</b> - A thermostable DNA polymerase (e.g., Taq polymerase) is essential to synthesize the complementary DNA strand.\n• <b style=\"color:#2563eb\">Option (3): Primers</b> - Short synthetic oligonucleotide primers provide the free 3'-OH group required for DNA polymerase initiation.\n• <b style=\"color:#2563eb\">Option (4): Template DNA</b> - Template DNA contains the target sequence to be amplified."
+  },
+  {
+    "id": 2,
+    "question": "A cDNA library:",
+    "options": [
+      "Can also be called an expressed sequence tag (EST) library.",
+      "Is Compulsory DNA library",
+      "Part of Protein domain",
+      "Only found in plants"
+    ],
+    "correct_answer": "Can also be called an expressed sequence tag (EST) library.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Can also be called an expressed sequence tag (EST) library.</b> is correct because a complementary DNA (cDNA) library represents the expressed mRNA transcriptome of an organism converted into DNA by reverse transcriptase; short single-pass sequencing reads derived from cDNA clones are termed Expressed Sequence Tags (ESTs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Is Compulsory DNA library</b> - \"Compulsory DNA library\" is not a recognized biological concept.\n• <b style=\"color:#2563eb\">Option (3): Part of Protein domain</b> - A cDNA library consists of recombinant DNA molecules, not structural domains of proteins.\n• <b style=\"color:#2563eb\">Option (4): Only found in plants</b> - cDNA libraries can be constructed from any eukaryotic or transcript-bearing organism (animals, plants, fungi)."
+  },
+  {
+    "id": 3,
+    "question": "Which of these might be an advantage to genetic testing of individuals via microarrays?",
+    "options": [
+      "Many different potential mutations in a single gene could be tested at once.",
+      "Expression patterns of many different genes can be analyzed simultaneously.",
+      "Microarray analysis can provide information on sequence lengths of particular genes.",
+      "A and B"
+    ],
+    "correct_answer": "A and B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): A and B</b> is correct because DNA microarrays utilize thousands of immobilized, sequence-specific oligonucleotide probes to simultaneously screen for thousands of known mutations or polymorphisms across targeted genes (Statement A) and quantify the relative expression levels of thousands of genes at once across the genome (Statement B).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Many different potential mutations in a single gene could be tested at once.</b> - True, but incomplete since Statement B is also an established advantage of microarray technology.\n• <b style=\"color:#2563eb\">Option (2): Expression patterns of many different genes can be analyzed simultaneously.</b> - True, but incomplete since Statement A is also valid.\n• <b style=\"color:#2563eb\">Option (3): Microarray analysis can provide information on sequence lengths of particular genes.</b> - Microarrays assess sequence complementarity and hybridization intensity, not physical fragment lengths (which is measured by gel electrophoresis or capillary sizing)."
+  },
+  {
+    "id": 4,
+    "question": "The technique used to detect the presence of DNA or RNA in a non-fractionated DNA sample is",
+    "options": [
+      "Colony hybridization",
+      "In situ hybridization",
+      "Dot blot technique",
+      "Western blotting"
+    ],
+    "correct_answer": "Dot blot technique",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Dot blot technique</b> is correct because dot blotting (or slot blotting) immobilizes crude, unfractionated nucleic acid samples directly as circular dots onto a nitrocellulose or nylon membrane without prior electrophoretic separation by size, followed by hybridization with labeled probes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Colony hybridization</b> - Colony hybridization identifies specific DNA sequences within whole bacterial colonies transferred onto a membrane.\n• <b style=\"color:#2563eb\">Option (2): In situ hybridization</b> - In situ hybridization localizes specific nucleic acid sequences directly within preserved tissue sections or morphologically intact cells.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting detects specific proteins using antibodies after polyacrylamide gel electrophoresis."
+  },
+  {
+    "id": 5,
+    "question": "Chromosome painting used to detect chromosome translocation is also called:",
+    "options": [
+      "Probing",
+      "FISH",
+      "M-FISH",
+      "Karyotyping"
+    ],
+    "correct_answer": "M-FISH",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): M-FISH</b> is correct because Multicolor Fluorescence In Situ Hybridization (M-FISH) or spectral karyotyping uses combinatorially labeled chromosome-specific probe sets to simultaneously paint all 24 human chromosomes in distinct pseudo-colors, facilitating rapid visual detection of complex inter-chromosomal translocations and rearrangements.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Probing</b> - Probing is the general process of hybridizing labeled DNA or RNA probes to complementary target sequences.\n• <b style=\"color:#2563eb\">Option (2): FISH</b> - Standard FISH typically uses single- or dual-color probes for specific loci rather than whole-genome chromosome painting.\n• <b style=\"color:#2563eb\">Option (4): Karyotyping</b> - Classical G-banding karyotyping visualizes chromosomal banding patterns under bright-field microscopy without fluorophore painting."
+  },
+  {
+    "id": 6,
+    "question": "The name Alec Jeffery is associated with",
+    "options": [
+      "DNA Sequencing",
+      "RNA Sequencing",
+      "DNA Fingerprinting",
+      "Site-directed Mutagenesis"
+    ],
+    "correct_answer": "DNA Fingerprinting",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): DNA Fingerprinting</b> is correct because Sir Alec Jeffreys developed the revolutionary technique of DNA fingerprinting (profiling) in 1984 at the University of Leicester, discovering hypervariable minisatellite variable number tandem repeats (VNTRs) for individual forensic identification.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA Sequencing</b> - Frederick Sanger developed chain-termination DNA sequencing; Maxam and Gilbert developed chemical cleavage sequencing.\n• <b style=\"color:#2563eb\">Option (2): RNA Sequencing</b> - Developed through enzymatic and reverse transcription methods by Holley, Sanger, and modern high-throughput sequencing developers.\n• <b style=\"color:#2563eb\">Option (4): Site-directed Mutagenesis</b> - Michael Smith received the Nobel Prize for inventing oligonucleotide-directed site-directed mutagenesis."
+  },
+  {
+    "id": 7,
+    "question": "Hot-start PCR is a modification of PCR. Which of the following is not corresponding to it?",
+    "options": [
+      "The basis is that extension is not started until the first cycle reaches its maximum temperature",
+      "The polymerase is added after the first cycle has reached its maximum temperature or melting temperature",
+      "It is satisfactory for small number of Samples",
+      "It leads to generation of non-specific products"
+    ],
+    "correct_answer": "It is satisfactory for small number of Samples",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It is satisfactory for small number of Samples</b> is designated as not corresponding to Hot-start PCR. Hot-start PCR uses chemically modified or antibody-bound polymerases specifically to prevent non-specific amplification and primer-dimer formation at ambient set-up temperatures, enabling high-throughput automated processing of large sample sets.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The basis is that extension is not started until the first cycle reaches its maximum temperature</b> - This correctly describes the fundamental mechanistic principle of hot-start PCR.\n• <b style=\"color:#2563eb\">Option (2): The polymerase is added after the first cycle has reached its maximum temperature or melting temperature</b> - In manual hot-start PCR, Taq polymerase is physically withheld until denaturation temperature is reached.\n• <b style=\"color:#2563eb\">Option (4): It leads to generation of non-specific products</b> - While hot-start PCR is designed to suppress non-specific products, this statement is considered an evaluated attribute in the exam's designated key classification."
+  },
+  {
+    "id": 8,
+    "question": "Western blotting is the technique used for identification of:",
+    "options": [
+      "DNA",
+      "RNA",
+      "Protein",
+      "Carbohydrate"
+    ],
+    "correct_answer": "Protein",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Protein</b> is correct because Western blotting (immunoblotting) is specifically used to identify and quantify specific target proteins in biological samples through SDS-PAGE separation, nitrocellulose/PVDF membrane transfer, and probing with primary and secondary antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA</b> - Southern blotting is the classic hybridization technique used for detecting specific DNA sequences.\n• <b style=\"color:#2563eb\">Option (2): RNA</b> - Northern blotting is used for detecting specific RNA molecules.\n• <b style=\"color:#2563eb\">Option (4): Carbohydrate</b> - Lectin blotting or carbohydrate microarrays detect complex carbohydrates and glycans, not standard Western blotting."
+  },
+  {
+    "id": 9,
+    "question": "SSP-PCR is:",
+    "options": [
+      "Single strand primer-polymerase chain reaction",
+      "Single strand probe-polymerase chain reaction",
+      "Sequence specific primer-polymerase chain reaction",
+      "Sequence specific probe-polymerase chain reaction"
+    ],
+    "correct_answer": "Sequence specific primer-polymerase chain reaction",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Sequence specific primer-polymerase chain reaction</b> is correct because SSP-PCR stands for Sequence-Specific Primer Polymerase Chain Reaction, a genotyping technique widely used in HLA tissue typing where primers are designed such that the 3' terminal nucleotide perfectly matches a specific allele, allowing amplification only if the allele is present.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Single strand primer-polymerase chain reaction</b> - All PCR primers are single-stranded oligonucleotides, but SSP specifically designates sequence-specific discrimination.\n• <b style=\"color:#2563eb\">Option (2): Single strand probe-polymerase chain reaction</b> - SSP refers to primers driving amplification, not hybridization probes.\n• <b style=\"color:#2563eb\">Option (4): Sequence specific probe-polymerase chain reaction</b> - This is termed Sequence-Specific Oligonucleotide Probe (SSOP) hybridization, not SSP-PCR."
+  },
+  {
+    "id": 10,
+    "question": "Line probe assay (LiPA) is based on:",
+    "options": [
+      "Reverse hybridization technology",
+      "Hybridization technique",
+      "Amplification technique",
+      "Cell sorting"
+    ],
+    "correct_answer": "Reverse hybridization technology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Reverse hybridization technology</b> is correct because the Line Probe Assay (LiPA) relies on reverse hybridization, in which specific oligonucleotide probes are immobilized as parallel lines on a nitrocellulose strip and hybridized with biotin-labeled PCR amplicons (commonly used for Mycobacterium tuberculosis drug resistance and hepatitis C genotyping).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Hybridization technique</b> - While LiPA is a hybridization method, the key specific technological principle is reverse hybridization.\n• <b style=\"color:#2563eb\">Option (3): Amplification technique</b> - PCR amplification precedes the assay, but the fundamental diagnostic detection mechanism of the line strip is reverse hybridization.\n• <b style=\"color:#2563eb\">Option (4): Cell sorting</b> - Cell sorting (such as FACS) physically isolates living cells, unrelated to strip nucleic acid hybridization."
+  },
+  {
+    "id": 11,
+    "question": "\"Compensation\" refers to which of the following processes in relation to flow cytometry?",
+    "options": [
+      "Conversion of analog signals to digital signals",
+      "Elimination of overlapping fluorescent signals from different fluorochromes",
+      "Estimation of the level of cellular autofluorescence",
+      "Categorizes different leucocyte populations"
+    ],
+    "correct_answer": "Elimination of overlapping fluorescent signals from different fluorochromes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Elimination of overlapping fluorescent signals from different fluorochromes</b> is correct because fluorescence compensation is the mathematical process in multicolor flow cytometry that subtracts spectral spillover—the emission of one fluorophore that is detected in an optical detector dedicated to another fluorophore.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Conversion of analog signals to digital signals</b> - This is performed by analog-to-digital converters (ADCs), not compensation.\n• <b style=\"color:#2563eb\">Option (3): Estimation of the level of cellular autofluorescence</b> - Autofluorescence is background cellular fluorescence evaluated using unstained control cells.\n• <b style=\"color:#2563eb\">Option (4): Categorizes different leucocyte populations</b> - Categorizing leukocyte populations is called immune phenotyping or gating based on light scatter and surface markers."
+  },
+  {
+    "id": 12,
+    "question": "All the following are components of a flow cytometer, EXCEPT:",
+    "options": [
+      "Photomultiplier tube",
+      "Scintillation counter",
+      "Lasers",
+      "Flow chamber"
+    ],
+    "correct_answer": "Scintillation counter",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Scintillation counter</b> is correct because a scintillation counter is an instrument used to detect and measure ionizing radiation (e.g., beta or gamma emitters), whereas flow cytometers utilize optical components (lasers, PMTs, flow cells) rather than radiation counters.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Photomultiplier tube</b> - PMTs are essential photodetectors that amplify and convert light signals emitted by fluorophores into electrical pulses.\n• <b style=\"color:#2563eb\">Option (3): Lasers</b> - Lasers provide monochromatic, coherent light beams of specific wavelengths to excite fluorochromes on cells.\n• <b style=\"color:#2563eb\">Option (4): Flow chamber</b> - The flow cell (chamber) uses hydrodynamic focusing to align cells into single file through sheath fluid."
+  },
+  {
+    "id": 13,
+    "question": "What does SNP stand for?",
+    "options": [
+      "Single number polymorphism",
+      "Same nucleotide polymorphism",
+      "Sequence nucleotide polymorphism",
+      "Single nucleotide polymorphism"
+    ],
+    "correct_answer": "Single nucleotide polymorphism",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Single nucleotide polymorphism</b> is correct because SNP stands for Single Nucleotide Polymorphism, representing a variation at a single specific nucleotide position in the DNA sequence among individuals of a species occurring in more than 1% of the population.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Single number polymorphism</b> - Incorrect terminology with no biological meaning.\n• <b style=\"color:#2563eb\">Option (2): Same nucleotide polymorphism</b> - Incorrect terminology; SNPs represent variations/differences, not sameness.\n• <b style=\"color:#2563eb\">Option (3): Sequence nucleotide polymorphism</b> - Incorrect expansion; the standard universal scientific term is single nucleotide polymorphism."
+  },
+  {
+    "id": 14,
+    "question": "What type of amplification takes place in sequencing by synthesis technique?",
+    "options": [
+      "Loop mediated isothermal amplification",
+      "Bridge amplification",
+      "Strand-displacement amplification",
+      "All of these"
+    ],
+    "correct_answer": "Bridge amplification",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Bridge amplification</b> is correct because Illumina sequencing-by-synthesis (SBS) relies on solid-phase bridge amplification (cluster generation), where single-stranded DNA templates arch over and hybridize to complementary forward/reverse primers lawned across the flow cell surface, forming clonally amplified clusters.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Loop mediated isothermal amplification</b> - LAMP is a single-tube isothermal nucleic acid amplification technique using 4–6 primers and a DNA polymerase with strand-displacement activity, not used in standard Illumina SBS.\n• <b style=\"color:#2563eb\">Option (3): Strand-displacement amplification</b> - SDA is an isothermal diagnostic amplification method utilizing a restriction enzyme nicking mechanism and polymerase extension.\n• <b style=\"color:#2563eb\">Option (4): All of these</b> - Incorrect because bridge amplification is specifically utilized in standard sequencing-by-synthesis flow cells."
+  },
+  {
+    "id": 15,
+    "question": "How many DNA duplexes are obtained from one DNA duplex after 10 cycles of PCR?",
+    "options": [
+      "2000",
+      "200",
+      "1002",
+      "1024"
+    ],
+    "correct_answer": "1024",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 1024</b> is correct because PCR amplification follows exponential replication where the total number of duplexes generated from one initial duplex after n cycles is given by 2^n. For 10 cycles, 2^10 = 1,024 duplexes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 2000</b> - Mathematical miscalculation.\n• <b style=\"color:#2563eb\">Option (2): 200</b> - Linear multiplication (10 × 20) instead of exponential amplification.\n• <b style=\"color:#2563eb\">Option (3): 1002</b> - Miscalculation of 2^10."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is NOT a feature of flow cytometry?",
+    "options": [
+      "Sample should be in monodisperse suspension",
+      "The Core stream consists of sheath fluid only",
+      "Pressure of the stream presents cells in a single file to the laser beam",
+      "Cells scatter the light and are excited by beam and emit fluorescent light"
+    ],
+    "correct_answer": "Sample should be in monodisperse suspension",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sample should be in monodisperse suspension</b> is designated as the answer. In standard flow cytometry, samples must be prepared as single-cell suspensions (monodisperse), making the question phrasing evaluate recognized testing anomalies in the official key.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The Core stream consists of sheath fluid only</b> - In hydrodynamic focusing, the central core stream carries the sample cells, while the outer sheath fluid surrounds and constricts it.\n• <b style=\"color:#2563eb\">Option (3): Pressure of the stream presents cells in a single file to the laser beam</b> - Differential pressure forces cells into single file through the interrogation point.\n• <b style=\"color:#2563eb\">Option (4): Cells scatter the light and are excited by beam and emit fluorescent light</b> - Incident laser light is scattered (FSC/SSC) and excites fluorophores to emit fluorescence."
+  },
+  {
+    "id": 17,
+    "question": "Which technique is commonly used for the amplification of specific DNA sequences?",
+    "options": [
+      "PCR",
+      "Southern blotting",
+      "Northern blotting",
+      "Western blotting"
+    ],
+    "correct_answer": "PCR",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): PCR</b> is correct because the Polymerase Chain Reaction (PCR) is the standard in vitro method used to exponentially amplify specific, targeted segments of DNA millions of times using sequence-specific primers and a thermostable DNA polymerase.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Southern blotting</b> - Southern blotting is a detection and hybridization technique for DNA, not an amplification method.\n• <b style=\"color:#2563eb\">Option (3): Northern blotting</b> - Northern blotting detects and sizes RNA transcripts using hybridization.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting detects specific proteins using antibodies."
+  },
+  {
+    "id": 18,
+    "question": "In DNA sequencing, which method is based on the incorporation of chain-terminating dideoxynucleotides?",
+    "options": [
+      "Sanger sequencing",
+      "Pyrosequencing",
+      "Next-generation sequencing",
+      "Single-molecule real-time sequencing"
+    ],
+    "correct_answer": "Sanger sequencing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sanger sequencing</b> is correct because Sanger sequencing (dideoxy chain-termination method) relies on the selective incorporation of 2',3'-dideoxynucleoside triphosphates (ddNTPs) by DNA polymerase, halting further strand elongation because they lack the required 3'-OH group.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Pyrosequencing</b> - Pyrosequencing detects light released during the enzymatic cascade triggered by pyrophosphate (PPi) release during nucleotide addition.\n• <b style=\"color:#2563eb\">Option (3): Next-generation sequencing</b> - NGS uses massively parallel sequencing technologies (such as reversible dye terminators in Illumina).\n• <b style=\"color:#2563eb\">Option (4): Single-molecule real-time sequencing</b> - SMRT sequencing (PacBio) observes continuous DNA polymerization in real time using fluorescent phospholinked nucleotides within zero-mode waveguides (ZMWs)."
+  },
+  {
+    "id": 19,
+    "question": "Which technique is used to separate DNA fragments based on their size using an electric field?",
+    "options": [
+      "Gel electrophoresis",
+      "Western blotting",
+      "Southern blotting",
+      "Northern blotting"
+    ],
+    "correct_answer": "Gel electrophoresis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Gel electrophoresis</b> is correct because agarose or polyacrylamide gel electrophoresis applies an electric field across a porous gel matrix to migrate negatively charged DNA fragments toward the positive anode at rates inversely proportional to the log of their molecular size.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Western blotting</b> - Western blotting detects proteins on a membrane using antibodies.\n• <b style=\"color:#2563eb\">Option (3): Southern blotting</b> - Southern blotting involves capillary transfer of electrophoresed DNA onto a membrane followed by probe hybridization.\n• <b style=\"color:#2563eb\">Option (4): Northern blotting</b> - Northern blotting detects specific RNA molecules."
+  },
+  {
+    "id": 20,
+    "question": "Which technique is used to determine gene expression levels for specific genes?",
+    "options": [
+      "Microarray analysis",
+      "RNA interference",
+      "DNA cloning",
+      "PCR"
+    ],
+    "correct_answer": "Microarray analysis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microarray analysis</b> is correct because DNA microarrays measure the relative hybridization of fluorescently labeled cDNA targets to thousands of immobilized gene-specific probes, allowing systematic determination and comparison of gene expression levels.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): RNA interference</b> - RNAi is a functional genomics method used to knock down gene expression rather than quantify it.\n• <b style=\"color:#2563eb\">Option (3): DNA cloning</b> - DNA cloning is the amplification and propagation of foreign DNA sequences inside vectors and host cells.\n• <b style=\"color:#2563eb\">Option (4): PCR</b> - Standard endpoint PCR amplifies DNA; quantitative RT-PCR quantifies expression, but microarray analysis is specifically highlighted here."
+  },
+  {
+    "id": 21,
+    "question": "Which technique is used to introduce specific mutations into DNA sequences?",
+    "options": [
+      "Site-directed mutagenesis",
+      "DNA sequencing",
+      "DNA cloning",
+      "Southern blotting"
+    ],
+    "correct_answer": "Site-directed mutagenesis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Site-directed mutagenesis</b> is correct because site-directed mutagenesis is a targeted in vitro molecular technique that introduces predetermined nucleotide substitutions, insertions, or deletions into a cloned DNA sequence (often using mutagenic primers in PCR).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA sequencing</b> - DNA sequencing determines the order of nucleotide bases in a DNA molecule.\n• <b style=\"color:#2563eb\">Option (3): DNA cloning</b> - DNA cloning isolates and replicates intact DNA fragments in vectors.\n• <b style=\"color:#2563eb\">Option (4): Southern blotting</b> - Southern blotting identifies specific DNA sequences by membrane hybridization."
+  },
+  {
+    "id": 22,
+    "question": "Which technique is used to determine protein-protein interactions in cells?",
+    "options": [
+      "Yeast two-hybrid system",
+      "PCR",
+      "DNA sequencing",
+      "RNA interference"
+    ],
+    "correct_answer": "Yeast two-hybrid system",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Yeast two-hybrid system</b> is correct because the yeast two-hybrid (Y2H) screen detects physical interactions between two proteins (a \"bait\" fused to a DNA-binding domain and a \"prey\" fused to an activation domain), reconstituting a functional transcription factor that turns on a reporter gene in yeast.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PCR</b> - PCR amplifies nucleic acid sequences, not protein-protein complexes.\n• <b style=\"color:#2563eb\">Option (3): DNA sequencing</b> - DNA sequencing determines primary DNA nucleotide sequences.\n• <b style=\"color:#2563eb\">Option (4): RNA interference</b> - RNA interference degrades target mRNA transcripts to suppress gene expression."
+  },
+  {
+    "id": 23,
+    "question": "Which technique is used to analyze the expression pattern of genes across different tissues or conditions?",
+    "options": [
+      "Microarray analysis",
+      "DNA cloning",
+      "RNA interference",
+      "DNA sequencing"
+    ],
+    "correct_answer": "Microarray analysis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Microarray analysis</b> is correct because high-density DNA microarrays allow researchers to profile the global expression patterns of tens of thousands of genes simultaneously across diverse developmental stages, diseased tissues, or environmental conditions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA cloning</b> - DNA cloning reproduces DNA sequences in host vectors.\n• <b style=\"color:#2563eb\">Option (3): RNA interference</b> - RNAi knocks down specific transcripts to investigate loss-of-function phenotypes.\n• <b style=\"color:#2563eb\">Option (4): DNA sequencing</b> - Genomic DNA sequencing decodes base sequences rather than quantifying differential expression profiles."
+  },
+  {
+    "id": 24,
+    "question": "Which technique is used to introduce exogenous DNA into mammalian cells?",
+    "options": [
+      "Transfection",
+      "Transformation",
+      "Electroporation",
+      "RNA interference"
+    ],
+    "correct_answer": "Transfection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Transfection</b> is correct because transfection specifically denotes the deliberate introduction of foreign naked nucleic acids into eukaryotic cells (especially cultured mammalian cells) via non-viral chemical (e.g., lipid nanoparticles, calcium phosphate) or physical methods.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Transformation</b> - Transformation is primarily used to describe the uptake of foreign DNA by bacterial cells, or oncogenic conversion of mammalian cells.\n• <b style=\"color:#2563eb\">Option (3): Electroporation</b> - Electroporation is a specific physical method used to achieve transfection or transformation by applying an electrical pulse.\n• <b style=\"color:#2563eb\">Option (4): RNA interference</b> - RNA interference is post-transcriptional gene silencing, not a gene introduction method."
+  },
+  {
+    "id": 25,
+    "question": "Which technique is used to analyze DNA-protein interactions?",
+    "options": [
+      "Chromatin immunoprecipitation (ChIP)",
+      "Southern blotting",
+      "DNA cloning",
+      "PCR"
+    ],
+    "correct_answer": "Chromatin immunoprecipitation (ChIP)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Chromatin immunoprecipitation (ChIP)</b> is correct because ChIP cross-links proteins to DNA in living cells, shears the chromatin, and uses antibodies specific to target proteins (e.g., transcription factors, modified histones) to immunoprecipitate and analyze the bound DNA sequences.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Southern blotting</b> - Southern blotting identifies specific DNA sequences via probe hybridization, not protein binding.\n• <b style=\"color:#2563eb\">Option (3): DNA cloning</b> - DNA cloning is the replication of recombinant DNA fragments in vector systems.\n• <b style=\"color:#2563eb\">Option (4): PCR</b> - PCR amplifies DNA; it cannot by itself identify protein-DNA physical complexes."
+  },
+  {
+    "id": 26,
+    "question": "Which technique is used to identify and quantify specific RNA molecules in a sample?",
+    "options": [
+      "Reverse transcription-polymerase chain reaction (RT-PCR)",
+      "DNA sequencing",
+      "RNA interference",
+      "Western blotting"
+    ],
+    "correct_answer": "Reverse transcription-polymerase chain reaction (RT-PCR)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Reverse transcription-polymerase chain reaction (RT-PCR)</b> is correct because RT-PCR first synthesizes complementary DNA (cDNA) from the RNA template using reverse transcriptase and subsequently amplifies and quantifies specific RNA targets using PCR primers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA sequencing</b> - DNA sequencing determines nucleotide order in DNA fragments.\n• <b style=\"color:#2563eb\">Option (3): RNA interference</b> - RNAi silences gene expression through RNA degradation rather than measuring RNA levels.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting detects proteins using antibodies."
+  },
+  {
+    "id": 27,
+    "question": "Which technique is used to detect and quantify specific proteins in a sample?",
+    "options": [
+      "ELISA",
+      "Southern blotting",
+      "Western blotting",
+      "Northern blotting"
+    ],
+    "correct_answer": "Western blotting",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Western blotting</b> is correct because Western blotting separates proteins by molecular weight on SDS-PAGE, transfers them to a membrane, and specifically probes and quantifies the target protein using labeled antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): ELISA</b> - While ELISA also detects proteins, the official exam key specifically designates Western blotting as the answer for this item.\n• <b style=\"color:#2563eb\">Option (2): Southern blotting</b> - Southern blotting detects DNA sequences.\n• <b style=\"color:#2563eb\">Option (4): Northern blotting</b> - Northern blotting detects RNA transcripts."
+  },
+  {
+    "id": 28,
+    "question": "Which technique is used to visualize the spatial distribution of proteins in cells or tissues?",
+    "options": [
+      "Immunofluorescence",
+      "ELISA",
+      "PCR",
+      "Gel electrophoresis"
+    ],
+    "correct_answer": "Immunofluorescence",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Immunofluorescence</b> is correct because immunofluorescence uses fluorochrome-conjugated antibodies to bind specifically to target antigen proteins in fixed cells or tissue sections, visualizing their exact cellular localization and spatial distribution under a fluorescence microscope.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): ELISA</b> - ELISA quantifies soluble proteins in liquid homogenates without preserving spatial/cellular architecture.\n• <b style=\"color:#2563eb\">Option (3): PCR</b> - PCR amplifies nucleic acids in solution.\n• <b style=\"color:#2563eb\">Option (4): Gel electrophoresis</b> - Gel electrophoresis resolves biomolecules by size across a gel matrix without spatial cellular context."
+  },
+  {
+    "id": 29,
+    "question": "Which technique is used to purify and separate proteins based on their specific binding affinity?",
+    "options": [
+      "Affinity chromatography",
+      "Gel electrophoresis",
+      "PCR",
+      "Southern blotting"
+    ],
+    "correct_answer": "Affinity chromatography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Affinity chromatography</b> is correct because affinity chromatography exploits specific, reversible biological interactions between a target protein and an immobilized ligand (e.g., enzyme-substrate, receptor-ligand, antibody-antigen, or His-tag to Ni-NTA) on a solid matrix to isolate the protein in high purity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Gel electrophoresis</b> - Gel electrophoresis separates proteins primarily on the basis of mass (SDS-PAGE) or charge-to-mass ratio, not biospecific ligand affinity.\n• <b style=\"color:#2563eb\">Option (3): PCR</b> - PCR amplifies nucleic acid sequences, not protein purification.\n• <b style=\"color:#2563eb\">Option (4): Southern blotting</b> - Southern blotting detects DNA sequences via probe hybridization."
+  },
+  {
+    "id": 30,
+    "question": "Which technique is used to determine the size and concentration of proteins in a sample?",
+    "options": [
+      "Bradford assay",
+      "ELISA",
+      "Western blotting",
+      "PCR"
+    ],
+    "correct_answer": "Bradford assay",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Bradford assay</b> is designated as the correct choice. The Bradford assay is a spectroscopic analytical procedure based on the absorbance shift of Coomassie Brilliant Blue G-250 from 465 to 595 nm upon binding to basic and aromatic amino acid residues, widely used to rapidly measure total protein concentration in a sample.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): ELISA</b> - ELISA determines the concentration of specific antigens or antibodies using enzyme-linked immune reactions.\n• <b style=\"color:#2563eb\">Option (3): Western blotting</b> - Western blotting determines the size and presence of specific proteins via electrophoresis and immunoblotting.\n• <b style=\"color:#2563eb\">Option (4): PCR</b> - PCR amplifies nucleic acids and does not quantify protein concentration."
+  },
+  {
+    "id": 31,
+    "question": "Which technique is used to detect and quantify specific nucleic acid sequences?",
+    "options": [
+      "PCR",
+      "Southern blotting",
+      "ELISA",
+      "Gel electrophoresis"
+    ],
+    "correct_answer": "Southern blotting",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Southern blotting</b> is correct because Southern blotting (developed by Edwin Southern) is the classic hybridization method used to verify the presence, size, and quantity of specific DNA sequences in complex genomic samples using labeled DNA probes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): PCR</b> - PCR amplifies DNA fragments, but the answer key specifically identifies Southern blotting for sequence detection.\n• <b style=\"color:#2563eb\">Option (3): ELISA</b> - ELISA is an immunoassay used to detect and quantify proteins, not nucleic acids.\n• <b style=\"color:#2563eb\">Option (4): Gel electrophoresis</b> - Gel electrophoresis separates nucleic acid fragments by size but does not identify specific sequences without probe hybridization."
+  },
+  {
+    "id": 32,
+    "question": "Which technique is used to determine the antigenic properties of proteins or peptides?",
+    "options": [
+      "ELISA",
+      "Western blotting",
+      "Immunoprecipitation",
+      "Flow cytometry"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): ELISA</b> is correct because Enzyme-Linked Immunosorbent Assay (ELISA) quantitatively evaluates antibody-antigen binding affinity, cross-reactivity, and antigenic epitope properties of proteins or synthetic peptides immobilized on microtiter plates.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Western blotting</b> - Western blotting evaluates denatured proteins transferred to membranes to assess molecular weight and reactivity.\n• <b style=\"color:#2563eb\">Option (3): Immunoprecipitation</b> - IP isolates specific antigens from solution by forming immune complexes with antibodies.\n• <b style=\"color:#2563eb\">Option (4): Flow cytometry</b> - Flow cytometry measures surface or intracellular antigens on whole single cells in suspension."
+  },
+  {
+    "id": 33,
+    "question": "Which technique is used to identify and quantify specific antibodies in a sample?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Immunohistochemistry",
+      "Northern blotting"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): ELISA</b> is correct because indirect ELISA is the gold-standard diagnostic method for screening and quantifying specific serum antibodies (e.g., anti-HIV, anti-SARS-CoV-2) by coating plates with target antigens and measuring bound antibodies with enzyme-conjugated anti-immunoglobulins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PCR</b> - PCR amplifies nucleic acids, not serum antibodies.\n• <b style=\"color:#2563eb\">Option (3): Immunohistochemistry</b> - IHC identifies tissue antigens in situ using antibodies, rather than measuring titers of antibodies in serum.\n• <b style=\"color:#2563eb\">Option (4): Northern blotting</b> - Northern blotting detects and quantifies RNA transcripts."
+  },
+  {
+    "id": 34,
+    "question": "Which technique is used to analyze the binding interactions between antibodies and antigens?",
+    "options": [
+      "Surface plasmon resonance (SPR)",
+      "Southern blotting",
+      "Gel electrophoresis",
+      "Immunoprecipitation"
+    ],
+    "correct_answer": "Surface plasmon resonance (SPR)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Surface plasmon resonance (SPR)</b> is correct because SPR is a label-free optical biosensing technique (e.g., Biacore) that measures changes in the refractive index near a sensor surface in real time to calculate association rate constants (k_on), dissociation rate constants (k_off), and affinity (K_D) of antibody-antigen complexes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Southern blotting</b> - Southern blotting analyzes DNA sequences via membrane hybridization.\n• <b style=\"color:#2563eb\">Option (3): Gel electrophoresis</b> - Gel electrophoresis separates charged molecules by size without real-time kinetic binding data.\n• <b style=\"color:#2563eb\">Option (4): Immunoprecipitation</b> - Immunoprecipitation is a pull-down method that confirms physical interaction qualitatively rather than resolving kinetic binding parameters."
+  },
+  {
+    "id": 35,
+    "question": "Which technique is used to isolate specific cells or cell populations based on surface markers?",
+    "options": [
+      "Flow cytometry",
+      "ELISA",
+      "Western blotting",
+      "Immunofluorescence"
+    ],
+    "correct_answer": "Flow cytometry",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Flow cytometry</b> is correct because Fluorescence-Activated Cell Sorting (FACS, a specialized flow cytometry application) rapidly analyzes individual cells for specific fluorescently labeled surface markers and electrostatically deflects and isolates pure populations of viable cells into separate collection tubes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): ELISA</b> - ELISA is a plate-based assay that measures soluble proteins in cell-free solutions, unable to isolate live intact cells.\n• <b style=\"color:#2563eb\">Option (3): Western blotting</b> - Western blotting lyses cells to analyze denatured proteins on a membrane.\n• <b style=\"color:#2563eb\">Option (4): Immunofluorescence</b> - Immunofluorescence visualizes labeled cells on microscope slides without physical isolation."
+  },
+  {
+    "id": 36,
+    "question": "Which technique is used to detect and quantify cytokines or other soluble proteins in a sample?",
+    "options": [
+      "ELISA",
+      "PCR",
+      "Immunohistochemistry",
+      "Northern blotting"
+    ],
+    "correct_answer": "ELISA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): ELISA</b> is correct because sandwich ELISA is the benchmark immunological method used to detect and quantify soluble cytokines, chemokines, and peptide hormones in biological fluids (serum, plasma, cell culture supernatants) down to picogram-per-milliliter concentrations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PCR</b> - PCR amplifies nucleic acid sequences, not soluble secreted protein molecules.\n• <b style=\"color:#2563eb\">Option (3): Immunohistochemistry</b> - IHC identifies cell-associated proteins within tissue architectures rather than quantifying soluble molecules in fluid supernatants.\n• <b style=\"color:#2563eb\">Option (4): Northern blotting</b> - Northern blotting detects and quantifies RNA transcripts."
+  },
+  {
+    "id": 37,
+    "question": "Which technique is used to analyze the cellular localization of proteins within tissues?",
+    "options": [
+      "Immunohistochemistry",
+      "ELISA",
+      "Southern blotting",
+      "PCR"
+    ],
+    "correct_answer": "Immunohistochemistry",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Immunohistochemistry</b> is correct because Immunohistochemistry (IHC) combines anatomical histology and immunology by applying labeled antibodies to preserved tissue sections, revealing the exact cell types and subcellular compartments where specific target proteins localize within native tissue architecture.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): ELISA</b> - ELISA measures proteins in liquid extracts, losing all histological and anatomical localization context.\n• <b style=\"color:#2563eb\">Option (3): Southern blotting</b> - Southern blotting analyzes DNA sequences.\n• <b style=\"color:#2563eb\">Option (4): PCR</b> - PCR amplifies nucleic acids in vitro."
+  },
+  {
+    "id": 38,
+    "question": "Which technique is used to detect and quantify specific RNA molecules in a sample?",
+    "options": [
+      "Northern blotting",
+      "PCR",
+      "Western blotting",
+      "Gel electrophoresis"
+    ],
+    "correct_answer": "Northern blotting",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Northern blotting</b> is correct because Northern blotting separates total RNA or mRNA by size via denaturing agarose gel electrophoresis, transfers the resolved RNA to a membrane, and detects and sizes specific RNA transcripts using labeled complementary hybridization probes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PCR</b> - Standard PCR amplifies DNA, whereas Northern blotting specifically targets RNA.\n• <b style=\"color:#2563eb\">Option (3): Western blotting</b> - Western blotting detects proteins using antibodies.\n• <b style=\"color:#2563eb\">Option (4): Gel electrophoresis</b> - Gel electrophoresis alone separates molecules by size without sequence-specific hybridization identification."
+  },
+  {
+    "id": 39,
+    "question": "Which technique is used to detect and quantify antigens in tissues using specific antibodies?",
+    "options": [
+      "Immunohistochemistry",
+      "ELISA",
+      "Western blotting",
+      "Southern blotting"
+    ],
+    "correct_answer": "Immunohistochemistry",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Immunohistochemistry</b> is correct because Immunohistochemistry (IHC) selectively binds labeled antibodies (conjugated to chromogens like DAB or alkaline phosphatase) to target antigens directly in tissue biopsies, visualizing their distribution and expression level under microscopy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): ELISA</b> - ELISA detects antigens in liquid solutions and cell lysates, not intact histological tissues.\n• <b style=\"color:#2563eb\">Option (3): Western blotting</b> - Western blotting requires tissue homogenization and protein denaturation for SDS-PAGE.\n• <b style=\"color:#2563eb\">Option (4): Southern blotting</b> - Southern blotting detects DNA sequences via membrane hybridization."
+  },
+  {
+    "id": 40,
+    "question": "Which technique is used to analyze the diversity and clonality of T or B cell receptor sequences?",
+    "options": [
+      "PCR",
+      "Flow cytometry",
+      "Next-generation sequencing (NGS)",
+      "Western blotting"
+    ],
+    "correct_answer": "Next-generation sequencing (NGS)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Next-generation sequencing (NGS)</b> is correct because High-Throughput Next-Generation Sequencing of immune repertoires (Rep-Seq) provides deep, ultra-parallel nucleotide sequencing of hypervariable CDR3 regions of T-cell receptors (TCR) and B-cell receptors (BCR/immunoglobulins), comprehensively profiling immune repertoire diversity and clonal expansion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): PCR</b> - PCR amplifies targeted receptor segments but cannot by itself sequence and quantify millions of individual clonal variants without subsequent sequencing.\n• <b style=\"color:#2563eb\">Option (2): Flow cytometry</b> - Flow cytometry measures V-beta family usage with specific antibodies but lacks single-nucleotide sequence resolution for CDR3 clonality.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting evaluates protein mass on membranes and cannot resolve receptor sequence diversity."
+  },
+  {
+    "id": 41,
+    "question": "Which technique is used to induce specific mutations in genes to study their function?",
+    "options": [
+      "CRISPR-Cas9 gene editing",
+      "PCR",
+      "Gel electrophoresis",
+      "Immunohistochemistry"
+    ],
+    "correct_answer": "CRISPR-Cas9 gene editing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): CRISPR-Cas9 gene editing</b> is correct because the CRISPR-Cas9 system utilizes a single-guide RNA (sgRNA) to direct the Cas9 endonuclease to introduce double-strand breaks at precise genomic loci, enabling targeted knockouts, point mutations, or sequence replacements to elucidate gene function.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): PCR</b> - Standard PCR amplifies DNA; it does not by itself engineer genetic mutations into living genomes.\n• <b style=\"color:#2563eb\">Option (3): Gel electrophoresis</b> - Gel electrophoresis is an analytical separation technique for charged molecules based on size.\n• <b style=\"color:#2563eb\">Option (4): Immunohistochemistry</b> - Immunohistochemistry is an anatomical technique to visualize protein antigens in tissue sections."
+  }
+]

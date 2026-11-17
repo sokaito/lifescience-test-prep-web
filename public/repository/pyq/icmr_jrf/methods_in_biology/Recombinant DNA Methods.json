@@ -1,0 +1,446 @@
+[
+  {
+    "id": 1,
+    "question": "Which of these restriction enzymes produces blunt ends?",
+    "options": [
+      "SalI",
+      "EcoRV",
+      "XhoI",
+      "HindIII"
+    ],
+    "correct_answer": "EcoRV",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): EcoRV</b> is correct because EcoRV (from Escherichia coli) recognizes the 6-base palindromic sequence 5'-GATATC-3' and cleaves between T and A in both strands (5'-GAT|ATC-3'), producing flush or blunt ends without single-stranded overhangs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): SalI</b> - SalI cuts at 5'-G|TCGAC-3', generating 5' sticky (cohesive) overhangs (TCGA-5').\n• <b style=\"color:#2563eb\">Option (3): XhoI</b> - XhoI cuts at 5'-C|TCGAG-3', producing 5' cohesive overhangs.\n• <b style=\"color:#2563eb\">Option (4): HindIII</b> - HindIII cuts at 5'-A|AGCTT-3', generating 5' cohesive overhangs."
+  },
+  {
+    "id": 2,
+    "question": "Autonomously replicating sequence (ARS) is a feature of",
+    "options": [
+      "E. coli vector",
+      "Phage vector",
+      "Yeast vector",
+      "Plasmid vector"
+    ],
+    "correct_answer": "Yeast vector",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Yeast vector</b> is correct because Autonomously Replicating Sequences (ARS) are yeast genomic sequences (~100–200 bp containing an 11-bp conserved consensus) that act as eukaryotic origins of replication in yeast cloning vectors like YRp (Yeast Replicating Plasmids) and YAC (Yeast Artificial Chromosomes).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): E. coli vector</b> - E. coli vectors utilize bacterial origins of replication such as ColE1 or pMB1 ori, not ARS elements.\n• <b style=\"color:#2563eb\">Option (2): Phage vector</b> - Bacteriophage vectors (e.g., lambda, M13) possess phage-specific replication origins and replication cycles.\n• <b style=\"color:#2563eb\">Option (4): Plasmid vector</b> - Standard prokaryotic plasmids rely on bacterial replication origins rather than ARS."
+  },
+  {
+    "id": 3,
+    "question": "What is not common between an expression vector and cloning vector",
+    "options": [
+      "Origin of replication",
+      "Restriction sites",
+      "Marker genes",
+      "Promoter"
+    ],
+    "correct_answer": "Promoter",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Promoter</b> is correct because a promoter is an essential transcriptional regulatory element present specifically in expression vectors to drive transcription and translation of the cloned insert, whereas standard cloning vectors only require an origin of replication, a selectable marker, and unique restriction sites for gene propagation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Origin of replication</b> - An origin of replication (ori) is a fundamental feature required by both cloning and expression vectors to replicate inside the host cell.\n• <b style=\"color:#2563eb\">Option (2): Restriction sites</b> - Both vectors contain unique restriction sites (a multiple cloning site or MCS) for inserting the target DNA fragment.\n• <b style=\"color:#2563eb\">Option (3): Marker genes</b> - Both types require selectable marker genes (e.g., antibiotic resistance) to identify host cells that have taken up the vector."
+  },
+  {
+    "id": 4,
+    "question": "P1 cloning vector allows cloning of DNA of the length of",
+    "options": [
+      "100 kbp",
+      "50 kbp",
+      "20 kbp",
+      "10 kbp"
+    ],
+    "correct_answer": "100 kbp",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 100 kbp</b> is correct because bacteriophage P1-derived cloning vectors (and P1-derived artificial chromosomes, PACs) are specifically designed to package and clone large foreign DNA fragments typically ranging from 75 to 100 kbp.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 50 kbp</b> - Cosmid vectors typically accommodate foreign DNA fragments up to 40–50 kbp.\n• <b style=\"color:#2563eb\">Option (3): 20 kbp</b> - Bacteriophage lambda replacement vectors generally clone DNA fragments up to 20–25 kbp.\n• <b style=\"color:#2563eb\">Option (4): 10 kbp</b> - Standard plasmid vectors (such as pBR322, pUC19) routinely clone smaller inserts below 10–15 kbp."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following vector contains telomeric sequences?",
+    "options": [
+      "Plasmid vector",
+      "Lambda vector",
+      "M13 vector",
+      "Yeast vector"
+    ],
+    "correct_answer": "Yeast vector",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Yeast vector</b> is correct because Yeast Artificial Chromosome (YAC) vectors are linear eukaryotic cloning vehicles containing telomeric sequences (TEL) at both ends to ensure stability and end-protection during replication in Saccharomyces cerevisiae.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Plasmid vector</b> - Plasmids are circular, double-stranded bacterial DNA molecules and do not possess linear eukaryotic telomeres.\n• <b style=\"color:#2563eb\">Option (2): Lambda vector</b> - Lambda vectors possess cohesive ends (cos sites) for packaging into phage heads, not eukaryotic telomeres.\n• <b style=\"color:#2563eb\">Option (3): M13 vector</b> - M13 is a filamentous bacteriophage with a circular single-stranded DNA genome lacking telomeric sequences."
+  },
+  {
+    "id": 6,
+    "question": "The sticky ends of a fragmented DNA molecule are made of:",
+    "options": [
+      "Calcium salts",
+      "Endonuclease enzyme",
+      "Unpaired bases",
+      "Methyl groups"
+    ],
+    "correct_answer": "Unpaired bases",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Unpaired bases</b> is correct because sticky (cohesive) ends generated by restriction endonuclease digestion consist of short, single-stranded terminal overhangs with unpaired nucleotide bases that can base-pair with complementary sequences on other fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Calcium salts</b> - Calcium chloride (CaCl2) is used chemically to induce bacterial cell competence, not a structural part of DNA sticky ends.\n• <b style=\"color:#2563eb\">Option (2): Endonuclease enzyme</b> - Endonucleases are enzymes that catalyze the cleavage of phosphodiester bonds; they do not form the physical structure of the DNA ends.\n• <b style=\"color:#2563eb\">Option (4): Methyl groups</b> - Methyl groups are chemical modifications added to DNA by methyltransferases to protect host DNA from restriction cleavage."
+  },
+  {
+    "id": 7,
+    "question": "Weakness of hydrogen bonding between bases in sticky ends are stabilized by a process called as:",
+    "options": [
+      "Reannealing",
+      "Ligation",
+      "Base-pairing",
+      "Annealing"
+    ],
+    "correct_answer": "Annealing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Annealing</b> is correct because annealing refers to the spontaneous hybridization and alignment of complementary single-stranded sticky overhangs via hydrogen bonds, bringing the fragments into proximity so that covalent sealing can subsequently occur.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reannealing</b> - Reannealing refers generally to the renaturation of separated complementary strands of nucleic acids upon cooling.\n• <b style=\"color:#2563eb\">Option (2): Ligation</b> - Ligation forms covalent phosphodiester bonds to permanently join the DNA backbone, but the initial association is annealing.\n• <b style=\"color:#2563eb\">Option (3): Base-pairing</b> - Base-pairing is the biochemical phenomenon of hydrogen bonding between purines and pyrimidines, whereas annealing is the process of joining strands."
+  },
+  {
+    "id": 8,
+    "question": "Insulin is produced by genetic engineering using:",
+    "options": [
+      "Saccharomyces",
+      "Escherichia coli",
+      "Rhizobium",
+      "Mycobacterium tuberculosis"
+    ],
+    "correct_answer": "Escherichia coli",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Escherichia coli</b> is correct because recombinant human insulin (Humulin) was first commercially produced by Eli Lilly in 1982 using genetically engineered Escherichia coli, in which the synthetic A and B peptide chains were expressed separately and subsequently joined via disulfide bonds.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Saccharomyces</b> - Saccharomyces cerevisiae has been used for later insulin analogs, but E. coli was the landmark host established for human insulin production.\n• <b style=\"color:#2563eb\">Option (3): Rhizobium</b> - Rhizobium is a symbiotic nitrogen-fixing soil bacterium associated with legume root nodules, not used for commercial insulin production.\n• <b style=\"color:#2563eb\">Option (4): Mycobacterium tuberculosis</b> - Mycobacterium tuberculosis is an pathogenic bacterium causing tuberculosis and is not an expression host."
+  },
+  {
+    "id": 9,
+    "question": "In recombinant DNA technology, the term vector refers to:",
+    "options": [
+      "The enzyme that cuts DNA into restriction fragments",
+      "The sticky end of a DNA fragment",
+      "A plasmid used to transfer DNA into a living cell",
+      "A DNA fragment which carries only ori gene"
+    ],
+    "correct_answer": "A plasmid used to transfer DNA into a living cell",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A plasmid used to transfer DNA into a living cell</b> is correct because a vector is a DNA vehicle (such as a plasmid, bacteriophage, or cosmid) capable of self-replication that delivers foreign target DNA into a host cell for cloning or expression.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The enzyme that cuts DNA into restriction fragments</b> - This defines a restriction endonuclease enzyme, not a cloning vector.\n• <b style=\"color:#2563eb\">Option (2): The sticky end of a DNA fragment</b> - This refers to a single-stranded cohesive overhang generated by restriction enzymes.\n• <b style=\"color:#2563eb\">Option (4): A DNA fragment which carries only ori gene</b> - A functional cloning vector must contain an origin of replication along with selectable markers and multiple cloning sites, not merely an ori gene."
+  },
+  {
+    "id": 10,
+    "question": "The term \"Molecular scissors\" refers to:",
+    "options": [
+      "Recombinant DNA",
+      "Restriction enzymes",
+      "Taq polymerase",
+      "Palindromic nucleotide sequences"
+    ],
+    "correct_answer": "Restriction enzymes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Restriction enzymes</b> is correct because restriction endonucleases are popularly nicknamed \"molecular scissors\" or \"chemical knives\" due to their ability to recognize specific target sequences and cleave double-stranded DNA at precise phosphodiester bonds.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Recombinant DNA</b> - Recombinant DNA is the chimeric product generated by joining DNA fragments from different sources.\n• <b style=\"color:#2563eb\">Option (3): Taq polymerase</b> - Taq polymerase is a thermostable DNA polymerase used in PCR to synthesize complementary DNA strands, not to cut DNA.\n• <b style=\"color:#2563eb\">Option (4): Palindromic nucleotide sequences</b> - These are symmetrical recognition motifs read identically in both 5' to 3' directions that serve as recognition sites for restriction enzymes."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is not used as a vector in molecular cloning?",
+    "options": [
+      "Plasmid",
+      "Cosmid",
+      "Hapten",
+      "Bacterial artificial chromosome"
+    ],
+    "correct_answer": "Hapten",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Hapten</b> is correct because a hapten is a small chemical molecule that is antigenic (reacts specifically with antibodies) but non-immunogenic unless conjugated to a larger carrier protein. It is an immunological concept and has no vector function in molecular cloning.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Plasmid</b> - Plasmids are standard circular, extrachromosomal DNA vectors widely used in molecular cloning.\n• <b style=\"color:#2563eb\">Option (2): Cosmid</b> - Cosmids are hybrid vectors combining plasmid features and lambda phage cos sites for cloning 30–45 kbp fragments.\n• <b style=\"color:#2563eb\">Option (4): Bacterial artificial chromosome</b> - BACs are vectors based on the E. coli F-factor used to clone very large DNA inserts (100–300 kbp)."
+  },
+  {
+    "id": 12,
+    "question": "The sticky ends of a fragmented DNA molecule are made of:",
+    "options": [
+      "Calcium salts",
+      "Endonuclease enzyme",
+      "Unpaired bases",
+      "Methyl groups"
+    ],
+    "correct_answer": "Unpaired bases",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Unpaired bases</b> is correct because cleavage of DNA by restriction enzymes with staggered cutting sites yields short single-stranded tails that consist of unpaired nitrogenous bases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Calcium salts</b> - Inorganic salts like CaCl2 participate in bacterial transformation protocols and do not form DNA termini.\n• <b style=\"color:#2563eb\">Option (2): Endonuclease enzyme</b> - Endonucleases generate the cuts enzymatically but do not remain as structural components of DNA ends.\n• <b style=\"color:#2563eb\">Option (4): Methyl groups</b> - Methyl groups modify DNA bases to prevent self-digestion in bacterial restriction-modification systems."
+  },
+  {
+    "id": 13,
+    "question": "Restriction endonucleases are very important enzymes used in Genetic engineering. They are used For:",
+    "options": [
+      "Cutting RNA",
+      "Cutting single stranded DNA",
+      "Cutting double stranded DNA",
+      "Joining double stranded DNA"
+    ],
+    "correct_answer": "Cutting double stranded DNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cutting double stranded DNA</b> is correct because restriction endonucleases specifically identify double-stranded recognition sequences (typically 4–8 bp palindromes) and hydrolyze phosphodiester bonds on both strands of double-stranded DNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cutting RNA</b> - Ribonucleases (RNases) cut RNA molecules, not typical restriction endonucleases.\n• <b style=\"color:#2563eb\">Option (2): Cutting single stranded DNA</b> - Single-strand-specific nucleases (such as S1 nuclease) degrade single-stranded DNA, whereas restriction endonucleases require double-stranded targets.\n• <b style=\"color:#2563eb\">Option (4): Joining double stranded DNA</b> - DNA ligases join DNA fragments by catalyzing phosphodiester bond synthesis."
+  },
+  {
+    "id": 14,
+    "question": "The dual resistance vector is:",
+    "options": [
+      "M13",
+      "pUC18",
+      "pUC19",
+      "pBR 322"
+    ],
+    "correct_answer": "pBR 322",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): pBR 322</b> is correct because the classic cloning vector pBR322 carries two distinct antibiotic resistance marker genes: ampicillin resistance (amp^R or bla) and tetracycline resistance (tet^R), enabling insertional inactivation screening.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): M13</b> - M13 filamentous phage cloning vectors (e.g., M13mp18) carry lacZ alpha-complementation markers rather than dual antibiotic resistance genes.\n• <b style=\"color:#2563eb\">Option (2): pUC18</b> - pUC18 possesses only one antibiotic resistance marker (ampicillin resistance, amp^R) along with the lacZ selection system.\n• <b style=\"color:#2563eb\">Option (3): pUC19</b> - Like pUC18, pUC19 contains only a single antibiotic marker (ampicillin resistance)."
+  },
+  {
+    "id": 15,
+    "question": "Plasmids are used as cloning vectors for which of the following reasons?",
+    "options": [
+      "Can be multiplied in culture",
+      "Self-replication in bacterial cells",
+      "Can be multiplied in laboratories with the help of enzymes",
+      "Replicate freely outside bacterial cells"
+    ],
+    "correct_answer": "Self-replication in bacterial cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Self-replication in bacterial cells</b> is correct because plasmids possess their own origin of replication (ori), granting them autonomous self-replicating capability inside host bacterial cells independent of the chromosomal DNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Can be multiplied in culture</b> - Multiplication in culture is a general characteristic of whole bacterial cultures, not the specific autonomous property of plasmid molecules.\n• <b style=\"color:#2563eb\">Option (3): Can be multiplied in laboratories with the help of enzymes</b> - In vitro enzymatic amplification refers to PCR, not the cellular cloning vector utility of plasmids.\n• <b style=\"color:#2563eb\">Option (4): Replicate freely outside bacterial cells</b> - Plasmids cannot replicate autonomously outside of living cells because they require host cellular machinery (polymerases, nucleotides, helicases, ribosomes)."
+  },
+  {
+    "id": 16,
+    "question": "Weakness of hydrogen bonding between bases in sticky ends are stabilized by a process called as:",
+    "options": [
+      "Reannealing",
+      "Ligation",
+      "Base-pairing",
+      "Annealing"
+    ],
+    "correct_answer": "Annealing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Annealing</b> is correct because annealing describes the thermodynamic alignment and hydrogen bonding between single-stranded complementary overhangs, temporarily stabilizing the association before DNA ligase seals the phosphodiester backbone.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reannealing</b> - Reannealing is the general renaturation of heat-denatured single strands of DNA into a duplex upon temperature reduction.\n• <b style=\"color:#2563eb\">Option (2): Ligation</b> - Ligation is the enzymatic creation of covalent bonds, which requires prior annealing of sticky ends.\n• <b style=\"color:#2563eb\">Option (3): Base-pairing</b> - Base-pairing is the biochemical pairing rule, whereas annealing is the thermal process enabling complementary pairing."
+  },
+  {
+    "id": 17,
+    "question": "How many fragments will be generated on the digestion of a closed circular DNA molecule with a restriction enzyme having six recognition sites on the DNA?",
+    "options": [
+      "5",
+      "7",
+      "6",
+      "9"
+    ],
+    "correct_answer": "6",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 6</b> is correct because cutting a closed circular DNA molecule produces a number of fragments equal to the number of cut sites (Fragments = n). Cleaving 6 sites on a closed circle generates exactly 6 linear fragments (unlike a linear DNA molecule, which yields n + 1 fragments).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 5</b> - 5 fragments would be generated from cutting a circular molecule at 5 sites.\n• <b style=\"color:#2563eb\">Option (2): 7</b> - Digestion of a linear DNA molecule with 6 recognition sites yields 7 fragments (n + 1 = 6 + 1 = 7), but the question specifies closed circular DNA.\n• <b style=\"color:#2563eb\">Option (4): 9</b> - 9 fragments would require 9 recognition sites on a circular molecule."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is the most commonly used technique for cloning animals?",
+    "options": [
+      "Somatic Cell Nuclear Transfer (SCNT)",
+      "Recombinant DNA technology",
+      "RNA interference (RNAi)",
+      "Polymerase Chain Reaction (PCR)"
+    ],
+    "correct_answer": "Somatic Cell Nuclear Transfer (SCNT)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Somatic Cell Nuclear Transfer (SCNT)</b> is correct because SCNT is the primary laboratory technique used to clone whole animals (such as Dolly the sheep). It involves removing the nucleus from an unfertilized oocyte and replacing it with the nucleus from an adult somatic donor cell, followed by reprogramming and implantation into a surrogate mother.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Recombinant DNA technology</b> - This encompasses molecular genetic methods for manipulating and joining DNA molecules in vitro, not the whole-animal organismal cloning process.\n• <b style=\"color:#2563eb\">Option (3): RNA interference (RNAi)</b> - RNAi is a biological mechanism for post-transcriptional gene silencing via small interfering RNAs.\n• <b style=\"color:#2563eb\">Option (4): Polymerase Chain Reaction (PCR)</b> - PCR is an enzymatic method for amplifying specific DNA sequences in vitro."
+  },
+  {
+    "id": 19,
+    "question": "What is the main purpose of therapeutic cloning?",
+    "options": [
+      "Reproducing endangered species",
+      "Producing genetically identical organisms",
+      "Creating embryos for research and medical purposes",
+      "Manipulating genes for desired traits"
+    ],
+    "correct_answer": "Creating embryos for research and medical purposes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Creating embryos for research and medical purposes</b> is correct because therapeutic cloning involves generating cloned pre-implantation embryos to harvest patient-specific, pluripotent embryonic stem cells (ESCs) for regenerative medicine, disease modeling, and tissue replacement therapies without immune rejection.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reproducing endangered species</b> - This is an objective of reproductive animal cloning, not therapeutic cloning.\n• <b style=\"color:#2563eb\">Option (2): Producing genetically identical organisms</b> - Generating live identical offspring defines reproductive cloning.\n• <b style=\"color:#2563eb\">Option (4): Manipulating genes for desired traits</b> - Altering gene sequences for desired phenotypes is genetic engineering or transgenesis."
+  },
+  {
+    "id": 20,
+    "question": "Which organism was the first to be successfully cloned?",
+    "options": [
+      "Mouse",
+      "Sheep",
+      "Frog",
+      "Dog"
+    ],
+    "correct_answer": "Sheep",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Sheep</b> is correct because Dolly the sheep (cloned in 1996 by Ian Wilmut and Keith Campbell at the Roslin Institute) was the landmark first mammal successfully cloned from a differentiated adult somatic cell via somatic cell nuclear transfer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mouse</b> - The first adult somatic cloned mouse (Cumulina) was cloned in 1997 at the University of Hawaii, after Dolly.\n• <b style=\"color:#2563eb\">Option (3): Frog</b> - Although embryonic nuclear transfer was demonstrated in Xenopus by Briggs and King / Gurdon in the 1950s–1960s, Dolly the sheep remains the benchmark organism recognized in standard exam keys for modern somatic mammal cloning.\n• <b style=\"color:#2563eb\">Option (4): Dog</b> - Snuppy the Afghan hound was cloned much later in 2005 in South Korea."
+  },
+  {
+    "id": 21,
+    "question": "What is the term used to describe a genetically identical copy of a single gene or DNA sequence?",
+    "options": [
+      "Reproductive cloning",
+      "Therapeutic cloning",
+      "Gene cloning",
+      "Molecular cloning"
+    ],
+    "correct_answer": "Gene cloning",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Gene cloning</b> is correct because gene cloning specifically denotes the production of multiple exact copies of a specific gene or defined DNA sequence, typically by inserting it into a plasmid vector and replicating it within host cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reproductive cloning</b> - Reproductive cloning produces an entire organism that is genetically identical to a donor individual.\n• <b style=\"color:#2563eb\">Option (2): Therapeutic cloning</b> - Therapeutic cloning generates cloned embryos to harvest stem cells for medical treatments.\n• <b style=\"color:#2563eb\">Option (4): Molecular cloning</b> - While closely related, the specific term designating identical copies of a gene is gene cloning."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following cloning techniques involves the transfer of genetic material into a host cell using a vector, such as a plasmid?",
+    "options": [
+      "Somatic Cell Nuclear Transfer (SCNT)",
+      "Reproductive cloning",
+      "Gene cloning",
+      "Reverse cloning"
+    ],
+    "correct_answer": "Gene cloning",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Gene cloning</b> is correct because gene cloning involves recombining the target DNA fragment into a cloning vector (such as a plasmid, bacteriophage, or cosmid) and introducing this chimeric construct into a competent host cell for replication.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Somatic Cell Nuclear Transfer (SCNT)</b> - SCNT involves microinjection or electrofusion of an intact somatic nucleus into an enucleated oocyte without plasmid vectors.\n• <b style=\"color:#2563eb\">Option (2): Reproductive cloning</b> - Reproductive cloning encompasses producing an entire animal via SCNT and embryo transfer.\n• <b style=\"color:#2563eb\">Option (4): Reverse cloning</b> - Reverse cloning is not a standard technique for vector-mediated gene transfer."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a potential application of reproductive cloning?",
+    "options": [
+      "Producing organs for transplantation",
+      "Creating genetically modified organisms",
+      "Treating genetic diseases",
+      "Replicating an individual's pet"
+    ],
+    "correct_answer": "Replicating an individual's pet",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Replicating an individual's pet</b> is correct because reproductive cloning aims to produce a live, intact offspring genetically identical to a donor animal; commercial reproductive cloning of domestic pets (e.g., dogs, cats) is an established commercial application.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Producing organs for transplantation</b> - Organ harvesting from stem cells or xenotransplantation relates to therapeutic cloning and tissue engineering.\n• <b style=\"color:#2563eb\">Option (2): Creating genetically modified organisms</b> - Creating GMOs involves genetic transformation and gene insertion, rather than simple reproductive duplication.\n• <b style=\"color:#2563eb\">Option (3): Treating genetic diseases</b> - Treating genetic diseases involves gene therapy, not reproductive cloning."
+  },
+  {
+    "id": 24,
+    "question": "What is the main ethical concern associated with human cloning?",
+    "options": [
+      "Potential health risks to the cloned individual",
+      "Violation of religious beliefs",
+      "Creation of designer babies",
+      "Loss of genetic diversity"
+    ],
+    "correct_answer": "Creation of designer babies",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Creation of designer babies</b> is correct because the foremost social and bioethical controversy highlighted in public policy debates regarding human cloning involves eugenic genetic selection and the engineering of \"designer babies\" with preselected psychological or physical attributes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Potential health risks to the cloned individual</b> - Health and developmental anomalies are major biological risks, but societal ethical debates focus heavily on eugenic commodification.\n• <b style=\"color:#2563eb\">Option (2): Violation of religious beliefs</b> - Religious objections are prominent but form a philosophical subset of the broader bioethical issues.\n• <b style=\"color:#2563eb\">Option (4): Loss of genetic diversity</b> - Genetic diversity loss is an ecological/population concern in livestock, not the primary human cloning issue."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements about reproductive cloning is true?",
+    "options": [
+      "Reproductive cloning is a widely accepted and practiced technique.",
+      "Reproductive cloning can only be done with animals, not humans.",
+      "Reproductive cloning has been successfully used to clone humans.",
+      "Reproductive cloning is banned in many countries due to ethical concerns."
+    ],
+    "correct_answer": "Reproductive cloning is banned in many countries due to ethical concerns.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Reproductive cloning is banned in many countries due to ethical concerns.</b> is correct because human reproductive cloning is widely prohibited by national legislation, international treaties, and UNESCO declarations owing to severe ethical, moral, psychological, and medical hazards.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reproductive cloning is a widely accepted and practiced technique.</b> - It is highly restricted and subject to intense legal prohibition rather than being widely accepted.\n• <b style=\"color:#2563eb\">Option (2): Reproductive cloning can only be done with animals, not humans.</b> - Biologically, human somatic cell nuclear transfer is feasible; the prohibition is legal and ethical, not a purely biological impossibility.\n• <b style=\"color:#2563eb\">Option (3): Reproductive cloning has been successfully used to clone humans.</b> - There has been no verified or documented live birth of a cloned human baby."
+  },
+  {
+    "id": 26,
+    "question": "What is the significance of epigenetics in cloned organisms?",
+    "options": [
+      "Cloned organisms are immune to epigenetic changes.",
+      "Epigenetic changes can lead to abnormal development in cloned organisms.",
+      "Cloned organisms have enhanced epigenetic stability.",
+      "Epigenetics has no influence on cloned organisms."
+    ],
+    "correct_answer": "Epigenetic changes can lead to abnormal development in cloned organisms.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Epigenetic changes can lead to abnormal development in cloned organisms.</b> is correct because incomplete or aberrant epigenetic reprogramming (DNA methylation and histone modifications) of the donor somatic nucleus is the chief cause of developmental failures, placental defects, and Large Offspring Syndrome (LOS) in cloned animals.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cloned organisms are immune to epigenetic changes.</b> - Cloned embryos are highly susceptible to epigenetic aberrations during nuclear transfer.\n• <b style=\"color:#2563eb\">Option (3): Cloned organisms have enhanced epigenetic stability.</b> - Cloned animals actually exhibit heightened epigenetic instability and faulty gene expression profiles.\n• <b style=\"color:#2563eb\">Option (4): Epigenetics has no influence on cloned organisms.</b> - Epigenetic reprogramming is the critical determinant of whether a cloned embryo successfully develops."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a potential benefit of cloning in agriculture?",
+    "options": [
+      "Increased genetic diversity in livestock populations",
+      "Improved resistance to diseases and pests",
+      "Accelerated growth rates in crops",
+      "Elimination of the need for pesticides"
+    ],
+    "correct_answer": "Improved resistance to diseases and pests",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Improved resistance to diseases and pests</b> is correct because cloning allows elite livestock and crop specimens carrying natural or engineered disease- and pest-resistance traits to be reproduced identically and propagated rapidly throughout agricultural stocks.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Increased genetic diversity in livestock populations</b> - Cloning reproduces genetically identical individuals, which reduces overall genetic diversity rather than increasing it.\n• <b style=\"color:#2563eb\">Option (3): Accelerated growth rates in crops</b> - Accelerating crop growth is typically achieved through plant breeding, hormonal treatment, or fertilizer management, not simple cloning.\n• <b style=\"color:#2563eb\">Option (4): Elimination of the need for pesticides</b> - Cloning alone cannot completely eliminate pesticide requirements."
+  },
+  {
+    "id": 28,
+    "question": "DNA restriction enzymes are naturally produced by:",
+    "options": [
+      "Bacteria",
+      "Animals",
+      "Plants",
+      "Fungi"
+    ],
+    "correct_answer": "Bacteria",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Bacteria</b> is correct because restriction endonucleases are naturally produced by bacteria (and archaea) as an innate primitive immune defense mechanism (restriction-modification system) that cleaves and destroys invading foreign bacteriophage DNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Animals</b> - Animal cells do not synthesize sequence-specific Type II restriction endonucleases.\n• <b style=\"color:#2563eb\">Option (3): Plants</b> - Plants use RNA interference (RNAi) and plant defense genes against viral pathogens rather than restriction enzymes.\n• <b style=\"color:#2563eb\">Option (4): Fungi</b> - Fungi are eukaryotic organisms and are not the evolutionary source of typical restriction endonucleases."
+  },
+  {
+    "id": 29,
+    "question": "The primary function of DNA restriction enzymes is to:",
+    "options": [
+      "Repair damaged DNA",
+      "Replicate DNA",
+      "Cut DNA at specific recognition sites",
+      "Synthesize new DNA strands"
+    ],
+    "correct_answer": "Cut DNA at specific recognition sites",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cut DNA at specific recognition sites</b> is correct because restriction endonucleases recognize specific palindromic nucleotide sequences (usually 4 to 8 base pairs) and cleave phosphodiester bonds at or near these sites, producing defined fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Repair damaged DNA</b> - DNA repair enzymes (such as DNA glycosylases, AP endonucleases, and DNA ligases) handle cellular repair.\n• <b style=\"color:#2563eb\">Option (2): Replicate DNA</b> - DNA polymerases and helicases perform replication, not restriction enzymes.\n• <b style=\"color:#2563eb\">Option (4): Synthesize new DNA strands</b> - DNA synthesis is catalyzed by polymerases, whereas restriction enzymes are hydrolytic nucleases."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is true about the recognition site of a DNA restriction enzyme?",
+    "options": [
+      "It is a unique sequence found in all DNA molecules.",
+      "It can be any random DNA sequence.",
+      "It is specific to each DNA restriction enzyme.",
+      "It is located at the ends of DNA molecules."
+    ],
+    "correct_answer": "It is specific to each DNA restriction enzyme.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It is specific to each DNA restriction enzyme.</b> is correct because each distinct restriction endonuclease enzyme recognizes a defined, specific sequence of nucleotides (typically a 4–8 bp palindrome) with remarkable fidelity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It is a unique sequence found in all DNA molecules.</b> - Recognition sequences vary greatly between enzymes and are not uniformly present in all DNA molecules.\n• <b style=\"color:#2563eb\">Option (2): It can be any random DNA sequence.</b> - Restriction enzymes have exquisite sequence specificity and do not cut random sequences.\n• <b style=\"color:#2563eb\">Option (4): It is located at the ends of DNA molecules.</b> - Restriction sites can occur anywhere internally along the DNA strand, as they are endonucleases, not exonucleases."
+  },
+  {
+    "id": 31,
+    "question": "The cleavage of DNA by DNA restriction enzymes results in the formation of:",
+    "options": [
+      "DNA fragments with blunt ends",
+      "DNA fragments with sticky ends",
+      "RNA fragments",
+      "DNA strands with no ends"
+    ],
+    "correct_answer": "DNA fragments with sticky ends",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): DNA fragments with sticky ends</b> is correct because many of the most commonly used restriction enzymes (e.g., EcoRI, HindIII, BamHI) cleave DNA strands asymmetrically at staggered positions, generating cohesive single-stranded sticky ends.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA fragments with blunt ends</b> - While some enzymes (e.g., SmaI, EcoRV) do produce blunt ends, the official answer key highlights sticky end formation as the characteristic result.\n• <b style=\"color:#2563eb\">Option (3): RNA fragments</b> - Restriction enzymes cleave deoxyribonucleic acid (DNA), not RNA.\n• <b style=\"color:#2563eb\">Option (4): DNA strands with no ends</b> - Cleavage generates linear fragments with distinct 5' and 3' ends."
+  },
+  {
+    "id": 32,
+    "question": "DNA restriction enzymes are commonly used in which technique?",
+    "options": [
+      "Polymerase Chain Reaction (PCR)",
+      "DNA sequencing",
+      "Gel electrophoresis",
+      "Western blotting"
+    ],
+    "correct_answer": "Gel electrophoresis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Gel electrophoresis</b> is correct because restriction endonuclease digestion is routinely coupled with agarose gel electrophoresis (restriction mapping / RFLP analysis) to separate, visualize, and verify the sizes of digested DNA fragments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Polymerase Chain Reaction (PCR)</b> - Standard PCR employs thermostable DNA polymerase, primers, and dNTPs to amplify DNA without restriction cleavage.\n• <b style=\"color:#2563eb\">Option (2): DNA sequencing</b> - Sanger sequencing relies on chain-terminating dideoxynucleotides and polymerases.\n• <b style=\"color:#2563eb\">Option (4): Western blotting</b> - Western blotting is an immunological method used to detect proteins, not DNA."
+  },
+  {
+    "id": 33,
+    "question": "Which of the following best describes a Type II restriction enzyme?",
+    "options": [
+      "It requires ATP for its activity.",
+      "It recognizes and cuts DNA at specific sequences within or near the recognition site.",
+      "It is used in DNA replication.",
+      "It is produced by eukaryotic cells."
+    ],
+    "correct_answer": "It recognizes and cuts DNA at specific sequences within or near the recognition site.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It recognizes and cuts DNA at specific sequences within or near the recognition site.</b> is correct because Type II restriction endonucleases possess separate restriction and methylase activities, require only Mg2+ (no ATP), and cleave DNA at defined, fixed locations directly within or immediately adjacent to their recognition palindromes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It requires ATP for its activity.</b> - Type I and Type III restriction enzymes require ATP hydrolysis for activity, whereas Type II enzymes do not.\n• <b style=\"color:#2563eb\">Option (3): It is used in DNA replication.</b> - Restriction enzymes function in defense and molecular cloning, not cellular DNA replication.\n• <b style=\"color:#2563eb\">Option (4): It is produced by eukaryotic cells.</b> - Type II restriction enzymes are derived from prokaryotes (bacteria and archaea)."
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is an example of a Type II restriction enzyme?",
+    "options": [
+      "Taq polymerase",
+      "EcoRI",
+      "DNA ligase",
+      "RNA polymerase"
+    ],
+    "correct_answer": "EcoRI",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): EcoRI</b> is correct because EcoRI is the classic Type II restriction endonuclease isolated from Escherichia coli (strain RY13) that recognizes the 6-bp palindrome 5'-GAATTC-3' and cuts between G and A in both strands.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Taq polymerase</b> - Taq polymerase is a thermostable DNA-synthesizing enzyme from Thermus aquaticus used in PCR.\n• <b style=\"color:#2563eb\">Option (3): DNA ligase</b> - DNA ligase catalyzes the formation of phosphodiester bonds to join DNA fragments.\n• <b style=\"color:#2563eb\">Option (4): RNA polymerase</b> - RNA polymerase synthesizes RNA transcripts from DNA templates."
+  },
+  {
+    "id": 35,
+    "question": "DNA restriction enzymes are named after the organisms from which they are derived. What does the letter \"R\" represent in the enzyme name EcoRI?",
+    "options": [
+      "Reverse",
+      "Ribonuclease",
+      "Restriction",
+      "Replication"
+    ],
+    "correct_answer": "Restriction",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Restriction</b> is correct. In standard biochemical nomenclature guidelines, 'E' stands for genus Escherichia, 'co' for species coli, 'R' identifies the strain (RY13), and 'I' is the Roman numeral for order of isolation; however, in this question's official answer key, Option (3): Restriction is designated as the correct choice.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Reverse</b> - 'Reverse' refers to reverse transcriptase enzymes, not restriction enzymes.\n• <b style=\"color:#2563eb\">Option (2): Ribonuclease</b> - Ribonuclease degrades RNA, which is completely distinct from restriction endonucleases.\n• <b style=\"color:#2563eb\">Option (4): Replication</b> - Replication refers to DNA synthesis by polymerases."
+  },
+  {
+    "id": 36,
+    "question": "Which property of DNA restriction enzymes allows them to be used in recombinant DNA technology?",
+    "options": [
+      "DNA replication ability",
+      "DNA repair activity",
+      "DNA binding affinity",
+      "DNA sequence specificity"
+    ],
+    "correct_answer": "DNA sequence specificity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): DNA sequence specificity</b> is correct because restriction endonucleases cut DNA only at precise, highly predictable recognition sequences, allowing molecular biologists to excise and clone specific target genes with reproducible precision.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA replication ability</b> - Restriction enzymes cut DNA; they do not replicate DNA.\n• <b style=\"color:#2563eb\">Option (2): DNA repair activity</b> - Restriction enzymes do not possess DNA repair activity.\n• <b style=\"color:#2563eb\">Option (3): DNA binding affinity</b> - Many proteins bind DNA non-specifically, but without strict sequence specificity, precise genetic engineering would be impossible."
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is not a commonly used DNA restriction enzyme?",
+    "options": [
+      "HindIII",
+      "BamHI",
+      "EcoRII",
+      "XhoI"
+    ],
+    "correct_answer": "EcoRII",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): EcoRII</b> is correct because EcoRII is a Type IIe restriction endonuclease that requires two copies of its recognition sequence for cooperative cleavage, making it far less commonly used in standard molecular cloning compared to classic workhorse enzymes like HindIII, BamHI, and XhoI.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): HindIII</b> - HindIII (from Haemophilus influenzae) is one of the most widely used restriction endonucleases in molecular biology.\n• <b style=\"color:#2563eb\">Option (2): BamHI</b> - BamHI (from Bacillus amyloliquefaciens) is a staple restriction enzyme used routinely for vector and insert digestion.\n• <b style=\"color:#2563eb\">Option (4): XhoI</b> - XhoI (from Xanthomonas holcicola) is an extremely common cloning enzyme with a 5'-C|TCGAG-3' cleavage site."
+  }
+]

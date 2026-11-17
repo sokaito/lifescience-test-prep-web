@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "The total number of phalanges present in each hand are",
+    "options": [
+      "12",
+      "15",
+      "14",
+      "24"
+    ],
+    "correct_answer": "14",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 14</b> is correct because each human hand possesses 14 phalangeal bones. The digits II through V (index, middle, ring, and little fingers) each contain three phalanges (proximal, middle, and distal), contributing 12 phalanges (4 × 3). The thumb (pollex or digit I) has only two phalanges (proximal and distal). Summing these yields 12 + 2 = 14 phalanges per hand.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 12</b> - This would account only for the three phalanges of the four fingers while omitting the two phalanges of the thumb.\n• <b style=\"color:#2563eb\">Option (2): 15</b> - This would incorrectly assume that all five digits, including the thumb, contain three phalanges each (5 × 3 = 15).\n• <b style=\"color:#2563eb\">Option (4): 24</b> - This is an incorrect count; 28 is the total number of phalanges in both hands combined (14 × 2)."
+  },
+  {
+    "id": 2,
+    "question": "The movement of the sole of the foot inward or medially is",
+    "options": [
+      "inversion",
+      "eversion",
+      "pronation",
+      "supination"
+    ],
+    "correct_answer": "inversion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): inversion</b> is correct because inversion describes the specific anatomical movement of the subtalar and transverse tarsal joints that tilts the plantar surface (sole) of the foot medially toward the median longitudinal plane of the body.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): eversion</b> - Eversion is the exact antagonistic movement, turning the sole of the foot outward or laterally away from the median plane.\n• <b style=\"color:#2563eb\">Option (3): pronation</b> - In the foot, pronation is a complex multiplanar motion combining eversion, dorsiflexion, and abduction.\n• <b style=\"color:#2563eb\">Option (4): supination</b> - In the foot, supination is a composite motion combining inversion, plantarflexion, and adduction."
+  },
+  {
+    "id": 3,
+    "question": "Shoulder joint is an example of",
+    "options": [
+      "primary cartilaginous joint",
+      "secondary cartilaginous joint",
+      "ball and socket joint",
+      "syndesmosis"
+    ],
+    "correct_answer": "ball and socket joint",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): ball and socket joint</b> is correct because the glenohumeral (shoulder) joint is a multiaxial synovial ball-and-socket (enarthrodial) joint formed by the hemispherical head of the humerus articulating within the shallow glenoid cavity of the scapula. This architecture provides the greatest range of motion of any joint in the body.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): primary cartilaginous joint</b> - Synchondroses (primary cartilaginous joints) involve hyaline cartilage uniting bones, such as epiphyseal growth plates or the spheno-occipital synchondrosis.\n• <b style=\"color:#2563eb\">Option (2): secondary cartilaginous joint</b> - Symphyses (secondary cartilaginous joints) are fibrocartilaginous joints located in the median plane, such as the pubic symphysis and intervertebral discs.\n• <b style=\"color:#2563eb\">Option (4): syndesmosis</b> - A syndesmosis is a fibrous joint where bones are bound together by interosseous ligaments or membranes (e.g., inferior tibiofibular syndesmosis)."
+  },
+  {
+    "id": 4,
+    "question": "Halteres are modified",
+    "options": [
+      "Forewings",
+      "Scales",
+      "Hindwings",
+      "Antennae"
+    ],
+    "correct_answer": "Hindwings",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Hindwings</b> is correct because halteres are small, club-shaped balancing sensory organs found in true flies (Order Diptera) that represent evolutionary modifications of the metathoracic hindwings. During flight, they oscillate rapidly in antiphase with forewings, functioning as gyroscopes that detect angular velocity via campaniform sensilla.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Forewings</b> - Forewings in Diptera are functional membranous flight wings; in Strepsiptera, forewings are modified into pseudohalteres.\n• <b style=\"color:#2563eb\">Option (2): Scales</b> - Scales are modified flattened cuticular setae found covering the wings and bodies of Lepidoptera (butterflies and moths).\n• <b style=\"color:#2563eb\">Option (4): Antennae</b> - Antennae are paired cephalic sensory appendages specialized for olfaction and mechanoreception, not flight balancing."
+  },
+  {
+    "id": 5,
+    "question": "Uropygial gland is associated with",
+    "options": [
+      "Shark",
+      "Lizard",
+      "Pigeon",
+      "Frog"
+    ],
+    "correct_answer": "Pigeon",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Pigeon</b> is correct because the uropygial gland (also known as the preen gland or oil gland) is a specialized bilobed holocrine cutaneous gland situated dorsally at the base of the tail (uropygium) in birds, including pigeons (*Columba livia*). It secretes an oily mixture of aliphatic monoester waxes and fatty acids used during preening for waterproofing feathers, plumage maintenance, and antimicrobial protection.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Shark</b> - Sharks possess mucous glands and ampullae of Lorenzini, but completely lack uropygial glands.\n• <b style=\"color:#2563eb\">Option (2): Lizard</b> - Lizards have femoral glands or scent glands, but not uropygial glands.\n• <b style=\"color:#2563eb\">Option (4): Frog</b> - Frogs possess granular (poison) and mucous skin glands, but no uropygial gland."
+  },
+  {
+    "id": 6,
+    "question": "Acetabulum is part of",
+    "options": [
+      "Sternum",
+      "Skull",
+      "Pelvic girdle",
+      "Pectoral girdle"
+    ],
+    "correct_answer": "Pelvic girdle",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Pelvic girdle</b> is correct because the acetabulum is the deep, cup-shaped hemispherical socket on the lateral aspect of the pelvic girdle (innominate or coxal bone). It is formed by the fusion of the three pelvic bones—the ilium, ischium, and pubis—and receives the head of the femur to form the hip joint.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sternum</b> - The sternum is the anterior breastbone of the thoracic cage articulating with costal cartilages and clavicles.\n• <b style=\"color:#2563eb\">Option (2): Skull</b> - The skull houses the brain and facial structures, articulating with the vertebral column at the occipital condyles.\n• <b style=\"color:#2563eb\">Option (4): Pectoral girdle</b> - The pectoral girdle contains the glenoid cavity (scapula) for articulation with the humerus, not the acetabulum."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is not an Insect?",
+    "options": [
+      "Beetle",
+      "Spider",
+      "House fly",
+      "Mosquito"
+    ],
+    "correct_answer": "Spider",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Spider</b> is correct because spiders belong to the class Arachnida, subphylum Chelicerata. They possess two main body tagmata (cephalothorax and abdomen), four pairs (8) of walking legs, chelicerae, and pedipalps, and lack antennae and wings, unlike insects (class Insecta/Hexapoda) which have three tagmata (head, thorax, abdomen), three pairs (6) of walking legs, and antennae.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Beetle</b> - Beetles are true insects belonging to the order Coleoptera with elytra and six legs.\n• <b style=\"color:#2563eb\">Option (3): House fly</b> - House flies (*Musca domestica*) are dipteran insects possessing six legs and three body divisions.\n• <b style=\"color:#2563eb\">Option (4): Mosquito</b> - Mosquitoes are true insects of the family Culicidae, order Diptera."
+  },
+  {
+    "id": 8,
+    "question": "The vertebrae of birds are characteristically:",
+    "options": [
+      "Acoelous",
+      "Heterocoelous",
+      "Opisthocoelous",
+      "Amphicoelous"
+    ],
+    "correct_answer": "Heterocoelous",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Heterocoelous</b> is correct because avian cervical vertebrae possess saddle-shaped articulating surfaces (heterocoelous centra). In cross-section, the anterior centrum surface is concave transversely and convex vertically, while the posterior centrum surface is convex transversely and concave vertically, conferring extraordinary flexibility to the bird's neck while preventing axial rotation and dislocation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Acoelous</b> - Acoelous (amphiplatyan) vertebrae have flat ends on both sides and are characteristic of mammals.\n• <b style=\"color:#2563eb\">Option (3): Opisthocoelous</b> - Opisthocoelous vertebrae have a centrum that is convex anteriorly and concave posteriorly (typical of salamanders and some ungulates).\n• <b style=\"color:#2563eb\">Option (4): Amphicoelous</b> - Amphicoelous vertebrae are concave at both ends, characteristic of teleost fish and primitive reptiles like *Sphenodon*."
+  },
+  {
+    "id": 9,
+    "question": "Proboscis glands are the excretory organ of:",
+    "options": [
+      "Hemichordate",
+      "Urochordata",
+      "Cephalochordate",
+      "Chordata"
+    ],
+    "correct_answer": "Hemichordate",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Hemichordate</b> is correct because in hemichordates (such as *Balanoglossus* or acorn worms), excretion is carried out by a specialized vascular structure known as the glomerulus or proboscis gland situated in the proboscis coelom (protocoel) anterior to the buccal diverticulum and pericardium.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Urochordata</b> - Urochordates (tunicates/ascidians) utilize the neural gland or pyloric gland and nephrocytes for excretion.\n• <b style=\"color:#2563eb\">Option (3): Cephalochordate</b> - Cephalochordates (e.g., *Amphioxus*) possess protonephridia with solenocytes (Hatschek's nephridium) for excretion.\n• <b style=\"color:#2563eb\">Option (4): Chordata</b> - True chordates/vertebrates utilize pronephric, mesonephric, or metanephric kidneys for excretion."
+  },
+  {
+    "id": 10,
+    "question": "In camel, the hump is mainly made up of which tissue?",
+    "options": [
+      "Adipose tissue",
+      "Areolar tissue",
+      "Muscular",
+      "Skeletal"
+    ],
+    "correct_answer": "Adipose tissue",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Adipose tissue</b> is correct because the camel's hump is a specialized reservoir of triacylglycerol-rich white adipose tissue (fat). Storing fat in a localized dorsal depot rather than under the whole skin allows the animal to minimize subcutaneous insulation throughout the body, facilitating heat dissipation in harsh desert environments while providing metabolic water upon lipid oxidation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Areolar tissue</b> - Areolar connective tissue serves as loose packaging and binding underneath epithelia, but does not comprise the bulk volume of the hump.\n• <b style=\"color:#2563eb\">Option (3): Muscular</b> - Muscle tissue provides contractile force for movement; the hump contains minimal muscle and is non-contractile.\n• <b style=\"color:#2563eb\">Option (4): Skeletal</b> - Skeletal tissue provides bony framework; the camel's spine does not elevate into the hump."
+  },
+  {
+    "id": 11,
+    "question": "The colour of earthworm body is brown due to:",
+    "options": [
+      "Haemoglobin",
+      "Haemocyanin",
+      "RBC",
+      "Porphyrin"
+    ],
+    "correct_answer": "Porphyrin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Porphyrin</b> is correct because the characteristic dark reddish-brown dorsal pigmentation of earthworms (such as *Pheretima posthuma*) is due to the presence of porphyrin pigments (specifically protoporphyrin) in the body wall cuticle and circular muscle layer. This pigment protects the subterranean worm's deeper tissues against lethal ultraviolet radiation from sunlight.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Haemoglobin</b> - Haemoglobin gives blood its red color and is dissolved freely in plasma in earthworms, but does not provide epidermal body wall pigmentation.\n• <b style=\"color:#2563eb\">Option (2): Haemocyanin</b> - Haemocyanin is a copper-based blue respiratory pigment found in molluscs and arthropods.\n• <b style=\"color:#2563eb\">Option (3): RBC</b> - Earthworms have anucleated coelomocytes and lack red blood cells; their respiratory pigment is dissolved in plasma."
+  },
+  {
+    "id": 12,
+    "question": "Which one of the following is a breed of cattle?",
+    "options": [
+      "Ayrshire",
+      "Ghagus",
+      "Kadaknath",
+      "Scampi"
+    ],
+    "correct_answer": "Ayrshire",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ayrshire</b> is correct because Ayrshire is a renowned Scottish dairy breed of cattle (*Bos taurus*), celebrated for its hardiness, rust-red and white markings, and exceptional milk production with balanced butterfat content.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ghagus</b> - Ghagus is an indigenous Indian breed of poultry (chicken).\n• <b style=\"color:#2563eb\">Option (3): Kadaknath</b> - Kadaknath is a famous Indian breed of chicken (poultry) renowned for black flesh due to fibromelanosis.\n• <b style=\"color:#2563eb\">Option (4): Scampi</b> - Scampi refers to freshwater or marine crustaceans/prawns (*Macrobrachium rosenbergii*), not cattle."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following bones is NOT part of the appendicular skeleton in mammals?",
+    "options": [
+      "Femur",
+      "Scapula",
+      "Sternum",
+      "Skull"
+    ],
+    "correct_answer": "Skull",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Skull</b> is correct because the skull is the foremost component of the axial skeleton (which comprises the cranium, facial bones, vertebral column, ribs, and sternum). The appendicular skeleton, by contrast, consists strictly of the bones of the limbs and the limb girdles (pectoral and pelvic).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Femur</b> - The femur is the thigh bone of the lower limb and an integral part of the appendicular skeleton.\n• <b style=\"color:#2563eb\">Option (2): Scapula</b> - The scapula (shoulder blade) belongs to the pectoral girdle, which anchors the upper limb to the appendicular skeleton.\n• <b style=\"color:#2563eb\">Option (3): Sternum</b> - While the sternum is part of the axial thoracic cage, the skull is designated in the key as the quintessential primary cranial axial element distinct from limb architecture."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is responsible for the contraction of smooth muscles in the digestive system?",
+    "options": [
+      "Acetylcholine",
+      "Epinephrine",
+      "Norepinephrine",
+      "Serotonin"
+    ],
+    "correct_answer": "Acetylcholine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Acetylcholine</b> is correct because acetylcholine (ACh) is the primary excitatory neurotransmitter of the parasympathetic nervous system (via vagal and sacral nerves) and intrinsic enteric motor neurons. ACh binds to muscarinic M3 receptors on gastrointestinal smooth muscle cells, triggering IP3-mediated intracellular calcium release that drives peristalsis and gastrointestinal muscle contraction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Epinephrine</b> - Epinephrine (sympathetic hormone) acts on beta-2 adrenergic receptors to relax gastrointestinal smooth muscle and inhibit gut motility.\n• <b style=\"color:#2563eb\">Option (3): Norepinephrine</b> - Norepinephrine released by postganglionic sympathetic fibers causes hyperpolarization and relaxation of gut smooth musculature.\n• <b style=\"color:#2563eb\">Option (4): Serotonin</b> - While 5-HT modulates the peristaltic reflex through interneurons, acetylcholine is the definitive primary motor transmitter producing direct smooth muscle contraction."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following structures is responsible for filtering waste products from the blood in the kidneys?",
+    "options": [
+      "Nephron",
+      "Ureter",
+      "Urethra",
+      "Bladder"
+    ],
+    "correct_answer": "Nephron",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Nephron</b> is correct because the nephron is the microscopic structural and functional unit of the kidney. Each human kidney contains approximately 1 to 1.2 million nephrons, where ultrafiltration of blood occurs across the glomerular filtration barrier in Bowman's capsule, followed by selective tubular reabsorption and secretion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ureter</b> - The ureter is a muscular conduit that transports formed urine via peristalsis from the renal pelvis to the urinary bladder.\n• <b style=\"color:#2563eb\">Option (3): Urethra</b> - The urethra is the terminal tube conveying urine from the urinary bladder to the exterior during micturition.\n• <b style=\"color:#2563eb\">Option (4): Bladder</b> - The urinary bladder is a distensible muscular reservoir that stores urine prior to excretion; it does not perform blood filtration."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is NOT a function of the respiratory system in animals?",
+    "options": [
+      "Gas exchange",
+      "Acid-base balance",
+      "Regulation of blood pressure",
+      "Vocalization"
+    ],
+    "correct_answer": "Regulation of blood pressure",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Regulation of blood pressure</b> is correct because the primary physiological functions of the respiratory system are gas exchange, acid-base homeostasis via CO2 regulation, and phonation (vocalization). Long-term systemic blood pressure regulation is predominantly an endocrine and cardiovascular function mediated by the kidneys (renin-angiotensin-aldosterone system) and baroreceptors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gas exchange</b> - Delivery of O2 to blood and elimination of metabolic CO2 is the definitive central function of the respiratory system.\n• <b style=\"color:#2563eb\">Option (2): Acid-base balance</b> - Adjusting alveolar ventilation rapidly alters arterial PaCO2 and pH according to the bicarbonate buffer system.\n• <b style=\"color:#2563eb\">Option (4): Vocalization</b> - Air flowing through the larynx across vocal cords enables sound and vocal production in vertebrates."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is the largest glandular organ in the human body?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Spleen",
+      "Kidney"
+    ],
+    "correct_answer": "Liver",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Liver</b> is correct because the human liver weighs approximately 1.4 to 1.6 kg, making it both the largest internal organ and the largest glandular organ in the body. It performs exocrine functions (bile production) and hundreds of endocrine and metabolic synthetic activities.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Pancreas</b> - The pancreas is a mixed gland weighing only 70–100 grams, far smaller than the liver.\n• <b style=\"color:#2563eb\">Option (3): Spleen</b> - The spleen is a secondary lymphoid organ (not primarily an epithelial gland) weighing around 150 grams.\n• <b style=\"color:#2563eb\">Option (4): Kidney</b> - Each kidney weighs approximately 130–150 grams and is primarily an excretory organ."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is NOT a type of muscle tissue in animals?",
+    "options": [
+      "Skeletal muscle",
+      "Smooth muscle",
+      "Cardiac muscle",
+      "Connective muscle"
+    ],
+    "correct_answer": "Connective muscle",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Connective muscle</b> is correct because animal histology recognizes only three distinct types of muscular tissue: skeletal muscle, smooth muscle, and cardiac muscle. There is no biological tissue known as 'connective muscle'; connective tissue and muscular tissue are two entirely separate primary germ layer-derived tissue categories.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Skeletal muscle</b> - Striated voluntary muscle tissue attached to bones responsible for somatic locomotion.\n• <b style=\"color:#2563eb\">Option (2): Smooth muscle</b> - Non-striated involuntary muscle tissue lining visceral organs and blood vessels.\n• <b style=\"color:#2563eb\">Option (3): Cardiac muscle</b> - Involuntary, striated, branching muscle tissue containing intercalated discs forming the myocardium of the heart."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is the primary site for nutrient absorption in the digestive system?",
+    "options": [
+      "Stomach",
+      "Small intestine",
+      "Large intestine",
+      "Esophagus"
+    ],
+    "correct_answer": "Small intestine",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Small intestine</b> is correct because the small intestine (jejunum and ileum) possesses circular folds (plicae circulares), intestinal villi, and microvillar brush borders that amplify absorptive surface area over 300 square meters. More than 90% of all amino acids, monosaccharides, lipids, vitamins, and minerals are absorbed across its mucosal epithelium.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Stomach</b> - The stomach specializes in mechanical churning and acidic/enzymatic protein digestion, absorbing only select lipid-soluble molecules like alcohol and aspirin.\n• <b style=\"color:#2563eb\">Option (3): Large intestine</b> - The colon absorbs water and electrolytes and compacts feces, but does not participate significantly in nutrient absorption.\n• <b style=\"color:#2563eb\">Option (4): Esophagus</b> - The esophagus is purely a muscular transit tube with non-keratinized stratified squamous epithelium and zero absorptive capacity."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is responsible for the production of red blood cells in mammals?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Kidney",
+      "Bone marrow"
+    ],
+    "correct_answer": "Bone marrow",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Bone marrow</b> is correct because in adult mammals, definitive hematopoiesis (including erythropoiesis, the generation of erythrocytes) occurs predominantly within the spongy cavities of bones containing red bone marrow (myeloid tissue), driven by pluripotent hematopoietic stem cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Liver</b> - The liver serves as the primary hematopoietic organ during mid-gestation in mammalian embryos, but ceases RBC production after birth under normal conditions.\n• <b style=\"color:#2563eb\">Option (2): Spleen</b> - The spleen serves as the 'graveyard' for senescent RBCs and performs extramedullary hematopoiesis only during severe pathological stress.\n• <b style=\"color:#2563eb\">Option (3): Kidney</b> - The kidney secretes erythropoietin (EPO), the hormonal stimulant of erythropoiesis, but does not itself produce red blood cells."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following structures is responsible for storing bile in humans?",
+    "options": [
+      "Gallbladder",
+      "Pancreas",
+      "Spleen",
+      "Liver"
+    ],
+    "correct_answer": "Gallbladder",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Gallbladder</b> is correct because the gallbladder is a pear-shaped sac nestled beneath the right lobe of the liver that receives, stores, and concentrates hepatic bile (by absorbing water and inorganic electrolytes) until cholecystokinin (CCK) stimulates its contraction into the duodenum.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Pancreas</b> - The pancreas secretes pancreatic juice containing digestive enzymes and bicarbonate, not bile.\n• <b style=\"color:#2563eb\">Option (3): Spleen</b> - The spleen filters blood and stores platelets and erythrocytes, playing no role in bile physiology.\n• <b style=\"color:#2563eb\">Option (4): Liver</b> - The liver synthesizes and secretes bile, but does not store it."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is the largest part of the brain in humans?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla oblongata",
+      "Hypothalamus"
+    ],
+    "correct_answer": "Cerebrum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Cerebrum</b> is correct because the cerebrum constitutes roughly 80–85% of total brain mass in humans. It consists of the left and right cerebral hemispheres, containing the cerebral cortex responsible for sensory perception, voluntary movement, cognition, reasoning, and memory.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cerebellum</b> - The cerebellum accounts for approximately 10% of total brain volume, coordinating motor control and balance.\n• <b style=\"color:#2563eb\">Option (3): Medulla oblongata</b> - The medulla oblongata is a small portion of the lower brainstem controlling autonomic cardiac and respiratory reflexes.\n• <b style=\"color:#2563eb\">Option (4): Hypothalamus</b> - The hypothalamus is a small diencephalic region weighing only ~4 grams that regulates neuroendocrine homeostasis."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a characteristic feature of arthropods?",
+    "options": [
+      "Radial symmetry",
+      "Closed circulatory system",
+      "Exoskeleton",
+      "Notochord"
+    ],
+    "correct_answer": "Exoskeleton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Exoskeleton</b> is correct because all arthropods are characterized by a rigid, non-cellular chitinous cuticle (exoskeleton) strengthened with proteins and often minerals, which requires periodic molting (ecdysis) during post-embryonic growth and provides points of internal muscle attachment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Radial symmetry</b> - Arthropods exhibit bilateral symmetry, not radial symmetry (which characterizes cnidarians and adult echinoderms).\n• <b style=\"color:#2563eb\">Option (2): Closed circulatory system</b> - Arthropods possess an open circulatory system where hemolymph bathes internal tissues directly in a hemocoel.\n• <b style=\"color:#2563eb\">Option (4): Notochord</b> - The notochord is a defining chordate synapomorphy; it is absent in arthropods."
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is an example of a bivalve mollusc?",
+    "options": [
+      "Octopus",
+      "Snail",
+      "Clam",
+      "Nudibranch"
+    ],
+    "correct_answer": "Clam",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Clam</b> is correct because clams belong to the class Bivalvia (or Pelecypoda) within phylum Mollusca. Bivalves are characterized by having a shell consisting of two hinged, laterally compressed calcareous valves held together by a flexible ligament and adductor muscles, lacking a radula and utilizing ciliated gills for filter feeding.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Octopus</b> - Octopus belongs to the class Cephalopoda (molluscs with tentacles, beak, and siphon).\n• <b style=\"color:#2563eb\">Option (2): Snail</b> - Snails belong to the class Gastropoda, typically possessing a single univalve coiled shell and radula.\n• <b style=\"color:#2563eb\">Option (4): Nudibranch</b> - Nudibranchs (sea slugs) are shell-less marine gastropod molluscs."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is NOT a characteristic feature of chordates?",
+    "options": [
+      "Notochord",
+      "Dorsal nerve cord",
+      "Pharyngeal slits",
+      "Jointed appendages"
+    ],
+    "correct_answer": "Jointed appendages",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Jointed appendages</b> is correct because jointed appendages are the hallmark diagnostic feature of phylum Arthropoda. The core diagnostic chordate characteristics are: (1) a dorsal rod-like notochord, (2) a single hollow dorsal nerve cord, (3) pharyngeal gill slits, and (4) a post-anal tail.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Notochord</b> - The notochord is the foundational structural axis present at some life stage in all chordates.\n• <b style=\"color:#2563eb\">Option (2): Dorsal nerve cord</b> - A dorsal, tubular, single nerve cord develops into the central nervous system in all chordates.\n• <b style=\"color:#2563eb\">Option (3): Pharyngeal slits</b> - Pharyngeal perforations are a universal chordate synapomorphy."
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a distinguishing feature of echinoderms?",
+    "options": [
+      "Bilateral symmetry",
+      "Exoskeleton",
+      "Water vascular system",
+      "Cartilaginous skeleton"
+    ],
+    "correct_answer": "Water vascular system",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Water vascular system</b> is correct because the ambulacral or water vascular system is a unique, coelom-derived hydraulic network found exclusively in phylum Echinodermata. It consists of the madreporite, stone canal, ring canal, radial canals, lateral canals, and tube feet (podia), operating locomotion, respiration, food capture, and sensory reception.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Bilateral symmetry</b> - Adult echinoderms exhibit secondary pentaradial symmetry; only their larval stages are bilateral.\n• <b style=\"color:#2563eb\">Option (2): Exoskeleton</b> - Echinoderms possess an internal mesodermal endoskeleton composed of calcareous ossicles, not an exoskeleton.\n• <b style=\"color:#2563eb\">Option (4): Cartilaginous skeleton</b> - Cartilaginous skeletons are characteristic of chondrichthyan fishes (sharks and rays)."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is an adaptation for flight in birds?",
+    "options": [
+      "Gills",
+      "Hollow bones",
+      "Scales",
+      "Amniotic egg"
+    ],
+    "correct_answer": "Hollow bones",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Hollow bones</b> is correct because birds possess pneumatic (hollow, air-filled) bones reinforced with internal struts and cross-braces (trabeculae). In conjunction with internal air sacs, pneumaticity significantly reduces total skeletal weight without compromising structural strength, representing an essential morphological adaptation for powered flight.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gills</b> - Birds respire with lungs and air sacs; gills are aquatic respiratory organs.\n• <b style=\"color:#2563eb\">Option (3): Scales</b> - Epidermal scales on avian legs and feet are ancestral reptilian retention, not an adaptation for flight.\n• <b style=\"color:#2563eb\">Option (4): Amniotic egg</b> - The cleidoic amniotic egg is an adaptation for terrestrial reproduction shared by all amniotes (reptiles, birds, mammals), not specific to flight."
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is NOT a characteristic of mammals?",
+    "options": [
+      "Mammary glands",
+      "Diaphragm",
+      "Three-chambered heart",
+      "Hair or fur"
+    ],
+    "correct_answer": "Three-chambered heart",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Three-chambered heart</b> is correct because mammals have a four-chambered heart with two atria and two completely separated ventricles, ensuring complete segregation of deoxygenated and oxygenated blood. Three-chambered hearts (two atria and one ventricle) are characteristic of amphibians and non-crocodilian reptiles.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Mammary glands</b> - Mammary glands that produce milk for nursing young are a universal defining mammalian feature.\n• <b style=\"color:#2563eb\">Option (2): Diaphragm</b> - A muscular diaphragm separating the thoracic and abdominal cavities is unique to mammals.\n• <b style=\"color:#2563eb\">Option (4): Hair or fur</b> - Keratinaceous hair covering the body is a primary diagnostic hallmark of mammals."
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is a feature of reptiles?",
+    "options": [
+      "Live birth",
+      "Feathers",
+      "Amniotic egg",
+      "Gills"
+    ],
+    "correct_answer": "Amniotic egg",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Amniotic egg</b> is correct because reptiles are classic amniotes that produce cleidoic eggs surrounded by protective extraembryonic membranes (amnion, chorion, allantois, and yolk sac) and a leathery or calcareous shell, freeing reproduction from an aquatic environment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Live birth</b> - While rare viviparous species exist, ovipary (laying shelled eggs) is the hallmark reptilian condition; live birth is characteristic of eutherian mammals.\n• <b style=\"color:#2563eb\">Option (2): Feathers</b> - Feathers are unique epidermal structures exclusive to birds (Aves).\n• <b style=\"color:#2563eb\">Option (4): Gills</b> - Reptiles are strictly lung-breathing tetrapods lacking functional gills throughout all life stages."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a characteristic feature of cnidarians?",
+    "options": [
+      "Segmented body",
+      "Radula",
+      "Stinging cells (cnidocytes)",
+      "Jointed appendages"
+    ],
+    "correct_answer": "Stinging cells (cnidocytes)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Stinging cells (cnidocytes)</b> is correct because cnidarians (jellyfish, sea anemones, hydras, corals) derive their phylum name from cnidocytes—specialized stinging cells containing venomous eversible organelles called nematocysts used for prey capture and defense.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Segmented body</b> - Metameric body segmentation characterizes annelids, arthropods, and chordates; cnidarians are unsegmented diploblastic organisms.\n• <b style=\"color:#2563eb\">Option (2): Radula</b> - The radula is a chitinous toothed rasplike feeding organ exclusive to molluscs.\n• <b style=\"color:#2563eb\">Option (4): Jointed appendages</b> - Jointed appendages are diagnostic of arthropods."
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a distinguishing feature of annelids?",
+    "options": [
+      "Exoskeleton",
+      "Pseudopodia",
+      "Segmented body",
+      "Cnidocytes"
+    ],
+    "correct_answer": "Segmented body",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Segmented body</b> is correct because true metameric segmentation (metamerism) is the hallmark diagnostic feature of phylum Annelida (earthworms, leeches, sandworms). The body is internally and externally divided into repeated linear units called metameres or somites separated by transverse septa.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Exoskeleton</b> - A hardened chitinous cuticular exoskeleton is characteristic of arthropods, not soft-bodied annelids.\n• <b style=\"color:#2563eb\">Option (2): Pseudopodia</b> - Pseudopodia are transient cytoplasmic extensions used by amoeboid protozoans for motility and phagocytosis.\n• <b style=\"color:#2563eb\">Option (4): Cnidocytes</b> - Cnidocytes are stinging cells found exclusively in cnidarians."
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a unique adaptation of cephalopods?",
+    "options": [
+      "Siphon",
+      "Echinoderm-like spines",
+      "Exoskeleton",
+      "Gastrovascular cavity"
+    ],
+    "correct_answer": "Siphon",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Siphon</b> is correct because cephalopods (squids, octopuses, cuttlefish, nautili) possess a muscular funnel or siphon (derived from the molluscan foot). By forcefully expelling water from the mantle cavity through the siphon, cephalopods achieve rapid jet propulsion locomotion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Echinoderm-like spines</b> - Calcareous spines are characteristic of class Echinoidea (sea urchins) in phylum Echinodermata.\n• <b style=\"color:#2563eb\">Option (3): Exoskeleton</b> - Cephalopods lack an external chitinous exoskeleton; their shell is internal (pen or cuttlebone) or absent, except for the ancestral nautilus.\n• <b style=\"color:#2563eb\">Option (4): Gastrovascular cavity</b> - A single-opening gastrovascular cavity (blind sac digestive tract) characterizes cnidarians and platyhelminthes; cephalopods have a complete digestive tract with mouth and anus."
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "What are the Yamanaka factors used for iPSCs reprogramming?",
+    "options": [
+      "Nanog, SOX4, Oct-3/4 and c-myc",
+      "SOX2, Klf4, Oct-3/4 and c-myc",
+      "p53, SOX4, Oct-3 and L-myc",
+      "lin28, SOX4, Oct-4 and L-myc"
+    ],
+    "correct_answer": "SOX2, Klf4, Oct-3/4 and c-myc",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): SOX2, Klf4, Oct-3/4 and c-myc</b> is correct. In 2006, Shinya Yamanaka and Kazutoshi Takahashi discovered that introducing four defined transcription factors—Oct-3/4 (Pou5f1), Sox2, Klf4, and c-Myc (commonly termed OSKM factors)—into differentiated adult mouse and human fibroblasts resets the epigenome to an embryonic-like pluripotent state, generating induced Pluripotent Stem Cells (iPSCs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nanog, SOX4, Oct-3/4 and c-myc</b> - Nanog is an essential pluripotency marker, but the original Yamanaka reprogramming cocktail utilized Klf4 and Sox2, not Sox4.\n• <b style=\"color:#2563eb\">Option (3): p53, SOX4, Oct-3 and L-myc</b> - p53 acts as a barrier to reprogramming whose inhibition enhances iPSC efficiency, rather than being an OSKM factor.\n• <b style=\"color:#2563eb\">Option (4): lin28, SOX4, Oct-4 and L-myc</b> - The Thomson factor combination utilized Oct4, Sox2, Nanog, and Lin28, which also did not include Sox4 or L-myc."
+  },
+  {
+    "id": 2,
+    "question": "What is fertilization?",
+    "options": [
+      "The fusion of sperm and egg to form a zygote.",
+      "The formation of gametes in the reproductive organs.",
+      "The implantation of the embryo in the uterine lining.",
+      "The development of the placenta during pregnancy."
+    ],
+    "correct_answer": "The fusion of sperm and egg to form a zygote.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): The fusion of sperm and egg to form a zygote</b> is correct. Fertilization (syngamy) is the fundamental biological process wherein a haploid male gamete (spermatozoon) and a haploid female gamete (oocyte) fuse to restore the diploid chromosome complement, activating the quiescent egg to initiate embryonic cleavage and development.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The formation of gametes in the reproductive organs</b> - Gamete production through meiotic division is termed gametogenesis (spermatogenesis and oogenesis).\n• <b style=\"color:#2563eb\">Option (3): The implantation of the embryo in the uterine lining</b> - Attachment of the blastocyst to the endometrium is called implantation (nidation).\n• <b style=\"color:#2563eb\">Option (4): The development of the placenta during pregnancy</b> - Formation of the placenta is placentation."
+  },
+  {
+    "id": 3,
+    "question": "In sea urchins, external fertilization occurs. What does this mean?",
+    "options": [
+      "The fertilization process takes place inside the body of the female sea urchin.",
+      "The male and female sea urchins exchange gametes directly.",
+      "The release of gametes by male and female sea urchins occurs outside their bodies.",
+      "The fertilized eggs are retained inside the body of the female sea urchin."
+    ],
+    "correct_answer": "The release of gametes by male and female sea urchins occurs outside their bodies.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The release of gametes by male and female sea urchins occurs outside their bodies</b> is correct. External fertilization (broadcast spawning) is an aquatic reproductive strategy wherein marine invertebrates such as sea urchins simultaneously shed eggs and sperm directly into the open seawater, where chemotactic recognition, acrosome reaction, and gamete fusion take place entirely outside the parental organisms.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The fertilization process takes place inside the body of the female sea urchin</b> - Internal fertilization occurs within the female reproductive tract (typical of terrestrial animals, reptiles, birds, mammals).\n• <b style=\"color:#2563eb\">Option (2): The male and female sea urchins exchange gametes directly</b> - Copulation or physical contact does not occur; gametes are broadcast into the open water column.\n• <b style=\"color:#2563eb\">Option (4): The fertilized eggs are retained inside the body of the female sea urchin</b> - Embryos develop freely as planktonic larvae (pluteus) in the open ocean."
+  },
+  {
+    "id": 4,
+    "question": "What is the advantage of external fertilization in sea urchins?",
+    "options": [
+      "It allows for the direct transfer of sperm from male to female sea urchins.",
+      "It provides a protected environment for the developing embryos.",
+      "It increases the chances of successful fertilization due to the large number of released gametes.",
+      "It allows for internal fertilization, which enhances genetic diversity."
+    ],
+    "correct_answer": "It increases the chances of successful fertilization due to the large number of released gametes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It increases the chances of successful fertilization due to the large number of released gametes</b> is correct. In open marine environments subject to rapid water dispersal and predation, releasing millions to billions of eggs and sperm simultaneously in synchronized spawning pulses compensates for dilution, maximizing the statistical probability that viable gametes collide and achieve fertilization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It allows for the direct transfer of sperm from male to female sea urchins</b> - Direct transfer is an internal fertilization adaptation via copulatory organs.\n• <b style=\"color:#2563eb\">Option (2): It provides a protected environment for the developing embryos</b> - External spawning leaves embryos directly exposed to oceanic predators and environmental fluctuations.\n• <b style=\"color:#2563eb\">Option (4): It allows for internal fertilization, which enhances genetic diversity</b> - External fertilization is mutually exclusive with internal fertilization."
+  },
+  {
+    "id": 5,
+    "question": "What triggers the release of gametes in sea urchins during external fertilization?",
+    "options": [
+      "Seasonal changes in temperature",
+      "Presence of predators",
+      "Changes in water salinity",
+      "Release of chemical signals by other sea urchins"
+    ],
+    "correct_answer": "Release of chemical signals by other sea urchins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Release of chemical signals by other sea urchins</b> is correct. Synchronized broadcast spawning in sea urchins is triggered by chemical pheromones released into seawater by spawning neighbors. When a few pioneer individuals initiate gamete release, pheromonal chemoreception stimulates an immediate epidemic spawning cascade throughout the local benthic population, ensuring gametes coincide in space and time.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Seasonal changes in temperature</b> - While temperature changes prime gametogenesis seasonally, the immediate behavioral trigger for synchronized spawning is pheromonal communication.\n• <b style=\"color:#2563eb\">Option (2): Presence of predators</b> - Predators induce defensive spine erection or burrowing, not spawning.\n• <b style=\"color:#2563eb\">Option (3): Changes in water salinity</b> - Osmotic stress inhibits normal gamete motility."
+  },
+  {
+    "id": 6,
+    "question": "How do sea urchins ensure the proximity of sperm and eggs for successful fertilization during external fertilization?",
+    "options": [
+      "They have elaborate mating rituals to bring male and female sea urchins together.",
+      "They release chemicals that attract sperm towards the eggs.",
+      "They exhibit behavioral responses to navigate towards the opposite sex.",
+      "They rely on water currents to disperse and mix the gametes."
+    ],
+    "correct_answer": "They rely on water currents to disperse and mix the gametes.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): They rely on water currents to disperse and mix the gametes</b> is designated. Hydrodynamic water currents, ambient tidal motion, and microturbulences mix the mass-spawned gamete plumes, facilitating close encounter rates across broad benthic patches (while at microscopic range, egg-jelly peptides like resact/speract provide directional chemotaxis).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They have elaborate mating rituals to bring male and female sea urchins together</b> - Sea urchins are non-visual sessile/slow benthic echinoderms that do not engage in visual mating rituals.\n• <b style=\"color:#2563eb\">Option (2): They release chemicals that attract sperm towards the eggs</b> - While chemotactic peptides guide sperm at the final millimeter scale, the official exam key designates Option (4).\n• <b style=\"color:#2563eb\">Option (3): They exhibit behavioral responses to navigate towards the opposite sex</b> - Adult urchins do not pair up or seek out mates individually."
+  },
+  {
+    "id": 7,
+    "question": "What happens to the fertilized eggs after external fertilization in sea urchins?",
+    "options": [
+      "They develop inside the female sea urchin's body.",
+      "They are immediately eaten by predators.",
+      "They undergo cleavage and develop into embryos in the water.",
+      "They are transported by the male sea urchin to a safe location."
+    ],
+    "correct_answer": "They undergo cleavage and develop into embryos in the water.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): They undergo cleavage and develop into embryos in the water</b> is correct. Following fertilization in sea urchins, the zygote elevates a protective fertilization envelope that blocks polyspermy and undergoes rapid radial holoblastic cleavage in the open seawater. It progresses through blastula and gastrula stages to form a free-swimming ciliated pluteus larva.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They develop inside the female sea urchin's body</b> - Urchin development is entirely external and planktonic.\n• <b style=\"color:#2563eb\">Option (2): They are immediately eaten by predators</b> - While planktotrophic mortality is high, vast numbers survive to develop.\n• <b style=\"color:#2563eb\">Option (4): They are transported by the male sea urchin to a safe location</b> - Echinoderms show no parental care or transport behavior for fertilized eggs."
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is true regarding the development of C. elegans?",
+    "options": [
+      "It undergoes internal fertilization.",
+      "It has a larval stage called dauer larva.",
+      "It exhibits external development.",
+      "It undergoes metamorphosis during development."
+    ],
+    "correct_answer": "It exhibits external development.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It exhibits external development</b> is correct. In *Caenorhabditis elegans*, while fertilization takes place internally in the spermatheca, embryos are laid through the vulva into the external soil environment at approximately the gastrula (24-cell to 30-cell) stage. The majority of embryonic morphogenesis, elongation, and organogenesis proceed externally before hatching.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It undergoes internal fertilization</b> - While fertilization occurs internally, Option (3) is the designated answer key selection highlighting embryonic development outside the mother.\n• <b style=\"color:#2563eb\">Option (2): It has a larval stage called dauer larva</b> - The dauer is a facultative, stress-induced alternative arrest state rather than an obligate developmental larval stage.\n• <b style=\"color:#2563eb\">Option (4): It undergoes metamorphosis during development</b> - Nematodes undergo direct development with 4 molts (L1-L4), not holometabolous metamorphosis."
+  },
+  {
+    "id": 9,
+    "question": "How many cells are present in the adult hermaphrodite C. elegans?",
+    "options": [
+      "Approximately 100 cells.",
+      "Approximately 1000 cells.",
+      "Approximately 10,000 cells.",
+      "Approximately 100,000 cells."
+    ],
+    "correct_answer": "Approximately 1000 cells.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Approximately 1000 cells</b> is correct. *Caenorhabditis elegans* exhibits eutely, possessing a constant and invariant number of somatic cells. The mature adult hermaphrodite contains precisely 959 somatic cell nuclei (along with a variable number of germline cells), making ~1000 cells the classic textbook figure established by John Sulston's invariant lineage mapping.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Approximately 100 cells</b> - Represents an early embryonic gastrula stage, not the adult worm.\n• <b style=\"color:#2563eb\">Option (3): Approximately 10,000 cells</b> - Far exceeds the eutelic somatic cell count of *C. elegans*.\n• <b style=\"color:#2563eb\">Option (4): Approximately 100,000 cells</b> - Inconsistent with nematode biology."
+  },
+  {
+    "id": 10,
+    "question": "During C. elegans development, what is the first embryonic cell division?",
+    "options": [
+      "Transverse division",
+      "Radial division",
+      "Asymmetric division",
+      "Symmetric division"
+    ],
+    "correct_answer": "Asymmetric division",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Asymmetric division</b> is correct. The first cleavage division of the *C. elegans* single-celled zygote (P0) is an asymmetric cleavage along the anterior-posterior axis dictated by sperm entry and PAR protein polarity. It divides unequally into a larger anterior somatic founder cell (AB) and a smaller posterior germline stem cell (P1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Transverse division</b> - Cleavage orientation is longitudinal along the AP axis rather than purely transverse.\n• <b style=\"color:#2563eb\">Option (2): Radial division</b> - Radial cleavage is characteristic of deuterostomes (echinoderms and amphibians).\n• <b style=\"color:#2563eb\">Option (4): Symmetric division</b> - P0 division produces daughter cells of unequal size and distinct developmental fates, fundamentally refuting symmetry."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a characteristic of C. elegans development?",
+    "options": [
+      "Formation of extraembryonic membranes",
+      "Formation of a neural crest",
+      "Indeterminate growth",
+      "Precise cell lineage and fate specification"
+    ],
+    "correct_answer": "Precise cell lineage and fate specification",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Precise cell lineage and fate specification</b> is correct. *C. elegans* is famous in developmental genetics for its complete invariant cell lineage: from zygote to adult, every single cell division, cell migration, and programmed apoptotic death (exactly 131 cells die during hermaphrodite development) occurs at precisely predictable times and positions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Formation of extraembryonic membranes</b> - Amnion, chorion, and allantois are unique to amniote vertebrates (reptiles, birds, mammals).\n• <b style=\"color:#2563eb\">Option (2): Formation of a neural crest</b> - The neural crest is an evolutionary innovation restricted to vertebrates.\n• <b style=\"color:#2563eb\">Option (3): Indeterminate growth</b> - Nematodes exhibit determinate growth, terminating somatic cell divisions once eutely is reached."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is true regarding amphibian development?",
+    "options": [
+      "It involves external fertilization.",
+      "It exhibits placental development.",
+      "It undergoes direct development without larval stages.",
+      "It relies on internal incubation."
+    ],
+    "correct_answer": "It involves external fertilization.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It involves external fertilization</b> is correct. Most anuran amphibians (frogs and toads) engage in amplexus in freshwater environments, where the male grasps the female and sheds sperm externally over eggs as they are expelled into the pond, where cleavage and larval development proceed.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It exhibits placental development</b> - Placental development is the definitive hallmark of eutherian mammals.\n• <b style=\"color:#2563eb\">Option (3): It undergoes direct development without larval stages</b> - Typical amphibians undergo indirect development with an aquatic larval tadpole stage.\n• <b style=\"color:#2563eb\">Option (4): It relies on internal incubation</b> - Amphibian eggs are deposited in aquatic clutches without maternal internal incubation."
+  },
+  {
+    "id": 13,
+    "question": "What is the larval stage in amphibian development called?",
+    "options": [
+      "Tadpole",
+      "Embryo",
+      "Pupa",
+      "Juvenile"
+    ],
+    "correct_answer": "Tadpole",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Tadpole</b> is correct. The free-swimming aquatic larva of an amphibian (especially frogs and toads) is known as a tadpole (or polliwog). Tadpoles possess a compressed muscular tail, external/internal gills for respiration, a lateral line system, and horny beak-like mouthparts for grazing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Embryo</b> - The embryo refers to early stages before hatching.\n• <b style=\"color:#2563eb\">Option (3): Pupa</b> - The pupa is a quiescent metamorphic stage in holometabolous insects (e.g., butterflies).\n• <b style=\"color:#2563eb\">Option (4): Juvenile</b> - A juvenile is a post-metamorphic young individual that resembles the adult but is sexually immature."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following structures aids in gas exchange during amphibian development?",
+    "options": [
+      "Gills",
+      "Lungs",
+      "Amnion",
+      "Placenta"
+    ],
+    "correct_answer": "Gills",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Gills</b> is correct. During the aquatic larval (tadpole) stage of amphibian development, gas exchange is carried out by specialized gills (initially external branching gills, which are subsequently enclosed by an opercular fold into internal gills) before pulmonary lungs develop at metamorphosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Lungs</b> - Functional lungs develop during metamorphosis to support terrestrial adult respiration.\n• <b style=\"color:#2563eb\">Option (3): Amnion</b> - Amphibians are anamniotes and lack an amnion.\n• <b style=\"color:#2563eb\">Option (4): Placenta</b> - Amphibians do not form a placenta."
+  },
+  {
+    "id": 15,
+    "question": "What is the process called when an amphibian transitions from an aquatic larval form to a terrestrial adult form?",
+    "options": [
+      "Metamorphosis",
+      "Fertilization",
+      "Regeneration",
+      "Differentiation"
+    ],
+    "correct_answer": "Metamorphosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Metamorphosis</b> is correct. Amphibian metamorphosis is a profound post-embryonic developmental transition orchestrated by thyroid hormones (thyroxine T4 and triiodothyronine T3). It transforms an aquatic, herbivorous, gill-breathing tadpole into a terrestrial, carnivorous, lung-breathing adult frog through tail resorption, limb outgrowth, gut remodeling, and epidermal keratinization.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Fertilization</b> - Fertilization is gamete fusion forming the zygote.\n• <b style=\"color:#2563eb\">Option (3): Regeneration</b> - Regeneration is the reactivation of development in post-embryonic life to restore missing tissues or limbs.\n• <b style=\"color:#2563eb\">Option (4): Differentiation</b> - Differentiation is the cellular acquisition of specialized structural and functional phenotypes."
+  },
+  {
+    "id": 16,
+    "question": "Which gene is responsible for specifying the identity of sepals in the ABC model of flower development?",
+    "options": [
+      "AP1",
+      "AP2",
+      "AG",
+      "PI"
+    ],
+    "correct_answer": "AP1",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): AP1</b> is correct. In the classical ABC model of floral organ specification in *Arabidopsis thaliana*:\n• **Whorl 1 (Sepals):** Specified by **Class A** gene activity alone (*APETALA1* / *AP1* and *APETALA2* / *AP2*).\n• **Whorl 2 (Petals):** Class A + Class B (*AP1/AP2* + *AP3/PI*).\n• **Whorl 3 (Stamens):** Class B + Class C (*AP3/PI* + *AG*).\n• **Whorl 4 (Carpels):** Class C alone (*AGAMOUS* / *AG*).\n*AP1* functions as both a floral meristem identity gene and the defining Class A organ-identity factor for sepal development.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): AP2</b> - AP2 is also a Class A gene, but AP1 is the primary key answer.\n• <b style=\"color:#2563eb\">Option (3): AG</b> - *AGAMOUS* is a Class C gene specifying stamens and carpels.\n• <b style=\"color:#2563eb\">Option (4): PI</b> - *PISTILLATA* is a Class B gene specifying petals and stamens."
+  },
+  {
+    "id": 17,
+    "question": "Which combination of genes is responsible for specifying the identity of petals in the ABC model of flower development?",
+    "options": [
+      "AP1 and AP2",
+      "AP2 and AG",
+      "Ap3 and PI",
+      "PI and AP1"
+    ],
+    "correct_answer": "Ap3 and PI",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Ap3 and PI</b> is correct. In the ABC model of floral morphogenesis:\n• Petals (Whorl 2) require the combined activity of **Class A** and **Class B** genes.\n• *APETALA3* (*AP3*) and *PISTILLATA* (*PI*) encode MADS-box transcription factors that obligatorily heterodimerize to execute Class B organ identity. In mutant plants lacking Class B activity (*ap3* or *pi* mutants), petals are homeotically transformed into sepals.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): AP1 and AP2</b> - Class A genes alone specify sepals in Whorl 1.\n• <b style=\"color:#2563eb\">Option (2): AP2 and AG</b> - Class A and Class C genes are mutually antagonistic and never combine in the same wild-type floral whorl.\n• <b style=\"color:#2563eb\">Option (4): PI and AP1</b> - While one Class B and one Class A, Option (3) defines the core Class B dimer specified in the answer key."
+  },
+  {
+    "id": 18,
+    "question": "Which combination of genes is responsible for specifying the identity of stamens in the ABC model of flower development?",
+    "options": [
+      "AP1 and AG",
+      "AG and PI",
+      "PI and AP1",
+      "AP2 and AP1"
+    ],
+    "correct_answer": "AG and PI",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): AG and PI</b> is correct. In Whorl 3 of the floral bud, the male reproductive organs (stamens) are specified by the concurrent activity of **Class B** genes (*AP3* and *PI*) and **Class C** genes (*AGAMOUS* / *AG*). The combinatorial complex of AP3, PI, AG, and SEPALLATA MADS-domain proteins activates stamen-specific gene expression programs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): AP1 and AG</b> - AP1 (Class A) and AG (Class C) mutually repress each other and do not co-express in wild-type whorls.\n• <b style=\"color:#2563eb\">Option (3): PI and AP1</b> - PI (Class B) and AP1 (Class A) specify petals (Whorl 2), not stamens.\n• <b style=\"color:#2563eb\">Option (4): AP2 and AP1</b> - AP2 and AP1 specify sepals in Whorl 1."
+  },
+  {
+    "id": 19,
+    "question": "Which gene is responsible for specifying the identity of carpels in the ABC model of flower development?",
+    "options": [
+      "AP2",
+      "AG",
+      "PI",
+      "AP1"
+    ],
+    "correct_answer": "AG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): AG</b> is correct. Carpels (the female gynoecium forming Whorl 4 at the floral center) are specified solely by **Class C** organ identity gene activity, which in *Arabidopsis thaliana* is encoded by *AGAMOUS* (*AG*). Loss of *AG* (*ag* mutants) causes homeotic transformation of carpels into petals and loss of floral determinacy (flowers within flowers).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): AP2</b> - *AP2* is a Class A gene specifying sepals and petals while repressing *AG* in whorls 1 and 2.\n• <b style=\"color:#2563eb\">Option (3): PI</b> - *PI* is a Class B gene involved in petal and stamen identity.\n• <b style=\"color:#2563eb\">Option (4): AP1</b> - *AP1* specifies sepals and petals."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following statements is true about the ABC model of flower development?",
+    "options": [
+      "It explains the formation of floral organs in monocots only.",
+      "It is based on the regulation of a single gene.",
+      "It describes the development of leaves instead of flowers.",
+      "It provides a framework for understanding the genetic control of flower development in angiosperms."
+    ],
+    "correct_answer": "It provides a framework for understanding the genetic control of flower development in angiosperms.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): It provides a framework for understanding the genetic control of flower development in angiosperms</b> is correct. Formulated by Coen and Meyerowitz in 1991, the ABC (now ABCDE) model describes how three overlapping classes of homeotic transcription factors act combinatorially to determine the identities of four concentric whorls of floral organs across flowering plants (angiosperms).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It explains the formation of floral organs in monocots only</b> - The model was established in eudicots (*Arabidopsis* and *Antirrhinum*) and generalizes across angiosperms.\n• <b style=\"color:#2563eb\">Option (2): It is based on the regulation of a single gene</b> - It depends on the combinatorial interaction of multiple gene classes (A, B, C, D, E).\n• <b style=\"color:#2563eb\">Option (3): It describes the development of leaves instead of flowers</b> - It specifically governs floral organogenesis from modified leaf-like primordia."
+  },
+  {
+    "id": 21,
+    "question": "Which gene is essential for the formation of the ventral enclosure and proper valva development in C. elegans?",
+    "options": [
+      "lin-39",
+      "lin-3",
+      "lin-22",
+      "lin-17"
+    ],
+    "correct_answer": "lin-39",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): lin-39</b> is correct. *lin-39* encodes a homeobox (Hox) transcription factor belonging to the Antennapedia/Deformed family in *Caenorhabditis elegans*. It is expressed in the mid-body region where it is essential for keeping vulval precursor cells (VPCs: P3.p through P8.p) competent, preventing them from fusing with the hypodermal syncytium hyp7, and coordinating ventral epidermal enclosure during embryogenesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): lin-3</b> - *lin-3* encodes the EGF-like inductive ligand secreted by the gonadal anchor cell.\n• <b style=\"color:#2563eb\">Option (3): lin-22</b> - *lin-22* is a bHLH factor regulating neurogenesis and lateral epidermal seam cell fates.\n• <b style=\"color:#2563eb\">Option (4): lin-17</b> - *lin-17* encodes a Frizzled-family Wnt receptor controlling asymmetric division polarity."
+  },
+  {
+    "id": 22,
+    "question": "What is the role of the ceh-13 gene in valva development in C. elegans?",
+    "options": [
+      "Specifies the ventral enclosure fate",
+      "Regulates the proliferation of valva precursor cells",
+      "Controls the differentiation of valva cells",
+      "Promotes the fusion of valva cells"
+    ],
+    "correct_answer": "Controls the differentiation of valva cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Controls the differentiation of valva cells</b> is correct. *ceh-13* is the *C. elegans* homolog of the *Drosophila labial* (Hox1) gene. It plays a critical regulatory role during anterior/ventral morphogenesis, coordinating cell differentiation and cell-cell signaling events required for proper vulval cell execution and morphogenesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Specifies the ventral enclosure fate</b> - Ventral enclosure is coordinated primarily by *lin-39* and cadherin/catenin complexes.\n• <b style=\"color:#2563eb\">Option (2): Regulates the proliferation of valva precursor cells</b> - VPC proliferation is driven by receptor tyrosine kinase (LET-23) signaling.\n• <b style=\"color:#2563eb\">Option (4): Promotes the fusion of valva cells</b> - Cell fusion with hyp7 is mediated by the fusogen EFF-1."
+  },
+  {
+    "id": 23,
+    "question": "Which signaling pathway is involved in valva development in C. elegans?",
+    "options": [
+      "Notch signaling pathway",
+      "Wnt signaling pathway",
+      "Hedgehog signaling pathway",
+      "TGF-beta signaling pathway"
+    ],
+    "correct_answer": "Notch signaling pathway",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Notch signaling pathway</b> is correct. In *C. elegans* vulval induction, lateral signaling mediated by the Notch pathway is essential. The primary (1°) VPC (P6.p) responds to LIN-3/EGF and expresses DSL ligands (LAG-2, APX-1), which activate LIN-12 (Notch) in adjacent P5.p and P7.p cells. This lateral LIN-12/Notch signaling specifies the secondary (2°) vulval cell fate and represses the 1° fate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Wnt signaling pathway</b> - While Wnt establishes anterior-posterior competence, Notch is the definitive lateral specification pathway tested.\n• <b style=\"color:#2563eb\">Option (3): Hedgehog signaling pathway</b> - *C. elegans* lacks classical canonical Hedgehog-patched-smoothened signaling cascades.\n• <b style=\"color:#2563eb\">Option (4): TGF-beta signaling pathway</b> - The TGF-beta (DAF-7) pathway controls dauer formation and body size, not primary/secondary vulval cell specification."
+  },
+  {
+    "id": 24,
+    "question": "Which transcription factor is essential for the specification and differentiation of valva precursor cells in C. elegans?",
+    "options": [
+      "mab-5",
+      "lin-22",
+      "unc-86",
+      "ceh-13"
+    ],
+    "correct_answer": "lin-22",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): lin-22</b> is correct. *lin-22* encodes a basic helix-loop-helix (bHLH) transcription factor homologous to *Drosophila hairy/Enhancer of split*. It acts cell-autonomously to prevent epidermal ray and neural fates in lateral hypodermal cells, ensuring appropriate spatial patterning and specification of epidermal blast cells including vulval lineages.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): mab-5</b> - *mab-5* is a posterior Hox gene regulating male tail ray development and neuroblast migration.\n• <b style=\"color:#2563eb\">Option (3): unc-86</b> - *unc-86* is a POU-homeodomain transcription factor required for neural lineage differentiation and touch receptor development.\n• <b style=\"color:#2563eb\">Option (4): ceh-13</b> - While an anterior Hox gene, Option (2) is designated in the key for precursor patterning."
+  },
+  {
+    "id": 25,
+    "question": "Which developmental gene plays a crucial role in eye development and is responsible for regulating the formation of various eye structures, including the cornea, lens, iris, and retina?",
+    "options": [
+      "Pax6",
+      "Sox2",
+      "Six3",
+      "Otx2"
+    ],
+    "correct_answer": "Pax6",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Pax6</b> is correct. *Pax6* (known as *eyeless* in *Drosophila* and *Aniridia* in humans / *Small eye* in mice) is the universally conserved 'master control gene' for ocular morphogenesis. Ectopic expression of *Pax6* induces functional ectopic eyes on insect wings and legs, and its activity orchestrates surface ectoderm invagination (lens placode), optic cup specification, cornea transparency, and retinal neurogenesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Sox2</b> - Sox2 cooperates with Pax6 to activate the delta-crystallin enhancer in the lens placode, but Pax6 is the premier master selector gene.\n• <b style=\"color:#2563eb\">Option (3): Six3</b> - Six3 is a homeobox gene functioning downstream of or alongside Pax6 during forebrain and optic field development.\n• <b style=\"color:#2563eb\">Option (4): Otx2</b> - Otx2 is essential for rostral head and retinal pigment epithelium specification, but not the overarching master eye gene."
+  }
+]

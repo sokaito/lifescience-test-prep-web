@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "question": "Lens protein is an example of:",
+    "options": [
+      "Cross reacting foreign antigen",
+      "Sequestrated antigen",
+      "Molecular mimicry",
+      "Forbidden clone"
+    ],
+    "correct_answer": "Sequestrated antigen",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Sequestrated antigen</b> is correct. Sequestrated (hidden or sequestered) antigens are self-antigens anatomically isolated from the systemic circulation and lymphoid tissues by physical barriers during embryonic development (e.g., lens crystalline protein in the eye, myelin basic protein behind the blood-brain barrier, and sperm in testicular seminiferous tubules). Because developing lymphocytes never encounter them during negative selection in central tolerance, physical trauma that breaches the barrier and releases these antigens can induce autoimmune responses (such as sympathetic ophthalmia).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cross reacting foreign antigen</b> - Cross-reacting antigens are microbial antigens that structurally resemble host self-peptides.\n• <b style=\"color:#2563eb\">Option (3): Molecular mimicry</b> - Molecular mimicry involves sequence or structural homology between pathogen antigens and self-antigens triggering autoimmunity (e.g., rheumatic fever).\n• <b style=\"color:#2563eb\">Option (4): Forbidden clone</b> - A forbidden clone is a neoplastic or mutated self-reactive lymphocyte clone that escapes clonal deletion."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is not an intracellular TLR (toll like receptor)?",
+    "options": [
+      "TLR 2",
+      "TLR 3",
+      "TLR 7",
+      "TLR 9"
+    ],
+    "correct_answer": "TLR 2",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): TLR 2</b> is correct. Toll-like receptors (TLRs) are categorized into cell-surface and intracellular/endosomal receptors based on cellular localization. TLR2 (along with TLR1, TLR4, TLR5, and TLR6) is expressed on the plasma membrane surface, where it recognizes bacterial lipopeptides and peptidoglycans. In contrast, TLR3, TLR7, TLR8, and TLR9 reside in endosomal membranes to detect intracellular nucleic acids.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): TLR 3</b> - TLR3 is an intracellular endosomal receptor that binds viral double-stranded RNA (dsRNA).\n• <b style=\"color:#2563eb\">Option (3): TLR 7</b> - TLR7 is localized within endosomal compartments and detects viral single-stranded RNA (ssRNA).\n• <b style=\"color:#2563eb\">Option (4): TLR 9</b> - TLR9 is an endosomal receptor recognizing unmethylated CpG DNA motifs typical of bacteria and DNA viruses."
+  },
+  {
+    "id": 3,
+    "question": "Cluster of differentiation (CD) molecules are present on:",
+    "options": [
+      "Surface of cells",
+      "In the cytoplasm",
+      "In the nucleus",
+      "In the mitochondria"
+    ],
+    "correct_answer": "Surface of cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Surface of cells</b> is correct. Cluster of Differentiation (CD) molecules are cell-surface glycoproteins, receptors, and adhesion ligands expressed on the plasma membrane of leukocytes and other cells. They are identified and classified using monoclonal antibodies (e.g., CD3, CD4, CD8, CD19, CD28) and serve as phenotypic cell markers and functional signaling receptors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): In the cytoplasm</b> - CD markers are integrated into the plasma membrane with extracellular domains, not purely cytosolic proteins.\n• <b style=\"color:#2563eb\">Option (3): In the nucleus</b> - Nuclear proteins include transcription factors and histones, not CD membrane antigens.\n• <b style=\"color:#2563eb\">Option (4): In the mitochondria</b> - Mitochondrial proteins mediate cellular respiration and apoptosis, not leukocyte CD classification."
+  },
+  {
+    "id": 4,
+    "question": "Ligand for TLR3 receptor is:",
+    "options": [
+      "dsRNA",
+      "Lipopolysaccharide",
+      "Lipopeptides",
+      "Flagellin"
+    ],
+    "correct_answer": "dsRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): dsRNA</b> is correct. Toll-like receptor 3 (TLR3) resides in endosomes and specifically recognizes double-stranded RNA (dsRNA), which is the genome of dsRNA viruses or an obligate intermediate formed during the replication cycle of most single-stranded RNA viruses. TLR3 recruits the TRIF adaptor to induce high levels of Type I interferons (IFN-α/β).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Lipopolysaccharide</b> - LPS is recognized by cell-surface TLR4 in association with MD-2 and CD14.\n• <b style=\"color:#2563eb\">Option (3): Lipopeptides</b> - Diacyl and triacyl lipopeptides are recognized by heterodimers of TLR2/TLR6 and TLR2/TLR1, respectively.\n• <b style=\"color:#2563eb\">Option (4): Flagellin</b> - Bacterial flagellin is recognized by cell-surface TLR5."
+  },
+  {
+    "id": 5,
+    "question": "Cell-mediated immunity:",
+    "options": [
+      "Can be transferred passively using sera",
+      "is mediated by B and T cells",
+      "Is mediated by T-cells, macrophages and interleukins",
+      "Forms the major part of innate immunity"
+    ],
+    "correct_answer": "Is mediated by T-cells, macrophages and interleukins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Is mediated by T-cells, macrophages and interleukins</b> is correct. Cell-mediated immunity (CMI) is an adaptive immune branch driven by antigen-specific T lymphocytes (CD4+ helper T cells and CD8+ cytotoxic T cells). CD4+ Th1 cells secrete cytokines/interleukins (such as IFN-gamma and IL-2) that activate macrophages to kill intracellular pathogens, while CD8+ CTLs destroy infected cells. CMI cannot be transferred by serum, only by intact viable lymphocytes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Can be transferred passively using sera</b> - Humoral immunity is transferred via cell-free serum (antibodies); cell-mediated immunity requires cell transfer (adoptive transfer).\n• <b style=\"color:#2563eb\">Option (2): is mediated by B and T cells</b> - B cells mediate humoral immunity through antibody production.\n• <b style=\"color:#2563eb\">Option (4): Forms the major part of innate immunity</b> - CMI is a central component of acquired/adaptive immunity, not innate."
+  },
+  {
+    "id": 6,
+    "question": "Opsonin is the:",
+    "options": [
+      "Cell wall component",
+      "Plasma component",
+      "Serum component",
+      "Cytoplasm component"
+    ],
+    "correct_answer": "Plasma component",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Plasma component</b> is designated. An opsonin is a circulating macromolecule in blood plasma (such as IgG antibodies, complement fragment C3b/iC3b, and C-reactive protein) that binds to foreign particles or microbes, tagging them for recognition by specific receptors (FcγR and CR1) on phagocytic cells to dramatically accelerate phagocytosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cell wall component</b> - Microbial cell wall components (e.g., LPS, peptidoglycan) are targets recognized by opsonins, not the opsonins themselves.\n• <b style=\"color:#2563eb\">Option (3): Serum component</b> - While opsonins are present in serum, the official exam key specifies plasma component (Option 2).\n• <b style=\"color:#2563eb\">Option (4): Cytoplasm component</b> - Opsonins function extracellularly in bodily fluids, not within the cytoplasm."
+  },
+  {
+    "id": 7,
+    "question": "Phagocytosis enhanced by coating the surface of antigen is called:",
+    "options": [
+      "Opsonization",
+      "Chemotaxis",
+      "Decoding",
+      "Complement fixation"
+    ],
+    "correct_answer": "Opsonization",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Opsonization</b> is correct. Opsonization (derived from the Greek word meaning 'to prepare food for') is the process by which foreign particles, pathogens, or cellular debris are coated with opsonins (primarily IgG and complement fragment C3b). Phagocytes express high-affinity Fc receptors and complement receptors that readily grasp these coated antigens, greatly accelerating engulfment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Chemotaxis</b> - Chemotaxis is the directed directional migration of cells along a chemical concentration gradient.\n• <b style=\"color:#2563eb\">Option (3): Decoding</b> - Decoding is a molecular genetic term referring to translation of mRNA into protein.\n• <b style=\"color:#2563eb\">Option (4): Complement fixation</b> - Complement fixation is the binding and activation of complement proteins by antigen-antibody complexes."
+  },
+  {
+    "id": 8,
+    "question": "All are secondary lymphoid organs, Except:",
+    "options": [
+      "Spleen",
+      "Lymph nodes",
+      "Thymus",
+      "Mucosal associated lymphoid tissue"
+    ],
+    "correct_answer": "Thymus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Thymus</b> is correct as the exception. The thymus and bone marrow are primary (central) lymphoid organs, where immature lymphocytes originate, rearrange their antigen receptors, and undergo positive and negative selection. Secondary (peripheral) lymphoid organs (spleen, lymph nodes, MALT, Peyer's patches) are sites where mature naive lymphocytes encounter foreign antigens and initiate adaptive immune responses.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Spleen</b> - The spleen is a secondary lymphoid organ filtering blood-borne pathogens.\n• <b style=\"color:#2563eb\">Option (2): Lymph nodes</b> - Lymph nodes are secondary lymphoid organs that filter lymph fluid from regional tissues.\n• <b style=\"color:#2563eb\">Option (4): Mucosal associated lymphoid tissue</b> - MALT (including tonsils, adenoids, and Peyer's patches) constitutes secondary lymphoid structures protecting mucosal surfaces."
+  },
+  {
+    "id": 9,
+    "question": "Cell mediated immunity involve all, EXCEPT:",
+    "options": [
+      "Class I MHC molecules",
+      "T helper cells",
+      "Processed antigen",
+      "Secreted antibody"
+    ],
+    "correct_answer": "Secreted antibody",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Secreted antibody</b> is correct as the exception. Secreted antibodies are the functional effectors of humoral immunity, produced by terminal B-cell plasma cells. In contrast, cell-mediated immunity relies on direct cell-to-cell contact and cytokines involving T helper cells, cytotoxic CD8+ T cells, antigen-presenting cells, and MHC-peptide complexes without requiring secreted antibodies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Class I MHC molecules</b> - Class I MHC molecules are essential for presenting endogenous peptides to CD8+ cytotoxic T cells.\n• <b style=\"color:#2563eb\">Option (2): T helper cells</b> - CD4+ Th1 cells coordinate cell-mediated immunity by activating macrophages and cytotoxic lymphocytes via cytokines like IFN-gamma.\n• <b style=\"color:#2563eb\">Option (3): Processed antigen</b> - T cells can only recognize antigens that have been proteolytically processed into linear peptides and loaded onto MHC molecules."
+  },
+  {
+    "id": 10,
+    "question": "T lymphocytes in a lymph node are concentrated in which of the following anatomical location?",
+    "options": [
+      "Medulla",
+      "Paracortex adjacent to lymphoid follicle",
+      "Germinal center of lymphoid follicle",
+      "Mantle zone of lymphoid follicle"
+    ],
+    "correct_answer": "Paracortex adjacent to lymphoid follicle",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Paracortex adjacent to lymphoid follicle</b> is correct. Lymph nodes possess distinct compartmentalized microenvironments: the outer cortex contains primary and secondary B-cell follicles, while the paracortex (deep cortex) is the designated T-cell zone, rich in CD4+ and CD8+ T cells and dendritic cells. T lymphocytes enter the paracortex from blood via high endothelial venules (HEVs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Medulla</b> - The lymph node medulla consists of medullary cords containing antibody-secreting plasma cells, macrophages, and lymphatic sinuses.\n• <b style=\"color:#2563eb\">Option (3): Germinal center of lymphoid follicle</b> - Germinal centers within cortical follicles are specialized microdomains occupied by proliferating B cells and follicular dendritic cells.\n• <b style=\"color:#2563eb\">Option (4): Mantle zone of lymphoid follicle</b> - The mantle zone rims the germinal center and consists predominantly of resting, unactivated naive B cells."
+  },
+  {
+    "id": 11,
+    "question": "The process by which normal serum enhances phagocytosis is called:",
+    "options": [
+      "Chemotaxis",
+      "Opsonization",
+      "Phosphorylation",
+      "Haematopoiesis"
+    ],
+    "correct_answer": "Opsonization",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Opsonization</b> is correct. Normal blood serum contains natural complement components (such as C3) and preexisting immunoglobulins. When bacteria contact serum, alternative or classical complement pathways are activated, depositing C3b fragments onto bacterial surfaces; this opsonization dramatically increases phagocytic engulfment by neutrophils and macrophages.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chemotaxis</b> - Chemotaxis is cellular movement toward chemical attractants (e.g., C5a, leukotriene B4).\n• <b style=\"color:#2563eb\">Option (3): Phosphorylation</b> - Phosphorylation is an intracellular biochemical reaction adding phosphate groups to proteins or substrates.\n• <b style=\"color:#2563eb\">Option (4): Haematopoiesis</b> - Hematopoiesis is the formation and differentiation of cellular blood components in bone marrow."
+  },
+  {
+    "id": 12,
+    "question": "Germinal centers of lymph node and spleen perform which of the following function?",
+    "options": [
+      "Support the development of immature B and T cells",
+      "Function in the removal of damaged erythrocytes from the circulation",
+      "Act as the major source of stem cells and thus help to maintain haematopoiesis",
+      "These are sites of antigenic stimulation of mature B cells"
+    ],
+    "correct_answer": "These are sites of antigenic stimulation of mature B cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): These are sites of antigenic stimulation of mature B cells</b> is correct. Germinal centers (GCs) are dynamic microarchitectural domains that form within secondary lymphoid follicles following T-dependent antigenic activation. Within GCs, mature B cells undergo rapid clonal expansion, activation-induced cytidine deaminase (AID)-mediated somatic hypermutation (SHM), affinity maturation, and heavy-chain class-switch recombination (CSR).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Support the development of immature B and T cells</b> - Immature B and T cells develop in the bone marrow and thymus, respectively.\n• <b style=\"color:#2563eb\">Option (2): Function in the removal of damaged erythrocytes from the circulation</b> - Clearance of damaged erythrocytes (erythrocatheresis) occurs in the red pulp of the spleen.\n• <b style=\"color:#2563eb\">Option (3): Act as the major source of stem cells and thus help to maintain haematopoiesis</b> - Hematopoietic stem cells reside in the bone marrow."
+  },
+  {
+    "id": 13,
+    "question": "CD40L, an early activation marker, is predominantly expressed on which of the following lymphocyte subset?",
+    "options": [
+      "Helper T lymphocyte",
+      "B lymphocyte",
+      "Natural killer (NK) cells",
+      "Cytotoxic T lymphocyte"
+    ],
+    "correct_answer": "Helper T lymphocyte",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Helper T lymphocyte</b> is correct. CD40 ligand (CD40L or CD154), a member of the TNF superfamily, is rapidly induced on the cell surface of activated CD4+ helper T lymphocytes upon TCR engagement. It engages CD40 expressed on B cells, macrophages, and dendritic cells, delivering essential co-stimulatory signals for B-cell class switching, germinal center formation, and macrophage activation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): B lymphocyte</b> - B lymphocytes constitutively express the receptor CD40, not CD40L.\n• <b style=\"color:#2563eb\">Option (3): Natural killer (NK) cells</b> - NK cells express activating and inhibitory killer receptors, but not primary helper CD40L.\n• <b style=\"color:#2563eb\">Option (4): Cytotoxic T lymphocyte</b> - CD8+ CTLs express cytolytic molecules like FasL and perforin; CD40L is predominantly a hallmark of CD4+ T helper cells."
+  },
+  {
+    "id": 14,
+    "question": "Natural killer (NK) cells recognize target cells for a cytotoxic response by which of the following mechanisms?",
+    "options": [
+      "Absence of major histocompatibility complex (MHC) Class II molecules",
+      "Absence of major histocompatibility complex (MHC) Class I molecules",
+      "Presence of major histocompatibility complex (MHC) Class II molecules",
+      "Absence of CD16 molecules"
+    ],
+    "correct_answer": "Absence of major histocompatibility complex (MHC) Class I molecules",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Absence of major histocompatibility complex (MHC) Class I molecules</b> is correct. NK cells operate under the classical 'missing self' hypothesis. Healthy nucleated cells express surface MHC Class I molecules that engage inhibitory killer cell immunoglobulin-like receptors (KIRs) on NK cells, overriding activation signals. When viral infection or malignant transformation downregulates Class I MHC expression to escape CTL killing, the inhibitory brake is released, triggering NK cell cytotoxicity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Absence of major histocompatibility complex (MHC) Class II molecules</b> - MHC Class II is restricted to professional APCs; its absence is normal on most body cells and does not trigger NK cells.\n• <b style=\"color:#2563eb\">Option (3): Presence of major histocompatibility complex (MHC) Class II molecules</b> - Class II MHC interacts with CD4+ T cells, not NK inhibitory receptors.\n• <b style=\"color:#2563eb\">Option (4): Absence of CD16 molecules</b> - CD16 (FcγRIII) is expressed on the NK cell itself to mediate ADCC; its absence on target cells does not stimulate cytotoxicity."
+  },
+  {
+    "id": 15,
+    "question": "T lymphocytes in a lymph node are concentrated in which of the following anatomical locations?",
+    "options": [
+      "Medulla",
+      "Paracortex adjacent to lymphoid follicle",
+      "Germinal centre of lymphoid follicle",
+      "Mantle zone of lymphoid follicle"
+    ],
+    "correct_answer": "Paracortex adjacent to lymphoid follicle",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Paracortex adjacent to lymphoid follicle</b> is correct. Within secondary lymphoid nodes, T lymphocytes are preferentially segregated into the paracortical zone (T-cell area) under the influence of chemokine gradients (such as CCL19 and CCL21 interacting with CCR7 on T cells). This enables high encounter rates with interdigitating dendritic cells for antigen sampling.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Medulla</b> - The medulla houses medullary cords consisting of plasma cells and macrophages.\n• <b style=\"color:#2563eb\">Option (3): Germinal centre of lymphoid follicle</b> - Germinal centers are occupied by dividing B lymphoblasts (centroblasts/centrocytes).\n• <b style=\"color:#2563eb\">Option (4): Mantle zone of lymphoid follicle</b> - The mantle zone surrounds the germinal center and consists of naive B lymphocytes."
+  },
+  {
+    "id": 16,
+    "question": "Toll-like receptors (TLRs) are a class of proteins that recognize specific molecules called ligands. Which of the following is a correct pairing of a Toll-like receptor and its corresponding ligand?",
+    "options": [
+      "TLR4 - Lipopolysaccharide (LPS)",
+      "TLR2 - Double-stranded DNA",
+      "TLR3 - Peptidoglycan",
+      "TLR5 - CpG DNA"
+    ],
+    "correct_answer": "TLR4 - Lipopolysaccharide (LPS)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): TLR4 - Lipopolysaccharide (LPS)</b> is correct. Toll-like receptor 4 (TLR4) specifically recognizes lipopolysaccharide (LPS or endotoxin), a major constituent of the outer membrane of Gram-negative bacteria, initiating signaling through MyD88 and TRIF cascades to drive pro-inflammatory gene expression.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): TLR2 - Double-stranded DNA</b> - TLR2 recognizes bacterial lipopeptides, lipoteichoic acid, and zymosan, not dsDNA.\n• <b style=\"color:#2563eb\">Option (3): TLR3 - Peptidoglycan</b> - TLR3 specifically detects viral double-stranded RNA (dsRNA).\n• <b style=\"color:#2563eb\">Option (4): TLR5 - CpG DNA</b> - TLR5 specifically recognizes bacterial flagellin, whereas unmethylated CpG DNA motifs are recognized by TLR9."
+  },
+  {
+    "id": 17,
+    "question": "How many different types of Toll-like receptors (TLRs) have been identified in humans?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "correct_answer": "10",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 10</b> is correct. Humans possess 10 functional Toll-like receptors, designated TLR1 through TLR10. (In mice, 12 functional TLRs have been identified, including TLR11, TLR12, and TLR13, whereas human TLR10 is pseudogenized/inactive in mice).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 5</b> - This represents only a subset of the TLR family.\n• <b style=\"color:#2563eb\">Option (3): 15</b> - Humans have only 10 functional TLR genes.\n• <b style=\"color:#2563eb\">Option (4): 20</b> - This number exceeds the total number of recognized TLRs in mammalian genomes."
+  },
+  {
+    "id": 18,
+    "question": "Toll-like receptors (TLRs) play a crucial role in:",
+    "options": [
+      "Innate immunity",
+      "Adaptive immunity",
+      "Both innate and adaptive immunity",
+      "Hematopoiesis"
+    ],
+    "correct_answer": "Both innate and adaptive immunity",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Both innate and adaptive immunity</b> is correct. While TLRs are quintessential pattern recognition receptors (PRRs) of the innate immune system that detect pathogen-associated molecular patterns (PAMPs), their activation on dendritic cells induces the upregulation of MHC Class II, co-stimulatory ligands (CD80/CD86), and polarizing cytokines (IL-12, IL-6), which are essential for bridging innate and adaptive immunity and initiating naive T-cell priming.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Innate immunity</b> - While TLRs function in innate immunity, designating innate immunity alone overlooks their indispensable role in triggering and directing adaptive immune responses.\n• <b style=\"color:#2563eb\">Option (2): Adaptive immunity</b> - TLRs are germline-encoded and lack somatic diversification, so they are not solely adaptive receptors.\n• <b style=\"color:#2563eb\">Option (4): Hematopoiesis</b> - Hematopoiesis is the generation of blood cells from stem cells, not the primary immunological function of TLRs."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following cell types is primarily produced in the bone marrow, functioning as key players in the immune system?",
+    "options": [
+      "B cells",
+      "T cells",
+      "Natural killer (NK) cells",
+      "Macrophages"
+    ],
+    "correct_answer": "B cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): B cells</b> is correct. B cells (Bursa-equivalent/bone-marrow-derived lymphocytes) undergo both initial generation and complete antigenic maturation within the red bone marrow microenvironment. In contrast, T cell progenitors must migrate to the thymus for their education and differentiation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): T cells</b> - While lymphoid progenitors originate in bone marrow, T cells undergo maturation and positive/negative selection in the thymus.\n• <b style=\"color:#2563eb\">Option (3): Natural killer (NK) cells</b> - NK cells mature in secondary lymphoid organs and liver as well as marrow, but B cells are the classical lymphocyte defined by bone marrow maturation.\n• <b style=\"color:#2563eb\">Option (4): Macrophages</b> - Macrophages develop from circulating monocytes that extravasate into tissues, not fully within bone marrow."
+  },
+  {
+    "id": 20,
+    "question": "The bone marrow provides an essential microenvironment for the development and maturation of immune cells through the secretion of:",
+    "options": [
+      "Cytokines",
+      "Antibodies",
+      "Chemokines",
+      "Complement proteins"
+    ],
+    "correct_answer": "Cytokines",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Cytokines</b> is correct. Bone marrow stromal cells, osteoblasts, and endothelial cells constitute the hematopoietic niche that secretes critical cytokines and growth factors (including IL-7, SCF/c-Kit ligand, Flt3L, and GM-CSF) necessary for the survival, proliferation, and commitment of hematopoietic and lymphoid progenitors.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Antibodies</b> - Antibodies are secreted by differentiated plasma cells to neutralize antigens, not to direct stem cell maturation.\n• <b style=\"color:#2563eb\">Option (3): Chemokines</b> - While CXCL12 (SDF-1) is involved in homing, cytokines encompass the comprehensive regulatory signals driving immune cell differentiation.\n• <b style=\"color:#2563eb\">Option (4): Complement proteins</b> - Complement proteins are synthesized predominantly by hepatocytes in the liver and circulate in plasma."
+  },
+  {
+    "id": 21,
+    "question": "The bone marrow acts as a reservoir for:",
+    "options": [
+      "Red blood cells",
+      "Platelets",
+      "White blood cells",
+      "All of the above"
+    ],
+    "correct_answer": "All of the above",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): All of the above</b> is correct. The red bone marrow is the primary site of hematopoiesis in adult mammals. It maintains substantial reserves and production niches for erythroid lineages (RBCs), megakaryocytes/platelets, and all myeloid and lymphoid lineages of leukocytes (white blood cells, particularly granulocyte reserves).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Red blood cells</b> - Bone marrow produces and reserves RBCs, but also produces platelets and WBCs.\n• <b style=\"color:#2563eb\">Option (2): Platelets</b> - Platelets are shed into marrow sinusoids, but marrow also produces the other blood lineages.\n• <b style=\"color:#2563eb\">Option (3): White blood cells</b> - The granulocyte marrow reserve contains massive numbers of mature neutrophils, but options 1 and 2 are also correct."
+  },
+  {
+    "id": 22,
+    "question": "Cell-mediated immunity is primarily mediated by which type of immune cells?",
+    "options": [
+      "B cells",
+      "T cells",
+      "Natural killer (NK) cells",
+      "Macrophages"
+    ],
+    "correct_answer": "T cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): T cells</b> is correct. Adaptive immunity is divided into humoral immunity (mediated by B cells and antibodies) and cell-mediated immunity (orchestrated and executed by T lymphocytes). CD4+ helper T cells secrete cytokines that coordinate effector actions, while CD8+ cytotoxic T lymphocytes directly bind and kill infected or malignant host cells.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): B cells</b> - B cells mediate humoral immunity through antibody secretion.\n• <b style=\"color:#2563eb\">Option (3): Natural killer (NK) cells</b> - NK cells are innate cytotoxic lymphocytes, not the primary drivers of adaptive cell-mediated immunity.\n• <b style=\"color:#2563eb\">Option (4): Macrophages</b> - Macrophages act as phagocytic effectors and antigen presenters under the instruction of T cells."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following types of T cells directly kills infected cells or tumor cells?",
+    "options": [
+      "Helper T cells",
+      "Regulatory T cells",
+      "Cytotoxic T cells",
+      "Memory T cells"
+    ],
+    "correct_answer": "Cytotoxic T cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Cytotoxic T cells</b> is correct. CD8+ cytotoxic T lymphocytes (CTLs) recognize foreign antigenic peptides presented on Class I MHC molecules on the surface of virus-infected or transformed tumor cells. Upon TCR engagement, CTLs release perforin (which forms pores) and granzymes (which cleave and activate pro-caspases), inducing targeted apoptotic cell death.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Helper T cells</b> - CD4+ T helper cells secrete cytokines to stimulate B cells and macrophages, but lack direct cytolytic machinery.\n• <b style=\"color:#2563eb\">Option (2): Regulatory T cells</b> - Tregs express FoxP3 and suppress immune responses to preserve self-tolerance.\n• <b style=\"color:#2563eb\">Option (4): Memory T cells</b> - Memory T cells are quiescent antigen-experienced cells that rapidly respond to re-exposure, requiring reactivation to exert effector cytotoxicity."
+  },
+  {
+    "id": 24,
+    "question": "Major Histocompatibility Complex (MHC) molecules are crucial for cell-mediated immunity because they:",
+    "options": [
+      "Present antigens to T cells",
+      "Produce cytokines",
+      "Engulf pathogens",
+      "Bind to antibodies"
+    ],
+    "correct_answer": "Present antigens to T cells",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Present antigens to T cells</b> is correct. Unlike B-cell receptors which can recognize soluble, native antigens, T-cell receptors (TCRs) can only recognize short linear peptide fragments bound within the peptide-binding cleft of Major Histocompatibility Complex (MHC) molecules on the surface of host cells (MHC restriction).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Produce cytokines</b> - Cytokines are produced by activated immune cells, not MHC glycoproteins.\n• <b style=\"color:#2563eb\">Option (3): Engulf pathogens</b> - Engulfment is carried out by phagocytic cells (macrophages and neutrophils).\n• <b style=\"color:#2563eb\">Option (4): Bind to antibodies</b> - Antibodies bind antigens or Fc receptors, not MHC peptide-binding grooves."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following molecules on T cells is essential for antigen recognition and interaction with antigen-presenting cells?",
+    "options": [
+      "Tumor necrosis factor (TNF)",
+      "Interleukin-2 (IL-2)",
+      "CD28",
+      "Interferon-gamma (IFN-gamma)"
+    ],
+    "correct_answer": "CD28",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): CD28</b> is correct. Full activation of naive T cells requires two distinct signals: Signal 1 is antigen recognition by the TCR-CD3 complex interacting with MHC-peptide, and Signal 2 is the mandatory co-stimulatory signal provided by CD28 on the T-cell surface binding to B7-1 (CD80) or B7-2 (CD86) on the APC. Without CD28 co-stimulation, T-cell interaction results in clonal anergy or apoptosis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Tumor necrosis factor (TNF)</b> - TNF is a soluble/transmembrane inflammatory cytokine, not a primary T-cell co-receptor for APC interaction.\n• <b style=\"color:#2563eb\">Option (2): Interleukin-2 (IL-2)</b> - IL-2 is an autocrine T-cell growth factor secreted after successful activation.\n• <b style=\"color:#2563eb\">Option (4): Interferon-gamma (IFN-gamma)</b> - IFN-gamma is an effector cytokine secreted by Th1 and NK cells to activate macrophages."
+  },
+  {
+    "id": 26,
+    "question": "The activation of helper T cells is crucial for cell-mediated immunity because they:",
+    "options": [
+      "Directly kill infected cells",
+      "Produce antibodies",
+      "Enhance phagocytosis",
+      "Coordinate immune responses"
+    ],
+    "correct_answer": "Coordinate immune responses",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Coordinate immune responses</b> is correct. CD4+ helper T cells serve as the central orchestrators or 'conductors' of adaptive immunity. Through specialized cytokine secretion and membrane-bound ligands (CD40L), they activate macrophages, license dendritic cells, assist CD8+ cytotoxic T-cell memory formation, and promote B-cell clonal expansion and class switching.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Directly kill infected cells</b> - Direct killing is the role of CD8+ CTLs and NK cells.\n• <b style=\"color:#2563eb\">Option (2): Produce antibodies</b> - Antibody synthesis is carried out exclusively by B lymphocytes and plasma cells.\n• <b style=\"color:#2563eb\">Option (3): Enhance phagocytosis</b> - While Th1-derived IFN-gamma activates phagocytes, the overarching role of helper T cells is comprehensive coordination of immune responses."
+  },
+  {
+    "id": 27,
+    "question": "The release of perforin and granzymes by cytotoxic T cells leads to:",
+    "options": [
+      "Activation of B cells",
+      "Phagocytosis of pathogens",
+      "Inflammation at the site of infection",
+      "Induction of target cell apoptosis"
+    ],
+    "correct_answer": "Induction of target cell apoptosis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Induction of target cell apoptosis</b> is correct. Cytotoxic T cells utilize directed granule exocytosis to eliminate virus-infected or abnormal cells. Perforin forms oligomeric pores in the target cell membrane, through which granzymes (particularly Granzyme B, a serine protease) enter to cleave Bid and pro-caspases (Caspase-3 and Caspase-7), triggering intrinsic and extrinsic apoptotic pathways and nuclear DNA fragmentation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Activation of B cells</b> - B-cell activation is mediated by antigen and CD4+ T helper cell signals, not cytolytic granzymes.\n• <b style=\"color:#2563eb\">Option (2): Phagocytosis of pathogens</b> - Perforin and granzymes kill infected cells directly rather than mediating phagocytosis.\n• <b style=\"color:#2563eb\">Option (3): Inflammation at the site of infection</b> - Apoptosis is intrinsically programmed, non-lytic, and anti-inflammatory to avoid collateral tissue destruction."
+  },
+  {
+    "id": 28,
+    "question": "Regulatory T cells (Tregs) play a crucial role in cell-mediated immunity by:",
+    "options": [
+      "Enhancing the proliferation of cytotoxic T cells",
+      "Suppressing immune responses to prevent excessive inflammation",
+      "Promoting antibody production by B cells",
+      "Directly killing infected cells"
+    ],
+    "correct_answer": "Suppressing immune responses to prevent excessive inflammation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Suppressing immune responses to prevent excessive inflammation</b> is correct. Regulatory T cells (Tregs, characterized by CD4+ CD25+ FoxP3+) maintain peripheral immune tolerance and limit collateral inflammatory damage. They suppress self-reactive or overactive effector T cells through contact inhibition (CTLA-4-mediated stripping of CD80/CD86 on APCs), secretion of inhibitory cytokines (IL-10, TGF-beta), and metabolic disruption (IL-2 consumption via high-affinity CD25).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Enhancing the proliferation of cytotoxic T cells</b> - Tregs inhibit rather than enhance effector CTL proliferation.\n• <b style=\"color:#2563eb\">Option (3): Promoting antibody production by B cells</b> - T follicular helper (Tfh) cells promote B cell antibody production; T follicular regulatory (Tfr) cells suppress it.\n• <b style=\"color:#2563eb\">Option (4): Directly killing infected cells</b> - Direct clearance of infected cells is mediated by CD8+ CTLs and NK cells."
+  }
+]

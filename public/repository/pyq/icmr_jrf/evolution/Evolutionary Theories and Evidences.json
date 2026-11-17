@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "Fossils are generally found in:",
+    "options": [
+      "Sedimentary rocks",
+      "Igneous rocks",
+      "Metamorphic rocks",
+      "Any type of rock"
+    ],
+    "correct_answer": "Sedimentary rocks",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Sedimentary rocks</b> is correct because sedimentary rocks (such as shale, limestone, and sandstone) form through the slow, sequential accumulation and lithification of mineral and organic particles in aquatic or terrestrial basins. This gentle depositional process preserves the morphology, bones, shells, and impressions of dead organisms without subjecting them to the extreme temperatures or pressures that destroy organic remains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Igneous rocks</b> - Formed by the cooling and crystallization of molten magma or lava (700°C–1200°C), which incinerates and obliterates any biological matter.\n• <b style=\"color:#2563eb\">Option (3): Metamorphic rocks</b> - Subjected to intense geological heat and tectonic shearing forces that deform, recrystallize, and destroy fossil traces.\n• <b style=\"color:#2563eb\">Option (4): Any type of rock</b> - Incorrect, as fossils are virtually restricted to sedimentary rocks."
+  },
+  {
+    "id": 2,
+    "question": "Which one of the following is an example for homology?",
+    "options": [
+      "Eye of octopus and mammals",
+      "Wings of butterfly and birds",
+      "Flippers of penguins and dolphins",
+      "Thorns of Bougainvillea and tendrils of Cucurbita"
+    ],
+    "correct_answer": "Flippers of penguins and dolphins",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Flippers of penguins and dolphins</b> is correct because homology refers to anatomical structures sharing a common evolutionary ancestral origin and fundamental skeletal plan, despite adaptations for specific locomotion. Both penguin wings/flippers (avian) and dolphin flippers (mammalian) are modified tetrapod forelimbs sharing homologous pentadactyl skeletal elements (humerus, radius, ulna, carpals, metacarpals, and phalanges).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Eye of octopus and mammals</b> - Classic example of analogy (convergent evolution) where complex camera eyes evolved independently from different embryonic tissue layers.\n• <b style=\"color:#2563eb\">Option (2): Wings of butterfly and birds</b> - Analogous flight structures; insect wings are cuticular foldings whereas bird wings are feathered modified forelimbs.\n• <b style=\"color:#2563eb\">Option (4): Thorns of Bougainvillea and tendrils of Cucurbita</b> - While also homologous in botanical morphology (both modified axillary stems), Option (3) is explicitly designated in the official examination key."
+  },
+  {
+    "id": 3,
+    "question": "Which scientist proposed the theory of natural selection?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Alfred Russel Wallace",
+      "Jean-Baptiste Lamarck"
+    ],
+    "correct_answer": "Charles Darwin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Charles Darwin</b> is correct because Charles Darwin formulated and comprehensively substantiated the theory of evolution by natural selection in his foundational 1859 treatise *On the Origin of Species*. Darwin proposed that phenotypic variations within populations that confer differential survival and reproductive success ('fitness') are preferentially passed on to subsequent generations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Gregor Mendel</b> - Discovered the laws of particulate genetic inheritance (segregation and independent assortment).\n• <b style=\"color:#2563eb\">Option (3): Alfred Russel Wallace</b> - Independently conceived the idea of natural selection and co-presented a paper with Darwin in 1858, but Darwin is universally designated as the primary proponent.\n• <b style=\"color:#2563eb\">Option (4): Jean-Baptiste Lamarck</b> - Proposed the theory of inheritance of acquired characteristics and use and disuse of organs."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is an example of artificial selection?",
+    "options": [
+      "The development of antibiotic resistance in bacteria",
+      "The beak variations in Galapagos finches",
+      "The domestication of dogs from wolves",
+      "The formation of fossils over time"
+    ],
+    "correct_answer": "The domestication of dogs from wolves",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The domestication of dogs from wolves</b> is correct because artificial selection (selective breeding) is the intentional human-directed breeding of organisms possessing desirable phenotypic traits. The transformation of ancestral gray wolves (*Canis lupus*) into hundreds of distinct domestic dog breeds (*Canis lupus familiaris*) over thousands of years is a classic example of artificial selection.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The development of antibiotic resistance in bacteria</b> - Natural selection driven by environmental antibiotic selective pressure.\n• <b style=\"color:#2563eb\">Option (2): The beak variations in Galapagos finches</b> - Natural selection driven by diverse food resource availability (adaptive radiation).\n• <b style=\"color:#2563eb\">Option (4): The formation of fossils over time</b> - A geological and taphonomic physical process, not a selective evolutionary mechanism."
+  },
+  {
+    "id": 5,
+    "question": "Which theory proposed that traits acquired during an organism's lifetime can be passed on to its offspring?",
+    "options": [
+      "Natural selection",
+      "Punctuated equilibrium",
+      "Inheritance of acquired characteristics",
+      "Genetic drift"
+    ],
+    "correct_answer": "Inheritance of acquired characteristics",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Inheritance of acquired characteristics</b> is correct because Lamarckism (formulated by Jean-Baptiste Lamarck in 1809) posited that physiological or morphological modifications acquired by an individual organism during its lifetime in response to environmental needs or through the use and disuse of organs are directly inherited by its progeny (later disproven by August Weismann's germplasm theory).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Natural selection</b> - Acts upon preexisting, heritable genetic variations present in germline cells.\n• <b style=\"color:#2563eb\">Option (2): Punctuated equilibrium</b> - Proposes that speciation occurs in rapid bursts separated by long stasis periods.\n• <b style=\"color:#2563eb\">Option (4): Genetic drift</b> - Involves stochastic, random fluctuations of allele frequencies in small populations."
+  },
+  {
+    "id": 6,
+    "question": "According to the theory of punctuated equilibrium, evolutionary change occurs:",
+    "options": [
+      "Gradually and continuously over time",
+      "In rapid bursts followed by long periods of stability",
+      "Through the inheritance of acquired characteristics",
+      "Randomly through genetic drift"
+    ],
+    "correct_answer": "In rapid bursts followed by long periods of stability",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): In rapid bursts followed by long periods of stability</b> is correct because the punctuated equilibrium model (proposed by Niles Eldredge and Stephen Jay Gould in 1972) states that species remain morphologically stable for long geological spans (periods of stasis or equilibrium), punctuated by brief, geologically rapid episodes of branching speciation (cladogenesis).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Gradually and continuously over time</b> - Describes phyletic gradualism (Darwin's classical view of slow, steady transformation).\n• <b style=\"color:#2563eb\">Option (3): Through the inheritance of acquired characteristics</b> - The tenet of Lamarckism.\n• <b style=\"color:#2563eb\">Option (4): Randomly through genetic drift</b> - Motoo Kimura's neutral theory focuses on stochastic neutral allele shifts, not punctuated macroevolution."
+  },
+  {
+    "id": 7,
+    "question": "The process by which two separate species evolve similar traits in response to similar environmental pressures is known as:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Coevolution",
+      "Parallel evolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because convergent evolution is the process whereby phylogenetically unrelated or distantly related lineages independently evolve analogous morphological or functional structures due to exposure to similar ecological niches and selective pressures (e.g., streamlined bodies in sharks and dolphins).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Occurs when related lineages accumulate differences from a common ancestor, leading to speciation.\n• <b style=\"color:#2563eb\">Option (3): Coevolution</b> - Reciprocal evolutionary adaptations between two interacting species (e.g., predator-prey or plant-pollinator).\n• <b style=\"color:#2563eb\">Option (4): Parallel evolution</b> - Independent evolution of similar traits in closely related lineages using similar developmental pathways."
+  },
+  {
+    "id": 8,
+    "question": "Which evolutionary theory proposes that evolution occurs in small, incremental steps over long periods of time?",
+    "options": [
+      "Punctuated equilibrium",
+      "Lamarckism",
+      "Gradualism",
+      "Genetic drift"
+    ],
+    "correct_answer": "Gradualism",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Gradualism</b> is correct because phyletic gradualism (championed by Charles Darwin and derived from Charles Lyell's geological uniformitarianism) asserts that evolutionary transformation proceeds slowly, continuously, and incrementally via the steady accumulation of minute beneficial mutations over vast geological timescales.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Punctuated equilibrium</b> - Asserts that morphological changes occur rapidly during brief speciation events interspersed between long periods of stasis.\n• <b style=\"color:#2563eb\">Option (2): Lamarckism</b> - Based on acquired characters from use/disuse, not incremental modern genetic selection.\n• <b style=\"color:#2563eb\">Option (4): Genetic drift</b> - Stochastic fluctuations of allele frequencies in small populations."
+  },
+  {
+    "id": 9,
+    "question": "The study of the distribution of species and ecosystems across geographic space and through geological time is called:",
+    "options": [
+      "Biogeography",
+      "Paleontology",
+      "Phylogenetics",
+      "Ecological succession"
+    ],
+    "correct_answer": "Biogeography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Biogeography</b> is correct because biogeography is the scientific study that documents and interprets the spatial distributions of biological organisms and ecological communities across continents, islands, and aquatic systems, and how these distributions change through geological time due to plate tectonics, dispersal, and vicariance.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Paleontology</b> - The study of ancient life through fossil remains preserved in geological strata.\n• <b style=\"color:#2563eb\">Option (3): Phylogenetics</b> - Reconstructs the genealogical branching history and evolutionary relationships among organisms.\n• <b style=\"color:#2563eb\">Option (4): Ecological succession</b> - The predictable, orderly replacement of ecological communities in an ecosystem over time."
+  },
+  {
+    "id": 10,
+    "question": "The evolutionary concept that describes the mechanism by which new species arise from a common ancestor is called:",
+    "options": [
+      "Adaptive radiation",
+      "Gene flow",
+      "Genetic drift",
+      "Speciation"
+    ],
+    "correct_answer": "Speciation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Speciation</b> is correct because speciation is the fundamental evolutionary lineage-splitting process whereby reproductive isolation evolves between previously interbreeding populations of a species, ultimately giving rise to two or more genetically distinct, reproductively isolated descendant species (allopatric, sympatric, parapatric, or peripatric).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Adaptive radiation</b> - A rapid diversification of multiple specialized species from an ancestral lineage filling distinct ecological niches.\n• <b style=\"color:#2563eb\">Option (2): Gene flow</b> - The transfer of genetic material between populations, which reduces genetic divergence and impedes speciation.\n• <b style=\"color:#2563eb\">Option (3): Genetic drift</b> - Random allele frequency sampling fluctuations in finite populations."
+  },
+  {
+    "id": 11,
+    "question": "The concept of \"survival of the fittest\" is closely associated with which evolutionary theory?",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Punctuated equilibrium",
+      "Convergent evolution"
+    ],
+    "correct_answer": "Natural selection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Natural selection</b> is correct because the phrase 'survival of the fittest' (originally coined by philosopher Herbert Spencer and adopted by Darwin in the 5th edition of *Origin of Species*) describes the core dynamic of natural selection, wherein organisms possessing genotypes that confer higher reproductive fitness in a specific environment leave more surviving offspring.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Genetic drift</b> - A non-adaptive, stochastic evolutionary mechanism independent of selective fitness.\n• <b style=\"color:#2563eb\">Option (3): Punctuated equilibrium</b> - A macroevolutionary pattern regarding the temporal tempo of morphological change.\n• <b style=\"color:#2563eb\">Option (4): Convergent evolution</b> - The process of independent acquisition of similar phenotypes in unrelated lineages."
+  },
+  {
+    "id": 12,
+    "question": "Which type of selection favors individuals at both extremes of a trait's range, leading to the reduction of intermediate forms?",
+    "options": [
+      "Directional selection",
+      "Stabilizing selection",
+      "Disruptive selection",
+      "Sexual selection"
+    ],
+    "correct_answer": "Disruptive selection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Disruptive selection</b> is correct because disruptive (or diversifying) natural selection simultaneously favors individuals displaying both phenotypic extremes of a continuous trait distribution while selecting against intermediate (median) phenotypes. Over generations, this creates a bimodal trait distribution and can drive sympatric speciation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Directional selection</b> - Favors one extreme phenotype over all others, shifting the population mean in that direction.\n• <b style=\"color:#2563eb\">Option (2): Stabilizing selection</b> - Favors intermediate phenotypes and culls extremes, narrowing phenotypic variance without shifting the mean.\n• <b style=\"color:#2563eb\">Option (4): Sexual selection</b> - Selection driven by mate choice competition or intrasexual combat."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a direct evidence of evolution?",
+    "options": [
+      "Fossils",
+      "Homologous structures",
+      "DNA sequencing",
+      "Comparative embryology"
+    ],
+    "correct_answer": "Fossils",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Fossils</b> is correct because fossils represent direct, tangible paleontological physical records and anatomical remains of past living organisms preserved in sequential geological rock strata. They provide chronological physical evidence of ancestral life forms and transitional evolutionary series (e.g., *Archaeopteryx*, horse evolution).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Homologous structures</b> - Provide comparative anatomical and morphological evidence inferring common ancestry.\n• <b style=\"color:#2563eb\">Option (3): DNA sequencing</b> - Provides molecular homology evidence derived from living species.\n• <b style=\"color:#2563eb\">Option (4): Comparative embryology</b> - Provides developmental evidence showing conserved phylotypic stages."
+  },
+  {
+    "id": 14,
+    "question": "The presence of similar bone structures in the forelimbs of mammals, such as bats, whales, and humans, is an example of:",
+    "options": [
+      "Analogous structures",
+      "Vestigial structures",
+      "Homologous structures",
+      "Convergent structures"
+    ],
+    "correct_answer": "Homologous structures",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Homologous structures</b> is correct because the forelimbs of humans (grasping), bats (flying), whales (swimming), and horses (running) all possess the exact same underlying pentadactyl anatomical framework (humerus, radius, ulna, carpals, metacarpals, and phalanges), having evolved from a shared primitive tetrapod ancestor by divergent evolution.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Analogous structures</b> - Structures that share similar functions but have distinct evolutionary origins (e.g., bat wings and insect wings).\n• <b style=\"color:#2563eb\">Option (2): Vestigial structures</b> - Rudimentary, degenerate anatomical structures that have lost their ancestral functional utility.\n• <b style=\"color:#2563eb\">Option (4): Convergent structures</b> - Phenotypic similarities arising through convergent evolution in unrelated lineages."
+  },
+  {
+    "id": 15,
+    "question": "The occurrence of antibiotic resistance in bacteria is an example of:",
+    "options": [
+      "Natural selection",
+      "Genetic drift",
+      "Mutation",
+      "Genetic recombination"
+    ],
+    "correct_answer": "Natural selection",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Natural selection</b> is correct because when a bacterial population is exposed to an antibiotic, individuals carrying pre-existing or acquired resistance alleles (e.g., beta-lactamase enzymes or efflux pumps) survive while susceptible cells are killed. The resistant variants reproduce and rapidly dominate the population, serving as a prime observable example of rapid natural selection.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Genetic drift</b> - Involves random sampling fluctuations, whereas antibiotic resistance is strictly driven by strong directional selective pressure.\n• <b style=\"color:#2563eb\">Option (3): Mutation</b> - Mutation creates initial novel genetic variation, but natural selection directs the dramatic population-wide rise in resistance frequency.\n• <b style=\"color:#2563eb\">Option (4): Genetic recombination</b> - Horizontal gene transfer transfers resistance genes, but antibiotic exposure exerts the selective force."
+  },
+  {
+    "id": 16,
+    "question": "The presence of non-functional structures in organisms, such as the appendix in humans, is an example of:",
+    "options": [
+      "Homologous structures",
+      "Vestigial structures",
+      "Analogous structures",
+      "Adaptive structures"
+    ],
+    "correct_answer": "Vestigial structures",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Vestigial structures</b> is correct because vestigial structures (such as the human vermiform appendix, coccyx, plica semilunaris, and pelvic remnants in whales) are anatomical features that have substantially lost their original ancestral function through evolutionary reduction, serving as remnants of historical ancestral anatomy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Homologous structures</b> - Broad category of traits sharing common ancestry, whether fully functional or modified.\n• <b style=\"color:#2563eb\">Option (3): Analogous structures</b> - Structures performing similar functions that evolved independently in unrelated lineages.\n• <b style=\"color:#2563eb\">Option (4): Adaptive structures</b> - Actively functional structures evolved to enhance immediate organismal fitness."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a molecular evidence of evolution?",
+    "options": [
+      "Fossils",
+      "Comparative anatomy",
+      "DNA sequencing",
+      "Adaptive radiation"
+    ],
+    "correct_answer": "DNA sequencing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): DNA sequencing</b> is correct because comparative DNA sequencing directly decodes genetic information at the molecular level. Quantifying nucleotide sequence similarities, conserved coding exons, pseudogenes, and molecular clock mutations provides unambiguous molecular proof of common descent across the tree of life.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Fossils</b> - Paleontological physical evidence.\n• <b style=\"color:#2563eb\">Option (2): Comparative anatomy</b> - Macro-morphological anatomical evidence.\n• <b style=\"color:#2563eb\">Option (4): Adaptive radiation</b> - An ecological and evolutionary macro-pattern of speciation."
+  },
+  {
+    "id": 18,
+    "question": "The study of similar early developmental stages in different species, such as the presence of gill slits in fish and human embryos, is known as:",
+    "options": [
+      "Biogeography",
+      "Comparative genomics",
+      "Comparative embryology",
+      "Paleontology"
+    ],
+    "correct_answer": "Comparative embryology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Comparative embryology</b> is correct because comparative embryology is the scientific study comparing the embryonic developmental stages across diverse species. Vertebrate embryos share remarkable conserved anatomical features during the phylotypic stage (e.g., pharyngeal pouches/gill slits, notochord, dorsal hollow nerve cord, post-anal tail), reflecting shared ancestry.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Biogeography</b> - Spatial and geographic distribution of organisms.\n• <b style=\"color:#2563eb\">Option (2): Comparative genomics</b> - Computational analysis of whole genome sequences across taxa.\n• <b style=\"color:#2563eb\">Option (4): Paleontology</b> - Scientific study of fossils and prehistoric life forms."
+  },
+  {
+    "id": 19,
+    "question": "The observation that different species living in similar environments often develop similar traits is known as:",
+    "options": [
+      "Analogous evolution",
+      "Convergent evolution",
+      "Divergent evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Convergent evolution</b> is correct because convergent evolution occurs when unrelated organisms occupying similar habitats or ecological niches independently evolve analogous morphological or physiological traits in response to shared environmental selection pressures (e.g., succulent water-storing stems in cacti and desert euphorbias).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Analogous evolution</b> - Not a formal biological evolutionary term; analogous structures are the product of convergent evolution.\n• <b style=\"color:#2563eb\">Option (3): Divergent evolution</b> - The process where related populations accumulate differences from a common ancestor.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Reciprocal evolutionary change between interacting mutualistic or antagonistic species."
+  },
+  {
+    "id": 20,
+    "question": "The occurrence of genetic similarities between different species that suggest a common ancestry is known as:",
+    "options": [
+      "Genetic drift",
+      "Gene flow",
+      "Genetic recombination",
+      "Homology"
+    ],
+    "correct_answer": "Homology",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Homology</b> is correct because homology refers to any correspondence, similarity, or identity between characters (anatomical, developmental, or molecular genetic sequences) in different species that is derived from their shared common ancestry.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genetic drift</b> - Stochastic fluctuations in allele frequencies in finite populations.\n• <b style=\"color:#2563eb\">Option (2): Gene flow</b> - The transfer of alleles between populations via migration.\n• <b style=\"color:#2563eb\">Option (3): Genetic recombination</b> - The shuffling of alleles during meiotic crossing over."
+  },
+  {
+    "id": 21,
+    "question": "The concept of \"biogeography\" refers to the study of:",
+    "options": [
+      "Genetic variation within populations",
+      "Geological processes shaping the Earth's surface",
+      "The distribution of species across geographic regions",
+      "Fossil record and ancient life forms"
+    ],
+    "correct_answer": "The distribution of species across geographic regions",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): The distribution of species across geographic regions</b> is correct because biogeography is the specialized biological discipline examining how and why species, communities, and ecosystems are distributed across geographic landscapes and marine realms through space and historical time.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genetic variation within populations</b> - The domain of population genetics.\n• <b style=\"color:#2563eb\">Option (2): Geological processes shaping the Earth's surface</b> - The domain of physical geology and geomorphology.\n• <b style=\"color:#2563eb\">Option (4): Fossil record and ancient life forms</b> - The domain of paleontology."
+  },
+  {
+    "id": 22,
+    "question": "The observation that species found on islands often resemble species found on the nearest mainland is an example of:",
+    "options": [
+      "Adaptive radiation",
+      "Genetic drift",
+      "Continental drift",
+      "Island biogeography"
+    ],
+    "correct_answer": "Island biogeography",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Island biogeography</b> is correct because the theory of island biogeography (established by Robert MacArthur and E.O. Wilson) and classical Darwinian observations document that oceanic island biotas are derived from mainland colonizers that dispersed across maritime barriers and subsequently diversified in isolation while retaining clear phylogenetic affinities to nearest mainland relatives.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Adaptive radiation</b> - The rapid speciation of descendants into diverse ecological niches once on the island; the biogeographic pattern itself is island biogeography.\n• <b style=\"color:#2563eb\">Option (2): Genetic drift</b> - The stochastic sampling of alleles in finite populations.\n• <b style=\"color:#2563eb\">Option (3): Continental drift</b> - Large-scale movement of tectonic plates over geological epochs."
+  }
+]

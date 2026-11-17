@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "The type of cleavage found in mammalian embryo is:",
+    "options": [
+      "Planar cleavage",
+      "Unequal cleavage",
+      "Rotational cleavage",
+      "Radial cleavage"
+    ],
+    "correct_answer": "Rotational cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Rotational cleavage</b> is correct. Mammalian eggs undergo rotational holoblastic cleavage. In the first cleavage, the zygote divides meridionally. In the second cleavage, one blastomere divides meridionally while the other divides equatorially at a 90° angle relative to the first (hence 'rotational'). Furthermore, cleavage divisions are marked by slow speed, asynchronous blastomere divisions, early activation of the embryonic genome, and compaction at the 8-cell stage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Planar cleavage</b> - Planar cleavage is not a recognized mammalian embryonic cleavage pattern.\n• <b style=\"color:#2563eb\">Option (2): Unequal cleavage</b> - Early mammalian blastomeres are roughly equal in size before compaction.\n• <b style=\"color:#2563eb\">Option (4): Radial cleavage</b> - Radial holoblastic cleavage is typical of echinoderms (sea urchins) and amphibians, where cleavage planes are parallel or perpendicular to the animal-vegetal axis."
+  },
+  {
+    "id": 2,
+    "question": "Which pole of the egg undergoes faster cellular divisions?",
+    "options": [
+      "The animal pole",
+      "The vegetal pole",
+      "Both poles undergo divisions at the same rate",
+      "The question does not provide enough information"
+    ],
+    "correct_answer": "The animal pole",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): The animal pole</b> is correct. In telolecithal and mesolecithal eggs (such as frog and fish eggs), yolk is concentrated predominantly in the vegetal hemisphere. Because dense yolk platelets physically impede the progression of the contractile actomyosin cleavage furrow, cell division proceeds significantly faster in the relatively yolk-poor animal pole, resulting in numerous smaller animal micromeres and fewer, larger vegetal macromeres.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The vegetal pole</b> - Dense yolk cushions slow cytokinesis in the vegetal hemisphere.\n• <b style=\"color:#2563eb\">Option (3): Both poles undergo divisions at the same rate</b> - Asymmetric yolk distribution creates pronounced division rate differentials between the poles.\n• <b style=\"color:#2563eb\">Option (4): The question does not provide enough information</b> - Egg polarity and yolk inhibition of furrowing are universally established embryological principles."
+  },
+  {
+    "id": 3,
+    "question": "What is the term used to describe eggs with sparse, equally distributed yolk?",
+    "options": [
+      "Isolecithal",
+      "Holoblastic",
+      "Vegetal pole",
+      "Voracious larval form"
+    ],
+    "correct_answer": "Isolecithal",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Isolecithal</b> is correct. Isolecithal (or oligolecithal/homolecithal) eggs contain a very small amount of yolk that is evenly and symmetrically dispersed throughout the ooplasm. Classic examples include sea urchins, tunicates, lancelets (*Amphioxus*), and eutherian mammals. Because yolk does not impede furrowing, isolecithal eggs undergo complete (holoblastic) cleavage.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Holoblastic</b> - Holoblastic refers to complete cleavage encompassing the whole egg, which is a cleavage mode rather than the yolk distribution term.\n• <b style=\"color:#2563eb\">Option (3): Vegetal pole</b> - The vegetal pole is the yolk-rich hemisphere of an egg opposite the animal pole.\n• <b style=\"color:#2563eb\">Option (4): Voracious larval form</b> - Refers to feeding larval ecology, not yolk classification."
+  },
+  {
+    "id": 4,
+    "question": "Which type of cleavage extends through the entire egg?",
+    "options": [
+      "Holoblastic cleavage",
+      "Meroblastic cleavage",
+      "Isolecithal cleavage",
+      "Vegetal cleavage"
+    ],
+    "correct_answer": "Holoblastic cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Holoblastic cleavage</b> is correct. Holoblastic (complete) cleavage occurs when the cleavage furrow cuts entirely through the whole diameter and volume of the fertilized egg, completely partitioning the zygote into discrete individual blastomeres. It is characteristic of eggs containing sparse or moderate yolk (isolecithal and mesolecithal eggs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Meroblastic cleavage</b> - Meroblastic (incomplete) cleavage occurs when large masses of yolk prevent cleavage furrows from penetrating through the entire egg.\n• <b style=\"color:#2563eb\">Option (3): Isolecithal cleavage</b> - 'Isolecithal' describes egg yolk distribution, not a cleavage type.\n• <b style=\"color:#2563eb\">Option (4): Vegetal cleavage</b> - Vegetal refers to polarity, not a formal embryological cleavage category."
+  },
+  {
+    "id": 5,
+    "question": "In zygotes containing large accumulations of yolk, which type of cleavage occurs?",
+    "options": [
+      "Holoblastic cleavage",
+      "Meroblastic cleavage",
+      "Isolecithal cleavage",
+      "Vegetal cleavage"
+    ],
+    "correct_answer": "Meroblastic cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Meroblastic cleavage</b> is correct. In telolecithal (birds, reptiles, fish) and centrolecithal (insects) eggs containing immense quantities of yolk, the viscous yolk mass cannot be cleaved by the contractile ring. Consequently, cleavage is incomplete or meroblastic: cytokinesis is restricted to the yolk-free cytoplasmic disc at the animal pole (discoidal) or periphery (superficial).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Holoblastic cleavage</b> - Holoblastic cleavage is inhibited by massive yolk reserves.\n• <b style=\"color:#2563eb\">Option (3): Isolecithal cleavage</b> - Isolecithal refers to low, uniform yolk eggs that undergo holoblastic cleavage.\n• <b style=\"color:#2563eb\">Option (4): Vegetal cleavage</b> - Not a recognized biological cleavage classification."
+  },
+  {
+    "id": 6,
+    "question": "What type of cleavage occurs in insect eggs?",
+    "options": [
+      "Holoblastic cleavage",
+      "Meroblastic cleavage",
+      "Superficial cleavage",
+      "Discoidal cleavage"
+    ],
+    "correct_answer": "Superficial cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Superficial cleavage</b> is correct. Insect eggs (*Drosophila*) are centrolecithal, possessing a vast central core of yolk surrounded by a thin rim of yolk-free cortical cytoplasm. The zygote nucleus undergoes multiple rounds of rapid syncytial nuclear divisions without cytokinesis. The nuclei then migrate outward to the cortex (syncytial blastoderm), where individual plasma membranes invaginate simultaneously around each nucleus to form a cellular blastoderm at the periphery (superficial cleavage).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Holoblastic cleavage</b> - Centrolecithal insect eggs cannot undergo complete division through the central yolk.\n• <b style=\"color:#2563eb\">Option (2): Meroblastic cleavage</b> - While superficial cleavage is a subcategory of meroblastic, Option (3) is the specific and accurate classification.\n• <b style=\"color:#2563eb\">Option (4): Discoidal cleavage</b> - Discoidal cleavage occurs at the animal cap of telolecithal fish, reptile, and avian eggs."
+  },
+  {
+    "id": 7,
+    "question": "What type of cleavage occurs in the eggs of birds and fish?",
+    "options": [
+      "Holoblastic cleavage",
+      "Meroblastic cleavage",
+      "Isolecithal cleavage",
+      "Discoidal cleavage"
+    ],
+    "correct_answer": "Discoidal cleavage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Discoidal cleavage</b> is correct. Avian and teleost fish eggs are extremely telolecithal (macrolecithal), where virtually the entire egg is occupied by yolk. Cleavage divisions cannot penetrate the yolk and are strictly confined to a small disc of yolk-free cytoplasm situated at the animal pole (the blastodisc), producing a cap of cells termed the blastoderm (discoidal meroblastic cleavage).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Holoblastic cleavage</b> - Holoblastic cleavage is prevented by the dense yolk mass.\n• <b style=\"color:#2563eb\">Option (2): Meroblastic cleavage</b> - Discoidal cleavage is the specific type of meroblastic cleavage in birds and fish.\n• <b style=\"color:#2563eb\">Option (3): Isolecithal cleavage</b> - Avian and fish eggs are macrolecithal/telolecithal, not isolecithal."
+  },
+  {
+    "id": 8,
+    "question": "Which type of cell movement is characterized by individual cells migrating inward from the surface towards the interior of the embryo during gastrulation?",
+    "options": [
+      "Epiboly",
+      "Involution",
+      "Ingression",
+      "Delamination"
+    ],
+    "correct_answer": "Ingression",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Ingression</b> is correct. Ingression is the morphogenetic gastrulation movement whereby individual epithelial cells undergo an epithelial-to-mesenchymal transition (EMT), detach from an external cellular sheet, and migrate independently into the blastocoel or interior of the embryo. Classic examples include the ingression of primary mesenchyme cells (PMCs) in sea urchin blastulae and epiblast cells ingressing through the primitive streak in avian and mammalian embryos.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Epiboly</b> - Epiboly is the thinning and spreading of an epithelial sheet to cover deeper layers of the embryo.\n• <b style=\"color:#2563eb\">Option (2): Involution</b> - Involution is the rolling of an expanding outer sheet of cells over an internal margin or rim.\n• <b style=\"color:#2563eb\">Option (4): Delamination</b> - Delamination is the splitting of one cellular sheet into two parallel sheets."
+  },
+  {
+    "id": 9,
+    "question": "Which type of cell movement involves the spreading of cells to cover a larger surface area during gastrulation?",
+    "options": [
+      "Epiboly",
+      "Involution",
+      "Ingression",
+      "Delamination"
+    ],
+    "correct_answer": "Epiboly",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Epiboly</b> is correct. Epiboly is the morphogenetic movement during gastrulation wherein an epithelial sheet of cells (most commonly prospective ectoderm) flattens, thins, undergoes radial intercalation, and expands dramatically across the outer surface of the embryo to enclose deeper mesodermal and endodermal germ layers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Involution</b> - Involution is the inward inturning of an expanding epithelial sheet over a lip (e.g., amphibian dorsal blastopore lip).\n• <b style=\"color:#2563eb\">Option (3): Ingression</b> - Ingression is the inward migration of single individual mesenchymal cells.\n• <b style=\"color:#2563eb\">Option (4): Delamination</b> - Delamination is the horizontal separation of a single layer into two distinct sheets."
+  },
+  {
+    "id": 10,
+    "question": "Which type of cell movement involves the inward movement of a sheet or layer of cells during gastrulation?",
+    "options": [
+      "Epiboly",
+      "Involution",
+      "Ingression",
+      "Delamination"
+    ],
+    "correct_answer": "Involution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Involution</b> is correct. Involution is the rolling-in or inward rotation of an expanding coherent epithelial sheet of cells over the interior surface of an outer layer of cells. A classic paradigm occurs during amphibian gastrulation, where prospective mesodermal cells roll inward over the dorsal lip of the blastopore to line the inner roof of the blastocoel.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Epiboly</b> - Epiboly is the external outward spreading of an epithelial sheet.\n• <b style=\"color:#2563eb\">Option (3): Ingression</b> - Ingression is the movement of individual solitary cells, not an intact sheet.\n• <b style=\"color:#2563eb\">Option (4): Delamination</b> - Delamination is the splitting of a sheet into parallel laminas."
+  },
+  {
+    "id": 11,
+    "question": "Which germ layer gives rise to the brain and nervous system in the chick embryo?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Epidermis"
+    ],
+    "correct_answer": "Ectoderm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ectoderm</b> is correct. In amniotes including the chick embryo, the dorsal ectoderm is induced by underlying axial mesoderm (notochord/organizer) during primary neurulation to form the neural plate. The neural plate invaginates, folds, and fuses into the neural tube, giving rise to the central nervous system—the brain and spinal cord—as well as neural crest cells that form the peripheral nervous system.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Endoderm</b> - Endoderm forms the epithelial lining of the digestive and respiratory systems and associated glands.\n• <b style=\"color:#2563eb\">Option (3): Mesoderm</b> - Mesoderm forms muscles, skeleton, circulatory system, and urogenital organs.\n• <b style=\"color:#2563eb\">Option (4): Epidermis</b> - Epidermis is a tissue derivative of non-neural ectoderm, not a primary germ layer."
+  },
+  {
+    "id": 12,
+    "question": "Which germ layer becomes the innermost layer of the embryo and gives rise to the epithelium of the digestive tube and associated organs?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Epidermis"
+    ],
+    "correct_answer": "Endoderm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Endoderm</b> is correct. The endoderm (the innermost embryonic germ layer) forms the epithelial lining of the primitive gut tube (foregut, midgut, hindgut) and its glandular evaginations, including the pharyngeal pouches, thyroid, parathyroids, thymus, lung bronchi and alveoli, liver, gallbladder, and pancreas.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ectoderm</b> - Ectoderm is the outermost layer giving rise to epidermis and the nervous system.\n• <b style=\"color:#2563eb\">Option (3): Mesoderm</b> - Mesoderm is the middle layer giving rise to connective tissue, muscle, blood, and bones.\n• <b style=\"color:#2563eb\">Option (4): Epidermis</b> - Epidermis is the outer protective layer of skin derived from surface ectoderm."
+  },
+  {
+    "id": 13,
+    "question": "Which germ layer generates the blood, heart, kidney, bones, muscles, and connective tissues in the chick embryo?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Epidermis"
+    ],
+    "correct_answer": "Mesoderm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Mesoderm</b> is correct. The mesoderm (middle germ layer) is subdivided into:\n• **Chordamesoderm:** forms the notochord.\n• **Paraxial mesoderm:** forms somites (sclerotome for axial skeleton/bones, myotome for skeletal muscles, dermatome for dermis).\n• **Intermediate mesoderm:** forms the urogenital system (kidneys, gonads, ducts).\n• **Lateral plate mesoderm:** forms the heart, blood vessels, blood cells, and visceral connective tissue.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ectoderm</b> - Ectoderm generates neural tissue, neural crest, and epidermis.\n• <b style=\"color:#2563eb\">Option (2): Endoderm</b> - Endoderm generates gut tube mucosal epithelium and glandular parenchyma.\n• <b style=\"color:#2563eb\">Option (4): Epidermis</b> - Epidermis is an ectodermal epithelial tissue."
+  },
+  {
+    "id": 14,
+    "question": "Which germ layer produces the surface layer (epidermis) of the skin in the chick embryo?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Epidermis"
+    ],
+    "correct_answer": "Ectoderm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Ectoderm</b> is correct. The non-neural surface ectoderm, which remains on the embryonic exterior following neural tube invagination and closure, differentiates into the stratified squamous keratinized epithelium of the skin (the epidermis), as well as its cutaneous appendages including feathers, hair, claws, nails, and sebaceous and sweat glands.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Endoderm</b> - Endoderm produces the internal mucosal epithelium of the gastrointestinal and respiratory tracts.\n• <b style=\"color:#2563eb\">Option (3): Mesoderm</b> - Mesoderm produces the deeper dermal layer of the skin (dermis), not the epidermis.\n• <b style=\"color:#2563eb\">Option (4): Epidermis</b> - Epidermis is the differentiated tissue product, not the parent embryonic germ layer."
+  },
+  {
+    "id": 15,
+    "question": "Which germ layer gives rise to the gonads in the chick embryo?",
+    "options": [
+      "Ectoderm",
+      "Endoderm",
+      "Mesoderm",
+      "Epidermis"
+    ],
+    "correct_answer": "Mesoderm",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Mesoderm</b> is correct. In avian and vertebrate development, the somatic components of the gonads (testes or ovaries, including Leydig cells, Sertoli cells, and follicular granulose cells) arise from the genital ridges derived from the **intermediate mesoderm** (and overlying coelomic epithelium). Primordial germ cells migrate from extraembryonic endoderm into these mesodermal genital ridges.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Ectoderm</b> - Ectoderm generates neural tissue and epidermis.\n• <b style=\"color:#2563eb\">Option (2): Endoderm</b> - Endoderm forms the gut and gut-derived organs; while PGCs originate nearby in some species, gonad somatic tissue is mesodermal.\n• <b style=\"color:#2563eb\">Option (4): Epidermis</b> - Epidermis is cutaneous surface ectoderm."
+  },
+  {
+    "id": 16,
+    "question": "Autonomous specification refers to cell fate determination that is intrinsic and independent of external signals. Which of the following statements is true regarding autonomous specification?",
+    "options": [
+      "It relies on signaling from neighboring cells.",
+      "It is dependent on external cues and environmental factors.",
+      "It is determined by intrinsic factors and gene expression within the cell.",
+      "It occurs only in adult tissue regeneration."
+    ],
+    "correct_answer": "It is determined by intrinsic factors and gene expression within the cell.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It is determined by intrinsic factors and gene expression within the cell</b> is correct. Autonomous specification (mosaic development) is driven by the unequal asymmetric segregation of maternally deposited cytoplasmic determinants (specific mRNAs and transcription factors) into distinct blastomeres during cleavage. Even if an autonomously specified blastomere is isolated from the embryo, it differentiates into its predetermined cell types without requiring inductive cell-cell communication.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It relies on signaling from neighboring cells</b> - Dependency on neighboring cell interactions is conditional (regulative) specification.\n• <b style=\"color:#2563eb\">Option (2): It is dependent on external cues and environmental factors</b> - Autonomous fate execution is cell-intrinsic and operates independently of external cues.\n• <b style=\"color:#2563eb\">Option (4): It occurs only in adult tissue regeneration</b> - It is a foundational mode of early embryonic cell specification, especially prominent in invertebrates."
+  },
+  {
+    "id": 17,
+    "question": "During autonomous specification, cells acquire their fate based on:",
+    "options": [
+      "Interactions with neighboring cells.",
+      "Environmental cues and signals.",
+      "Differential gene expression and regulatory factors.",
+      "Random cell division."
+    ],
+    "correct_answer": "Differential gene expression and regulatory factors.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Differential gene expression and regulatory factors</b> is correct. Autonomous specification is mediated by morphogenetic cytoplasmic determinants (such as *macho-1* in ascidians or *bicoid/nanos* in insects) that are differentially distributed during cleavage. These regulatory factors act as localized transcription factors or translational regulators, initiating lineage-specific differential gene expression programs within designated blastomeres.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Interactions with neighboring cells</b> - Neighborhood signaling directs conditional specification, not autonomous specification.\n• <b style=\"color:#2563eb\">Option (2): Environmental cues and signals</b> - Environmental cues mediate phenotypic plasticity, whereas autonomous specification is genetically hardwired and cell-intrinsic.\n• <b style=\"color:#2563eb\">Option (4): Random cell division</b> - Cleavage planes and determinant segregation are precisely choreographed, not random."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following developmental processes is commonly associated with autonomous specification?",
+    "options": [
+      "Morphogenesis",
+      "Cell migration",
+      "Stem cell differentiation",
+      "Tissue repair"
+    ],
+    "correct_answer": "Morphogenesis",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Morphogenesis</b> is correct. Autonomous specification dictates the invariant early spatial patterning and structural organization of tissues and organ primordia (morphogenesis) in mosaic embryos (e.g., ascidians, ctenophores, and spiralians), establishing early body plans and axes.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cell migration</b> - Cell migration typically relies heavily on extrinsic guidance cues (chemotaxis, haptotaxis).\n• <b style=\"color:#2563eb\">Option (3): Stem cell differentiation</b> - Adult stem cells depend extensively on external niche signals (conditional specification).\n• <b style=\"color:#2563eb\">Option (4): Tissue repair</b> - Regenerative tissue repair is guided by injury-induced inflammatory signals and microenvironmental cues."
+  },
+  {
+    "id": 19,
+    "question": "Autonomous specification is observed in the development of:",
+    "options": [
+      "Embryos of various animal species",
+      "Adult neurons in the brain",
+      "Muscle cells in the heart",
+      "Cancerous cells"
+    ],
+    "correct_answer": "Adult neurons in the brain",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Adult neurons in the brain</b> is designated in the answer key (biologically, autonomous specification is predominantly recognized in early mosaic embryos of invertebrates like tunicates, nematodes, and molluscs where isolated blastomeres form their programmed structures; in neurobiology, intrinsic post-mitotic transcription factor codes also autonomously maintain terminal neuronal subtypes).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Embryos of various animal species</b> - While embryos classically exhibit autonomous specification, Option (2) is designated in the official key.\n• <b style=\"color:#2563eb\">Option (3): Muscle cells in the heart</b> - Cardiomyocyte specification relies on conditional paracrine signals (BMPs, FGFs) from endoderm.\n• <b style=\"color:#2563eb\">Option (4): Cancerous cells</b> - Neoplastic cells show dysregulated signaling rather than programmed autonomous developmental specification."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following accurately describes the distribution of cells in the morula?",
+    "options": [
+      "The internal cells become trophoblast cells, while the external cells give rise to the inner cell mass.",
+      "The external cells become trophoblast cells, while the internal cells form the inner cell mass.",
+      "The morula consists of a uniform distribution of cells with no distinction between internal and external cells.",
+      "The morula consists of a single cell type, which later differentiates into both trophoblast cells and the inner cell mass."
+    ],
+    "correct_answer": "The external cells become trophoblast cells, while the internal cells form the inner cell mass.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): The external cells become trophoblast cells, while the internal cells form the inner cell mass</b> is correct. During mammalian cleavage, compaction at the 8-to-16 cell morula stage creates two distinct microenvironments:\n1. **External cells:** Acquire apical-basal polarity, develop tight junctions and microvilli, and differentiate into the outer **trophectoderm / trophoblast** (which forms the fetal placenta and extraembryonic tissues).\n2. **Internal (apolar) cells:** Are completely enveloped by outer cells, establish gap junctions, and become the **inner cell mass (ICM)** (which generates the embryo proper and all three germ layers).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The internal cells become trophoblast cells, while the external cells give rise to the inner cell mass</b> - Reverses the true spatial positioning.\n• <b style=\"color:#2563eb\">Option (3): The morula consists of a uniform distribution of cells with no distinction between internal and external cells</b> - Ignores compaction and spatial cell segregation.\n• <b style=\"color:#2563eb\">Option (4): The morula consists of a single cell type, which later differentiates into both trophoblast cells and the inner cell mass</b> - Divergence into inner and outer lineages is already established during the morula stage via the Hippo signaling cascade."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following structures facilitate the exchange of oxygen and nutrients?",
+    "options": [
+      "Embryonic organs",
+      "Chorion and extraembryonic membranes",
+      "Inner cell mass",
+      "Placenta"
+    ],
+    "correct_answer": "Chorion and extraembryonic membranes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Chorion and extraembryonic membranes</b> is designated. The chorion (along with the allantois and extraembryonic vascular network) is the definitive outer extraembryonic membrane that facilitates gas, nutrient, and waste exchange between maternal and fetal bloodstreams across all amniotes (forming chorionic villi in mammalian placentation and the chorioallantoic membrane in birds).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Embryonic organs</b> - Embryonic organs consume nutrients and oxygen delivered by extraembryonic membranes.\n• <b style=\"color:#2563eb\">Option (3): Inner cell mass</b> - The ICM forms the embryo body and epiblast/hypoblast, not the respiratory exchange interface.\n• <b style=\"color:#2563eb\">Option (4): Placenta</b> - While the placenta is the composite organ in mammals, the designated key explicitly marks Option (2)."
+  },
+  {
+    "id": 22,
+    "question": "The cells of the inner cell mass (ICM) in the mammalian embryo are referred to as pluripotent. What does pluripotency mean?",
+    "options": [
+      "Each cell of the ICM can differentiate into any cell type in the body, including trophoblast cells.",
+      "The cells of the ICM can only differentiate into trophoblast cells.",
+      "The cells of the ICM have limited differentiation potential and can only give rise to a few specific cell types.",
+      "The cells of the ICM can differentiate into any cell type in the body, except for trophoblast cells."
+    ],
+    "correct_answer": "Each cell of the ICM can differentiate into any cell type in the body, including trophoblast cells.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Each cell of the ICM can differentiate into any cell type in the body, including trophoblast cells</b> is designated in the answer key (noting that in strict stem cell hierarchy definitions, totipotent cells can form all embryonic and extraembryonic trophoblast tissues, whereas classical pluripotency forms all cell types of the three embryonic germ layers; the official answer key for this item designates Option 1).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The cells of the ICM can only differentiate into trophoblast cells</b> - Trophoblast cells arise from trophectoderm, not ICM.\n• <b style=\"color:#2563eb\">Option (3): The cells of the ICM have limited differentiation potential and can only give rise to a few specific cell types</b> - ICM cells have broad, comprehensive multilineage differentiation capacity.\n• <b style=\"color:#2563eb\">Option (4): The cells of the ICM can differentiate into any cell type in the body, except for trophoblast cells</b> - While this matches the rigorous classical academic definition of pluripotency, the official answer key designates Option (1)."
+  },
+  {
+    "id": 23,
+    "question": "Prior to blastocyst formation, each embryonic blastomere expresses both the Cdx2 and Oct4 transcription factors. What is the significance of this expression pattern?",
+    "options": [
+      "It indicates that the blastomeres are already differentiated into either trophoblast or ICM.",
+      "It suggests that the blastomeres have not yet made a decision to become trophoblast or ICM.",
+      "It confirms that the blastomeres will only differentiate into trophoblast cells.",
+      "It implies that the blastomeres have lost their pluripotency."
+    ],
+    "correct_answer": "It suggests that the blastomeres have not yet made a decision to become trophoblast or ICM.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It suggests that the blastomeres have not yet made a decision to become trophoblast or ICM</b> is correct. In early cleavage-stage mammalian embryos (2- to 8-cell stage), blastomeres co-express both the pluripotency master factor Oct4 (Pou5f1) and the trophectoderm lineage determinant Cdx2. This bi-potential co-expression state indicates developmental plasticity (uncommitted totipotency). Only after compaction does Hippo-Lats kinase signaling restrict Cdx2 to outer cells and Oct4 to inner cells via mutual transcriptional antagonism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It indicates that the blastomeres are already differentiated into either trophoblast or ICM</b> - Co-expression reflects an undifferentiated, uncommitted plastic state.\n• <b style=\"color:#2563eb\">Option (3): It confirms that the blastomeres will only differentiate into trophoblast cells</b> - Blastomeres retain potential to form all embryonic and extraembryonic fates.\n• <b style=\"color:#2563eb\">Option (4): It implies that the blastomeres have lost their pluripotency</b> - Blastomeres at this stage are totipotent, not depleted of potential."
+  },
+  {
+    "id": 24,
+    "question": "The pluripotency of the inner cell mass (ICM) is maintained by a core of three transcription factors, Oct4, Sox2, and Nanog. How do these transcription factors regulate pluripotency?",
+    "options": [
+      "They directly bind to the enhancers of all genes required for pluripotency.",
+      "They inhibit each other's expression to promote differentiation.",
+      "They recruit RNA polymerase II to repress genes involved in pluripotency.",
+      "They form a complex that activates the genes required for maintaining pluripotency."
+    ],
+    "correct_answer": "They form a complex that activates the genes required for maintaining pluripotency.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): They form a complex that activates the genes required for maintaining pluripotency</b> is correct. Oct4, Sox2, and Nanog constitute the master autoregulatory pluripotency transcriptional circuit. Oct4 and Sox2 bind as a heterodimer to canonical composite motifs, recruiting Nanog and chromatin-remodeling complexes (such as Mediator and p300) to super-enhancers to activate pluripotency-specific target genes while simultaneously repressing developmental differentiation genes (e.g., via Polycomb repressive complexes).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They directly bind to the enhancers of all genes required for pluripotency</b> - While they bind many enhancers, Option (4) explicitly emphasizes their functional cooperative complex formation.\n• <b style=\"color:#2563eb\">Option (2): They inhibit each other's expression to promote differentiation</b> - In fact, they positively cross-regulate and feed forward to sustain their own expression (interconnected autoregulatory loop).\n• <b style=\"color:#2563eb\">Option (3): They recruit RNA polymerase II to repress genes involved in pluripotency</b> - RNA polymerase II mediates gene transcription/activation, not repression of pluripotency."
+  },
+  {
+    "id": 25,
+    "question": "The transcription factors Oct4 and Sox2 often reside on enhancers adjacent to Nanog. What is the role of this arrangement?",
+    "options": [
+      "It allows Oct4 and Sox2 to directly bind to the Nanog gene and repress its expression.",
+      "It prevents the binding of RNA polymerase II to the promoters of pluripotency genes.",
+      "It facilitates the activation of Nanog and other genes required for pluripotency.",
+      "It promotes the recruitment of histone methyltransferases to enhance pluripotency genes."
+    ],
+    "correct_answer": "It facilitates the activation of Nanog and other genes required for pluripotency.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): It facilitates the activation of Nanog and other genes required for pluripotency</b> is correct. Oct4 and Sox2 cooperatively bind to a conserved composite oct/sox motif within the proximal promoter/enhancer region of the *Nanog* gene. This binding synergistically drives high transcriptional expression of *Nanog*, which in turn cooperates with Oct4 and Sox2 in a reciprocal positive feedback loop to sustain the pluripotency gene regulatory network in embryonic stem cells and the inner cell mass.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It allows Oct4 and Sox2 to directly bind to the Nanog gene and repress its expression</b> - Oct4 and Sox2 activate *Nanog* transcription, not repress it.\n• <b style=\"color:#2563eb\">Option (2): It prevents the binding of RNA polymerase II to the promoters of pluripotency genes</b> - Oct4/Sox2 recruit Mediator and general transcription factors to recruit and activate RNA Pol II.\n• <b style=\"color:#2563eb\">Option (4): It promotes the recruitment of histone methyltransferases to enhance pluripotency genes</b> - Pluripotency enhancers are characterized by histone acetyltransferases (p300/CBP) and active marks (H3K27ac, H3K4me3)."
+  }
+]

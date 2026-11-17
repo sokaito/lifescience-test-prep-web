@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "Acid phosphatase is a marker of",
+    "options": [
+      "Plasma membrane",
+      "Lysosome",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Lysosome</b> is correct. Acid phosphatase is the canonical biochemical and histochemical marker enzyme for lysosomes. It exhibits optimal hydrolytic catalytic activity at an acidic pH of ~4.5–5.0 maintained within the lysosomal lumen by vacuolar-type H+-ATPases (V-ATPases).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Plasma membrane</b> - Typical marker enzymes include 5'-nucleotidase, Na+/K+ ATPase, and alkaline phosphatase.\n• <b style=\"color:#3b82f6\" style=\"color:#2563eb\">Option (3): Mitochondria</b> - Typical marker enzymes include succinate dehydrogenase (inner membrane) and cytochrome c oxidase.\n• <b style=\"color:#2563eb\">Option (4): Endoplasmic reticulum</b> - Typical marker enzyme is glucose-6-phosphatase (rough/smooth ER)."
+  },
+  {
+    "id": 2,
+    "question": "The cellular organelle with acidic pH",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Golgi complex",
+      "Lysosomes"
+    ],
+    "correct_answer": "Lysosomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Lysosomes</b> is correct. Lysosomes maintain an internal acidic pH between 4.5 and 5.0 through the active, continuous pumping of protons ($H^+$) from the neutral cytosol (pH ~7.2) into the lysosomal lumen by electrogenic V-type $H^+$-ATPases. This acidic milieu is essential for activating approximately 50 different acid hydrolases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nucleus</b> - Possesses large nuclear pore complexes equilibrating freely with the cytosol, maintaining a neutral pH (~7.2–7.4).\n• <b style=\"color:#2563eb\">Option (2): Mitochondria</b> - The mitochondrial matrix is slightly alkaline (pH ~7.8–8.0) because protons are pumped out into the intermembrane space during respiratory electron transport.\n• <b style=\"color:#2563eb\">Option (3): Golgi complex</b> - Only mildly acidic (pH ~6.0–6.7 across cis to trans cisternae), far less acidic than lysosomes."
+  },
+  {
+    "id": 3,
+    "question": "Many scientists are very interested in studying mitochondrial DNA because it",
+    "options": [
+      "is only present in vertebrates closely related to humans.",
+      "replicates by synthesizing an mRNA that then acts as a DNA polymerase.",
+      "contains over 50% of the genes in the human genome.",
+      "mutates rapidly and allows us to study evolution over short time scales"
+    ],
+    "correct_answer": "mutates rapidly and allows us to study evolution over short time scales",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): mutates rapidly and allows us to study evolution over short time scales</b> is correct. Mammalian mitochondrial DNA (mtDNA) lacks protective histone proteins, is exposed to high levels of reactive oxygen species (ROS) from the respiratory chain, and has limited DNA repair mechanisms compared to nuclear DNA, resulting in a mutation rate roughly 10-fold higher than nuclear DNA. Because it is maternally inherited without meiotic recombination, this high mutation rate makes mtDNA an ideal molecular clock for tracing human matrilineal genealogy, population migrations, and recent evolutionary divergence.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): is only present in vertebrates closely related to humans.</b> - mtDNA is present in virtually all eukaryotic organisms possessing mitochondria.\n• <b style=\"color:#2563eb\">Option (2): replicates by synthesizing an mRNA that then acts as a DNA polymerase.</b> - mtDNA replication is carried out by nuclear-encoded DNA polymerase gamma (POLG) using an RNA primer (strand displacement or RITOLS model), not mRNA acting as polymerase.\n• <b style=\"color:#2563eb\">Option (3): contains over 50% of the genes in the human genome.</b> - Human mtDNA contains only 37 genes (encoding 13 proteins, 22 tRNAs, and 2 rRNAs), representing less than 0.2% of total human genes."
+  },
+  {
+    "id": 4,
+    "question": "What is the function of Chaperonins?",
+    "options": [
+      "Conformation prediction",
+      "Protein folding",
+      "Complex & slow conformation stability",
+      "Stability analysis"
+    ],
+    "correct_answer": "Protein folding",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Protein folding</b> is correct. Chaperonins (such as the GroEL/GroES complex in bacteria and TRiC/CCT in eukaryotes) are high-molecular-weight barrel-shaped multisubunit protein complexes that provide an isolated, protected hydrophilic cage (Anfinsen cage) in which unfolded or misfolded polypeptides can fold into their native tertiary structures without non-productive hydrophobic aggregation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Conformation prediction</b> - Computational/theoretical modeling task (e.g., AlphaFold), not a biological molecular activity.\n• <b style=\"color:#2563eb\">Option (3): Complex & slow conformation stability</b> - Chaperonins actively consume ATP to assist and accelerate folding, not just slow stability.\n• <b style=\"color:#2563eb\">Option (4): Stability analysis</b> - An experimental or analytical technique rather than an in vivo biological function."
+  },
+  {
+    "id": 5,
+    "question": "Kinetoplast is made up of copies of:",
+    "options": [
+      "RNA",
+      "Protein",
+      "Fat",
+      "Mitochondria DNA"
+    ],
+    "correct_answer": "Mitochondria DNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Mitochondria DNA</b> is correct. The kinetoplast is a specialized, dense, disk-shaped network of mitochondrial DNA (kDNA) found inside the single large mitochondrion of kinetoplastid flagellates (such as Trypanosoma brucei, Trypanosoma cruzi, and Leishmania). It consists of thousands of topologically interlocked circular DNA molecules, including ~50 maxicircles and ~5,000–10,000 minicircles that encode guide RNAs (gRNAs) for extensive mitochondrial RNA editing.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): RNA</b> - Although guide RNAs are transcribed from minicircles, the kinetoplast body itself is a giant network of concatenated DNA rings.\n• <b style=\"color:#2563eb\">Option (2): Protein</b> - Associated kinetoplast proteins assist in DNA packaging and replication, but the macromolecular structure is defined by its DNA.\n• <b style=\"color:#2563eb\">Option (3): Fat</b> - Lipids do not constitute the kinetoplast genome structure."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following conditions is a peroxisomal disorder?",
+    "options": [
+      "Acute intermittent porphyria",
+      "Maple syrup urine disease",
+      "Medium-chain acyl-CoA dehydrogenase deficiency",
+      "Zellweger syndrome"
+    ],
+    "correct_answer": "Zellweger syndrome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Zellweger syndrome</b> is correct. Zellweger syndrome (cerebrohepatorenal syndrome) is the most severe peroxisome biogenesis disorder (PBD). It is caused by autosomal recessive mutations in PEX genes (such as PEX1, PEX5, PEX14) that encode peroxins essential for peroxisomal assembly and protein import, leading to empty peroxisomal ghosts and accumulation of toxic very-long-chain fatty acids (VLCFAs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Acute intermittent porphyria</b> - An inborn error of heme biosynthesis caused by porphobilinogen deaminase deficiency.\n• <b style=\"color:#2563eb\">Option (2): Maple syrup urine disease</b> - A mitochondrial inborn error of branched-chain amino acid metabolism (BCKDH complex deficiency).\n• <b style=\"color:#2563eb\">Option (3): Medium-chain acyl-CoA dehydrogenase deficiency</b> - A mitochondrial fatty acid beta-oxidation disorder (MCAD deficiency)."
+  },
+  {
+    "id": 7,
+    "question": "Niemann-Pick disease is a:",
+    "options": [
+      "Lipid storage disorder",
+      "Glycogen storage disorder",
+      "Amino acid metabolism disorder",
+      "Purine metabolism disorder"
+    ],
+    "correct_answer": "Lipid storage disorder",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Lipid storage disorder</b> is correct. Niemann-Pick disease is an inherited autosomal recessive lysosomal lipid storage disease (sphingolipidosis). Types A and B are caused by a deficiency in acid sphingomyelinase (ASM), leading to the accumulation of sphingomyelin in the reticuloendothelial system; Type C is caused by NPC1/NPC2 mutations disrupting intracellular unesterified cholesterol trafficking.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Glycogen storage disorder</b> - Disorders affecting glycogen breakdown enzymes (e.g., Pompe disease, von Gierke disease, McArdle disease).\n• <b style=\"color:#2563eb\">Option (3): Amino acid metabolism disorder</b> - Metabolic defects such as phenylketonuria (PKU), alkaptonuria, and albinism.\n• <b style=\"color:#2563eb\">Option (4): Purine metabolism disorder</b> - Disorders such as Lesch-Nyhan syndrome (HGPRT deficiency) and gout."
+  },
+  {
+    "id": 8,
+    "question": "How many genes are present in human mitochondrial genome?",
+    "options": [
+      "24",
+      "37",
+      "32",
+      "64"
+    ],
+    "correct_answer": "37",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 37</b> is correct. The circular human mitochondrial genome (mtDNA) is 16,569 base pairs long and encodes exactly 37 genes: 13 essential polypeptide subunits of the oxidative phosphorylation electron transport chain complexes (I, III, IV, and V), 22 transfer RNAs (tRNAs), and 2 ribosomal RNAs (12S and 16S rRNAs).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 24</b> - Underestimates gene count; the 22 tRNAs and 2 rRNAs alone total 24 non-protein-coding RNA genes.\n• <b style=\"color:#2563eb\">Option (3): 32</b> - Incorrect count.\n• <b style=\"color:#2563eb\">Option (4): 64</b> - Represents the total number of codons in the standard genetic code table, not the number of genes in mtDNA."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following occurs only in plants and a few filamentous fungi?",
+    "options": [
+      "Glyoxysomes",
+      "Peroxisomes",
+      "Periplasmic space",
+      "Ribosomes"
+    ],
+    "correct_answer": "Glyoxysomes",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Glyoxysomes</b> is correct. Glyoxysomes are specialized plant microbodies (peroxisome variants) found prominently in the lipid-storing seeds (endosperm/cotyledons) of germinating oilseed plants (and certain filamentous fungi). They contain the unique enzymes of the glyoxylate cycle (isocitrate lyase and malate synthase) that convert stored triacylglycerol fatty acids into succinate and subsequently into carbohydrates (gluconeogenesis) before photosynthetic foliage develops.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Peroxisomes</b> - Present ubiquitously in almost all eukaryotic cells, including animal, plant, and fungal cells.\n• <b style=\"color:#2563eb\">Option (3): Periplasmic space</b> - Characteristic fluid-filled compartment between inner and outer membranes in Gram-negative bacteria.\n• <b style=\"color:#2563eb\">Option (4): Ribosomes</b> - Universal translational ribonucleoprotein complexes found across all living cellular organisms."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is the primary component of the bacterial cell wall?",
+    "options": [
+      "Chitin",
+      "Peptidoglycan",
+      "Cellulose",
+      "Lignin"
+    ],
+    "correct_answer": "Peptidoglycan",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Peptidoglycan</b> (also called murein) is correct. It forms a rigid macromolecular cross-linked mesh surrounding the bacterial plasma membrane, composed of alternating repeating beta-(1,4)-linked units of N-acetylglucosamine (NAG) and N-acetylmuramic acid (NAM) cross-linked by short peptide chains, maintaining osmotic pressure and cell shape.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Chitin</b> - The structural beta-(1,4)-N-acetylglucosamine polymer of fungal cell walls and arthropod exoskeletons.\n• <b style=\"color:#2563eb\">Option (3): Cellulose</b> - The primary beta-(1,4)-D-glucose structural polysaccharide of plant and algal cell walls.\n• <b style=\"color:#2563eb\">Option (4): Lignin</b> - A complex aromatic polymer reinforcing secondary cell walls in vascular plants."
+  },
+  {
+    "id": 11,
+    "question": "The cell wall of fungi is primarily composed of:",
+    "options": [
+      "Cellulose",
+      "Peptidoglycan",
+      "Chitin",
+      "Pectin"
+    ],
+    "correct_answer": "Chitin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Chitin</b> is correct. The inner structural skeletal layer of fungal cell walls is composed of unbranched microfibrils of chitin, an insoluble polymer of beta-(1,4)-linked N-acetylglucosamine (GlcNAc), cross-linked to beta-glucans (beta-1,3- and beta-1,6-glucan) and mannoproteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cellulose</b> - Typical of green plants, algae, and oomycetes (water molds), but not true fungi.\n• <b style=\"color:#2563eb\">Option (2): Peptidoglycan</b> - Found uniquely in eubacterial cell walls.\n• <b style=\"color:#2563eb\">Option (4): Pectin</b> - An acidic heteropolysaccharide found in the middle lamella and primary wall of plants."
+  },
+  {
+    "id": 12,
+    "question": "In plants, which layer of the cell wall is primarily responsible for providing structural support and rigidity?",
+    "options": [
+      "Middle lamella",
+      "Primary wall",
+      "Secondary wall",
+      "Pectin layer"
+    ],
+    "correct_answer": "Secondary wall",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Secondary wall</b> is correct. The secondary plant cell wall is deposited inside the primary wall after cell expansion ceases. It is thick, highly ordered, and densely impregnated with lignin, xylan, and parallel arrays of cellulose microfibrils, providing immense compressive strength, mechanical rigidity, and waterproof support to xylem tracheary elements and sclerenchyma fibers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Middle lamella</b> - Outermost pectin-rich layer functioning as an adhesive cementing adjacent plant cells together.\n• <b style=\"color:#2563eb\">Option (2): Primary wall</b> - Thin, pliant, and extensible wall allowing cell elongation and growth in developing young cells.\n• <b style=\"color:#2563eb\">Option (4): Pectin layer</b> - Promotes intercellular adhesion and gel-like flexibility rather than rigid mechanical support."
+  },
+  {
+    "id": 13,
+    "question": "The plant cell wall is composed of several layers. Which layer is located on the outermost side of the primary wall?",
+    "options": [
+      "Middle lamella",
+      "Secondary wall",
+      "Pectin layer",
+      "Plasmodesmata"
+    ],
+    "correct_answer": "Middle lamella",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Middle lamella</b> is correct. In plant tissue architecture, the outermost layer located external to the primary cell wall is the middle lamella. It is the first layer formed during cytokinesis (derived from the cell plate) and consists predominantly of calcium and magnesium pectates that cement neighboring cells together.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Secondary wall</b> - Deposited on the innermost side of the primary wall, directly adjacent to the plasma membrane.\n• <b style=\"color:#2563eb\">Option (3): Pectin layer</b> - A constituent of the middle lamella, but the anatomical layer itself is termed the middle lamella.\n• <b style=\"color:#2563eb\">Option (4): Plasmodesmata</b> - Microscopic cytoplasmic channels spanning cell walls to enable symplastic transport between adjacent cells."
+  },
+  {
+    "id": 14,
+    "question": "The enzyme responsible for the synthesis of peptidoglycan in bacterial cell walls is called:",
+    "options": [
+      "Cellulase",
+      "Lysozyme",
+      "Glycosyltransferase",
+      "Chitinase"
+    ],
+    "correct_answer": "Glycosyltransferase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Glycosyltransferase</b> is correct. In bacterial peptidoglycan biosynthesis, glycosyltransferase domains of penicillin-binding proteins (PBPs) catalyze the polymerization of lipid II precursors (GlcNAc-MurNAc-pentapeptide) by establishing beta-(1,4)-glycosidic linkages between alternating glycan subunits, while transpeptidase domains cross-link adjacent peptide stems.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Cellulase</b> - Hydrolytic enzyme that degrades cellulose beta-(1,4)-glycosidic bonds.\n• <b style=\"color:#2563eb\">Option (2): Lysozyme</b> - Antimicrobial enzyme that cleaves the beta-(1,4) bonds between NAM and NAG in peptidoglycan, destroying bacterial cell walls.\n• <b style=\"color:#2563eb\">Option (4): Chitinase</b> - Hydrolytic enzyme that degrades chitin polymers into N-acetylglucosamine monomers."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is NOT a function of the cell wall in plants?",
+    "options": [
+      "Protection against pathogens",
+      "Regulation of cell expansion and growth",
+      "Storage of nutrients",
+      "Facilitation of cell-cell communication"
+    ],
+    "correct_answer": "Facilitation of cell-cell communication",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Facilitation of cell-cell communication</b> is correct. The primary matrix of the cell wall is an extracellular barrier providing turgor restraint, mechanical rigidity, and pathogen protection. Cell-to-cell communication is facilitated by specialized cytoplasmic channels (plasmodesmata) and plasma membrane receptor kinases rather than the cellulosic wall material itself.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Protection against pathogens</b> - The cell wall constitutes a physical and chemical barrier preventing fungal and bacterial invasion.\n• <b style=\"color:#2563eb\">Option (2): Regulation of cell expansion and growth</b> - Controlled loosening of wall polysaccharides by expansins and xyloglucan endotransglycosylases regulates turgor-driven cell enlargement.\n• <b style=\"color:#2563eb\">Option (3): Storage of nutrients</b> - Certain seed cell walls store non-starch polysaccharides (mannans, xyloglucans) that are mobilized as nutrients during germination."
+  },
+  {
+    "id": 16,
+    "question": "The cell wall of Gram-negative bacteria contains an additional outer layer called the:",
+    "options": [
+      "Capsule",
+      "Endospore",
+      "Lipopolysaccharide layer",
+      "Pili"
+    ],
+    "correct_answer": "Lipopolysaccharide layer",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Lipopolysaccharide layer</b> (the outer membrane outer leaflet, composed of LPS / endotoxin) is correct. Gram-negative bacteria possess an asymmetrical outer membrane external to their thin peptidoglycan layer, whose external monolayer is densely packed with lipopolysaccharide (LPS), consisting of Lipid A, a core oligosaccharide, and repetitive O-antigen polysaccharide chains.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Capsule</b> - An optional, thick gelatinous polysaccharide or polypeptide glycocalyx layer external to the outer membrane found in certain virulent strains.\n• <b style=\"color:#2563eb\">Option (2): Endospore</b> - Highly resistant, dormant intracellular survival structure formed by certain Gram-positive bacilli (e.g., Bacillus, Clostridium).\n• <b style=\"color:#2563eb\">Option (4): Pili</b> - Filamentous proteinaceous surface appendages used for bacterial conjugation and attachment."
+  },
+  {
+    "id": 17,
+    "question": "The cell wall of diatoms, a type of algae, is primarily composed of:",
+    "options": [
+      "Silica",
+      "Cellulose",
+      "Chitin",
+      "Lignin"
+    ],
+    "correct_answer": "Silica",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Silica</b> is correct. Diatoms (bacillariophytes) are unicellular photosynthetic microalgae characterized by a rigid, ornamental two-part cell wall called a frustule. The frustule is constructed of biogenic amorphous hydrated silicon dioxide ($SiO_2 \\cdot nH_2O$) arranged into two overlapping halves (epitheca and hypotheca), forming indestructible diatomaceous earth deposits upon death.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cellulose</b> - The wall material of green algae and vascular plants, present only in trace matrix amounts in diatoms.\n• <b style=\"color:#2563eb\">Option (3): Chitin</b> - Wall component of fungi and insect exoskeletons.\n• <b style=\"color:#2563eb\">Option (4): Lignin</b> - Found specifically in the secondary walls of terrestrial vascular tracheophytes."
+  },
+  {
+    "id": 18,
+    "question": "The cell wall of archaea differs from that of bacteria because it lacks:",
+    "options": [
+      "Peptidoglycan",
+      "Cellulose",
+      "Chitin",
+      "Lignin"
+    ],
+    "correct_answer": "Peptidoglycan",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Peptidoglycan</b> is correct. Archaea fundamentally lack true peptidoglycan (murein) containing N-acetylmuramic acid and D-amino acids. Instead, their cell envelopes are composed of proteinaceous S-layers, or pseudopeptidoglycan (pseudomurein) with N-acetyltalosaminuronic acid (NAT) linked by beta-(1,3)-glycosidic bonds, rendering archaea naturally insensitive to lysozyme and beta-lactam antibiotics.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cellulose</b> - Bacteria do not possess cellulose walls (with rare exceptions synthesizing extracellular cellulose fibers), so lack of cellulose is not the distinguishing hallmark.\n• <b style=\"color:#2563eb\">Option (3): Chitin</b> - Characteristic of fungi, absent from both archaea and normal bacteria.\n• <b style=\"color:#2563eb\">Option (4): Lignin</b> - Plant-specific polymer absent from all prokaryotes."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following organelles is responsible for protein synthesis in eukaryotic cells?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correct_answer": "Ribosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Ribosome</b> is correct. Ribosomes are the universal ribonucleoprotein macromolecular machines (80S in eukaryotes, composed of 40S and 60S subunits) responsible for mRNA translation, decoding codons into polypeptide chains through the peptidyl transferase activity of ribosomal RNA (rRNA).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> - The rough ER membrane hosts ribosomes and folds nascent proteins, but the catalytic site of peptide bond synthesis is the ribosome itself.\n• <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> - Modifies, packages, and sorts newly synthesized proteins.\n• <b style=\"color:#2563eb\">Option (3): Nucleus</b> - Site of DNA replication, transcription, and pre-ribosomal subunit assembly, but devoid of translation."
+  },
+  {
+    "id": 20,
+    "question": "The organelle involved in the production of ATP through cellular respiration is the:",
+    "options": [
+      "Endoplasmic reticulum",
+      "Lysosome",
+      "Mitochondrion",
+      "Peroxisome"
+    ],
+    "correct_answer": "Mitochondrion",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Mitochondrion</b> is correct. Often called the 'powerhouse of the cell', the mitochondrion houses the pyruvate dehydrogenase complex, the citric acid (Krebs) cycle, fatty acid beta-oxidation, and the respiratory electron transport chain complexes (I–IV) coupled to $F_oF_1$-ATP synthase, generating over 90% of cellular ATP via oxidative phosphorylation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> - Consumes ATP for protein translocation, lipid synthesis, and calcium sequestration.\n• <b style=\"color:#2563eb\">Option (2): Lysosome</b> - Uses ATP to pump protons and maintain an acidic interior for macromolecular degradation.\n• <b style=\"color:#2563eb\">Option (4): Peroxisome</b> - Performs fatty acid alpha- and beta-oxidation without respiratory ATP production (energy is dissipated as heat/peroxide)."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following organelles is responsible for detoxifying harmful substances in the cell?",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Peroxisome",
+      "Nucleus"
+    ],
+    "correct_answer": "Peroxisome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Peroxisome</b> is correct. Peroxisomes contain oxidative enzymes (such as urate oxidase, D-amino acid oxidase, and fatty acyl-CoA oxidase) that oxidize toxic compounds (including ethanol, phenols, and formaldehyde), generating hydrogen peroxide ($H_2O_2$), which is immediately converted to harmless water and oxygen by abundant catalase enzyme.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Golgi apparatus</b> - Specializes in glycosylation, sorting, and vesicular delivery of secretory proteins.\n• <b style=\"color:#2563eb\">Option (2): Lysosome</b> - Digests cellular debris, damaged organelles (autophagy), and endocytosed pathogens via acid hydrolases.\n• <b style=\"color:#2563eb\">Option (4): Nucleus</b> - Maintains genetic integrity and regulates gene expression."
+  },
+  {
+    "id": 22,
+    "question": "The organelle responsible for packaging and sorting proteins for transport is the:",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Lysosome",
+      "Ribosome"
+    ],
+    "correct_answer": "Golgi apparatus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> is correct. The Golgi apparatus is the sorting, packaging, and shipping center of the eukaryotic endomembrane system. In the Trans-Golgi Network (TGN), proteins are recognized by specific receptor cargos, packaged into targeted transport vesicles, and sorted to lysosomes, secretory storage granules, or the plasma membrane.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> - Synthesizes and folds initial polypeptides and performs core glycosylation.\n• <b style=\"color:#2563eb\">Option (3): Lysosome</b> - Terminal degradative organelle.\n• <b style=\"color:#2563eb\">Option (4): Ribosome</b> - Translates mRNA into polypeptide chains."
+  },
+  {
+    "id": 23,
+    "question": "The organelle involved in lipid synthesis and detoxification of drugs in liver cells is the:",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correct_answer": "Endoplasmic reticulum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> (specifically the Smooth Endoplasmic Reticulum, SER) is correct. In hepatocytes, the SER is abundantly enriched in the cytochrome P450 monooxygenase enzyme superfamily, which catalyzes hydroxylation reactions to render hydrophobic drugs, barbiturates, and xenobiotics water-soluble for renal excretion, while also synthesizing phospholipids, cholesterol, and steroid hormones.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> - Modifies and sorts glycoproteins and glycolipids, but does not carry out xenobiotic cytochrome P450 drug detoxification.\n• <b style=\"color:#2563eb\">Option (3): Nucleus</b> - Contains genomic DNA; does not engage in lipid biogenesis or drug biotransformation.\n• <b style=\"color:#2563eb\">Option (4): Ribosome</b> - Protein translation complex; devoid of metabolic detoxification enzymes."
+  },
+  {
+    "id": 24,
+    "question": "Which organelle contains the DNA that encodes the genetic information of the cell?",
+    "options": [
+      "Endoplasmic reticulum",
+      "Golgi apparatus",
+      "Nucleus",
+      "Ribosome"
+    ],
+    "correct_answer": "Nucleus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nucleus</b> is correct. The nucleus is the primary repository of eukaryotic genetic material, harboring the vast majority of cellular DNA organized into linear chromosomes associated with histone octamers as chromatin, orchestrating replication, transcription, and cellular inheritance.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> - Possesses no DNA of its own; operates under nuclear mRNA directives.\n• <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> - Endomembrane organelle devoid of genetic DNA.\n• <b style=\"color:#2563eb\">Option (4): Ribosome</b> - Contains ribosomal RNA (rRNA) and proteins, but does not contain the genetic genome encoding the cell."
+  },
+  {
+    "id": 25,
+    "question": "The organelle responsible for storing calcium ions in muscle cells is the:",
+    "options": [
+      "Endoplasmic reticulum",
+      "Lysosome",
+      "Mitochondrion",
+      "Vacuole"
+    ],
+    "correct_answer": "Endoplasmic reticulum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Endoplasmic reticulum</b> (specialized in muscle fibers as the Sarcoplasmic Reticulum, SR) is correct. The SR sequesters massive amounts of intracellular calcium ($Ca^{2+}$) bound to calsequestrin via SERCA (sarco/endoplasmic reticulum Ca2+-ATPase) pumps. Depolarization triggers rapid calcium release through ryanodine receptors into the myoplasm, initiating actin-myosin muscle contraction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Lysosome</b> - Digests cellular waste products and maintains an acidic pH, not specialized for contractile calcium signaling.\n• <b style=\"color:#2563eb\">Option (3): Mitochondrion</b> - Can buffer transient massive calcium spikes via the mitochondrial calcium uniporter (MCU), but the dedicated muscle storage reserve is the SR.\n• <b style=\"color:#2563eb\">Option (4): Vacuole</b> - Large fluid-filled storage organelle prominent in plants and fungi, not animal myocytes."
+  },
+  {
+    "id": 26,
+    "question": "Which organelle is responsible for maintaining cell shape and providing mechanical support?",
+    "options": [
+      "Centrosome",
+      "Golgi apparatus",
+      "Nucleus",
+      "Cytoskeleton"
+    ],
+    "correct_answer": "Cytoskeleton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Cytoskeleton</b> is correct. The cytoskeleton is a complex, dynamic 3D network of protein filaments extending throughout the cytoplasm, comprising microfilaments (actin), intermediate filaments (e.g., keratins, vimentin, lamins), and microtubules (tubulin). It provides mechanical tensile strength, anchors organelles, enables cell motility, and preserves cellular architecture.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Centrosome</b> - Main microtubule-organizing center (MTOC) that nucleates the mitotic spindle during cell division, but does not itself provide structural shape across the cell.\n• <b style=\"color:#2563eb\">Option (2): Golgi apparatus</b> - Secretory sorting organelle.\n• <b style=\"color:#2563eb\">Option (3): Nucleus</b> - Houses genetic information."
+  },
+  {
+    "id": 27,
+    "question": "The organelle responsible for breaking down cellular waste and recycling materials is the:",
+    "options": [
+      "Golgi apparatus",
+      "Lysosome",
+      "Mitochondrion",
+      "Vacuole"
+    ],
+    "correct_answer": "Lysosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Lysosome</b> is correct. Lysosomes act as the terminal 'waste disposal and recycling centers' of eukaryotic cells. Through autophagy (engulfment of worn-out organelles) and heterophagy (digestion of endocytosed materials), their acid hydrolases degrade proteins, nucleic acids, carbohydrates, and lipids into basic monomeric building blocks for reuse by the cytoplasm.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Golgi apparatus</b> - Modifies and packages newly synthesized proteins.\n• <b style=\"color:#2563eb\">Option (3): Mitochondrion</b> - Synthesizes ATP via oxidative respiration.\n• <b style=\"color:#2563eb\">Option (4): Vacuole</b> - Plant vacuole performs lytic functions in plants, but animal cellular recycling is canonically mediated by lysosomes."
+  }
+]

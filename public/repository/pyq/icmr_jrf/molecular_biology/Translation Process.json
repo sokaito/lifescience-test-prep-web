@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "question": "On a ribosome, the mRNA is read from.............and the polypeptide chain is synthesized from:",
+    "options": [
+      "3' to 5'; C to N terminus",
+      "3' to 5'; N to C terminus",
+      "5' to 3'; N to C terminus",
+      "5' to 3'; C to N terminus"
+    ],
+    "correct_answer": "5' to 3'; N to C terminus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 5' to 3'; N to C terminus</b> is correct because during translation, the ribosome moves unidirectionally along the mRNA transcript reading codons in the 5' to 3' direction. Concurrently, the polypeptide chain is synthesized from its amino-terminal (N-terminus) to its carboxyl-terminal (C-terminus) through the sequential addition of amino acids to the free 3'-growing peptide chain.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 3' to 5'; C to N terminus</b> - Completely inverted orientation for both nucleic acid reading and peptide synthesis.\n• <b style=\"color:#2563eb\">Option (2): 3' to 5'; N to C terminus</b> - mRNA is read 5' to 3', not 3' to 5'.\n• <b style=\"color:#2563eb\">Option (4): 5' to 3'; C to N terminus</b> - Polypeptides are synthesized starting from the N-terminus toward the C-terminus."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following RNA constitutes 90 percent of the total cellular RNA?",
+    "options": [
+      "rRNA",
+      "tRNA",
+      "mRNA",
+      "hnRNA"
+    ],
+    "correct_answer": "rRNA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): rRNA</b> is correct because ribosomal RNA (rRNA) constitutes the overwhelming bulk of all RNA inside a living cell (~80%–90% of total cellular RNA), reflecting the massive numbers of ribosomes required to sustain continuous protein synthesis.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): tRNA</b> - Transfer RNA accounts for approximately 10%–15% of total cellular RNA.\n• <b style=\"color:#2563eb\">Option (3): mRNA</b> - Messenger RNA comprises only about 2%–5% of cellular RNA.\n• <b style=\"color:#2563eb\">Option (4): hnRNA</b> - Heterogeneous nuclear pre-mRNA represents a small transient fraction in the nucleus."
+  },
+  {
+    "id": 3,
+    "question": "How many unusual bases are observed in a tRNA molecule?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "0"
+    ],
+    "correct_answer": "5",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 5</b> is correct. Transfer RNA (tRNA) transcripts undergo extensive post-transcriptional chemical modifications, commonly displaying notable unusual modified bases such as pseudouridine (ψ), dihydrouracil (D), inosine (I), ribothymidine (T), and methylguanosine (mG).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1</b> - Underestimate; tRNAs consistently carry multiple distinct modified bases across the D-loop, TψC loop, and anticodon loop.\n• <b style=\"color:#2563eb\">Option (2): 3</b> - Underestimate.\n• <b style=\"color:#2563eb\">Option (4): 0</b> - Incorrect; all functional mature tRNAs contain modified nucleosides essential for stability and decoding."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following statement is incorrect about the genetic code is?",
+    "options": [
+      "A codon is a triplet of nucleotides that codes for a specific amino acid",
+      "A specific first codon in the sequence establishes the reading frame",
+      "A codon specifies more than one amino acid",
+      "Nucleotide triplets are read in a successive, nonoverlapping fashion"
+    ],
+    "correct_answer": "A codon specifies more than one amino acid",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A codon specifies more than one amino acid</b> is correct because this statement is false (incorrect). The genetic code is unambiguous: each specific codon codes for one and only one amino acid. The code is degenerate (multiple codons can code for the same amino acid), but never ambiguous.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A codon is a triplet of nucleotides that codes for a specific amino acid</b> - True statement describing the triplet nature of the code.\n• <b style=\"color:#2563eb\">Option (2): A specific first codon in the sequence establishes the reading frame</b> - True statement; the initiation AUG codon sets the correct reading frame.\n• <b style=\"color:#2563eb\">Option (4): Nucleotide triplets are read in a successive, nonoverlapping fashion</b> - True statement; codons do not share nucleotides and are read sequentially without gaps."
+  },
+  {
+    "id": 5,
+    "question": "If the amount of 'G' in a DNA sample is 20%. What will be the amount of 'T'?",
+    "options": [
+      "40%",
+      "50%",
+      "30%",
+      "20%"
+    ],
+    "correct_answer": "20%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 20%</b> is designated. Note that mathematically, according to Chargaff's rules for double-stranded DNA: %G = %C = 20%, meaning G + C = 40%; therefore, A + T = 60%, and %A = %T = 30% (Option 3). However, following the official examination answer key, Option (4) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 40%</b> - Represents total G + C content (%G + %C = 40%).\n• <b style=\"color:#2563eb\">Option (2): 50%</b> - Represents total purine or pyrimidine fraction.\n• <b style=\"color:#2563eb\">Option (3): 30%</b> - The theoretical Chargaff calculation value (%T = (100 - 40)/2 = 30%), though the official answer key marks Option (4)."
+  },
+  {
+    "id": 6,
+    "question": "All of the following codons terminate protein biosynthesis EXCEPT:",
+    "options": [
+      "UAA",
+      "UAG",
+      "UGA",
+      "UUA"
+    ],
+    "correct_answer": "UUA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): UUA</b> is correct because UUA is a sense codon that codes for the amino acid leucine (Leu). The three standard stop (nonsense) codons that terminate translation are UAA (ochre), UAG (amber), and UGA (opal).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): UAA</b> - Ochre stop codon terminating translation in all organisms.\n• <b style=\"color:#2563eb\">Option (2): UAG</b> - Amber stop codon recognized by class-1 release factors.\n• <b style=\"color:#2563eb\">Option (3): UGA</b> - Opal stop codon terminating polypeptide chain elongation."
+  },
+  {
+    "id": 7,
+    "question": "The mRNA codon of valine is:",
+    "options": [
+      "UGG",
+      "GUG",
+      "CCA",
+      "TTG"
+    ],
+    "correct_answer": "GUG",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): GUG</b> is correct because valine is encoded by the fourfold degenerate codon family starting with GU-: GUU, GUC, GUA, and GUG.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): UGG</b> - The sole codon for tryptophan (Trp).\n• <b style=\"color:#2563eb\">Option (3): CCA</b> - Encodes proline (Pro).\n• <b style=\"color:#2563eb\">Option (4): TTG</b> - A DNA sequence, not an mRNA codon (which contains U instead of T; UUG codes for leucine)."
+  },
+  {
+    "id": 8,
+    "question": "If the total amount of adenine and thymine in a double-stranded DNA is 45%, the amount of guanine in this DNA will be",
+    "options": [
+      "22.5%",
+      "27.5%",
+      "45%",
+      "55%"
+    ],
+    "correct_answer": "27.5%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 27.5%</b> is correct because in a double-stranded DNA duplex, total nucleotides equal 100%: %A + %T + %G + %C = 100%. Given that A + T = 45%, then G + C = 100% - 45% = 55%. According to Chargaff's parity rules, %G = %C, so the amount of guanine is 55% / 2 = 27.5%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 22.5%</b> - Represents the individual percentage of adenine or thymine (45% / 2 = 22.5%).\n• <b style=\"color:#2563eb\">Option (3): 45%</b> - The given combined percentage of A + T.\n• <b style=\"color:#2563eb\">Option (4): 55%</b> - The combined percentage of G + C."
+  },
+  {
+    "id": 9,
+    "question": "If the genetic code consisted of four bases per codon instead of three bases per codon, then what will be the possible number of codons that code for 20 types of amino acids (Given the stop codons are same)?",
+    "options": [
+      "64",
+      "253",
+      "61",
+      "256"
+    ],
+    "correct_answer": "253",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 253</b> is correct because with 4 types of nucleotides (A, U, G, C) forming 4-base codons, the total number of permutations is 4^4 = 256 possible codons. If the number of stop codons remains the same (3 stop codons), the number of sense codons available to code for amino acids is 256 - 3 = 253 codons.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 64</b> - The total number of codons in the standard 3-base genetic code (4^3 = 64).\n• <b style=\"color:#2563eb\">Option (3): 61</b> - The number of coding sense codons in the standard 3-base genetic code (64 - 3 = 61).\n• <b style=\"color:#2563eb\">Option (4): 256</b> - The total number of 4-base codons including stop codons."
+  },
+  {
+    "id": 10,
+    "question": "Assume that there are 6 types of nitrogen bases available and 40 types of amino acids are available for protein synthesis, then in genetic code each codon is made up by minimum how many nitrogen bases?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "correct_answer": "3",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 3</b> is correct because the minimum number of codons required must equal or exceed the number of amino acids (40). With 6 bases:\n• 1-base codons yield 6^1 = 6 codons (insufficient for 40 amino acids).\n• 2-base codons yield 6^2 = 36 codons (still insufficient, as 36 < 40).\n• 3-base codons yield 6^3 = 216 codons (216 ≥ 40, sufficient to code for 40 amino acids).\nTherefore, each codon must be made of at least 3 nitrogen bases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 4</b> - Yields 6^4 = 1296 codons; not the minimum required length.\n• <b style=\"color:#2563eb\">Option (3): 5</b> - Unnecessarily long.\n• <b style=\"color:#2563eb\">Option (4): 2</b> - Produces only 36 codons, which cannot accommodate 40 distinct amino acids."
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a commonly used antibiotic that inhibits translation by binding to the bacterial ribosome?",
+    "options": [
+      "Streptomycin",
+      "Penicillin",
+      "Erythromycin",
+      "Amphicillin"
+    ],
+    "correct_answer": "Erythromycin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Erythromycin</b> is correct because erythromycin is a macrolide antibiotic that binds specifically to the 23S rRNA in the 50S ribosomal subunit near the peptidyl transferase center, sterically blocking the polypeptide exit tunnel and causing premature dissociation of peptidyl-tRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Streptomycin</b> - An aminoglycoside that binds the 30S subunit; though it also inhibits translation, the official answer key explicitly designates Option (3) Erythromycin.\n• <b style=\"color:#2563eb\">Option (2): Penicillin</b> - A beta-lactam antibiotic that inhibits bacterial cell wall synthesis (transpeptidase), having no effect on ribosomes.\n• <b style=\"color:#2563eb\">Option (4): Amphicillin</b> - Ampicillin is also a cell-wall peptidoglycan synthesis inhibitor."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following translation inhibitors blocks the peptidyl transferase activity of the prokaryotic ribosome?",
+    "options": [
+      "Puromycin",
+      "Cycloheximide",
+      "Chloramphenicol",
+      "Streptomycin"
+    ],
+    "correct_answer": "Chloramphenicol",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Chloramphenicol</b> is correct because chloramphenicol binds reversibly to the 50S subunit of the 70S bacterial ribosome, occupying the peptidyl transferase active center and directly preventing peptide bond formation between the growing peptidyl chain and the incoming aminoacyl-tRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Puromycin</b> - Causes premature chain termination by acting as a tyrosyl-tRNA structural analogue.\n• <b style=\"color:#2563eb\">Option (2): Cycloheximide</b> - Inhibits the peptidyl transferase activity specifically of eukaryotic 80S ribosomes (60S subunit), not prokaryotes.\n• <b style=\"color:#2563eb\">Option (4): Streptomycin</b> - Binds the 30S subunit, inducing mRNA misreading and inhibiting initiation."
+  },
+  {
+    "id": 13,
+    "question": "Which translation inhibitor interferes with the aminoacyl-tRNA binding to the A-site of the ribosome?",
+    "options": [
+      "Tetracycline",
+      "Cycloheximide",
+      "Streptomycin",
+      "Puromycin"
+    ],
+    "correct_answer": "Tetracycline",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Tetracycline</b> is correct because tetracyclines bind to the 30S subunit of bacterial ribosomes in the region of the A-site, sterically blocking the access of incoming aminoacyl-tRNA to the ribosomal decoding site.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Cycloheximide</b> - Blocks eukaryotic translocation / peptidyl transferase on the 60S subunit.\n• <b style=\"color:#2563eb\">Option (3): Streptomycin</b> - Causes codon misreading and prevents initiation complex formation.\n• <b style=\"color:#2563eb\">Option (4): Puromycin</b> - Mimics an aminoacyl-tRNA and accepts the nascent peptide chain."
+  },
+  {
+    "id": 14,
+    "question": "Which translation inhibitor causes premature termination of translation by acting as a structural analog of aminoacyl-tRNA?",
+    "options": [
+      "Puromycin",
+      "Erythromycin",
+      "Chloramphenicol",
+      "Streptomycin"
+    ],
+    "correct_answer": "Puromycin",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Puromycin</b> is correct because puromycin has a chemical structure closely resembling the 3' end of an aminoacylated tRNA (specifically tyrosyl-tRNA). It enters the ribosomal A-site, where peptidyl transferase transfers the nascent peptide to puromycin's amino group. Because puromycin lacks the remaining tRNA body, peptidyl-puromycin dissociates prematurely from the ribosome.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Erythromycin</b> - Macrolide that blocks the exit tunnel in 50S subunit.\n• <b style=\"color:#2563eb\">Option (3): Chloramphenicol</b> - Reversible competitive inhibitor of peptidyl transferase.\n• <b style=\"color:#2563eb\">Option (4): Streptomycin</b> - Aminoglycoside binding the 30S decoding center."
+  },
+  {
+    "id": 15,
+    "question": "Which of the following is true regarding the start codon in translation?",
+    "options": [
+      "The start codon is always AUG.",
+      "The start codon initiates the process of translation.",
+      "The start codon codes for the amino acid methionine.",
+      "All of the above."
+    ],
+    "correct_answer": "All of the above.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): All of the above.</b> is correct because in standard molecular biology: AUG is the canonical start codon in mRNA; it serves as the signal where translation initiation begins on the ribosome; and it specifies the amino acid methionine (N-formylmethionine in bacteria, unformylated methionine in eukaryotes).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): The start codon is always AUG</b> - True in standard context, but captured fully by Option (4).\n• <b style=\"color:#2563eb\">Option (2): The start codon initiates the process of translation</b> - True statement, part of Option (4).\n• <b style=\"color:#2563eb\">Option (3): The start codon codes for the amino acid methionine</b> - True statement, part of Option (4)."
+  },
+  {
+    "id": 16,
+    "question": "What is the role of the small ribosomal subunit in translation?",
+    "options": [
+      "It carries the amino acids that will be incorporated into the polypeptide chain.",
+      "It recognizes and binds to the start codon in the mRNA.",
+      "It catalyzes the formation of peptide bonds.",
+      "It translocates along the mRNA during elongation."
+    ],
+    "correct_answer": "It recognizes and binds to the start codon in the mRNA.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It recognizes and binds to the start codon in the mRNA.</b> is correct because the small ribosomal subunit (30S in prokaryotes, 40S in eukaryotes) contains the decoding center. It mediates initial mRNA binding (via Shine-Dalgarno in bacteria or 5' cap-scanning in eukaryotes), correctly positioning the initiation codon AUG in the P-site with initiator tRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It carries the amino acids that will be incorporated into the polypeptide chain</b> - Carried by aminoacyl-tRNAs.\n• <b style=\"color:#2563eb\">Option (3): It catalyzes the formation of peptide bonds</b> - Catalyzed by the peptidyl transferase center located on the large ribosomal subunit (50S / 60S).\n• <b style=\"color:#2563eb\">Option (4): It translocates along the mRNA during elongation</b> - Translocation requires coordination of both subunits driven by EF-G / eEF2 GTP hydrolysis."
+  },
+  {
+    "id": 17,
+    "question": "Which molecule serves as the adapter molecule in translation, bringing amino acids to the ribosome?",
+    "options": [
+      "Transfer RNA (tRNA)",
+      "Ribosomal RNA (rRNA)",
+      "Messenger RNA (mRNA)",
+      "Small nuclear RNA (snRNA)"
+    ],
+    "correct_answer": "Transfer RNA (tRNA)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Transfer RNA (tRNA)</b> is correct because Francis Crick's \"Adaptor Hypothesis\" predicted an adapter molecule that could physically link the genetic code to specific amino acids. tRNA serves this exact role: its 3' CCA terminus is covalently attached to a specific amino acid, while its anticodon triplet recognizes complementary mRNA codons.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Ribosomal RNA (rRNA)</b> - Provides catalytic and structural core of ribosomes.\n• <b style=\"color:#2563eb\">Option (3): Messenger RNA (mRNA)</b> - Carries the genetic message transcribed from DNA.\n• <b style=\"color:#2563eb\">Option (4): Small nuclear RNA (snRNA)</b> - Mediates splicing in the spliceosome."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following enzymes is responsible for the attachment of amino acids to their corresponding tRNA molecules?",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Aminoacyl-tRNA synthetase",
+      "Helicase"
+    ],
+    "correct_answer": "Aminoacyl-tRNA synthetase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Aminoacyl-tRNA synthetase</b> is correct because aminoacyl-tRNA synthetases (aaRS) catalyze the two-step charging reaction: first activating the amino acid with ATP to form an aminoacyl-AMP intermediate, and then transferring the aminoacyl group to the 2'- or 3'-OH of the terminal adenosine of its cognate tRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA polymerase</b> - Synthesizes DNA chains.\n• <b style=\"color:#2563eb\">Option (2): RNA polymerase</b> - Transcribes RNA from DNA.\n• <b style=\"color:#2563eb\">Option (4): Helicase</b> - Unwinds duplex nucleic acids."
+  },
+  {
+    "id": 19,
+    "question": "What is the role of the ribosome in translation?",
+    "options": [
+      "It carries out the synthesis of mRNA from a DNA template.",
+      "It catalyzes the formation of peptide bonds between amino acids.",
+      "It transports amino acids to the growing polypeptide chain.",
+      "It regulates the rate of translation."
+    ],
+    "correct_answer": "It catalyzes the formation of peptide bonds between amino acids.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): It catalyzes the formation of peptide bonds between amino acids.</b> is correct because the ribosome is a ribozyme whose catalytic peptidyl transferase center (located in the 23S rRNA in bacteria / 28S rRNA in eukaryotes) directly catalyzes peptide bond formation between the peptidyl-tRNA in the P-site and the aminoacyl-tRNA in the A-site.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It carries out the synthesis of mRNA from a DNA template</b> - Function of RNA polymerase.\n• <b style=\"color:#2563eb\">Option (3): It transports amino acids to the growing polypeptide chain</b> - Function of tRNAs and elongation factors (EF-Tu).\n• <b style=\"color:#2563eb\">Option (4): It regulates the rate of translation</b> - Translation initiation factors and mRNA structure regulate initiation rates."
+  },
+  {
+    "id": 20,
+    "question": "In prokaryotic translation, what is the Shine-Dalgarno sequence?",
+    "options": [
+      "A sequence in the mRNA that marks the beginning of translation.",
+      "The start codon that initiates translation.",
+      "The stop codon that terminates translation.",
+      "A sequence in the mRNA that promotes ribosome binding."
+    ],
+    "correct_answer": "A sequence in the mRNA that promotes ribosome binding.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): A sequence in the mRNA that promotes ribosome binding.</b> is correct because the Shine-Dalgarno (SD) sequence is a purine-rich consensus sequence (AGGAGG) located ~8 nucleotides upstream of the start codon in bacterial mRNAs. It base-pairs complementarily with the pyrimidine-rich 3' end of the 16S rRNA of the 30S subunit, correctly aligning the ribosome on the mRNA.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A sequence in the mRNA that marks the beginning of translation</b> - The start codon (AUG) defines the start of coding sequence.\n• <b style=\"color:#2563eb\">Option (2): The start codon that initiates translation</b> - Start codon is AUG/GUG.\n• <b style=\"color:#2563eb\">Option (3): The stop codon that terminates translation</b> - Stop codons are UAA, UAG, UGA."
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is true regarding the process of translation termination?",
+    "options": [
+      "A release factor recognizes the stop codon and binds to the ribosome.",
+      "The polypeptide chain is released from the ribosome.",
+      "The ribosome dissociates into its subunits.",
+      "All of the above."
+    ],
+    "correct_answer": "All of the above.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): All of the above.</b> is correct because translation termination proceeds in coordinated steps: (1) Class-1 release factors (RF1, RF2 in bacteria; eRF1 in eukaryotes) recognize stop codons at the A-site; (2) Peptidyl transferase hydrolyzes the ester linkage of the peptidyl-tRNA, releasing the finished polypeptide; (3) Ribosome recycling factors (RRF and EF-G in bacteria) split the ribosome into its individual subunits.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A release factor recognizes the stop codon and binds to the ribosome</b> - True statement, part of Option (4).\n• <b style=\"color:#2563eb\">Option (2): The polypeptide chain is released from the ribosome</b> - True statement, part of Option (4).\n• <b style=\"color:#2563eb\">Option (3): The ribosome dissociates into its subunits</b> - True statement, part of Option (4)."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is involved in the co-translational targeting of proteins to the endoplasmic reticulum (ER) in eukaryotic cells?",
+    "options": [
+      "Signal sequence",
+      "Shine-Dalgarno sequence",
+      "Anticodon sequence",
+      "Start codon"
+    ],
+    "correct_answer": "Signal sequence",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Signal sequence</b> is correct because secretory and membrane proteins possess an N-terminal hydrophobic signal peptide (signal sequence) that is recognized emerging from the ribosome by the Signal Recognition Particle (SRP). SRP halts translation and docks the ribosome-nascent chain complex onto the SRP receptor on the ER membrane translocon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Shine-Dalgarno sequence</b> - Bacterial mRNA ribosome-binding site.\n• <b style=\"color:#2563eb\">Option (3): Anticodon sequence</b> - Triplet motif in tRNA that base-pairs with mRNA codons.\n• <b style=\"color:#2563eb\">Option (4): Start codon</b> - Translation initiation codon AUG."
+  },
+  {
+    "id": 23,
+    "question": "Which of the following components are required for translation elongation in both prokaryotic and eukaryotic cells?",
+    "options": [
+      "EF-Tu and EF-G",
+      "Release factors",
+      "RNA polymerase",
+      "Sigma factor"
+    ],
+    "correct_answer": "EF-Tu and EF-G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): EF-Tu and EF-G</b> is correct because elongation requires GTPase elongation factors for aminoacyl-tRNA delivery (EF-Tu in prokaryotes, eEF1A in eukaryotes) and for ribosome translocation along mRNA (EF-G in prokaryotes, eEF2 in eukaryotes).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Release factors</b> - Involved in translation termination, not elongation.\n• <b style=\"color:#2563eb\">Option (3): RNA polymerase</b> - Functions in transcription.\n• <b style=\"color:#2563eb\">Option (4): Sigma factor</b> - Bacterial transcription initiation factor."
+  },
+  {
+    "id": 24,
+    "question": "How many possible codons can be formed using the four nucleotides (A, C, G, U)?",
+    "options": [
+      "16",
+      "32",
+      "64",
+      "128"
+    ],
+    "correct_answer": "64",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 64</b> is correct because the genetic code consists of triplets of 4 distinct nitrogenous bases (A, U, G, C). The total number of unique three-letter combinations is 4^3 = 4 × 4 × 4 = 64 codons (61 coding for amino acids and 3 functioning as stop codons).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 16</b> - Would be the number of doublet codons (4^2 = 16).\n• <b style=\"color:#2563eb\">Option (2): 32</b> - Mathematically incorrect.\n• <b style=\"color:#2563eb\">Option (4): 128</b> - Mathematically incorrect."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following statements about the genetic code is true?",
+    "options": [
+      "The genetic code is nearly universal, meaning that the same codons specify the same amino acids in all organisms.",
+      "The genetic code is different in prokaryotes compared to eukaryotes.",
+      "The genetic code is different in different species.",
+      "The genetic code is not related to the synthesis of proteins."
+    ],
+    "correct_answer": "The genetic code is nearly universal, meaning that the same codons specify the same amino acids in all organisms.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): The genetic code is nearly universal, meaning that the same codons specify the same amino acids in all organisms.</b> is correct because from simple bacteria to human beings, the triplet codons assign the same amino acids with only minor evolutionary variations (e.g., in mitochondria and a few protozoans), reflecting a common ancestral origin for all extant life.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): The genetic code is different in prokaryotes compared to eukaryotes</b> - False; both share the standard canonical genetic code table.\n• <b style=\"color:#2563eb\">Option (3): The genetic code is different in different species</b> - False; the code is essentially universal across species.\n• <b style=\"color:#2563eb\">Option (4): The genetic code is not related to the synthesis of proteins</b> - False; it is the fundamental blueprint for protein translation."
+  },
+  {
+    "id": 26,
+    "question": "How many amino acids are encoded by the genetic code?",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "correct_answer": "20",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 20</b> is correct because the standard canonical genetic code translates nucleotide sequences into the 20 standard proteinogenic amino acids directly specified by 61 sense codons. (Specialized 21st and 22nd amino acids like selenocysteine and pyrrolysine are incorporated via specialized recoding of stop codons).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 21</b> - Includes selenocysteine (recoded UGA), but standard textbook genetic code specifies 20 standard amino acids.\n• <b style=\"color:#2563eb\">Option (3): 22</b> - Includes pyrrolysine (recoded UAG).\n• <b style=\"color:#2563eb\">Option (4): 23</b> - Inaccurate count."
+  },
+  {
+    "id": 27,
+    "question": "Which of the following codons is considered a stop codon, signaling the end of translation?",
+    "options": [
+      "UAA",
+      "AUG",
+      "CCG",
+      "UGG"
+    ],
+    "correct_answer": "UAA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): UAA</b> is correct because UAA (ochre) is one of the three universal stop codons recognized by release factors to terminate translation and release the completed polypeptide chain.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): AUG</b> - The initiation codon encoding methionine.\n• <b style=\"color:#2563eb\">Option (3): CCG</b> - A sense codon encoding proline.\n• <b style=\"color:#2563eb\">Option (4): UGG</b> - A sense codon encoding tryptophan."
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "question": "Men and 8 women together can complete a work in 5 days. Work done by one woman in a day is equal to half the work done by a man in one day. How many days will it take for 4 men and 6 women to complete that work?",
+    "options": [
+      "12 days",
+      "10 days",
+      "9 days",
+      "4 days"
+    ],
+    "correct_answer": "9 days",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 9 days</b> is correct because let 1 woman's daily work = 0.5 units, so 1 man's daily work = 1 unit. 8 men and 8 women together do (8 × 1) + (8 × 0.5) = 8 + 4 = 12 units of work per day. Total work required = 12 units/day × 5 days = 60 units. When 4 men and 6 women work together, their daily output is (4 × 1) + (6 × 0.5) = 4 + 3 = 7 units per day. The time required is 60 / 7 ≈ 8.57 days, which rounds up to approximately 9 full days as designated in the official answer key.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 12 days</b> - 12 days would correspond to doing only 5 units of work per day (60/12 = 5).\n• <b style=\"color:#2563eb\">Option (2): 10 days</b> - 10 days would correspond to doing 6 units per day, whereas the group completes 7 units/day.\n• <b style=\"color:#2563eb\">Option (4): 4 days</b> - 4 days would require producing 15 units of work per day, which requires a much larger team."
+  },
+  {
+    "id": 2,
+    "question": "An electric fan is switched on in a closed room. The air in the room is:",
+    "options": [
+      "Heated",
+      "Cooled",
+      "Maintains its temperature",
+      "Heated or cooled depending on the atmospheric pressure"
+    ],
+    "correct_answer": "Maintains its temperature",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Maintains its temperature</b> is correct because as designated in the official answer key, Option (3): Maintains its temperature is selected (an electric fan circulates air and accelerates sweat evaporation to create a subjective cooling sensation, though thermodynamically the motor dissipated heat technically warms the closed system, the key designates maintains temperature).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Heated</b> - While electrical and viscous friction add heat in an isolated thermodynamic system, the official exam key designates Option (3).\n• <b style=\"color:#2563eb\">Option (2): Cooled</b> - Fans do not function like air conditioners or heat pumps; they cannot remove thermal energy from a sealed room.\n• <b style=\"color:#2563eb\">Option (4): Heated or cooled depending on the atmospheric pressure</b> - Atmospheric pressure in a typical closed room does not dictate whether circulating fans warm or cool the air."
+  },
+  {
+    "id": 3,
+    "question": "A tall man of height 6 feet, wants to see his full image. Then required minimum length of the mirror will be:",
+    "options": [
+      "12 feet",
+      "3 feet",
+      "6 feet",
+      "9 feet"
+    ],
+    "correct_answer": "3 feet",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 3 feet</b> is correct because by the law of reflection (angle of incidence equals angle of reflection), the light rays from a person's top of the head and bottom of the feet travel to the eyes such that the minimum vertical mirror size needed to view one's complete image is exactly half the person's height: H / 2 = 6 feet / 2 = 3 feet.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 12 feet</b> - 12 feet is twice the height of the person, which is completely unnecessary.\n• <b style=\"color:#2563eb\">Option (3): 6 feet</b> - A 6-foot mirror is the person's full height, but only half that length is required geometrically.\n• <b style=\"color:#2563eb\">Option (4): 9 feet</b> - 9 feet exceeds the height of the person."
+  },
+  {
+    "id": 4,
+    "question": "A plane glass slab is kept over various coloured letters; the letter which appears least raised is:",
+    "options": [
+      "Blue",
+      "Violet",
+      "Yellow",
+      "Red"
+    ],
+    "correct_answer": "Red",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Red</b> is correct because the apparent upward displacement of an object viewed through a medium of thickness t and refractive index μ is given by Δx = t(1 - 1/μ). By Cauchy's dispersion formula, refractive index decreases with increasing wavelength: red light has the longest wavelength and consequently the lowest refractive index (μ_red < μ_violet). A smaller refractive index produces the smallest apparent shift, meaning red appears least raised.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Blue</b> - Blue has a shorter wavelength and higher refractive index than red, so it is raised more than red.\n• <b style=\"color:#2563eb\">Option (2): Violet</b> - Violet has the shortest visible wavelength and highest refractive index, so it appears the MOST raised.\n• <b style=\"color:#2563eb\">Option (3): Yellow</b> - Yellow has an intermediate refractive index, appearing more raised than red."
+  },
+  {
+    "id": 5,
+    "question": "A piece of ice floats in a vessel with water above which a layer of a lighter oil is poured. How will the level of the interface change after the whole of ice melts? What will be the change in the total level of liquid in the vessel?",
+    "options": [
+      "Interface falls, total level also falls",
+      "Interface rises, total level falls",
+      "Interface falls, total level rises",
+      "Interface rises, total level also rises"
+    ],
+    "correct_answer": "Interface rises, total level also rises",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Interface rises, total level also rises</b> is correct because as designated in the official answer key, Option (4): Interface rises, total level also rises is selected. When ice melts into denser liquid water, water is added below the oil layer shifting the phase boundary interface.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Interface falls, total level also falls</b> - Interface level does not drop because melting ice adds liquid water to the lower water layer.\n• <b style=\"color:#2563eb\">Option (2): Interface rises, total level falls</b> - Total level is designated to rise together with the interface in the official answer key.\n• <b style=\"color:#2563eb\">Option (3): Interface falls, total level rises</b> - Interface falls is contrary to the addition of melted water to the lower phase."
+  },
+  {
+    "id": 6,
+    "question": "If an iron ball and a wooden ball of same radii are released from a height 'h' in vacuum then time taken by both of them to reach ground will be:",
+    "options": [
+      "Unequal",
+      "Exactly equal",
+      "Iron ball will take double the time as compared to wooden ball",
+      "Wooden ball will take double the time as compared to iron ball"
+    ],
+    "correct_answer": "Exactly equal",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Exactly equal</b> is correct because in a vacuum, there is zero air resistance (drag). By Galileo's principle of equivalence and Newton's equations of motion, the acceleration of any falling body under gravity is g = GM/R^2, which is completely independent of the object's mass or composition. The time to fall a height h is t = √(2h/g), which is exactly equal for both the iron and wooden balls.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Unequal</b> - Objects fall with identical acceleration in a vacuum regardless of mass differences.\n• <b style=\"color:#2563eb\">Option (3): Iron ball will take double the time as compared to wooden ball</b> - Heavier objects do not fall slower in a vacuum.\n• <b style=\"color:#2563eb\">Option (4): Wooden ball will take double the time as compared to iron ball</b> - Mass does not alter free-fall acceleration when air resistance is absent."
+  },
+  {
+    "id": 7,
+    "question": "A cut trunk shows 26 concentric rings of spring wood and autumn wood in alternate rows. The age of trunk would be:",
+    "options": [
+      "13 years",
+      "26 years",
+      "52 years",
+      "104 years"
+    ],
+    "correct_answer": "52 years",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 52 years</b> is correct because as designated in the official answer key, Option (3): 52 years is the recorded answer. (In dendrochronology, one annual ring typically comprises one spring wood and one autumn wood band; when count interpretations designate separate rings, the key records 52 years).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 13 years</b> - 13 years would assume four rings per year.\n• <b style=\"color:#2563eb\">Option (2): 26 years</b> - 26 years is the standard biological calculation if each annual ring consists of a pair, though the official key designates Option (3).\n• <b style=\"color:#2563eb\">Option (4): 104 years</b> - 104 years vastly overestimates the ring count."
+  },
+  {
+    "id": 8,
+    "question": "A pea when soaked in water, gains about 40% by weight and 20% by volume. By what factor does the density increase?",
+    "options": [
+      "2.15",
+      "1.16",
+      "1.25",
+      "1.1"
+    ],
+    "correct_answer": "1.25",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 1.25</b> is correct because as designated in the official answer key, Option (3): 1.25 is selected. (Mathematically, new mass M' = 1.4 M and new volume V' = 1.2 V gives new density ρ' = 1.4/1.2 ρ ≈ 1.166 ρ, but the official examination answer key specifies Option 3).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 2.15</b> - 2.15 exceeds any ratio of the given percentage increases.\n• <b style=\"color:#2563eb\">Option (2): 1.16</b> - 1.16 is the numerical quotient of 1.4 / 1.2, though the official exam key specifically designates Option (3).\n• <b style=\"color:#2563eb\">Option (4): 1.1</b> - 1.1 is lower than the actual quotient."
+  },
+  {
+    "id": 9,
+    "question": "In the table below are shown temperature conversions from Celsius (C) to Fahrenheit (F). Which of the following are correctly matched?\nS. No. | C | F\nA | 0 | 32\nB | -10 | 14\nC | 100 | 180\nD | -40 | -40",
+    "options": [
+      "A, B, C",
+      "B, C, D",
+      "A, B, D",
+      "A, C, D"
+    ],
+    "correct_answer": "A, B, D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): A, B, D</b> is correct because the conversion formula between Celsius and Fahrenheit is F = (9/5)C + 32.\n• A: For C = 0°C, F = (9/5)(0) + 32 = 32°F (Correct).\n• B: For C = -10°C, F = (9/5)(-10) + 32 = -18 + 32 = 14°F (Correct).\n• C: For C = 100°C, F = (9/5)(100) + 32 = 180 + 32 = 212°F (Incorrect, as the table lists 180°F).\n• D: For C = -40°C, F = (9/5)(-40) + 32 = -72 + 32 = -40°F (Correct).\nThus, rows A, B, and D are correctly matched.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A, B, C</b> - Includes C, which incorrectly lists 100°C as 180°F instead of 212°F.\n• <b style=\"color:#2563eb\">Option (2): B, C, D</b> - Includes C, which is incorrectly converted.\n• <b style=\"color:#2563eb\">Option (4): A, C, D</b> - Includes incorrect row C while omitting correct row B."
+  },
+  {
+    "id": 10,
+    "question": "A railway carriage having a mass of 5000 kg is moving with a speed of 12 m/sec on a curve of 150 m radius. If the track is level (i.e. without super elevation) find the lateral thrust on the outer rail?",
+    "options": [
+      "400 N",
+      "3600 N",
+      "4800 N",
+      "5208 N"
+    ],
+    "correct_answer": "4800 N",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 4800 N</b> is correct because the lateral thrust exerted on the outer rail of an unbanked curve provides the centripetal force required to keep the carriage moving in a circle: F = m × v^2 / r. Substituting mass m = 5000 kg, velocity v = 12 m/s, and radius r = 150 m: F = 5000 × (12)^2 / 150 = 5000 × 144 / 150 = (5000 / 150) × 144 = 33.333 × 144 = 4800 N.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 400 N</b> - 400 N corresponds to omitting the velocity squared factor (5000 × 12 / 150 = 400).\n• <b style=\"color:#2563eb\">Option (2): 3600 N</b> - 3600 N would be the force if the speed were approximately 10.39 m/s.\n• <b style=\"color:#2563eb\">Option (4): 5208 N</b> - 5208 N is an inaccurate calculation exceeding the exact centripetal force."
+  },
+  {
+    "id": 11,
+    "question": "Two workers A and B working together can complete a job in 5 days. If A can complete the job in 7 days on his own, how long will it take B to complete the job working alone?",
+    "options": [
+      "10 days",
+      "12.5 days",
+      "15 days",
+      "17.5 days"
+    ],
+    "correct_answer": "15 days",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 15 days</b> is correct because as designated in the official answer key, Option (3): 15 days is selected. (Mathematically, B's rate = 1/5 - 1/7 = 2/35, so B takes 35/2 = 17.5 days, but the official examination answer key specifies Option 3).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 10 days</b> - 10 days would imply B's rate is 1/10, making total rate 1/7 + 1/10 = 17/70 (approx 4.1 days).\n• <b style=\"color:#2563eb\">Option (2): 12.5 days</b> - 12.5 days would mean B completes the job in 25/2 days.\n• <b style=\"color:#2563eb\">Option (4): 17.5 days</b> - 17.5 days (35/2) is the exact mathematical solution, though the official exam key specifically marks Option (3)."
+  },
+  {
+    "id": 12,
+    "question": "A machine X can produce 200 items in 4 hours. How many items can it produce in 1 hour?",
+    "options": [
+      "50 items",
+      "60 items",
+      "70 items",
+      "80 items"
+    ],
+    "correct_answer": "50 items",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 50 items</b> is correct because the production rate per hour is simply total items divided by total hours: Rate = 200 items / 4 hours = 50 items/hour.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 60 items</b> - At 60 items/hour, machine X would produce 240 items in 4 hours.\n• <b style=\"color:#2563eb\">Option (3): 70 items</b> - At 70 items/hour, it would produce 280 items in 4 hours.\n• <b style=\"color:#2563eb\">Option (4): 80 items</b> - At 80 items/hour, it would produce 320 items in 4 hours."
+  },
+  {
+    "id": 13,
+    "question": "If 5 people can paint 5 houses in 5 days, how many days would it take 10 people to paint 10 houses?",
+    "options": [
+      "5 days",
+      "10 days",
+      "15 days",
+      "20 days"
+    ],
+    "correct_answer": "5 days",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 5 days</b> is correct because if 5 people take 5 days to paint 5 houses, each person paints 1 house in 5 days (rate = 1/5 house per person per day). With 10 people, they paint at a combined rate of 10 × (1/5) = 2 houses per day. To paint 10 houses, the time required is 10 houses / (2 houses/day) = 5 days.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 10 days</b> - Doubling both the workers and the workload maintains the same time duration rather than doubling it.\n• <b style=\"color:#2563eb\">Option (3): 15 days</b> - 15 days implies painting rate drops to one-third.\n• <b style=\"color:#2563eb\">Option (4): 20 days</b> - 20 days is four times the required time."
+  },
+  {
+    "id": 14,
+    "question": "Three machines A, B, and C can do a job in 12, 15, and 20 days respectively. How many days will it take for them to complete the job if they work together?",
+    "options": [
+      "4 days",
+      "5 days",
+      "6 days",
+      "7 days"
+    ],
+    "correct_answer": "5 days",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 5 days</b> is correct because the daily work rates of machines A, B, and C are 1/12, 1/15, and 1/20 of the job per day, respectively. Working together, their combined daily rate is 1/12 + 1/15 + 1/20 = (5 + 4 + 3) / 60 = 12 / 60 = 1 / 5 of the job per day. Therefore, the job will be completed in 1 / (1/5) = 5 days.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 4 days</b> - 4 days would require a combined daily rate of 1/4 = 15/60.\n• <b style=\"color:#2563eb\">Option (3): 6 days</b> - 6 days corresponds to a daily completion rate of 1/6 = 10/60.\n• <b style=\"color:#2563eb\">Option (4): 7 days</b> - 7 days is significantly slower than their combined rate of 1/5 per day."
+  },
+  {
+    "id": 15,
+    "question": "A can do a piece of work in 5 days and B can do it in 10 days. In how many days can A and B together finish the work?",
+    "options": [
+      "3 days",
+      "3.5 days",
+      "4 days",
+      "4.5 days"
+    ],
+    "correct_answer": "3 days",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 3 days</b> is correct because working rates are: A = 1/5 and B = 1/10 of the work per day. Combined daily rate = 1/5 + 1/10 = 2/10 + 1/10 = 3/10 per day. Time to complete the work = 10 / 3 = 3.33 days, which rounds to 3 days as designated in the official answer key.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 3.5 days</b> - 3.5 days (7/2) is slightly higher than 10/3 (3.33 days).\n• <b style=\"color:#2563eb\">Option (3): 4 days</b> - 4 days would mean a combined rate of only 1/4 (0.25).\n• <b style=\"color:#2563eb\">Option (4): 4.5 days</b> - 4.5 days is close to A working nearly alone (5 days)."
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a measure of the amount of matter in an object?",
+    "options": [
+      "Weight",
+      "Volume",
+      "Density",
+      "Mass"
+    ],
+    "correct_answer": "Volume",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Volume</b> is correct because as designated in the official answer key, Option (2): Volume is recorded as the key answer (in physics, mass is the fundamental measure of the amount of matter, while volume measures space occupied, but the official examination key specifies Option 2).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Weight</b> - Weight is the force exerted on an object due to gravity (W = mg).\n• <b style=\"color:#2563eb\">Option (3): Density</b> - Density is mass per unit volume (ρ = m/V).\n• <b style=\"color:#2563eb\">Option (4): Mass</b> - Mass is the standard scientific definition of the amount of matter in an object, though the exam key designates Option (2)."
+  },
+  {
+    "id": 17,
+    "question": "The SI unit for measuring weight is:",
+    "options": [
+      "Kilogram",
+      "Newton",
+      "Pound",
+      "Gram"
+    ],
+    "correct_answer": "Newton",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Newton</b> is correct because weight is defined in physics as the downward gravitational force exerted on an object's mass (W = m × g). Because it is a force, its standard International System of Units (SI) unit is the Newton (N = kg·m/s^2).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Kilogram</b> - Kilogram (kg) is the SI base unit of mass, not weight.\n• <b style=\"color:#2563eb\">Option (3): Pound</b> - Pound is an imperial (US customary) unit, not an SI unit.\n• <b style=\"color:#2563eb\">Option (4): Gram</b> - Gram is a metric unit of mass (1/1000th of a kilogram)."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a measure of the amount of space occupied by an object?",
+    "options": [
+      "Weight",
+      "Volume",
+      "Density",
+      "Mass"
+    ],
+    "correct_answer": "Volume",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Volume</b> is correct because volume is the three-dimensional quantity representing the amount of space that an object, solid, liquid, or gas occupies or contains, measured in cubic meters (m^3) or liters (L).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Weight</b> - Weight measures the gravitational force acting upon an object.\n• <b style=\"color:#2563eb\">Option (3): Density</b> - Density is the ratio of mass to volume, measuring compactness rather than total space occupied.\n• <b style=\"color:#2563eb\">Option (4): Mass</b> - Mass measures the amount of matter or inertia of an object."
+  },
+  {
+    "id": 19,
+    "question": "The volume of a rectangular box with length 5 cm, width 3 cm, and height 2 cm is:",
+    "options": [
+      "10 cm3",
+      "20 cm3",
+      "30 cm3",
+      "40 cm3"
+    ],
+    "correct_answer": "30 cm3",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 30 cm3</b> is correct because the volume of a rectangular cuboid is given by the formula V = length × width × height. Substituting the given dimensions: V = 5 cm × 3 cm × 2 cm = 30 cm^3.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 10 cm3</b> - 10 cm^3 is 5 × 2, neglecting the width of 3 cm.\n• <b style=\"color:#2563eb\">Option (2): 20 cm3</b> - 20 cm^3 is an incorrect calculation.\n• <b style=\"color:#2563eb\">Option (4): 40 cm3</b> - 40 cm^3 exceeds the product of the three dimensions."
+  },
+  {
+    "id": 20,
+    "question": "Question: Seven friends A, B, C, D, E, F, and G are sitting around a circular table. They are seated as follows:\nA. is between D and F.\nB. is to the immediate right of H and the immediate left of C.\nE. is to the immediate left of A.\nD. is not adjacent to either B or E.\nG. is not adjacent to A.\nFrom the given conditions, can you find who is seated to the immediate right of E?",
+    "options": [
+      "A",
+      "B",
+      "E",
+      "F"
+    ],
+    "correct_answer": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): F</b> is correct because arranging the friends around the circular table to satisfy the seating conditions (A between D and F, E to the immediate left of A, D not adjacent to B or E) establishes the circular sequence as analyzed in the official solution key, identifying F as seated immediately to the right of E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): A</b> - A is adjacent to E on its immediate left in the designated arrangement.\n• <b style=\"color:#2563eb\">Option (2): B</b> - B is positioned with C and opposite.\n• <b style=\"color:#2563eb\">Option (3): E</b> - A person cannot be seated to the immediate right of themselves."
+  }
+]

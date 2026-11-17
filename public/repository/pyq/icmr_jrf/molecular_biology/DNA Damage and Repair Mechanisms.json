@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "question": "The original codon changes to stop codon in which type of mutation",
+    "options": [
+      "Sense mutation",
+      "Mis-sense mutation",
+      "Nonsense mutation",
+      "Reverse mutation"
+    ],
+    "correct_answer": "Nonsense mutation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nonsense mutation</b> is correct because a nonsense mutation is a point mutation that converts a sense codon coding for an amino acid into a premature termination (stop) codon (UAA, UAG, or UGA in mRNA), leading to premature polypeptide chain termination and truncated non-functional proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Sense mutation</b> - Often refers to a silent/synonymous mutation where a codon changes but still codes for the same amino acid, or a mutation changing a stop codon into a sense codon.\n• <b style=\"color:#2563eb\">Option (2): Mis-sense mutation</b> - A base substitution that replaces one amino acid codon with a codon for a different amino acid.\n• <b style=\"color:#2563eb\">Option (4): Reverse mutation</b> - A second mutation that reverts a mutant allele back to its original wild-type sequence."
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is the name of the human genetic disorder resulting from defects in nucleotide excision repair?",
+    "options": [
+      "Hereditary nonpolyposis colorectal cancer (HNPCC)",
+      "Xeroderma pigmentosum (XP)",
+      "Lynch syndrome",
+      "Diabetes"
+    ],
+    "correct_answer": "Xeroderma pigmentosum (XP)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Xeroderma pigmentosum (XP)</b> is correct because Xeroderma Pigmentosum is an autosomal recessive genetic disease caused by inherited mutations in genes of the nucleotide excision repair (NER) pathway (XPA through XPG). Affected individuals cannot repair ultraviolet (UV)-induced cyclobutane pyrimidine dimers (CPDs) and 6-4 photoproducts, resulting in extreme photosensitivity and a >1000-fold increased risk of cutaneous malignancies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Hereditary nonpolyposis colorectal cancer (HNPCC)</b> - Caused by defects in DNA mismatch repair (MMR) genes (MSH2, MLH1, MSH6, PMS2).\n• <b style=\"color:#2563eb\">Option (3): Lynch syndrome</b> - Another name for HNPCC; defect in mismatch repair.\n• <b style=\"color:#2563eb\">Option (4): Diabetes</b> - A metabolic/endocrine disorder, not an NER defect disorder."
+  },
+  {
+    "id": 3,
+    "question": "Frame shift mutation results from:",
+    "options": [
+      "Substitution of at least three bases",
+      "Deletion of single base",
+      "Addition of a codon",
+      "Deletion of a codon"
+    ],
+    "correct_answer": "Deletion of single base",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Deletion of single base</b> is correct because insertion or deletion of any number of nucleotides that is not a multiple of three alters the triplet reading frame of mRNA during translation. Deleting a single base shifts all downstream codons, altering every subsequent amino acid and usually introducing a premature stop codon.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Substitution of at least three bases</b> - Substitutions alter individual codons but preserve the overall reading frame.\n• <b style=\"color:#2563eb\">Option (3): Addition of a codon</b> - Adding 3 nucleotides (one intact codon) inserts a single amino acid without altering the downstream reading frame.\n• <b style=\"color:#2563eb\">Option (4): Deletion of a codon</b> - Deleting 3 nucleotides deletes one amino acid in-frame without shifting the reading frame."
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is also called \"suicide enzyme\"?",
+    "options": [
+      "DNA glycosylase",
+      "DNA photolyase",
+      "O6 alkyl guanine transferase (ada)",
+      "Exonuclease"
+    ],
+    "correct_answer": "O6 alkyl guanine transferase (ada)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): O6 alkyl guanine transferase (ada)</b> is correct because O6-alkylguanine-DNA alkyltransferase (such as the Ada protein in E. coli or MGMT in humans) transfers the alkyl group directly from O6-methylguanine to an active-site cysteine residue. This covalent transfer permanently inactivates the enzyme and targets it for ubiquitin-proteasomal degradation, making it a sacrificial \"suicide enzyme\" (stoichiometric repair rather than true catalytic turnover).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA glycosylase</b> - True catalytic enzyme that repeatedly cleaves N-glycosidic bonds of damaged bases without self-destruction.\n• <b style=\"color:#2563eb\">Option (2): DNA photolyase</b> - Catalytically splits cyclobutane pyrimidine dimers via light-driven electron transfer using FADH(-) and MTHF/8-HDF chromophores.\n• <b style=\"color:#2563eb\">Option (4): Exonuclease</b> - Hydrolytic enzyme that continuously removes terminal nucleotides."
+  },
+  {
+    "id": 5,
+    "question": "If a mutation converts a triplet codon 'UGC' to 'UGA', it is called",
+    "options": [
+      "Missense mutation",
+      "Deletion mutation",
+      "frameshift mutation",
+      "Non-sense mutation"
+    ],
+    "correct_answer": "Non-sense mutation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Non-sense mutation</b> is correct because UGC codes for the amino acid cysteine, while UGA is one of the three universal stop (nonsense) codons (along with UAA and UAG). A mutation mutating an amino acid codon into a termination codon is defined as a nonsense mutation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Missense mutation</b> - Alters a codon to encode a different amino acid, not a termination signal.\n• <b style=\"color:#2563eb\">Option (2): Deletion mutation</b> - Involves the physical removal of nucleotides, whereas here a base substitution (C -> A) took place.\n• <b style=\"color:#2563eb\">Option (3): frameshift mutation</b> - Results from net non-multiple-of-three insertions or deletions, which is not the case here."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following repair pathways can faithfully repair a double-strand DNA break?",
+    "options": [
+      "Non-homologous end joining",
+      "Homologous recombination",
+      "Base excision repair",
+      "Nucleotide excision repair"
+    ],
+    "correct_answer": "Homologous recombination",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Homologous recombination</b> is correct because Homologous Recombination (HR) repairs double-strand breaks (DSBs) error-free by utilizing an undamaged homologous sister chromatid as a physical template during late S and G2 phases of the cell cycle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Non-homologous end joining</b> - An error-prone repair mechanism that directly ligates broken DNA ends without requiring extensive homology, often causing loss or addition of nucleotides.\n• <b style=\"color:#2563eb\">Option (3): Base excision repair</b> - Repairs single-base non-bulky lesions on a single strand, not double-strand breaks.\n• <b style=\"color:#2563eb\">Option (4): Nucleotide excision repair</b> - Repairs bulky helix-distorting single-strand lesions (e.g., UV photoproducts)."
+  },
+  {
+    "id": 7,
+    "question": "How does MutS recognize mismatched during DNA repair in Escherichia coli?",
+    "options": [
+      "MutS induces a conformational change in the DNA backbone.",
+      "MutS binds to nonspecific DNA and bends it",
+      "MutS activates the ATPase activity of MutL.",
+      "MutS causes a nick or incision on one strand near the site of the mismatch."
+    ],
+    "correct_answer": "MutS binds to nonspecific DNA and bends it",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): MutS binds to nonspecific DNA and bends it</b> is correct because the MutS homodimer scans duplex DNA by binding and transiently bending the helix. Mismatched or unpaired bases lack normal Watson-Crick hydrogen bonding and are more easily deformed, allowing MutS to sense the increased flexibility and kink the DNA at the mismatch site (~60 degrees), triggering ADP-to-ATP exchange and recruitment of MutL.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): MutS induces a conformational change in the DNA backbone</b> - It is the bending/kinking upon sensing reduced stacking that defines the primary recognition mechanism.\n• <b style=\"color:#2563eb\">Option (3): MutS activates the ATPase activity of MutL</b> - MutL has intrinsic ATPase activity modulated during downstream assembly, but MutS recognition precedes this.\n• <b style=\"color:#2563eb\">Option (4): MutS causes a nick or incision on one strand near the site of the mismatch</b> - Incision is catalyzed by the endonuclease MutH at unmethylated GATC sequences, not by MutS."
+  },
+  {
+    "id": 8,
+    "question": "Which protein component is recruited by the complex of MutS and mismatch-containing DNA in the mismatch repair system of Escherichia coli?",
+    "options": [
+      "MutH",
+      "UvrD",
+      "DNA polymerase III (Pol III)",
+      "MutL"
+    ],
+    "correct_answer": "MutL",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): MutL</b> is correct because upon recognizing a base mismatch and binding ATP, MutS undergoes a conformational transition to form a mobile clamp. The MutS-DNA complex then recruits the matchmaker protein MutL (a homodimer), which bridges MutS to the downstream endonuclease MutH and coordinates helicase recruitment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): MutH</b> - MutH binds to hemimethylated GATC sequences and is activated by the MutS-MutL complex, but MutL is recruited first by MutS.\n• <b style=\"color:#2563eb\">Option (2): UvrD</b> - Helicase II is recruited later by MutL to unwind the strand from the nick toward the mismatch.\n• <b style=\"color:#2563eb\">Option (3): DNA polymerase III (Pol III)</b> - Acts in the final resynthesis step after exonucleolytic degradation."
+  },
+  {
+    "id": 9,
+    "question": "What is the role of DNA polymerase III (Pol III) in the mismatch repair process in Escherichia coli?",
+    "options": [
+      "It induces a conformational change in MutS.",
+      "It unwinds the DNA starting from the incision site.",
+      "It digests the displaced single strand of DNA.",
+      "It fills in the single-strand gap and seals it with DNA ligase."
+    ],
+    "correct_answer": "It fills in the single-strand gap and seals it with DNA ligase.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): It fills in the single-strand gap and seals it with DNA ligase.</b> is correct because following incision by MutH and excision of the mismatch-containing daughter strand by UvrD helicase and specific exonucleases (RecJ, ExoI, ExoVII, or ExoX), DNA Polymerase III holoenzyme resynthesizes the missing DNA patch using the methylated parental strand as a template, after which DNA ligase seals the remaining nick.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): It induces a conformational change in MutS</b> - ATP binding induces the conformational change in MutS.\n• <b style=\"color:#2563eb\">Option (2): It unwinds the DNA starting from the incision site</b> - Unwinding is performed by UvrD (helicase II).\n• <b style=\"color:#2563eb\">Option (3): It digests the displaced single strand of DNA</b> - Degradation is performed by specific single-strand exonucleases."
+  },
+  {
+    "id": 10,
+    "question": "Which enzyme is involved in recognizing and removing damaged bases in base excision repair?",
+    "options": [
+      "DNA polymerase",
+      "DNA ligase",
+      "DNA glycosylase",
+      "Endonuclease"
+    ],
+    "correct_answer": "DNA glycosylase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): DNA glycosylase</b> is correct because Base Excision Repair (BER) is initiated by lesion-specific DNA glycosylases. The enzyme flips the damaged or modified base (e.g., uracil, 8-oxoguanine) out of the DNA double helix into its active site and cleaves the N-glycosidic bond linking the base to the deoxyribose-phosphate backbone, leaving an apurinic/apyrimidinic (AP) site.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA polymerase</b> - Fills the nucleotide gap created after AP endonuclease incisions.\n• <b style=\"color:#2563eb\">Option (2): DNA ligase</b> - Seals the final phosphodiester nick.\n• <b style=\"color:#2563eb\">Option (4): Endonuclease</b> - AP endonuclease cleaves the phosphodiester backbone at an AP site, but does not recognize and remove the initial damaged nitrogenous base."
+  },
+  {
+    "id": 11,
+    "question": "What is the role of endonucleolytic cleavage in base excision repair?",
+    "options": [
+      "It removes the damaged nucleotide from the backbone.",
+      "It restores an intact strand using the undamaged strand as a template.",
+      "It recognizes and removes specific lesions like uracil and oxoG.",
+      "It repairs abasic sugars generated by spontaneous hydrolysis."
+    ],
+    "correct_answer": "It removes the damaged nucleotide from the backbone.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): It removes the damaged nucleotide from the backbone.</b> is correct because AP endonuclease (e.g., AP1/Ape1) cleaves the phosphodiester backbone immediately 5' to the abasic (AP) site, facilitating the removal of the remaining deoxyribose phosphate residue by a phosphodiesterase/dRpase activity so that DNA polymerase and ligase can complete the repair.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): It restores an intact strand using the undamaged strand as a template</b> - Performed by DNA polymerase and DNA ligase.\n• <b style=\"color:#2563eb\">Option (3): It recognizes and removes specific lesions like uracil and oxoG</b> - Carried out by specific DNA glycosylases (e.g., Uracil DNA glycosylase, OGG1).\n• <b style=\"color:#2563eb\">Option (4): It repairs abasic sugars generated by spontaneous hydrolysis</b> - Endonuclease does not directly repair sugars; it cleaves the backbone."
+  },
+  {
+    "id": 12,
+    "question": "Why do cells have multiple DNA glycosylases with different specificities?",
+    "options": [
+      "To enhance the efficiency of DNA polymerase activity.",
+      "To recognize and remove specific lesions in DNA.",
+      "To initiate DNA replication at multiple origins.",
+      "To repair double-strand DNA breaks."
+    ],
+    "correct_answer": "To recognize and remove specific lesions in DNA.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): To recognize and remove specific lesions in DNA.</b> is correct because diverse chemical insults produce structurally distinct damaged bases (e.g., uracil resulting from cytosine deamination, 8-oxoguanine from reactive oxygen species, alkylated bases, hypoxanthine). Cells maintain a battery of distinct DNA glycosylases (such as UNG, OGG1, MUTYH, MPG) each possessing an active pocket uniquely tailored to recognize and excise specific abnormal base lesions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): To enhance the efficiency of DNA polymerase activity</b> - Glycosylases function in damage removal prior to polymerase gap-filling.\n• <b style=\"color:#2563eb\">Option (3): To initiate DNA replication at multiple origins</b> - Origin licensing and initiation are governed by ORC, Cdc6, Cdt1, and MCM helicases.\n• <b style=\"color:#2563eb\">Option (4): To repair double-strand DNA breaks</b> - DSB repair uses HR and NHEJ pathways, not glycosylases."
+  },
+  {
+    "id": 13,
+    "question": "Which of the following proteins is responsible for detecting distortions to the DNA helix during nucleotide excision repair in E. coli?",
+    "options": [
+      "UvrA",
+      "UvrB",
+      "UvrC",
+      "UvrD"
+    ],
+    "correct_answer": "UvrA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): UvrA</b> is correct because in E. coli nucleotide excision repair (NER), a heterotetrameric complex consisting of two UvrA and two UvrB subunits (UvrA2B2) scans the genome. UvrA acts as the primary molecular damage sensor that recognizes helical distortions and kinks produced by bulky lesions (such as thymine dimers).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): UvrB</b> - Verifies the lesion by unwinding DNA around the damaged site after UvrA dissociates.\n• <b style=\"color:#2563eb\">Option (3): UvrC</b> - The excinuclease endonuclease that binds UvrB to make dual incisions.\n• <b style=\"color:#2563eb\">Option (4): UvrD</b> - Helicase II that unwinds and displaces the excised damaged oligonucleotide."
+  },
+  {
+    "id": 14,
+    "question": "Which protein creates two incisions near the lesion during nucleotide excision repair in E. coli?",
+    "options": [
+      "UvrA",
+      "UvrB",
+      "UvrC",
+      "UvrD"
+    ],
+    "correct_answer": "UvrC",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): UvrC</b> is correct because UvrC is the excinuclease subunit in E. coli NER. Once recruited to the UvrB-DNA complex at the damaged site, UvrC creates two precise incisions in the damaged strand: one 4-5 nucleotides 3' to the lesion, and another 8 nucleotides 5' to the lesion, releasing a 12-13 nucleotide fragment.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): UvrA</b> - Damage recognition factor that dissociates prior to incision.\n• <b style=\"color:#2563eb\">Option (2): UvrB</b> - Unwinds DNA and presents the lesion to UvrC; it does not introduce the dual incisions by itself.\n• <b style=\"color:#2563eb\">Option (4): UvrD</b> - Helicase II that releases the cleaved 12-mer fragment."
+  },
+  {
+    "id": 15,
+    "question": "Which protein is responsible for removing the lesion-containing strand from the rest of the DNA during nucleotide excision repair in E. coli?",
+    "options": [
+      "UvrA",
+      "UvrB",
+      "UvrC",
+      "UvrD"
+    ],
+    "correct_answer": "UvrC",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): UvrC</b> is correct. Note that while UvrC endonuclease creates the dual incisions flanking the lesion to excise it from the backbone, UvrD (Helicase II) physically unwinds and releases the 12-13 nt lesion-containing oligonucleotide. Following the official key, Option (3) is designated.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): UvrA</b> - Initial damage-sensing protein that dissociates early in the reaction cycle.\n• <b style=\"color:#2563eb\">Option (2): UvrB</b> - Forms a stable pre-incision complex with damaged DNA.\n• <b style=\"color:#2563eb\">Option (4): UvrD</b> - The biochemical helicase that unwinds the dual-nicked fragment; however, the designated answer key specifies Option (3)."
+  },
+  {
+    "id": 16,
+    "question": "SOS repair is a DNA repair mechanism that is activated in response to:",
+    "options": [
+      "Single-strand breaks in the DNA backbone",
+      "Double-strand breaks in the DNA backbone",
+      "UV-induced DNA damage",
+      "Mismatched base pairs in the DNA sequence"
+    ],
+    "correct_answer": "UV-induced DNA damage",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): UV-induced DNA damage</b> is correct because heavy exposure to ultraviolet (UV) radiation creates extensive pyrimidine dimers that stall replication forks, exposing persistent stretches of single-stranded DNA (ssDNA). This serves as the classical physiological trigger that activates the bacterial SOS response.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Single-strand breaks in the DNA backbone</b> - Routinely repaired directly by DNA ligase or BER without invoking the whole SOS regulon.\n• <b style=\"color:#2563eb\">Option (2): Double-strand breaks in the DNA backbone</b> - Can induce SOS if persistent ssDNA ends are generated, but UV-induced damage is the classical textbook inducer.\n• <b style=\"color:#2563eb\">Option (4): Mismatched base pairs in the DNA sequence</b> - Handled by the MutS/MutL/MutH mismatch repair pathway."
+  },
+  {
+    "id": 17,
+    "question": "Which protein plays a key role in initiating the SOS repair response?",
+    "options": [
+      "RecA",
+      "MutS",
+      "DNA polymerase III",
+      "DNA ligase"
+    ],
+    "correct_answer": "RecA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): RecA</b> is correct because RecA is the primary sensor and initiator of the SOS response. RecA binds to exposed single-stranded DNA generated at stalled replication forks, forming a nucleoprotein filament (RecA*) that acts as a co-protease, stimulating the autocatalytic self-cleavage and inactivation of the LexA transcriptional repressor.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): MutS</b> - Recognizes replication mismatches in methyl-directed mismatch repair.\n• <b style=\"color:#2563eb\">Option (3): DNA polymerase III</b> - Replicative DNA polymerase.\n• <b style=\"color:#2563eb\">Option (4): DNA ligase</b> - Catalyzes phosphodiester bond formation between adjacent 3'-OH and 5'-phosphate ends."
+  },
+  {
+    "id": 18,
+    "question": "The primary function of SOS repair is to:",
+    "options": [
+      "Repair DNA damage before replication occurs",
+      "Restore the DNA sequence to its original state",
+      "Enhance the fidelity of DNA replication",
+      "Allow replication to bypass damaged DNA templates"
+    ],
+    "correct_answer": "Allow replication to bypass damaged DNA templates",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Allow replication to bypass damaged DNA templates</b> is correct because the SOS response induces specialized low-fidelity translesion synthesis (TLS) polymerases (such as Pol IV / DinB and Pol V / UmuD'2C) capable of inserting nucleotides directly across from bulky, non-coding DNA lesions that would otherwise permanently arrest the replisome, allowing cell survival at the expense of an elevated mutation rate.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Repair DNA damage before replication occurs</b> - Pre-replicative repair is carried out by NER or BER; SOS is an emergency survival response to blocked replication forks.\n• <b style=\"color:#2563eb\">Option (2): Restore the DNA sequence to its original state</b> - SOS-induced TLS polymerases are error-prone and frequently introduce mutations rather than restoring original sequence.\n• <b style=\"color:#2563eb\">Option (3): Enhance the fidelity of DNA replication</b> - SOS significantly decreases replication fidelity."
+  },
+  {
+    "id": 19,
+    "question": "Which of the following is a consequence of SOS repair activation?",
+    "options": [
+      "Decreased mutation rate",
+      "Enhanced accuracy of DNA replication",
+      "Increased production of error-prone DNA polymerases",
+      "Inhibition of DNA synthesis"
+    ],
+    "correct_answer": "Increased production of error-prone DNA polymerases",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Increased production of error-prone DNA polymerases</b> is correct because derepression of the SOS regulon dramatically elevates the transcription of genes encoding translesion polymerases, namely dinB (DNA Polymerase IV) and umuDC (DNA Polymerase V), which lack proofreading exonuclease domains and synthesize DNA with high error rates across lesions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Decreased mutation rate</b> - SOS activation significantly increases mutation rates (SOS mutagenesis).\n• <b style=\"color:#2563eb\">Option (2): Enhanced accuracy of DNA replication</b> - Accuracy is compromised in exchange for replicative bypass and cellular survival.\n• <b style=\"color:#2563eb\">Option (4): Inhibition of DNA synthesis</b> - SOS enables resumption of DNA synthesis past stalled lesions."
+  },
+  {
+    "id": 20,
+    "question": "The SOS repair response is regulated by a repressor protein called:",
+    "options": [
+      "LexA",
+      "RecA",
+      "UvrA",
+      "MutS"
+    ],
+    "correct_answer": "LexA",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): LexA</b> is correct because LexA is the transcriptional repressor that binds as a dimer to 20-bp palindromic \"SOS boxes\" in the operator regions of over 40 SOS regulon genes, repressing their transcription under uninduced (normal) conditions. Upon DNA damage, activated RecA* induces LexA autodigestion, relieving repression.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): RecA</b> - Acts as the damage sensor/inducer and co-protease, not the transcriptional repressor.\n• <b style=\"color:#2563eb\">Option (3): UvrA</b> - Damage recognition component of nucleotide excision repair.\n• <b style=\"color:#2563eb\">Option (4): MutS</b> - Recognition factor in mismatch repair."
+  },
+  {
+    "id": 21,
+    "question": "Substitution mutations involve the replacement of one nucleotide with another. Which of the following statements is true about substitution mutations?",
+    "options": [
+      "They always result in a frameshift mutation.",
+      "They can lead to the insertion or deletion of nucleotides.",
+      "They only occur in non-coding regions of DNA.",
+      "They can be silent, missense, or nonsense mutations."
+    ],
+    "correct_answer": "They can be silent, missense, or nonsense mutations.",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): They can be silent, missense, or nonsense mutations.</b> is correct because base substitution (point) mutations can have three distinct effects on coding sequence: silent/synonymous (encoding the same amino acid due to code degeneracy), missense (encoding a different amino acid), or nonsense (generating a premature termination codon).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): They always result in a frameshift mutation</b> - Substitutions never alter the downstream reading frame.\n• <b style=\"color:#2563eb\">Option (2): They can lead to the insertion or deletion of nucleotides</b> - Base substitutions involve exchange of bases without changing total nucleotide count.\n• <b style=\"color:#2563eb\">Option (3): They only occur in non-coding regions of DNA</b> - Substitutions occur ubiquitously throughout both coding exons and non-coding sequences."
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is an example of a silent substitution mutation?",
+    "options": [
+      "ACG (Threonine) to ACT (Threonine)",
+      "ATG (Methionine) to ATT (Isoleucine)",
+      "GAA (Glutamic acid) to GAG (Glutamic acid)",
+      "TCA (Serine) to TTA (Leucine)"
+    ],
+    "correct_answer": "GAA (Glutamic acid) to GAG (Glutamic acid)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): GAA (Glutamic acid) to GAG (Glutamic acid)</b> is correct because both codons GAA and GAG specify the amino acid glutamic acid (Glu). Consequently, a base substitution changing GAA to GAG does not alter the amino acid sequence of the synthesized polypeptide, which defines a silent (synonymous) mutation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): ACG (Threonine) to ACT (Threonine)</b> - Although ACT corresponds to ACU in mRNA which also codes for threonine, Option (3) is the designated canonical textbook answer in the official key.\n• <b style=\"color:#2563eb\">Option (2): ATG (Methionine) to ATT (Isoleucine)</b> - A missense mutation altering methionine to isoleucine.\n• <b style=\"color:#2563eb\">Option (4): TCA (Serine) to TTA (Leucine)</b> - A missense mutation altering serine to leucine."
+  },
+  {
+    "id": 23,
+    "question": "Which type of substitution mutation is most likely to have a significant impact on protein function?",
+    "options": [
+      "Silent mutation",
+      "Missense mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+    ],
+    "correct_answer": "Missense mutation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Missense mutation</b> is correct. A missense mutation alters a single amino acid in a protein; when this change occurs in a key active site, catalytic triad, or ligand-binding pocket (such as Glu6Val in hemoglobin leading to sickle cell anemia), it significantly impacts protein folding and biological function.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Silent mutation</b> - Does not change the amino acid sequence and typically has minimal or no phenotypic effect.\n• <b style=\"color:#2563eb\">Option (3): Nonsense mutation</b> - Introduces a premature stop codon; designated answer in the key is missense mutation.\n• <b style=\"color:#2563eb\">Option (4): Frameshift mutation</b> - An insertion/deletion mutation, not a base substitution mutation."
+  },
+  {
+    "id": 24,
+    "question": "Which type of substitution mutation introduces a premature stop codon?",
+    "options": [
+      "Silent mutation",
+      "Missense mutation",
+      "Nonsense mutation",
+      "Frameshift mutation"
+    ],
+    "correct_answer": "Nonsense mutation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nonsense mutation</b> is correct because a nonsense mutation specifically converts an amino-acid specifying sense codon into one of the three universal translation stop codons (UAA, UAG, or UGA), causing premature translation termination and truncated proteins.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Silent mutation</b> - Produces a synonymous codon specifying the exact same amino acid.\n• <b style=\"color:#2563eb\">Option (2): Missense mutation</b> - Changes a codon to code for a different amino acid.\n• <b style=\"color:#2563eb\">Option (4): Frameshift mutation</b> - Involves indels that alter the reading frame, not a simple base substitution."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is not a possible outcome of a substitution mutation?",
+    "options": [
+      "Change in a single amino acid",
+      "Introduction of a new start codon",
+      "Premature termination of protein synthesis",
+      "Deletion or insertion of nucleotides"
+    ],
+    "correct_answer": "Deletion or insertion of nucleotides",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Deletion or insertion of nucleotides</b> is correct because a substitution mutation is defined strictly as the exchange or replacement of one base pair with another without altering the total length of the DNA strand. Insertion or deletion (indel) of nucleotides is a distinct class of mutations entirely separate from substitutions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Change in a single amino acid</b> - A classic outcome of a missense substitution mutation.\n• <b style=\"color:#2563eb\">Option (2): Introduction of a new start codon</b> - A substitution can create a new AUG start codon in an untranslated region.\n• <b style=\"color:#2563eb\">Option (3): Premature termination of protein synthesis</b> - A classic outcome of a nonsense substitution mutation."
+  }
+]

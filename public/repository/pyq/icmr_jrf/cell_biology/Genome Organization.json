@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1,
+    "question": "Alu sequences are",
+    "options": [
+      "Promoter sequence",
+      "Repetitive DNA sequence",
+      "Transcription initiation sequence",
+      "Telomeric sequence"
+    ],
+    "correct_answer": "Repetitive DNA sequence",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Repetitive DNA sequence</b> is correct. Alu elements are primate-specific Short Interspersed Nuclear Elements (SINEs), approximately 300 base pairs in length. Named for harboring a cleavage recognition site for the restriction endonuclease AluI, they are retrotransposons derived from 7SL RNA and are present in over 1 million copies, comprising ~10-11% of the total human genome.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Promoter sequence</b> - Regulatory DNA sequences upstream of transcriptional start sites (e.g., TATA box, Inr) where RNA polymerase and transcription factors bind.\n• <b style=\"color:#2563eb\">Option (3): Transcription initiation sequence</b> - Core initiator elements (Inr) specifying the exact transcription start site (+1).\n• <b style=\"color:#2563eb\">Option (4): Telomeric sequence</b> - Specialized terminal hexanucleotide tandem repeats (TTAGGG in humans) capping chromosome ends."
+  },
+  {
+    "id": 2,
+    "question": "How many types of histone molecules are found in nature?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "correct_answer": "Five",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Five</b> is correct. There are five major classes of basic histone proteins in eukaryotic chromatin: four core histones (H2A, H2B, H3, and H4) that assemble as an octamer ($[H2A-H2B]_2 \\cdot [H3-H4]_2$) around which 147 bp of DNA wraps, and one linker histone (H1), which binds entry/exit DNA linker regions to stabilize higher-order 30-nm chromatin fiber compaction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Three</b> - Underestimates histone diversity.\n• <b style=\"color:#2563eb\">Option (2): Four</b> - Only accounts for the four core histones, ignoring the essential H1 linker histone.\n• <b style=\"color:#2563eb\">Option (4): Six</b> - Exceeds the standard primary histone classes."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following describes the organization of DNA into a more condensed structure in eukaryotic cells?",
+    "options": [
+      "Nucleosome",
+      "Telomere",
+      "Centromere",
+      "Histone"
+    ],
+    "correct_answer": "Nucleosome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Nucleosome</b> is correct. The nucleosome is the fundamental repeating structural unit of eukaryotic chromatin compaction (the 'beads-on-a-string' structure). Each nucleosome core particle consists of 147 base pairs of DNA wrapped in 1.67 left-handed superhelical turns around a central histone octamer, condensing naked DNA approximately 6-fold.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Telomere</b> - Specialized terminal capping structure protecting chromosome ends from degradation and end-to-end fusions.\n• <b style=\"color:#2563eb\">Option (3): Centromere</b> - Specialized constricted chromosomal locus directing kinetochore assembly and spindle attachment during division.\n• <b style=\"color:#2563eb\">Option (4): Histone</b> - Individual basic protein subunits that assemble into the octamer, whereas the organized nucleoprotein condensation unit itself is the nucleosome."
+  },
+  {
+    "id": 4,
+    "question": "The region where sister chromatids are held together after DNA replication is called:",
+    "options": [
+      "Centromere",
+      "Telomere",
+      "Promoter",
+      "Exon"
+    ],
+    "correct_answer": "Centromere",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Centromere</b> is correct. The centromere is the constricted chromosomal region enriched with the histone H3 variant CENP-A and specialized alpha-satellite heterochromatin. Cohesin ring complexes maintain tight pairing between replicated sister chromatids at the centromere until anaphase onset, when kinetochores attach to spindle microtubules.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Telomere</b> - The distal ends of linear chromosomes.\n• <b style=\"color:#2563eb\">Option (3): Promoter</b> - Upstream DNA region containing regulatory motifs that initiate transcription.\n• <b style=\"color:#2563eb\">Option (4): Exon</b> - Protein-coding or untranslated segment of pre-mRNA retained in mature mRNA transcripts."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is true regarding the organization of DNA in prokaryotic cells?",
+    "options": [
+      "DNA is wrapped around histone proteins",
+      "Prokaryotic cells lack a nucleus",
+      "Prokaryotic cells have linear chromosomes",
+      "Prokaryotic cells have multiple centromeres"
+    ],
+    "correct_answer": "Prokaryotic cells lack a nucleus",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Prokaryotic cells lack a nucleus</b> is correct. A defining cytological hallmark of prokaryotes (bacteria and archaea) is the absence of a membrane-bounded nucleus. Instead, their circular double-stranded chromosomal DNA is localized in an irregular, non-membrane-enclosed cytoplasmic region called the nucleoid.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA is wrapped around histone proteins</b> - Classical eukaryotic histones are absent in bacteria; bacteria utilize histone-like nucleoid structuring proteins (such as HU, H-NS, and IHF).\n• <b style=\"color:#2563eb\">Option (3): Prokaryotic cells have linear chromosomes</b> - Prokaryotes typically possess a single circular closed chromosome (with rare exceptions like Borrelia and Streptomyces).\n• <b style=\"color:#2563eb\">Option (4): Prokaryotic cells have multiple centromeres</b> - Centromeres and kinetochores are eukaryotic mitotic structures; bacteria segregate chromosomes via ParAB-parS partitioning systems."
+  },
+  {
+    "id": 6,
+    "question": "The ends of linear chromosomes are called:",
+    "options": [
+      "Telomeres",
+      "Centromeres",
+      "Replicons",
+      "Codons"
+    ],
+    "correct_answer": "Telomeres",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Telomeres</b> is correct. Telomeres are specialized nucleoprotein complexes located at the terminal ends of eukaryotic linear chromosomes. They consist of tandem G-rich non-coding repeats (e.g., 5'-TTAGGG-3' in humans) bound by the protective six-protein Shelterin complex (TRF1, TRF2, POT1, TIN2, TPP1, RAP1), forming a T-loop that prevents DNA repair machineries from mistaking chromosome ends for double-strand breaks.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Centromeres</b> - Primary constrictions mediating chromatid cohesion and kinetochore attachment.\n• <b style=\"color:#2563eb\">Option (3): Replicons</b> - Functional units of DNA replication originating from a single replication origin.\n• <b style=\"color:#2563eb\">Option (4): Codons</b> - Triplets of mRNA nucleotides that encode specific amino acids or stop translation."
+  },
+  {
+    "id": 7,
+    "question": "Which of the following is NOT a component of chromatin?",
+    "options": [
+      "DNA",
+      "RNA",
+      "Histones",
+      "Nucleotides"
+    ],
+    "correct_answer": "Nucleotides",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Nucleotides</b> is correct. Chromatin is the functional macromolecular complex constituting chromosomes inside the eukaryotic nucleus, composed primarily of genomic double-stranded DNA polymers, basic histone proteins, non-histone chromosomal proteins, and associated nascent RNA transcripts. Free monomeric nucleotides are metabolic building block solutes, not integrated structural components of chromatin fibers.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA</b> - The genetic nucleic acid polymer constituting the core blueprint of chromatin.\n• <b style=\"color:#2563eb\">Option (2): RNA</b> - Nascent transcripts and non-coding regulatory RNAs (e.g., Xist, lncRNAs) are integral components of active and heterochromatic chromatin.\n• <b style=\"color:#2563eb\">Option (3): Histones</b> - The primary structural packaging proteins that condense chromatin into nucleosomes."
+  },
+  {
+    "id": 8,
+    "question": "The process by which DNA is tightly coiled to form condensed chromosomes during cell division is called:",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Translation",
+      "Condensation"
+    ],
+    "correct_answer": "Condensation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Condensation</b> (chromosome condensation) is correct. At the onset of mitosis (prophase), diffuse interphase chromatin fibers undergo extensive multi-level hierarchical looping and coiling mediated by condensin I and II complexes and topoisomerase II alpha, achieving an over 10,000-fold reduction in length to form manageable, discrete, rod-shaped metaphase chromosomes for safe mitotic segregation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Replication</b> - The duplication of the genomic DNA sequence by DNA polymerases during S phase.\n• <b style=\"color:#2563eb\">Option (2): Transcription</b> - The enzymatic synthesis of complementary RNA from a DNA template by RNA polymerase.\n• <b style=\"color:#2563eb\">Option (3): Translation</b> - The ribosomal synthesis of polypeptides from an mRNA sequence."
+  },
+  {
+    "id": 9,
+    "question": "Which of the following represents the correct hierarchy of DNA organization from smallest to largest scale?",
+    "options": [
+      "Nucleotide - Chromosome - Gene - Genome",
+      "Gene - Genome - Chromosome - Nucleotide",
+      "Nucleotide - Gene - Chromosome - Genome",
+      "Genome - Chromosome - Gene - Nucleotide"
+    ],
+    "correct_answer": "Nucleotide - Gene - Chromosome - Genome",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Nucleotide - Gene - Chromosome - Genome</b> is correct. Monomeric nucleotides assemble into DNA polymers; discrete linear functional segments of DNA encoding transcripts constitute individual genes; millions of base pairs containing hundreds to thousands of genes assemble into a single chromosome; and the complete collection of all chromosomes encompasses the total genetic genome of the organism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Nucleotide - Chromosome - Gene - Genome</b> - Inverts chromosome and gene; genes are much smaller subsections of chromosomes.\n• <b style=\"color:#2563eb\">Option (2): Gene - Genome - Chromosome - Nucleotide</b> - Out of linear hierarchical sequence.\n• <b style=\"color:#2563eb\">Option (4): Genome - Chromosome - Gene - Nucleotide</b> - Arranged from largest to smallest scale rather than smallest to largest."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is responsible for regulating gene expression by altering the accessibility of DNA?",
+    "options": [
+      "DNA methylation",
+      "DNA replication",
+      "DNA transcription",
+      "DNA translation"
+    ],
+    "correct_answer": "DNA methylation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): DNA methylation</b> is correct. DNA methylation is a major epigenetic modification wherein DNA methyltransferases (DNMTs) transfer a methyl group from S-adenosylmethionine to the 5th carbon of cytosine in CpG dinucleotides. Hypermethylation at gene promoter CpG islands recruits methyl-CpG-binding domain proteins (MBDs) and histone deacetylase (HDAC) corepressor complexes, compacting chromatin into inaccessible heterochromatin and silencing transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA replication</b> - Duplicates genetic information during S phase.\n• <b style=\"color:#2563eb\">Option (3): DNA transcription</b> - The readout and synthesis of RNA from DNA, which is the process being regulated rather than the epigenetic regulator.\n• <b style=\"color:#2563eb\">Option (4): DNA translation</b> - Ribosomal polypeptide synthesis occurring in the cytoplasm."
+  },
+  {
+    "id": 11,
+    "question": "The DNA sequence where RNA polymerase binds to initiate transcription is called the:",
+    "options": [
+      "Exon",
+      "Intron",
+      "Promoter",
+      "Enhancer"
+    ],
+    "correct_answer": "Promoter",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Promoter</b> is correct. A promoter is a specific cis-acting DNA sequence located upstream of the transcription start site (+1) of a gene. In prokaryotes, it contains conserved -10 (Pribnow box) and -35 elements recognized by the sigma factor; in eukaryotes, it contains core motifs (TATA box, Initiator Inr, BRE, DPE) that assemble general transcription factors (TFIID/TBP, TFIIB) and recruit RNA polymerase II to form the pre-initiation complex.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Exon</b> - Coding or untranslated segment transcribed into mature mRNA.\n• <b style=\"color:#2563eb\">Option (2): Intron</b> - Non-coding intervening sequence transcribed and spliced out of primary pre-mRNA.\n• <b style=\"color:#2563eb\">Option (4): Enhancer</b> - Distant cis-regulatory element that binds sequence-specific activator transcription factors to augment transcription rates."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is an example of a histone modification that can affect gene expression?",
+    "options": [
+      "DNA replication",
+      "DNA repair",
+      "DNA methylation",
+      "Histone acetylation"
+    ],
+    "correct_answer": "Histone acetylation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Histone acetylation</b> is correct. Histone Acetyltransferases (HATs) transfer acetyl groups from acetyl-CoA to the epsilon-amino groups of conserved lysine residues on histone N-terminal tails. This neutralizes the positive electrostatic charge of lysines, relaxing their interaction with negatively charged DNA phosphate backbones. The resulting decondensed euchromatin facilitates transcription factor recruitment and activates gene transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA replication</b> - Genomic copying mechanism, not a post-translational modification of histones.\n• <b style=\"color:#2563eb\">Option (2): DNA repair</b> - Pathways (BER, NER, MMR) correcting DNA lesions.\n• <b style=\"color:#2563eb\">Option (3): DNA methylation</b> - Covalent chemical modification of the DNA nucleotide base (cytosine), not of histone proteins."
+  },
+  {
+    "id": 13,
+    "question": "The process by which a single gene can give rise to multiple protein isoforms is called:",
+    "options": [
+      "Alternative splicing",
+      "DNA replication",
+      "DNA methylation",
+      "Transcription"
+    ],
+    "correct_answer": "Alternative splicing",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Alternative splicing</b> is correct. Alternative splicing is a post-transcriptional process carried out by the spliceosome wherein exons of pre-mRNAs are differentially included or excluded, or alternative 5' or 3' splice sites are chosen. This allows a single primary gene transcript to generate multiple distinct mRNA variants that translate into functionally diversified protein isoforms.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): DNA replication</b> - Faithfully duplicates the identical DNA sequence without creating protein isoforms.\n• <b style=\"color:#2563eb\">Option (3): DNA methylation</b> - Epigenetic regulation of transcriptional silencing.\n• <b style=\"color:#2563eb\">Option (4): Transcription</b> - Generates the initial pre-mRNA copy from the DNA template."
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is responsible for the packaging of DNA into nucleosomes?",
+    "options": [
+      "DNA polymerase",
+      "DNA ligase",
+      "Histones",
+      "Topoisomerases"
+    ],
+    "correct_answer": "Histones",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Histones</b> is correct. Histones are small, evolutionary conserved, highly basic proteins rich in positively charged arginine and lysine residues. Two copies each of core histones H2A, H2B, H3, and H4 self-assemble into a cylindrical octamer core that packages 147 base pairs of negatively charged DNA into nucleosomes, assisted by histone chaperones (such as CAF-1, NAP1, and FACT).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA polymerase</b> - Catalyzes 5'-to-3' template-dependent DNA synthesis.\n• <b style=\"color:#2563eb\">Option (2): DNA ligase</b> - Catalyzes phosphodiester bond formation between adjacent 3'-OH and 5'-phosphate ends to seal nicks.\n• <b style=\"color:#2563eb\">Option (4): Topoisomerases</b> - Relieve torsional strain and supercoiling during replication and transcription by transiently cutting and religating DNA strands."
+  },
+  {
+    "id": 15,
+    "question": "The study of the three-dimensional organization of the genome is known as:",
+    "options": [
+      "Genomics",
+      "Transcriptomics",
+      "Epigenomics",
+      "Chromosome conformation capture (3C)"
+    ],
+    "correct_answer": "Chromosome conformation capture (3C)",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Chromosome conformation capture (3C)</b> (and high-throughput derivatives such as 4C, 5C, and Hi-C) is correct. 3C technologies cross-link spatial chromatin interactions with formaldehyde, digest with restriction enzymes, and re-ligate adjacent ends to map 3D genome architecture, uncovering topologically associating domains (TADs), chromosome territories, and long-range promoter-enhancer looping.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Genomics</b> - The comprehensive study of the complete DNA sequence, structure, mapping, and evolution of whole genomes.\n• <b style=\"color:#2563eb\">Option (2): Transcriptomics</b> - The global profiling and quantification of all RNA transcripts (mRNA, non-coding RNA) expressed in a cell.\n• <b style=\"color:#2563eb\">Option (3): Epigenomics</b> - The genome-wide study of reversible chemical modifications of DNA and histones (e.g., DNA methylation, ChIP-seq)."
+  },
+  {
+    "id": 16,
+    "question": "The process by which DNA strands are separated to allow access for replication, transcription, or repair is called:",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Denaturation",
+      "Recombination"
+    ],
+    "correct_answer": "Denaturation",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Denaturation</b> (strand melting or unwinding) is correct. Denaturation is the separation of double-stranded DNA into single strands via disruption of the inter-strand hydrogen bonds between complementary base pairs and pi-stacking interactions, mediated in vivo by replicative and transcriptional helicases to expose template bases.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Replication</b> - The complete enzymatic copying process synthesizing new daughter strands.\n• <b style=\"color:#2563eb\">Option (2): Transcription</b> - The enzymatic synthesis of RNA from a single-stranded DNA template.\n• <b style=\"color:#2563eb\">Option (4): Recombination</b> - Physical breakage, exchange, and rejoining of DNA segments between homologous chromosomes."
+  },
+  {
+    "id": 17,
+    "question": "The looping structure formed by the folding and bending of chromatin is called a:",
+    "options": [
+      "Replicon",
+      "Locus",
+      "Chromosome",
+      "Loop domain"
+    ],
+    "correct_answer": "Loop domain",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Loop domain</b> (chromatin loop / topologically associating domain, TAD) is correct. Loop domains are structural and functional units of chromatin organization formed by loop extrusion driven by cohesin/condensin rings and anchored at convergent CTCF-binding boundary insulators, bringing distal enhancer elements into physical proximity with target promoters.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Replicon</b> - A segment of DNA replicating from a single dedicated replication origin.\n• <b style=\"color:#2563eb\">Option (2): Locus</b> - The specific physical location or address of a gene or DNA marker on a chromosome.\n• <b style=\"color:#2563eb\">Option (3): Chromosome</b> - The complete, overarching macromolecular body packaging genomic DNA."
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is responsible for the post-translational modification of histone proteins?",
+    "options": [
+      "DNA polymerase",
+      "RNA polymerase",
+      "Histone acetyltransferase",
+      "DNA methyltransferase"
+    ],
+    "correct_answer": "Histone acetyltransferase",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Histone acetyltransferase</b> (HAT) is correct. HAT enzymes specifically catalyze the covalent post-translational addition of an acetyl moiety from acetyl-CoA to lysine residues on histone protein amino-terminal tails, loosening nucleosome packing to generate open euchromatin for active transcription.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): DNA polymerase</b> - Synthesizes DNA polymers during replication and repair.\n• <b style=\"color:#2563eb\">Option (2): RNA polymerase</b> - Transcribes DNA into RNA molecules.\n• <b style=\"color:#2563eb\">Option (4): DNA methyltransferase</b> - Methylates cytosine bases in DNA (5-methylcytosine), modifying DNA directly rather than histone proteins."
+  },
+  {
+    "id": 19,
+    "question": "The process by which DNA is copied to produce an RNA molecule is called:",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Translation",
+      "Reparation"
+    ],
+    "correct_answer": "Transcription",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Transcription</b> is correct. In accordance with the Central Dogma of molecular biology, transcription is the enzymatic process whereby DNA-dependent RNA polymerases read the antisense template DNA strand in a 3'-to-5' direction to synthesize a complementary single-stranded RNA transcript in the 5'-to-3' direction.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Replication</b> - The copying of DNA to produce complementary DNA daughter strands.\n• <b style=\"color:#2563eb\">Option (3): Translation</b> - The synthesis of polypeptides using the mRNA transcript as a coding template on ribosomes.\n• <b style=\"color:#2563eb\">Option (4): Reparation</b> - General DNA repair mechanisms restoring damaged nucleotide structures."
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a function of non-coding DNA sequences?",
+    "options": [
+      "Encoding proteins",
+      "Regulating gene expression",
+      "Stabilizing chromosomes",
+      "Forming nucleosomes"
+    ],
+    "correct_answer": "Regulating gene expression",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Regulating gene expression</b> is correct. Non-coding DNA sequences (comprising ~98.5% of the human genome) harbor critical cis-regulatory elements—including promoters, enhancers, silencers, insulators, and sequences transcribing regulatory non-coding RNAs (miRNAs, lncRNAs)—that tightly orchestrate temporal and spatial gene expression programs.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Encoding proteins</b> - Exclusive property of coding DNA (exons of protein-coding genes).\n• <b style=\"color:#2563eb\">Option (3): Stabilizing chromosomes</b> - While telomeric repeats stabilize chromosome ends, the broad and pervasive function across all non-coding DNA is regulatory control.\n• <b style=\"color:#2563eb\">Option (4): Forming nucleosomes</b> - Nucleosomes are composed of histone proteins complexed with any genomic DNA, regardless of coding status."
+  },
+  {
+    "id": 21,
+    "question": "The highly repetitive DNA sequences found at the centromeres of chromosomes are called:",
+    "options": [
+      "Telomeres",
+      "Introns",
+      "Repetitive elements",
+      "Exons"
+    ],
+    "correct_answer": "Repetitive elements",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Repetitive elements</b> (specifically satellite DNA, notably 171-bp alpha-satellite tandem repeats in primates) is correct. Centromeres are organized into megabase-scale arrays of tandemly repeated satellite DNA sequences that recruit CENP-A and provide the structural epigenetic platform for kinetochore assembly and sister chromatid cohesion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Telomeres</b> - Repetitive TTAGGG repeats found specifically at terminal ends of linear chromosomes, not centromeres.\n• <b style=\"color:#2563eb\">Option (2): Introns</b> - Intervening non-coding sequences within genes spliced out of pre-mRNA.\n• <b style=\"color:#2563eb\">Option (4): Exons</b> - Coding or transcribed functional sequence segments."
+  },
+  {
+    "id": 22,
+    "question": "The study of the complete set of DNA within an organism is called:",
+    "options": [
+      "Genomics",
+      "Proteomics",
+      "Transcriptomics",
+      "Epigenomics"
+    ],
+    "correct_answer": "Genomics",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Genomics</b> is correct. Genomics is the interdisciplinary field of biology focused on deciphering, sequencing, assembling, mapping, analyzing, and functionally characterizing the complete genome—the entire hereditary DNA content including all genes and non-coding sequences—of an organism.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Proteomics</b> - The large-scale systematic analysis of the entire protein complement expressed by a genome in a cell or tissue.\n• <b style=\"color:#2563eb\">Option (3): Transcriptomics</b> - The comprehensive study of the complete set of RNA transcripts produced by the genome.\n• <b style=\"color:#2563eb\">Option (4): Epigenomics</b> - The study of the complete set of epigenetic modifications on the genetic material of a cell."
+  }
+]

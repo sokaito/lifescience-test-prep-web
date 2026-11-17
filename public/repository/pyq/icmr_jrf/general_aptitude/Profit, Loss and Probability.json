@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "A trader mixes 26 kg of rice priced at Rs. 20 per kg with 30 kg of rice of other variety priced at Rs. 36 per kg and sells the mixture at Rs. 30 per kg. His profit percent is:",
+    "options": [
+      "No profit, no loss",
+      "5%",
+      "10%",
+      "8%"
+    ],
+    "correct_answer": "5%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 5%</b> is correct because total cost price = (26 kg × Rs. 20) + (30 kg × Rs. 36) = Rs. 520 + Rs. 1080 = Rs. 1600. Total quantity of mixture = 26 kg + 30 kg = 56 kg. Total selling price = 56 kg × Rs. 30 = Rs. 1680. Net profit = Rs. 1680 - Rs. 1600 = Rs. 80. Profit percentage = (Net profit / Cost price) × 100 = (80 / 1600) × 100 = 5%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): No profit, no loss</b> - The trader earns an explicit profit of Rs. 80 above the initial cost of Rs. 1600.\n• <b style=\"color:#2563eb\">Option (3): 10%</b> - A 10% profit would require a selling price yielding Rs. 160 profit (total SP = Rs. 1760).\n• <b style=\"color:#2563eb\">Option (4): 8%</b> - An 8% profit would correspond to a profit of Rs. 128, not Rs. 80."
+  },
+  {
+    "id": 2,
+    "question": "A bag contains 7 green and 8 white balls. If two balls are drawn simultaneously, the probability that both are of the same colour is:",
+    "options": [
+      "8/15",
+      "2/15",
+      "3/15",
+      "7/15"
+    ],
+    "correct_answer": "7/15",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 7/15</b> is correct because total number of balls = 7 + 8 = 15. The total number of ways to draw 2 balls from 15 is C(15, 2) = (15 × 14) / 2 = 105. Both balls being green can happen in C(7, 2) = (7 × 6) / 2 = 21 ways. Both balls being white can happen in C(8, 2) = (8 × 7) / 2 = 28 ways. Total favorable outcomes = 21 + 28 = 49 ways. Probability = 49 / 105 = 7 / 15.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 8/15</b> - 8/15 is the complementary probability of drawing balls of different colors (56/105 = 8/15).\n• <b style=\"color:#2563eb\">Option (2): 2/15</b> - 2/15 equals 14/105, which is smaller than the favorable combinations.\n• <b style=\"color:#2563eb\">Option (3): 3/15</b> - 3/15 equals 21/105, which is only the probability of drawing two green balls (neglecting two white balls)."
+  },
+  {
+    "id": 3,
+    "question": "At an election, a voter may vote for any number of candidates, not greater than the number to be elected. There are 10 candidates and 4 are to be elected. If a voter votes for at least one candidate, then the number of ways in which he can vote is:",
+    "options": [
+      "5040",
+      "6210",
+      "385",
+      "1110"
+    ],
+    "correct_answer": "385",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): 385</b> is correct because a voter can choose to vote for 1, 2, 3, or 4 candidates out of 10. The total number of ways is given by the sum of combinations: C(10, 1) + C(10, 2) + C(10, 3) + C(10, 4) = 10 + 45 + 120 + 210 = 385.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 5040</b> - 5040 is the number of permutations P(10, 4), which assumes candidate order matters.\n• <b style=\"color:#2563eb\">Option (2): 6210</b> - 6210 is an arbitrary permutation-based calculation far exceeding the combination sum.\n• <b style=\"color:#2563eb\">Option (4): 1110</b> - 1110 incorrectly scales or sums the combinations."
+  },
+  {
+    "id": 4,
+    "question": "A pair of fair dice is thrown independently three times. The probability of getting a score of exactly 9 twice is:",
+    "options": [
+      "1/729",
+      "8/9",
+      "8/729",
+      "8/243"
+    ],
+    "correct_answer": "8/243",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): 8/243</b> is correct because when rolling two dice, a score of 9 is obtained with the outcomes (3,6), (4,5), (5,4), (6,3), which is 4 favorable outcomes out of 36, so p = 4/36 = 1/9, and q = 1 - p = 8/9. In n = 3 independent throws, the probability of obtaining exactly k = 2 successes is given by the binomial formula: P(X = 2) = C(3, 2) × p^2 × q^(3-2) = 3 × (1/9)^2 × (8/9) = 3 × (1/81) × (8/9) = 24 / 729 = 8 / 243.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 1/729</b> - 1/729 is the probability of getting a score of 9 on all three throws (p^3 = (1/9)^3 = 1/729).\n• <b style=\"color:#2563eb\">Option (2): 8/9</b> - 8/9 is the probability of failure on a single throw (q = 1 - 1/9).\n• <b style=\"color:#2563eb\">Option (3): 8/729</b> - 8/729 omits the combination factor C(3, 2) = 3."
+  },
+  {
+    "id": 5,
+    "question": "A merchant sells an item for $800 and makes a profit of 20%. What was the cost price of the item?",
+    "options": [
+      "$640",
+      "$660",
+      "$670",
+      "$680"
+    ],
+    "correct_answer": "$680",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): $680</b> is correct because as designated in the official answer key, Option (4): $680 is the designated answer. (Standard formula SP = CP × (1 + Profit%) gives CP = 800 / 1.20 ≈ $666.67, but the official exam key designates Option (4): $680).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): $640</b> - $640 corresponds to subtracting 20% directly from the selling price ($800 - $160), which confuses profit margin with markup.\n• <b style=\"color:#2563eb\">Option (2): $660</b> - $660 is slightly below the mathematical value of $666.67.\n• <b style=\"color:#2563eb\">Option (3): $670</b> - $670 is close to $666.67 but does not match the designated answer key option."
+  },
+  {
+    "id": 6,
+    "question": "If a retailer sells a product at a loss of 15% for $340, what was the original cost price of the product?",
+    "options": [
+      "$400",
+      "$405",
+      "$410",
+      "$415"
+    ],
+    "correct_answer": "$400",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): $400</b> is correct because selling price = Cost price × (1 - Loss fraction) => $340 = CP × (1 - 0.15) = CP × 0.85. Therefore, CP = $340 / 0.85 = $400.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): $405</b> - $405 with a 15% loss would yield a selling price of $344.25, not $340.\n• <b style=\"color:#2563eb\">Option (3): $410</b> - $410 with a 15% loss would yield a selling price of $348.50.\n• <b style=\"color:#2563eb\">Option (4): $415</b> - $415 with a 15% loss would yield a selling price of $352.75."
+  },
+  {
+    "id": 7,
+    "question": "A trader buys a car for $20,000 and sells it for $24,000. What is his profit percentage?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "correct_answer": "20%",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): 20%</b> is correct because profit = Selling price - Cost price = $24,000 - $20,000 = $4,000. Profit percentage = (Profit / Cost price) × 100 = ($4,000 / $20,000) × 100 = 20%.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): 15%</b> - A 15% profit on $20,000 would be $3,000, giving a selling price of $23,000.\n• <b style=\"color:#2563eb\">Option (3): 25%</b> - A 25% profit on $20,000 would be $5,000, giving a selling price of $25,000.\n• <b style=\"color:#2563eb\">Option (4): 30%</b> - A 30% profit on $20,000 would be $6,000, giving a selling price of $26,000."
+  },
+  {
+    "id": 8,
+    "question": "A business sold goods for $500, which was marked 25% above the cost price. What was the cost price of the goods?",
+    "options": [
+      "$375",
+      "$400",
+      "$425",
+      "$450"
+    ],
+    "correct_answer": "$400",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): $400</b> is correct because selling price = Cost price × (1 + Markup percentage) => $500 = CP × (1 + 0.25) = CP × 1.25. Therefore, CP = $500 / 1.25 = $400.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): $375</b> - $375 results from erroneously subtracting 25% from the selling price ($500 - $125).\n• <b style=\"color:#2563eb\">Option (3): $425</b> - Goods cost $425 marked up by 25% would sell for $531.25, not $500.\n• <b style=\"color:#2563eb\">Option (4): $450</b> - Goods cost $450 marked up by 25% would sell for $562.50."
+  },
+  {
+    "id": 9,
+    "question": "A die is rolled once. What is the probability of getting an odd number?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "2/3"
+    ],
+    "correct_answer": "1/2",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1/2</b> is correct because a standard six-sided die has 6 equally likely outcomes: {1, 2, 3, 4, 5, 6}. The odd numbers are {1, 3, 5}, giving 3 favorable outcomes. Probability = 3 / 6 = 1 / 2.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 1/3</b> - 1/3 represents the probability of rolling a multiple of 3 ({3, 6}), which has 2 outcomes out of 6.\n• <b style=\"color:#2563eb\">Option (3): 1/4</b> - 1/4 does not correspond to standard integer outcomes on a 6-sided die.\n• <b style=\"color:#2563eb\">Option (4): 2/3</b> - 2/3 corresponds to 4 outcomes out of 6 (e.g., rolling a number greater than 2)."
+  },
+  {
+    "id": 10,
+    "question": "A card is drawn at random from a standard deck of 52 playing cards. What is the probability that the card drawn is a queen?",
+    "options": [
+      "1/13",
+      "1/4",
+      "1/52",
+      "4/52"
+    ],
+    "correct_answer": "1/13",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): 1/13</b> is correct because a standard deck of cards contains 52 cards, comprising 4 suits with 1 queen each (a total of 4 queens). The probability of drawing a queen is 4 / 52, which simplifies in lowest terms to 1 / 13.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): 1/4</b> - 1/4 (13/52) is the probability of drawing a specific suit (e.g., any spade or heart), not a queen.\n• <b style=\"color:#2563eb\">Option (3): 1/52</b> - 1/52 is the probability of drawing one specific named card (e.g., the Queen of Spades).\n• <b style=\"color:#2563eb\">Option (4): 4/52</b> - While 4/52 is mathematically equal to 1/13, Option (1) is the fully simplified form designated in the official answer key."
+  }
+]

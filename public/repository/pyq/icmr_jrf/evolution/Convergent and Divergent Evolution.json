@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "question": "The cultural tradition of using this substance seems to have developed through a convergent evolution process, as traces of this habit have been separately in many of the early civilizations. This substance is a soft, cohesive substance designed to be chewed without being swallowed, and composed of chicle, sweeteners, softeners, flavors, colors, and a hard or powdered polyol coating. What is this?",
+    "options": [
+      "Opium",
+      "Cocoa powder",
+      "Tobacco",
+      "Chewing gum"
+    ],
+    "correct_answer": "Chewing gum",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Chewing gum</b> is correct because the masticatory habit of chewing natural tree resins and saps (such as spruce resin in Northern Europe and chicle derived from the sapodilla tree, *Manilkara zapota*, by the Maya and Aztecs) evolved independently across distinct ancient civilizations. Modern commercial chewing gum consists of a masticatory gum base (chicle or synthetic polyisobutylene), softeners, polyol/sugar coatings, and flavorings designed to be chewed without ingestion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Opium</b> - Dried latex obtained from *Papaver somniferum* containing narcotic alkaloids like morphine, traditionally smoked or ingested.\n• <b style=\"color:#2563eb\">Option (2): Cocoa powder</b> - Processed solids obtained from fermented, roasted *Theobroma cacao* seeds used for food and beverages.\n• <b style=\"color:#2563eb\">Option (3): Tobacco</b> - Cured leaves of *Nicotiana tabacum* containing nicotine, consumed by smoking, snuffing, or chewing (smokeless tobacco), but devoid of a chicle base and polyol coating."
+  },
+  {
+    "id": 2,
+    "question": "Convergent evolution occurs when:",
+    "options": [
+      "Unrelated species evolve similar traits",
+      "Related species evolve similar traits",
+      "Species evolve different traits",
+      "Species remain unchanged over time"
+    ],
+    "correct_answer": "Unrelated species evolve similar traits",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Unrelated species evolve similar traits</b> is correct because convergent evolution is specifically defined as the independent evolutionary development of similar morphological, physiological, or behavioral adaptations (analogous characters) in phylogenetically unrelated or distantly related lineages subjected to comparable selective forces in similar environmental niches.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Related species evolve similar traits</b> - Describes parallel evolution where related taxa independently acquire similar traits using shared developmental pathways.\n• <b style=\"color:#2563eb\">Option (3): Species evolve different traits</b> - The definition of divergent evolution.\n• <b style=\"color:#2563eb\">Option (4): Species remain unchanged over time</b> - Describes evolutionary stasis."
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of convergent evolution?",
+    "options": [
+      "Wings of bats and birds",
+      "Forelimbs of humans and whales",
+      "Beak shapes in Darwin's finches",
+      "Different species of cacti in the desert"
+    ],
+    "correct_answer": "Wings of bats and birds",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Wings of bats and birds</b> is correct because bats (mammals) and birds (aves) independently evolved aerodynamic airfoil wings to achieve powered flight from non-flying tetrapod ancestors. Although their internal skeletal bone arrangements are homologous as forelimbs, their wing surfaces and flight mechanisms represent analogous convergent adaptations.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Forelimbs of humans and whales</b> - Classic example of divergent evolution with homologous pentadactyl limb architecture.\n• <b style=\"color:#2563eb\">Option (3): Beak shapes in Darwin's finches</b> - Classic example of divergent adaptive radiation from a common ancestral seed-eating finch.\n• <b style=\"color:#2563eb\">Option (4): Different species of cacti in the desert</b> - Divergence within family Cactaceae."
+  },
+  {
+    "id": 4,
+    "question": "Divergent evolution occurs when:",
+    "options": [
+      "Unrelated species evolve similar traits",
+      "Related species evolve similar traits",
+      "Species evolve different traits",
+      "Species remain unchanged over time"
+    ],
+    "correct_answer": "Species evolve different traits",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Species evolve different traits</b> is correct because divergent evolution refers to the evolutionary diversification whereby related populations or species originating from a shared common ancestor accumulate phenotypic differences over time as they adapt to different ecological niches, environmental pressures, or modes of life.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Unrelated species evolve similar traits</b> - The definition of convergent evolution.\n• <b style=\"color:#2563eb\">Option (2): Related species evolve similar traits</b> - The definition of parallel evolution.\n• <b style=\"color:#2563eb\">Option (4): Species remain unchanged over time</b> - Describes evolutionary stasis (bradytely)."
+  },
+  {
+    "id": 5,
+    "question": "Adaptive radiation is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because adaptive radiation is a rapid, pronounced form of divergent evolution wherein a single ancestral lineage diversifies into an array of descendant species, each possessing specialized morphological and ecological adaptations to exploit different ecological niches (e.g., Darwin's finches or Australian marsupials).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Involves distinct lineages becoming morphologically similar, the opposite of branching radiation.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Independent evolution of similar traits along parallel evolutionary trajectories.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Reciprocal adaptations between interacting species (e.g., flowers and specialized pollinators)."
+  },
+  {
+    "id": 6,
+    "question": "The Galapagos finches, with their different beak shapes and sizes, are an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because Darwin's finches on the Galapagos archipelago originated from a single ancestral mainland ground finch (*Geospiza*) that colonized the islands. Due to ecological character displacement and natural selection on different islands with diverse dietary resources (seeds, cactus nectar, insects), their beak sizes and shapes diverged adaptively.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Galapagos finches share a recent common ancestor, whereas convergence occurs between unrelated lineages.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Parallel evolution refers to parallel changes in already separated related lineages.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Focuses on reciprocal interspecific evolution between symbionts or competitors."
+  },
+  {
+    "id": 7,
+    "question": "Which type of evolution leads to an increase in genetic diversity?",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because divergent evolution drives the accumulation of different genetic mutations, distinct allele frequency distributions, and unique phenotypic adaptations among branching lineages over time, thereby increasing total genetic and taxonomic biodiversity across evolutionary clades.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Constrains phenotypic solutions toward similar adaptive forms in response to uniform selective pressures.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Maintains similar phenotypic pathways in related lineages rather than generating widespread divergent novelty.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Coordinates coupled changes between pairs of interacting species, not the broad taxonomic diversification seen in divergent evolution."
+  },
+  {
+    "id": 8,
+    "question": "The evolution of marsupials in Australia is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because the entire assemblage of Australian marsupials (kangaroos, koalas, wombats, Tasmanian devils, marsupial moles) evolved from a single ancestral metatherian stock through divergent adaptive radiation, filling all major ecological niches across the isolated continent.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - While Australian marsupials show convergence when compared pairwise against Northern Hemisphere placental mammals, their internal diversification within Australia is divergent adaptive radiation.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Describes parallel tracking across lineages.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Describes reciprocal changes between interacting species."
+  },
+  {
+    "id": 9,
+    "question": "The evolution of eyes in various animal species is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because complex optical image-forming eyes (such as camera-type eyes in cephalopods like octopuses vs. vertebrates, compound eyes in arthropods, and mirror eyes in scallops) evolved independently dozens of times across animal phyla via convergent evolution to solve the optical challenge of focusing light.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Octopuses and humans did not inherit their camera eyes from a common camera-eyed ancestor (their common ancestor had only primitive photoreceptor cells).\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Occurs in closely related clades, whereas molluscs and vertebrates are distantly related bilaterians.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Eyes are sensory organs, not reciprocal adaptations between two interacting species."
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is an example of parallel evolution?",
+    "options": [
+      "Dolphins and sharks evolving streamlined body shapes for swimming",
+      "Bats and birds evolving wings for flight",
+      "Butterflies and birds evolving similar wing patterns for camouflage",
+      "Two plant species evolving similar flower colors to attract pollinators"
+    ],
+    "correct_answer": "Two plant species evolving similar flower colors to attract pollinators",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Two plant species evolving similar flower colors to attract pollinators</b> is correct because parallel evolution refers to the independent acquisition of identical or similar adaptive traits in closely related taxa that share common developmental and genetic architectures. Closely related plant species frequently recruit the same biochemical anthocyanin pathways independently to evolve red or blue floral colors for specific pollinators.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Dolphins and sharks evolving streamlined body shapes for swimming</b> - Classic example of convergent evolution between mammals and chondrichthyan fishes.\n• <b style=\"color:#2563eb\">Option (2): Bats and birds evolving wings for flight</b> - Classic convergent evolution between mammals and archosaurs.\n• <b style=\"color:#2563eb\">Option (3): Butterflies and birds evolving similar wing patterns for camouflage</b> - Convergence across distantly related phyla (Arthropoda and Chordata)."
+  },
+  {
+    "id": 11,
+    "question": "Analogous structures are a result of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because analogous structures are biological traits that perform similar functions and bear superficial morphological similarity but possess fundamentally different embryonic and evolutionary origins. They arise as the direct outcome of convergent evolution driven by similar selective forces in comparable environments.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Results in homologous structures (similar underlying architecture, different functions).\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Generates parallel phenotypic patterns utilizing shared ancestral genetic pathways.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Results in mutualistic or antagonistic complementary traits between interacting species."
+  },
+  {
+    "id": 12,
+    "question": "The development of wings in bats and insects is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because wings in bats (mammals) and insects (hexapods) represent classic analogous organs. Bat wings are composed of a web of skin (patagium) stretched across elongated pentadactyl digits, while insect wings are cuticular outgrowths of the thoracic body wall. They evolved independently to accomplish aerial locomotion.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Requires common ancestry of the wing structure, which is completely absent between insects and mammals.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Occurs only between closely related taxa sharing common genetic toolkits.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Involves reciprocal ecological interactions, not independent origin of flight mechanics."
+  },
+  {
+    "id": 13,
+    "question": "The evolution of antibiotic resistance in bacteria is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Parallel evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> is designated as the correct response in this exam key. When independent strains or closely related bacterial species encounter identical clinical antibiotic regimes, they frequently evolve resistance through identical, parallel molecular mechanisms (such as point mutations at homologous nucleotide positions in gyrA or rpoB, or identical target alterations).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - While often discussed under natural selection, Option (3) is specifically designated in the official key.\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Divergence emphasizes accumulating dissimilarities.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Pertains to reciprocal evolutionary dynamics between two distinct interacting species."
+  },
+  {
+    "id": 14,
+    "question": "Which type of evolution leads to the formation of homologous structures?",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because homologous structures are derived from a common ancestral anatomical structure. As ancestral populations diverge into different environments and adapt to different lifestyles, natural selection modifies the ancestral structure into functionally varied forms (e.g., forelimbs of tetrapods modified for running, swimming, flying, or digging).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Leads to the formation of analogous structures with different anatomical origins.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Produces similar traits in closely related lineages without modifying structures into diverse functions.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Produces complementary interactive traits (e.g., long spurs in orchids matching long proboscides in hawkmoths)."
+  },
+  {
+    "id": 15,
+    "question": "The evolution of long necks in giraffes is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because giraffes (*Giraffa camelopardalis*) and okapis (*Okapia johnstoni*) share a common ancestral giraffid ancestor. While the forest-dwelling okapi retained a short neck adapted for dense vegetation, the savanna giraffe lineage underwent directional selection and divergent elongation of its seven cervical vertebrae to browse high acacia canopies.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Involves unrelated species becoming similar, whereas the giraffe diverged from its sister taxon.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Would imply multiple related clades independently evolving long necks.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Refers to reciprocal interspecies selection."
+  },
+  {
+    "id": 16,
+    "question": "The evolution of mimicry in butterflies is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because mimicry in butterflies (such as Batesian mimicry in the palatable Viceroy butterfly mimicking the unpalatable Monarch butterfly, or Müllerian mimicry rings in *Heliconius* species) involves different, distinct lineages converging upon identical warning coloration (aposematic wing patterns) to deter avian visual predators.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Involves lineages branching apart and looking different.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Refers to independent tracking in closely related sister taxa with identical ancestral states.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - While mimicry systems involve multi-species interactions, the phenotypic convergence on the exact same wing pattern is convergent evolution."
+  },
+  {
+    "id": 17,
+    "question": "Which type of evolution leads to speciation?",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because speciation requires isolated populations of a common ancestor to diverge genetically, morphologically, and behaviorally until prezygotic or postzygotic reproductive isolation is achieved. Thus, divergent evolution is the direct driver of cladogenesis and speciation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Makes disparate lineages superficially similar, but does not split an ancestral species into new species.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Involves parallel trait acquisition in already separated lineages.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Shapes reciprocal adaptations between species, but is not the primary definition of lineage branching."
+  },
+  {
+    "id": 18,
+    "question": "The evolution of a long, sticky tongue in anteaters and chameleons is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Convergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> is correct because anteaters (mammals) and chameleons (squamate reptiles) are distantly related amniotes that independently evolved elongated, highly extensible, mucus-coated tongues powered by specialized musculature to capture insects from crevices and distances, representing classic convergent morphological adaptation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Anteaters and chameleons did not inherit their specialized ballistic/sticky tongue from a shared common ancestor.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Restricted to closely related taxa with shared initial developmental systems.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Involves reciprocal adaptations between two interacting species."
+  },
+  {
+    "id": 19,
+    "question": "The evolution of antibiotic-producing capabilities in some bacteria due to their interactions with fungi is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Coevolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Coevolution</b> is correct because the ongoing competitive, ecological arms-race interactions between soil bacteria (e.g., *Streptomyces*) and fungi competing for subterranean organic substrates drive reciprocal evolutionary adaptations—fungi evolving antifungal/antibacterial secondary metabolites, and bacteria in turn evolving novel antibiotic arsenals and resistance mechanisms in direct response.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Refers to independent acquisition of similar phenotypes by unrelated taxa.\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - Refers to the splitting of a common lineage into diverse forms.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Refers to parallel changes in closely related sister lineages."
+  },
+  {
+    "id": 20,
+    "question": "The evolution of different body sizes and beak shapes in Darwin's finches on the Galapagos Islands is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Divergent evolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> is correct because all 14-18 species of Darwin's finches on the Galapagos Islands diverged from a single ancestral founding population from mainland South America. In response to diverse ecological food niches (large hard seeds, small soft seeds, cactus nectar, insects), their beaks and body sizes diverged through adaptive radiation.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Refers to unrelated lineages becoming similar, not sister taxa diversifying.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Occurs when related clades independently change in the same direction.\n• <b style=\"color:#2563eb\">Option (4): Coevolution</b> - Refers to reciprocal evolution between two distinct ecological partners."
+  },
+  {
+    "id": 21,
+    "question": "The evolution of floral adaptations in plants due to pollination by specific insects is an example of:",
+    "options": [
+      "Convergent evolution",
+      "Divergent evolution",
+      "Parallel evolution",
+      "Coevolution"
+    ],
+    "correct_answer": "Coevolution",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nAs designated in the official answer key, <b style=\"color:#2563eb\">Option (4): Coevolution</b> is correct because angiosperms and their insect pollinators (bees, moths, butterflies, beetles) represent the paradigm of mutualistic coevolution. Plants evolve specialized floral colors, scents, nectar rewards, and corolla tube morphologies in direct reciprocal response to the sensory abilities, mouthpart anatomies (e.g., elongated proboscis), and foraging behaviors of their dedicated insect pollinators.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (1): Convergent evolution</b> - Describes two lineages evolving similar shapes to meet the same environmental challenge, not mutually dependent adaptations.\n• <b style=\"color:#2563eb\">Option (2): Divergent evolution</b> - The branching diversification of a lineage.\n• <b style=\"color:#2563eb\">Option (3): Parallel evolution</b> - Independent parallel change in related sister lineages."
+  }
+]

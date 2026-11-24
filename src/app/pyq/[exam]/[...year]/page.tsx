@@ -118,10 +118,14 @@ export default function PYQTestEngine() {
         if (!res.ok) throw new Error("Failed to load paper");
         const data = await res.json();
         
-        // Shuffle options for each question
+        // Only shuffle options if they are not already fixed letter choices (A/B/C/D)
+        const hasLetterPrefixes = data.some((q: PYQQuestion) => 
+          (q.options || []).some(o => /^\([A-D1-4]\)/i.test(o.trim()))
+        );
+        const shouldShuffle = exam !== 'gate' && !hasLetterPrefixes;
         const shuffledQuestions = data.map((q: PYQQuestion) => ({
           ...q,
-          options: shuffleArray(q.options || [])
+          options: shouldShuffle ? shuffleArray(q.options || []) : (q.options || [])
         }));
         
         setQuestions(shuffledQuestions);

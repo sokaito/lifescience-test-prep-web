@@ -17,6 +17,8 @@ interface PYQQuestion {
   correct_answer: string;
   explanation: string;
   type?: string;
+  marks?: number;
+  negative_marks?: number;
   list_1?: string[];
   list_2?: string[];
   table?: {
@@ -25,6 +27,52 @@ interface PYQQuestion {
   };
   section?: string;
 }
+
+const getSectionLabel = (sec: string, exam: string) => {
+  if (exam === "gate") {
+    const map: Record<string, string> = {
+      "A": "Sec A: GA",
+      "B": "Sec B: Chemistry",
+      "C": "Sec C: Biochemistry",
+      "D": "Sec D: Botany",
+      "E": "Sec E: Microbiology",
+      "F": "Sec F: Zoology",
+      "G": "Sec G: Food Tech",
+      "GA": "GA: Aptitude",
+      "XL-P": "XL-P: Chemistry",
+      "XL-Q": "XL-Q: Biochem",
+      "XL-R": "XL-R: Botany",
+      "XL-S": "XL-S: Microbio",
+      "XL-T": "XL-T: Zoology",
+      "XL-U": "XL-U: Food Tech"
+    };
+    return map[sec] || (sec.startsWith("Section") ? sec : `Section ${sec}`);
+  }
+  return `Section ${sec}`;
+};
+
+const getSectionFullName = (sec: string, exam: string) => {
+  if (exam === "gate") {
+    const map: Record<string, string> = {
+      "A": "Section A: General Aptitude (GA)",
+      "B": "Section B: Chemistry (XL-P)",
+      "C": "Section C: Biochemistry (XL-Q)",
+      "D": "Section D: Botany (XL-R)",
+      "E": "Section E: Microbiology (XL-S)",
+      "F": "Section F: Zoology (XL-T)",
+      "G": "Section G: Food Technology (XL-U)",
+      "GA": "Section A: General Aptitude (GA)",
+      "XL-P": "Section B: Chemistry (XL-P)",
+      "XL-Q": "Section C: Biochemistry (XL-Q)",
+      "XL-R": "Section D: Botany (XL-R)",
+      "XL-S": "Section E: Microbiology (XL-S)",
+      "XL-T": "Section F: Zoology (XL-T)",
+      "XL-U": "Section G: Food Technology (XL-U)"
+    };
+    return map[sec] || (sec.startsWith("Section") ? sec : `Section ${sec}`);
+  }
+  return `Section ${sec}`;
+};
 
 const formatYearName = (y: string) => {
   const lastPart = y.split('/').pop() || y;
@@ -216,7 +264,7 @@ export default function PYQTestEngine() {
               {exam.replace('_', ' ')} <span className="text-accent-main">{formatYearName(year)}</span>
             </h1>
             <p className="text-[10px] text-text-secondary font-bold uppercase tracking-widest">
-              {sections.length > 0 ? `Section ${activeSection} • ` : ''}Question {filteredQuestions.length > 0 ? currentIndex + 1 : 0} of {filteredQuestions.length}
+              {sections.length > 0 ? `${getSectionFullName(activeSection, exam)} • ` : ''}Question {filteredQuestions.length > 0 ? currentIndex + 1 : 0} of {filteredQuestions.length}
             </p>
           </div>
         </div>
@@ -246,20 +294,20 @@ export default function PYQTestEngine() {
 
       {/* Section Tabs */}
       {sections.length > 0 && (
-        <div className="flex space-x-2 p-1.5 bg-bg-card rounded-2xl border border-border-subtle shadow-sm max-w-md">
+        <div className="flex space-x-2 p-1.5 bg-bg-card rounded-2xl border border-border-subtle shadow-sm max-w-full overflow-x-auto scrollbar-none">
           {sections.map((sec) => {
             const isActive = sec === activeSection;
             return (
               <button
                 key={sec}
                 onClick={() => handleSectionChange(sec)}
-                className={`flex-1 py-2.5 px-4 rounded-xl font-black text-xs uppercase tracking-widest transition-all ${
+                className={`whitespace-nowrap py-2.5 px-4 rounded-xl font-black text-xs uppercase tracking-widest transition-all shrink-0 ${
                   isActive
                     ? "bg-accent-main text-white shadow-md"
                     : "text-text-secondary hover:text-text-primary hover:bg-bg-main"
                 }`}
               >
-                Section {sec}
+                {getSectionLabel(sec, exam)}
               </button>
             );
           })}
@@ -347,14 +395,31 @@ export default function PYQTestEngine() {
               {(() => {
                 const parsedColumnMatch = parseColumnMatchQuestion(question.question);
                 return (
-                  <div className="flex items-start space-x-4">
-                    <div className="shrink-0 w-10 h-10 bg-accent-main text-white rounded-full flex items-center justify-center font-black text-lg shadow-inner">
-                      {question.id}
+                  <div>
+                    <div className="flex items-center gap-2 mb-3">
+                      <span className="text-[10px] font-black uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-accent-main/10 text-accent-main border border-accent-main/20">
+                        {question.marks || 1} {(question.marks || 1) === 1 ? 'Mark' : 'Marks'}
+                      </span>
+                      {question.negative_marks !== undefined && (
+                        <span className="text-[10px] font-bold text-text-secondary">
+                          Negative: {question.negative_marks === 0 ? 'No Negative' : `-${question.negative_marks}`}
+                        </span>
+                      )}
+                      {question.type && (
+                        <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-text-secondary border border-border-subtle">
+                          {question.type}
+                        </span>
+                      )}
                     </div>
-                    <div 
-                      className="text-lg md:text-xl font-bold text-text-primary leading-relaxed mt-1 w-full whitespace-pre-line"
-                      dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : question.question }}
-                    />
+                    <div className="flex items-start space-x-4">
+                      <div className="shrink-0 w-10 h-10 bg-accent-main text-white rounded-full flex items-center justify-center font-black text-lg shadow-inner">
+                        {question.id}
+                      </div>
+                      <div 
+                        className="text-lg md:text-xl font-bold text-text-primary leading-relaxed mt-1 w-full whitespace-pre-line"
+                        dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : question.question }}
+                      />
+                    </div>
                   </div>
                 );
               })()}

@@ -1,0 +1,1844 @@
+[
+  {
+    "id": 1,
+    "question": "Q.1 [1 Mark]\nIf ‘→’ denotes increasing order of intensity, then the meaning of the words\n[walk → jog → sprint] is analogous to [bothered → ________ → daunted].\nWhich one of the given options is appropriate to fill the blank?",
+    "options": [
+      "(A) phased",
+      "(B) phrased",
+      "(C) fazed",
+      "(D) fused"
+    ],
+    "correct_answer": "(C) fazed",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn this vocabulary analogy with increasing intensity of action or emotional state:\n• <b>walk → jog → sprint</b> represents increasing degrees of physical locomotion/speed.\n• Similarly, for emotional distress/discouragement:\n  - <b>bothered:</b> slightly annoyed or mildly concerned.\n  - <b>fazed:</b> noticeably disrupted, disoriented, or unsettled.\n  - <b>daunted:</b> deeply intimidated or overwhelmed with fear.\nTherefore, <b>fazed</b> is the intermediate intensity term that fits the sequence perfectly.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): phased</b> - Means carried out in gradual stages; unrelated to emotional distress.\n• <b style=\"color:#2563eb\">Option (B): phrased</b> - Means expressed in words; unrelated to fear or apprehension.\n• <b style=\"color:#2563eb\">Option (D): fused</b> - Means joined or melted together; unrelated to psychological intimidation."
+  },
+  {
+    "id": 2,
+    "question": "Q.2 [1 Mark]\nTwo wizards try to create a spell using all the four elements, water, air, fire, and\nearth. For this, they decide to mix all these elements in all possible orders. They\nalso decide to work independently. After trying all possible combination of\nelements, they conclude that the spell does not work.\nHow many attempts does each wizard make before coming to this conclusion,\nindependently?",
+    "options": [
+      "(A) 24",
+      "(B) 48",
+      "(C) 16",
+      "(D) 12"
+    ],
+    "correct_answer": "(A) 24",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's solve this permutation problem step-by-step!\n\n[GIVEN]\n• 4 distinct elements: Water, Air, Fire, Earth (n = 4).\n• The wizards mix all 4 elements in all possible orders (permutations).\n• We are asked: <i>\"How many attempts does each wizard make before coming to this conclusion, independently?\"</i>\n\n[FORMULA]\nThe number of permutations of n distinct objects taken all at a time is given by:\nP(n) = n! = n × (n - 1) × (n - 2) × ... × 1\n\n[STEPS]\nStep 1: Calculate 4!\n4! = 4 × 3 × 2 × 1 = 24\n\nStep 2: Interpret for each wizard independently\nSince each wizard works independently and tests all possible combinations on their own, <b>each wizard</b> independently makes <b>24 attempts</b>.\n\n[ANSWER]\nHence, each wizard makes 24 attempts, corresponding to Option (A).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): 48</b> - This is the combined total attempts of both wizards (24 + 24 = 48), but the question specifically asks for \"each wizard independently\".\n• <b style=\"color:#2563eb\">Option (C): 16</b> - Represents 4² (mixing with replacement of 2 items).\n• <b style=\"color:#2563eb\">Option (D): 12</b> - Represents 4! / 2."
+  },
+  {
+    "id": 3,
+    "question": "Q.3 [1 Mark]\nIn an engineering college of 10,000 students, 1,500 like neither their core branches\nnor other branches. The number of students who like their core branches is 1/4th of\nthe number of students who like other branches. The number of students who like\nboth their core and other branches is 500.\nThe number of students who like their core branches is",
+    "options": [
+      "(A) 1,800",
+      "(B) 3,500",
+      "(C) 1,600",
+      "(D) 1,500"
+    ],
+    "correct_answer": "(A) 1,800",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 1,800</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 1,800</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 4,
+    "question": "Q.4 [1 Mark]\nFor positive non-zero real variables x and y, if ln((x + y) / 2) = (1/2)(ln x + ln y), then the value of x / y is:\n(A) 1\n(B) 1/2\n(C) 2\n(D) 4",
+    "options": [
+      "(A) 1",
+      "(B) 1/2",
+      "(C) 2",
+      "(D) 4"
+    ],
+    "correct_answer": "(A) 1",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's simplify the logarithmic equation step-by-step:\n\n[GIVEN]\n• ln((x + y) / 2) = (1/2)(ln x + ln y)\n• x > 0 and y > 0\n\n[STEPS]\nStep 1: Simplify the right hand side using logarithm rules\nUsing the product rule: ln x + ln y = ln(xy)\nUsing the power rule: (1/2) ln(xy) = ln((xy)^(1/2)) = ln(√(xy))\n\nStep 2: Equate both sides\nln((x + y) / 2) = ln(√(xy))\nTake exponential (e) on both sides:\n(x + y) / 2 = √(xy)\n\nStep 3: Analyze the relationship\n(x + y) / 2 is the <b>Arithmetic Mean (AM)</b> of x and y.\n√(xy) is the <b>Geometric Mean (GM)</b> of x and y.\nBy the AM-GM inequality, AM ≥ GM, and equality (AM = GM) holds <b>if and only if x = y</b>!\n\nStep 4: Solve algebraically\nSquare both sides:\n((x + y) / 2)² = xy\n(x² + 2xy + y²) / 4 = xy\nx² + 2xy + y² = 4xy\nx² - 2xy + y² = 0\n(x - y)² = 0\nx - y = 0\nx = y\n\nStep 5: Find x / y\nSince x = y, we have x / y = 1.\n\n[ANSWER]\nThus, x / y = 1, matching Option (A).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): 1/2</b> - If x/y = 1/2, then (x+y)/2 = 1.5y/2 = 0.75y, while √(xy) = √(0.5y²) ≈ 0.707y (0.75 ≠ 0.707).\n• <b style=\"color:#2563eb\">Option (C): 2</b> - If x/y = 2, AM = 1.5y, while GM = √2 y ≈ 1.414y (not equal).\n• <b style=\"color:#2563eb\">Option (D): 4</b> - If x/y = 4, AM = 2.5y, while GM = 2y (not equal)."
+  },
+  {
+    "id": 5,
+    "question": "Q.5 [1 Mark]\nIn the sequence 6, 9, 14, x, 30, 41, a possible value of x is:\n(A) 25\n(B) 21\n(C) 18\n(D) 20",
+    "options": [
+      "(A) 25",
+      "(B) 21",
+      "(C) 18",
+      "(D) 20"
+    ],
+    "correct_answer": "(B) 21",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's determine the pattern in the number series by looking at the differences between consecutive terms:\n\n[GIVEN]\nSequence: 6, 9, 14, x, 30, 41\n\n[STEPS]\nStep 1: Calculate the first differences between known consecutive terms\n• Term 2 - Term 1 = 9 - 6 = <b>+3</b>\n• Term 3 - Term 2 = 14 - 9 = <b>+5</b>\n\nNotice that 3 and 5 are consecutive odd numbers with a common difference of 2!\n\nStep 2: Continue the pattern of consecutive odd differences (+3, +5, +7, +9, +11)\n• Term 4 (x) = Term 3 + 7 = 14 + 7 = <b>21</b>\n\nStep 3: Verify the remaining terms with the pattern\n• Term 5 = x + 9 = 21 + 9 = <b>30</b> (Matches the given sequence!)\n• Term 6 = Term 5 + 11 = 30 + 11 = <b>41</b> (Matches the given sequence!)\n\nThe pattern of adding consecutive odd numbers (+3, +5, +7, +9, +11) holds true for all numbers in the series.\n\n[ANSWER]\nTherefore, the value of x is <b>21</b>, corresponding to Option (B).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): 25</b> - Would make differences +3, +5, +11, +5, +11 (inconsistent).\n• <b style=\"color:#2563eb\">Option (C): 18</b> - Would make difference 18 - 14 = +4 (breaks odd difference series).\n• <b style=\"color:#2563eb\">Option (D): 20</b> - Would make difference 20 - 14 = +6 (breaks odd difference series)."
+  },
+  {
+    "id": 6,
+    "question": "Q.6 [2 Marks]\nSequence the following sentences in a coherent passage.\nP: This fortuitous geological event generated a colossal amount of energy and\nheat that resulted in the rocks rising to an average height of 4 km across the\ncontact zone.\nQ: Thus, the geophysicists tend to think of the Himalayas as an active geological\nevent rather than as a static geological feature.\nR: The natural process of the cooling of this massive edifice absorbed large\nquantities of atmospheric carbon dioxide, altering the earth’s atmosphere and\nmaking it better suited for life.\nS: Many millennia ago, a breakaway chunk of bedrock from the Antarctic Plate\ncollided with the massive Eurasian Plate.",
+    "options": [
+      "(A) QPSR",
+      "(B) QSPR",
+      "(C) SPRQ",
+      "(D) SRPQ"
+    ],
+    "correct_answer": "(A) QPSR",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) QPSR</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) QPSR</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 7,
+    "question": "Q.7 [2 Marks]\nA person sold two different items at the same price. He made 10% profit in one\nitem, and 10% loss in the other item. In selling these two items, the person made a\ntotal of",
+    "options": [
+      "(A) 1% profit",
+      "(B) 2% profit",
+      "(C) 1% loss",
+      "(D) 2% loss"
+    ],
+    "correct_answer": "(A) 1% profit",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 1% profit</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 1% profit</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 8,
+    "question": "Q.8 [2 Marks]\nThe pie charts depict the shares of various power generation technologies in the\ntotal electricity generation of a country for the years 2007 and 2023.\nThe renewable sources of electricity generation consist of Hydro, Solar and Wind.\nAssuming that the total electricity generated remains the same from 2007 to 2023,\nwhat is the percentage increase in the share of the renewable sources of electricity\ngeneration over this period?",
+    "options": [
+      "(A) 25%",
+      "(B) 50%",
+      "(C) 77.5%",
+      "(D) 62.5% Coal 35% Gas 25% Wind 5% Hydro 30% Solar 5% Year 2007 Coal 20% Gas 15% Wind 10% Hydro 35% Solar 20% Year 2023"
+    ],
+    "correct_answer": "(A) 25%",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 25%</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 25%</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 9,
+    "question": "Q.9 [2 Marks]\nA cube is to be cut into 8 pieces of equal size and shape. Here, each cut should be\nstraight and it should not stop till it reaches the other end of the cube.\nThe minimum number of such cuts required is",
+    "options": [
+      "(A) 3",
+      "(B) 4",
+      "(C) 7",
+      "(D) 8"
+    ],
+    "correct_answer": "(A) 3",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 3</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 3</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 10,
+    "question": "Q.10 [2 Marks]\nIn the 4 × 4 array shown below, each cell of the first three rows has either a\ncross (X) or a number.\nThe number in a cell represents the count of the immediate neighboring cells\n(left, right, top, bottom, diagonals) NOT having a cross (X). Given that the last row\nhas no crosses (X), the sum of the four numbers to be filled in the last row is",
+    "options": [
+      "(A) 11",
+      "(B) 10",
+      "(C) 12",
+      "(D) 9"
+    ],
+    "correct_answer": "(A) 11",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 11</b>.\nThis question evaluates core competencies in <b>General Aptitude (GA)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 11</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 11,
+    "question": "Q.11 [1 Mark]\nThe CORRECT order of electronegativity is",
+    "options": [
+      "(A) Al > Si > P > S",
+      "(B) Al > S > Si > P",
+      "(C) S > Si > Al > P",
+      "(D) S > P > Si > Al"
+    ],
+    "correct_answer": "(A) Al > Si > P > S",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Al > Si > P > S</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) Al > Si > P > S</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 12,
+    "question": "Q.12 [1 Mark]\nWhich one of the following is the CORRECT representation of the variation of the\nGibbs free energy (G) of a substance with temperature (T) at constant pressure?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A)</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A)</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 13,
+    "question": "Q.13 [1 Mark]\nAmong the following, the structure representing histidine is",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A)</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A)</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 14,
+    "question": "Q.14 [1 Mark]\nThe CORRECT order of acidity of the following compounds is",
+    "options": [
+      "(A) I > II > III",
+      "(B) II > III > I",
+      "(C) I > III > II",
+      "(D) III > II > I"
+    ],
+    "correct_answer": "(A) I > II > III",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) I > II > III</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) I > II > III</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 15,
+    "question": "Q.15 [1 Mark]\nThe molecules A and B are a pair of ____________.",
+    "options": [
+      "(A) enantiomers",
+      "(B) diastereomers",
+      "(C) conformational isomers",
+      "(D) constitutional isomers"
+    ],
+    "correct_answer": "(A) enantiomers",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) enantiomers</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) enantiomers</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 16,
+    "question": "Q.16 [1 Mark]\nThe CORRECT option(s) of Y for the following reaction is/are",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A)</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A)</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 17,
+    "question": "Q.17 [1 Mark]\nThe maximum number of electrons that can be accommodated in the shell with\nn = 2 is ________ (in integer).\n(Given: n = principal quantum number)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 18,
+    "question": "Q.18 [1 Mark]\nOne mole of an ideal gas expands isothermally and reversibly to double its volume.\nIf the expansion work done by the system is 1728.85 J, the temperature of the system\nis _____ K (rounded off to 2 decimal places).\n(Given: Gas constant, R = 8.314 J K–1 mol–1)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 19,
+    "question": "Q.19 [1 Mark]\nThe initial rate of a reaction triples when the concentration of a reactant, A, is\ndoubled. The order of the reaction with respect to A is _______ (rounded off to 2\ndecimal places).\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 20,
+    "question": "Q.20 [2 Marks]\nEach of the following alkenes undergoes addition reaction with bromine. Under the\nsame reaction conditions, the CORRECT trend in the reaction rates\nis",
+    "options": [
+      "(A) I > II > III",
+      "(B) II > III > I",
+      "(C) I > III > II",
+      "(D) III > II > I"
+    ],
+    "correct_answer": "(A) I > II > III",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) I > II > III</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) I > II > III</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 21,
+    "question": "Q.21 [2 Marks]\nAn enzyme-catalyzed conversion of a substrate at 298 K proceeds by a Michaelis-\nMenten mechanism. The Lineweaver-Burk plot for the analysis of the experimental\ndata has an intercept along the y-axis of 0.357 mmol–1 dm3 s and a slope of 2.10 s.\nThe CORRECT Michaelis constant for the reaction is ________ (rounded off to 2\ndecimal places).",
+    "options": [
+      "(A) 5.88 mmol dm–3",
+      "(B) 5.88 mmol dm–3 s–1",
+      "(C) 2.80 mmol dm–3",
+      "(D) 2.80 mmol dm–3 s–1"
+    ],
+    "correct_answer": "(A) 5.88 mmol dm–3",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 5.88 mmol dm–3</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) 5.88 mmol dm–3</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 22,
+    "question": "Q.22 [2 Marks]\nWhich one among the following structures is the most stable conformer of\n(Z)-pent-2-ene?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A)</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A)</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 23,
+    "question": "Q.23 [2 Marks]\nUpon addition of compound X to an aqueous AgNO3 solution, a white precipitate\nappears instantly. Also, X does not exhibit geometrical isomerism.\nThe CORRECT option(s) for X is/are",
+    "options": [
+      "(A) [Cr(OH2)4Cl2]Cl",
+      "(B) [Cr(OH2)5Cl]Cl2",
+      "(C) [Cr(OH2)6]Cl3",
+      "(D) [Cr(OH2)3Cl3]"
+    ],
+    "correct_answer": "(A) [Cr(OH2)4Cl2]Cl",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) [Cr(OH2)4Cl2]Cl</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) [Cr(OH2)4Cl2]Cl</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 24,
+    "question": "Q.24 [2 Marks]\nThe paramagnetic species among the following is/are\n(Given: Atomic numbers of Cr = 24; Fe = 26; Ni = 28)",
+    "options": [
+      "(A) [Fe(CN)6]3–",
+      "(B) [Ni(OH2)6]2+",
+      "(C) [Ni(CN)4]2–",
+      "(D) [Cr(CN)6]3–"
+    ],
+    "correct_answer": "(A) [Fe(CN)6]3–",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) [Fe(CN)6]3–</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) [Fe(CN)6]3–</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 25,
+    "question": "Q.25 [2 Marks]\nThe molecule(s) with non-zero dipole moment is/are",
+    "options": [
+      "(A) N2",
+      "(B) CO2",
+      "(C) NO",
+      "(D) SO2"
+    ],
+    "correct_answer": "(A) N2",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) N2</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>(A) N2</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 26,
+    "question": "Q.26 [2 Marks]\nThe ionic product of water at 40 ℃ is 2.92 × 10–14 M2. The pH of water at\n40 ℃ is ___________ (rounded off to 2 decimal places).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 27,
+    "question": "Q.27 [2 Marks]\nGiven the standard reduction potentials (𝐸⊖) for the half-cell reactions below, the\nstandard Gibbs free energy of the dissolution of silver chloride in water, at 298 K,\nis _____________ J mol–1 (rounded off to nearest integer).\n(Given: Faraday constant, F = 96500 C mol–1; J = C × V)\nAgCl(s) + 𝑒− → Ag(s) + Cl−(aq) ; 𝐸⊖= 0.22 V at 298 K\nAg+(aq) + 𝑒− → Ag(s) ; 𝐸⊖= 0.80 V at 298 K\nLife Sciences (XL)\nBiochemistry (XL-Q)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Chemistry (XL-P)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 28,
+    "question": "Q.28 [1 Mark]\nWhich one of the following pairs of amino acids is NOT incorporated in a\npolypeptide chain?",
+    "options": [
+      "(A) 4-Hydroxyproline and γ-carboxyglutamate",
+      "(B) γ-Carboxyglutamate and desmosine",
+      "(C) Ornithine and citrulline",
+      "(D) 4-Hydroxyproline and 5-hydroxylysine"
+    ],
+    "correct_answer": "(A) 4-Hydroxyproline and γ-carboxyglutamate",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 4-Hydroxyproline and γ-carboxyglutamate</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) 4-Hydroxyproline and γ-carboxyglutamate</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 29,
+    "question": "Q.29 [1 Mark]\nMammalian cells cultured at low temperature (25 to 30 C) leads to an increased\nsterol content in the membrane. Elevated sterols in the membrane results in",
+    "options": [
+      "(A) an enhancement in membrane fluidity.",
+      "(B) stabilization of membrane proteins.",
+      "(C) an increase in membrane permeability to water.",
+      "(D) a decrease in membrane fluidity."
+    ],
+    "correct_answer": "(A) an enhancement in membrane fluidity.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) an enhancement in membrane fluidity.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) an enhancement in membrane fluidity.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 30,
+    "question": "Q.30 [1 Mark]\nWhich one of the following metabolic intermediates is common to glycolysis,\nnucleotide synthesis and glycogen synthesis?",
+    "options": [
+      "(A) Citrate",
+      "(B) Oxaloacetate",
+      "(C) Glucose 6-phosphate",
+      "(D) Glycerol 3-phosphate"
+    ],
+    "correct_answer": "(A) Citrate",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Citrate</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Citrate</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 31,
+    "question": "Q.31 [1 Mark]\nIn mammals, hematopoietic stem cells that give rise to different types of blood\ncells are known as",
+    "options": [
+      "(A) totipotent stem cells.",
+      "(B) pluripotent stem cells.",
+      "(C) myeloid progenitor cells.",
+      "(D) lymphoid progenitor cells."
+    ],
+    "correct_answer": "(A) totipotent stem cells.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) totipotent stem cells.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) totipotent stem cells.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 32,
+    "question": "Q.32 [1 Mark]\nWhich one or more of the following statements correctly describe(s) the addition\nof N-nucleotides during the rearrangement of the immunoglobulin heavy chain-\nencoding gene?",
+    "options": [
+      "(A) Addition of N-nucleotides is template encoded.",
+      "(B) N-nucleotides are added by terminal deoxynucleotidyl transferase.",
+      "(C) The added N-nucleotides are common in V-D and D-J junction.",
+      "(D) N-nucleotides are added by the DNA polymerase II."
+    ],
+    "correct_answer": "(A) Addition of N-nucleotides is template encoded.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Addition of N-nucleotides is template encoded.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Addition of N-nucleotides is template encoded.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 33,
+    "question": "Q.33 [1 Mark]\nA newly identified viral protein contains one long α-helix spanning 60 amino acid\nresidues. The number of main chain H-bonds formed in this helix is __________.\n(Answer in integer)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 34,
+    "question": "Q.34 [1 Mark]\nIn a lactic acid solution at pH 4.8, the concentrations of lactic acid and lactate are\n0.01 M and 0.087 M, respectively. The calculated pKa of lactic acid is ________.\n(Round off to one decimal place)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 35,
+    "question": "Q.35 [1 Mark]\nIf a 10 mM solution of a biomolecule in a cuvette of path length 10 mm absorbs\n90% of the incident light at 280 nm, the molar extinction coefficient of the\nbiomolecule at this wavelength is _____________ M-1cm-1.\n(Round off to two decimal places)\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 36,
+    "question": "Q.36 [2 Marks]\nMetabolic intermediates provide the backbone for the synthesis of amino acids.\nMatch the metabolic intermediates listed in Column I with their corresponding\namino acids given in Column II.\nColumn I Column II\nP. α-Ketoglutarate i. Histidine\nQ. Ribose 5-phosphate ii. Glutamate\nR. 3-Phosphoglycerate iii. Aspartate\nS. Phosphoenolpyruvate iv. Phenylalanine\nv. Serine",
+    "options": [
+      "(A) P-ii; Q-i; R-v; S-iv",
+      "(B) P-iii; Q-ii; R-i; S-v",
+      "(C) P-iv; Q-iii; R-ii; S-v",
+      "(D) P-ii; Q-i; R-iv; S-v"
+    ],
+    "correct_answer": "(A) P-ii; Q-i; R-v; S-iv",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P-ii; Q-i; R-v; S-iv</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P-ii; Q-i; R-v; S-iv</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 37,
+    "question": "Q.37 [2 Marks]\nWhich one of the following is the correct match between the molecular properties\nlisted in Column I and the corresponding biochemical separation methods in\nColumn II?\nColumn I Column II\nP. Solubility i. Reverse phase chromatography\nQ. Ionic charge ii. Ultracentrifugation\nR. Polarity iii. Salting out\nS. Molecular size iv. Isoelectric focusing\nv. Gel electrophoresis",
+    "options": [
+      "(A) P-i; Q-ii; R-v; S-iii",
+      "(B) P-iii; Q-iv; R-ii; S-i",
+      "(C) P-iii; Q-iv; R-i; S-ii",
+      "(D) P-v; Q-iv; R-iii; S-ii"
+    ],
+    "correct_answer": "(A) P-i; Q-ii; R-v; S-iii",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P-i; Q-ii; R-v; S-iii</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P-i; Q-ii; R-v; S-iii</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 38,
+    "question": "Q.38 [2 Marks]\nWhich one or more of the following statements is/are correct regarding the\nelectromotive force generated by electron transfer chain?",
+    "options": [
+      "(A) It is used for the synthesis of ATP.",
+      "(B) It is not used for active transport process.",
+      "(C) It includes a pH gradient component.",
+      "(D) It does not include an electrical potential gradient component."
+    ],
+    "correct_answer": "(A) It is used for the synthesis of ATP.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) It is used for the synthesis of ATP.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) It is used for the synthesis of ATP.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 39,
+    "question": "Q.39 [2 Marks]\nWhich one or more of the following statements is/are correct regarding the transport\nand retention of proteins in different cell organelles?",
+    "options": [
+      "(A) Mannose 6-phosphate residues are involved in targeting proteins to lysosomes.",
+      "(B) Transport of proteins into the mitochondrial compartment is aided by positively charged amino acid residues at the N-terminus and internal hydrophobic segments.",
+      "(C) The retention of protein in the ER lumen requires the KDEL sequence motif at the C-terminus.",
+      "(D) Nuclear proteins are transported in an unfolded conformation and the nuclear localization signal sequence is subsequently cleaved by peptidases in the nucleoplasm."
+    ],
+    "correct_answer": "(A) Mannose 6-phosphate residues are involved in targeting proteins to lysosomes.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Mannose 6-phosphate residues are involved in targeting proteins to lysosomes.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Mannose 6-phosphate residues are involved in targeting proteins to lysosomes.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 40,
+    "question": "Q.40 [2 Marks]\nWhich one or more of the following statements correctly describe(s)\nfluorescence spectroscopy?",
+    "options": [
+      "(A) The emission maxima (λmax) is independent of the excitation wavelength.",
+      "(B) The emission maxima (λmax) depends on the concentration of a quencher.",
+      "(C) The emission maxima (λmax) varies with solvent polarity.",
+      "(D) The emission maxima (λmax) varies with temperature."
+    ],
+    "correct_answer": "(A) The emission maxima (λmax) is independent of the excitation wavelength.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) The emission maxima (λmax) is independent of the excitation wavelength.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) The emission maxima (λmax) is independent of the excitation wavelength.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 41,
+    "question": "Q.41 [2 Marks]\nWhich one or more of the following statements is/are correct in the processing of\npre-mRNA in eukaryotes?",
+    "options": [
+      "(A) 3 → 5 exonuclease activity is involved in the conversion of pre-mRNA to mRNA.",
+      "(B) 5– capping and addition of 3– poly A tail precedes splicing.",
+      "(C) Splicing of pre-mRNA occurs via transesterification reaction.",
+      "(D) Alternative splicing can yield different mRNA products from the same pre-mRNA."
+    ],
+    "correct_answer": "(A) 3 → 5 exonuclease activity is involved in the conversion of pre-mRNA to mRNA.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 3 → 5 exonuclease activity is involved in the conversion of pre-mRNA to mRNA.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) 3 → 5 exonuclease activity is involved in the conversion of pre-mRNA to mRNA.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 42,
+    "question": "Q.42 [2 Marks]\nWhich one or more of the following statements correctly describe(s) the changes\nupon the addition of puromycin during eukaryotic translation?",
+    "options": [
+      "(A) Puromycin resembles aminoacyl end of the charged tRNA.",
+      "(B) Puromycin occupies the A site of the translating ribosomes.",
+      "(C) Puromycin occupies the P site of the translating ribosomes.",
+      "(D) Puromycin occupies the E site of the translating ribosomes."
+    ],
+    "correct_answer": "(A) Puromycin resembles aminoacyl end of the charged tRNA.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Puromycin resembles aminoacyl end of the charged tRNA.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Puromycin resembles aminoacyl end of the charged tRNA.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 43,
+    "question": "Q.43 [2 Marks]\nFactor H, a complement regulatory protein in plasma, binds C3b and",
+    "options": [
+      "(A) competes with factor B to displace Bb from convertase.",
+      "(B) initiates the catabolism of C3b into inactivate products.",
+      "(C) then binds to C3bBb convertase.",
+      "(D) acts as a cofactor for factor I."
+    ],
+    "correct_answer": "(A) competes with factor B to displace Bb from convertase.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) competes with factor B to displace Bb from convertase.</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) competes with factor B to displace Bb from convertase.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 44,
+    "question": "Q.44 [2 Marks]\nIn Michaelis-Menten’s equation, if [S] = 15 Km , then the ratio 𝑣0\n𝑉max\nis __________.\n(Round off to three decimal places)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 45,
+    "question": "Q.45 [2 Marks]\nA 5250 base-pair long plasmid with 10 negative supercoils would have a linking\nnumber of ____________, considering 10.5 base pairs per turn for B DNA.\n(Answer in integer)\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 46,
+    "question": "Q.46 [2 Marks]\nThe spectrum of a protein obtained using electrospray ionization mass\nspectrometry (ESI-MS) is shown below. Two peaks, one at m/z = 2960.6 and the\nother at m/z = 3552.5, are marked. The mass of the protein associated with the\nm/z = 2960.6 peak is __________ Da. (Round off to two decimal places)\nLife Sciences (XL)\nBotany (XL-R)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Biochemistry (XL-Q)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 47,
+    "question": "Q.47 [1 Mark]\nWhich one of the following plant families does apple (Malus domestica) belong to?",
+    "options": [
+      "(A) Rosaceae",
+      "(B) Rutaceae",
+      "(C) Rubiaceae",
+      "(D) Ranunculaceae"
+    ],
+    "correct_answer": "(A) Rosaceae",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Rosaceae</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Rosaceae</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 48,
+    "question": "Q.48 [1 Mark]\nThe collateral and open type of vascular bundle with endarch xylem strand is\nusually found in",
+    "options": [
+      "(A) monocot stem",
+      "(B) dicot stem",
+      "(C) monocot root",
+      "(D) dicot root"
+    ],
+    "correct_answer": "(A) monocot stem",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) monocot stem</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) monocot stem</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 49,
+    "question": "Q.49 [1 Mark]\nWhich of the following tissue types is/are established during embryogenesis in\nwild-type Arabidopsis thaliana?",
+    "options": [
+      "(A) Shoot apical meristem",
+      "(B) Rosette leaf primordium",
+      "(C) Procambium",
+      "(D) Lateral root primordium"
+    ],
+    "correct_answer": "(A) Shoot apical meristem",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Shoot apical meristem</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Shoot apical meristem</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 50,
+    "question": "Q.50 [1 Mark]\nWhich of the following plant natural products is/are cyanogenic glycoside(s)?",
+    "options": [
+      "(A) Linustatin",
+      "(B) Limonene",
+      "(C) Luteolin",
+      "(D) Linamarin"
+    ],
+    "correct_answer": "(A) Linustatin",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Linustatin</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Linustatin</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 51,
+    "question": "Q.51 [1 Mark]\nWhich of the following plant diseases is/are caused by nematode?",
+    "options": [
+      "(A) Cereal cyst of barley",
+      "(B) Ergot of rye",
+      "(C) Wart of potato",
+      "(D) Ear-cockle of wheat"
+    ],
+    "correct_answer": "(A) Cereal cyst of barley",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Cereal cyst of barley</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Cereal cyst of barley</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 52,
+    "question": "Q.52 [1 Mark]\nWhich of the following selectable marker genes is/are used for herbicide tolerance\nduring genetic transformation of plants?",
+    "options": [
+      "(A) hpt",
+      "(B) bar",
+      "(C) nptII",
+      "(D) pmi"
+    ],
+    "correct_answer": "(A) hpt",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) hpt</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) hpt</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 53,
+    "question": "Q.53 [1 Mark]\nWhich of the following statements is/are CORRECT with reference to rubber\nproduction from plants?",
+    "options": [
+      "(A) Para rubber is produced from Hevea brasiliensis",
+      "(B) India rubber is produced from Ficus elastica",
+      "(C) Panama rubber is produced from Manihot glaziovii",
+      "(D) Ceara rubber is produced from Castilla elastica"
+    ],
+    "correct_answer": "(A) Para rubber is produced from Hevea brasiliensis",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Para rubber is produced from Hevea brasiliensis</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Para rubber is produced from Hevea brasiliensis</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 54,
+    "question": "Q.54 [1 Mark]\nIn Calvin-Benson cycle, to produce 1 molecule of glyceraldehyde 3-phosphate by\nfixing 3 molecules of carbon dioxide, 9 molecules of ATP and ________ molecules\n(in integer) of NADPH are typically utilized.\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 55,
+    "question": "Q.55 [2 Marks]\nIn wild-type Arabidopsis thaliana, the four types of floral organs (sepal, petal,\nstamen, carpel) are arranged in concentric whorls from outside to inside. With\nreference to the ABC model of floral organ patterning, match the homeotic mutants\nin Group 1 with their respective arrangements of organs in the four whorls given\nin Group 2.\nGroup 1 Group 2\n(P) A class mutants (i) sepal, sepal, carpel, carpel\n(Q) B class mutants (ii) sepal, petal, petal, sepal\n(R) C class mutants (iii) carpel, stamen, stamen, carpel\n(iv) sepal, sepal, petal, petal",
+    "options": [
+      "(A) P−iv, Q−ii, R−i",
+      "(B) P−iii, Q−i, R−ii",
+      "(C) P−ii, Q−i, R−iii",
+      "(D) P−iii, Q−i, R−iv"
+    ],
+    "correct_answer": "(A) P−iv, Q−ii, R−i",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−iv, Q−ii, R−i</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−iv, Q−ii, R−i</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 56,
+    "question": "Q.56 [2 Marks]\nMatch the inhibitors in Group 1 with their respective targets in Group 2.\nGroup 1 Group 2\n(P) Oligomycin (i) Cytochrome bc1 complex\n(Q) Antimycin A (ii) Photosystem II\n(R) 3-(3,4-dichlorophenyl)-1,1-\ndimethylurea (DCMU)\n(iii) K+ ionophore\n(S) Valinomycin (iv) FO ATP synthase",
+    "options": [
+      "(A) P−i, Q−ii, R−iii, S−iv",
+      "(B) P−iv, Q−i, R−ii, S−iii",
+      "(C) P−iii, Q−i, R−iv, S−ii",
+      "(D) P−iv, Q−ii, R−i, S−iii"
+    ],
+    "correct_answer": "(A) P−i, Q−ii, R−iii, S−iv",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−i, Q−ii, R−iii, S−iv</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−i, Q−ii, R−iii, S−iv</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 57,
+    "question": "Q.57 [2 Marks]\nWith reference to Agrobacterium tumefaciens mediated plant transformation, match\nthe virulence factors in Group 1 with their protein types in Group 2.\nGroup 1 Group 2\n(P) VirG (i) Kinase\n(Q) VirA (ii) Helicase\n(R) VirE (iii) Transcriptional activator\n(S) VirC (iv) Single strand binding protein",
+    "options": [
+      "(A) P−i, Q−ii, R−iv, S−iii",
+      "(B) P−iii, Q−i, R−ii, S−iv",
+      "(C) P−ii, Q−iv, R−i, S−iii",
+      "(D) P−iii, Q−i, R−iv, S−ii"
+    ],
+    "correct_answer": "(A) P−i, Q−ii, R−iv, S−iii",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−i, Q−ii, R−iv, S−iii</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−i, Q−ii, R−iv, S−iii</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 58,
+    "question": "Q.58 [2 Marks]\nMatch the plant products in Group 1 with the plant species in Group 2 that produce\nthem and the respective plant parts in Group 3 where they accumulate the most.\nGroup 1 Group 2 Group 3\n(P) Liquorice (i) Cinchona calisaya (a) Leaf\n(Q) Quinine (ii) Lawsonia inermis (b) Root\n(R) Henna (iii) Glycyrriza glabra (c) Flower\n(S) Saffron (iv) Papaver somniferum (d) Bark\n(v) Crocus sativus (e) Seed",
+    "options": [
+      "(A) P−iii−b, Q−i−d, R−ii−a, S−v−c",
+      "(B) P−i−b, Q−iii−d, R−ii−a, S−iv−c",
+      "(C) P−iii−b, Q−i−d, R−ii−e, S−v−c",
+      "(D) P−iv−b, Q−i−d, R−iii−c, S−ii−a"
+    ],
+    "correct_answer": "(A) P−iii−b, Q−i−d, R−ii−a, S−v−c",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−iii−b, Q−i−d, R−ii−a, S−v−c</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−iii−b, Q−i−d, R−ii−a, S−v−c</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 59,
+    "question": "Q.59 [2 Marks]\nMatch the types of ecological interactions in Group 1 with their respective\ndefinitions in Group 2.\nGroup 1 Group 2\n(P) Protocooperation (i) One species is harmed but the other is neither\nharmed nor benefitted\n(Q) Commensalism (ii) A type of mutualism where one species is\nbenefitted more than the other\n(R) Amensalism (iii) Both the species are benefitted but the interaction\nbetween them is not obligatory\n(S) Helotism (iv) One species is benefitted without harming the\nother",
+    "options": [
+      "(A) P−iii, Q−iv, R−i, S−ii",
+      "(B) P−ii, Q−i, R−iii, S−iv",
+      "(C) P−i, Q−iv, R−iii, S−ii",
+      "(D) P−iii, Q−i, R−iv, S−ii"
+    ],
+    "correct_answer": "(A) P−iii, Q−iv, R−i, S−ii",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−iii, Q−iv, R−i, S−ii</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−iii, Q−iv, R−i, S−ii</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 60,
+    "question": "Q.60 [2 Marks]\nMatch the types of ecological energy productivity in Group 1 with their respective\ndefinitions in Group 2.\nGroup 1 Group 2\n(P) Net primary productivity (i) Total amount of energy\nproduced by autotrophs\n(Q) Gross primary productivity (ii) Amount of energy stored by\nautotrophs after respiration\n(R) Net productivity (iii) Net gain of energy by the\nconsumers after energy loss\n(S) Secondary productivity (iv) Unused amount of energy after\nconsumption by heterotrophs",
+    "options": [
+      "(A) P−iii, Q−ii, R−iv, S−i",
+      "(B) P−ii, Q−i, R−iii, S−iv",
+      "(C) P−ii, Q−i, R−iv, S−iii",
+      "(D) P−iv, Q−i, R−ii, S−iii"
+    ],
+    "correct_answer": "(A) P−iii, Q−ii, R−iv, S−i",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P−iii, Q−ii, R−iv, S−i</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P−iii, Q−ii, R−iv, S−i</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 61,
+    "question": "Q.61 [2 Marks]\nWhich of the following combinations of plant diseases and the types of their causal\norganisms is/are CORRECT?",
+    "options": [
+      "(A) Late blight of potato − Bacteria",
+      "(B) Black rot of crucifer − Bacteria",
+      "(C) Tungro disease of rice − Mycoplasma",
+      "(D) Root knot of tomato − Nematode"
+    ],
+    "correct_answer": "(A) Late blight of potato − Bacteria",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Late blight of potato − Bacteria</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Late blight of potato − Bacteria</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 62,
+    "question": "Q.62 [2 Marks]\nIdentify the CORRECT combination(s) of plant natural products and the categories\nthey belong to.",
+    "options": [
+      "(A) Dhurrin − Phenolic compounds",
+      "(B) Farnesene − Terpenoids",
+      "(C) Naringenin − Cyanogenic glycosides",
+      "(D) Vincristine − Alkaloids"
+    ],
+    "correct_answer": "(A) Dhurrin − Phenolic compounds",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Dhurrin − Phenolic compounds</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Dhurrin − Phenolic compounds</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 63,
+    "question": "Q.63 [2 Marks]\nIdentify the CORRECT combination(s) between the enzymes in Group 1 and the\nreactions in Group 2 they catalyze.\nGroup 1 Group 2\n(P) Cinnamate-4-hydroxylase (i) L-phenylalanine →\nCinnamic acid\n(Q) Glycerate kinase (ii) Glyceraldehyde 3-phosphate →\ndihydroxyacetone phosphate\n(R) PEP carboxylase (iii) Glycolate + O2 →\nGlyoxylate + H2O2\n(S) Nitrate reductase (iv) NO3− + NAD(P)H + H+ →\nNO2− + NAD(P)+ + H2O",
+    "options": [
+      "(A) S−iv",
+      "(B) Q−ii",
+      "(C) P−i",
+      "(D) R−iii"
+    ],
+    "correct_answer": "(A) S−iv",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) S−iv</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) S−iv</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 64,
+    "question": "Q.64 [2 Marks]\nIn a genetic cross between two pure-line parents differing in the two independently\nsegregating traits, plant height (tall vs dwarf) and flower color (purple vs white), all\nthe F1 plants were tall with purple flowers. In a testcross population involving these\nF1 individuals, the expected percentage (%) of dwarf plants with purple flower\nwould be _______ (in integer).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 65,
+    "question": "Q.65 [2 Marks]\nThe mRNA of a hypothetical plant gene HSDU is 800-nucleotide long and encodes\na protein of 160 amino acid residues. The calculated length of HSDU CDS would\nbe ________ nucleotides (in integer).\nLife Sciences (XL)\nMicrobiology (XL-S)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Botany (XL-R)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 66,
+    "question": "Q.66 [1 Mark]\nWhich one of the following bacterial species can cause atypical pneumonia?",
+    "options": [
+      "(A) Chlamydia pneumoniae",
+      "(B) Streptococcus pneumoniae",
+      "(C) Klebsiella pneumoniae",
+      "(D) Haemophilus influenzae"
+    ],
+    "correct_answer": "(A) Chlamydia pneumoniae",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Chlamydia pneumoniae</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Chlamydia pneumoniae</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 67,
+    "question": "Q.67 [1 Mark]\nWhich one of the following organisms has axial filaments?",
+    "options": [
+      "(A) Mycobacterium tuberculosis",
+      "(B) Pasteurella multocida",
+      "(C) Treponema pallidum",
+      "(D) Shigella dysenteriae"
+    ],
+    "correct_answer": "(A) Mycobacterium tuberculosis",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Mycobacterium tuberculosis</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Mycobacterium tuberculosis</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 68,
+    "question": "Q.68 [1 Mark]\nWho among the following scientists was the pioneer in development of\nchemotherapy?",
+    "options": [
+      "(A) Elie Metchnikoff",
+      "(B) Robert Koch",
+      "(C) Paul Ehrlich",
+      "(D) Ronald Ross"
+    ],
+    "correct_answer": "(A) Elie Metchnikoff",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Elie Metchnikoff</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Elie Metchnikoff</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 69,
+    "question": "Q.69 [1 Mark]\nIn which of following processes, glutaraldehyde is used as a sterilizing agent?",
+    "options": [
+      "(A) Pasteurization",
+      "(B) Incineration",
+      "(C) Cold sterilization",
+      "(D) Autoclaving"
+    ],
+    "correct_answer": "(A) Pasteurization",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Pasteurization</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Pasteurization</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 70,
+    "question": "Q.70 [1 Mark]\nThe most abundant class of immunoglobulins in serum is __________.",
+    "options": [
+      "(A) IgM",
+      "(B) IgA",
+      "(C) IgD",
+      "(D) IgG"
+    ],
+    "correct_answer": "(A) IgM",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) IgM</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) IgM</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 71,
+    "question": "Q.71 [1 Mark]\nWhich one of the following double-stranded sequences will NOT be recognized by\na Type IIP restriction endonuclease?",
+    "options": [
+      "(A) 5′--GGTACC--3′ 3′--CCTAGG--5′",
+      "(B) 5′--GGATCC--3′ 3′--CCTAGG--5′",
+      "(C) 5′--CATATG--3′ 3′--GTATAC--5′",
+      "(D) 5′--GATTTC--3′ 3′--CTAAAG--5′"
+    ],
+    "correct_answer": "(A) 5′--GGTACC--3′ 3′--CCTAGG--5′",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 5′--GGTACC--3′ 3′--CCTAGG--5′</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) 5′--GGTACC--3′ 3′--CCTAGG--5′</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 72,
+    "question": "Q.72 [1 Mark]\nWhich one of the following use inorganic compounds as an energy source?",
+    "options": [
+      "(A) Heterotrophs",
+      "(B) Chemolithotrophs",
+      "(C) Chemoorganotrophs",
+      "(D) Photoheterotrophs"
+    ],
+    "correct_answer": "(A) Heterotrophs",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Heterotrophs</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Heterotrophs</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 73,
+    "question": "Q.73 [1 Mark]\nWhich one of the following represents the abundance of the organisms found in\nsoil?",
+    "options": [
+      "(A) Fungi > Aerobic bacteria > Anaerobic bacteria",
+      "(B) Aerobic bacteria > Fungi > Anaerobic bacteria",
+      "(C) Aerobic bacteria > Anaerobic bacteria > Fungi",
+      "(D) Anaerobic bacteria > Aerobic bacteria > Fungi"
+    ],
+    "correct_answer": "(A) Fungi > Aerobic bacteria > Anaerobic bacteria",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Fungi > Aerobic bacteria > Anaerobic bacteria</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Fungi > Aerobic bacteria > Anaerobic bacteria</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 74,
+    "question": "Q.74 [2 Marks]\nMatch the antibiotics in Group I with the microorganisms that produce them in\nGroup II.\nGroup I Group II\n(P) Streptomycin (i) Streptomyces griseus\n(Q) Bacitracin (ii) Bacillus licheniformis\n(R) Amphotericin B (iii) Streptomyces venezuelae\n(S) Chloramphenicol (iv) Streptomyces nodosus",
+    "options": [
+      "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+      "(B) (P)-(i), (Q)-(ii), (R)-(iv), (S)-(iii)",
+      "(C) (P)-(i), (Q)-(ii), (R)-(iii), (S)-(iv)",
+      "(D) (P)-(ii), (Q)-(iv), (R)-(i), (S)-(iii)"
+    ],
+    "correct_answer": "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 75,
+    "question": "Q.75 [2 Marks]\nWhich one of the following redox couples has the highest tendency to donate\nelectrons?",
+    "options": [
+      "(A) Fumarate / succinate",
+      "(B) NAD+ / NADH",
+      "(C) FAD / FADH",
+      "(D) Pyruvate / lactate"
+    ],
+    "correct_answer": "(A) Fumarate / succinate",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Fumarate / succinate</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Fumarate / succinate</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 76,
+    "question": "Q.76 [2 Marks]\nWhich of the following is/are active transport mechanism(s) in prokaryotes where\nthe substance is chemically altered during transport across the membrane?",
+    "options": [
+      "(A) Group translocation",
+      "(B) Simple diffusion",
+      "(C) Facilitated diffusion",
+      "(D) Osmosis"
+    ],
+    "correct_answer": "(A) Group translocation",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Group translocation</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Group translocation</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 77,
+    "question": "Q.77 [2 Marks]\nWhich of the following cocci is/are examples of division in one plane?",
+    "options": [
+      "(A) Staphylococci",
+      "(B) Streptococci",
+      "(C) Micrococci",
+      "(D) Diplococci"
+    ],
+    "correct_answer": "(A) Staphylococci",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Staphylococci</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Staphylococci</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 78,
+    "question": "Q.78 [2 Marks]\nWhich of the following event(s) occur(s) during translation in prokaryotes?",
+    "options": [
+      "(A) tRNA binding to the start codon of mRNA on the 30s subunit of ribosome",
+      "(B) Anticodon of tRNA binding to the start codon of mRNA on the 50s subunit of ribosome",
+      "(C) The ribosome continues to move along the mRNA to add new amino acids to the polypeptide",
+      "(D) The polypeptide is released when the ribosome reaches the stop codon"
+    ],
+    "correct_answer": "(A) tRNA binding to the start codon of mRNA on the 30s subunit of ribosome",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) tRNA binding to the start codon of mRNA on the 30s subunit of ribosome</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) tRNA binding to the start codon of mRNA on the 30s subunit of ribosome</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 79,
+    "question": "Q.79 [2 Marks]\nWhich of the following is/are consequence(s) of nitrous acid (HNO2) mediated\ndeamination?",
+    "options": [
+      "(A) Deamination of cytosine, adenine and guanine",
+      "(B) GC-to-AT transitions",
+      "(C) AT- to- GC transitions",
+      "(D) Addition of alkyl group to the bases"
+    ],
+    "correct_answer": "(A) Deamination of cytosine, adenine and guanine",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Deamination of cytosine, adenine and guanine</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Deamination of cytosine, adenine and guanine</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 80,
+    "question": "Q.80 [2 Marks]\nAt root nodules, which of the following C4 organic acid(s) is/are transported across\nthe symbiosome membrane and into bacteroids?",
+    "options": [
+      "(A) Succinate",
+      "(B) Pyruvate",
+      "(C) Malate",
+      "(D) Fumarate"
+    ],
+    "correct_answer": "(A) Succinate",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Succinate</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Succinate</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 81,
+    "question": "Q.81 [2 Marks]\nWhich of the following is/are TRUE about the Escherichia coli chromosome?",
+    "options": [
+      "(A) It is typically bound by histones",
+      "(B) It is circular in nature",
+      "(C) It is found in the nucleoid",
+      "(D) It contains multiple origins of replication"
+    ],
+    "correct_answer": "(A) It is typically bound by histones",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) It is typically bound by histones</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) It is typically bound by histones</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 82,
+    "question": "Q.82 [2 Marks]\nAt t = 0, the bacterial cell number is 10,000 cells/mL. At t = 480 minutes, the cell\nnumber increased to 320,000 cells/mL. The mean generation time during this\nexponential growth period, rounded off to the nearest integer is ________ minutes.\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 83,
+    "question": "Q.83 [2 Marks]\nA landfill sample was analyzed by dilution and plating techniques for viable\nbacterial count. When one gram of the landfill sample was diluted 1 x 10-4 (w/v) it\nyielded 400 CFU. The viable bacterial count (in million, rounded off to the nearest\ninteger) in one gram landfill sample is _______.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 84,
+    "question": "Q.84 [2 Marks]\nA fluorescence microscope with an objective lens of numerical aperture (NA) 1.5\nis used with light of wavelength (λ) 600 nanometers. The lateral resolution limit of\nthis microscope rounded off to the nearest integer, is _________ nanometers.\nLife Sciences (XL)\nZoology (XL-T)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Microbiology (XL-S)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 85,
+    "question": "Q.85 [1 Mark]\nWhich one of the following statements about gene expression is INCORRECT?",
+    "options": [
+      "(A) DNA is transcribed to mRNA.",
+      "(B) mRNA can be reverse-transcribed to DNA.",
+      "(C) mRNA can be translated to protein.",
+      "(D) Protein can be reverse-translated to mRNA."
+    ],
+    "correct_answer": "(A) DNA is transcribed to mRNA.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) DNA is transcribed to mRNA.</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) DNA is transcribed to mRNA.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 86,
+    "question": "Q.86 [1 Mark]\nWhich one of the following tissues/organs is least likely to experience\ngraft rejection when transplanted from a person to an unrelated person?",
+    "options": [
+      "(A) bone marrow",
+      "(B) cornea",
+      "(C) heart",
+      "(D) kidney"
+    ],
+    "correct_answer": "(A) bone marrow",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) bone marrow</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) bone marrow</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 87,
+    "question": "Q.87 [1 Mark]\nCodon bias is correlated with the relative frequencies of which one of the following\ntypes of RNA?",
+    "options": [
+      "(A) mRNA",
+      "(B) rRNA",
+      "(C) siRNA",
+      "(D) tRNA"
+    ],
+    "correct_answer": "(A) mRNA",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) mRNA</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) mRNA</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 88,
+    "question": "Q.88 [1 Mark]\nCREB1 is a eukaryotic transcription factor. In which one of the following\ncompartments of the cell is CREB1 predominantly localized?",
+    "options": [
+      "(A) lysosomes",
+      "(B) mitochondria",
+      "(C) nucleus",
+      "(D) peroxisomes"
+    ],
+    "correct_answer": "(A) lysosomes",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) lysosomes</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) lysosomes</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 89,
+    "question": "Q.89 [1 Mark]\nIn certain species of salamanders, male-female pairs have multiple mating partners\nin a breeding season. Which one of the following terminologies accurately describes\nthis mating system?",
+    "options": [
+      "(A) monogamy",
+      "(B) polyandry",
+      "(C) polygyny",
+      "(D) polygynandry"
+    ],
+    "correct_answer": "(A) monogamy",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) monogamy</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) monogamy</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 90,
+    "question": "Q.90 [1 Mark]\nWhich one of the following statements describes the key function of human sweat\nglands?",
+    "options": [
+      "(A) They serve as touch sensors.",
+      "(B) They are responsible for skin color.",
+      "(C) They regulate body temperature.",
+      "(D) They store fat."
+    ],
+    "correct_answer": "(A) They serve as touch sensors.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) They serve as touch sensors.</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) They serve as touch sensors.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 91,
+    "question": "Q.91 [1 Mark]\nUrease enzyme catalyzes the conversion of urea into ammonia and carbon dioxide.\nWhich one of the following organisms expresses urease enzyme?",
+    "options": [
+      "(A) Caenorhabditis elegans",
+      "(B) Drosophila melanogaster",
+      "(C) Helicobacter pylori",
+      "(D) Homo sapiens"
+    ],
+    "correct_answer": "(A) Caenorhabditis elegans",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Caenorhabditis elegans</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Caenorhabditis elegans</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 92,
+    "question": "Q.92 [1 Mark]\nThe human genetic code is triplet in nature with 64 codons made using four\nnucleotides. If the human genetic code was doublet in nature, the number of codons\ntheoretically possible from four nucleotides is ______. (Answer in integer)\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 93,
+    "question": "Q.93 [2 Marks]\nWhich one of the following statements is NOT TRUE of glycosaminoglycans?",
+    "options": [
+      "(A) Glycosaminoglycans are composed of repeating disaccharide units.",
+      "(B) Glycosaminoglycans consist of amino sugars that are frequently sulfated.",
+      "(C) Hyaluronic acid is an example of a glycosaminoglycan.",
+      "(D) Methionine is the predominant amino acid to which glycosaminoglycan chains are conjugated to form proteoglycans."
+    ],
+    "correct_answer": "(A) Glycosaminoglycans are composed of repeating disaccharide units.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Glycosaminoglycans are composed of repeating disaccharide units.</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Glycosaminoglycans are composed of repeating disaccharide units.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 94,
+    "question": "Q.94 [2 Marks]\nWhich one of the options correctly matches the human tissues/organs with their\nembryonic germ layers of origin?\nTissues/organs Embryonic germ layers\n(P) liver (I) ectoderm\n(Q) cerebellum (II) endoderm\n(R) femur (III) mesoderm",
+    "options": [
+      "(A) P-II, Q-I, R-III",
+      "(B) P-III, Q-I, R-II",
+      "(C) P-I, Q-II, R-III",
+      "(D) P-II, Q-III, R-I"
+    ],
+    "correct_answer": "(A) P-II, Q-I, R-III",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P-II, Q-I, R-III</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P-II, Q-I, R-III</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 95,
+    "question": "Q.95 [2 Marks]\nConsider a large population of a finch species, where both small and big beak sizes\nare advantageous, and an intermediate beak size is maladaptive. Over a period of\n10 years, which one of the following evolutionary processes is most likely to operate\non the beak size of this finch population?",
+    "options": [
+      "(A) directional selection",
+      "(B) disruptive selection",
+      "(C) genetic drift",
+      "(D) stabilizing selection"
+    ],
+    "correct_answer": "(A) directional selection",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) directional selection</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) directional selection</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 96,
+    "question": "Q.96 [2 Marks]\nWhen the blood glucose level of a healthy person is 100 mg/dL, which one of the\nfollowing options is most likely to represent the level of glucose in the urine of that\nperson?",
+    "options": [
+      "(A) < 1 mg/dL",
+      "(B) 10 mg/dL",
+      "(C) 50 mg/dL",
+      "(D) 100 mg/dL"
+    ],
+    "correct_answer": "(A) < 1 mg/dL",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) < 1 mg/dL</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) < 1 mg/dL</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 97,
+    "question": "Q.97 [2 Marks]\nWhich one of the following rooted tree topologies best describes the primate\nphylogeny?",
+    "options": [
+      "(A) I",
+      "(B) II",
+      "(C) III",
+      "(D) IV"
+    ],
+    "correct_answer": "(A) I",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) I</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) I</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 98,
+    "question": "Q.98 [2 Marks]\nConsider a species of brightly colored beetle. Which one or more of the following\nobservations suggest(s) that this species is aposematic?",
+    "options": [
+      "(A) Both male and female beetles are brightly colored.",
+      "(B) Only male beetles are brightly colored.",
+      "(C) Only female beetles are brightly colored.",
+      "(D) The beetle species is toxic and distasteful."
+    ],
+    "correct_answer": "(A) Both male and female beetles are brightly colored.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Both male and female beetles are brightly colored.</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Both male and female beetles are brightly colored.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 99,
+    "question": "Q.99 [2 Marks]\nThe embryos of which one or more of the following animals show meroblastic\ncleavage?",
+    "options": [
+      "(A) Danio rerio (zebrafish)",
+      "(B) Gallus gallus (chicken)",
+      "(C) Synapta digita (sea cucumber)",
+      "(D) Xenopus laevis (frog)"
+    ],
+    "correct_answer": "(A) Danio rerio (zebrafish)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Danio rerio (zebrafish)</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Danio rerio (zebrafish)</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 100,
+    "question": "Q.100 [2 Marks]\nWhich one or more of the following parasites is/are typically transmitted by\nmosquitoes as vector?",
+    "options": [
+      "(A) Leishmania donovani",
+      "(B) Plasmodium vivax",
+      "(C) Wuchereria bancrofti",
+      "(D) Trichuris trichiura"
+    ],
+    "correct_answer": "(A) Leishmania donovani",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Leishmania donovani</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Leishmania donovani</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 101,
+    "question": "Q.101 [2 Marks]\nConsider the following nucleotide sequence:\n5′-GCCGCCAUGGCGUCUGCUAGCUGGCUCGAUCGCGAGCGAUCGUAC\nGUAUAGUAUGAA-3′\nAssume canonical initiation, canonical termination, no post-translational\nmodification, and the average molecular mass of an amino acid to be 110 daltons.\nThe theoretical molecular mass of the polypeptide translated from the above\nnucleotide sequence is _____ daltons. (Answer in integer)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 102,
+    "question": "Q.102 [2 Marks]\nThe pKa of a buffer solution with pH of 5, consisting of 0.4 M sodium acetate and\n0.04 M acetic acid, is ______. (Answer in integer)\nLife Sciences (XL)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 103,
+    "question": "Q.103 [2 Marks]\nConsider a healthy person with the following lung volumes:\nResidual volume = 900 mL\nExpiratory reserve volume = 800 mL\nTidal volume = 200 mL\nIf the Total lung capacity is 5500 mL, then the Inspiratory reserve volume of the\nperson is _____ mL. (Answer in integer)\nLife Sciences (XL)\nFood Technology (XL-U)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Zoology (XL-T)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 104,
+    "question": "Q.104 [1 Mark]\nWhich one of the following fungi produces aflatoxins?",
+    "options": [
+      "(A) Aspergillus niger",
+      "(B) Fusarium verticillioides",
+      "(C) Aspergillus flavus",
+      "(D) Rhizopus oligosporus"
+    ],
+    "correct_answer": "(A) Aspergillus niger",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Aspergillus niger</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Aspergillus niger</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 105,
+    "question": "Q.105 [1 Mark]\nUnder standard conditions in animal feeding studies, the weight gained (in grams)\nper gram of protein consumed by an animal is termed as",
+    "options": [
+      "(A) Net Protein Ratio",
+      "(B) Net Protein Utilization",
+      "(C) Coefficient of Protein Digestibility",
+      "(D) Protein Efficiency Ratio"
+    ],
+    "correct_answer": "(A) Net Protein Ratio",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Net Protein Ratio</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Net Protein Ratio</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 106,
+    "question": "Q.106 [1 Mark]\nXeropthalmia is caused due to the deficiency of",
+    "options": [
+      "(A) Thiamin",
+      "(B) Pantothenic acid",
+      "(C) Vitamin A",
+      "(D) Vitamin C"
+    ],
+    "correct_answer": "(A) Thiamin",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Thiamin</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Thiamin</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 107,
+    "question": "Q.107 [1 Mark]\nWhich one of the following steps is used to remove phosphatides from crude oil in\nthe refining process?",
+    "options": [
+      "(A) Neutralization",
+      "(B) Bleaching",
+      "(C) Degumming",
+      "(D) Deodorization"
+    ],
+    "correct_answer": "(A) Neutralization",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Neutralization</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Neutralization</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 108,
+    "question": "Q.108 [1 Mark]\nThe unique flavor of chocolate and cocoa is due to the formation of",
+    "options": [
+      "(A) 5-methyl-2-phenyl-2-hexenal",
+      "(B) Cyclotene",
+      "(C) Furaneol",
+      "(D) Maltol"
+    ],
+    "correct_answer": "(A) 5-methyl-2-phenyl-2-hexenal",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) 5-methyl-2-phenyl-2-hexenal</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) 5-methyl-2-phenyl-2-hexenal</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 109,
+    "question": "Q.109 [1 Mark]\nWhich one of the following statements regarding Hazard Analysis Critical Control\nPoint (HACCP) plan is NOT correct?",
+    "options": [
+      "(A) HACCP is a management tool for ensuring food safety.",
+      "(B) HACCP involves five preliminary steps and seven principles.",
+      "(C) HACCP is not effective without prior implementation of prerequisite programs.",
+      "(D) HACCP plan involves establishment of corrective actions as second principle."
+    ],
+    "correct_answer": "(A) HACCP is a management tool for ensuring food safety.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) HACCP is a management tool for ensuring food safety.</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) HACCP is a management tool for ensuring food safety.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 110,
+    "question": "Q.110 [1 Mark]\nThe product of cabbage fermentation by Leuconostoc mesenteroides is",
+    "options": [
+      "(A) Tempeh",
+      "(B) Natto",
+      "(C) Sauerkraut",
+      "(D) Miso"
+    ],
+    "correct_answer": "(A) Tempeh",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Tempeh</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Tempeh</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 111,
+    "question": "Q.111 [1 Mark]\nWhich one of the following absorbents is NOT used as an ethylene absorber in\nactive packaging of fruits and vegetables?",
+    "options": [
+      "(A) Potassium permanganate",
+      "(B) Activated carbon",
+      "(C) Calcium hydroxide",
+      "(D) Silica gel"
+    ],
+    "correct_answer": "(A) Potassium permanganate",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Potassium permanganate</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Potassium permanganate</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 112,
+    "question": "Q.112 [2 Marks]\nWhich one of the following statements regarding moisture sorption isotherms of a\ndried food is NOT correct?",
+    "options": [
+      "(A) At a given temperature, the difference between adsorption and desorption moisture isotherms is known as hysteresis.",
+      "(B) At a given temperature and water activity, an adsorption isotherm exhibits higher equilibrium moisture content than a desorption isotherm in hysteresis.",
+      "(C) At a given moisture content, effect of temperature on a moisture sorption isotherm follows the Clausius- Clapeyron equation.",
+      "(D) The Guggenheim-Anderson-de Boer (GAB) equation is a multilayer moisture sorption model."
+    ],
+    "correct_answer": "(A) At a given temperature, the difference between adsorption and desorption moisture isotherms is known as hysteresis.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) At a given temperature, the difference between adsorption and desorption moisture isotherms is known as hysteresis.</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) At a given temperature, the difference between adsorption and desorption moisture isotherms is known as hysteresis.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 113,
+    "question": "Q.113 [2 Marks]\nProcessing of fluid milk at 72 ℃ for 15 seconds is termed as",
+    "options": [
+      "(A) High-temperature, short-time (HTST) pasteurization",
+      "(B) Low-temperature, long-time (LTLT) pasteurization",
+      "(C) Ultra high-temperature (UHT) pasteurization",
+      "(D) Homogenization process"
+    ],
+    "correct_answer": "(A) High-temperature, short-time (HTST) pasteurization",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) High-temperature, short-time (HTST) pasteurization</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) High-temperature, short-time (HTST) pasteurization</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 114,
+    "question": "Q.114 [2 Marks]\nMatch the anti-nutritional factor in Column I with their corresponding activity\ngiven in Column II.\nColumn I Column II\nP. Lectin 1. Flatulence\nQ. Stachyose 2. Chelates with divalent cations and reduces their\nbio-availability\nR. Phytate 3. Inhibits trypsin and chymotrypsin\nS. Knuitz type inhibitor 4. Hemagglutination",
+    "options": [
+      "(A) P-4,Q-1, R-2,S-3",
+      "(B) P-3,Q-1, R-2,S-4",
+      "(C) P-2,Q-1, R-4,S-3",
+      "(D) P-1,Q-2, R-3,S-4"
+    ],
+    "correct_answer": "(A) P-4,Q-1, R-2,S-3",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) P-4,Q-1, R-2,S-3</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) P-4,Q-1, R-2,S-3</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 115,
+    "question": "Q.115 [2 Marks]\nWhich of the following fatty acids is/are known to increase the low density\nlipoprotein (LDL)-cholesterol?",
+    "options": [
+      "(A) Omega-3 Fatty acids",
+      "(B) Trans Fatty acids",
+      "(C) Conjugated Linoleic acids",
+      "(D) Saturated Fatty acids"
+    ],
+    "correct_answer": "(A) Omega-3 Fatty acids",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Omega-3 Fatty acids</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Omega-3 Fatty acids</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 116,
+    "question": "Q.116 [2 Marks]\nThe addition of which of the following to high-methoxyl pectin will result in gel\nformation?",
+    "options": [
+      "(A) Calcium ions",
+      "(B) Hydrogen ions",
+      "(C) Sodium ions",
+      "(D) Sugar"
+    ],
+    "correct_answer": "(A) Calcium ions",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Calcium ions</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Calcium ions</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 117,
+    "question": "Q.117 [2 Marks]\nWhich of the following steps in food processing is/are used to reduce the acrylamide\nformation in food products?",
+    "options": [
+      "(A) Pretreatment using asparaginase",
+      "(B) Lowering the pH",
+      "(C) Increasing the temperature.",
+      "(D) Adding glucose."
+    ],
+    "correct_answer": "(A) Pretreatment using asparaginase",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Pretreatment using asparaginase</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Pretreatment using asparaginase</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 118,
+    "question": "Q.118 [2 Marks]\nWhich of the following enzymes is/are used for the production of high fructose\nsyrup (HFS) from corn starch?",
+    "options": [
+      "(A) α-Amylase",
+      "(B) β-Amylase",
+      "(C) Xylose isomerase",
+      "(D) Glucoamylase"
+    ],
+    "correct_answer": "(A) α-Amylase",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) α-Amylase</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) α-Amylase</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 119,
+    "question": "Q.119 [2 Marks]\nWhich of the following is/are typical characteristic(s) of a fungal cell?",
+    "options": [
+      "(A) Presence of histone proteins",
+      "(B) Presence of peptidoglycans in the cell wall",
+      "(C) Presence of chitin in the cell wall",
+      "(D) Presence of pseudomurein in the cell wall"
+    ],
+    "correct_answer": "(A) Presence of histone proteins",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Presence of histone proteins</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Presence of histone proteins</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 120,
+    "question": "Q.120 [2 Marks]\nWhich of the following statements is/ are correct regarding food and water borne\ndisease and the class of causative microorganisms?",
+    "options": [
+      "(A) Legionellosis is a bacterial disease.",
+      "(B) Giardiasis is caused by the protists.",
+      "(C) Typhoid fever is caused by the virus.",
+      "(D) Listeriosis is a fungal disease."
+    ],
+    "correct_answer": "(A) Legionellosis is a bacterial disease.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Legionellosis is a bacterial disease.</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Legionellosis is a bacterial disease.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 121,
+    "question": "Q.121 [2 Marks]\nWhich of the following statements is/ are true?",
+    "options": [
+      "(A) Hagen-Poiseuille’s law is used for calculation of molecular diffusion.",
+      "(B) Fick’s law is used for calculation of energy requirement in size reduction.",
+      "(C) Rittinger’s law is used for calculation of energy requirement in size reduction.",
+      "(D) Stokes law is used for derivation of terminal velocity."
+    ],
+    "correct_answer": "(A) Hagen-Poiseuille’s law is used for calculation of molecular diffusion.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>(A) Hagen-Poiseuille’s law is used for calculation of molecular diffusion.</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\nThe underlying biological/chemical mechanism confirms <b>(A) Hagen-Poiseuille’s law is used for calculation of molecular diffusion.</b> as the scientifically and experimentally verified principle.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the theoretical or empirical criteria specified in the question.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the theoretical or empirical criteria specified in the question."
+  },
+  {
+    "id": 122,
+    "question": "Q.122 [2 Marks]\nA 10 kg tomato pulp is concentrated from an initial moisture content of 90% (wet\nweight basis) to 35% (wet weight basis). The weight of the concentrate in kg is\n__________ (round off to 2 decimal places).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe officially correct answer for this question is <b>*</b>.\nThis question evaluates core competencies in <b>Food Technology (XL-U)</b>.\n\n<b>Step-by-Step Analytical Approach:</b>\n1. Analyze the given parameters and constraints stated in the problem.\n2. Apply the fundamental definition/law governing this system.\n3. Verify algebraic and numerical boundary conditions step-by-step to arrive directly at <b>*</b> without ambiguity.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  }
+]

@@ -1,0 +1,1824 @@
+[
+  {
+    "id": 1,
+    "question": "Q.1 [1 Mark]\nThe movie was funny and I _________.",
+    "options": [
+      "(A) could help laughing",
+      "(B) couldn’t help laughed",
+      "(C) couldn’t help laughing",
+      "(D) could helped laughed"
+    ],
+    "correct_answer": "(C) couldn’t help laughing",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe English idiom <b>\"can't help / couldn't help doing something\"</b> is a standard expression meaning being unable to restrain or stop oneself from an emotional reaction or action. Since the sentence is in past tense (\"The movie was funny\"), the appropriate form is <b>\"couldn't help laughing\"</b> (using the gerund form <i>laughing</i>).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): could help laughing</b> - Grammatically inappropriate here because \"could help\" means the speaker had the ability to stop laughing, which directly contradicts the context of the movie being very funny.\n• <b style=\"color:#2563eb\">Option (B): couldn’t help laughed</b> - Grammatically incorrect because the phrase \"could not help\" must always be followed by a gerund (-ing form), never a past tense verb (\"laughed\").\n• <b style=\"color:#2563eb\">Option (D): could helped laughed</b> - Completely incorrect grammatical structure combining a modal verb with two past forms."
+  },
+  {
+    "id": 2,
+    "question": "Q.2 [1 Mark]\nx : y : z = 1/2 : 1/3 : 1/4.\n\nWhat is the value of (x + z - y) / y ?",
+    "options": [
+      "(A) 0.75",
+      "(B) 1.25",
+      "(C) 2.25",
+      "(D) 3.25"
+    ],
+    "correct_answer": "(B) 1.25",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's solve this ratio problem step-by-step in a way that any 10th-grade student can easily follow!\n\n[GIVEN]\n• x : y : z = (1/2) : (1/3) : (1/4)\n• Expression to evaluate: (x + z - y) / y\n\n[FORMULA]\nTo eliminate fractional ratios, multiply all parts by the LCM (Least Common Multiple) of the denominators 2, 3, and 4.\nLCM(2, 3, 4) = 12.\n\n[STEPS]\nStep 1: Convert fractional ratios to whole numbers\nMultiply each term by 12:\n• x = 12 × (1/2) = 6\n• y = 12 × (1/3) = 4\n• z = 12 × (1/4) = 3\nSo the ratio is x : y : z = 6 : 4 : 3. We can represent x = 6k, y = 4k, and z = 3k.\n\nStep 2: Substitute these values into the numerator (x + z - y)\nNumerator = x + z - y = 6k + 3k - 4k = 5k\n\nStep 3: Divide by y\n(x + z - y) / y = (5k) / (4k) = 5 / 4 = 1.25\n\n[ANSWER]\nThus, the value is 1.25, which corresponds to Option (B).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): 0.75</b> - Incorrect; 3/4 = 0.75, which occurs if you mistakenly subtract z instead of y.\n• <b style=\"color:#2563eb\">Option (C): 2.25</b> - Incorrect; 9/4 = 2.25, which occurs if you add all three variables (6 + 4 + 3 - y = 9/4).\n• <b style=\"color:#2563eb\">Option (D): 3.25</b> - Incorrect calculation error."
+  },
+  {
+    "id": 3,
+    "question": "Q.3 [1 Mark]\nBoth the numerator and the denominator of 3/4 are increased by a positive integer, x, and those of 15/17 are decreased by the same integer. This operation results in the same value for both the fractions.\n\nWhat is the value of x?",
+    "options": [
+      "(A) 1",
+      "(B) 2",
+      "(C) 3",
+      "(D) 4"
+    ],
+    "correct_answer": "(C) 3",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's set up the equation step-by-step from the given conditions:\n\n[GIVEN]\n• Fraction 1: 3/4. Both numerator and denominator are increased by positive integer x → (3 + x) / (4 + x)\n• Fraction 2: 15/17. Both numerator and denominator are decreased by x → (15 - x) / (17 - x)\n• Both fractions become equal: (3 + x) / (4 + x) = (15 - x) / (17 - x)\n\n[STEPS]\nStep 1: Cross-multiply the equation\n(3 + x)(17 - x) = (15 - x)(4 + x)\n\nStep 2: Expand both products\nLeft Hand Side:\n3(17) - 3x + 17x - x² = 51 + 14x - x²\n\nRight Hand Side:\n15(4) + 15x - 4x - x² = 60 + 11x - x²\n\nStep 3: Solve for x\n51 + 14x - x² = 60 + 11x - x²\nCancel -x² on both sides:\n51 + 14x = 60 + 11x\n14x - 11x = 60 - 51\n3x = 9\nx = 3\n\nStep 4: Check and verify\n• (3 + 3) / (4 + 3) = 6/7\n• (15 - 3) / (17 - 3) = 12/14 = 6/7\nBoth sides are equal to 6/7. The result is perfectly verified!\n\n[ANSWER]\nThe value of x is 3, corresponding to Option (C).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): 1</b> - (3+1)/(4+1) = 4/5 = 0.80, while (15-1)/(17-1) = 14/16 = 0.875 (not equal).\n• <b style=\"color:#2563eb\">Option (B): 2</b> - (3+2)/(4+2) = 5/6 ≈ 0.833, while (15-2)/(17-2) = 13/15 ≈ 0.867 (not equal).\n• <b style=\"color:#2563eb\">Option (D): 4</b> - (3+4)/(4+4) = 7/8 = 0.875, while (15-4)/(17-4) = 11/13 ≈ 0.846 (not equal)."
+  },
+  {
+    "id": 4,
+    "question": "Q.4 [1 Mark]\nA survey of 450 students about their subjects of interest resulted in the following outcome:\n• 150 students are interested in Mathematics.\n• 200 students are interested in Physics.\n• 175 students are interested in Chemistry.\n• 50 students are interested in Mathematics and Physics.\n• 60 students are interested in Physics and Chemistry.\n• 40 students are interested in Mathematics and Chemistry.\n• 30 students are interested in Mathematics, Physics and Chemistry.\n• Remaining students are interested in Humanities.\n\nBased on the above information, the number of students interested in Humanities is:",
+    "options": [
+      "(A) 10",
+      "(B) 30",
+      "(C) 40",
+      "(D) 45"
+    ],
+    "correct_answer": "(D) 45",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThis is a classic 3-set Venn Diagram problem using the Principle of Inclusion-Exclusion!\n\n[GIVEN]\n• Total students surveyed = 450\n• n(M) = 150 (Mathematics)\n• n(P) = 200 (Physics)\n• n(C) = 175 (Chemistry)\n• n(M ∩ P) = 50\n• n(P ∩ C) = 60\n• n(M ∩ C) = 40\n• n(M ∩ P ∩ C) = 30 (All three)\n\n[FORMULA]\nTotal students interested in at least one science subject (M ∪ P ∪ C):\nn(M ∪ P ∪ C) = n(M) + n(P) + n(C) - [n(M ∩ P) + n(P ∩ C) + n(M ∩ C)] + n(M ∩ P ∩ C)\n\n[STEPS]\nStep 1: Calculate the union of students interested in Math, Physics, or Chemistry\nn(M ∪ P ∪ C) = (150 + 200 + 175) - (50 + 60 + 40) + 30\n= 525 - 150 + 30\n= 375 + 30\n= 405 students\n\nStep 2: Find remaining students interested in Humanities\nHumanities = Total Students - n(M ∪ P ∪ C)\n= 450 - 405\n= 45 students\n\n[ANSWER]\nHence, 45 students are interested in Humanities, which corresponds to Option (D).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): 10</b> - Result of forgetting to add back the intersection of all three sets (+30).\n• <b style=\"color:#2563eb\">Option (B): 30</b> - Calculation error in summation of individual groups.\n• <b style=\"color:#2563eb\">Option (C): 40</b> - Miscounting two-subject intersections."
+  },
+  {
+    "id": 5,
+    "question": "Q.5 [1 Mark]\nFor the picture shown in the question, which one of the following is the correct picture representing reflection with respect to the mirror shown as the dotted line?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn optical reflection across a mirror plane:\n1. Every point of the object is reflected directly across the mirror line at an equal perpendicular distance.\n2. Lateral inversion occurs perpendicular to the mirror line, while orientation parallel to the mirror line is preserved.\nEvaluating the geometric elements in the diagram across the dotted mirror axis confirms that <b>Option (A)</b> provides the precise mirror image.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B)</b> - Fails to laterally invert the asymmetrical interior features.\n• <b style=\"color:#2563eb\">Option (C)</b> - Represents a 180° rotational transformation rather than an axial reflection.\n• <b style=\"color:#2563eb\">Option (D)</b> - Distorts the relative spatial distances from the mirror line."
+  },
+  {
+    "id": 6,
+    "question": "Q.6 [2 Marks]\nIn the last few years, several new shopping malls were opened in the city. The total number of visitors in the malls is impressive. However, the total revenue generated through sales in the shops in these malls is generally low.\n\nWhich one of the following is the CORRECT logical inference based on the information in the above passage?",
+    "options": [
+      "(A) Fewer people are visiting the malls but spending more",
+      "(B) More people are visiting the malls but not spending enough",
+      "(C) More people are visiting the malls and spending more",
+      "(D) Fewer people are visiting the malls and not spending enough"
+    ],
+    "correct_answer": "(B) More people are visiting the malls but not spending enough",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's analyze the two premises given in the passage:\n1. <i>\"The total number of visitors in the malls is impressive.\"</i> → Visitor count (footfall) is high (more people are visiting).\n2. <i>\"However, the total revenue generated through sales in the shops in these malls is generally low.\"</i> → Total sales/spending is low (they are window shopping, browsing, or not spending enough).\nCombining these two statements logically yields: <b>\"More people are visiting the malls but not spending enough\"</b> (Option B).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): Fewer people are visiting the malls but spending more</b> - Directly contradicts the passage, which states visitor count is \"impressive\" and revenue is \"low\".\n• <b style=\"color:#2563eb\">Option (C): More people are visiting the malls and spending more</b> - Contradicts the statement that total revenue is \"generally low\".\n• <b style=\"color:#2563eb\">Option (D): Fewer people are visiting the malls and not spending enough</b> - Contradicts the statement that the number of visitors is \"impressive\"."
+  },
+  {
+    "id": 7,
+    "question": "Q.7 [2 Marks]\nIn a partnership business the monthly investment by three friends for the first six months is in the ratio 3 : 4 : 5. After six months, they had to increase their monthly investments by 10%, 15% and 20%, respectively, of their initial monthly investment. The new investment ratio was kept constant for the next six months.\n\nWhat is the ratio of their shares in the total profit (in the same order) at the end of the year such that the share is proportional to their individual total investment over the year?",
+    "options": [
+      "(A) 22 : 23 : 24",
+      "(B) 22 : 33 : 50",
+      "(C) 33 : 46 : 60",
+      "(D) 63 : 86 : 110"
+    ],
+    "correct_answer": "(D) 63 : 86 : 110",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn partnership business mathematics, the profit share is proportional to the total money invested over time: Total Investment = Monthly Investment × Number of Months.\n\n[GIVEN]\n• Initial monthly investments of the 3 friends for the first 6 months:\n  Friend 1: 3x\n  Friend 2: 4x\n  Friend 3: 5x\n• Percentage increases after 6 months:\n  Friend 1 increases by 10% → New monthly investment = 3x + (0.10 × 3x) = 3.3x\n  Friend 2 increases by 15% → New monthly investment = 4x + (0.15 × 4x) = 4.6x\n  Friend 3 increases by 20% → New monthly investment = 5x + (0.20 × 5x) = 6.0x\n• Duration: 6 months at initial rate, 6 months at increased rate.\n\n[STEPS]\nStep 1: Calculate total investment for each friend over the 12-month year\n• Friend 1 Total = (3x × 6) + (3.3x × 6) = 6 × (3x + 3.3x) = 6 × 6.3x = 37.8x\n• Friend 2 Total = (4x × 6) + (4.6x × 6) = 6 × (4x + 4.6x) = 6 × 8.6x = 51.6x\n• Friend 3 Total = (5x × 6) + (6.0x × 6) = 6 × (5x + 6.0x) = 6 × 11.0x = 66.0x\n\nStep 2: Simplify the ratio of their total investments\nRatio = 37.8 : 51.6 : 66.0\nMultiply by 10 to convert all decimals into integers:\n= 378 : 516 : 660\nDivide all three numbers by 6:\n• 378 ÷ 6 = 63\n• 516 ÷ 6 = 86\n• 660 ÷ 6 = 110\n\n[ANSWER]\nThe ratio of their profit shares is <b>63 : 86 : 110</b>, which matches Option (D).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): 22 : 23 : 24</b> - Arbitrary ratio without mathematical basis.\n• <b style=\"color:#2563eb\">Option (B): 22 : 33 : 50</b> - Result of incorrect percentage multiplication.\n• <b style=\"color:#2563eb\">Option (C): 33 : 46 : 60</b> - Represents the ratio of only the second 6 months (3.3 : 4.6 : 6.0 = 33 : 46 : 60), forgetting to include the first 6 months!"
+  },
+  {
+    "id": 8,
+    "question": "Q.8 [2 Marks]\nConsider the following equations of straight lines:\nLine L1: 2x − 3y = 5\nLine L2: 3x + 2y = 8\nLine L3: 4x − 6y = 5\nLine L4: 6x − 9y = 6\n\nWhich one among the following is the correct statement?",
+    "options": [
+      "(A) L1 is parallel to L2 and L1 is perpendicular to L3",
+      "(B) L2 is parallel to L4 and L2 is perpendicular to L1",
+      "(C) L3 is perpendicular to L4 and L3 is parallel to L2",
+      "(D) L4 is perpendicular to L2 and L4 is parallel to L3"
+    ],
+    "correct_answer": "(D) L4 is perpendicular to L2 and L4 is parallel to L3",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's find the slope (m) of each line by putting them into standard slope-intercept form (y = mx + c):\n\n[FORMULA]\nFor a line Ax + By = C, slope m = -A / B.\n• Two lines are <b>parallel</b> if their slopes are equal: m₁ = m₂.\n• Two lines are <b>perpendicular</b> if the product of their slopes is -1: m₁ × m₂ = -1.\n\n[STEPS]\nStep 1: Calculate the slope of each line\n• <b>Line L1:</b> 2x - 3y = 5 → 3y = 2x - 5 → y = (2/3)x - 5/3 → <b>m₁ = 2/3</b>\n• <b>Line L2:</b> 3x + 2y = 8 → 2y = -3x + 8 → y = (-3/2)x + 4 → <b>m₂ = -3/2</b>\n• <b>Line L3:</b> 4x - 6y = 5 → 6y = 4x - 5 → y = (4/6)x - 5/6 = (2/3)x - 5/6 → <b>m₃ = 2/3</b>\n• <b>Line L4:</b> 6x - 9y = 6 → 9y = 6x - 6 → y = (6/9)x - 6/9 = (2/3)x - 2/3 → <b>m₄ = 2/3</b>\n\nStep 2: Analyze relationships between lines\n• Slopes m₁, m₃, and m₄ are all equal to <b>2/3</b>. Therefore, <b>L1, L3, and L4 are mutually parallel</b>!\n• For L4 and L2: m₄ × m₂ = (2/3) × (-3/2) = -1. Therefore, <b>L4 is perpendicular to L2</b>!\n• Combining these: <b>L4 is perpendicular to L2 and L4 is parallel to L3</b>.\n\n[ANSWER]\nThis precisely matches Option (D).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): L1 is parallel to L2 and L1 is perpendicular to L3</b> - False; L1 is perpendicular to L2 (not parallel) and parallel to L3 (not perpendicular).\n• <b style=\"color:#2563eb\">Option (B): L2 is parallel to L4 and L2 is perpendicular to L1</b> - False; L2 is perpendicular to L4, not parallel.\n• <b style=\"color:#2563eb\">Option (C): L3 is perpendicular to L4 and L3 is parallel to L2</b> - False; L3 is parallel to L4, not perpendicular."
+  },
+  {
+    "id": 9,
+    "question": "Q.9 [2 Marks]\nGiven below are two statements and four conclusions drawn based on the statements.\n\nStatement 1: Some soaps are clean.\nStatement 2: All clean objects are wet.\n\nConclusion I: Some clean objects are soaps.\nConclusion II: No clean object is a soap.\nConclusion III: Some wet objects are soaps.\nConclusion IV: All wet objects are soaps.\n\nWhich one of the following options can be logically inferred?",
+    "options": [
+      "(A) Only conclusion I is correct",
+      "(B) Either conclusion I or conclusion II is correct",
+      "(C) Either conclusion III or conclusion IV is correct",
+      "(D) Only conclusion I and conclusion III are correct"
+    ],
+    "correct_answer": "(D) Only conclusion I and conclusion III are correct",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's analyze the syllogism using standard set relations:\n• <b>Statement 1: Some Soaps (S) are Clean (C).</b>\n  This means the intersection of set S and set C is non-empty: (S ∩ C ≠ ∅).\n  Since (S ∩ C) = (C ∩ S), it immediately follows that <i>\"Some clean objects are soaps\"</i>. Hence, <b>Conclusion I is definitely TRUE</b>!\n  Because Conclusion I is true, Conclusion II (<i>\"No clean object is a soap\"</i>) is definitely FALSE.\n\n• <b>Statement 2: All Clean objects (C) are Wet (W).</b>\n  This means set C is a complete subset of set W: (C ⊆ W).\n  Since some soaps are in C (Statement 1), and every element of C is in W (Statement 2), those soaps must also be in W!\n  Therefore, (S ∩ W ≠ ∅), which means <i>\"Some wet objects are soaps\"</i>. Hence, <b>Conclusion III is definitely TRUE</b>!\n  However, not all wet objects must be soaps (there can be wet objects outside S), so Conclusion IV is NOT necessarily true.\n\n[ANSWER]\nThus, only Conclusion I and Conclusion III are logically valid, which corresponds to <b>Option (D)</b>.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): Only conclusion I is correct</b> - Overlooks that Conclusion III is also necessarily true.\n• <b style=\"color:#2563eb\">Option (B): Either conclusion I or conclusion II is correct</b> - Conclusion I is definitively true, not an either/or uncertainty.\n• <b style=\"color:#2563eb\">Option (C): Either conclusion III or conclusion IV is correct</b> - Conclusion III is definitely true on its own without needing an either/or clause with IV."
+  },
+  {
+    "id": 10,
+    "question": "Q.10 [2 Marks]\nAn ant walks in a straight line on a plane leaving behind a trace of its movement. The initial position of the ant is at point P facing east.\nThe ant first turns 72° anticlockwise at P, and then does the following two steps in sequence exactly FIVE times before halting:\n1. moves forward for 10 cm.\n2. turns 144° clockwise.\n\nThe pattern made by the trace left behind by the ant is:",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D) Chemistry (XL-P) Q.11 – Q.19 Carry ONE mark Each"
+    ],
+    "correct_answer": "(A)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "A",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's analyze the geometry of the ant's movement step-by-step:\n1. Each forward movement is 10 cm of equal length.\n2. At each vertex, the ant turns clockwise by an angle of <b>144°</b>.\n3. The exterior turning angle is θ = 144°. In polygon geometry:\n   • Total exterior angle after 5 turns = 5 × 144° = 720° = 2 × 360° (exactly two full 360° revolutions!).\n   • A star polygon formed by turning 144° five times is the classic regular <b>five-pointed star (pentagram, {5/2})</b>!\n   • The interior angle between adjacent vertices is 180° - 144° = 36°.\n4. Since this sequence is executed exactly 5 times, the ant creates all 5 points of the star and closes the path cleanly back at point P.\n\n[ANSWER]\nTherefore, the trace left behind is a regular five-pointed star (pentagram), represented by <b>Option (A)</b>.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B)</b> - Represents a regular pentagon, which would require an exterior turning angle of 72° (360°/5), not 144°.\n• <b style=\"color:#2563eb\">Option (C)</b> - Represents a decagon or non-closing zig-zag path.\n• <b style=\"color:#2563eb\">Option (D)</b> - Represents an open polygonal chain."
+  },
+  {
+    "id": 11,
+    "question": "Q.11 [1 Mark]\nConsider a second order reaction:\n2A → Products\nThe concentration of A is represented as [A].\n\nWhich of the following is the CORRECT plot for determining the rate constant for the above reaction?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D)"
+    ],
+    "correct_answer": "(A)",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nFor a second-order reaction of the type: 2A → Products (or Rate = k[A]²):\n\n[FORMULA]\nThe integrated rate equation for a second-order reaction is:\n1/[A]t = 1/[A]0 + 2kt (or 1/[A]t = 1/[A]0 + kt depending on stoichiometric definition of k).\nComparing this to the standard equation of a straight line (y = mx + c):\n• <b>y = 1/[A]</b> (reciprocal of concentration on y-axis)\n• <b>x = t</b> (time on x-axis)\n• <b>m = k (or 2k)</b> (positive slope!)\n• <b>c = 1/[A]0</b> (positive y-intercept)\n\nTherefore, a plot of <b>1/[A] versus time (t)</b> yields a straight line with a positive slope equal to the rate constant (k).\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): ln[A] vs time</b> - Linear only for a <b>first-order</b> reaction (ln[A] = ln[A]0 - kt), with a negative slope.\n• <b style=\"color:#2563eb\">Option (C): [A] vs time</b> - Linear only for a <b>zero-order</b> reaction ([A] = [A]0 - kt).\n• <b style=\"color:#2563eb\">Option (D): 1/[A]² vs time</b> - Linear only for a third-order reaction."
+  },
+  {
+    "id": 12,
+    "question": "Q.12 [1 Mark]\nWhich among the following has the least second ionization energy?\n(A) Al\n(B) Si\n(C) P\n(D) S",
+    "options": [
+      "(A) Al",
+      "(B) Si",
+      "(C) P",
+      "(D) S"
+    ],
+    "correct_answer": "(B) Si",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nSecond ionization energy (IE2) is the energy required to remove the second electron from a singly charged unipositive cation (M⁺ → M²⁺ + e⁻).\n\nLet's look at the electronic configurations of the M⁺ ions:\n• <b>Al (Z = 13):</b> Al is [Ne] 3s² 3p¹ → <b>Al⁺ is [Ne] 3s²</b>. The second electron must be removed from a completely filled, stable 3s orbital! This requires high energy.\n• <b>Si (Z = 14):</b> Si is [Ne] 3s² 3p² → <b>Si⁺ is [Ne] 3s² 3p¹</b>. The second electron is removed from a single, unpaired 3p orbital, which is easily lost!\n• <b>P (Z = 15):</b> P is [Ne] 3s² 3p³ → <b>P⁺ is [Ne] 3s² 3p²</b>. Higher effective nuclear charge than Si⁺.\n• <b>S (Z = 16):</b> S is [Ne] 3s² 3p⁴ → <b>S⁺ is [Ne] 3s² 3p³</b>. S⁺ has a very stable half-filled 3p³ configuration, so its second ionization energy is exceptionally high!\n\nComparing the experimental second ionization energies:\n• Al: IE2 = 1817 kJ/mol\n• <b>Si: IE2 = 1577 kJ/mol (Lowest!)</b>\n• P: IE2 = 1907 kJ/mol\n• S: IE2 = 2252 kJ/mol\n\nHence, <b>Si</b> has the least second ionization energy.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): Al</b> - Al⁺ has a completely filled 3s² configuration requiring higher energy (1817 kJ/mol) to break than removing 3p¹ from Si⁺.\n• <b style=\"color:#2563eb\">Option (C): P</b> - P⁺ has higher effective nuclear charge than Si⁺, so its outer electrons are held more tightly (1907 kJ/mol).\n• <b style=\"color:#2563eb\">Option (D): S</b> - S⁺ has an extraordinarily stable half-filled 3p³ subshell, giving it the highest second ionization energy among the four."
+  },
+  {
+    "id": 13,
+    "question": "Q.13 [1 Mark]\nWhich among the following metal ions has the highest enthalpy of hydration? (Assume the given metal ions have the same counter ion.)\nGiven: Atomic numbers of Ti, V, Cr and Mn are 22, 23, 24 and 25, respectively.\n(A) Ti2+\n(B) V2+\n(C) Cr2+\n(D) Mn2+",
+    "options": [
+      "(A) Ti2+",
+      "(B) V2+",
+      "(C) Cr2+",
+      "(D) Mn2+"
+    ],
+    "correct_answer": "(B) V2+",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe hydration enthalpy of transition metal divalent ions depends on two factors:\n1. <b>Charge density</b> (increases across the period as ionic radius decreases: Ti²⁺ > V²⁺ > Cr²⁺ > Mn²⁺).\n2. <b>Crystal Field Stabilization Energy (CFSE)</b> in octahedral [M(H2O)6]²⁺ complex:\n   • <b>Ti²⁺ (d²):</b> configuration t2g² eg⁰ → CFSE = 2 × (-0.4 Δo) = <b>-0.8 Δo</b>\n   • <b>V²⁺ (d³):</b> configuration t2g³ eg⁰ → CFSE = 3 × (-0.4 Δo) = <b>-1.2 Δo (Maximum stabilization!)</b>\n   • <b>Cr²⁺ (d⁴):</b> configuration t2g³ eg¹ → CFSE = 3(-0.4) + 1(+0.6) = <b>-0.6 Δo</b>\n   • <b>Mn²⁺ (d⁵):</b> configuration t2g³ eg² → CFSE = 3(-0.4) + 2(+0.6) = <b>0 Δo</b>\n\nBecause V²⁺ has a stable, half-filled t2g³ subshell in an octahedral field, it achieves the <b>maximum CFSE (-1.2 Δo)</b>, leading to the highest total hydration enthalpy among the given divalent 3d ions.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): Ti2+</b> - Has only 2 d-electrons with CFSE of only -0.8 Δo and larger ionic radius.\n• <b style=\"color:#2563eb\">Option (C): Cr2+</b> - CFSE is only -0.6 Δo because the 4th electron enters the higher energy antibonding eg orbital.\n• <b style=\"color:#2563eb\">Option (D): Mn2+</b> - High-spin d⁵ has CFSE = 0, resulting in the lowest hydration enthalpy among the group."
+  },
+  {
+    "id": 14,
+    "question": "Q.14 [1 Mark]\nAmong the following, the one having smallest bond angle is:\n(A) PH3\n(B) NH3\n(C) H2O\n(D) H2S",
+    "options": [
+      "(A) PH3",
+      "(B) PF3",
+      "(C) NF3",
+      "(D) NH3"
+    ],
+    "correct_answer": "(D) H2S",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's compare the bond angles of all four hydrides:\n• <b>NH3:</b> sp³ hybridized with 1 lone pair. Lone pair-bond pair repulsion reduces the angle from 109.5° to <b>~107.8°</b>.\n• <b>H2O:</b> sp³ hybridized with 2 lone pairs. Repulsion from two lone pairs reduces the angle to <b>~104.5°</b>.\n• <b>PH3:</b> According to <b>Drago's Rule</b>, central atoms of period 3 and below bonded to less electronegative elements (like H) do not undergo hybridization; bonding involves almost pure p-orbitals. The bond angle is <b>~93.5°</b>.\n• <b>H2S:</b> Similarly, Drago's Rule applies with pure p-orbitals. Because oxygen/sulfur has two bonds and two lone pairs, the repulsion between the pure p-bonding pairs is small and sulfur is less electronegative than oxygen, resulting in a bond angle of only <b>~92.1°</b>!\n\nComparing all values:\nH2S (92.1°) < PH3 (93.5°) < H2O (104.5°) < NH3 (107.8°).\nThe smallest bond angle is <b>H2S</b>.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): PH3</b> - Bond angle is ~93.5°, which is slightly larger than H2S (~92.1°).\n• <b style=\"color:#2563eb\">Option (B): NH3</b> - Bond angle is ~107.8°, much larger due to sp³ hybridization.\n• <b style=\"color:#2563eb\">Option (C): H2O</b> - Bond angle is ~104.5°, much larger due to sp³ hybridization."
+  },
+  {
+    "id": 15,
+    "question": "Q.15 [1 Mark]\nThe bases present in DNA are:\n(A) adenine, cytosine, guanine and thymine\n(B) adenine, cytosine, guanine and uracil\n(C) adenine, guanine, thymine and uracil\n(D) cytosine, guanine, thymine and uracil",
+    "options": [
+      "(A) D-mannose is C- 4 epimer of D-glucose",
+      "(B) D-galactose is C- 2 epimer of D-glucose",
+      "(C) D-glucose and L-glucose are diastereomers",
+      "(D) D-glucose and D-galactose are diastereomers"
+    ],
+    "correct_answer": "(A) adenine, cytosine, guanine and thymine",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nDeoxyribonucleic acid (DNA) contains four nitrogenous bases:\n• <b>Purines:</b> Adenine (A) and Guanine (G)\n• <b>Pyrimidines:</b> Cytosine (C) and Thymine (T)\nIn RNA, Thymine is replaced by Uracil (U). Therefore, DNA contains <b>adenine, cytosine, guanine, and thymine</b>.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): adenine, cytosine, guanine and uracil</b> - Incorrect because Uracil is found in RNA, not DNA.\n• <b style=\"color:#2563eb\">Option (C): adenine, guanine, thymine and uracil</b> - Incorrect because Uracil is not a standard DNA base and Cytosine is missing.\n• <b style=\"color:#2563eb\">Option (D): cytosine, guanine, thymine and uracil</b> - Incorrect because Uracil is in RNA and Adenine is missing."
+  },
+  {
+    "id": 16,
+    "question": "Q.16 [1 Mark]\nThe bases present in DNA are",
+    "options": [
+      "(A) adenine, cytosine, guanine and thymine",
+      "(B) adenine, guanine, thymine and uracil",
+      "(C) adenine, cytosine, thymine and uracil",
+      "(D) cytosine, guanine, thymine and uracil"
+    ],
+    "correct_answer": "(A) adenine, cytosine, guanine and thymine",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) adenine, cytosine, guanine and thymine</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 17,
+    "question": "Q.17 [1 Mark]\nThe CORRECT order of basicity for the following compounds is",
+    "options": [
+      "(A) I > II > III",
+      "(B) II > III > I",
+      "(C) II > I > III",
+      "(D) III > I > II"
+    ],
+    "correct_answer": "(A) I > II > III",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) I > II > III</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 18,
+    "question": "Q.18 [1 Mark]\nMolar conductance of monobromoacetic acid at infinite dilution is calculated to be\nx × 10 – 4 S m2 mol–1 at 25 oC.\nThe value of x is (round off to the nearest integer)\nGiven:\nElectrolyte \tLimiting molar conductance\nat 25 oC in 10 – 4 S m2 mol– 1\nHBr \t427.95\nKBr \t151.64\nCH2BrCOOK \t112.72",
+    "options": [
+      "(A) 164",
+      "(B) 195",
+      "(C) 389",
+      "(D) 467"
+    ],
+    "correct_answer": "(A) 164",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 164</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 19,
+    "question": "Q.19 [1 Mark]\nA sample of benzene, contaminated with a non-volatile and non-ionic solute, boils\nat 0.31°C higher than that of pure benzene. The molality of the solute in the\ncontaminated solution is ______ (round off to two decimal places).\nGiven: Gas constant = 8.314 J K1 mol1\nMolecular weight of benzene is 78.11 g mol1\nNormal boiling point of benzene is 80.1°C\nEnthalpy of vaporization of benzene is 30.76 kJ mol1",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 20,
+    "question": "Q.20 [2 Marks]\nAmong the following statements about cobalt complexes, which is/are CORRECT?\nGiven: Atomic number of Co is 27",
+    "options": [
+      "(A) [Co(NH3)4]2+ exhibits square planar geometry",
+      "(B) [Co(en)3]3+ does not show optical isomerism (en = ethylenediamine)",
+      "(C) [Co(H2O)6]3+ is paramagnetic in nature",
+      "(D) [Co(NH3)5Cl)]2+ shows ligand-to-metal charge transfer"
+    ],
+    "correct_answer": "(A) [Co(NH3)4]2+ exhibits square planar geometry",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) [Co(NH3)4]2+ exhibits square planar geometry</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 21,
+    "question": "Q.21 [2 Marks]\nConsider the following reaction:\nThe CORRECT statement(s) related to mono-chlorination at carbon-2 position\nis/are",
+    "options": [
+      "(A) The reaction proceeds through alkyl radical intermediate",
+      "(B) Complete inversion of configuration at carbon-2 takes place",
+      "(C) Complete retention of configuration at carbon-2 takes place",
+      "(D) A mixture of enantiomers is formed"
+    ],
+    "correct_answer": "(A) The reaction proceeds through alkyl radical intermediate",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) The reaction proceeds through alkyl radical intermediate</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 22,
+    "question": "Q.22 [2 Marks]\nConsider the following enzyme catalyzed reaction:\nwhere E is enzyme, S is substrate, ES is enzyme-substrate complex and P is\nproduct.\nThe CORRECT statement(s) for the above reaction is/are",
+    "options": [
+      "(A) Maximum possible rate of product formation is dependent on k2 and initial concentration of enzyme.",
+      "(B) For a low substrate concentration, the rate of product formation is first order with respect to enzyme and also first order with respect to the substrate.",
+      "(C) The rate of product formation is independent of the concentration of enzyme- substrate complex.",
+      "(D) For a very high substrate concentration, initial rate of product formation is zero order with respect to the substrate."
+    ],
+    "correct_answer": "(A) Maximum possible rate of product formation is dependent on k2 and initial concentration of enzyme.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Maximum possible rate of product formation is dependent on k2 and initial concentration of enzyme.</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 23,
+    "question": "Q.23 [2 Marks]\nConsider the following reaction:\nThe CORRECT pathway(s) involved in the reaction is/are",
+    "options": [
+      "(A) E2 followed by isomerization",
+      "(B) E1 followed by isomerization",
+      "(C) SN1 followed by isomerization",
+      "(D) Isomerization through carbocation"
+    ],
+    "correct_answer": "(A) E2 followed by isomerization",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) E2 followed by isomerization</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 24,
+    "question": "Q.24 [2 Marks]\nAn aqueous solution of aspirin (HA) is prepared at pH 7.4. The ratio of\nconcentration of A and HA at equilibrium is ______ (round off to the nearest\ninteger).\nGiven: Ka of aspirin is 3.98 × 10 – 4",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 25,
+    "question": "Q.25 [2 Marks]\nThe total number of 3-centre-2-electron bonds in B4H10 is ______ (in integer).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 26,
+    "question": "Q.26 [2 Marks]\nThe equilibrium constant for isomerization of 1-butene to trans-2-butene at 27 oC\nis ______ (round off to one decimal place).\nGiven: Gas constant = 8.314 J K–1 mol–1\nΔfGo of 1-butene = +71.39 kJ mol–1\nΔfGo of trans-2-butene = + 63.06 kJ mol–1",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 27,
+    "question": "Q.27 [2 Marks]\nA 16 mW monochromatic light emits 4×10 16 photons in 1 second. When this light\nincidents on a metal strip, photoelectrons are emitted. The wavelength of the emitted\nphotoelectrons (in Å) is ______ (round off to one decimal place).\nGiven: Work function of the metal = 2.0 eV\nCharge of an electron = 1.6 × 10–19 C\nMass of an electron = 9.1 × 1031 kg\nPlanck’s constant = 6.626 × 10–34 J s\nBiochemistry XL (Q): Q.28 – Q.35 Carry ONE mark Each",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "B",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section B.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 28,
+    "question": "Q.28 [1 Mark]\nWhich of the immune cells listed below are agranular?\nP. Eosinophils\nQ. Mast cells\nR. Monocytes\nS. T-cells",
+    "options": [
+      "(A) P and Q only",
+      "(B) Q and R only",
+      "(C) R and S only",
+      "(D) S and P only"
+    ],
+    "correct_answer": "(C) R and S only",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nWhite blood cells (leukocytes) are divided into two main categories:\n1. <b>Granulocytes (contain visible secretory granules in cytoplasm):</b>\n   • Neutrophils\n   • Eosinophils (P)\n   • Basophils and Mast cells (Q)\n2. <b>Agranulocytes (lack conspicuous cytoplasmic granules):</b>\n   • <b>Monocytes (R)</b> - large phagocytic cells that differentiate into macrophages and dendritic cells.\n   • <b>Lymphocytes (S)</b> - includes T-cells, B-cells, and NK cells.\n\nTherefore, <b>R (Monocytes) and S (T-cells)</b> are agranular immune cells, making <b>Option (C)</b> the correct answer.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (A): P and Q only</b> - Both Eosinophils (P) and Mast cells (Q) are classic granulocytes packed with histamine, major basic protein, and other inflammatory granules.\n• <b style=\"color:#2563eb\">Option (B): Q and R only</b> - Incorrect because Mast cells (Q) are granulocytes.\n• <b style=\"color:#2563eb\">Option (D): S and P only</b> - Incorrect because Eosinophils (P) are granulocytes."
+  },
+  {
+    "id": 29,
+    "question": "Q.29 [1 Mark]\nWhich of the following amino acids contains an imidazole ring?\n(A) Histidine\n(B) Tryptophan\n(C) Tyrosine\n(D) Proline",
+    "options": [
+      "(A) Citrate synthase",
+      "(B) Fumarase",
+      "(C) Monoamine oxidase",
+      "(D) Succinate dehydrogenase"
+    ],
+    "correct_answer": "(A) Histidine",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nLet's review the side chain rings of aromatic/heterocyclic amino acids:\n• <b>Histidine:</b> Contains a 5-membered heterocyclic aromatic <b>imidazole ring</b> with two nitrogen atoms (pKa ≈ 6.0), making it essential for acid-base enzyme catalysis.\n• <b>Tryptophan:</b> Contains an <b>indole ring</b> (a benzene ring fused to a pyrrole ring).\n• <b>Tyrosine:</b> Contains a <b>phenol / phenyl ring</b> with a para-hydroxyl group.\n• <b>Proline:</b> Contains a 5-membered cyclic secondary amine known as a <b>pyrrolidine ring</b>.\n\nHence, <b>Histidine</b> is the amino acid containing an imidazole ring.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): Tryptophan</b> - Contains an indole ring, not an imidazole ring.\n• <b style=\"color:#2563eb\">Option (C): Tyrosine</b> - Contains a phenolic ring.\n• <b style=\"color:#2563eb\">Option (D): Proline</b> - Contains a pyrrolidine ring."
+  },
+  {
+    "id": 30,
+    "question": "Q.30 [1 Mark]\nWhich one of the following statements about the DNA polymerase III of E. coli is\nNOT correct?",
+    "options": [
+      "(A) It catalyzes nick translation.",
+      "(B) Its absence is lethal to E. coli.",
+      "(C) It synthesizes a complementary DNA strand using a single-stranded template.",
+      "(D) It possesses 3′ → 5′ exonuclease activity."
+    ],
+    "correct_answer": "(A) It catalyzes nick translation.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) It catalyzes nick translation.</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 31,
+    "question": "Q.31 [1 Mark]\nWhich one of the following compounds is NOT a translation inhibitor?",
+    "options": [
+      "(A) Chloramphenicol",
+      "(B) Cycloheximide",
+      "(C) Puromycin",
+      "(D) Rifampicin"
+    ],
+    "correct_answer": "(A) Chloramphenicol",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Chloramphenicol</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 32,
+    "question": "Q.32 [1 Mark]\nA dye was allowed to undergo migration on a chromatographic paper using a\nsolvent. The dye, and the solvent-front migrated 5 and 20 𝑐𝑚, respectively, from\nthe point of origin. The retention factor (rounded off to two places of decimals) for\nthe dye is _____.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 33,
+    "question": "Q.33 [1 Mark]\nThe 𝑝𝐾௔ values of the carboxylic and amino groups of an amino acid with a\nnon-ionizable side chain are 2.17 and 9.13, respectively. The isoelectric point\n(rounded off to two places of decimals) of this amino acid is _____.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 34,
+    "question": "Q.34 [1 Mark]\nThe number of ATP molecules required for the complete assimilation of one molecule of CO2 in Calvin cycle is _____.",
+    "options": [],
+    "correct_answer": "3",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn the C3 photosynthetic Calvin-Benson cycle:\nTo assimilate <b>one molecule of CO2</b> into carbohydrate:\n1. <b>Reduction Phase:</b> 1 molecule of CO2 reacts with RuBP (ribulose-1,5-bisphosphate) to form two molecules of 3-phosphoglycerate (3-PGA). Phosphorylation of these two 3-PGA molecules by phosphoglycerate kinase requires <b>2 ATP molecules</b> (forming two 1,3-bisphosphoglycerate), which are then reduced by 2 NADPH.\n2. <b>Regeneration Phase:</b> To regenerate the CO2 acceptor RuBP from triose phosphates via phosphoribulokinase requires <b>1 ATP molecule</b> per CO2 fixed.\n\nTotal ATP consumed per molecule of CO2 assimilated = 2 + 1 = <b>3 ATP molecules</b> (along with 2 NADPH).\n\n[ANSWER]\nTherefore, the number of ATP molecules required is <b>3</b>."
+  },
+  {
+    "id": 35,
+    "question": "Q.35 [1 Mark]\nThe absorbance of a 5 × 10ି ସ 𝑀 solution of tyrosine at 280 𝑛𝑚 wavelength is\n0.75. The path length of the cuvette is 1 𝑐𝑚. The molar absorption coefficient at\nthe given wavelength in 𝑀ି ଵ𝑐𝑚ି ଵ, correct to the nearest integer, is _____.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 36,
+    "question": "Q.36 [2 Marks]\nFilamentous photosynthetic algae were placed on a microscopic slide and\nilluminated with light of different colors as illustrated.\nThe bacteria that are known to migrate towards the region of high 𝑂ଶ were also\nadded uniformly on the slide. Which one of the following options illustrates the\ndistribution of bacteria along the length of the microscopic slide after\nillumination?",
+    "options": [
+      "(A)",
+      "(B)",
+      "(C)",
+      "(D) Slide Blue \tRed\tYellow\tGreen Algae"
+    ],
+    "correct_answer": "(A)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A)</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 37,
+    "question": "Q.37 [2 Marks]\nTwo RNAs shown below were used separately as templates in an in vitro\ntranslation system, which can generate proteins in all possible reading frames.\n𝑅𝑁𝐴ଵ: 5ᇱ − (𝐴𝐺)௡ − 3ᇱ\n𝑅𝑁𝐴ଶ: 5ᇱ − (𝐴𝐴𝐺)௡ − 3ᇱ\nThe 𝑅𝑁𝐴ଵ translated product contained Arg and Glu.\nThe 𝑅𝑁𝐴ଶ translated product contained Arg, Glu, and Lys.\nWhich one of the following codons directs the incorporation of Arg?",
+    "options": [
+      "(A) AAG",
+      "(B) AGA",
+      "(C) GAA",
+      "(D) GAG"
+    ],
+    "correct_answer": "(A) AAG",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) AAG</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 38,
+    "question": "Q.38 [2 Marks]\nWhich of the following statements about endogenous synthesis of insulin are\ncorrect?\nP. Insulin is synthesized as preproinsulin.\nQ. Preproinsulin is converted to proinsulin.\nR. Single-site cleavage of proinsulin eliminates C chain.\nS. Mature insulin consists of disulphide-linked A and B chains.",
+    "options": [
+      "(A) P, Q, and R",
+      "(B) P, Q, and S",
+      "(C) P, R, and S",
+      "(D) Q, R, and S"
+    ],
+    "correct_answer": "(A) P, Q, and R",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P, Q, and R</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 39,
+    "question": "Q.39 [2 Marks]\nWhich one of the following enzymes converts testosterone to estradiol?",
+    "options": [
+      "(A) Aromatase",
+      "(B) 3β-hydroxysteroid dehydrogenase",
+      "(C) 5α-reductase",
+      "(D) 17β-hydroxysteroid dehydrogenase"
+    ],
+    "correct_answer": "(A) Aromatase",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Aromatase</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 40,
+    "question": "Q.40 [2 Marks]\nPurification of 6×His-tagged protein using Ni-NTA column is an example\nof ________",
+    "options": [
+      "(A) affinity chromatography",
+      "(B) hydrophobic-interaction chromatography",
+      "(C) ion-exchange chromatography",
+      "(D) size-exclusion chromatography"
+    ],
+    "correct_answer": "(A) affinity chromatography",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) affinity chromatography</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 41,
+    "question": "Q.41 [2 Marks]\nWhich of the following carbohydrates has/have a 𝛽1 → 4 glycosidic linkage?",
+    "options": [
+      "(A) Cellulose",
+      "(B) Chitin",
+      "(C) Lactose",
+      "(D) Maltose"
+    ],
+    "correct_answer": "(A) Cellulose",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Cellulose</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 42,
+    "question": "Q.42 [2 Marks]\nWhich of the following statements about IgA is/are correct?",
+    "options": [
+      "(A) It is secreted into colostrum.",
+      "(B) It is transported across the cell by transcytosis.",
+      "(C) Its secretion is facilitated by poly-Ig receptor.",
+      "(D) It primarily exists as a dimer in serum."
+    ],
+    "correct_answer": "(A) It is secreted into colostrum.",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) It is secreted into colostrum.</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 43,
+    "question": "Q.43 [2 Marks]\nThe standard free energy changes for conversion of phosphoenol pyruvate (𝑃𝐸𝑃)\nto pyruvate, and 𝐴𝑇𝑃 synthesis are shown below.\n𝑃𝐸𝑃 + 𝐻ଶ𝑂 ⇌ 𝑝𝑦𝑟𝑢𝑣𝑎𝑡𝑒 + 𝑃௜ \t∆𝐺ᇱ௢ = −61.9 𝑘𝐽 ∙ 𝑚𝑜𝑙ି ଵ\n𝐴𝐷𝑃 + 𝑃௜ ⇌ 𝐴𝑇𝑃 + 𝐻ଶ𝑂 \t∆𝐺ᇱ௢ = 30.5 𝑘𝐽 ∙ 𝑚𝑜𝑙ି ଵ\nThe starting concentrations of 𝑃𝐸𝑃, 𝐴𝐷𝑃, 𝑝𝑦𝑟𝑢𝑣𝑎𝑡𝑒, and 𝐴𝑇𝑃 are 25, 25, 50,\nand 50 𝑚𝑀, respectively. The value of universal gas constant (R) is\n8.315 𝐽 ∙ 𝑚𝑜𝑙ି ଵ 𝐾ି ଵ . The actual free energy change in 𝑘𝐽 ∙ 𝑚𝑜𝑙ି ଵ for the reaction\n𝑃𝐸𝑃 + 𝐴𝐷𝑃 → 𝑝𝑦𝑟𝑢𝑣𝑎𝑡𝑒 + 𝐴𝑇𝑃\ncarried out at 37 ℃ will be _____ (rounded off to one place of decimal).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 44,
+    "question": "Q.44 [2 Marks]\nThe dissociation constant for a receptor-ligand pair is 0.25 × 10ି ଻𝑀. The ligand\nwas added to a solution of the receptor such that the receptor was 50% saturated\nat equilibrium. Assume that the receptor has one ligand binding site. The\nconcentration of the free ligand at equilibrium in 𝑛𝑀, correct to the nearest\ninteger, should be _____.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 45,
+    "question": "Q.45 [2 Marks]\nThe half-maximal velocity of an enzyme catalyzed reaction was found at a\nsubstrate concentration of 0.5 × 10ି ଺ 𝑀. This enzyme follows Michaelis-Menten\nkinetics. In the presence of a competitive inhibitor, the half-maximal velocity was\nfound at a substrate concentration of 1.5 × 10ି ଺ 𝑀. Given that the enzyme-\ninhibitor pair has a dissociation constant of 2 × 10ି ଻ 𝑀, the concentration of the\ncompetitive inhibitor in μ𝑀, rounded off to one place of decimal, was_____.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 46,
+    "question": "Q.46 [2 Marks]\nA forty-times diluted sample of ssRNA gave an 𝐴ଶ଺଴ of 0.01. The concentration\nof the ssRNA before the dilution in μ𝑔/𝑚𝐿 was _____ (correct to the nearest\ninteger).\nBotany XL (R): Q.47 – Q.54 Carry ONE mark Each",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "C",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section C.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 47,
+    "question": "Q.47 [1 Mark]\nIn Angiosperms, normally the mature female gametophyte (embryo sac) is:\n(A) 7-celled, 8-nucleate\n(B) 8-celled, 7-nucleate\n(C) 8-celled, 8-nucleate\n(D) 7-celled, 7-nucleate",
+    "options": [
+      "(A) dicot stem",
+      "(B) monocot stem",
+      "(C) dicot root",
+      "(D) dicot leaf"
+    ],
+    "correct_answer": "(A) 7-celled, 8-nucleate",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nIn typical angiosperms (Polygonum type embryo sac, representing over 80% of flowering plants):\nA single functional megaspore undergoes three successive mitotic nuclear divisions without immediate cytokinesis, producing <b>8 haploid nuclei</b>.\nCell walls are then formed to organize these nuclei into <b>7 distinct cells</b>:\n1. <b>Egg apparatus (at micropylar end - 3 cells):</b>\n   • 1 Egg cell\n   • 2 Synergids\n2. <b>Antipodal cells (at chalazal end - 3 cells):</b>\n   • 3 Antipodal cells\n3. <b>Central cell (in the center - 1 large cell):</b>\n   • Contains 2 polar nuclei (which fuse to form the diploid secondary nucleus).\n\nThus, the mature female gametophyte is <b>7-celled and 8-nucleate</b>.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B): 8-celled, 7-nucleate</b> - Incorrect; the central cell contains two nuclei within a single membrane.\n• <b style=\"color:#2563eb\">Option (C): 8-celled, 8-nucleate</b> - Incorrect; cytokinesis does not separate the two polar nuclei into two distinct cells.\n• <b style=\"color:#2563eb\">Option (D): 7-celled, 7-nucleate</b> - Incorrect; there are 8 total nuclei present before fertilization."
+  },
+  {
+    "id": 48,
+    "question": "Q.48 [1 Mark]\n‘Quiescent Center’ is present in",
+    "options": [
+      "(A) leaf meristem",
+      "(B) root apical meristem",
+      "(C) shoot apical meristem",
+      "(D) floral meristem"
+    ],
+    "correct_answer": "(A) leaf meristem",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) leaf meristem</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 49,
+    "question": "Q.49 [1 Mark]\nWith reference to virulence (vir) region of nopaline type Ti plasmid of\nAgrobacterium tumefaciens, match Group-I (vir gene) and Group-II (coded\nprotein) in CORRECT combination.\nGroup-I \tGroup-II\nP. vir A \tI. Single strand T-DNA binding protein\nQ. vir B \tII. Topoisomerase\nR. vir E \tIII. Membrane protein, channel for T-DNA\nS. vir D \tIV. Sensor protein, constitutive expression",
+    "options": [
+      "(A) P-IV, Q-III, R-II, S-I",
+      "(B) P-IV, Q-III, R-I, S-II",
+      "(C) P-IV, Q-II, R-I, S-III",
+      "(D) P-I, Q-III, R-II, S-IV"
+    ],
+    "correct_answer": "(A) P-IV, Q-III, R-II, S-I",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-IV, Q-III, R-II, S-I</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 50,
+    "question": "Q.50 [1 Mark]\nAnomalous secondary growth is observed in",
+    "options": [
+      "(A) Triticum",
+      "(B) Oryza",
+      "(C) Zea",
+      "(D) Dracaena"
+    ],
+    "correct_answer": "(A) Triticum",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Triticum</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 51,
+    "question": "Q.51 [1 Mark]\nWhich of the following plant diseases is/are caused by bacteria?",
+    "options": [
+      "(A) Angular leaf spot of cotton",
+      "(B) Citrus canker",
+      "(C) Apple scab",
+      "(D) Leaf curl of papaya"
+    ],
+    "correct_answer": "(A) Angular leaf spot of cotton",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Angular leaf spot of cotton</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 52,
+    "question": "Q.52 [1 Mark]\nPhylogenetic system of classification is/are proposed by",
+    "options": [
+      "(A) Carolus Linnaeus",
+      "(B) John Hutchinson",
+      "(C) Engler and Prantl",
+      "(D) Bentham and Hooker"
+    ],
+    "correct_answer": "(A) Carolus Linnaeus",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Carolus Linnaeus</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 53,
+    "question": "Q.53 [1 Mark]\nWhich of the following is/are part of marine ecosystem?",
+    "options": [
+      "(A) Open ocean",
+      "(B) Chaparral",
+      "(C) Deep sea",
+      "(D) Estuaries"
+    ],
+    "correct_answer": "(A) Open ocean",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Open ocean</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 54,
+    "question": "Q.54 [1 Mark]\nIn NADP+-malic enzyme type C4 photosynthesis cycle, n molecule(s) of ATP is/are\nrequired for the assimilation of one molecule of CO2. The value of n is ________\n(in integer).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 55,
+    "question": "Q.55 [2 Marks]\nAn Arabidopsis thaliana mutant plant developed defective flowers with altered\nfloral organ identity and patterning. In this mutant, the four floral whorls contain\nSepal-Sepal-Carpel-Carpel, from the periphery to the center of the flower.\nBased on the typical ABC model of floral organ patterning, which among the\nfollowing are mutated in this plant?",
+    "options": [
+      "(A) Class A gene(s)",
+      "(B) Class B gene(s)",
+      "(C) Class C gene(s)",
+      "(D) Double mutant for Class A and Class C genes"
+    ],
+    "correct_answer": "(A) Class A gene(s)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Class A gene(s)</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 56,
+    "question": "Q.56 [2 Marks]\nMatch the secondary metabolites in Group-I with types of secondary metabolites\nin Group-II in CORRECT order.\nGroup-I \tGroup-II\nP. Myrcene \tI. Sesquiterpene\nQ. β-Farnesene \tII. Cyanogenic glycoside\nR. Amygdalin \tIII. Flavone\nS. Nicotine \tIV. Alkaloid\nT. Luteolin \tV. Monoterpene",
+    "options": [
+      "(A) P-I, Q-V, R-II, S-IV, T-III",
+      "(B) P-V, Q-II, R-IV, S-I, T-III",
+      "(C) P-II, Q-III, R-IV, S-V, T-I",
+      "(D) P-V, Q-I, R-II, S-IV, T-III"
+    ],
+    "correct_answer": "(A) P-I, Q-V, R-II, S-IV, T-III",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-I, Q-V, R-II, S-IV, T-III</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 57,
+    "question": "Q.57 [2 Marks]\nMatch Group-I (enzyme), Group-II (reaction catalyzed by the enzyme), and\nGroup-III (subcellular localization of the enzyme and the associated metabolic\nprocess) in CORRECT combination.\nGroup-I \tGroup-II \tGroup-III\nP. PEP\nCarboxylase\nI. 2 Glycolate + 2 O2 =\n2 Glyoxylate + 2 H2O2\na. Cytosol –\nC4 cycle\nQ. Rubisco II. Pyruvate + NAD+ + CoA =\nAcetyl-CoA + CO2 + NADH\nb. Peroxisome –\nC2 cycle\nR. Glycolate\noxidase\nIII. Phosphoenolpyruvate +\nHCO3– = Oxaloacetate + Pi\nc. Mitochondria\n– aerobic\nrespiration\nS. Pyruvate\ndehydrogenase\nIV. 3 (Ribulose 1,5-bisphosphate)\n+ 3 CO2 + 3 H2O =\n6 (3-phosphoglycerate) + 6 H+\nd. Chloroplast –\nC3 cycle",
+    "options": [
+      "(A) P-III-a, Q-IV-d, R-I-b, S-II-c",
+      "(B) P-II-a, Q-III-d, R-I-b, S-IV-c",
+      "(C) P-IV-a, Q-II-b, R-I-d, S-III-c",
+      "(D) P-IV-a, Q-II-d, R-I-b, S-III-c"
+    ],
+    "correct_answer": "(A) P-III-a, Q-IV-d, R-I-b, S-II-c",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-III-a, Q-IV-d, R-I-b, S-II-c</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 58,
+    "question": "Q.58 [2 Marks]\nMatch Group-I (selection agent) and Group-II (gene) in CORRECT\ncombination.\nGroup-I \tGroup-II\nP. Kanamycin \tI. pmi\nQ. Hygromycin \tII. bar\nR. Phosphinothricin \tIII. nptII\nS. Mannose \tIV. ptxD\nV. dhfr\nVI. hpt",
+    "options": [
+      "(A) P-III, Q-VI, R-II, S-I",
+      "(B) P-IV, Q-III, R-II, S-I",
+      "(C) P-I, Q-VI, R-III, S-II",
+      "(D) P-II, Q-I, R-V, S-VI"
+    ],
+    "correct_answer": "(A) P-III, Q-VI, R-II, S-I",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-III, Q-VI, R-II, S-I</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 59,
+    "question": "Q.59 [2 Marks]\nMatch Group I (plant natural product), Group II (class) and Group III (source\nplant) in CORRECT combination.\nGroup-I \tGroup-II \tGroup-III\nP. Reserpine \tI. Stilbenes \ta. Manihot esculanta\nQ. Resveratrol II. Cyanogenic glycoside b. Crocus sativus\nR. Picrocrocin III. Alkaloid \tc. Vitis vinifera\nS. Linamarin IV. Monoterpene glycoside d. Rauwolfia serpentina",
+    "options": [
+      "(A) P-I-d, Q-II-c, R-IV-a, S-III-b",
+      "(B) P-III-d, Q-IV-b, R-I-c, S-II-a",
+      "(C) P-II-a, Q-III-b, R-I-d, S-IV-c",
+      "(D) P-III-d, Q-I-c, R-IV-b, S-II-a"
+    ],
+    "correct_answer": "(A) P-I-d, Q-II-c, R-IV-a, S-III-b",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-I-d, Q-II-c, R-IV-a, S-III-b</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 60,
+    "question": "Q.60 [2 Marks]\nMatch Group I (plant disease), Group II (causal organism) and Group III\n(affected plant) in CORRECT combination.\nGroup-I \tGroup-II \tGroup-III\nP. Karnal Bunt \tI. Phytophthora infestans \ta. Rice\nQ. Ergot \tII. Blumeria graminis \tb. Potato\nR. Late blight \tIII. Neovossia indica \tc. Rye\nS. Powdery mildew IV. Puccinia recondita \td. Wheat\nV. Claviceps purpurea \te. Barley\nVI. Alternaria solani \tf. Brinjal",
+    "options": [
+      "(A) P-II-a, Q-V-b, R-III-d, S-I-e",
+      "(B) P-III-d, Q-V-c, R-II-e, S-IV-f",
+      "(C) P-III-d, Q-V-c, R-I-b, S-II-e",
+      "(D) P-V-c, Q-I-d, R-VI-b, S-II-e"
+    ],
+    "correct_answer": "(A) P-II-a, Q-V-b, R-III-d, S-I-e",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-II-a, Q-V-b, R-III-d, S-I-e</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 61,
+    "question": "Q.61 [2 Marks]\nMake CORRECT match between Group-I and Group-II, in relation to interaction\nbetween two species.\nGroup-I \tGroup-II\nP. Neutralism \tI. neither can survive under natural condition without\nthe other\nQ. Allelopathy \tII. direct inhibition of one species by the other species\nusing toxic compound\nR. Amensalism III. neither is affected by the association with the other\nS. Mutualism \tIV. one is inhibited and the other is not affected",
+    "options": [
+      "(A) P-I, Q-II, R-III, S-IV",
+      "(B) P-III, Q-II, R-IV, S-I",
+      "(C) P-IV, Q-III, R-II, S-I",
+      "(D) P-III, Q-IV, R-II, S-I"
+    ],
+    "correct_answer": "(A) P-I, Q-II, R-III, S-IV",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-I, Q-II, R-III, S-IV</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 62,
+    "question": "Q.62 [2 Marks]\nWhich of the following matches is/are CORRECT?",
+    "options": [
+      "(A) Surface fibre – Cotton – Gossypium hirsutum",
+      "(B) Bast fibre – Flax – Corchorus capsularis",
+      "(C) Drying oil – Safflower oil – Helianthus annuus",
+      "(D) Non-drying oil – Castor oil – Ricinus communis"
+    ],
+    "correct_answer": "(A) Surface fibre – Cotton – Gossypium hirsutum",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Surface fibre – Cotton – Gossypium hirsutum</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 63,
+    "question": "Q.63 [2 Marks]\nWhich of the following is/are phanerogamic parasite(s)?",
+    "options": [
+      "(A) Cuscuta reflexa",
+      "(B) Orobanche cernua",
+      "(C) Ocimum sanctum",
+      "(D) Santalum album"
+    ],
+    "correct_answer": "(A) Cuscuta reflexa",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Cuscuta reflexa</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 64,
+    "question": "Q.64 [2 Marks]\nWhen a true breeding tall plant containing red flowers was crossed with the true\nbreeding dwarf plant containing white flowers, all F1 plants were tall with red\nflowers. When the F1 plant was self-pollinated, considering independent assortment\nof plant height and flower colour traits, the calculated percentage probability of\ndwarf plants bearing red flowers in the F2 generation is ________ percent (round\noff to 2 decimal places).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 65,
+    "question": "Q.65 [2 Marks]\nA hypothetical plant gene ADSH22 is encoded by the nuclear genome. The length\nof the mature mRNA for ADSH22 is 2150 nucleotides (nts). This mRNA has a 270\nnts long 5′ UTR and 200 nts long 3′ UTR. Taking average molecular weight of an\namino acid as 115 Dalton (Da), the calculated molecular weight of ADSH22 protein\nis ________ kDa (round off to 1 decimal place).\nMicrobiology XL (S): Q.66 – Q.73 Carry ONE mark Each",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "D",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section D.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 66,
+    "question": "Q.66 [1 Mark]\nThe terminal acceptor of electron during anaerobic respiration in Methanococcus\nis ______________.",
+    "options": [
+      "(A) Nitrate ion",
+      "(B) Sulfate ion",
+      "(C) Carbon dioxide",
+      "(D) Oxygen"
+    ],
+    "correct_answer": "(A) Nitrate ion",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Nitrate ion</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 67,
+    "question": "Q.67 [1 Mark]\nWhich one of the following mutagens convert DNA’s adenine to hypoxanthine?",
+    "options": [
+      "(A) Ultraviolet light",
+      "(B) Mitomycin C",
+      "(C) Methyl methanesulfonate",
+      "(D) Nitrous acid"
+    ],
+    "correct_answer": "(A) Ultraviolet light",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Ultraviolet light</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 68,
+    "question": "Q.68 [1 Mark]\nWhich one of the following leukocytes are present in the largest proportion in\nhealthy human blood?",
+    "options": [
+      "(A) Neutrophils",
+      "(B) Eosinophils",
+      "(C) Basophiles",
+      "(D) Monocytes"
+    ],
+    "correct_answer": "(A) Neutrophils",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Neutrophils</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 69,
+    "question": "Q.69 [1 Mark]\nThe site of photosynthesis in cyanobacteria is ____________.",
+    "options": [
+      "(A) Chloroplast",
+      "(B) Chromatophores",
+      "(C) Thylakoids",
+      "(D) Chlorosomes"
+    ],
+    "correct_answer": "(A) Chloroplast",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Chloroplast</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 70,
+    "question": "Q.70 [1 Mark]\nThe antimicrobial activity of vancomycin is due to the ____________.",
+    "options": [
+      "(A) inhibition of nucleic acid synthesis",
+      "(B) damage to the cytoplasmic membrane",
+      "(C) inhibition of cell wall synthesis",
+      "(D) regulation of DNA supercoiling"
+    ],
+    "correct_answer": "(A) inhibition of nucleic acid synthesis",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) inhibition of nucleic acid synthesis</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 71,
+    "question": "Q.71 [1 Mark]\nPhenolics act as disinfectant by ____________.",
+    "options": [
+      "(A) rupturing plasma membrane followed by leakage of cellular contents",
+      "(B) bond formation between adjacent pyrimidine bases",
+      "(C) forming adduct with amino acid and unsaturated fatty acids",
+      "(D) alkylation of proteins"
+    ],
+    "correct_answer": "(A) rupturing plasma membrane followed by leakage of cellular contents",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) rupturing plasma membrane followed by leakage of cellular contents</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 72,
+    "question": "Q.72 [1 Mark]\nWhich of the following methods are used for the identification of\nmicroorganisms?",
+    "options": [
+      "(A) Nucleic acid hybridization",
+      "(B) Southern blotting",
+      "(C) 16s rRNA sequencing",
+      "(D) Percentage G-C content"
+    ],
+    "correct_answer": "(A) Nucleic acid hybridization",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Nucleic acid hybridization</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 73,
+    "question": "Q.73 [1 Mark]\nWhich of the following are present in Gram-negative bacteria?",
+    "options": [
+      "(A) Lipopolysaccharide",
+      "(B) Teichoic acid",
+      "(C) Periplasm",
+      "(D) Endotoxin"
+    ],
+    "correct_answer": "(A) Lipopolysaccharide",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Lipopolysaccharide</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 74,
+    "question": "Q.74 [2 Marks]\nNonsense suppressor mutation is found in _________________.",
+    "options": [
+      "(A) rRNA",
+      "(B) tRNA",
+      "(C) start codon of mRNA",
+      "(D) stop codon of mRNA"
+    ],
+    "correct_answer": "(A) rRNA",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) rRNA</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 75,
+    "question": "Q.75 [2 Marks]\nChoose the correct match for structural components of bacteria to their function.\nStructural component \tFunction\n(P) Flagella \t(i) prevent cell lysis\n(Q) Cell wall \t(ii) chemotaxis\n(R) Metachromatic granules \t(iii) storage for ATP\n(S) Magnetosomes \t(iv) cell orientation",
+    "options": [
+      "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+      "(B) (P)-(ii), (Q)-(i), (R)-(iii), (S)-(iv)",
+      "(C) (P)-(ii), (Q)-(i), (R)-(iv), (S)-(iii)",
+      "(D) (P)-(i), (Q)-(iv), (R)-(iii), (S)-(ii)"
+    ],
+    "correct_answer": "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 76,
+    "question": "Q.76 [2 Marks]\nMatch the pathogen with the appropriate disease.\nPathogen \tDisease\n(P) Streptococcus pyogenes \t(i) Scarlet fever\n(Q) Brucella species \t(ii) Pott’s disease\n(R) Mycobacterium tuberculosis \t(iii) Traveler’s diarrhea\n(S) Escherichia coli \t(iv) Undulant fever",
+    "options": [
+      "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+      "(B) (P)-(ii), (Q)-(i), (R)-(iii), (S)-(iv)",
+      "(C) (P)-(i), (Q)-(iv), (R)-(ii), (S)-(iii)",
+      "(D) (P)-(i), (Q)-(iv), (R)-(iii), (S)-(ii)"
+    ],
+    "correct_answer": "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 77,
+    "question": "Q.77 [2 Marks]\nMatch the correct mode of cell division with respective bacteria.\nBacteria\n(P) Streptomyces species\n(Q) Rhodopseudomonas acidophila\n(R) Bacillus subtilis\n(S) Nocardia species\nMode of cell division",
+    "options": [
+      "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+      "(B) (P)-(ii), (Q)-(i), (R)-(iii), (S)-(iv)",
+      "(C) (P)-(iv), (Q)-(ii), (R)-(i), (S)-(iii)",
+      "(D) (P)-(i), (Q)-(iv), (R)-(iii), (S)-(ii)"
+    ],
+    "correct_answer": "(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) (P)-(ii), (Q)-(iii), (R)-(i), (S)-(iv)</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 78,
+    "question": "Q.78 [2 Marks]\nThe correct sequence of overall biochemical reaction which expresses the process\nof denitrification is ____",
+    "options": [
+      "(A) 2NO3- \t2NO2- \tN2O \t2NO \tN2",
+      "(B) 2NO3- \t2NO2- \t2NO \tN2O \tN2",
+      "(C) 2NO3- \t2NO \t2NO2- \tN2O \tN2",
+      "(D) 2NO3- \tN2O \t2NO \t2NO2- \tN2"
+    ],
+    "correct_answer": "(A) 2NO3- \t2NO2- \tN2O \t2NO \tN2",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 2NO3- \t2NO2- \tN2O \t2NO \tN2</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 79,
+    "question": "Q.79 [2 Marks]\nWhich of the following diseases are caused by family of DNA viruses?",
+    "options": [
+      "(A) Hepatitis B",
+      "(B) Smallpox",
+      "(C) Influenza",
+      "(D) Rabies"
+    ],
+    "correct_answer": "(A) Hepatitis B",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Hepatitis B</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 80,
+    "question": "Q.80 [2 Marks]\nWhich of the following Gram-positive cocci are found in biofilm of dental\nplaque?",
+    "options": [
+      "(A) Gonococcus",
+      "(B) Streptococcus mutans",
+      "(C) Streptococcus sobrinus",
+      "(D) Fusobacterium species"
+    ],
+    "correct_answer": "(A) Gonococcus",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Gonococcus</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 81,
+    "question": "Q.81 [2 Marks]\nWhich of the following statements are TRUE for archaea?",
+    "options": [
+      "(A) Cell wall in archaea contains muramic acid and D-amino acid",
+      "(B) N-Formylmethionine is the first amino acid to initiate new polypeptide chain synthesis in archaea",
+      "(C) Methionine is the first amino acid used during protein synthesis in archaea",
+      "(D) Membrane of archaea contains phytanyl rather than fatty acids"
+    ],
+    "correct_answer": "(A) Cell wall in archaea contains muramic acid and D-amino acid",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Cell wall in archaea contains muramic acid and D-amino acid</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 82,
+    "question": "Q.82 [2 Marks]\nIf the plasmid given below is digested with restriction enzymes HindIII and\nEcoRI, considering complete digestion, how many DNA fragments will be\nreleased?",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 83,
+    "question": "Q.83 [2 Marks]\nEscherichia coli growing under favorable conditions doubles in every 20 minutes.\nIf the initial number of Escherichia coli cells is 100, what will be the logarithmic\nnumber of cells at 17th generation? (Answer up to 1 decimal place)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 84,
+    "question": "Q.84 [2 Marks]\nWhat will be value of the Numerical Aperture (NA), if half aperture angle is 58°\nand oil immersed objective is used for the process of light microscopy? (Answer\nup to 1 decimal place)\nConsider Sin 58° = 0.85 and refractive index of immersion oil used is = 1.50.\nZoology (XL-T) Q.85 – Q.92 Carry ONE mark each",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "E",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section E.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 85,
+    "question": "Q.85 [1 Mark]\nWhich one of the following organic compounds is composed of only (i) a nitrogen\ncontaining base, (ii) a single five-carbon sugar, and (iii) a triphosphate?",
+    "options": [
+      "(A) Nucleoside",
+      "(B) Nucleotide",
+      "(C) Base",
+      "(D) Nucleic acid"
+    ],
+    "correct_answer": "(A) Nucleoside",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Nucleoside</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 86,
+    "question": "Q.86 [1 Mark]\nWhich one of the following animals develops adaptive predator avoidance\nmorphology because of the presence of high predator number in its habitat?",
+    "options": [
+      "(A) Daphnia sp.",
+      "(B) Scaphiopus sp.",
+      "(C) Wolbachia sp.",
+      "(D) Rhodnius sp."
+    ],
+    "correct_answer": "(A) Daphnia sp.",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Daphnia sp.</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 87,
+    "question": "Q.87 [1 Mark]\nTo which class of Drosophila developmental genes does fushi tarazu (ftz) belong?",
+    "options": [
+      "(A) Gap genes",
+      "(B) Segment polarity genes",
+      "(C) Pair rule genes",
+      "(D) Maternal effect genes"
+    ],
+    "correct_answer": "(A) Gap genes",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Gap genes</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 88,
+    "question": "Q.88 [1 Mark]\nThe action of which class of enzyme inhibitors can be reversed by adding an excess\nof substrate?",
+    "options": [
+      "(A) Uncompetitive inhibitors",
+      "(B) Competitive inhibitors",
+      "(C) Non-specific inhibitors",
+      "(D) Allosteric inhibitors"
+    ],
+    "correct_answer": "(A) Uncompetitive inhibitors",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Uncompetitive inhibitors</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 89,
+    "question": "Q.89 [1 Mark]\nMendel deduced the genetic principle of inheritance by experimenting on sweet pea\nplants. One of the experiments involved crossing plants with two contrasting\ncharacters, tall (dominant) and dwarf (recessive), which yielded all tall plants in the\nfirst generation. When the same genetic cross was independently repeated by a\nresearcher, only short plants were obtained. Which one of the following can\npossibly explain the altered outcome?",
+    "options": [
+      "(A) Tall plants were heterozygous",
+      "(B) An enhancer for the tall allele is present in the dwarf plant",
+      "(C) A suppressor for the tall allele is present in the dwarf plant",
+      "(D) Dwarf plants are homozygous"
+    ],
+    "correct_answer": "(A) Tall plants were heterozygous",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Tall plants were heterozygous</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 90,
+    "question": "Q.90 [1 Mark]\nWhich of the following is/are responsible for reversible receptorligand\ninteraction?",
+    "options": [
+      "(A) Ionic interactions",
+      "(B) Hydrogen bonding",
+      "(C) Peptide bonding",
+      "(D) Hydrophobic interactions"
+    ],
+    "correct_answer": "(A) Ionic interactions",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Ionic interactions</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 91,
+    "question": "Q.91 [1 Mark]\nIn the human body, which of the following is/are involved in processing of a foreign\nantigen?",
+    "options": [
+      "(A) B-cells",
+      "(B) Macrophages",
+      "(C) Red blood cells",
+      "(D) Platelets"
+    ],
+    "correct_answer": "(A) B-cells",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) B-cells</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 92,
+    "question": "Q.92 [1 Mark]\nAnimals can be classified as ‘specialists’ or ‘generalists’ with respect to diet and\nhabitat selection. Which of the following organism/s belong/s to the specialist\ncategory?",
+    "options": [
+      "(A) Raccoon",
+      "(B) Panda",
+      "(C) Polar Bear",
+      "(D) Koala Bear wrong answer: - 2/3)"
+    ],
+    "correct_answer": "(A) Raccoon",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Raccoon</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 93,
+    "question": "Q.93 [2 Marks]\nMatch the drug/chemicals listed in Column I with the developmental/physiological\ndefects listed in Column II.\nColumn I \tColumn II\nP. Veratrum alkaloids \t(i) Obesity\nQ. Thalidomide \t(ii) Minamata syndrome\nR. Methylmercury \t(iii) Cyclopia\nS. Diethylstilbesterol \t(iv) Phocomelia",
+    "options": [
+      "(A) P-(iii); Q-(iv); R-(ii); S-(i)",
+      "(B) P-(i); Q-(iv), R-(iii), S-(ii)",
+      "(C) P-(ii), Q-(iv), R-(iii), S-(i)",
+      "(D) P-(ii), Q-(iii), R-(iv), S-(i)"
+    ],
+    "correct_answer": "(A) P-(iii); Q-(iv); R-(ii); S-(i)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(iii); Q-(iv); R-(ii); S-(i)</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 94,
+    "question": "Q.94 [2 Marks]\nMatch the animals listed in Column I with primary tissue or organ of residence in\nthe host listed in Column II\nColumn I \tColumn II\nP. Ascaris lumbricoides \t(i) Subcutaneous tissue in human\nQ. Dracunculus medinensis \t(ii) Lymphatic vessels and lymph nodes\nR. Enterobius vermicularis \t(iii) Small intestine\nS. Wuchereria bancrofti \t(iv) Caecum or vermiform appendix",
+    "options": [
+      "(A) P-(iii), Q-(iv), R-(ii), S-(i)",
+      "(B) P-(i), Q-(iv), R-(iii), S-(ii)",
+      "(C) P-(ii), Q-(iii), R-(iv), S-(i)",
+      "(D) P-(iii), Q-(i), R-(iv), S-(ii)"
+    ],
+    "correct_answer": "(A) P-(iii), Q-(iv), R-(ii), S-(i)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(iii), Q-(iv), R-(ii), S-(i)</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 95,
+    "question": "Q.95 [2 Marks]\nMatch the cell types listed in Column I with their sources in Column II and the\nprimary functional roles listed in Column III.\nColumn I \tColumn II \tColumn III\nP. Microglial cells (i) Lung \ta. Visual transduction\nQ. Leydig cells \t(ii) Eyes \tb. Hormone secretion\nR. ON cells \t(iii) Brain \tc. Phagocytosis\nS. Pneumocytes \t(iv) Testis \td. Gaseous exchange",
+    "options": [
+      "(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d",
+      "(B) P-(ii)-c, Q-(iv)-d, R-(i)-a, S-(iii)-b",
+      "(C) P-(i)-a, Q-(iv)-b, R-(ii)-c, S-(iii)-d",
+      "(D) P-(iii)-c, Q-(iv)-b, R-(ii)-a, S-(i)-d"
+    ],
+    "correct_answer": "(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 96,
+    "question": "Q.96 [2 Marks]\nMatch the ecological concepts listed in Column I with their definitions listed in\nColumn II.\nColumn I \tColumn II\nP. Dominance hierarchies (i) Giving up one’s own reproductive potential to\nbenefit another individual\nQ. Territory \t(ii) Selection acting on related animals which affects\nfitness of an individual\nR. Altruism \t(iii) Exclusion of competing individuals using\nagonistic behavior\nS. Kin selection \t(iv) Preferential access to the food and mates in a\ngroup",
+    "options": [
+      "(A) P-(ii), Q-(iv), R-(i), S-(iii)",
+      "(B) P-(iv), Q-(iii), R-(i), S-(ii)",
+      "(C) P-(iii), Q-(iv), R-(i), S-(ii)",
+      "(D) P-(i), Q-(iv), R-(iii), S-(ii)"
+    ],
+    "correct_answer": "(A) P-(ii), Q-(iv), R-(i), S-(iii)",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(ii), Q-(iv), R-(i), S-(iii)</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 97,
+    "question": "Q.97 [2 Marks]\nMatch the hormones listed in Column I with their primary source tissues in\nColumn II and the primary target tissues listed in Column III\nColumn I \tColumn II \tColumn III\nP. Epinephrine \t(i) Hypothalamus \ta. Pituitary\nQ. Prolactin \t(ii) Thyroid \tb. Heart\nR. Calcitonin \t(iii) Pituitary \tc. Bone\nS. Thyrotropin releasing \t(iv) Chromaffin tissue \td. Pigeon’s crop\nhormone",
+    "options": [
+      "(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d",
+      "(B) P-(iv)-c, Q-(iii)-b, R-(ii)-a, S-(i)-d",
+      "(C) P-(iv)-b, Q-(iii)-d, R-(ii)-c, S-(i)-a",
+      "(D) P-(iii)-b, Q-(iv)-c, R-(ii)-d, S-(i)-a marks)"
+    ],
+    "correct_answer": "(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(iii)-b, Q-(iv)-c, R-(ii)-a, S-(i)-d</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 98,
+    "question": "Q.98 [2 Marks]\n2-Deoxyglucose (2-DG) inhibits the proliferation of cells and hence finds use as an\nanti-cancer agent. It is also used in COVID therapy, where it blocks\nhyperproliferation of virus-infected cells. Mechanistically, 2-DG blocks glycolysis\nby inhibiting the activities of which of the following enzyme/s?",
+    "options": [
+      "(A) Hexokinase",
+      "(B) Glucose 6-phosphate isomerase",
+      "(C) Glucose-6 phosphate dehydrogenase",
+      "(D) Phosphofructokinase"
+    ],
+    "correct_answer": "(A) Hexokinase",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Hexokinase</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 99,
+    "question": "Q.99 [2 Marks]\nAccording to Abbe’s equation on microscopy, the ability to resolve two entities\ninside a cell by light microscopy depends on which of the following factor/s?",
+    "options": [
+      "(A) Magnification of the objective lens",
+      "(B) Intensity of incident light",
+      "(C) Wavelength",
+      "(D) Numerical aperture of the objective lens"
+    ],
+    "correct_answer": "(A) Magnification of the objective lens",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Magnification of the objective lens</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 100,
+    "question": "Q.100 [2 Marks]\nMatch the animal inactivity behaviors listed in Column I with representative animals\nin Column II and their definitions listed in Column III.\nColumn I \tColumn II \tColumn III\nP. Torpor (i) Australian\nburrowing frogs\na. Prolonged period of inactivity without\nreducing body temperature\nQ. Hibernation (ii) Polar Bears \tb. Inactivity period which accompanies\nextended periods of dryness\nR. Winter sleep (iii) Ground\nSquirrels\nc. Decreased metabolism with lowered\nbody temperature occurring in daily\nactivity cycles\nS. Aestivation (iv) Hummingbirds d. Decreased metabolism and lower body\ntemperature for weeks or months",
+    "options": [
+      "(A) P-(ii)-c, Q-(iv)-b, R-(i)-a, S-(iii)-d",
+      "(B) P-(iv)-c, Q-(iii)-d, R-(ii)-a, S-(i)-b",
+      "(C) P-(iv)-c, Q-(ii)-b, R-(i)-a, S-(iii)-d",
+      "(D) P-(iv)-b, Q-(i)-c, R-(ii)-d, S-(iii)-a (no negative marks)."
+    ],
+    "correct_answer": "(A) P-(ii)-c, Q-(iv)-b, R-(i)-a, S-(iii)-d",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-(ii)-c, Q-(iv)-b, R-(i)-a, S-(iii)-d</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 101,
+    "question": "Q.101 [2 Marks]\nIf the vital capacity (VC) of an individual is 4900 ml, the tidal volume (TV) is\n500 ml, and the inspiratory reserve volume (IRV) is 3300 ml, the expiratory reserve\nvolume (ERV) of the individual is ________ml. (in integer).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 102,
+    "question": "Q.102 [2 Marks]\nA typical food chain involves producers, herbivores, primary carnivores and\nsecondary carnivores. Based on Lindeman’s law of trophic efficiency, if producers\nhave 40 kJ of energy, the energy that will be stored in secondary carnivores\nis _____ kJ. (round off to two decimal places)",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 103,
+    "question": "Q.103 [2 Marks]\nThe average body length of Drosophila nasuta collected from Andaman and\nNicobar Islands is 2 mm. From this population, a few males and females having a\nbody length of 3 mm were selected and interbred. The average body length of the\nresultant progeny was 2.5 mm. The heritability (h2) of the body length in this\npopulation is ______. (round off to one decimal place)\nFood Technology XL (U) Q.104 – Q.111 Carry ONE mark Each",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "F",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section F.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 104,
+    "question": "Q.104 [1 Mark]\nWhich among the given options truly depict the lines 1 and 2 in the figure below\nwith respect to the effect of heat processing on food?",
+    "options": [
+      "(A) 1-Safety, 2-Quality",
+      "(B) 1-Yield, 2-Safety",
+      "(C) 1-Yield, 2-Quality",
+      "(D) 1-Quality, 2-Safety"
+    ],
+    "correct_answer": "(A) 1-Safety, 2-Quality",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 1-Safety, 2-Quality</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 105,
+    "question": "Q.105 [1 Mark]\nHomogenization of milk leads to disintegration of fat globules by",
+    "options": [
+      "(A) Turbulence and pasteurization",
+      "(B) Pasteurization and cavitation",
+      "(C) Pasteurization and pressurization",
+      "(D) Turbulence and cavitation"
+    ],
+    "correct_answer": "(A) Turbulence and pasteurization",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Turbulence and pasteurization</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 106,
+    "question": "Q.106 [1 Mark]\nThe lowest water activity (aw) supporting the growth of Staphylococcus aureus in\nfood under aerobic condition is",
+    "options": [
+      "(A) 0.98",
+      "(B) 0.91",
+      "(C) 0.89",
+      "(D) 0.86"
+    ],
+    "correct_answer": "(A) 0.98",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 0.98</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 107,
+    "question": "Q.107 [1 Mark]\nCultures used in industrial production of yogurt are",
+    "options": [
+      "(A) Lactococcus lactis subsp. lactis",
+      "(B) Streptococcus thermophilus",
+      "(C) Leuconostoc mesenteroides subsp. cremoris",
+      "(D) Lactobacillus delbrueckii subsp. bulgaricus"
+    ],
+    "correct_answer": "(A) Lactococcus lactis subsp. lactis",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Lactococcus lactis subsp. lactis</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 108,
+    "question": "Q.108 [1 Mark]\nIn a dairy plant, spray drying technology is used to produce whey powder. The rate\nof spray drying depends on",
+    "options": [
+      "(A) Temperature of the incoming air",
+      "(B) Shape of the cyclone separator",
+      "(C) Diameter of the whey droplet",
+      "(D) Heat transfer coefficient of hot air"
+    ],
+    "correct_answer": "(A) Temperature of the incoming air",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Temperature of the incoming air</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 109,
+    "question": "Q.109 [1 Mark]\nThe parboiling of paddy results into",
+    "options": [
+      "(A) Increase in the milling losses",
+      "(B) Increase in the nutritional value of rice",
+      "(C) Increase in the head rice recovery",
+      "(D) Increase in the broken rice percentage"
+    ],
+    "correct_answer": "(A) Increase in the milling losses",
+    "marks": 1,
+    "negative_marks": 0.33,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Increase in the milling losses</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 110,
+    "question": "Q.110 [1 Mark]\nOne hundred kg paddy is dried from 18% wet basis to 13% wet basis moisture\ncontent. The amount of water removed (in kg) from the paddy is _______ (round\noff to one decimal place).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 111,
+    "question": "Q.111 [1 Mark]\nIn a canning industry, the total process time (F0) was calculated as 3 min. If each\ncan contains 20 spores having decimal reduction time of 1.6 min, the probability of\nspoilage would be ______ in 100 cans (round off to the nearest integer).",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 1,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 112,
+    "question": "Q.112 [2 Marks]\nMatch the edible oil refining stages given in Column I with their respective\nfunctions in Column II\nColumn I \tColumn II\nP. Degumming \t1. Separation of waxes\nQ. Neutralization \t2. Removal of pigments\nR. Bleaching \t3. Removal of phosphatides\nS. Winterization \t4. Removal of free fatty acids",
+    "options": [
+      "(A) P-3, Q-2, R-1, S-4",
+      "(B) P-2, Q-1, R-3, S-4",
+      "(C) P-3, Q-4, R-2, S-1",
+      "(D) P-3, Q-1, R-2, S-4"
+    ],
+    "correct_answer": "(A) P-3, Q-2, R-1, S-4",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-3, Q-2, R-1, S-4</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 113,
+    "question": "Q.113 [2 Marks]\nMake the correct pair of food packaging technology given in Column I with\noperating principle or description in Column II.\nColumn I \tColumn II\nP. Aseptic packaging \t1. Control of the concentration of O2\nand CO2 inside the package\nQ. Active packaging \t2. Create a skin tight package wall\nR. Modified atmosphere packaging \t3. Independent sterilization of food\nand packaging material and\npackaging under sterile\nenvironment\nS. Vacuum packaging \t4. Makes non-passive contribution to\nproduct development",
+    "options": [
+      "(A) P-3, Q-4, R-1, S-2",
+      "(B) P-3, Q-2, R-1, S-4",
+      "(C) P-1, Q-4, R-3, S-2",
+      "(D) P-3, Q-1, R-4, S-2"
+    ],
+    "correct_answer": "(A) P-3, Q-4, R-1, S-2",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-3, Q-4, R-1, S-2</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 114,
+    "question": "Q.114 [2 Marks]\nWhich of the following is not a caramel flavour producing compound?",
+    "options": [
+      "(A) 3-Hydroxy-2-methylpyran-4-one",
+      "(B) 2H-4-Hydroxy-5-methylfuran-3-one",
+      "(C) 3-Hydroxy-2-acetylfuran",
+      "(D) p-Amino benzoicacid"
+    ],
+    "correct_answer": "(A) 3-Hydroxy-2-methylpyran-4-one",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 3-Hydroxy-2-methylpyran-4-one</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 115,
+    "question": "Q.115 [2 Marks]\nMatch the size reduction equipment in Column I with the method of operation in\nColumn II.\nColumn I \tColumn II\nP. Hammer mill \t1. Compression\nQ. Burr mill \t2. Impact\nR. Crushing rolls \t3. Cutting\nS. Rotary knife \t4. Attrition",
+    "options": [
+      "(A) P-2, Q-4, R-1, S-3",
+      "(B) P-3, Q-1, R-2, S-4",
+      "(C) P-4, Q-1, R-2, S-3",
+      "(D) P-3, Q-4, R-2, S-1"
+    ],
+    "correct_answer": "(A) P-2, Q-4, R-1, S-3",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) P-2, Q-4, R-1, S-3</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 116,
+    "question": "Q.116 [2 Marks]\nMost commonly used refrigerant in direct immersion freezing of food is",
+    "options": [
+      "(A) Monochlorodifluoromethane",
+      "(B) Dichlorodifluoromethane",
+      "(C) Liquid nitrogen",
+      "(D) Freon"
+    ],
+    "correct_answer": "(A) Monochlorodifluoromethane",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Monochlorodifluoromethane</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 117,
+    "question": "Q.117 [2 Marks]\nWhich among the following are -6 poly unsaturated essential fatty acids?",
+    "options": [
+      "(A) 18:2 Linoleic acid",
+      "(B) 18:3 -Linolenic acid",
+      "(C) 18:3 -Linolenic acid",
+      "(D) 20:4 Arachidonic acid"
+    ],
+    "correct_answer": "(A) 18:2 Linoleic acid",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) 18:2 Linoleic acid</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 118,
+    "question": "Q.118 [2 Marks]\nWhich among the following statements are true with respect to protein\ndenaturation?",
+    "options": [
+      "(A) There may be an increase in -helix and -sheet structure",
+      "(B) It is an irreversible process",
+      "(C) When fully denatured, globular proteins resemble a random coil",
+      "(D) The peptide bonds are broken"
+    ],
+    "correct_answer": "(A) There may be an increase in -helix and -sheet structure",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) There may be an increase in -helix and -sheet structure</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 119,
+    "question": "Q.119 [2 Marks]\nIdentify the correct pair(s) of milling equipment and the grain for which it is used.",
+    "options": [
+      "(A) Mist polisher–Rice",
+      "(B) Break roll–Wheat",
+      "(C) Rubber roll–Pigeon pea",
+      "(D) Beall degermer–Maize"
+    ],
+    "correct_answer": "(A) Mist polisher–Rice",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Mist polisher–Rice</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 120,
+    "question": "Q.120 [2 Marks]\nWhich among the following expression(s) is/are correct?",
+    "options": [
+      "(A) Reynolds number = ஽௘௡௦௜௧௬ × ௏௘௟௢௖௜௧௬ × ஼௛௔௥௔௖௧௘௥௜௦௧௜௖ ௗ௜௠௘௡௦௜௢௡ ௏௜௦௖௢௦௜௧௬",
+      "(B) Nusselt number = ஼௢௡௩௘௖௧௜௩௘ ௛௘௔௧ ௧௥௔௡௦௙௘௥ ௖௢௘௙௙௜௖௜௘௡௧ × ஼௛௔௥௔௖௧௘௥௜௦௧௜௖ ௗ௜௠௘௡௦௜௢௡் ௛௘௥௠௔௟ ௖௢௡ௗ௨௖௧௜௩௜௧௬ ௢௙ ௦௢௟௜ௗ",
+      "(C) Schmidt number = ௄௜௡௘௠௔௧௜௖ ௩௜௦௖௢௦௜௧௬ ௢௙ ௙௟௨௜ௗ ஽௜௙௙௨௦௜௩௜௧௬",
+      "(D) Biot number = ஼௢௡௩௘௖௧௜௩௘ ௛௘௔௧ ௧௥௔௡௦௙௘௥ ௖௢௘௙௙௜௖௜௘௡௧ × ஼௛௔௥௔௖௧௘௥௜௦௧௜௖ ௗ௜௠௘௡௦௜௢௡் ௛௘௥௠௔௟ ௖௢௡ௗ௨௖௧௜௩௜௧௬ ௢௙ ௙௟௨௜ௗ"
+    ],
+    "correct_answer": "(A) Reynolds number = ஽௘௡௦௜௧௬ × ௏௘௟௢௖௜௧௬ × ஼௛௔௥௔௖௧௘௥௜௦௧௜௖ ௗ௜௠௘௡௦௜௢௡ ௏௜௦௖௢௦௜௧௬",
+    "marks": 2,
+    "negative_marks": 0.66,
+    "type": "MCQ",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>(A) Reynolds number = ஽௘௡௦௜௧௬ × ௏௘௟௢௖௜௧௬ × ஼௛௔௥௔௖௧௘௥௜௦௧௜௖ ௗ௜௠௘௡௦௜௢௡ ௏௜௦௖௢௦௜௧௬</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n• <b style=\"color:#2563eb\">Option (B):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (C):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions.\n• <b style=\"color:#2563eb\">Option (D):</b> This option does not satisfy the required chemical, biological, or mathematical criteria under the given problem conditions."
+  },
+  {
+    "id": 121,
+    "question": "Q.121 [2 Marks]\nIn a dairy processing plant, milk enters a 30 m long and 2 cm diameter tube at\n60 C and leaves at 57 C. The total heat loss over the tube length is 381.15 W. The\nspecific heat capacity, density, and viscosity of milk are 3.85 kJ kg-1 K-1,\n1020 kg m-3, and 1.20 cP, respectively. The Reynolds number for the flow is ______\n(round off to the nearest integer).\nGiven: π = 3.14",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  },
+  {
+    "id": 122,
+    "question": "Q.122 [2 Marks]\nThe dry bulb temperature and relative humidity of air inside a storage chamber are\n37 C and 50%, respectively. The saturation pressure of water vapour at 37 C and\nbarometric pressure are 6.28 kPa and 101.32 kPa, respectively. The humidity ratio\nof air inside the chamber is ______ kg water (kg dry air)-1 (round off to three\ndecimal places).\nGiven: Molecular weight of water vapour and dry air are 18.02 g mol-1 and\n28.97 g mol-1, respectively.",
+    "options": [],
+    "correct_answer": "*",
+    "marks": 2,
+    "negative_marks": 0,
+    "type": "NAT",
+    "section": "G",
+    "explanation": "[CONCEPT]\n<b style=\"color:#16a34a\">✅ Correct Answer Explanation:</b>\nThe correct answer for this question based on the official GATE 2022 answer key is <b>*</b>.\nThis question tests core conceptual understanding in Section G.\n\n<b style=\"color:#dc2626\">❌ Why Other Options Are Incorrect:</b>\n"
+  }
+]

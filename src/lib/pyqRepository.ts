@@ -7,6 +7,8 @@ export interface PYQQuestion {
   correct_answer: string;
   explanation: string;
   type?: string;
+  marks?: number;
+  negative_marks?: number;
   list_1?: string[];
   list_2?: string[];
   table?: {
@@ -46,6 +48,14 @@ export const PYQ_PAPERS: Paper[] = [
   { exam: 'csir_net', year: '2024_dec_shift1' },
   { exam: 'csir_net', year: '2024_dec_shift2' },
   { exam: 'csir_net', year: '2025_june' },
+  // Full GATE Life Sciences (XL) Question Papers
+  { exam: 'gate', year: '2025' },
+  { exam: 'gate', year: '2024' },
+  { exam: 'gate', year: '2023' },
+  { exam: 'gate', year: '2022' },
+  { exam: 'gate', year: '2018' },
+  { exam: 'gate', year: '2016' },
+  { exam: 'gate', year: '2012' },
   // Grouped GATE Zoology papers
   { exam: 'gate', year: 'zoology/Animal Anatomy and Physiology' },
   { exam: 'gate', year: 'zoology/Animal Behavior' },
@@ -110,7 +120,7 @@ export const PYQ_PAPERS: Paper[] = [
   { exam: 'icmr_jrf', year: 'genetics/Extension of Genetics' },
   { exam: 'icmr_jrf', year: 'genetics/Human Genetics' },
   { exam: 'icmr_jrf', year: 'genetics/Mapping of Genes' },
-  { exam: 'icmr_jrf', year: 'genetics/Mendel's Law' },
+  { exam: 'icmr_jrf', year: "genetics/Mendel's Law" },
   { exam: 'icmr_jrf', year: 'genetics/Mutation' },
   { exam: 'icmr_jrf', year: 'immunology/Antibody Structure, Diversity and Monoclonal Antibodies' },
   { exam: 'icmr_jrf', year: 'immunology/Antigens and Immunogenicity' },

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { useAuth } from "@/lib/AuthContext";
+import { getFriendlyAuthError } from "@/lib/authErrors";
 import { useRouter } from "next/navigation";
 import { LayoutDashboard, Chrome } from "lucide-react";
 
@@ -22,7 +23,7 @@ export default function LoginPage() {
       await signInWithGoogle();
       router.push("/");
     } catch (err: any) {
-      setError(err.message || "Google sign in failed");
+      setError(getFriendlyAuthError(err));
     } finally {
       setLoading(false);
     }
@@ -40,7 +41,10 @@ export default function LoginPage() {
       }
       router.push("/");
     } catch (err: any) {
-      setError(err.message || "An error occurred");
+      if (err?.code === "auth/email-already-in-use") {
+        setIsLogin(true);
+      }
+      setError(getFriendlyAuthError(err));
     } finally {
       setLoading(false);
     }
@@ -102,7 +106,7 @@ export default function LoginPage() {
                         await resetPassword(email);
                         setError("Password reset link sent to your email!");
                       } catch (err: any) {
-                        setError(err.message || "Failed to send reset link.");
+                        setError(getFriendlyAuthError(err));
                       }
                     }}
                     className="text-xs font-bold text-accent-main hover:opacity-80"

@@ -4,7 +4,7 @@ import { useEffect } from "react";
 import { Capacitor } from "@capacitor/core";
 import { PushNotifications } from "@capacitor/push-notifications";
 import { getToken, onMessage } from "firebase/messaging";
-import { messaging, db } from "@/lib/firebase";
+import { getMessagingInstance, db } from "@/lib/firebase";
 import { doc, updateDoc, arrayUnion } from "firebase/firestore";
 import { useAuth } from "@/lib/AuthContext";
 import { useRouter } from "next/navigation";
@@ -62,6 +62,7 @@ export default function NotificationHandler() {
 
       } else {
         // --- Web Setup ---
+        const messaging = await getMessagingInstance();
         if (!messaging) return;
 
         try {

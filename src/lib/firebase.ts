@@ -1,10 +1,9 @@
 import { initializeApp, getApps, getApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
-import { getMessaging } from "firebase/messaging";
+import { getMessaging, isSupported, Messaging } from "firebase/messaging";
 
 // Your web app's Firebase configuration
-// Replace these with your actual Firebase project config values from console.firebase.google.com
 const firebaseConfig = {
   apiKey: "AIzaSyAHZUDi082Xxr-X8BplAuFD0mrv0ZXXxt0",
   authDomain: "csir-net-mocktest.firebaseapp.com",
@@ -19,7 +18,29 @@ const firebaseConfig = {
 const app = !getApps().length ? initializeApp(firebaseConfig) : getApp();
 const auth = getAuth(app);
 const db = getFirestore(app);
-const messaging = typeof window !== "undefined" ? getMessaging(app) : null;
-const googleProvider = new GoogleAuthProvider();
 
-export { app, auth, db, googleProvider, messaging };
+const googleProvider = new GoogleAuthProvider();
+googleProvider.setCustomParameters({
+  prompt: "select_account",
+});
+
+let messagingInstance: Messaging | null = null;
+
+/**
+ * Safely retrieves Firebase Messaging only when supported by the browser/WebView.
+ * Prevents unhandled `messaging/unsupported-browser` rejections on Android WebView or HTTP origins.
+ */
+async function getMessagingInstance(): Promise<Messaging | null> {
+  if (typeof window === "undefined") return null;
+  if (messagingInstance) return messagingInstance;
+  try {
+    const supported = await isSupported();
+    if (!supported) return null;
+    messagingInstance = getMessaging(app);
+    return messagingInstance;
+  } catch {
+    return null;
+  }
+}
+
+export { app, auth, db, googleProvider, getMessagingInstance };

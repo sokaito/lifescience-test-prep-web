@@ -1,8 +1,9 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { X, Mail, Lock, LayoutDashboard, Chrome, LogOut, ArrowLeft } from "lucide-react";
 import { useAuth } from "@/lib/AuthContext";
+import { getFriendlyAuthError } from "@/lib/authErrors";
 
 interface AuthSidebarProps {
   isOpen: boolean;
@@ -19,13 +20,6 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
   const [showPassword, setShowPassword] = useState(false);
   const { login, register, logout, user, userData, signInWithGoogle, resetPassword } = useAuth();
 
-  useEffect(() => {
-    const handleToggle = () => onClose();
-    window.addEventListener("toggle-auth-sidebar", () => {
-    });
-    return () => window.removeEventListener("toggle-auth-sidebar", handleToggle);
-  }, [onClose]);
-
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError("");
@@ -39,20 +33,10 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
       onClose();
     } catch (err: any) {
       console.error("Auth error:", err);
-      let message = err.message || "An error occurred";
-      
-      if (err.code === "auth/email-already-in-use") {
-        message = "This email is already registered. Switching to Sign In...";
+      if (err?.code === "auth/email-already-in-use") {
         setIsLogin(true);
-      } else if (err.code === "auth/invalid-credential" || err.code === "auth/wrong-password" || err.code === "auth/user-not-found") {
-        message = "Invalid email or password. Please try again or use Google Sign-In.";
-      } else if (err.code === "auth/too-many-requests") {
-        message = "Too many failed attempts. Please try again later.";
-      } else if (err.code === "auth/weak-password") {
-        message = "Password should be at least 6 characters.";
       }
-      
-      setError(message);
+      setError(getFriendlyAuthError(err));
     } finally {
       setLoading(false);
     }
@@ -182,7 +166,7 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
                             await resetPassword(email);
                             setError("Password reset link sent to your email!");
                           } catch (err: any) {
-                            setError(err.message || "Failed to send reset link.");
+                            setError(getFriendlyAuthError(err));
                           }
                         }}
                         className="text-[10px] font-bold text-accent-main hover:opacity-80 uppercase tracking-wider"
@@ -242,7 +226,9 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
                   <span className="relative px-4 bg-bg-card text-xs font-bold text-text-secondary opacity-70 uppercase italic transition-colors">Or continue with</span>
                 </div>
 
-                <button 
+                <button
+                  type="button"
+                  disabled={loading}
                   onClick={async () => {
                     setError("");
                     setLoading(true);
@@ -250,16 +236,29 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
                       await signInWithGoogle();
                       onClose();
                     } catch (err: any) {
-                      setError(err.message || "Google sign in failed");
+                      setError(getFriendlyAuthError(err));
                     } finally {
                       setLoading(false);
                     }
                   }}
-                  className="w-full py-3 px-4 bg-bg-main border border-border-subtle rounded-2xl flex items-center justify-center font-bold text-text-primary hover:opacity-80 transition-opacity shadow-sm"
+                  className="w-full py-3 px-4 bg-bg-main border border-border-subtle rounded-2xl flex items-center justify-center font-bold text-text-primary hover:opacity-80 disabled:opacity-50 transition-opacity shadow-sm"
                 >
                   <Chrome className="w-5 h-5 mr-3 text-blue-500" />
                   Google Account
                 </button>
+
+                <div className="mt-6 text-center">
+                  <button
+                    type="button"
+                    onClick={() => {
+                      setIsLogin(!isLogin);
+                      setError("");
+                    }}
+                    className="text-sm font-bold text-accent-main hover:opacity-80"
+                  >
+                    {isLogin ? "Need an account? Sign Up" : "Already have an account? Sign In"}
+                  </button>
+                </div>
               </div>
             </>
           )}

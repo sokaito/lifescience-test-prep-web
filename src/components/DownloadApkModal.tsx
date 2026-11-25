@@ -79,37 +79,37 @@ export default function DownloadApkModal({ isOpen, onClose, defaultShowGuide = f
             </svg>
           </div>
 
-          <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-teal-500/10 border border-teal-500/30 text-teal-600 dark:text-teal-400 text-xs font-black uppercase tracking-wider mb-2">
+          <div className="inline-flex items-center space-x-1.5 px-3 py-1 rounded-full bg-teal-500/10 border border-teal-500/30 text-teal-600 dark:text-teal-400 text-xs font-semibold mb-2">
             <Sparkles className="w-3.5 h-3.5" />
-            <span>Official Android APK • v1.0</span>
+            <span>Official Android APK • v2.0</span>
           </div>
 
-          <h3 className="text-2xl md:text-3xl font-black text-text-primary tracking-tight">
+          <h3 className="text-2xl md:text-3xl font-bold text-text-primary tracking-tight">
             Install LifeSci Prep on Android
           </h3>
           
           <p className="text-text-secondary text-sm md:text-base mt-2 max-w-md">
-            Download our direct APK to enjoy superfast test loading, complete offline exam mode, and test alerts.
+            Download our Android APK for faster test loading, offline practice mode, and PYQ access anytime.
           </p>
 
           {/* Quick specs pill */}
-          <div className="flex flex-wrap items-center justify-center gap-2 md:gap-4 my-4 py-2.5 px-5 bg-bg-main rounded-2xl border border-border-subtle text-xs font-bold text-text-secondary">
+          <div className="flex flex-wrap items-center justify-center gap-2 md:gap-4 my-4 py-2.5 px-5 bg-bg-main rounded-2xl border border-border-subtle text-xs font-medium text-text-secondary">
             <span className="flex items-center"><Smartphone className="w-3.5 h-3.5 mr-1 text-teal-500" /> Android 7.0+</span>
             <span className="text-border-subtle hidden sm:inline">|</span>
-            <span>Size: 8.7 MB</span>
+            <span>Version 2.0</span>
             <span className="text-border-subtle hidden sm:inline">|</span>
             <span className="flex items-center"><ShieldCheck className="w-3.5 h-3.5 mr-1 text-emerald-500" /> Safe & Verified</span>
           </div>
 
           {/* Primary Action Button */}
           <a
-            href="/lifesci-prep.apk"
+            href="https://raw.githubusercontent.com/sokaito/lifescience-test-prep-web/master/public/lifesci-prep.apk"
             download="lifesci-prep.apk"
             onClick={handleDownloadClick}
-            className="w-full py-4 px-6 bg-gradient-to-r from-teal-500 via-emerald-500 to-blue-600 hover:from-teal-600 hover:to-blue-700 text-white font-black text-base uppercase tracking-wider rounded-2xl shadow-xl shadow-teal-500/25 flex items-center justify-center space-x-3 group hover:scale-[1.02] active:scale-95 transition-all duration-300"
+            className="w-full py-3.5 px-6 bg-teal-600 hover:bg-teal-700 text-white font-semibold text-base rounded-2xl shadow-md flex items-center justify-center space-x-2.5 active:scale-[0.99] transition-all"
           >
-            <Download className="w-5 h-5 group-hover:translate-y-0.5 transition-transform" />
-            <span>{downloadStarted ? "Downloading Again..." : "Download APK Now (8.7 MB)"}</span>
+            <Download className="w-5 h-5" />
+            <span>{downloadStarted ? "Download Again" : "Download Android APK"}</span>
           </a>
 
           {downloadStarted && (

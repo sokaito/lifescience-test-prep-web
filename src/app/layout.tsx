@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
@@ -14,14 +14,19 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Lifesci Prep",
-    template: "%s | Lifesci Prep",
+    default: "LifeSci Prep — CSIR NET, GATE, DBT-BET & ICMR JRF",
+    template: "%s | LifeSci Prep",
   },
-  description: "Premium Life Science Test Preparation Platform",
+  description:
+    "Focused mock tests, previous year question papers, and analytics for CSIR NET, GATE XL, DBT-BET, and ICMR JRF Life Sciences.",
 };
 
-import Sidebar from "@/components/Sidebar";
-import Header from "@/components/Header";
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  viewportFit: "cover",
+};
+
 import LayoutWrapper from "@/components/LayoutWrapper";
 import { AuthProvider } from "@/lib/AuthContext";
 import { ThemeProvider } from "@/lib/ThemeContext";
@@ -37,16 +42,14 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased font-sans`}
       >
         <ThemeProvider>
           <AuthProvider>
             <AppUpdateChecker />
             <NotificationHandler />
             <NotificationDebug />
-            <LayoutWrapper>
-              {children}
-            </LayoutWrapper>
+            <LayoutWrapper>{children}</LayoutWrapper>
           </AuthProvider>
         </ThemeProvider>
       </body>

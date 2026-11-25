@@ -1,40 +1,151 @@
+import fs from "fs";
+import path from "path";
 import Link from "next/link";
-import { BookOpen, GraduationCap, Library } from "lucide-react";
+import {
+  BookOpen,
+  GraduationCap,
+  FlaskConical,
+  Microscope,
+  ArrowRight,
+  Layers,
+  FileText,
+} from "lucide-react";
+
+function getExamStats(examId: string) {
+  const dir = path.join(process.cwd(), "public", "repository", "pyq", examId);
+  let totalFiles = 0;
+  const groups = new Set<string>();
+  let fullPapers = 0;
+
+  function scan(currentDir: string) {
+    if (!fs.existsSync(currentDir)) return;
+    for (const entry of fs.readdirSync(currentDir)) {
+      const full = path.join(currentDir, entry);
+      if (fs.statSync(full).isDirectory()) {
+        scan(full);
+      } else if (entry.endsWith(".json") && entry !== "manifest.json") {
+        totalFiles++;
+        const rel = path.relative(dir, full).replace(/\\/g, "/");
+        if (rel.includes("/")) {
+          groups.add(rel.split("/")[0]);
+        } else {
+          fullPapers++;
+        }
+      }
+    }
+  }
+
+  scan(dir);
+  return { totalFiles, sectionCount: groups.size, fullPapers };
+}
 
 export default function PYQDashboard() {
   const exams = [
-    { id: "csir_net", name: "CSIR NET Life Sciences", icon: GraduationCap, color: "text-blue-500", bg: "bg-blue-50 dark:bg-blue-900/20", border: "border-blue-200 dark:border-blue-800" },
-    { id: "dbt_bet", name: "DBT BET", icon: BookOpen, color: "text-teal-500", bg: "bg-teal-50 dark:bg-teal-900/20", border: "border-teal-200 dark:border-teal-800" },
-    { id: "gate", name: "GATE Life Sciences", icon: Library, color: "text-orange-500", bg: "bg-orange-50 dark:bg-orange-900/20", border: "border-orange-200 dark:border-orange-800" },
-    { id: "icmr_jrf", name: "ICMR JRF Life Sciences", icon: BookOpen, color: "text-purple-500", bg: "bg-purple-50 dark:bg-purple-900/20", border: "border-purple-200 dark:border-purple-800" },
+    {
+      id: "csir_net",
+      name: "CSIR NET Life Sciences",
+      description:
+        "Official shift-wise question papers with Part A, B & C categorization.",
+      icon: GraduationCap,
+      color: "text-blue-600 dark:text-blue-400",
+      bg: "bg-blue-500/10",
+      border: "hover:border-blue-500/40",
+      stats: getExamStats("csir_net"),
+    },
+    {
+      id: "gate",
+      name: "GATE Life Sciences (XL)",
+      description:
+        "2010–2026 full papers with Sections A–G plus subject-wise modules.",
+      icon: FlaskConical,
+      color: "text-amber-600 dark:text-amber-400",
+      bg: "bg-amber-500/10",
+      border: "hover:border-amber-500/40",
+      stats: getExamStats("gate"),
+    },
+    {
+      id: "dbt_bet",
+      name: "DBT BET (JRF)",
+      description:
+        "Year-wise question papers with Part A & B solutions and concept notes.",
+      icon: BookOpen,
+      color: "text-teal-600 dark:text-teal-400",
+      bg: "bg-teal-500/10",
+      border: "hover:border-teal-500/40",
+      stats: getExamStats("dbt_bet"),
+    },
+    {
+      id: "icmr_jrf",
+      name: "ICMR JRF Life Sciences",
+      description:
+        "Topic-wise question bank organized neatly into 15 biological subjects.",
+      icon: Microscope,
+      color: "text-violet-600 dark:text-violet-400",
+      bg: "bg-violet-500/10",
+      border: "hover:border-violet-500/40",
+      stats: getExamStats("icmr_jrf"),
+    },
   ];
 
   return (
-    <div className="max-w-screen-xl mx-auto space-y-10 px-4 md:px-8 py-8 md:py-12">
-      <div className="text-center md:text-left">
-        <h1 className="text-3xl md:text-5xl font-black text-slate-900 dark:text-slate-100 tracking-tight leading-tight uppercase">
-          Previous Year <span className="text-accent-main">Questions</span>
+    <div className="space-y-8">
+      <div>
+        <h1 className="text-2xl sm:text-3xl font-bold text-text-primary tracking-tight">
+          Previous Year Question Papers
         </h1>
-        <p className="text-slate-500 dark:text-slate-400 text-sm md:text-lg font-bold mt-2 uppercase tracking-tight">
-          Select an exam to explore past papers
+        <p className="text-sm sm:text-base text-text-secondary mt-1">
+          Select an examination to browse full-year papers or section-wise subjects.
         </p>
       </div>
 
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
         {exams.map((exam) => (
-          <Link 
-            key={exam.id} 
+          <Link
+            key={exam.id}
             href={`/pyq/${exam.id}`}
-            className="group flex flex-col items-center justify-center p-8 bg-bg-card rounded-[2rem] border border-border-subtle shadow-sm hover:shadow-xl hover:-translate-y-2 transition-all text-center relative overflow-hidden"
+            className={`group bg-bg-card rounded-2xl border border-border-subtle ${exam.border} p-6 shadow-sm hover:shadow-md transition-all flex flex-col justify-between gap-5`}
           >
-            <div className={`w-20 h-20 rounded-3xl flex items-center justify-center mb-6 border ${exam.border} ${exam.bg} group-hover:scale-110 transition-transform`}>
-              <exam.icon className={`w-10 h-10 ${exam.color}`} />
+            <div className="flex items-start gap-4">
+              <div
+                className={`w-12 h-12 rounded-2xl flex items-center justify-center shrink-0 ${exam.bg}`}
+              >
+                <exam.icon className={`w-6 h-6 ${exam.color}`} />
+              </div>
+              <div className="min-w-0 flex-1">
+                <h2 className="text-lg sm:text-xl font-bold text-text-primary group-hover:text-teal-600 dark:group-hover:text-teal-400 transition-colors">
+                  {exam.name}
+                </h2>
+                <p className="text-sm text-text-secondary mt-1 leading-relaxed">
+                  {exam.description}
+                </p>
+              </div>
             </div>
-            <h2 className="text-xl md:text-2xl font-black text-text-primary uppercase tracking-tight mb-2">
-              {exam.name}
-            </h2>
-            <div className="mt-4 px-6 py-2 bg-bg-main text-text-secondary text-xs font-black uppercase tracking-widest rounded-full group-hover:bg-accent-main group-hover:text-white transition-colors">
-              Explore Papers
+
+            <div className="flex items-center justify-between pt-4 border-t border-border-subtle">
+              <div className="flex flex-wrap items-center gap-2 text-xs font-medium text-text-secondary">
+                {exam.stats.fullPapers > 0 && (
+                  <span className="inline-flex items-center gap-1 bg-bg-main px-2.5 py-1 rounded-lg border border-border-subtle">
+                    <FileText className="w-3.5 h-3.5 text-teal-600" />
+                    {exam.stats.fullPapers} Year Papers
+                  </span>
+                )}
+                {exam.stats.sectionCount > 0 && (
+                  <span className="inline-flex items-center gap-1 bg-bg-main px-2.5 py-1 rounded-lg border border-border-subtle">
+                    <Layers className="w-3.5 h-3.5 text-amber-500" />
+                    {exam.stats.sectionCount} Subject Sections
+                  </span>
+                )}
+                {exam.stats.fullPapers === 0 && exam.stats.sectionCount === 0 && (
+                  <span className="inline-flex items-center gap-1 bg-bg-main px-2.5 py-1 rounded-lg border border-border-subtle">
+                    {exam.stats.totalFiles} Sets
+                  </span>
+                )}
+              </div>
+
+              <span className="inline-flex items-center gap-1 text-sm font-semibold text-teal-600 dark:text-teal-400 group-hover:translate-x-0.5 transition-transform shrink-0">
+                <span>Open</span>
+                <ArrowRight className="w-4 h-4" />
+              </span>
             </div>
           </Link>
         ))}

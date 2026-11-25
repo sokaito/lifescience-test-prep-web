@@ -99,11 +99,12 @@ export default function PYQDashboard() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-        {exams.map((exam) => (
+        {exams.map((exam, idx) => (
           <Link
             key={exam.id}
             href={`/pyq/${exam.id}`}
-            className={`group bg-bg-card rounded-2xl border border-border-subtle ${exam.border} p-6 shadow-sm hover:shadow-md transition-all flex flex-col justify-between gap-5`}
+            style={{ animationDelay: `${idx * 65}ms` }}
+            className={`group bg-bg-card rounded-2xl border border-border-subtle ${exam.border} p-6 shadow-sm hover:shadow-xl card-pop animate-pop-in flex flex-col justify-between gap-5`}
           >
             <div className="flex items-start gap-4">
               <div

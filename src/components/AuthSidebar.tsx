@@ -1,9 +1,10 @@
 "use client";
 
 import { useState } from "react";
-import { X, Mail, Lock, LayoutDashboard, Chrome, LogOut, ArrowLeft } from "lucide-react";
+import { X, Mail, Lock, Chrome, LogOut, ArrowLeft } from "lucide-react";
 import { useAuth } from "@/lib/AuthContext";
 import { getFriendlyAuthError } from "@/lib/authErrors";
+import BrandLogo from "./BrandLogo";
 
 interface AuthSidebarProps {
   isOpen: boolean;
@@ -52,13 +53,8 @@ export default function AuthSidebar({ isOpen, onClose }: AuthSidebarProps) {
       />
 
       <div className="relative w-full max-w-md bg-bg-card h-full shadow-2xl flex flex-col animate-slide-in-right border-l border-border-subtle transition-colors">
-        <div className="p-6 border-b border-border-subtle flex items-center justify-center transition-colors">
-          <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-gradient-to-tr from-teal-400 to-blue-500 rounded-lg flex items-center justify-center shadow-sm">
-              <LayoutDashboard className="w-4 h-4 text-white" />
-            </div>
-            <span className="font-bold text-text-primary">LifeSci Prep</span>
-          </div>
+        <div className="p-5 border-b border-border-subtle flex items-center justify-center transition-colors">
+          <BrandLogo size="sm" showText />
         </div>
 
         <div className="flex-1 overflow-y-auto p-6 md:p-8">

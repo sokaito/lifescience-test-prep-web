@@ -225,9 +225,9 @@ export default function ExamYearListClient({
           <div className="flex items-center gap-2 overflow-x-auto pb-1.5 scrollbar-none">
             <button
               onClick={() => setSelectedSection("DIRECTORY")}
-              className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border transition-colors ${
+              className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border tab-click-anim ${
                 effectiveSection === "DIRECTORY"
-                  ? "bg-teal-600 text-white border-teal-600 shadow-sm"
+                  ? "bg-teal-600 text-white border-teal-600 shadow-sm animate-tab-pop"
                   : "bg-bg-card text-text-secondary border-border-subtle hover:text-text-primary hover:border-teal-500/40"
               }`}
             >
@@ -241,9 +241,9 @@ export default function ExamYearListClient({
                 <button
                   key={key || "full-papers"}
                   onClick={() => setSelectedSection(key)}
-                  className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border transition-colors ${
+                  className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border tab-click-anim ${
                     active
-                      ? "bg-teal-600 text-white border-teal-600 shadow-sm"
+                      ? "bg-teal-600 text-white border-teal-600 shadow-sm animate-tab-pop"
                       : "bg-bg-card text-text-secondary border-border-subtle hover:text-text-primary hover:border-teal-500/40"
                   }`}
                 >
@@ -254,9 +254,9 @@ export default function ExamYearListClient({
 
             <button
               onClick={() => setSelectedSection("ALL")}
-              className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border transition-colors ${
+              className={`shrink-0 px-3.5 py-2 rounded-xl text-xs font-semibold border tab-click-anim ${
                 effectiveSection === "ALL"
-                  ? "bg-slate-800 dark:bg-slate-700 text-white border-slate-700"
+                  ? "bg-slate-800 dark:bg-slate-700 text-white border-slate-700 animate-tab-pop"
                   : "bg-bg-card text-text-secondary border-border-subtle hover:text-text-primary"
               }`}
             >
@@ -269,7 +269,7 @@ export default function ExamYearListClient({
       {/* Section Directory Cards (Pick a Subject Section First) */}
       {effectiveSection === "DIRECTORY" && !normalizedQuery && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-          {sectionKeys.map((key) => {
+          {sectionKeys.map((key, idx) => {
             const items = groupedPapers[key] || [];
             const previewTopics = items
               .slice(0, 2)
@@ -279,7 +279,8 @@ export default function ExamYearListClient({
               <button
                 key={key || "full"}
                 onClick={() => setSelectedSection(key)}
-                className="group text-left bg-bg-card hover:border-teal-500/45 border border-border-subtle rounded-2xl p-5 shadow-sm hover:shadow-md transition-all flex flex-col justify-between gap-3"
+                style={{ animationDelay: `${Math.min(idx, 8) * 45}ms` }}
+                className="group text-left bg-bg-card hover:border-teal-500/45 border border-border-subtle rounded-2xl p-5 shadow-sm hover:shadow-xl card-pop animate-pop-in flex flex-col justify-between gap-3"
               >
                 <div className="flex items-start justify-between gap-3">
                   <div className="flex items-center gap-3 min-w-0">
@@ -354,11 +355,12 @@ export default function ExamYearListClient({
                   : "grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4"
               }
             >
-              {groupPapers.map((paper) => (
+              {groupPapers.map((paper, idx) => (
                 <Link
                   key={paper.id}
                   href={`/pyq/${exam}/${paper.id}`}
-                  className="group bg-bg-card hover:border-teal-500/45 border border-border-subtle rounded-2xl p-4 shadow-sm hover:shadow-md transition-all flex items-center justify-between gap-3"
+                  style={{ animationDelay: `${Math.min(idx, 10) * 35}ms` }}
+                  className="group bg-bg-card hover:border-teal-500/45 border border-border-subtle rounded-2xl p-4 shadow-sm hover:shadow-xl card-pop animate-pop-in flex items-center justify-between gap-3"
                 >
                   <div className="flex items-center gap-3 min-w-0">
                     <div className="w-9 h-9 rounded-xl bg-bg-main border border-border-subtle text-teal-600 dark:text-teal-400 flex items-center justify-center shrink-0 group-hover:bg-teal-600 group-hover:text-white group-hover:border-teal-600 transition-colors">

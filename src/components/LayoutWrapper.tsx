@@ -29,7 +29,12 @@ export default function LayoutWrapper({
   useEffect(() => {
     if (user === undefined) return;
 
-    if (user === null && !isGuest && pathname !== "/welcome" && pathname !== "/login") {
+    if (
+      user === null &&
+      !isGuest &&
+      pathname !== "/welcome" &&
+      pathname !== "/login"
+    ) {
       router.push("/welcome");
     } else if (user && pathname === "/welcome") {
       router.push("/");
@@ -121,14 +126,17 @@ export default function LayoutWrapper({
             isInsideTestRunner ? "pb-10" : "pb-24 md:pb-12"
           }`}
         >
-          {children}
+          {/* Keyed wrapper triggers smooth pop-in animation whenever navigating between tabs */}
+          <div key={pathname} className="animate-pop-in">
+            {children}
+          </div>
         </main>
       </div>
 
-      {/* Mobile Bottom Navigation */}
+      {/* Mobile Bottom Navigation with Tab Click Pop Animation */}
       {!isInsideTestRunner && (
         <nav className="md:hidden fixed bottom-0 left-0 right-0 z-30 bg-bg-card/95 backdrop-blur-md border-t border-border-subtle pb-[env(safe-area-inset-bottom)]">
-          <div className="grid grid-cols-4 h-14">
+          <div className="grid grid-cols-4 h-15 py-1">
             {bottomNavItems.map((item) => {
               const active =
                 item.href === "/"
@@ -138,17 +146,25 @@ export default function LayoutWrapper({
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`flex flex-col items-center justify-center gap-0.5 text-[11px] font-medium transition-colors ${
+                  className={`flex flex-col items-center justify-center gap-0.5 text-[11px] font-medium tab-click-anim relative ${
                     active
-                      ? "text-teal-600 dark:text-teal-400 font-semibold"
+                      ? "text-teal-600 dark:text-teal-400 font-semibold animate-tab-pop"
                       : "text-text-secondary hover:text-text-primary"
                   }`}
                 >
-                  <item.icon
-                    className={`w-5 h-5 ${
-                      active ? "stroke-[2.3]" : "stroke-[1.8]"
+                  <div
+                    className={`px-3 py-1 rounded-full transition-all duration-200 ${
+                      active
+                        ? "bg-teal-500/15 scale-105"
+                        : "bg-transparent"
                     }`}
-                  />
+                  >
+                    <item.icon
+                      className={`w-5 h-5 transition-transform duration-200 ${
+                        active ? "stroke-[2.3] -translate-y-0.5" : "stroke-[1.8]"
+                      }`}
+                    />
+                  </div>
                   <span>{item.name}</span>
                 </Link>
               );

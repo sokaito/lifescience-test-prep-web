@@ -12,10 +12,10 @@ import {
   LogOut,
   History,
   Download,
-  BookOpen,
 } from "lucide-react";
 import { useAuth } from "@/lib/AuthContext";
 import { useIsNativeApp } from "@/lib/useIsNativeApp";
+import BrandLogo from "./BrandLogo";
 
 interface SidebarProps {
   isOpen?: boolean;
@@ -54,23 +54,14 @@ export default function Sidebar({
           isOpen ? "translate-x-0" : "-translate-x-full"
         }`}
       >
-        <div className="h-14 md:h-16 px-5 border-b border-border-subtle flex items-center justify-between">
-          <Link
-            href="/"
-            onClick={onClose}
-            className="flex items-center gap-2.5"
-          >
-            <div className="w-8 h-8 rounded-xl bg-teal-600 text-white flex items-center justify-center shadow-sm">
-              <BookOpen className="w-4 h-4" />
-            </div>
-            <span className="text-base font-bold tracking-tight text-text-primary">
-              LifeSci Prep
-            </span>
+        <div className="h-14 md:h-16 px-4 border-b border-border-subtle flex items-center justify-between">
+          <Link href="/" onClick={onClose} className="tab-click-anim">
+            <BrandLogo size="sm" showText />
           </Link>
           <button
             onClick={onClose}
             aria-label="Close sidebar"
-            className="p-1.5 rounded-lg text-text-secondary hover:text-text-primary hover:bg-bg-main"
+            className="p-1.5 rounded-lg text-text-secondary hover:text-text-primary hover:bg-bg-main tab-click-anim"
           >
             <X className="w-4 h-4" />
           </button>
@@ -86,13 +77,17 @@ export default function Sidebar({
                 key={item.href}
                 href={item.href}
                 onClick={onClose}
-                className={`flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm transition-colors ${
+                className={`flex items-center space-x-3 px-3.5 py-2.5 rounded-xl text-sm tab-click-anim ${
                   isActive
-                    ? "bg-teal-600 text-white font-semibold shadow-sm"
+                    ? "bg-teal-600 text-white font-semibold shadow-sm animate-tab-pop"
                     : "text-text-secondary hover:bg-bg-main hover:text-text-primary font-medium"
                 }`}
               >
-                <item.icon className="w-4 h-4 shrink-0" />
+                <item.icon
+                  className={`w-4 h-4 shrink-0 ${
+                    isActive ? "scale-110 transition-transform" : ""
+                  }`}
+                />
                 <span>{item.name}</span>
               </Link>
             );
@@ -107,7 +102,7 @@ export default function Sidebar({
                 window.dispatchEvent(new CustomEvent("open-apk-modal"));
                 onClose?.();
               }}
-              className="w-full p-3 bg-teal-500/8 hover:bg-teal-500/14 border border-teal-500/25 rounded-2xl transition-colors text-left flex items-center gap-3"
+              className="w-full p-3 bg-teal-500/8 hover:bg-teal-500/14 border border-teal-500/25 rounded-2xl card-pop text-left flex items-center gap-3"
             >
               <div className="w-9 h-9 rounded-xl bg-teal-600 text-white flex items-center justify-center shrink-0">
                 <Download className="w-4 h-4" />
@@ -149,7 +144,7 @@ export default function Sidebar({
               }
               onClose?.();
             }}
-            className="w-full flex items-center space-x-2.5 px-3 py-2 rounded-xl text-sm font-medium text-text-secondary hover:text-text-primary hover:bg-bg-main transition-colors"
+            className="w-full flex items-center space-x-2.5 px-3 py-2 rounded-xl text-sm font-medium text-text-secondary hover:text-text-primary hover:bg-bg-main tab-click-anim"
           >
             {user ? (
               <LogOut className="w-4 h-4" />

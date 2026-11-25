@@ -4,7 +4,8 @@ import { useState } from "react";
 import { useAuth } from "@/lib/AuthContext";
 import { getFriendlyAuthError } from "@/lib/authErrors";
 import { useRouter } from "next/navigation";
-import { LayoutDashboard, Chrome } from "lucide-react";
+import { Chrome } from "lucide-react";
+import BrandLogo from "@/components/BrandLogo";
 
 export default function LoginPage() {
   const [isLogin, setIsLogin] = useState(true);
@@ -53,8 +54,8 @@ export default function LoginPage() {
   return (
     <div className="min-h-screen bg-bg-main flex flex-col justify-center items-center py-12 sm:px-6 lg:px-8 transition-colors">
       <div className="sm:mx-auto sm:w-full sm:max-w-md flex flex-col items-center">
-        <div className="w-16 h-16 bg-gradient-to-tr from-teal-400 to-blue-500 rounded-2xl flex items-center justify-center shadow-lg mb-6">
-          <LayoutDashboard className="w-8 h-8 text-white" />
+        <div className="mb-4">
+          <BrandLogo size="lg" showText={false} />
         </div>
         <h2 className="text-center text-3xl font-extrabold text-text-primary">
           {isLogin ? "Sign in to your account" : "Create a new account"}

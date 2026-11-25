@@ -78,7 +78,7 @@ export function DailyMiniQuiz({
   return (
     <div
       onClick={handleClick}
-      className={`w-full bg-bg-card rounded-2xl p-4 sm:p-5 border border-border-subtle shadow-sm hover:shadow-md hover:border-teal-500/35 transition-all cursor-pointer group flex flex-col justify-between ${
+      className={`w-full bg-bg-card rounded-2xl p-4 sm:p-5 border border-border-subtle shadow-sm hover:shadow-xl hover:border-teal-500/40 card-pop cursor-pointer group flex flex-col justify-between ${
         isLocked ? "opacity-75" : ""
       }`}
     >
@@ -194,7 +194,7 @@ export function UnitMockTest({
   return (
     <div
       onClick={handleClick}
-      className={`w-full bg-bg-card rounded-2xl p-4 sm:p-5 border border-border-subtle shadow-sm hover:shadow-md hover:border-amber-500/35 transition-all cursor-pointer group flex flex-col justify-between ${
+      className={`w-full bg-bg-card rounded-2xl p-4 sm:p-5 border border-border-subtle shadow-sm hover:shadow-xl hover:border-amber-500/40 card-pop cursor-pointer group flex flex-col justify-between ${
         isLocked ? "opacity-75" : ""
       }`}
     >
@@ -308,7 +308,7 @@ export function WeeklyRevision({
   return (
     <div
       onClick={handleClick}
-      className={`bg-bg-card rounded-2xl p-5 sm:p-6 border border-border-subtle shadow-sm hover:shadow-md hover:border-blue-500/35 transition-all cursor-pointer flex flex-col justify-between gap-4 ${
+      className={`w-full bg-bg-card rounded-2xl p-5 sm:p-6 border border-border-subtle shadow-sm hover:shadow-xl hover:border-blue-500/40 card-pop cursor-pointer flex flex-col justify-between gap-4 ${
         isLocked ? "opacity-80" : ""
       }`}
     >
@@ -415,7 +415,7 @@ export function FullMockTest({
   return (
     <div
       onClick={handleClick}
-      className="bg-bg-card rounded-2xl p-6 sm:p-8 border border-border-subtle shadow-sm hover:shadow-md transition-all cursor-pointer relative overflow-hidden"
+      className="bg-bg-card rounded-2xl p-6 sm:p-8 border border-border-subtle shadow-sm hover:shadow-xl hover:border-teal-500/35 card-pop cursor-pointer relative overflow-hidden"
     >
       <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
         <div className="space-y-3">

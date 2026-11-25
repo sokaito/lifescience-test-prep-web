@@ -2,19 +2,12 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import {
-  Menu,
-  X,
-  Sun,
-  Moon,
-  User,
-  Download,
-  BookOpen,
-} from "lucide-react";
+import { Menu, X, Sun, Moon, User, Download } from "lucide-react";
 import { useTheme } from "@/lib/ThemeContext";
 import { useAuth } from "@/lib/AuthContext";
 import { useIsNativeApp } from "@/lib/useIsNativeApp";
 import TokenFloatButton from "./TokenFloatButton";
+import BrandLogo from "./BrandLogo";
 
 interface HeaderProps {
   isSidebarOpen: boolean;
@@ -46,12 +39,12 @@ export default function Header({
   return (
     <header className="sticky top-0 z-40 glass pt-[env(safe-area-inset-top)]">
       <div className="max-w-screen-xl mx-auto h-14 md:h-16 px-3 sm:px-6 flex items-center justify-between gap-2">
-        {/* Left: Menu + Brand */}
+        {/* Left: Menu + Custom Brand Logo + Animated Title */}
         <div className="flex items-center gap-2.5 min-w-0">
           <button
             onClick={onToggleSidebar}
             aria-label={isSidebarOpen ? "Close menu" : "Open menu"}
-            className="w-9 h-9 rounded-xl border border-border-subtle bg-bg-card/80 hover:bg-bg-main text-text-primary flex items-center justify-center transition-colors shrink-0"
+            className="w-9 h-9 rounded-xl border border-border-subtle bg-bg-card/80 hover:bg-bg-main text-text-primary flex items-center justify-center tab-click-anim shrink-0"
           >
             {isSidebarOpen ? (
               <X className="w-4 h-4" />
@@ -60,18 +53,11 @@ export default function Header({
             )}
           </button>
 
-          <Link href="/" className="flex items-center gap-2 group min-w-0">
-            <div className="w-8 h-8 rounded-xl bg-teal-600 dark:bg-teal-500 text-white flex items-center justify-center shadow-sm shrink-0">
-              <BookOpen className="w-4 h-4" />
-            </div>
-            <div className="flex items-baseline gap-1.5 truncate">
-              <span className="font-bold text-base md:text-lg tracking-tight text-text-primary truncate">
-                LifeSci Prep
-              </span>
-            </div>
+          <Link href="/" className="min-w-0 tab-click-anim">
+            <BrandLogo size="md" showText />
           </Link>
 
-          {/* Desktop Inline Navigation */}
+          {/* Desktop Inline Navigation with Tab Click & Active Pop Animation */}
           <nav className="hidden lg:flex items-center gap-1 ml-6">
             {desktopLinks.map((item) => {
               const active =
@@ -82,13 +68,16 @@ export default function Header({
                 <Link
                   key={item.href}
                   href={item.href}
-                  className={`px-3 py-1.5 rounded-lg text-sm font-medium transition-colors ${
+                  className={`relative px-3.5 py-2 rounded-xl text-sm font-medium tab-click-anim ${
                     active
-                      ? "bg-teal-500/12 text-teal-700 dark:text-teal-300 font-semibold"
+                      ? "bg-teal-500/12 text-teal-700 dark:text-teal-300 font-semibold animate-tab-pop"
                       : "text-text-secondary hover:text-text-primary hover:bg-bg-main"
                   }`}
                 >
-                  {item.name}
+                  <span>{item.name}</span>
+                  {active && (
+                    <span className="absolute bottom-1 left-3 right-3 h-0.5 rounded-full bg-gradient-to-r from-emerald-400 via-teal-500 to-blue-500 animate-tab-pop" />
+                  )}
                 </Link>
               );
             })}
@@ -103,7 +92,7 @@ export default function Header({
           {isReady && !isNativeApp && (
             <button
               onClick={onOpenApkModal}
-              className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl border border-teal-500/30 bg-teal-500/10 hover:bg-teal-500/15 text-teal-700 dark:text-teal-300 text-xs font-semibold transition-colors"
+              className="flex items-center gap-1.5 px-2.5 sm:px-3 py-1.5 rounded-xl border border-teal-500/30 bg-teal-500/10 hover:bg-teal-500/15 text-teal-700 dark:text-teal-300 text-xs font-semibold tab-click-anim"
               title="Download Android App (APK)"
             >
               <Download className="w-3.5 h-3.5 shrink-0" />
@@ -115,7 +104,7 @@ export default function Header({
           {/* Theme Toggle */}
           <button
             onClick={toggleTheme}
-            className="w-9 h-9 rounded-xl border border-border-subtle bg-bg-card/80 hover:bg-bg-main text-text-secondary hover:text-text-primary flex items-center justify-center transition-colors"
+            className="w-9 h-9 rounded-xl border border-border-subtle bg-bg-card/80 hover:bg-bg-main text-text-secondary hover:text-text-primary flex items-center justify-center tab-click-anim"
             title={`Switch to ${theme === "light" ? "dark" : "light"} mode`}
             aria-label="Toggle color theme"
           >
@@ -129,7 +118,7 @@ export default function Header({
           {/* Account Pill */}
           <button
             onClick={onOpenAuth}
-            className="flex items-center gap-2 pl-1.5 pr-2.5 sm:pr-3 py-1 rounded-xl border border-border-subtle bg-bg-card/90 hover:bg-bg-main text-text-primary transition-colors max-w-[140px] sm:max-w-[180px]"
+            className="flex items-center gap-2 pl-1.5 pr-2.5 sm:pr-3 py-1 rounded-xl border border-border-subtle bg-bg-card/90 hover:bg-bg-main text-text-primary tab-click-anim max-w-[140px] sm:max-w-[180px]"
           >
             {user && userData?.photoURL ? (
               <img

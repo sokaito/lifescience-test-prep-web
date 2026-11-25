@@ -122,8 +122,8 @@ export default function LayoutWrapper({
         />
 
         <main
-          className={`flex-1 w-full max-w-screen-xl mx-auto px-3.5 sm:px-6 lg:px-8 pt-5 md:pt-8 ${
-            isInsideTestRunner ? "pb-10" : "pb-24 md:pb-12"
+          className={`flex-1 w-full max-w-screen-xl mx-auto px-3 sm:px-6 lg:px-8 ${
+            isInsideTestRunner ? "pt-3 md:pt-5 pb-8" : "pt-5 md:pt-8 pb-24 md:pb-12"
           }`}
         >
           {/* Keyed wrapper triggers smooth pop-in animation whenever navigating between tabs */}

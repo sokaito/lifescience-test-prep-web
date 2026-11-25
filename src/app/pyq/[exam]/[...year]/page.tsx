@@ -2,13 +2,31 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import { ArrowLeft, ArrowRight, CheckCircle2, XCircle, ChevronLeft, ChevronRight, Loader2, List, FileText } from "lucide-react";
+import {
+  ArrowLeft,
+  CheckCircle2,
+  XCircle,
+  ChevronLeft,
+  ChevronRight,
+  Loader2,
+  FileText,
+  RotateCcw,
+  Eye,
+  PanelRightClose,
+  PanelRightOpen,
+  LayoutGrid,
+  X,
+} from "lucide-react";
 import { useParams, useRouter } from "next/navigation";
 import MatchFollowingMCQ from "@/components/MatchFollowingMCQ";
 import TableMCQ from "@/components/TableMCQ";
 import ReportIssueButton from "@/components/ReportIssueButton";
 import StructuredExplanation from "@/components/StructuredExplanation";
-import { shuffleArray, compareAnswers, parseColumnMatchQuestion } from "@/lib/utils";
+import {
+  shuffleArray,
+  compareAnswers,
+  parseColumnMatchQuestion,
+} from "@/lib/utils";
 
 interface PYQQuestion {
   id: number;
@@ -31,20 +49,20 @@ interface PYQQuestion {
 const getSectionLabel = (sec: string, exam: string) => {
   if (exam === "gate") {
     const map: Record<string, string> = {
-      "A": "Sec A: GA",
-      "B": "Sec B: Chemistry",
-      "C": "Sec C: Biochemistry",
-      "D": "Sec D: Botany",
-      "E": "Sec E: Microbiology",
-      "F": "Sec F: Zoology",
-      "G": "Sec G: Food Tech",
-      "GA": "GA: Aptitude",
+      A: "Sec A: GA",
+      B: "Sec B: Chemistry",
+      C: "Sec C: Biochemistry",
+      D: "Sec D: Botany",
+      E: "Sec E: Microbiology",
+      F: "Sec F: Zoology",
+      G: "Sec G: Food Tech",
+      GA: "GA: Aptitude",
       "XL-P": "XL-P: Chemistry",
       "XL-Q": "XL-Q: Biochem",
       "XL-R": "XL-R: Botany",
       "XL-S": "XL-S: Microbio",
       "XL-T": "XL-T: Zoology",
-      "XL-U": "XL-U: Food Tech"
+      "XL-U": "XL-U: Food Tech",
     };
     return map[sec] || (sec.startsWith("Section") ? sec : `Section ${sec}`);
   }
@@ -54,20 +72,20 @@ const getSectionLabel = (sec: string, exam: string) => {
 const getSectionFullName = (sec: string, exam: string) => {
   if (exam === "gate") {
     const map: Record<string, string> = {
-      "A": "Section A: General Aptitude (GA)",
-      "B": "Section B: Chemistry (XL-P)",
-      "C": "Section C: Biochemistry (XL-Q)",
-      "D": "Section D: Botany (XL-R)",
-      "E": "Section E: Microbiology (XL-S)",
-      "F": "Section F: Zoology (XL-T)",
-      "G": "Section G: Food Technology (XL-U)",
-      "GA": "Section A: General Aptitude (GA)",
+      A: "Section A: General Aptitude (GA)",
+      B: "Section B: Chemistry (XL-P)",
+      C: "Section C: Biochemistry (XL-Q)",
+      D: "Section D: Botany (XL-R)",
+      E: "Section E: Microbiology (XL-S)",
+      F: "Section F: Zoology (XL-T)",
+      G: "Section G: Food Technology (XL-U)",
+      GA: "Section A: General Aptitude (GA)",
       "XL-P": "Section B: Chemistry (XL-P)",
       "XL-Q": "Section C: Biochemistry (XL-Q)",
       "XL-R": "Section D: Botany (XL-R)",
       "XL-S": "Section E: Microbiology (XL-S)",
       "XL-T": "Section F: Zoology (XL-T)",
-      "XL-U": "Section G: Food Technology (XL-U)"
+      "XL-U": "Section G: Food Technology (XL-U)",
     };
     return map[sec] || (sec.startsWith("Section") ? sec : `Section ${sec}`);
   }
@@ -75,36 +93,50 @@ const getSectionFullName = (sec: string, exam: string) => {
 };
 
 const formatYearName = (y: string) => {
-  const lastPart = y.split('/').pop() || y;
+  const lastPart = y.split("/").pop() || y;
   return lastPart
-    .split('_')
-    .map(part => {
+    .replace(/and([A-Z])/g, "and $1")
+    .split("_")
+    .map((part) => {
       const match = part.match(/^shift(\d+)$/i);
-      if (match) {
-        return `Shift ${match[1]}`;
-      }
+      if (match) return `Shift ${match[1]}`;
       return part.charAt(0).toUpperCase() + part.slice(1);
     })
-    .join(' ');
+    .join(" ");
+};
+
+const formatExamTitle = (exam: string) => {
+  const names: Record<string, string> = {
+    csir_net: "CSIR NET",
+    dbt_bet: "DBT BET",
+    gate: "GATE XL",
+    icmr_jrf: "ICMR JRF",
+  };
+  return names[exam] || exam.replace("_", " ").toUpperCase();
 };
 
 export default function PYQTestEngine() {
   const params = useParams();
   const router = useRouter();
   const exam = params.exam as string;
-  
+
   const yearParam = params.year;
-  const yearArray = Array.isArray(yearParam) ? yearParam : (yearParam ? [yearParam] : []);
-  const year = yearArray.map(p => decodeURIComponent(p)).join('/');
+  const yearArray = Array.isArray(yearParam)
+    ? yearParam
+    : yearParam
+    ? [yearParam]
+    : [];
+  const year = yearArray.map((p) => decodeURIComponent(p)).join("/");
 
   const [questions, setQuestions] = useState<PYQQuestion[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  
+
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedOptions, setSelectedOptions] = useState<Record<number, string>>({});
   const [showExplanation, setShowExplanation] = useState<Record<number, boolean>>({});
-  const [showJumpGrid, setShowJumpGrid] = useState(false);
+  const [isPaletteCollapsed, setIsPaletteCollapsed] = useState(false);
+  const [isMobilePaletteOpen, setIsMobilePaletteOpen] = useState(false);
 
   const [activeSection, setActiveSection] = useState<string>("");
   const [sections, setSections] = useState<string[]>([]);
@@ -117,33 +149,34 @@ export default function PYQTestEngine() {
         const res = await fetch(`/repository/pyq/${exam}/${year}.json`);
         if (!res.ok) throw new Error("Failed to load paper");
         const data = await res.json();
-        
-        // Only shuffle options if they are not already fixed letter choices (A/B/C/D)
-        const hasLetterPrefixes = data.some((q: PYQQuestion) => 
-          (q.options || []).some(o => /^\([A-D1-4]\)/i.test(o.trim()))
+
+        const hasLetterPrefixes = data.some((q: PYQQuestion) =>
+          (q.options || []).some((o) => /^\([A-D1-4]\)/i.test(o.trim()))
         );
-        const shouldShuffle = exam !== 'gate' && !hasLetterPrefixes;
+        const shouldShuffle = exam !== "gate" && !hasLetterPrefixes;
         const shuffledQuestions = data.map((q: PYQQuestion) => ({
           ...q,
-          options: shouldShuffle ? shuffleArray(q.options || []) : (q.options || [])
+          options: shouldShuffle
+            ? shuffleArray(q.options || [])
+            : q.options || [],
         }));
-        
+
         setQuestions(shuffledQuestions);
 
-        // Identify available sections
         const sectionsInQuestions = Array.from(
           new Set(shuffledQuestions.map((q: any) => q.section).filter(Boolean))
         ) as string[];
-        
+
         const isCsirNet = exam === "csir_net";
-        const finalSections = isCsirNet ? ["A", "B", "C"] : sectionsInQuestions.sort();
+        const finalSections = isCsirNet
+          ? ["A", "B", "C"]
+          : sectionsInQuestions.sort();
         setSections(finalSections);
-        
+
         const defaultSection = finalSections.length > 0 ? finalSections[0] : "";
         let restoredSection = defaultSection;
         let restoredIndex = 0;
-        
-        // Restore progress
+
         const savedProgress = localStorage.getItem(storageKey);
         if (savedProgress) {
           try {
@@ -151,22 +184,26 @@ export default function PYQTestEngine() {
             if (parsed.activeSection !== undefined) {
               restoredSection = parsed.activeSection;
               restoredIndex = parsed.lastIndex || 0;
-            } else if (parsed.lastIndex !== undefined && parsed.lastIndex < shuffledQuestions.length) {
+            } else if (
+              parsed.lastIndex !== undefined &&
+              parsed.lastIndex < shuffledQuestions.length
+            ) {
               const q = shuffledQuestions[parsed.lastIndex];
               if (q) {
                 restoredSection = q.section || defaultSection;
                 const secQuestions = shuffledQuestions.filter(
                   (item: any) => (item.section || defaultSection) === restoredSection
                 );
-                const idx = secQuestions.findIndex((item: any) => item.id === q.id);
+                const idx = secQuestions.findIndex(
+                  (item: any) => item.id === q.id
+                );
                 restoredIndex = idx !== -1 ? idx : 0;
               }
             }
             if (parsed.answers) {
               setSelectedOptions(parsed.answers);
-              // Auto show explanation for already answered
               const explanations: Record<number, boolean> = {};
-              Object.keys(parsed.answers).forEach(k => {
+              Object.keys(parsed.answers).forEach((k) => {
                 explanations[parseInt(k)] = true;
               });
               setShowExplanation(explanations);
@@ -175,7 +212,7 @@ export default function PYQTestEngine() {
             console.error("Error parsing saved progress:", e);
           }
         }
-        
+
         setActiveSection(restoredSection);
         setCurrentIndex(restoredIndex);
       } catch (err: any) {
@@ -187,34 +224,45 @@ export default function PYQTestEngine() {
     loadData();
   }, [exam, year, storageKey]);
 
-  // Persist progress when index, activeSection, or answers change
   useEffect(() => {
     if (questions.length > 0) {
-      localStorage.setItem(storageKey, JSON.stringify({
-        activeSection,
-        lastIndex: currentIndex,
-        answers: selectedOptions
-      }));
+      localStorage.setItem(
+        storageKey,
+        JSON.stringify({
+          activeSection,
+          lastIndex: currentIndex,
+          answers: selectedOptions,
+        })
+      );
     }
   }, [currentIndex, activeSection, selectedOptions, questions.length, storageKey]);
 
   if (loading) {
     return (
       <div className="min-h-[60vh] flex flex-col items-center justify-center">
-        <Loader2 className="w-10 h-10 text-accent-main animate-spin mb-4" />
-        <p className="text-text-secondary font-bold uppercase tracking-widest text-sm">Loading Paper...</p>
+        <Loader2 className="w-9 h-9 text-teal-600 animate-spin mb-3" />
+        <p className="text-text-secondary font-medium text-sm">
+          Loading Paper...
+        </p>
       </div>
     );
   }
 
   if (error || questions.length === 0) {
     return (
-      <div className="max-w-screen-xl mx-auto px-4 py-12 text-center">
-        <div className="bg-bg-card p-12 rounded-[2rem] border border-border-subtle shadow-sm max-w-2xl mx-auto">
-          <XCircle className="w-16 h-16 text-rose-500 mx-auto mb-4" />
-          <h2 className="text-2xl font-black text-text-primary uppercase tracking-tight mb-2">Paper Not Found</h2>
-          <p className="text-text-secondary mb-8">{error || "This paper has no questions."}</p>
-          <button onClick={() => router.back()} className="px-8 py-3 bg-bg-main text-text-primary rounded-xl font-bold uppercase tracking-widest border border-border-subtle hover:bg-bg-card transition-all">
+      <div className="max-w-xl mx-auto px-4 py-12 text-center">
+        <div className="bg-bg-card p-8 rounded-2xl border border-border-subtle shadow-sm">
+          <XCircle className="w-12 h-12 text-rose-500 mx-auto mb-3" />
+          <h2 className="text-xl font-bold text-text-primary mb-1">
+            Paper Not Found
+          </h2>
+          <p className="text-sm text-text-secondary mb-6">
+            {error || "This paper has no questions."}
+          </p>
+          <button
+            onClick={() => router.back()}
+            className="px-6 py-2.5 bg-teal-600 text-white rounded-xl text-sm font-semibold tab-click-anim"
+          >
             Go Back
           </button>
         </div>
@@ -222,31 +270,53 @@ export default function PYQTestEngine() {
     );
   }
 
-  const filteredQuestions = sections.length > 0
-    ? questions.filter(q => (q.section || "A") === activeSection)
-    : questions;
+  const filteredQuestions =
+    sections.length > 0
+      ? questions.filter((q) => (q.section || "A") === activeSection)
+      : questions;
 
   const question = filteredQuestions[currentIndex];
-  const isAnswered = question ? showExplanation[question.id] : false;
+  const isAnswered = question ? Boolean(showExplanation[question.id]) : false;
   const userChoice = question ? selectedOptions[question.id] : undefined;
-  const isCorrect = question ? compareAnswers(userChoice, question.correct_answer) : false;
+  const isCorrect =
+    question && userChoice !== undefined
+      ? compareAnswers(userChoice, question.correct_answer)
+      : false;
 
   const handleOptionSelect = (option: string) => {
-    if (!question || isAnswered) return; // Prevent changing answer
-    
-    setSelectedOptions(prev => ({ ...prev, [question.id]: option }));
-    setShowExplanation(prev => ({ ...prev, [question.id]: true }));
+    if (!question || isAnswered) return;
+    setSelectedOptions((prev) => ({ ...prev, [question.id]: option }));
+    setShowExplanation((prev) => ({ ...prev, [question.id]: true }));
+  };
+
+  const handleReattemptQuestion = () => {
+    if (!question) return;
+    setSelectedOptions((prev) => {
+      const next = { ...prev };
+      delete next[question.id];
+      return next;
+    });
+    setShowExplanation((prev) => {
+      const next = { ...prev };
+      delete next[question.id];
+      return next;
+    });
+  };
+
+  const handleRevealSolution = () => {
+    if (!question) return;
+    setShowExplanation((prev) => ({ ...prev, [question.id]: true }));
   };
 
   const goNext = () => {
     if (currentIndex < filteredQuestions.length - 1) {
-      setCurrentIndex(prev => prev + 1);
+      setCurrentIndex((prev) => prev + 1);
     }
   };
 
   const goBack = () => {
     if (currentIndex > 0) {
-      setCurrentIndex(prev => prev - 1);
+      setCurrentIndex((prev) => prev - 1);
     }
   };
 
@@ -255,41 +325,165 @@ export default function PYQTestEngine() {
     setCurrentIndex(0);
   };
 
+  // Compute palette stats for current filtered questions
+  let correctCount = 0;
+  let incorrectCount = 0;
+  let unattemptedCount = 0;
+  filteredQuestions.forEach((item) => {
+    if (showExplanation[item.id] && selectedOptions[item.id] !== undefined) {
+      if (compareAnswers(selectedOptions[item.id], item.correct_answer)) {
+        correctCount++;
+      } else {
+        incorrectCount++;
+      }
+    } else {
+      unattemptedCount++;
+    }
+  });
+
+  const PaletteBody = ({ onPick }: { onPick?: () => void }) => (
+    <div className="flex flex-col h-full">
+      <div className="grid grid-cols-3 gap-2 p-3.5 bg-bg-main/60 border-b border-border-subtle text-[11px]">
+        <div className="flex items-center gap-1.5">
+          <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 shrink-0" />
+          <span className="text-text-secondary truncate">
+            Correct ({correctCount})
+          </span>
+        </div>
+        <div className="flex items-center gap-1.5">
+          <span className="w-2.5 h-2.5 rounded-full bg-rose-500 shrink-0" />
+          <span className="text-text-secondary truncate">
+            Wrong ({incorrectCount})
+          </span>
+        </div>
+        <div className="flex items-center gap-1.5">
+          <span className="w-2.5 h-2.5 rounded-full bg-slate-300 dark:bg-slate-600 shrink-0" />
+          <span className="text-text-secondary truncate">
+            Left ({unattemptedCount})
+          </span>
+        </div>
+      </div>
+
+      <div className="p-4 flex-1 overflow-y-auto max-h-[380px] lg:max-h-[460px]">
+        <div className="text-xs font-semibold text-text-secondary mb-3 flex items-center justify-between">
+          <span>Question Palette</span>
+          <span>
+            {filteredQuestions.length > 0 ? currentIndex + 1 : 0} /{" "}
+            {filteredQuestions.length}
+          </span>
+        </div>
+        <div className="grid grid-cols-5 gap-2">
+          {filteredQuestions.map((qItem, idx) => {
+            const isCurrent = idx === currentIndex;
+            const answered = Boolean(showExplanation[qItem.id]);
+            const choice = selectedOptions[qItem.id];
+            const right =
+              choice !== undefined &&
+              compareAnswers(choice, qItem.correct_answer);
+
+            let stateClasses =
+              "bg-bg-main border-border-subtle text-text-secondary hover:border-teal-500/50 hover:text-text-primary";
+            if (answered && choice !== undefined) {
+              stateClasses = right
+                ? "bg-emerald-500 text-white border-emerald-500"
+                : "bg-rose-500 text-white border-rose-500";
+            } else if (answered) {
+              stateClasses =
+                "bg-blue-500/15 text-blue-600 dark:text-blue-300 border-blue-500/40";
+            }
+
+            return (
+              <button
+                key={qItem.id}
+                onClick={() => {
+                  setCurrentIndex(idx);
+                  onPick?.();
+                }}
+                className={`h-9 rounded-lg border text-xs font-semibold tab-click-anim ${stateClasses} ${
+                  isCurrent
+                    ? "ring-2 ring-teal-500 ring-offset-2 ring-offset-bg-card"
+                    : ""
+                }`}
+              >
+                {idx + 1}
+              </button>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+
   return (
-    <div className="max-w-4xl mx-auto px-4 py-8 md:py-12 space-y-6">
-      {/* Header */}
-      <div className="flex items-center justify-between bg-bg-card p-4 rounded-2xl border border-border-subtle shadow-sm">
-        <div className="flex items-center space-x-3">
-          <Link href={`/pyq/${exam}`} className="p-2 bg-bg-main rounded-full hover:bg-slate-200 dark:hover:bg-slate-800 transition-colors">
-            <ArrowLeft className="w-5 h-5 text-text-secondary" />
+    <div className="w-full space-y-3.5">
+      {/* Top Paper Header */}
+      <div className="bg-bg-card border border-border-subtle rounded-2xl px-4 py-3 shadow-sm flex flex-wrap items-center justify-between gap-3">
+        <div className="flex items-center gap-2.5 min-w-0">
+          <Link
+            href={`/pyq/${exam}`}
+            className="p-2 bg-bg-main hover:bg-bg-card border border-border-subtle rounded-xl text-text-secondary hover:text-text-primary tab-click-anim shrink-0"
+            title="Back to exam list"
+          >
+            <ArrowLeft className="w-4 h-4" />
           </Link>
-          <div>
-            <h1 className="text-sm md:text-base font-black text-text-primary uppercase tracking-widest">
-              {exam.replace('_', ' ')} <span className="text-accent-main">{formatYearName(year)}</span>
+          <div className="min-w-0">
+            <h1 className="text-sm sm:text-base font-bold text-text-primary truncate">
+              {formatExamTitle(exam)} •{" "}
+              <span className="text-teal-600 dark:text-teal-400">
+                {formatYearName(year)}
+              </span>
             </h1>
-            <p className="text-[10px] text-text-secondary font-bold uppercase tracking-widest">
-              {sections.length > 0 ? `${getSectionFullName(activeSection, exam)} • ` : ''}Question {filteredQuestions.length > 0 ? currentIndex + 1 : 0} of {filteredQuestions.length}
+            <p className="text-xs text-text-secondary truncate">
+              {sections.length > 0
+                ? `${getSectionFullName(activeSection, exam)} • `
+                : ""}
+              Question {filteredQuestions.length > 0 ? currentIndex + 1 : 0} of{" "}
+              {filteredQuestions.length}
             </p>
           </div>
         </div>
-        
-        <div className="flex items-center space-x-2">
-          <button 
-            onClick={() => setShowJumpGrid(!showJumpGrid)}
-            className={`p-2 rounded-xl border transition-all ${showJumpGrid ? 'bg-accent-main text-white border-accent-main' : 'bg-bg-main text-text-secondary border-border-subtle hover:bg-slate-100 dark:hover:bg-slate-800'}`}
-            title="Jump to question"
+
+        <div className="flex items-center gap-2 shrink-0">
+          {/* Mobile Palette Drawer Trigger */}
+          <button
+            onClick={() => setIsMobilePaletteOpen(true)}
             disabled={filteredQuestions.length === 0}
+            className="lg:hidden inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-border-subtle bg-bg-main text-text-primary text-xs font-semibold tab-click-anim disabled:opacity-50"
           >
-            <List className="w-5 h-5" />
+            <LayoutGrid className="w-4 h-4 text-teal-600" />
+            <span>
+              {filteredQuestions.length > 0 ? currentIndex + 1 : 0}/
+              {filteredQuestions.length}
+            </span>
           </button>
-          <button 
+
+          {/* Desktop Collapse Palette Toggle */}
+          <button
+            onClick={() => setIsPaletteCollapsed(!isPaletteCollapsed)}
+            disabled={filteredQuestions.length === 0}
+            className="hidden lg:inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl border border-border-subtle bg-bg-main hover:bg-bg-card text-text-secondary hover:text-text-primary text-xs font-medium tab-click-anim disabled:opacity-50"
+          >
+            {isPaletteCollapsed ? (
+              <>
+                <PanelRightOpen className="w-4 h-4 text-teal-600" />
+                <span>Palette</span>
+              </>
+            ) : (
+              <>
+                <PanelRightClose className="w-4 h-4" />
+                <span>Hide Palette</span>
+              </>
+            )}
+          </button>
+
+          <button
             onClick={() => {
               if (confirm("Reset all progress for this paper?")) {
                 localStorage.removeItem(storageKey);
                 window.location.reload();
               }
             }}
-            className="px-3 py-1.5 text-[10px] font-bold text-rose-500 bg-rose-50 dark:bg-rose-900/20 rounded-lg uppercase tracking-widest hover:bg-rose-100 dark:hover:bg-rose-900/40 transition-colors"
+            className="px-3 py-1.5 text-xs font-semibold text-rose-600 dark:text-rose-400 bg-rose-500/10 hover:bg-rose-500/15 rounded-xl tab-click-anim"
           >
             Reset
           </button>
@@ -298,16 +492,16 @@ export default function PYQTestEngine() {
 
       {/* Section Tabs */}
       {sections.length > 0 && (
-        <div className="flex space-x-2 p-1.5 bg-bg-card rounded-2xl border border-border-subtle shadow-sm max-w-full overflow-x-auto scrollbar-none">
+        <div className="flex items-center gap-1.5 p-1.5 bg-bg-card rounded-2xl border border-border-subtle shadow-sm max-w-full overflow-x-auto scrollbar-none">
           {sections.map((sec) => {
             const isActive = sec === activeSection;
             return (
               <button
                 key={sec}
                 onClick={() => handleSectionChange(sec)}
-                className={`whitespace-nowrap py-2.5 px-4 rounded-xl font-black text-xs uppercase tracking-widest transition-all shrink-0 ${
+                className={`whitespace-nowrap py-2 px-3.5 rounded-xl font-semibold text-xs tab-click-anim shrink-0 ${
                   isActive
-                    ? "bg-accent-main text-white shadow-md"
+                    ? "bg-teal-600 text-white shadow-sm animate-tab-pop"
                     : "text-text-secondary hover:text-text-primary hover:bg-bg-main"
                 }`}
               >
@@ -320,301 +514,371 @@ export default function PYQTestEngine() {
 
       {/* Progress Bar */}
       {filteredQuestions.length > 0 && (
-        <div className="space-y-2">
-          <div className="w-full bg-bg-card border border-border-subtle h-2 rounded-full overflow-hidden">
-            <div 
-              className="h-full bg-accent-main transition-all duration-300" 
-              style={{ width: `${((currentIndex + 1) / filteredQuestions.length) * 100}%` }}
-            />
-          </div>
-          
-          {/* Jump Grid Section */}
-          {showJumpGrid && (
-            <div className="bg-bg-card border border-border-subtle rounded-2xl p-6 shadow-xl animate-in fade-in zoom-in-95 duration-200">
-              <div className="flex items-center justify-between mb-4 border-b border-border-subtle pb-3">
-                <h3 className="font-black text-text-primary uppercase tracking-tight text-sm">Question Navigator</h3>
-                <div className="flex items-center space-x-4 text-[10px] font-bold uppercase tracking-widest">
-                  <div className="flex items-center space-x-1">
-                    <div className="w-2 h-2 rounded-full bg-emerald-500"></div>
-                    <span>Correct</span>
-                  </div>
-                  <div className="flex items-center space-x-1">
-                    <div className="w-2 h-2 rounded-full bg-rose-500"></div>
-                    <span>Wrong</span>
-                  </div>
-                  <div className="flex items-center space-x-1">
-                    <div className="w-2 h-2 rounded-full bg-accent-main"></div>
-                    <span>Current</span>
-                  </div>
-                </div>
-              </div>
-              <div className="grid grid-cols-5 sm:grid-cols-8 md:grid-cols-10 gap-2 max-h-[300px] overflow-y-auto pr-2 custom-scrollbar">
-                {filteredQuestions.map((q, idx) => {
-                  const isCurrent = idx === currentIndex;
-                  const isAnswered = showExplanation[q.id];
-                  const userChoice = selectedOptions[q.id];
-                  const isCorrect = compareAnswers(userChoice, q.correct_answer);
-
-                  let stateClasses = "bg-bg-main border-border-subtle text-text-secondary hover:border-accent-main";
-                  if (isCurrent) stateClasses = "bg-accent-main text-white border-accent-main shadow-md ring-2 ring-accent-main ring-offset-2 dark:ring-offset-bg-main";
-                  else if (isAnswered) {
-                    stateClasses = isCorrect 
-                      ? "bg-emerald-500 text-white border-emerald-500" 
-                      : "bg-rose-500 text-white border-rose-500";
-                  }
-
-                  return (
-                    <button
-                      key={q.id}
-                      onClick={() => {
-                        setCurrentIndex(idx);
-                        setShowJumpGrid(false);
-                      }}
-                      className={`aspect-square flex items-center justify-center rounded-lg border text-xs font-black transition-all ${stateClasses}`}
-                    >
-                      {idx + 1}
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
-          )}
+        <div className="w-full bg-bg-card border border-border-subtle h-1 rounded-full overflow-hidden">
+          <div
+            className="h-full bg-teal-600 transition-all duration-300"
+            style={{
+              width: `${((currentIndex + 1) / filteredQuestions.length) * 100}%`,
+            }}
+          />
         </div>
       )}
 
-      {/* Main Content Area */}
+      {/* Main Split Workspace */}
       {filteredQuestions.length === 0 ? (
-        <div className="bg-bg-card p-12 rounded-[2rem] border border-border-subtle text-center shadow-sm">
-          <FileText className="w-16 h-16 text-slate-300 mx-auto mb-4 animate-pulse" />
-          <h3 className="text-xl font-black text-text-primary uppercase tracking-tight mb-2">No Questions Available</h3>
-          <p className="text-text-secondary font-medium">
-            We are currently adding questions for Section {activeSection}. Check back soon!
+        <div className="bg-bg-card p-12 rounded-2xl border border-border-subtle text-center shadow-sm">
+          <FileText className="w-12 h-12 text-text-secondary/40 mx-auto mb-3" />
+          <h3 className="text-lg font-bold text-text-primary mb-1">
+            No Questions Available
+          </h3>
+          <p className="text-sm text-text-secondary">
+            No questions were found in Section {activeSection}.
           </p>
         </div>
       ) : (
-        <>
-          {/* Question Card */}
-          <div className="bg-bg-card rounded-[2rem] border border-border-subtle shadow-lg overflow-hidden">
-            <div className="p-6 md:p-8 border-b border-border-subtle bg-bg-main/50">
-              {(() => {
-                const parsedColumnMatch = parseColumnMatchQuestion(question.question);
-                return (
-                  <div>
-                    <div className="flex items-center gap-2 mb-3">
-                      <span className="text-[10px] font-black uppercase tracking-wider px-2.5 py-0.5 rounded-full bg-accent-main/10 text-accent-main border border-accent-main/20">
-                        {question.marks || 1} {(question.marks || 1) === 1 ? 'Mark' : 'Marks'}
-                      </span>
-                      {question.negative_marks !== undefined && (
-                        <span className="text-[10px] font-bold text-text-secondary">
-                          Negative: {question.negative_marks === 0 ? 'No Negative' : `-${question.negative_marks}`}
-                        </span>
-                      )}
-                      {question.type && (
-                        <span className="text-[10px] font-bold uppercase tracking-wider px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 text-text-secondary border border-border-subtle">
-                          {question.type}
-                        </span>
-                      )}
-                    </div>
-                    <div className="flex items-start space-x-4">
-                      <div className="shrink-0 w-10 h-10 bg-accent-main text-white rounded-full flex items-center justify-center font-black text-lg shadow-inner">
-                        {question.id}
-                      </div>
-                      <div 
-                        className="text-lg md:text-xl font-bold text-text-primary leading-relaxed mt-1 w-full whitespace-pre-line"
-                        dangerouslySetInnerHTML={{ __html: parsedColumnMatch ? parsedColumnMatch.preamble : question.question }}
-                      />
-                    </div>
-                  </div>
-                );
-              })()}
+        <div className="flex flex-col lg:flex-row gap-4 lg:gap-5 items-start">
+          {/* Left: Spacious Question & Options Pane */}
+          <div className="flex-1 w-full min-w-0 bg-bg-card rounded-2xl border border-border-subtle shadow-sm overflow-hidden flex flex-col">
+            {/* Meta Strip */}
+            <div className="px-5 sm:px-7 py-3 border-b border-border-subtle bg-bg-main/40 flex flex-wrap items-center justify-between gap-2">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-sm font-bold text-text-primary">
+                  Question No. {question.id}
+                </span>
+                <span className="text-[11px] font-semibold px-2.5 py-0.5 rounded-full bg-teal-500/10 text-teal-700 dark:text-teal-300">
+                  {question.marks || 1}{" "}
+                  {(question.marks || 1) === 1 ? "Mark" : "Marks"}
+                </span>
+                {question.negative_marks !== undefined && (
+                  <span className="text-[11px] font-medium text-text-secondary">
+                    {question.negative_marks === 0
+                      ? "No Negative"
+                      : `Negative -${question.negative_marks}`}
+                  </span>
+                )}
+                {question.type && (
+                  <span className="text-[11px] font-medium px-2 py-0.5 rounded-full bg-bg-main text-text-secondary border border-border-subtle">
+                    {question.type}
+                  </span>
+                )}
+                {isAnswered && userChoice !== undefined && (
+                  <span
+                    className={`text-[11px] font-semibold px-2.5 py-0.5 rounded-full ${
+                      isCorrect
+                        ? "bg-emerald-500/12 text-emerald-700 dark:text-emerald-300"
+                        : "bg-rose-500/12 text-rose-700 dark:text-rose-300"
+                    }`}
+                  >
+                    {isCorrect ? "Correct" : "Incorrect"}
+                  </span>
+                )}
+              </div>
+
+              <ReportIssueButton
+                questionId={`${exam}_${year}_${question.id}`}
+                questionNumber={currentIndex + 1}
+                examName={exam}
+                year={year}
+                questionText={question.question}
+                correctAnswer={question.correct_answer}
+                sourceType="pyq"
+              />
             </div>
 
-            <div className="p-6 md:p-8 space-y-4">
+            {/* Spacious Reading Body */}
+            <div
+              key={`${activeSection}-${question.id}`}
+              className="p-5 sm:p-7 lg:px-9 lg:py-8 space-y-6 animate-pop-in"
+            >
               {(() => {
-                const parsedColumnMatch = parseColumnMatchQuestion(question.question);
-                if ((question as any).type === "match_following_mcq") {
-                  return (
-                    <MatchFollowingMCQ
-                      question={{
-                        ...question,
-                        id: question.id.toString(),
-                        correctAnswer: question.correct_answer
-                      } as any}
-                      selectedOption={userChoice}
-                      onSelectOption={handleOptionSelect}
-                      disabled={isAnswered}
-                      isReview={isAnswered}
-                      correctAnswer={question.correct_answer}
+                const parsedColumnMatch = parseColumnMatchQuestion(
+                  question.question
+                );
+                const questionHtml = parsedColumnMatch
+                  ? parsedColumnMatch.preamble
+                  : question.question;
+                const optionLetters = ["A", "B", "C", "D", "E", "F"];
+
+                return (
+                  <>
+                    <div
+                      className="text-[15px] sm:text-[17px] font-medium text-text-primary leading-[1.75] max-w-3xl whitespace-pre-line break-words"
+                      dangerouslySetInnerHTML={{ __html: questionHtml }}
                     />
-                  );
-                }
-                if (parsedColumnMatch) {
-                  return (
-                    <MatchFollowingMCQ
-                      question={{
-                        ...question,
-                        id: question.id.toString(),
-                        list_1: parsedColumnMatch.list_1,
-                        list_2: parsedColumnMatch.list_2,
-                        correctAnswer: question.correct_answer
-                      } as any}
-                      selectedOption={userChoice}
-                      onSelectOption={handleOptionSelect}
-                      disabled={isAnswered}
-                      isReview={isAnswered}
-                      correctAnswer={question.correct_answer}
-                      col1Header={parsedColumnMatch.col1Header || "List I"}
-                      col2Header={parsedColumnMatch.col2Header || "List II"}
-                    />
-                  );
-                }
-                if ((question as any).type === "table_mcq") {
-                  return (
-                    <TableMCQ
-                      question={{
-                        ...question,
-                        id: question.id.toString(),
-                      } as any}
-                      selectedOption={userChoice}
-                      onSelectOption={handleOptionSelect}
-                      disabled={isAnswered}
-                      isReview={isAnswered}
-                      correctAnswer={question.correct_answer}
-                    />
-                  );
-                }
-                if (!question.options || question.options.length === 0) {
-                  return (
-                    <div className="space-y-4">
-                      <div className="p-1.5 rounded-2xl border-2 border-border-subtle bg-bg-main focus-within:border-accent-main transition-all shadow-sm">
+
+                    {question.type === "match_following_mcq" ? (
+                      <MatchFollowingMCQ
+                        question={{
+                          ...question,
+                          id: question.id.toString(),
+                          correctAnswer: question.correct_answer,
+                        } as any}
+                        selectedOption={userChoice}
+                        onSelectOption={handleOptionSelect}
+                        disabled={isAnswered}
+                        isReview={isAnswered}
+                        correctAnswer={question.correct_answer}
+                      />
+                    ) : parsedColumnMatch ? (
+                      <MatchFollowingMCQ
+                        question={{
+                          ...question,
+                          id: question.id.toString(),
+                          list_1: parsedColumnMatch.list_1,
+                          list_2: parsedColumnMatch.list_2,
+                          correctAnswer: question.correct_answer,
+                        } as any}
+                        selectedOption={userChoice}
+                        onSelectOption={handleOptionSelect}
+                        disabled={isAnswered}
+                        isReview={isAnswered}
+                        correctAnswer={question.correct_answer}
+                        col1Header={parsedColumnMatch.col1Header || "List I"}
+                        col2Header={parsedColumnMatch.col2Header || "List II"}
+                      />
+                    ) : (question as any).type === "table_mcq" ? (
+                      <TableMCQ
+                        question={{
+                          ...question,
+                          id: question.id.toString(),
+                        } as any}
+                        selectedOption={userChoice}
+                        onSelectOption={handleOptionSelect}
+                        disabled={isAnswered}
+                        isReview={isAnswered}
+                        correctAnswer={question.correct_answer}
+                      />
+                    ) : !question.options || question.options.length === 0 ? (
+                      <div className="space-y-3 max-w-xl">
                         <input
                           type="text"
                           value={selectedOptions[question.id] || ""}
                           disabled={isAnswered}
                           onChange={(e) => {
                             if (!isAnswered) {
-                              setSelectedOptions(prev => ({ ...prev, [question.id]: e.target.value }));
+                              setSelectedOptions((prev) => ({
+                                ...prev,
+                                [question.id]: e.target.value,
+                              }));
                             }
                           }}
-                          placeholder={question.correct_answer === "*" ? "Type your descriptive answer / notes here..." : "Type your numeric answer here..."}
-                          className="w-full px-5 py-4 bg-transparent text-text-primary text-lg font-bold placeholder-text-secondary/50 focus:outline-none"
+                          placeholder={
+                            question.correct_answer === "*"
+                              ? "Type your descriptive answer / notes here..."
+                              : "Type your numeric answer here..."
+                          }
+                          className="w-full px-4 py-3 bg-bg-main border border-border-subtle rounded-xl text-text-primary text-base font-medium focus:border-teal-500 focus:outline-none"
                         />
-                      </div>
-                      {!isAnswered && (
-                        <button
-                          onClick={() => {
-                            const val = selectedOptions[question.id] || "";
-                            if (val.trim() !== "") {
-                              handleOptionSelect(val);
+                        {!isAnswered && (
+                          <button
+                            onClick={() => {
+                              const val = selectedOptions[question.id] || "";
+                              if (val.trim() !== "") handleOptionSelect(val);
+                            }}
+                            disabled={
+                              !(selectedOptions[question.id] || "").trim()
                             }
-                          }}
-                          disabled={!(selectedOptions[question.id] || "").trim()}
-                          className="px-6 py-3 bg-accent-main hover:opacity-90 disabled:opacity-50 text-white font-bold rounded-xl uppercase tracking-widest text-xs transition-opacity shadow-md shadow-teal-500/20"
-                        >
-                          Check Answer
-                        </button>
-                      )}
-                      {isAnswered && (
-                        <div className={`p-4 rounded-xl border ${isCorrect ? 'bg-emerald-50 border-emerald-200 dark:bg-emerald-900/10 dark:border-emerald-900/50 text-emerald-700 dark:text-emerald-400' : 'bg-rose-50 border-rose-200 dark:bg-rose-900/10 dark:border-rose-900/50 text-rose-700 dark:text-rose-400'} font-bold flex items-center space-x-3`}>
-                          {isCorrect ? <CheckCircle2 className="w-5 h-5 text-emerald-500" /> : <XCircle className="w-5 h-5 text-rose-500" />}
-                          <span>{isCorrect ? "Correct!" : "Incorrect"}</span>
-                        </div>
-                      )}
-                      {isAnswered && question.correct_answer && (
-                        <div className="p-4 rounded-xl bg-teal-500/10 border border-teal-500/20">
-                          <div className="text-[10px] font-black uppercase tracking-widest text-teal-600 dark:text-teal-500 mb-1">Correct Answer</div>
-                          <div className="flex items-start space-x-2">
-                            <CheckCircle2 className="w-5 h-5 text-teal-500 shrink-0 mt-0.5" />
-                            <span className="font-bold text-teal-700 dark:text-teal-400">{question.correct_answer}</span>
+                            className="px-5 py-2.5 bg-teal-600 hover:bg-teal-700 disabled:opacity-45 text-white text-xs sm:text-sm font-semibold rounded-xl tab-click-anim"
+                          >
+                            Check Answer
+                          </button>
+                        )}
+                        {isAnswered && question.correct_answer && (
+                          <div className="p-3.5 rounded-xl bg-teal-500/10 border border-teal-500/25 flex items-center gap-2 text-sm">
+                            <CheckCircle2 className="w-4 h-4 text-teal-600 shrink-0" />
+                            <span className="font-semibold text-teal-700 dark:text-teal-300">
+                              Official Answer: {question.correct_answer}
+                            </span>
                           </div>
-                        </div>
-                      )}
-                    </div>
-                  );
-                }
-                return (
-                  <div className="space-y-3 md:space-y-4">
-                    {question.options.map((option, idx) => {
-                      const isSelected = userChoice === option;
-                      const isActualCorrect = compareAnswers(option, question.correct_answer);
-                      
-                      let btnStateClasses = "bg-bg-main border-border-subtle hover:border-accent-main text-text-primary";
-                      
-                      if (isAnswered) {
-                        if (isActualCorrect) {
-                          btnStateClasses = "bg-emerald-50 dark:bg-emerald-900/20 border-emerald-500 text-emerald-700 dark:text-emerald-400 font-bold";
-                        } else if (isSelected) {
-                          btnStateClasses = "bg-rose-50 dark:bg-rose-900/20 border-rose-500 text-rose-700 dark:text-rose-400 font-bold";
-                        } else {
-                          btnStateClasses = "bg-bg-main border-border-subtle opacity-50";
-                        }
-                      } else if (isSelected) {
-                        btnStateClasses = "bg-teal-50 dark:bg-teal-900/20 border-accent-main text-accent-main font-bold";
-                      }
+                        )}
+                      </div>
+                    ) : (
+                      <div className="space-y-2.5 max-w-3xl">
+                        {question.options.map((option, idx) => {
+                          const isSelected = userChoice === option;
+                          const isActualCorrect = compareAnswers(
+                            option,
+                            question.correct_answer
+                          );
 
-                      return (
-                        <button
-                          key={idx}
-                          onClick={() => handleOptionSelect(option)}
-                          disabled={isAnswered}
-                          className={`w-full text-left p-4 rounded-xl border-2 transition-all flex items-center justify-between ${btnStateClasses} ${!isAnswered && 'hover:-translate-y-0.5 shadow-sm hover:shadow-md'}`}
-                        >
-                          <span className="flex-1" dangerouslySetInnerHTML={{ __html: option }} />
-                          {isAnswered && isActualCorrect && <CheckCircle2 className="w-5 h-5 text-emerald-500 ml-2 shrink-0" />}
-                          {isAnswered && isSelected && !isActualCorrect && <XCircle className="w-5 h-5 text-rose-500 ml-2 shrink-0" />}
-                        </button>
-                      );
-                    })}
-                  </div>
+                          let rowClasses =
+                            "bg-bg-main/40 border-border-subtle hover:bg-bg-main hover:border-teal-500/45 text-text-primary";
+                          let badgeClasses =
+                            "bg-bg-card border-border-subtle text-text-secondary";
+
+                          if (isAnswered) {
+                            if (isActualCorrect) {
+                              rowClasses =
+                                "bg-emerald-500/10 border-emerald-500 text-text-primary font-medium";
+                              badgeClasses =
+                                "bg-emerald-500 border-emerald-500 text-white";
+                            } else if (isSelected) {
+                              rowClasses =
+                                "bg-rose-500/10 border-rose-500 text-text-primary font-medium";
+                              badgeClasses =
+                                "bg-rose-500 border-rose-500 text-white";
+                            } else {
+                              rowClasses =
+                                "bg-bg-main/20 border-border-subtle opacity-55 text-text-secondary";
+                            }
+                          } else if (isSelected) {
+                            rowClasses =
+                              "bg-teal-500/10 border-teal-500 text-text-primary font-medium";
+                            badgeClasses =
+                              "bg-teal-600 border-teal-600 text-white";
+                          }
+
+                          return (
+                            <button
+                              key={idx}
+                              onClick={() => handleOptionSelect(option)}
+                              disabled={isAnswered}
+                              className={`w-full text-left px-4 py-3.5 rounded-xl border transition-all tab-click-anim flex items-start gap-3.5 ${rowClasses}`}
+                            >
+                              <span
+                                className={`w-6 h-6 rounded-full border flex items-center justify-center text-xs font-semibold shrink-0 mt-0.5 ${badgeClasses}`}
+                              >
+                                {optionLetters[idx] || idx + 1}
+                              </span>
+                              <span
+                                className="flex-1 text-sm sm:text-[15px] leading-relaxed"
+                                dangerouslySetInnerHTML={{ __html: option }}
+                              />
+                              {isAnswered && isActualCorrect && (
+                                <CheckCircle2 className="w-5 h-5 text-emerald-500 shrink-0 mt-0.5" />
+                              )}
+                              {isAnswered && isSelected && !isActualCorrect && (
+                                <XCircle className="w-5 h-5 text-rose-500 shrink-0 mt-0.5" />
+                              )}
+                            </button>
+                          );
+                        })}
+                      </div>
+                    )}
+                  </>
                 );
               })()}
-            </div>
-            <ReportIssueButton
-              questionId={`${exam}_${year}_${question.id}`}
-              questionNumber={currentIndex + 1}
-              examName={exam}
-              year={year}
-              questionText={question.question}
-              correctAnswer={question.correct_answer}
-              sourceType="pyq"
-            />
-          </div>
 
-          {/* Explanation Area */}
-          {isAnswered && (
-            <div className={`p-6 rounded-[2rem] border-2 animate-in slide-in-from-bottom-4 duration-300 ${isCorrect ? 'bg-emerald-50 border-emerald-200 dark:bg-emerald-900/10 dark:border-emerald-900/50' : 'bg-rose-50 border-rose-200 dark:bg-rose-900/10 dark:border-rose-900/50'}`}>
-              <div className="flex items-center space-x-2 mb-3">
-                {isCorrect ? (
-                  <><CheckCircle2 className="w-6 h-6 text-emerald-600 dark:text-emerald-400" /><h3 className="font-black text-emerald-800 dark:text-emerald-300 uppercase tracking-widest text-sm">Correct!</h3></>
+              {/* Quick Solution / Re-attempt Action */}
+              <div className="flex flex-wrap items-center gap-2.5 pt-1">
+                {!isAnswered ? (
+                  <button
+                    onClick={handleRevealSolution}
+                    className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl border border-teal-500/35 bg-teal-500/8 hover:bg-teal-500/15 text-teal-700 dark:text-teal-300 text-xs sm:text-sm font-semibold tab-click-anim"
+                  >
+                    <Eye className="w-4 h-4" />
+                    <span>View Solution</span>
+                  </button>
                 ) : (
-                  <><XCircle className="w-6 h-6 text-rose-600 dark:text-rose-400" /><h3 className="font-black text-rose-800 dark:text-rose-300 uppercase tracking-widest text-sm">Incorrect</h3></>
+                  <button
+                    onClick={handleReattemptQuestion}
+                    className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl border border-border-subtle bg-bg-main hover:bg-bg-card text-text-secondary hover:text-text-primary text-xs sm:text-sm font-medium tab-click-anim"
+                  >
+                    <RotateCcw className="w-3.5 h-3.5" />
+                    <span>Re-attempt Question</span>
+                  </button>
                 )}
               </div>
-              <div className="text-text-primary font-medium text-sm md:text-base leading-relaxed opacity-90 w-full">
-                <StructuredExplanation explanation={question.explanation} />
-              </div>
-            </div>
-          )}
 
-          {/* Navigation Controls */}
-          <div className="flex items-center justify-between pt-6 border-t border-border-subtle">
-            <button
-              onClick={goBack}
-              disabled={currentIndex === 0}
-              className="flex items-center px-6 py-3 bg-bg-card border border-border-subtle rounded-xl font-bold uppercase tracking-widest text-xs disabled:opacity-50 hover:bg-bg-main transition-colors shadow-sm"
-            >
-              <ChevronLeft className="w-4 h-4 mr-2" /> Back
-            </button>
-            
-            <button
-              onClick={goNext}
-              disabled={currentIndex === filteredQuestions.length - 1}
-              className="flex items-center px-6 py-3 bg-text-primary text-bg-card rounded-xl font-black uppercase tracking-widest text-xs disabled:opacity-50 hover:opacity-90 transition-opacity shadow-md"
-            >
-              Next <ChevronRight className="w-4 h-4 ml-2" />
-            </button>
+              {/* Structured Explanation Box */}
+              {isAnswered && (
+                <div
+                  className={`p-5 sm:p-6 rounded-2xl border animate-pop-in ${
+                    userChoice === undefined
+                      ? "bg-bg-main/60 border-border-subtle"
+                      : isCorrect
+                      ? "bg-emerald-500/8 border-emerald-500/30"
+                      : "bg-rose-500/8 border-rose-500/30"
+                  }`}
+                >
+                  <div className="flex items-center gap-2 mb-3">
+                    {userChoice === undefined ? (
+                      <>
+                        <Eye className="w-5 h-5 text-teal-600 dark:text-teal-400" />
+                        <h3 className="font-bold text-text-primary text-sm">
+                          Solution & Concept Breakdown
+                        </h3>
+                      </>
+                    ) : isCorrect ? (
+                      <>
+                        <CheckCircle2 className="w-5 h-5 text-emerald-500" />
+                        <h3 className="font-bold text-emerald-700 dark:text-emerald-300 text-sm">
+                          Correct Answer
+                        </h3>
+                      </>
+                    ) : (
+                      <>
+                        <XCircle className="w-5 h-5 text-rose-500" />
+                        <h3 className="font-bold text-rose-700 dark:text-rose-300 text-sm">
+                          Incorrect Attempt
+                        </h3>
+                      </>
+                    )}
+                  </div>
+                  <div className="text-text-primary text-sm sm:text-[15px] leading-relaxed w-full">
+                    <StructuredExplanation explanation={question.explanation} />
+                  </div>
+                </div>
+              )}
+            </div>
+
+            {/* Bottom Navigation Bar */}
+            <div className="px-4 sm:px-7 py-3.5 border-t border-border-subtle bg-bg-main/40 flex items-center justify-between gap-3">
+              <button
+                onClick={goBack}
+                disabled={currentIndex === 0}
+                className="inline-flex items-center gap-1.5 px-4 py-2 bg-bg-card border border-border-subtle rounded-xl text-xs sm:text-sm font-medium text-text-primary hover:bg-bg-main disabled:opacity-45 disabled:cursor-not-allowed tab-click-anim"
+              >
+                <ChevronLeft className="w-4 h-4" />
+                <span>Previous</span>
+              </button>
+
+              <span className="text-xs text-text-secondary hidden sm:inline">
+                {currentIndex + 1} / {filteredQuestions.length}
+              </span>
+
+              <button
+                onClick={goNext}
+                disabled={currentIndex === filteredQuestions.length - 1}
+                className="inline-flex items-center gap-1.5 px-4 sm:px-5 py-2 bg-teal-600 hover:bg-teal-700 text-white rounded-xl text-xs sm:text-sm font-semibold disabled:opacity-45 disabled:cursor-not-allowed tab-click-anim shadow-sm"
+              >
+                <span>Next</span>
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            </div>
           </div>
-        </>
+
+          {/* Desktop Collapsible Right Palette */}
+          {!isPaletteCollapsed && (
+            <aside className="hidden lg:block w-[290px] xl:w-[310px] shrink-0 bg-bg-card rounded-2xl border border-border-subtle shadow-sm overflow-hidden sticky top-20 animate-pop-in">
+              <PaletteBody />
+            </aside>
+          )}
+        </div>
+      )}
+
+      {/* Mobile Slide-Over Palette Drawer */}
+      {isMobilePaletteOpen && (
+        <div className="fixed inset-0 z-50 lg:hidden flex justify-end">
+          <div
+            className="absolute inset-0 bg-slate-950/60 backdrop-blur-sm"
+            onClick={() => setIsMobilePaletteOpen(false)}
+          />
+          <div className="relative w-80 max-w-[85vw] bg-bg-card h-full shadow-2xl border-l border-border-subtle flex flex-col animate-slide-in-right pt-[env(safe-area-inset-top)]">
+            <div className="px-4 py-3.5 border-b border-border-subtle flex items-center justify-between">
+              <span className="font-bold text-sm text-text-primary">
+                Question Palette
+              </span>
+              <button
+                onClick={() => setIsMobilePaletteOpen(false)}
+                className="p-1.5 rounded-lg text-text-secondary hover:text-text-primary hover:bg-bg-main"
+              >
+                <X className="w-4 h-4" />
+              </button>
+            </div>
+            <PaletteBody onPick={() => setIsMobilePaletteOpen(false)} />
+          </div>
+        </div>
       )}
     </div>
   );
